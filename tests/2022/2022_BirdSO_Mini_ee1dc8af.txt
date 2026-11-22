@@ -1,0 +1,262 @@
+BirdSO Mini — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  88 questions, 253.0 pts
+Source: scio.ly test archive id ee1dc8af-636a-4eb4-a453-0ccf7e206eed  |  original files: https://drive.google.com/drive/folders/1eHOvpZwVkNuVwr7Z0jGlepgIJDt3e0dG
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Welcome to Disease Detectives! This test will have 253 points. It is 88 questions long and distributed into 4 sections, with point distributions as follows:
+Section I: 39 points
+Section II: 55 points
+Section III: 68 points
+Section IV: 91 points
+This test is designed to test your problem-solving and creative thinking skills in applying epidemiological concepts in various scenarios.
+The four sections focus on four different health events that fall within the jurisdiction of epidemiology.
+Round to 3 decimal places for all calculations. This includes percentages. For example, 11.111% would be considered as rounded to 3 decimal places.
+Reference notes for this event should be PRINTED. However, each individual in a partner pair may have their own unique page of notes. Out-of-browser time will be monitored for this event.
+Tiebreakers are listed in order as follows: 55, 46, 24, 54, 61, 19, 33
+
+
+=== Section I: Impaired Driving ===
+
+[STIMULUS] Source: https://www.cdc.gov/mmwr/volumes/68/wr/mm6850a1.htm
+
+In 2018, there were an estimated 10,511 driving deaths that stemmed from impairedness from alcohol. Car crashes are one of the leading causes of death in the US and the greatest non-natural cause of death. The contribution of crashes stemming from marijuana and other related illicit substances to impaired driving deaths is relatively unknown. In a study in 2018, the prevalence of driving under the influence of marijuana and other illicit drugs was studied for people over the age of 16. These results were examined by age group, sex, and race/ethnicity.
+
+1. [frq, 2 pt] Why might this study have only included people over the age of 16?
+
+[STIMULUS] The National Survey on Drug Use and Health (NSDUH) from the Substance Abuse and Mental Health Services Administration collects annual data on the use of illicit drugs, alcohol, and tobacco among the US civilian population using a computer-assisted personal interviewing system.
+
+2. [frq, 5 pt] What kind of study is this? What are 2 advantages to this type of study?
+
+3. [frq, 4 pt] Define recall bias. How may it be applicable in this study?
+
+4. [frq, 8 pt] What other biases may be relevant to this study? Provide 2 examples, define them, and explain how they apply to this study.
+
+[STIMULUS] 47,570 unweighted responses were compiled in the NSDUH survey. The following table was compiled from the responses from the NSDUH survey:
+    [IMAGE: ../images/2022_birdso_mini_c__p3_55b345-30305dad.webp]
+
+5. [frq, 2 pt] What does it mean that the survey was unweighted?
+
+6. [frq, 1 pt] Which demographic was most likely to drive under the influence of marijuana?
+
+7. [frq, 1 pt] What epidemiological term describes the differences between these groups?
+
+8. [numeric, 2 pt] Calculate the prevalence ratio of driving under the influence of illicit drugs other than marijuana for a Black individual relative to any random individual in the US, given that the % prevalence for a weighted total US population is 0.9.
+
+9. [frq, 2 pt] Interpret the meaning of the prevalence ratio.
+
+10. [frq, 2 pt] What is the prevalence of driving while under the influence of only marijuana for males?
+
+[STIMULUS] Survey responses of those that reported driving a vehicle while under the influence of marijuana or other illicit substances were also stratified by age:
+    [IMAGE: ../images/2022_birdso_mini_c__p4_54fad5-98c9492c.webp]
+
+11. [frq, 1 pt] What is this type of graph called?
+
+12. [frq, 1 pt] Which age group is most likely to drive while under the influence of marijuana?
+
+13. [frq, 3 pt] If active surveillance were to be implemented where all drivers pulled over for unsafe driving behavior were tested for tetrahydrocannabinol (THC), the active compound in marijuana, how would the measured prevalence of impaired driving compare to the actual prevalence? Will it be an overestimate or an underestimate or neither? Why?
+
+14. [frq, 2 pt] Provide one example of a primary prevention measure that could be implemented to decrease the prevalence of driving under the influence of illicit substances?
+
+15. [frq, 3 pt] Is secondary prevention a feasible task for the risk factors involved in impaired driving? Explain.
+
+
+=== Section II: Salmonella ===
+
+[STIMULUS] Sources: https://www.cdc.gov/salmonella/poona-09-15/index.html, https://www.fda.gov/food/outbreaks-foodborne-illness/fda-investigated-multistate-outbreak-salmonella-poona-linked-cucumbers
+
+CDC PulseNet identified 907 people infected with a strain of Salmonella Poona across 40 states in 2015. Cases were reported to the CDC by various local public health departments. Investigated was coordinated between the CDC, multiple states, and the FDA. PulseNet is a CDC national laboratory system that performs genetic testing on potential outbreak strains. For people with available information, the onset of illness occurred from July 3, 2015, to February 29, 2016.
+
+Salmonella is a bacterial infection that presents with gastrointestinal symptoms between 12-72 hours after exposure to the bacteria. Signs and symptoms are primarily diarrhea, fever, and abdominal cramps and tend to last for 4-7 days. Most infected individuals recover without treatment.
+    [IMAGE: ../images/2022_birdso_mini_c__p5_a6014e-5f34280e.webp]
+
+16. [frq, 1 pt] What is this graph called?
+
+17. [frq, 1 pt] What type of outbreak is this initially?
+
+18. [frq, 4 pt] After the CDC recommended a recall of a potential source of illness, cases continued rising. Provide 2 explanations as to why this occurred.
+
+19. [frq, 2 pt] The later part of the outbreak appears to show a different pattern in comparison to the start. What has changed in the transmission of Salmonella throughout the outbreak?
+
+[STIMULUS] The first technique used by PulseNet and other laboratories to isolate potential outbreak strains is pulsed-field gel electrophoresis (PFGE), where an alternating electric field is applied to gel electrophoresis to differentiate and separate DNA molecules of large sizes. However, PFGE is sometimes not specific enough to detail mutants in potential outbreak strains.
+
+20. [frq, 1 pt] What lab technology should be utilized if PFGE does not give meaningful results?
+
+[STIMULUS] Further genetic testing was done and genetic sequence isolates from cases were shown to be related closely genetically. These isolates included cases in the peak of the outbreak as well as later in October, November, and January.
+
+21. [frq, 2 pt] What does the genetic similarity of the outbreak say about the source of the outbreak?
+
+[STIMULUS] Of the cases, 519 were interviewed, of which, 391 reported eating cucumbers. In comparison, according to the CDC FoodNet Atlas of Exposures Population Survey from 2006-2007, 47% of healthy people reported eating cucumbers in the week before they were interviewed.
+
+22. [frq, 1 pt] What type of study is this?
+
+23. [frq, 4 pt] Calculate the strength of association between eating cucumbers and contracting Salmonella. Explain what your result means.
+
+24. [frq, 3 pt] What is the major flaw in the design of this study?
+
+[STIMULUS] The characterization of the outbreak was further clarified by the presence of illness clusters. Across various clusters across various states, cucumbers were found to be a common item eaten by ill people. Investigators concluded that cucumbers distributed by Andrew and Williamson Fresh Produce were the probable cause of the outbreak.
+
+25. [frq, 2 pt] What is an illness cluster?
+
+26. [frq, 5 pt] Write a case definition for this outbreak.
+
+27. [frq, 1 pt] What is the next step for investigators to take?
+
+[STIMULUS] A major concern with bacterial infections is the growing rate of antibiotic-resistant bacteria. Primarily, antibiotic resistance is an acquired trait in healthcare settings and can be transmitted in healthcare environments. Antibiotic-resistant bacteria present a large risk in terms of morbidity and potential mortality in the difficulty of treating widespread infection of antibiotic-resistant strains.
+
+28. [frq, 1 pt] What is the term for a disease that is transmitted in a healthcare environment?
+
+29. [frq, 1 pt] How are antibiotic-resistant genes transmitted between bacteria?
+
+[STIMULUS] The CDC's National Antimicrobial Resistance Monitoring System (NARMS) laboratory tested 30 isolates of the outbreak strains for antibiotic resistance. Of those, only 2 were drug-resistant. One was resistant to tetracycline while the other was resistant to nalidixic acid and nonsusceptible to ciprofloxacin.
+
+30. [frq, 2 pt] What does nonsusceptible mean?
+
+31. [frq, 2 pt] What is a possible source of the different antibiotic resistance in the outbreak strains?
+
+[STIMULUS] Of the 907 cases, 204 were hospitalized and 6 deaths were recorded. For 2 of the three deaths, Salmonella infection was not considered to be a contributing factor.
+
+32. [numeric, 2 pt] What is the case-fatality rate per 100 people?
+
+33. [frq, 3 pt] Can the prevalence of Salmonella be determined in this study? Why or why not?
+
+34. [frq, 2 pt] Provide 2 groups of people that are most susceptible to severe illness
+
+35. [frq, 10 pt] List 5 potential guidelines that should be followed to limit the spread of Salmonella.
+
+36. [frq, 1 pt] Salmonella is part of the Nationally Notifiable Diseases Surveillance System (NNDSS). What type of surveillance does this system utilize?
+
+37. [frq, 4 pt] What are 2 advantages and disadvantages of this system?
+
+
+=== Section III: Cervical Cancer ===
+
+[STIMULUS] Source: https://www.cdc.gov/mmwr/volumes/68/wr/pdfs/mm6801a4-H.pdf
+
+In India, cervical cancer is the second leading cause of cancer deaths among women. Annually, there are an estimated 96,922 new cases and 60.078 deaths. The Fourth National Family Health Survey (NFHS-4) was a nationally representative survey completed in India at the district level in 2015-2016 that sampled 699,686 women aged 15-49 in urban and rural regions across India about cervical examinations. These results are shown in the following table:
+    [IMAGE: ../images/2022_birdso_mini_c__p9_1d6738-7456c138.webp]
+
+38. [frq, 1 pt] What type of study is this?
+
+39. [frq, 3 pt] Does it make sense for there to be a significant difference in rates of cervical cancer screening when stratifying responses by age group? Why?
+
+40. [frq, 2 pt] The increase in mortality from illnesses such as cancer and cardiovascular disease represents an epidemiological transition. What is the epidemiological transition theory?
+
+41. [frq, 2 pt] Who first proposed this theory and when?
+
+42. [frq, 2 pt] Based on the theory, what phase does cervical cancer fall into?
+
+43. [frq, 3 pt] Given the nature of the study, are these results likely to underestimate, overestimate, or accurately estimate the actual rate of cervical cancer screening? Why?
+
+44. [frq, 3 pt] Increased household wealth index and education level appear to be associated with increased cervical cancer screening prevalence. Why might this be the case?
+
+45. [frq, 3 pt] Are there significant differences in cervical cancer screening rates due to occupational status? Include specific evidence.
+
+46. [frq, 6 pt] What is the odds ratio associated with each higher education level?
+    
+    Note: you are tasked to calculate the odds ratio for each of the 3 education levels higher than "no education" separately. You should have 3 distinct values.
+
+47. [frq, 4 pt] Why might women aged >49 not be included in the study? Would this exclusion have a significant impact on the results of the study?
+
+[STIMULUS] Cervical cancer screening prevalence rates were also organized by region and compiled into the following figure:
+    [IMAGE: ../images/2022_birdso_mini_c__p11_456a6d-1581f4e0.webp]
+
+48. [frq, 1 pt] What is this type of map called?
+
+49. [frq, 2 pt] What is one disadvantage of this type of map in comparison to a spot map?
+
+50. [frq, 1 pt] Who was the first epidemiologist to use a spot map?
+
+51. [frq, 4 pt] Despite the disadvantages, what are two possible reasons why this type of map is preferred in this study?
+
+[STIMULUS] Suppose that a hypothetical laboratory called BirdSO Inc. has developed a new screening test for Human Papillomavirus (HPV), the primary cause of HPV, called the HPV-NoMore. 117 cervical cancer patients with a positive screening of HPV are tested using the new HPV-NoMore test. Of these 117 patients, 95 tested positive. Further, among 142 controls, 12 tested positive.
+
+52. [frq, 4 pt] What is the sensitivity of this test? Interpret your result.
+
+53. [frq, 4 pt] What is the positive predictive value of this test? Interpret your result.
+
+54. [frq, 4 pt] Given the nature of cervical cancer and HPV, is a more sensitive or a more specific test ideal? Explain.
+
+[STIMULUS] BirdSO Inc. has also developed a new branch of vaccine development, specifically for HPV. The new vaccine was administered in a double-blinded clinical trial where 266 volunteers were randomly assigned into two experimental groups. One group was administered the new BirdSO HPV Vaccine (BSOHPVV) while the other received the existing HPV vaccine, which has an efficacy rate of 98%. Among those who received the existing HPV vaccine, 4 contracted HPV. Of those who were administered BSOHPVV, 10 contracted HPV.
+
+55. [frq, 2 pt] What is the efficacy of BSOHPVV?
+
+56. [frq, 2 pt] Why might BSOHPVV be preferred over the existing HPV vaccine?
+
+57. [frq, 2 pt] What is the difference between efficacy and effectiveness?
+
+58. [frq, 2 pt] Suppose that BirdSO Inc. wishes to study the effectiveness of BSOHPVV. What conditions may be necessary in order for such a study to occur?
+
+59. [frq, 5 pt] What are five components of a good surveillance system?
+
+60. [frq, 3 pt] Differentiate between serial interval and incubation period. Which is typically longer?
+
+61. [frq, 2 pt] For cervical cancer and HPV, is vaccination considered a clinical approach or a public health approach? Explain.
+
+62. [frq, 1 pt] What is the period between onset of cervical cancer and exposure to HPV referred to as?
+
+
+=== Section IV: Clostridium perfringens ===
+
+[STIMULUS] Source: https://www.cdc.gov/mmwr/volumes/66/wr/mm6635a3.htm
+
+In September 2016, the Connecticut Department of Public Health was notified of a cluster of gastrointestinal illnesses among attendees of a catered lunch. Among the approximately 50 attendees, 30 filled out a survey. 19 respondents had symptoms of Clostridium perfringens infection, among whom 17 reported diarrhea, 15 reported abdominal pain, and 7 reported headaches.
+
+Survey respondents were then asked to provide a list of food items at the lunch that they consumed. The results are listed in the following table:
+    [IMAGE: ../images/2022_birdso_mini_c__p13_7153bf-af85aded.webp]
+
+63. [frq, 6 pt] Give 3 reasons why epidemiologists should investigate this outbreak.
+
+64. [frq, 5 pt] Write a case definition for this outbreak.
+
+65. [frq, 6 pt] Define agent, host, and environment and identify them in the context of this outbreak.
+
+66. [frq, 1 pt] What type of study is this?
+
+67. [frq, 2 pt] What is an advantage to this study design?
+
+68. [frq, 8 pt] Compute the missing strengths of association.
+    
+    Note: You are tasked to compute the values of "A", "B", "C", and "D" in the table
+
+69. [frq, 4 pt] What is the probable source of the outbreak? What is the strength of association of that item? Interpret it.
+
+70. [frq, 4 pt] Determine the attributable risk of eating muffins. Interpret the meaning of your result. Is this interpretation valid?
+
+71. [frq, 4 pt] Determine the number needed to harm (NNH) of eating tripe. Interpret the meaning of your result. Is this interpretation valid?
+
+72. [frq, 3 pt] What accounts for the difference in the number of initial survey responders and those that provided a food list? In which type of study is this problem most relevant?
+
+73. [frq, 1 pt] What part of the chain of infection does the food represent?
+
+74. [frq, 1 pt] What mode of transmission is involved in this outbreak?
+
+[STIMULUS] Investigators in the study further computed p-values to test for the significance of the association between eating various food items and falling ill. A Fisher's Exact Test was used
+
+75. [frq, 3 pt] Why may investigators have used a Fisher's Exact test instead of a Chi-square goodness of fit test?
+
+76. [frq, 4 pt] What is the rare disease assumption? How does it play a role in the interpretation of an odds ratio in this study?
+
+77. [frq, 4 pt] After p-values were computed, multiple food items had significant and approaching significant deviations. Propose 2 possible hypotheses as to why multiple foods were so significantly associated with illness.
+
+[STIMULUS] Having identified the likely contaminated food item at the lunch that led to the outbreak, epidemiologists were tasked to determine the cause of the outbreak at the caterer. The caterer had four food workers who reported no recent illness. However, all four workers were culture positive for Clostridium perfringens. Epidemiologists from the local health department established safety guidelines, which included ensuring that food workers washed their hands for a sufficient duration before returning to work from the restroom.
+
+78. [frq, 1 pt] What component of the chain of infection does this step break?
+
+79. [frq, 1 pt] What step of outbreak investigation does this fall under?
+
+80. [frq, 2 pt] What is an example of secondary prevention that is applicable to this outbreak?
+
+81. [frq, 3 pt] Are Koch's Postulates applicable in this case? Why or why not?
+
+82. [frq, 3 pt] How does colonization resistance play a role in this outbreak?
+
+83. [frq, 10 pt] What are the 9 Bradford Hill criteria (list and describe)? Do any of them fail in this outbreak? If so, which ones?
+
+84. [frq, 3 pt] Is misclassification bias relevant in this study? Why or why not?
+
+85. [frq, 6 pt] What are two other biases that may be relevant in this investigation? Explain.
+
+86. [frq, 1 pt] An epicurve was not created for this outbreak. However, if one were, what would the shape look like?
+
+87. [frq, 1 pt] If the outbreak were uncontrolled and spread from the initial cases, what shape would the epicurve take on?
+
+88. [frq, 4 pt] Epicurves, though useful, are not perfect. What are 2 potential problems that epicurves have in reporting the distribution of cases of time in an outbreak?

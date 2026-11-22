@@ -1,0 +1,168 @@
+Columbia — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  39 questions, 51.0 pts
+Source: scio.ly test archive id 7aba4ff1-1906-40c2-ab73-a365d2c79b7f  |  original files: https://drive.google.com/drive/folders/1UnIYG3oc2AJM0BLle2bt4m4GwgtdloyA
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Part I: Breast cancer. ===
+
+[STIMULUS] Breast cancer is the third most common type of cancer overall, and the most common in women. About 10% of cases may be attributed directly to genetic influence, but the causes of the other 90% of cases are unclear. Several human cancers have been traced to viral infections, and for some time it has been known that breast cancer in mice is caused by a virus which is transmitted in milk. While no similar viruses have been discovered in human milk, modern humans drink more milk from cows than from other humans. The most common oncogenic virus is cattle is the Bovine Leukemia Virus, which is endemic in US cattle and can also infect sheep. While only about 5% of cows will become symptomatic, BLV is often expressed in the milk and other tissues of asymptomatic animals. While clinical trials on sheep indicate that pasteurization renders BLV noninfectious, researchers at the University of California investigated the possibility that BLV was still somehow implicated in human breast cancer. To this end, they obtained breast tissue that had been donated by 239 women to the Cooperative Human Tissue Network after either mastectomy or reductive mammoplasty. All samples were donated between 2002 and 2008 in four catchment areas, which included Alabama, California, Ohio and Pennsylvania. 114 samples came from women with a diagnosis of invasive breast cancer, and 104 samples came from women with no cancer diagnosis. All of the samples were examined by a pathologist, who confirmed all of the original cancer diagnoses and also found pre-malignant breast cancer in 21 of the other samples. All samples were tested for BLV with in situ PCR. Results from the 114 diagnosed patients and the 104 clean samples are shown below as Table 1. Of the 21 premalignant samples with no diagnosis, 8 tested positive for BLV.
+    |  | Cancer diagnosis | No diagnosis | Totals |
+    | BLV + | 67 | 30 | 97 |
+    | BLV - | 47 | 74 | 121 |
+
+1. [frq, 1 pt] What type of study is this?
+
+2. [frq, 1 pt] Why were samples from women with no history of cancer included in the study?
+
+3. [frq, 1 pt] What scientific term is used to describe subjects such as the women with no history of cancer?
+
+4. [frq, 3 pt] Develop a case definition for this study.
+
+5. [frq, 1 pt] Why did researchers use preserved tissue samples rather than live human subjects?
+
+6. [frq, 1 pt] What does PCR stand for?
+
+7. [frq, 1 pt] What term is used to describe diseases such as BLV that may be transmitted from animals to humans?
+
+8. [frq, 2 pt] What measure of risk is most appropriate to this study and why?
+
+9. [frq, 3 pt] Calculate the odds ratio of BLV exposure for women with a cancer diagnosis as compared to women with no diagnosis and a negative pathology report.
+
+10. [frq, 1 pt] Calculate the prevalence of BLV among the three categories of tissue samples.
+
+11. [frq, 1 pt] Does this study support a possible connection between BLV and breast cancer in humans? Explain.
+
+12. [frq, 1 pt] What is pasteurization?
+
+13. [frq, 1 pt] Given that pasteurization appears to render BLV non-infectious, suggest two plausible mechanisms by which the 97 women in this study might have ended up with a positive test result.
+
+14. [frq, 1 pt] If the hypothesis that BLV causes breast cancer in humans, how could you explain the finding that some women with no evidence of cancer test positive for BLV?
+
+15. [frq, 1 pt] What would you say is the most important potential source of systematic error in this study?
+
+TB1. [frq, 1 pt] Apply Hill's Criteria to this study, indicating which are at least partially satisfied and which require further evidence.
+
+
+=== Part II. ===
+
+[STIMULUS] On November 18, 2003, the Oakland County Health Division alerted the Michigan Department of Community Health (MDCH) to a chicken pox outbreak in a kindergarten--third grade elementary school. On December 11, MDCH and Oakland County public health epidemiologists in collaboration with the CDC began an investigation. Questionnaires were sent to the parents of all enrolled students inquiring about any symptoms experienced during the period in question, whether and when the student had been vaccinated against varicella zoster and about any prior episodes of chicken pox in the student's history. A follow-up phone call was made to the parents of all students who experienced a maculopapulovesicular rash and who had attended the school between September 1 and December 19 to collect more detailed information. Patients who had experienced fewer than 50 lesions were characterized as mild cases; the remainder were considered moderate or severe. Reported vaccination status was confirmed through medical records. The varicella vaccine may take up to 42 days to be effective and should not be administered in the first year of life. Of the 580 students in the school, 26 did not return the survey. Of those who did, 62 reported that they had not vaccinated their child, of which 47 had a previous case of chicken pox and two were uncertain about their child's disease history. Of the remaining 13 students, ten had come down with chicken pox in the previous month, eight of which had cases rated as moderate or severe. Seven of the 492 self-reported vaccinations could not be verified. Of the 485 students with verified vaccination history, 43 had otherwise incomplete information or a vaccination that was either too early or too recent and were therefore excluded. There were 52 cases of chicken pox among the 442 vaccinated students who returned complete information, eight of which had cases rated as moderate or severe.
+
+16. [frq, 2 pt] What type of study is this?
+
+17. [mcq, 1 pt] The reporting of chicken pox cases to state and local authorities by the school and to the CDC by the state constitutes an example of ____.
+    A) clinical epidemiology
+    B) bioinformatics
+    C) population epidemiology
+    D) public health surveillance
+    E) primary intervention
+
+18. [frq, 1 pt] What is the relationship between varicella zoster and chicken pox?
+
+20. [frq, 1 pt] What was the response rate for this survey?
+
+21. [frq, 1 pt] Why are response rates important in epidemiology?
+
+22. [frq, 1 pt] Calculate the vaccine coverage rate for this school.
+
+23. [frq, 2 pt] Calculate the attack rates for the vaccinated and unvaccinated population of the school.
+
+24. [frq, 2 pt] Calculate the relative risk of chicken pox for the unvaccinated population without prior disease as compared to the vaccinated population.
+
+25. [frq, 2 pt] Calculate the relative risk of moderate to severe chicken pox for the unvaccinated population as compared to the vaccinated population.
+
+26. [frq, 4 pt] Calculate the efficacy of the vaccine in preventing any chicken pox and in preventing moderate to severe chicken pox.
+
+27. [mcq, 1 pt] Grading severity of illness from mild to severe forms an example of
+    A) Chain of Infection
+    B) Spectrum of Disease
+    C) Bioinformatics
+    D) epidemiology
+    E) Public Health Surveillance
+
+28. [frq, 1 pt] What epidemiological term is used to describe graphs such as the figure at right?
+    [IMAGE: ../images/2019_columbia_c__p3_4734d4-ab364039.webp]
+
+29. [frq, 1 pt] What term is used to describe the student who became ill of November 5th?
+    [IMAGE: ../images/2019_columbia_c__p3_4734d4-ab364039.webp]
+
+
+=== Part III ===
+
+[STIMULUS] For questions 30-36, choose the word or phrase from the bank at right which best fits the element below in the context of the transmission of influenza from Bob to Doug.
+
+a. Agent
+b. Fomite
+c. Means of transmission
+d. Portal of entry
+e. Portal of exit
+f. Reservoir
+g. Susceptible host
+
+30. [mcq, 1 pt] Bob's nose
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+31. [mcq, 1 pt] Doug's nose
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+32. [mcq, 1 pt] Bob's used tissue
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+33. [mcq, 1 pt] H1N1
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+34. [mcq, 1 pt] Bob's sneeze
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+35. [mcq, 1 pt] Bob
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+36. [mcq, 1 pt] Doug
+    A) Agent
+    B) Fomite
+    C) Means of transmission
+    D) Portal of entry
+    E) Portal of exit
+    F) Reservoir
+    G) Susceptible host
+
+37. [frq, 1 pt] What is R0, in epidemiology?
+
+38. [frq, 1 pt] Why do diseases with R0>1 not infect the entire world?
+
+39. [frq, 1 pt] How can the effective reproduction rate R be calculated from R0?

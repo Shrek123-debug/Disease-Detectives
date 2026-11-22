@@ -1,0 +1,502 @@
+South Forsyth — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  65 questions, 97.0 pts
+Source: scio.ly test archive id ee5d6801-35e9-4861-80dd-801733663b7e  |  original files: https://drive.google.com/drive/folders/1xi60CA_4hfZa1bR0zMTMU5r5TY6Nxhdo
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+
+=== Epidemiology Terms ===
+
+[STIMULUS] Match the term with the definition. Not all terms are used.
+
+a. Outbreak
+b. Bias
+c. Vector
+d. Pandemic
+e. Syndemic
+f. Epidemic
+g. Virulence
+h. Mortality Rate
+i. Pathogenicity
+j. Etiology
+k. Epidemiology
+l. Host
+m. Agent
+n. Environment
+
+1. [mcq, 1 pt] An occurrence of a disease that occurs over a wide geographic area and typically affects a significant proportion of the population.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+2. [mcq, 1 pt] A set of linked health problems involving two or more afflictions, interacting synergistically, and contributing to excess burden of disease in a population.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+3. [mcq, 1 pt] More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+4. [mcq, 1 pt] The study of the causes of diseases.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+5. [mcq, 1 pt] A factor essential for a disease or injury to occur.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+6. [mcq, 1 pt] A systematic deviation from the truth.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+7. [mcq, 1 pt] The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+8. [mcq, 1 pt] Measure of the frequency of occurrence of death in a defined population during a specified interval.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+10. [mcq, 1 pt] The degree of damage caused by a microbe.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+11. [mcq, 1 pt] A person that is susceptible to an infectious agent.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+12. [mcq, 1 pt] A mosquito, rat and lice are examples.
+    A) Outbreak
+    B) Bias
+    C) Vector
+    D) Pandemic
+    E) Syndemic
+    F) Epidemic
+    G) Virulence
+    H) Mortality Rate
+    I) Pathogenicity
+    J) Etiology
+    K) Epidemiology
+    L) Host
+    M) Agent
+    N) Environment
+
+
+=== Multiple Choice ===
+
+13. [multi, 2 pt] Which of the following are disease agents that cause disease in humans?
+    A) Chemical agents
+    B) Nuclear agents
+    C) Biological agents
+    D) Surface agents
+    E) Conductive agents
+
+14. [mcq, 1 pt] The period where signs and symptoms increase is called:
+    A) Escalation
+    B) Elaboration
+    C) Exacerbation
+    D) Exaggeration
+    E) Extension
+
+15. [mcq, 1 pt] Immunity that is acquired by an antibody that is produced in another host (i.e. parent to baby)
+    A) Active Immunity
+    B) Herd Immunity
+    C) Passive Immunity
+    D) Innate Immunity
+    E) Adaptive Immunity
+
+16. [mcq, 1 pt] An example of vertical transmission is:
+    A) Passing an agent from one student to another
+    B) Passing an agent from a child to parent while being cared for
+    C) Passing an agent from an animal to human
+    D) Passing an agent from a mother to child through breastfeeding
+    E) Passing an agent from human to animal
+
+17. [multi, 3 pt] Epidemiologists use three pieces of information to characterize an outbreak. What are they?
+    A) Person
+    B) Responsible Government Organization
+    C) Place
+    D) Time
+    E) Agent Type
+    F) Size of Population
+
+18. [mcq, 1 pt] A psychiatrist meeting with a patient suffering from schizophrenia is an example of which health care approach:
+    A) Public Health Approach
+    B) Mental Health Approach
+    C) Patient Health Approach
+    D) Clinical Health Approach
+    E) Delayed Health Approach
+
+
+=== Bradford Hill Criteria ===
+
+[STIMULUS] Hill’s Criteria for Causation are principles that can be useful in establishing epidemiologic evidence of a causal relationship between a presumed cause and an observed. Those principles are:
+
+a. Strength of the association.
+b. Consistency of findings.
+c. Specificity of the association.
+d. Temporal sequence of association.
+e. Biological gradient.
+f. Biological plausibility.
+g. Coherence.
+h. Experiment.
+i. Analogy
+
+Identify the criteria (by its letter) that each statement satisfies.
+
+24. [mcq, 2 pt] Several students reported diarrhea and vomiting a few hours after eating lunch in the school cafeteria.
+    A) Strength of the association.
+    B) Consistency of findings.
+    C) Specificity of the association.
+    D) Temporal sequence of association.
+    E) Biological gradient.
+    F) Biological plausibility.
+    G) Coherence.
+    H) Experiment.
+    I) Analogy
+
+25. [mcq, 2 pt] A study regarding teachers found that those who spent more time in a library where black mold was present had a higher occurrence of respiratory problems.
+    A) Strength of the association.
+    B) Consistency of findings.
+    C) Specificity of the association.
+    D) Temporal sequence of association.
+    E) Biological gradient.
+    F) Biological plausibility.
+    G) Coherence.
+    H) Experiment.
+    I) Analogy
+
+26. [mcq, 2 pt] Those that are smokers in a given population were 500 times more likely to develop lung cancer.
+    A) Strength of the association.
+    B) Consistency of findings.
+    C) Specificity of the association.
+    D) Temporal sequence of association.
+    E) Biological gradient.
+    F) Biological plausibility.
+    G) Coherence.
+    H) Experiment.
+    I) Analogy
+
+
+=== Short Answer ===
+
+27. [frq, 1 pt] A ____ is the effect of a health problem that can be observed by someone else.
+
+28. [frq, 1 pt] A ____ is an effect noticed and experienced only by the person with the condition.
+
+29. [frq, 1 pt] Diagnosing and treating individuals is known as the ____ approach to health care. It includes immunizations, smoking cessation, and prescribing medicine for an ailment.
+
+30. [frq, 1 pt] The treatment and prevention of disease in populations or groups of individuals is known as the ____ approach to health care. This includes awareness programs to reduce smoking or encourage healthy eating.
+
+31. [frq, 1 pt] ____ is the ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those responsible for prevention and control.
+
+
+=== Natural History of Disease ===
+
+[STIMULUS] In January, Disease Detectives Coach Mr. Stevens started hearing about a new disease called Covid-19. By late February concerns were growing about the disease and there were discussions about not going to the regional Science Olympiad competition, however the decision was made to attend, and Mr. Stevens was able to proctor the Disease Detectives event.
+
+Shortly after returning from the competition, all teams were informed that one of the competitors has tested positive. The student testing positive competed in Boomilever, Anatomy, Disease Detectives and Dynamic Planet.
+
+On March 12th, Mr. Stevens developed a fever and noticed a loss of smell. It was mild at first so he wasn’t worried, but by the 14th his symptoms had gotten worse so he phoned his doctor. His doctor recommended he be tested for Covid-19. The test was performed by driving through the hospital parking lot and being tested from his car. The test came back positive later that day. Mr. Stevens was told to quarantine at home and inform his doctor if the symptoms worsened. On March 19th, his breathing became difficult and he was admitted to the hospital. Two days later on the 21st he was unable to breathe on his own and was placed on a respirator in the ICU. After 6 days, on the 27th, he was once again able to breathe on his own and was taken off the respirator. On the 29th, he was moved out of the ICU into a regular hospital bed where he continued to improve. On April 4th, he was released from the hospital and returned home to recover.
+
+Answer the following questions about the natural history of Covid-19 based on the story above.
+    [IMAGE: ../images/2021_south_forsyth_c__d_d267c0-41ea098f.webp]
+
+32. [mcq, 1 pt] The Onset of Symptoms occurred on:
+    A) March 7th
+    B) March 12th
+    C) March 14th
+    D) March 19th
+    E) March 21st
+
+33. [mcq, 1 pt] The Time of Diagnosis occurred:
+    A) March 7th
+    B) March 12th – March 14th
+    C) March 14th
+    D) March 19th – March 21st
+    E) March 21st
+
+34. [mcq, 1 pt] The Stage of Susceptibility runs from:
+    A) Early January to March 7th
+    B) Early January to March 12th
+    C) March 7th to March 12th
+    D) March 12th to March 14th
+    E) March 12th to April 4th
+
+35. [mcq, 1 pt] The Stage of Subclinical Disease runs from:
+    A) Early January to March 7th
+    B) Early January to March 12th
+    C) March 7th to March 12th
+    D) March 12th to March 14th
+    E) March 12th to April 4th
+
+37. [mcq, 1 pt] Pathological changes occur during:
+    A) The Stage of Clinical Disease
+    B) The Stage of Susceptibility
+    C) The Stage of Recovery
+    D) The Stage of Reinfection
+    E) The Stage of Subclinical Disease
+
+38. [mcq, 1 pt] The incubation period was from:
+    A) Early January to March 7th
+    B) Early January to March 12th
+    C) March 7th to March 12th
+    D) March 12th to March 14th
+    E) March 12th to April 4th
+
+39. [mcq, 1 pt] Mr. Stevens loss of smell was a/an:
+    A) Indicator
+    B) Sign
+    C) Forewarning
+    D) Symptom
+    E) Marker
+
+40. [frq, 2 pt] Describe a likely scenario and possible mode of transmission of how Mr. Stevens was infected at the Regional competition.
+
+
+=== Covid-19 ===
+
+41. [frq, 1 pt] The first case of pneumonia, now identified as caused by the novel coronavirus, the SARS-CoV-2 virus, were reported in December 2020 in (specific location) ____.
+
+42. [frq, 1 pt] Researchers examining two sublineages of the SARS-CoV-2 genome theorize the virus originated in (animal) ____ then passed through an intermediary animal (some scientists have suggested the pangolin, one of the most trafficked mammals).
+
+43. [frq, 1 pt] What is the latin name of the pangolin?
+
+44. [frq, 1 pt] The virus infects humans by binding to our ____, found in the heart and lung cells.
+
+45. [mcq, 1 pt] The most common mode of transmission for Covid-19 is:
+    A) Contact Transmission via liquid droplets
+    B) Automatic Transmission via liquid droplets
+    C) Vehicle Transmission via air particles
+    D) Vector Transmission via air particles
+    E) Exponential Transmission via liquid droplets
+
+46. [frq, 3 pt] Name three things you can do to prevent the spread of Covid-19.
+
+47. [multi, 3 pt] Which of the following are symptoms of Covid-19?
+    A) Fever
+    B) Diminished sense of hearing
+    C) Cough
+    D) Loss of taste or smell
+    E) Scalp rash
+    F) Rapid respiration rate
+
+48. [frq, 2 pt] What does SARS stand for?
+
+
+=== Outbreak Investigation ===
+
+[STIMULUS] The CDC outlines 13 steps of an outbreak investigation. Answer the following questions about the 13 steps. You must answer with the name of the step, not the number.
+
+49. [frq, 1 pt] What is the first step of an outbreak investigation?
+
+50. [frq, 1 pt] Talking to case patients to identify common exposures or visiting patients homes to look in their refrigerators for clues to an apparent foodborne outbreak are part of which step?
+
+51. [frq, 1 pt] Using a control group in analytical epidemiology is part of which step?
+
+52. [frq, 1 pt] Reviewing the clinical findings and laboratory results to ensure the disease has been properly identified is part of which step?
+
+53. [frq, 1 pt] Once prevention measures have been implemented, they must be continually monitored to ensure they are working. This is part of which step?
+
+
+=== Study Designs ===
+
+[STIMULUS] Identify the types of study designs as cohort, cohort, case control, cross sectional, clinical trial, case report, case series, or ecological.
+
+54. [frq, 1 pt] An outbreak of norovirus has occurred after a family reunion. By finding out which attendees ate which foods, the likely source of the disease can be found.
+
+55. [frq, 1 pt] A sample of residents in a Florida county were telephoned and asked how much alcohol they consume and whether they have ever had liver disease.
+
+56. [frq, 1 pt] A study that analyzes the effects of a new drug by comparing two separate groups, one who receives the drug and one who takes a placebo.
+
+57. [frq, 1 pt] Occurrence of cancer was identified between 5 to 10 years after a nuclear power plant accident for 50,000 residents of a county in Pennsylvania, and 50,000 residents of a different county during the same period.
+
+58. [frq, 1 pt] A non-experimental, analytical study that is population based.
+
+59. [mcq, 1 pt] After the California wildfires, affected residents who have lost their homes are interviewed about changes in their health status.
+    A) cohort
+    B) case control
+    C) cross sectional
+    D) clinical trial
+    E) case report
+    F) case series
+    G) ecological
+
+
+=== Case Study 1 ===
+
+[STIMULUS] Approximately 300 persons attended a retirement party at a Silicon Valley internet company held on May 27, 2019. Most of the attendees worked at the Capitol. A private caterer (Caterer A) prepared and served food for the reception. Based on initial telephone interviews of persons reporting illness, the predominant symptoms were nausea and diarrhea, and the incubation period was approximately 24-30 hours.
+
+The following foods were served at the retirement reception: Swedish meatballs, taco dip, crab dip, a vegetable tray and herbed ranch dip, cake, nuts and mints. The vegetable tray consisted of cucumbers, broccoli, cauliflower, carrots, celery, green peppers, and radishes. All foods were prepared onsite on the day of the reception with the exception of the nuts, which were purchased by a coworker, and the mints, which were made by a coworker.
+
+The Swedish meatballs consisted of ground beef, ground pork, sour cream and flour. The meatballs were cooked twice. The taco dip contained layers of cream cheese mixed with salsa, ground beef, tomatoes, lettuce, onion, cheese and salsa. The taco dip was prepared manually by Caterer A in the kitchen at the company, and was not cooked after assembly. The crab dip contained canned real crab, cream cheese and ketchup.
+
+The investigators received completed surveys from 212 attendees. Of those 212 attendees, 127 persons reported a gastrointestinal illness within 72 hours of the reception. The average interval between time of food consumption and onset of illness was 32.3 hours (range 6 to 67 hours).
+
+Persons working in the security office at the company ate samples of the items served at the reception except the Taco Dip. None of the people from this office reported illness. Table 1 shows the association of illness and eating the taco dip.
+
+Table 1: Association of Illness and Exposure to Taco Dip
+    | Ate Taco Dip? | Met Case Definition | Did Not Meet Case Definition |
+    | Yes | 112 | 8 |
+    | No | 15 | 77 |
+
+60. [numeric, 1 pt] Of those responding to the survey, how many people ate the Taco Dip?
+
+61. [numeric, 3 pt] What is the attack rate for the entire population responding to the survey? (Round to the nearest percentage)
+
+62. [numeric, 2 pt] What is the attack rate of persons eating the Taco Dip? (Round to the nearest percentage)
+
+63. [numeric, 2 pt] What is the attack rate of persons NOT eating the Taco Dip? (Round to the nearest percentage)
+
+64. [numeric, 3 pt] What is the relative risk of eating the Taco Dip?
+
+65. [frq, 3 pt] Describe in your own words what this relative risk means.
+
+66. [frq, 2 pt] What type of study was this?
+
+67. [frq, 2 pt] Which type of epidemic curve would best show the progression of this illness?
+
+
+=== Case Study 2 ===
+
+[STIMULUS] Members of a neighborhood having been contracting a Norwalk-like virus, and local officials suspect their exposure to public transportation may be the source. Bus #56 serviced that neighborhood. The following data was collected.
+
+Bus #56
+    |  | Cases (have virus) | Controls (don't have virus) |
+    | Exposed (rode the bus) | 76 | 65 |
+    | Unexposed (didn't ride the bus) | 12 | 92 |
+
+68. [frq, 1 pt] What type of study was this?
+
+69. [mcq, 1 pt] What statistic is most applicable to this type of study?
+    A) Attack Rate
+    B) Odds Ratio
+    C) Relative Risk
+
+70. [numeric, 3 pt] For Bus #56, calculate the statistic you selected from the question above.
+
+71. [frq, 4 pt] Do you think Bus #56 was the source of the virus? Explain your answer.
+
+
+=== Bias ===
+
+[STIMULUS] A pharmaceutical company has a new influenza vaccine that it would like to test. It costs the company about $125 per participant to pay someone to find and signup subjects. To save money, they decide to have the participants come to them and they offer a $100 Spotify gift card to anyone who will agree to take the vaccine and report on their results.
+
+72. [frq, 6 pt] Does this introduce any bias into the trial? If so, what type of bias is introduced and justify your response.

@@ -1,0 +1,286 @@
+GGSO Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  72 questions, 155.0 pts
+Source: scio.ly test archive id 373db9d7-f0c4-4dba-a3fb-b441710beb39  |  original files: https://drive.google.com/drive/folders/14inBI0VlhCqHEKUmLUQ6yHXLX1A15OC6
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 23
+
+4. [frq, 3 pt] What is the proper name for R0? In case this gets your memory going, COVID-19 has a very high one.
+
+5. [frq, 3 pt] COVID-23 has a big R0. Specifically, an R0 of 100. What percentage of the population would need to get vaccinated in order to achieve "herd immunity"?
+
+6. [frq, 3 pt] Suppose that one some arbitrary day, we have Patient 0 in the US. Assuming they were the only one to be infected on that day, and given an R0 of 100, how many days after this will the entire US be infected with the disease? Assume nothing is done to stop the outbreak.
+
+7. [multi, 3 pt] You just got your Master's of Public Health online from WCU, and you're off to the races to tackle the COVID-23 pandemic! You need to limit the spread of the virus. Unlike COVID-19, COVID-23 is actually waterborne and foodborne, and it cannot be cleansed off of surfaces. What are some reasonable measures you could suggest taking to control its spread?
+    A) Seize the means of production
+    B) Quarantine those that are infected
+    C) Shut down restaurants
+    D) Require frequent hand washing
+    E) Cook all foods thoroughly
+    F) Wear gloves during meals
+
+8. [multi, 3 pt] After spending 1 and a half hours mostly milling about, you have a montage of you doing some intense calculations and you realize that the COVID-19 vaccine can be used for COVID-23! With this in mind, which of the following vaccines are of the same type as a possible COVID-23 vaccine?
+    A) Tetanus
+    B) HPV
+    C) Measles
+    D) Shingles
+
+[STIMULUS] Consider the following scenario.
+
+During the 2003 Severe Acute Respiratory Syndrome (SARS) outbreak in Asia, many hospitals experienced outbreaks of SARS among their healthcare workers. Staff records at one such hospital were analyzed to produce the following data on illness among all healthcare staff at the hospital.
+
+| **Job Category** | **Total Workers** | **Workers with SARS** |
+|---|---|---|
+| Physicians | 69 | 4 |
+| Nurses | 250 | 9 |
+| Healthcare Assistants (HCA) | 63 | 4 |
+| Cleaners | 79 | 2 |
+| Clerical Staff | 65 | 1 |
+
+**Characteristics of Hospital Workers with SARS**
+
+*Note that this table has been adapted, and is missing information contained in the original.*
+
+|  | **Sex** | **Age** | **Job Category** | **Exposure Location** |
+|---|---|---|---|---|
+| 1 | M | 35 | Nurse | Ward A |
+| 2 | F | 28 | Nurse | Ward A |
+| 3 | M | 25 | Physician | Ward B |
+| 4 | F | 24 | Nurse | Ward C |
+| 5 | F | 38 | HCA | Ward A |
+| 6 | M | 36 | Nurse | Ward B |
+| 7 | F | 40 | HCA | Ward B |
+| 8 | F | 33 | Nurse | Ward A |
+| 9 | F | 27 | Nurse | Ward A |
+| 10 | F | 50 | Cleaner | Ward A |
+| 11 | F | 37 | HCA | Ward C |
+| 12 | F | 29 | Nurse | Ward C |
+| 13 | M | 30 | Nurse | Ward C |
+| 14 | F | 36 | Physician | Ward B |
+| 15 | F | 40 | Clerical | Ward C |
+| 16 | F | 30 | Physician | Ward A |
+| 17 | M | 29 | Physician | Ward A |
+| 18 | F | 42 | HCA | Ward C |
+| 19 | F | 35 | Nurse | Ward C |
+| 20 | F | 50 | Cleaner | Ward A |
+
+10. [mcq, 3 pt] How would you classify these cases of infection?
+    A) Sepsis
+    B) Nosocomial
+    C) Occupational NCD
+    D) Iatrogenic
+
+[STIMULUS] Using the SARS hospital worker tables above, calculate the incidence for each job category.
+    | Label | Answer |
+    | Physicians | [[q:11-a]] |
+    | Nurses | [[q:11-b]] |
+    | HCAs | [[q:11-c]] |
+    | Cleaners | [[q:11-d]] |
+    | Clerical | [[q:11-e]] |
+
+11-a. [frq, 0.5 pt] Physicians
+
+11-b. [frq, 0.5 pt] Nurses
+
+11-c. [frq, 0.5 pt] HCAs
+
+11-d. [frq, 0.5 pt] Cleaners
+
+11-e. [frq, 0.5 pt] Clerical
+
+12. [frq, 2 pt] What is this chart called?
+
+[STIMULUS] What are the rows of this chart (the SARS case table above) called? What are the columns called?
+    | Label | Answer |
+    | Rows What are the rows of this chart called? | [[q:13-a]] |
+    | Columns What are the columns called? | [[q:13-b]] |
+
+13-a. [frq, 1 pt] Rows What are the rows of this chart called?
+
+13-b. [frq, 1 pt] Columns What are the columns called?
+
+14. [frq, 2 pt] Give two other examples of information that might be included in the columns of this chart.
+
+[STIMULUS] Using the SARS hospital worker tables above, calculate the probability that a worker is female given that they have SARS for each job category.
+    | Label | Answer |
+    | Physicians | [[q:15-a]] |
+    | Nurses | [[q:15-b]] |
+    | HCAs | [[q:15-c]] |
+    | Cleaners | [[q:15-d]] |
+    | Clerical | [[q:15-e]] |
+
+15-a. [frq, 0.5 pt] Physicians
+
+15-b. [frq, 0.5 pt] Nurses
+
+15-c. [frq, 0.5 pt] HCAs
+
+15-d. [frq, 0.5 pt] Cleaners
+
+15-e. [frq, 0.5 pt] Clerical
+
+16. [frq, 2 pt] Is this strong evidence that women are more likely to contract SARS? Explain why or why not.
+
+17. [frq, 2 pt] We want to determine whether physicians are significantly more likely than the general healthcare staff to contract SARS. Write a null and alternate hypothesis for this test.
+
+20. [frq, 3 pt] If your conclusion from the previous question is wrong, what type of statistical error have you made? How would you correct this error?
+
+21. [multi, 3 pt] Which of the following would be considered part of the Clinical Health Approach?
+    A) Nutrition
+    B) Oncology
+    C) Urology
+    D) Performing a heart scan
+    E) Determining who first to give Covid-19 vaccinations to
+    F) Conducting a Covid test on someone
+
+22. [frq, 2 pt] Who created a vaccine for a disease infamous for being used in terrorist attacks post 9/11?
+
+24. [multi, 3 pt] Which of the following could be used as an analog for virulence?
+    A) PP
+    B) Morbidity
+    C) Mortality rate
+    D) LD_50
+
+26. [frq, 2 pt] Give four characteristics of a good surveillance system.
+
+27. [frq, 4 pt] What are four possible reasons to use syndromic surveillance?
+
+28. [frq, 2.5 pt] Give five possible sources of surveillance data.
+
+29. [frq, 2 pt] At which stage of a disease's natural history is a screening test designed to identify the disease?
+
+30. [mcq, 2.5 pt] Which of the following is an example of vectorborne transmission?
+    A) getting Mad Cow Disease from eating raw beef
+    B) getting West Nile virus from a mosquito bite
+    C) getting an allergic reaction from pollen carried by bees
+    D) getting COVID-19 from your best friend for life (BFFL)
+
+31. [multi, 2 pt] Which of the following are health determinants?
+    A) Societal characteristics
+    B) Health behaviors
+    C) Genes and biology
+    D) Medical care
+
+[STIMULUS] 
+    [IMAGE: ../images/2021_ggso_invitational_c__p8_e3d682-27c030cb.webp]
+
+32. [frq, 2 pt] What is this type of diagram called?
+
+33. [frq, 2 pt] The EIA and IFA tests are known to have low specificity. Explain why the process outlined in this diagram would fix the problem of low specificity.
+
+34. [frq, 2 pt] Why is increasing specificity important?
+
+35. [numeric, 3 pt] Consider the following data: A test for some disease has a 20% PPV, and an NPV of 50%. Given that 10% of the population has the disease, and there's a 10% chance of testing positive without having the disease, what is the probability of testing positive given that you have the disease? Round to 3 decimal places.
+
+[STIMULUS] Suppose we're testing the test mentioned in the preceding question, and that 50% of testees test positive. Based on this experiment, what is the specificity and sensitivity of the test? Round to 3 decimal places.
+    | Label | Answer |
+    | Specificity | [[q:36-a]] |
+    | Sensitivity | [[q:36-b]] |
+
+36-a. [frq, 2 pt] Specificity
+
+36-b. [frq, 2 pt] Sensitivity
+
+37. [frq, 2 pt] Suppose you take a survey of a group of seniors regarding their smoking habits and their current status with regards to lung cancer. What kind of study is this?
+
+38. [frq, 2 pt] Suppose you had a desire to investigate whether adding resveratrol, a chemical found in red wine, to water supplies would be beneficial for combating heart disease in the overall population. What kind of study would you most likely want to do?
+
+40. [frq, 4 pt] Give two advantages and two disadvantages of a case control study as compared to a cohort study.
+
+41. [frq, 2 pt] Consider the 4 stages of disease control: extinction, control, eradication, and elimination. Which stage is Covid-19 in?
+
+42. [frq, 2 pt] Which stage of disease control is HIV in?
+
+43. [frq, 2 pt] Which stage of disease control is measles in with regards to the United States?
+
+44. [frq, 2 pt] Which stage of disease control is rinderpest in?
+
+46. [frq, 3 pt] What kind of Primary Prevention Approach does the Great Barrington Declaration suggest?
+
+47. [frq, 2 pt] What level of prevention does vaccination fall under? For this test, the levels of prevention are: Primordial, Primary, Secondary, Tertiary, and Quaternary.
+
+48. [frq, 3 pt] Which levels of prevention are contained in the following scenario: In response to some outbreak, the government closes its borders to the country where the disease originated from. Furthermore, it issues mandatory quarantine and having to wear a facemask in public places. Furthermore, businesses such as restaurants are ordered to close. Once the disease appears to have been locally eliminated, these businesses are allowed to re-open.
+
+50. [frq, 2 pt] What level of prevention does contact tracing fall under?
+
+51. [frq, 3 pt] Which levels of prevention are contained in the following scenario: Suppose that there is an outbreak of H1N1 in the city of Henn. In response to this outbreak, the local government orders schools to teach kids how to maintain good hygiene and avoid catching the disease, and distributes self-test kits.
+
+52. [frq, 6 pt] List the chain of infection, and give one prevention measure for COVID-19 for each step.
+
+53. [frq, 4 pt] What is the difference between droplet transmission and aerosol transmission? Is each type considered direct or indirect transmission?
+
+54. [frq, 2 pt] The following epidemic curve depicts a Salmonella outbreak.
+    
+    What is the type of source of this outbreak?
+    [IMAGE: ../images/2021_ggso_invitational_c__p12_c6737a-4a1834e4.webp]
+
+55. [frq, 2 pt] Why is it difficult to know when the index case for an outbreak is?
+
+56. [frq, 2 pt] During an outbreak, why is it difficult to know whether cases are declining?
+
+57. [frq, 2 pt] Give two likely control and prevention measures taken that led to the end of this outbreak.
+
+58. [frq, 2 pt] Suppose you're surveying the happiness of a group of bonobos, but since you like bonobos so much you end up overestimating their happiness. What kind of bias is this?
+
+59. [frq, 2 pt] You're surveying the happiness of the bonobos, and because the first one you looked at was happy, you retain the impression that the rest of them are probably pretty happy too. What kind of bias is this?
+
+[STIMULUS] Consider the following scenario.
+
+There is a species of great ape known as the bonobo. They're not studied or mentioned in the popular media very often, so you decide to bring more attention to them!
+
+When you first begin studying them, you notice something odd: they're getting infected with some disease! As an aspiring disease sleuth, you immediately get cracking on the case!
+
+Here's a list of diseases you could it could be: Tuberculosis, common cold, Norovirus, Botulism, Toxoplasmosis, pneumonia, salmonella, campylobacteriosis, COVID-19, and listeriosis. Assume these diseases infect bonobos similarly to how they infect humans.
+
+61. [frq, 2 pt] The mortality rate associated with the disease is experimentally measured to be 10%. From the original list of disease, which could still be the disease?
+
+63. [frq, 2 pt] A few of the diseases in the original list are associated with a particular condition. What is that condition?
+
+64. [frq, 2 pt] In order to further refine your hypothesis about the possible disease, you decide to determine the mode of transmission. You go out and backtrack the activities of an entire bonobo community, and tabulate who get infected and who did not.
+    
+    What kind of study is this?
+
+70. [frq, 2 pt] There is a disease infamous for being spread through sexual contact, and in principle could be lurking beneath the scenes of this outbreak. What is that disease?
+
+
+=== Moderna Vaccine ===
+
+[STIMULUS] The following information is extracted from the Safety and Efficacy report for the mRNA-1273 SARS-CoV-2 Vaccine developed by Moderna.
+
+(Baden, Lindsey R., et al. "Efficacy and Safety of the MRNA-1273 SARS-CoV-2 Vaccine." New England Journal of Medicine, vol. 384, no. 5, Massachusetts Medical Society, Feb. 2021, pp. 403–416. Crossref, doi:10.1056/nejmoa2035389.
+I promise looking it up won't help with any of the questions.)
+
+71. [frq, 4 pt] This study used RT-PCR screening tests for COVID-19. What is one advantage and disadvantage of RT-PCR tests over antigen tests? What is one advantage and disadvantage of RT-PCR tests over antibody tests?
+
+[STIMULUS] Use the following excerpt to answer the next three questions.
+
+"Participants were randomly assigned in a 1:1 ratio, through the use of a centralized interactive response technology system, to receive vaccine or placebo. Vaccine dose preparation and administration were performed by pharmacists and vaccine administrators who were aware of treatment assignments but had no other role in the conduct of the trial. Once the injection was completed, only trial staff who were unaware of treatment assignments performed assessments and interacted with the participants. Access to the randomization code was strictly controlled at the pharmacy. The data and safety monitoring board reviewed efficacy data at the group level and unblinded safety data at the participant level."
+
+72. [frq, 3 pt] What level of blinding is this? How can you tell?
+
+73. [multi, 2 pt] Which of the following biases are targeted by this blinding type?
+    A) Performance bias
+    B) Misclassification bias
+    C) Reporting bias
+    D) Detection bias
+    E) Surveillance bias
+
+74. [multi, 2 pt] Which of the following biases remain at this level of blinding?
+    A) Allocation bias
+    B) Publicity bias
+    C) Observer bias
+    D) Volunteer bias
+    E) Interviewer bias
+
+[STIMULUS] Use the following excerpt to answer the next six questions.
+
+"After day 1 and through November 25, 2020, a total of 269 Covid-19 cases were identified, with an incidence of 79.7 cases per 1000 person-years (95% confidence interval [CI], 70.5 to 89.9) among participants in the placebo group with no evidence of previous SARS-CoV-2 infection."
+
+75. [frq, 2 pt] What is the name for the specific type of incidence given here?
+
+76. [frq, 3 pt] Is this incidence measure a rate or a proportion? Explain why.
+
+77. [frq, 2 pt] In studies such as these following large numbers of people over a period of time, what are the four possible reasons a study participant will cease to be observed?
+
+78. [numeric, 2 pt] Using this information, calculate the total number of person-years among this group. Round to the nearest whole number.
+
+79. [frq, 2 pt] 15,210 people were in this group. What month was "day 1" in?
+
+80. [frq, 2 pt] Interpret the confidence interval given.

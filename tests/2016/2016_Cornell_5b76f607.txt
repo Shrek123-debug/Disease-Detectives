@@ -1,0 +1,250 @@
+Cornell — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  51 questions, 89.0 pts
+Source: scio.ly test archive id 5b76f607-dc41-4f53-adfb-f22010fcdf38  |  original files: https://drive.google.com/drive/folders/1StZKm4MudmcbrqsLn-uhvrNpZ17-zLaP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Part I: Basic Epidemiology Terms ===
+
+[STIMULUS] Please match the following terms with their corresponding definitions.
+
+1. [frq, 1 pt] Mortality
+
+2. [frq, 1 pt] Morbidity
+
+3. [frq, 1 pt] Outbreak
+
+4. [frq, 1 pt] Epidemic
+
+5. [frq, 1 pt] Pandemic
+
+6. [frq, 1 pt] Endemic
+
+7. [frq, 1 pt] Vector
+
+8. [frq, 1 pt] Fomite
+
+9. [frq, 1 pt] Prevalence Rate
+
+10. [frq, 1 pt] Incidence Rate
+
+
+=== Part II: Short Response Questions ===
+
+11. [frq, 2 pt] What is the difference between *outbreak* and *cluster*?
+
+12. [frq, 2 pt] What is a *determinant*?
+
+13. [frq, 2 pt] What is a *confounding variable*?
+
+14. [frq, 2 pt] The results of a certain study showed that women taking combined hormone replacement therapy (HRT) also had a lower-than-average incidence of coronary heart disease (CHD), leading doctors to propose that HRT was protective against CHD. Is this proposal a logical conclusion? Explain why or why not.
+
+15. [frq, 10 pt] List all steps of an outbreak investigation.
+
+
+=== Part III: Graphic Display of Data ===
+
+16. [frq, 5 pt] What kind of epi curve is it? What is the time of onset of the first case? What is the peak number of cases? Estimate the incubation period (show all work for full credit).
+    [IMAGE: ../images/2016_cornell_c__d_803547-350cb632.webp]
+
+
+=== Part IV: Case Study ===
+
+[STIMULUS] Consider the following scenario:
+
+As a bored public health student last Saturday night you decided to cruise a very crowded campus afterhours social. On Wednesday you read in the paper that 6% of students who attended after-hours social that weekend were later diagnosed with viral meningitis, whereas 1% of students who did not attend these socials contracted the disease.
+
+17. [frq, 5 pt] Calculate the relative risk and all attributable risks (show all work for full credit).
+
+18. [frq, 4 pt] Based on your results from the previous question, describe the association between viral meningitis and participation in campus after-hours socials last weekend.
+
+19. [frq, 2 pt] Suppose that health officials wanted to investigate the association between food at the socials and viral meningitis, give one potential bias that can happen in carrying out such a study.
+
+
+=== Part V: Multiple Choice ===
+
+20. [mcq, 2 pt] Chi square is zero when
+    A) expected frequency is less than the observed frequency
+    B) expected frequency is equal to the observed frequency
+    C) expected frequency is 2 times the observed frequency
+    D) expected frequency is ½ times the observed frequency
+
+21. [mcq, 2 pt] Correlation coefficient is a number between
+    A) +1 and +2
+    B) 0 and +1
+    C) -1 and 0
+    D) -1 and +1
+
+22. [mcq, 2 pt] A chi-square test involves a set of counts called “expected counts.” What are the expected counts?
+    A) Hypothetical counts that would occur of the alternative hypothesis were true.
+    B) Hypothetical counts that would occur if the null hypothesis were true.
+    C) The actual counts that did occur in the observed data.
+    D) The long-run counts that would be expected if the observed counts are representative.
+
+23. [mcq, 2 pt] A Type I error occurs when the null hypothesis is
+    A) rejected and the research hypothesis is actually false.
+    B) accepted but and research hypothesis is actually true.
+    C) rejected and null hypothesis is actually true.
+    D) accepted and null hypothesis is actually true.
+
+24. [mcq, 2 pt] Dr. Mann is using a t-test to compare the means of two groups. There are 25 participants in each group. How many degrees of freedom are there in this test?
+    A) 24
+    B) 25
+    C) 48
+    D) 49
+
+
+=== Part VI: Disease Agents ===
+
+[STIMULUS] Identify the type of agent that causes the following diseases using the following key: (V=viral, B=bacterial, F=fungal, O=others)
+
+25. [mcq, 1 pt] Candidiasis
+    A) V
+    B) B
+    C) F
+    D) O
+
+26. [mcq, 1 pt] Kuru
+    A) V
+    B) B
+    C) F
+    D) O
+
+27. [mcq, 1 pt] Scrapie
+    A) V
+    B) B
+    C) F
+    D) O
+
+28. [mcq, 1 pt] Hepatitis
+    A) V
+    B) B
+    C) F
+    D) O
+
+29. [mcq, 1 pt] Anthrax
+    A) V
+    B) B
+    C) F
+    D) O
+
+30. [mcq, 1 pt] Measles
+    A) V
+    B) B
+    C) F
+    D) O
+
+31. [mcq, 1 pt] Mumps
+    A) V
+    B) B
+    C) F
+    D) O
+
+32. [mcq, 1 pt] Listeria
+    A) V
+    B) B
+    C) F
+    D) O
+
+33. [mcq, 1 pt] Bovine Spongiform Encephalopathy
+    A) V
+    B) B
+    C) F
+    D) O
+
+34. [mcq, 1 pt] Rose Gardener’s Disease
+    A) V
+    B) B
+    C) F
+    D) O
+
+35. [mcq, 1 pt] Ebola
+    A) V
+    B) B
+    C) F
+    D) O
+
+36. [mcq, 1 pt] Dengue Fever
+    A) V
+    B) B
+    C) F
+    D) O
+
+37. [mcq, 1 pt] Tinea Pedis
+    A) V
+    B) B
+    C) F
+    D) O
+
+38. [mcq, 1 pt] Mononucleosis
+    A) V
+    B) B
+    C) F
+    D) O
+
+39. [mcq, 1 pt] Polio
+    A) V
+    B) B
+    C) F
+    D) O
+
+40. [mcq, 1 pt] Cave Disease
+    A) V
+    B) B
+    C) F
+    D) O
+
+41. [mcq, 1 pt] Syphilis
+    A) V
+    B) B
+    C) F
+    D) O
+
+42. [mcq, 1 pt] Tetanus
+    A) V
+    B) B
+    C) F
+    D) O
+
+43. [mcq, 1 pt] Smallpox
+    A) V
+    B) B
+    C) F
+    D) O
+
+44. [mcq, 1 pt] MRSA
+    A) V
+    B) B
+    C) F
+    D) O
+
+45. [mcq, 1 pt] SARS
+    A) V
+    B) B
+    C) F
+    D) O
+
+46. [mcq, 1 pt] Blastomycosis
+    A) V
+    B) B
+    C) F
+    D) O
+
+47. [frq, 1 pt] Name the three components of the epidemiological triad.
+
+48. [frq, 6 pt] Fill in the blanks to complete the chain of infection.
+    [IMAGE: ../images/2016_cornell_c__d_8825a0-921f5629.webp]
+
+
+=== Part VII: Measles Outbreak in 2015 ===
+
+[STIMULUS] Refer to the excerpt below to answer questions 49-52.
+
+Measles is a highly contagious, acute viral illness that can lead to complications such as pneumonia, encephalitis, and death. As a result of high 2-dose measles vaccination coverage in the United States and improved control of measles in the World Health Organization's Region of the Americas, the United States declared measles elimination (defined as interruption of year-round endemic transmission) in 2000 (*1*). Importations from other countries where measles remains endemic continue to occur, however, which can lead to clusters of measles cases in the United States. To update surveillance data on current measles outbreaks, CDC analyzed cases reported during January 4–April 2, 2015. A total of 159 cases were reported during this period. Over 80% of the cases occurred among persons who were unvaccinated or had unknown vaccination status. Four outbreaks have occurred, with one accounting for 70% of all measles cases this year. The continued risk for importation of measles into the United States and occurrence of measles cases and outbreaks in communities with high proportions of unvaccinated persons highlight the need for sustained, high vaccination coverage across the country.
+
+Confirmed measles cases in the United States are reported by state and local health departments to CDC using a standard case definition. A measles case is considered confirmed if it is laboratory-confirmed or meets the clinical case definition (an illness characterized by a generalized rash lasting ≥3 days, a temperature of ≥101°F [≥38.3°C], and cough, coryza, or conjunctivitis) and is linked epidemiologically to a confirmed case. Measles cases are laboratory confirmed if there is detection in serum of measles-specific immunoglobulin M, isolation of measles virus, or detection of measles virus nucleic acid from a clinical specimen. Cases are considered imported if at least some of the exposure period (7–21 days before rash onset) occurred outside the United States and rash occurred within 21 days of entry into the United States, with no known exposure to measles in the United States during that period. Import-associated cases include 1) imported cases, 2) cases that are linked epidemiologically to imported cases, and 3) cases for which an epidemiologic link has not been identified but the viral genotype detected suggests recent importation.* An outbreak of measles is defined as a chain of transmission of three or more linked cases.
+
+49. [frq, 4 pt] Based on the excerpt, write a case definition for this outbreak.
+
+51. [frq, 1 pt] Reports like the above excerpt are CDC’s primary vehicles for scientific publication of timely, reliable, authoritative, accurate, objective, and useful public health information and recommendations. What are these reports known as?
+
+52. [frq, 1 pt] Is measles a communicable disease?

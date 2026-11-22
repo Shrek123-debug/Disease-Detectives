@@ -1,0 +1,217 @@
+Columbia — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  36 questions, 59.0 pts
+Source: scio.ly test archive id cb4a2004-46a4-47e2-8891-c6820c26ed17  |  original files: https://drive.google.com/drive/folders/1NCWjiCdbTY6dL78Lr0ru6fozyC_RjoFa
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Part I: Leishmaniasis in Algeria ===
+
+[STIMULUS] Leishmaniasis is a disease caused by any of about twenty species of *Leishmania*, a eukaryotic single-celled organism in the Trepanosomitidae family. It passes through two life stages. In sandflies, it has a flagellum and swims freely in the gut. When the sandfly bites a vertebrate, it injects some *Leishmania* along with the anticoagulant. The flagellate stage is susceptible to host immune response, but if the organism is subjected to phagocytosis by the host's monocytes, neutrophils or macrophages, it loses its flagellum and reproduces rapidly, causing the cell to rupture. This form is more resistant to host immune response and appears to be able to survive in vertebrate blood for a short time until it is taken up again by another white blood cell. The disease caused by this organism can take one of three forms.
+
+The most common form is cutaneous leishmaniasis, characterized by ulcerations on the skin. In mucocutaneous leishmaniasis, skin lesions are accompanied with lesions in the mucosal tissue of the mouth, nose etc. which are often serious enough to significantly change the shape of the face. While the latter in particular may leave the patient permanently disfigured, these two forms are usually self-limiting as the host's immune system eventually clears the infection. The most serious form is visceral leishmaniasis (VL), also known as kala-azar. This form is always secondary, occurring months or even years after the original infection in hosts who failed to clear it. In VL the organism becomes established in the spleen and liver, causing fever and anemia. It is estimated that VL would be fatal in about 95% of untreated patients, and it causes about 50,000 human deaths per year. Only a few species of *Leishmania* are capable of causing VL in humans, the vast majority of cases being caused by *L. donovani* in East Africa and southern Asia and *L. infantum* in the Mediterannean region and South America. Infected vertebrates which are bitten by a sandfly may transmit the organism, which then develops a flagellum and migrates towards the mouthparts, continuing the cycle. Sandflies are small dipterans somewhat similar to mosquitoes. Like mosquitoes, their principle food is plant juices but the females require a blood meal from a vertebrate in order to produce viable eggs, which must be laid in a relatively humid environment. Hyraxes and rodents are susceptible to *Leishmania* infection, but *L. infantum* is most often found in canids (dogs, jackals etc.) while *L. donovani* appears to affect mostly humans. While infected people appear to be immune to re-infection by the same species, no vaccine has been developed.
+
+In 2013, researchers in Belgium and Algeria collected data from the Algerian National Institute of Public Health's (INSP) database on the incidence of visceral leishmaniasis in that country between 1998 and 2008. In all, one thousand five hundred and sixty-two cases were reported to INSP, of which 865 cases occurred in males and 1,258 cases occurred in children under 5. The vast majority of cases were reported from the north-central and northeastern regions of the country, close to the Mediterranean Sea. Notification of VL is mandatory in Algeria, but researchers suspected that it was still under-reported and so supplemented their data with a survey distributed to the five main hospitals in Algiers, which receive most of the serious cases from around the country. The hospital survey revealed 170 cases, of which only 14 had been reported to INSP. 114 of the survey cases had demographic data available; 94 of those patients reported residing in rural areas. Nationally, about 28% of the population are rural dwellers.
+
+1. [mcq, 1 pt] *Leishmania* would be classified as a
+    A) Virus
+    B) bacteria
+    C) protist
+    D) Archaean
+    E) annelid
+
+2. [mcq, 1 pt] *Leishmania* in vertebrates is best described as a(n)
+    A) Obligate extracellular parasite
+    B) facultative extracellular parasite
+    C) obligate intracellular parasite
+    D) facultative intracellular parasite
+
+3. [mcq, 1 pt] Which term(s) describe leishmaniasis in Algeria?
+    A) arbovirus
+    B) zoonosis
+    C) infectious
+    D) autoimmune
+    E) b&d
+
+4. [frq, 1 pt] What is the most likely reason that cases are concentrated in the north-central and north-eastern regions of the country?
+
+5. [frq, 1 pt] What US organization do you think is the closest equivalent of the INSP?
+
+[STIMULUS] For questions 6-13, choose the term(s) at right that best describes the role of each as they relate to human leishmaniasis in Algeria. There may be more than one correct answer for each question; points will be earned until the first incorrect answer.
+
+a. Agent
+b. Attack rate
+c. Definitive host
+d. Host
+e. Incidence
+f. Infectivity
+g. Intermediate host
+h. Pathogenicity
+i. Prevalence
+j. Reservoir
+k. Vector
+
+6. [multi, 1 pt] Sandfly
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+7. [multi, 1 pt] *Leishmania infantum*
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+8. [multi, 1 pt] Dogs, jackals and rodents
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+9. [multi, 1 pt] Humans
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+10. [multi, 1 pt] Proportion of people bitten by an infected sandfly who become infected
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+11. [multi, 1 pt] Proportion of infected people who develop leishmaniasis
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+12. [multi, 1 pt] Proportion of all Algerians who contract leishmaniasis this year
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+13. [multi, 1 pt] Proportion of all Algerians with leishmaniasis
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+[STIMULUS] For questions 14-18, base your answers only on the INSP data for visceral leishmaniasis.
+
+14. [numeric, 2 pt] What was the average incidence in Algeria over this period?
+
+15. [numeric, 2 pt] Assuming that Algeria's population was stable at 31.5 million, what was the average incidence rate per 100,000 people over this period?
+
+16. [numeric, 2 pt] Assuming a stable age pyramid and an under-5 population of 3.44 million, what was the average incidence rate per 100,000 people among children 0-4 years of age?
+
+17. [numeric, 2 pt] Calculate the relative risk associated with being under five years of age in this period.
+
+18. [frq, 1 pt] Is age associated with visceral leishmaniasis risk? Why might this be the case?
+
+[STIMULUS] For questions 19-23, use both INSP and survey data. Assume that the data from the five hospitals is representative of the country as a whole.
+
+19. [numeric, 1 pt] What proportion of cases appear to have been reported in Algeria?
+
+20. [numeric, 3 pt] Calculate the odds ratio associated with rural background for people with VL as compared to the nation as a whole.
+
+21. [frq, 1 pt] Is living in a rural area associated with leishmaniasis risk? Why might this be the case?
+
+22. [frq, 1 pt] A third factor found to be closely associated with leishmaniasis was poverty. Why might this be?
+
+23. [frq, 1 pt] Suggest a measure which might help prevent leishmaniasis infections in the future.
+
+
+=== Part II: Myocardial infarction in Serbia ===
+
+[STIMULUS] In 2019, a group of doctors associated with the Universities of Kragujevac and Belgrade conducted a study investigating risk factors associated with myocardial infarction in that country. They recruited 187 patients at the University hospital in Kragujevac who had recently experienced an infarction for the first time, along with 187 people who were patients at the same hospital but had no history of cardiovascular disease. These patients were individually matched to the infarction patients for age (+/- 2 years), sex, and place of residence (urban/rural), and came mostly from the orthopedic service. All patients completed an in-person interview with a doctor. Selected results from the study are reported below.
+
+| Risk factor | Infarction patients (n=187) | Other patients (n=187) |
+|---|---|---|
+| Any alcohol consumption | 102 | 94 |
+| Binge drinking | 47 | 24 |
+| Coffee consumption | 165 | 170 |
+| Hypertension | 107 | 77 |
+| Hypercholesterolemia | 40 | 10 |
+
+24. [frq, 1 pt] What is the more common term for myocardial infarction?
+
+25. [frq, 1 pt] What type of study was this?
+
+26. [frq, 1 pt] Why did doctors include patients who had no history of myocardial infarction?
+
+27. [frq, 1 pt] Sadly, the authors did not report the data that would be necessary to calculate matched odds ratio. What data is missing?
+
+28. [frq, 2 pt] Set up the table on your answer sheet as if you were going to calculate matched odds ratio for alcohol consumption. The data cells have been filled in with unknown values A, B, C and D.
+
+29. [frq, 1 pt] Express the matched odds ratio in terms of A, B, C and/or D.
+
+30. [frq, 15 pt] Calculate the odds ratios associated with each of the risk factors in table 1 in the normal way that you would use in a study without matching.
+
+31. [frq, 1 pt] Which of the factors seem to be associated with increased risk of infarction?
+
+32. [frq, 2 pt] What is the most likely explanation for the association between any alcohol consumption and infarction? Explain.
+
+33. [frq, 2 pt] Which two associations are least likely to be significant? Why?
+
+34. [frq, 1 pt] What measure is elevated in hypertension?
+
+35. [frq, 1 pt] What measure is elevated in hypercholesterolemia?
+
+36. [frq, 1 pt] Based on this study, what would you recommend to a patient who is concerned about their risk for myocardial infarction?

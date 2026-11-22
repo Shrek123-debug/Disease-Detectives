@@ -1,0 +1,487 @@
+Centerville Invitational (C only) — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  55 questions, 57.0 pts
+Source: scio.ly test archive id 2dfa1f60-b6fc-4c1e-b222-3a30c50d0b11  |  original files: https://drive.google.com/drive/folders/1Pp7tLWEzpmJ1NSmZ4GbHJGMD_albpTd4
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+
+=== Match the following terms on the left with the definitions on the right. Each term will have only one answer. ===
+
+[STIMULUS] a) An animate, living insect or animal that is involved with transmission of the disease agent.
+b) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+c) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+d) Occurrence of a disease clearly in excess of normal expectancy.
+e) An inanimate object that is laden with disease-causing agents.
+f) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+g) The rate that a group experienced an outcome or illness.
+h) Chart of information about each case.
+i) An epidemic that spans a wide geographic area.
+j) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+k) Occurrence of an illness or illnesses in a population.
+I) A histogram showing the course of a disease or outbreak.
+m) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+n) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+0) Occurrence of death in a population.
+
+P1-4. [mcq, 1 pt] Relative risk
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-5. [mcq, 1 pt] Attack rate
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-6. [mcq, 1 pt] Odds ratio
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-7. [mcq, 1 pt] Line list
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-8. [mcq, 1 pt] Epidemic curve
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-9. [mcq, 1 pt] Vector
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-10. [mcq, 1 pt] Fomite
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-11. [mcq, 1 pt] Cohort
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-12. [mcq, 1 pt] Case-control
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-13. [mcq, 1 pt] Endemic
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-14. [mcq, 1 pt] Outbreak
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-15. [mcq, 1 pt] Epidemic
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-16. [mcq, 1 pt] Pandemic
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-17. [mcq, 1 pt] Mortality
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P1-18. [mcq, 1 pt] Morbidity
+    A) An animate, living insect or animal that is involved with transmission of the disease agent.
+    B) Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+    C) More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    D) Occurrence of a disease clearly in excess of normal expectancy.
+    E) An inanimate object that is laden with disease-causing agents.
+    F) Study that follows a group of subjects who received a specific exposure in order to examine the differences in incidence of a specific disease or other outcome of interest.
+    G) The rate that a group experienced an outcome or illness.
+    H) Chart of information about each case.
+    I) An epidemic that spans a wide geographic area.
+    J) Measure of association between frequency of exposure and frequency of outcome (formula is AD/BC).
+    K) Occurrence of an illness or illnesses in a population.
+    L) A histogram showing the course of a disease or outbreak.
+    M) Study that compares individuals who have a disease with individuals who do not have the disease in order to examine differences in exposures or risk factors for the disease
+    N) Ratio of the risk of disease or death among the exposed to the risk among the unexposed.
+    O) Occurrence of death in a population.
+
+P2-1. [frq, 1 pt] The CDC coordinates government efforts in epidemiology. What does CDC stand for?
+
+P2-2. [frq, 1 pt] In the mid-1800s, an anesthesiologist named ____ was conducting a series of investigations in London that warrant his being considered the “father of field epidemiology.”
+
+P2-3. [frq, 1 pt] His ground-breaking study involved an outbreak of ____
+
+[STIMULUS] Use the following list of bacteria to answer the next 6 questions:
+A. *L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni*
+B. *Streptococcus pyogenes (Beta Streptococci Group A)*
+C. *Campylobacter jejuni, E. coli* O157:H7, *L. monocytogenes, Salmonella*
+D. *E. coli* O157:H7, *L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica,* viruses, and parasites
+E. *Salmonella enteriditis*
+F. *Vibrio vulnificus, Vibrio parahaemolyticus*
+G. *C. botulinum*
+
+P3-19. [mcq, 1 pt] **Sources of illness:** Raw and undercooked meat and poultry
+    **Symptoms:** Abdominal pain, diarrhea, nausea, and vomiting
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-20. [mcq, 1 pt] **Sources of illness:** Raw foods; unpasteurized milk and dairy products, such as soft cheeses
+    **Symptoms:** Nausea, vomiting, fever, abdominal cramps, and diarrhea
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-21. [mcq, 1 pt] **Sources of illness:** Raw and undercooked eggs. Raw eggs are often used in foods such as homemade hollandaise sauce, caesar and other salad dressings, tiramisu, homemade ice cream, homemade mayonnaise, cookie dough, and frostings.
+    **Symptoms:** Nausea, vomiting, fever, abdominal cramps, and diarrhea
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-22. [mcq, 1 pt] **Sources of illness:** Raw and undercooked shellfish
+    **Symptoms:** Chills, fever, and collapse
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-23. [mcq, 1 pt] **Sources of illness:** Improperly canned goods; smoked or salted fish
+    **Symptoms:** Double vision, inability to swallow, difficulty speaking, and inability to breathe. Seek medical help right away if you experience any of these symptoms.
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-24. [mcq, 1 pt] **Sources of illness:** Fresh or minimally processed produce; contaminated water
+    **Symptoms:** Bloody diarrhea, nausea, and vomiting
+    **Bacteria:** ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P3-25. [frq, 1 pt] A relative risk = ____ indicates that the incidence rates of disease in the exposed group is equal to the incidence rates in unexposed group. Therefore the data does not provide evidence for an association.
+
+P3-26. [frq, 1 pt] The ____ method of investigation works *backward from effect or illness* to suspected cause.
+
+[STIMULUS] **Scenario.** An outbreak of E. coli O157:H7 gastroenteritis occurred in central Nebraska in February and March of 1999. E. coli O157:H7 is a bacteria that produces a toxin that can cause diarrhea (often bloody), abdominal cramps, and can affect the kidneys. E. coli O157:H7 can be transmitted person-to-person via the fecal-oral route. E. coli O157:H7 can also be transmitted by contaminated food or water. Nationwide, there has been evidence that ill food handlers may have been the source of an outbreak. Children aged less than 16 years and adults aged greater than 65 years are at greater risk of developing complications, including kidney failure. A total of 72 persons became ill. Nearly all of the affected persons experienced diarrhea and abdominal cramps. Eight persons required hospitalization, including one child who required dialysis due to kidney failure. Of the 72 ill persons, 65 were exposed while dining at the family reunion on February 26 and seven were exposed secondarily.
+
+P3-27. [frq, 2 pt] Explain the difference between a primary case patient and a secondary case patient.
+
+[STIMULUS] Telephone interviews were conducted over a period of two weeks to obtain food and illness history. Analysis of the food history and illness data yielded two food items associated with illness. The following are the 2 x 2 tables for the food items.
+
+**Ranch Dressing**
+
+| | Got ill? Yes | Got ill? No | Total |
+|---|---|---|---|
+| **Ate the dressing? Yes** | 18 | 17 | 35 |
+| **Ate the dressing? No** | 46 | 54 | 100 |
+| **Total** | 64 | 71 | 135 |
+
+**Iceberg Lettuce**
+
+| | Got ill? Yes | Got ill? No | Total |
+|---|---|---|---|
+| **Ate the lettuce? Yes** | 57 | 29 | 86 |
+| **Ate the lettuce? No** | 8 | 40 | 48 |
+| **Total** | 65 | 69 | 134 |
+
+P3-28. [frq, 1 pt] Calculate the attack rate for Ranch Dressing.
+
+P3-29. [frq, 1 pt] Calculate the attack rate for Iceberg Lettuce.
+
+P3-30. [mcq, 2 pt] Which food item explains the greater percentage of illness?
+    A) Ranch Dressing
+    B) Iceberg Lettuce
+
+[STIMULUS] An important part of investigating an outbreak of a disease is the confirmation of a diagnosis. Questions 31-33 relate to confirmation of diagnoses.
+
+P3-31. [frq, 1 pt] Most people suffering from food-borne illness exhibit similar symptoms: nausea, vomiting, diarrhea. What test is used to confirm the diagnosis of most food-borne illnesses?
+
+P3-32. [frq, 1 pt] Why is it more difficult to confirm a diagnosis of a viral disease than a bacterial or parasitic disease?
+
+P3-33. [frq, 1 pt] What test is used to confirm a diagnosis of Hepatitis A?
+
+P3-34. [mcq, 1 pt] What are the components that make a good case definition?
+    A) Person, place and time
+    B) Clinical criteria, place, and time
+    C) Identifying information, clinical criteria, time, person, place, and risk factors
+    D) Clinical criteria, person, place, and time
+    E) Person, place, time, and possible cause
+
+P3-35. [tf, 1 pt] A case-control study is used in an outbreak setting when a complete list of participants is available.
+    A) True
+    B) False
+
+P3-40. [mcq, 1 pt] An epidemic curve
+    A) graphically displays the scope of an outbreak
+    B) shows the number of people affected by an outbreak
+    C) shows the course of the outbreak over time
+    D) all the above
+    E) A and B
+
+P3-44. [mcq, 1 pt] A propagated epidemic is usually the result of what type of exposure?
+    A) Point source
+    B) Continuous common source
+    C) Intermittent common source
+    D) Person-to-person
+
+P3-45. [mcq, 1 pt] Which of the following would not be the result of common source exposure?
+    A) Salmonella traced to contaminated food.
+    B) Cholera traced to contaminated food.
+    C) Flu spread person to person.
+    D) Listeria outbreak from ice cream.
+
+[STIMULUS] 
+    [IMAGE: ../images/centerville_invitational_c_only__d_d2a992-1aef3cee.webp]
+
+P3-46. [frq, 1 pt] As indicated on the chart below, which etiology had the highest Fatality Rate?
+
+P3-47. [frq, 1 pt] Which had the second highest Fatality Rate?
+
+[STIMULUS] Outbreaks of foodborne illness may involve either infectious or toxic agents. They may be as local as a family meal or as large as a multistate outbreak involving thousands of individuals. The one thing they all have in common is that people get sick from eating contaminated food.
+
+P3-48. [frq, 1 pt] Epidemiologists divide transmission patterns into direct and ____.
+
+P3-49. [frq, 1 pt] The latter transmission pattern from question 48 includes airborne, ____, and vehicleborne infections.
+
+P3-50. [frq, 1 pt] Which of the three categories in question 49 includes foodborne illness?
+
+P3-51. [frq, 1 pt] Which of the major groups of pathogens does not multiply in contaminated food items?
+
+[STIMULUS] **Table 3:** Mortality by Selected Age Groups, Males and Females, United States, 2003.
+
+| Age | Males Population | Males # Deaths | Females Population | Females # Deaths | Total Population | Total # Deaths |
+|---|---|---|---|---|---|---|
+| 15-19 | 10,518,680 | 9,706 | 9,959,789 | 3,889 | 20,478,469 | 13,595 |
+| 20-24 | 10,663,992 | 14,964 | 10,063,772 | 5,009 | 20,727,694 | 19,973 |
+| 25-34 | 29,222,486 | 28,602 | 19,650,112 | 12,698 | 39,872,598 | 41,300 |
+
+Statistics (Rate per 100,000 people)
+
+P3-57. [frq, 1 pt] Using Table 3, calculate the age-specific death rates: 15-19 age group ____
+
+P3-58. [frq, 1 pt] Using Table 3, calculate the age-specific death rates: 20-24 age group ____
+
+P3-59. [frq, 1 pt] Using Table 3, calculate the age-specific death rates: 25-34 age group ____
+
+P3-60. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Males aged 15-19 ____
+
+P3-61. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Males aged 20-24 ____
+
+P3-62. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Males aged 25-34 ____
+
+P3-63. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Females aged 15-19 ____
+
+P3-64. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Females aged 20-24 ____
+
+P3-65. [frq, 1 pt] Using Table 3, calculate age and sex specific death rates: Females aged 25-34 ____
+
+P3-66. [mcq, 1 pt] What can you infer from the age-specific death rates (calculated above)?
+    A) Death rates decrease with age
+    B) Death rates increase with age
+    C) Death rates are based on population
+    D) Death rates are affected by smoking not age.
+    E) Death rates are not associated with age
+
+P3-67. [mcq, 1 pt] For which gender group is the death rate higher?
+    A) Male
+    B) Female
+    C) Male and Female are equal

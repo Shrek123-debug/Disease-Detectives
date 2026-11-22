@@ -1,0 +1,431 @@
+Yale — Disease Detectives  |  Season 2014  |  Division C  |  Time limit 50 min  |  86 questions, 135.5 pts
+Source: scio.ly test archive id 590bd9d1-2edc-464d-805a-d2f3be26d21a  |  original files: https://drive.google.com/drive/folders/1bPlP1V-uKb9A3AG7KP921M3r1BtAYoOp
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: You will have 50 minutes to complete this test. Each team may bring one 8.5” by 11” two-sided page of information, and up to 2 non-programmable, non-graphing, scientific calculators. Write your team name and number on every page of your test booklet, in case your pages become separated. Answers should be written directly onto the test booklet, in the blanks provided. Try to keep your answers within the allotted space. The test is divided into several sections. Total point values for each section are listed below, and point values are also listed next to each question. Use your time wisely.
+
+
+=== General Knowledge Section 1 ===
+
+[STIMULUS] For each definition given in questions 1 though 15, write the correct term in the box in the column on the left
+
+1. [frq, 1 pt] the first case or instance of a patient coming to the attention of health authorities.
+
+2. [frq, 1 pt] the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+
+3. [frq, 1 pt] an infectious disease that is transmissible from animals to humans.
+
+4. [frq, 1 pt] the ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+5. [frq, 1 pt] an epidemic occurring over a widespread area (multiple countries or continents) and usually affecting a substantial proportion of the population.
+
+6. [frq, 1 pt] the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+
+7. [frq, 1 pt] the constant presence at high incidence and prevalence of an agent or health condition within a given geographic area or population.
+
+8. [frq, 1 pt] a measurement scale consisting of qualitative categories whose values have a distinct order but no numerical distance between their possible values (e.g., stage of cancer, I, II, III, or IV).
+
+9. [frq, 1 pt] an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+
+10. [frq, 1 pt] the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+
+11. [frq, 1 pt] an analytic study in which participants are enrolled before the health outcome of interest has occurred.
+
+12. [frq, 1 pt] the ability of an intervention or program to produce the intended or expected results with a minimum expenditure of time and resources.
+
+13. [frq, 1 pt] the constant presence of an agent or health condition within a given geographic area or population
+
+14. [frq, 1 pt] systematically tabulated data about recorded births, marriages, divorces, and deaths.
+
+15. [frq, 1 pt] the separation of infected persons to prevent transmission to susceptible ones
+
+16. [frq, 2.5 pt] Define epidemiology:
+
+17. [frq, 2 pt] Give two possible examples of fomites:
+
+
+=== Case Study 1: (Questions 18- 28) — Angiosarcoma of the Liver Among Polyvinyl Chloride Workers -- Kentucky ===
+
+[STIMULUS] Information taken from CDC MMWR Reports from 1974 and 1979
+
+You and your partner are budding new EIS officers at the CDC. You are told that you have been assigned to investigate a situation in Louisville, Kentucky.
+
+18. [frq, 3 pt] List, in order, the first 3 steps of an outbreak investigation:
+
+[STIMULUS] You and your partner arrive in Louisville and are given the following situation update by local health authorities:
+
+**Update 1:** Between September 1967 and December 1973, 4 cases of angiosarcoma of the liver were diagnosed among men employed in the polyvinyl chloride polymerization section of a B.F. Goodrich plant near Louisville, Kentucky. This section of the plant began operations in 1938. It employs about 270 persons and produces polyvinyl chloride as well as a variety of copolymers by polymerization of vinyl chloride monomer. All 4 men had worked continuously in the section for at least 14 years prior to onset of illness; all 4 had worked directly in various phases of the polymerization process.
+
+19. [frq, 2 pt] Based solely on the information given in Update 1, can you determine whether there is an outbreak of angiosarcoma of the liver in Louisville? Why or why not?
+
+[STIMULUS] Your partner decides to look up angiosarcoma in a medical textbook and finds the following information (Update 2):
+
+**Update 2:** Angiosarcoma of the liver is an exceedingly rare tumor. It is estimated that only about 25 such cases occur each year in the United States.
+
+20. [frq, 2 pt] Based on the information given in Updates 1 and 2, does the group of cases in the Louisville plant constitute an outbreak? Why or why not?
+
+21. [frq, 6 pt] You would like to determine the cause of the illness. List and define 3 criteria for determining causality:
+
+22. [frq, 6 pt] You are trying to decide what type of study to carry out. List 2 types of analytic epidemiologic studies that would be most useful in this situation, as well as a pro and a con for each study type.
+
+[STIMULUS] Some of your colleagues decide to carry out a study titled “Neoplastic Risk Among Workers Exposed to Vinyl Chloride”. This is a retrospective cohort study. Initially, two criteria were established for selection of facilities to be investigated. Only those facilities that 1) had been engaged in the polymerization of VC for at least fifteen years and 2) had a sizable work force were considered. Following a telephone survey of all facilities in the U.S.A. known to be polymerizing vinyl chloride, four facilities were selected from among the many which met the study criteria. These four plants in 1974 were employing 250, 75, 250, and 250 VC polymerization workers and had been polymerizing VC for 28, 20, 24, and 32 years, respectively. Vinyl chloride monomer had been made at two of the four plants, as had the compounding of polyvinyl chloride (PVC). All four plants produced various copolymers of VC at different times, vinyl acetate copolymer being common to all four and vinylidene chloride copolymer common to three. Since environmentally induced cancer often takes many years to become clinically manifest following exposure to a carcinogen, cohort study was restricted to those individuals having achieved five or more years of employment (exposure) and ten years since onset of initial employment (latency) in departments and jobs directly related to vinyl chloride.
+
+23. [frq, 1 pt] Information from numerous state and federal governmental agencies and other sources permitted the vital status determination of more than 99% of the 1294 cohort members in the “Neoplastic Risk Among Workers Exposed to Vinyl Chloride” study described above. If your colleagues do **not** wish to overestimate the true risk associated with vinyl chloride exposure, should people whose vital status cannot be determined be assumed to be alive or assumed to be dead?
+
+24. [frq, 4 pt] Explain and interpret the results given in Table 3 above (hint: focus on SMR)
+    [IMAGE: ../images/2014_yale_c__p5_ee2dec-309d10f7.webp]
+
+25. [frq, 1 pt] Explain the statistical meaning of "significant at p<0.05"
+
+26. [frq, 2 pt] Now that you have analyzed the results of the "Neoplastic Risk Among Workers Exposed to Vinyl Chloride" study that your colleagues have shared with you, you must apply these findings to the situation in Louisville. List 2 recommendations or suggestions that you will share with the head of the B.F. Goodrich plant in Louisville or with local health authorities.
+
+27. [frq, 2 pt] Explain one limitation of the "Neoplastic Risk Among Workers Exposed to Vinyl Chloride" study described above.
+
+28. [frq, 3 pt] List the 3 components of the "Epidemiological Triad" in general, and identify them specifically for the B.F. Goodrich plant situation you are investigating.
+    1.____ ____
+    2.____ ____
+    3.____ ____
+
+29. [mcq, 1 pt] Circle the term below that best describes the situation seen in the B.F. Goodrich plant in Louisville:
+    A) point source
+    B) continuous common source
+    C) intermittent source
+    D) propagated
+    E) mixed
+
+30. [frq, 1 pt] NIOSH is an organization associated with the CDC that deals with health and safety in the workplace. What does NIOSH stand for?
+
+
+=== Tie-Breakers ===
+
+TB1. [frq, 1 pt] A person who is bitten by a snake and then receives antivenom is given an artificially acquired ____ immunity
+
+TB2. [frq, 1 pt] The scientific name for the agent that causes plague is ____. (Use binomial nomenclature)
+
+TB3. [frq, 1 pt] The **H** in H1NI influenza stands for ____.
+
+TB4. [frq, 1 pt] PCR is a molecular technique often used to identify and compare microbial agents. PCR stands for ____.
+
+TB5. [frq, 1 pt] Hepatitis C most commonly causes disease in what organ?
+
+TB6. [frq, 1 pt] Kuru is a degenerative neurological disorder endemic to tribal regions of Papua New Guinea. It is caused by what type of agent?
+
+[STIMULUS] For questions TB8 through TB16, choose the correct type of causal agent-- Write a letter corresponding to the answer choices given here (choices may be used once, more than once or not at all):
+
+**V** .virus
+**B** . bacteria
+**F** . fungus
+**P** . protist
+
+TB8. [mcq, 1 pt] rubella
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB9. [mcq, 1 pt] yellow fever
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB10. [mcq, 1 pt] tuberculosis
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB11. [mcq, 1 pt] giardiasis
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB12. [mcq, 1 pt] ergotism
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB13. [mcq, 1 pt] cholera
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB14. [mcq, 1 pt] malaria
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB15. [mcq, 1 pt] mononucleosis
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+TB16. [mcq, 1 pt] strep throat
+    A) virus
+    B) bacteria
+    C) fungus
+    D) protist
+
+
+=== Case Study 2: (Questions 31-44) — Outbreak of Staphylococcal Food Poisoning from a Military Unit Lunch Party — United States, July 2012 ===
+
+[STIMULUS] All data taken from CDC MMWR 20 December 2013
+
+On July 30, 2012, the emergency department at a military hospital was visited by 13 persons seeking care for gastrointestinal illness with onset 2–3 hours after a work lunch party. The hospital responded by opening up temporary evaluation and treatment capacity in primary-care clinics and a progressive-care unit and by diverting one patient to a local civilian hospital. An immediate outbreak investigation was conducted by local military public health personnel with assistance from CDC.
+
+31. [frq, 2 pt] What type of analytic study would be best to use in this situation? Why?
+
+32. [frq, 4 pt] List the 4 necessary components of any case definition and identify them specifically for the outbreak at the Military Unit Lunch Party.
+    1.____ ____
+    2.____ ____
+    3.____ ____
+    4.____ ____
+
+33. [frq, 3 pt] There are 3 levels of case definitions. Name them and define them (in general).
+    1. ____
+    2. ____
+    3. ____
+
+[STIMULUS] Immediate steps were taken to interview the 12 patients who received care at the military hospital (one of the 13 who sought care at the emergency department was diverted to a local civilian hospital) using a questionnaire to define the problem, make public health and clinical recommendations as necessary, and assess future patient, hospital, and military installation impact. Stool specimens were obtained from three persons who met this case definition, and leftover food was collected from all prepared dishes and sent to CDC for analysis. A party attendee list was obtained, and 35 (88%) of 40 attendees were interviewed with the same questionnaire; the other five attendees were not available for interview.
+
+34. [frq, 1 pt] What type of study is this?
+
+35. [frq, 2 pt] When interviewing subjects in any epidemiological study, what 4 types of information need to be collected?
+
+[STIMULUS] You receive the following information that has been gathered by interviewing patients (Table 1):
+    | Patient number | Time of onset |
+    | 1 | 12:00 PM |
+    | 2 | 1:00 PM |
+    | 3 | 2:00 PM |
+    | 4 | 1:00 PM |
+    | 5 | 1:00 PM |
+    | 6 | 2:30 PM |
+    | 7 | 4:00 PM |
+    | 8 | 12:00 PM |
+    | 9 | 3:30 PM |
+    | 10 | 1:00 PM |
+    | 11 | 3:30 PM |
+    | 12 | 1:30 PM |
+    | 13 | 2:00 PM |
+    | 14 | 1:00 PM |
+    | 15 | 1:00 PM |
+    | 16 | 2:00 PM |
+    | 17 | 1:30 PM |
+    | 18 | 3:00 PM |
+    | 19 | 1:00 PM |
+    | 20 | 3:00 PM |
+    | 21 | 5:00 PM |
+    | 22 | 4:30 PM |
+
+36. [frq, 1 pt] What is the rule of thumb used when generating the scale of the x-axis of an epi-curve?
+
+[STIMULUS] Your colleagues have collected a large amount of data by interviewing those who attended the lunch. They still need to complete a few more calculations.
+
+38. [frq, 4 pt] Please assist your colleagues by calculating the missing Attack Rates and Risk Ratios in Table 2 below. You may write your answers directly into the table.
+    [IMAGE: ../images/2014_yale_c__p11_4a0fb5-430b974f.webp]
+
+39. [frq, 4 pt] Please give sample calculations and formulas (one for Attack Rate and one for Risk Ratio) in the "Question 39" box provided below the table.
+
+40. [frq, 3 pt] Describe and explain your results from above in epidemiological terms.
+
+41. [frq, 2 pt] In one sentence, summarize your findings above, giving the key message that the **public** would need to know.
+
+42. [frq, 1 pt] Name one statistical measure that, if calculated and added to Table 2 above, would add to the validity and trustworthiness of your study.
+
+[STIMULUS] Through laboratory analysis, it is revealed that S. aureus is the causative agent in this outbreak. Some general information on Staphylococcal food poisoning is given below:
+
+Staphylococcal food poisoning, one of the most common foodborne illnesses in the United States, is caused by ingestion of one or more preformed staphylococcal enterotoxins. S. aureus is able to grow and express enterotoxins in a wide variety of foods (e.g., milk, meat, and egg products; mixed foods; cakes; and ice cream) (2). Intoxication is characterized by rapid onset of nausea, violent and copious vomiting, and abdominal cramping (with or without diarrhea). Fever usually is absent. The incubation period ranges from 30 minutes to 8 hours (3 hours on average), depending on individual susceptibility and the amount of toxin ingested (3). Illness usually is self-limited, resolving in 24–48 hours, and rarely is severe enough to warrant hospitalization (2, 4).
+
+S. aureus produces numerous serologically distinct enterotoxins, (A through V, excluding F) (2). Staphylococcal enterotoxin A is considered the main cause of staphylococcal food poisoning (4). Illness can be caused by ingestion of as little as 20 ng of enterotoxin (2). Although staphylococci commonly are found on environmental surfaces and in various food products, food handlers carrying enterotoxin-producing S. aureus in their noses or on their hands are regarded as the main source of contamination (2, 5).
+
+Temperature limits for S. aureus replication and enterotoxin production are 43°F–118°F (6°C–48°C) and 50°F–115°F (10°C–46°C), respectively. Optimal growth temperatures for S. aureus replication and enterotoxin production are 95°F–106°F (35°C–41°C) and 93°F–104°F (34°C–40°C), respectively (2). Staphylococcal enterotoxins are resistant to heat treatment, low pH, and proteolytic enzymes (all of which easily destroy S. aureus). Once toxins are produced, they are retained through subsequent food preparation and storage processes and digestive tract ingestion (2). Measures to prevent the proliferation of the S. aureus organism therefore are critical.
+
+[STIMULUS] You and your colleagues collect some information on how the food for the Military Unit Lunch Party was prepared. This information is included in "Food Preparation Findings" below:
+
+**Food Preparation Findings**
+Food for the July 30 lunch party was purchased during July 27–28, with the exception of the pork, which was purchased approximately 1 week earlier. All perishable products (chicken thighs, chicken wings, breakfast sausage, and pork) were stored in a freezer.
+
+**Perlo.** On July 29, the raw chicken thighs and sausage were defrosted in the microwave. The defrosted chicken thighs were cooked in a stock pot of boiling water. After cooling, the chicken was removed from the thigh bones by hand and placed back into the stock pot. Sausage was cooked in a skillet and added to the pot. Onions and other seasonings were sautéed in the sausage oil and added to the pot. To complete the perlo, rice was added to the stock pot and cooked until all remaining water was absorbed. The pot of cooked perlo then was placed in an unheated oven for approximately 8 hours overnight. On the morning of July 30, the perlo was found to be warm. It was transferred to a slow cooker for reheating for approximately 1 hour on a high setting before transport and consumption.
+
+**Chicken wings.** On July 28, the raw chicken wings were defrosted in the refrigerator overnight. On July 29, they were seasoned and placed back in the refrigerator. On the morning of July 30, they were fried and placed in a foil-covered pan for transport and consumption on July 30.
+
+**Pulled pork.** The raw pork was defrosted in the microwave on July 29 and cooked overnight in a slow cooker for approximately 8 hours on a low setting before transport and consumption on July 30.
+
+**Green beans with potatoes.** On the morning of July 30, the green bean and potato dish was prepared by combining canned green beans and chopped potatoes in a slow cooker on a high setting.
+
+All precooked food was maintained in slow cookers for transport on July 30 and reheated at the venue in separate slow cookers with the exception of the chicken wings, which were placed in a foil container after preparation and never reheated. The food was served buffet style at approximately 11:00 a.m., using utensils owned by the preparer. Throughout the food preparation and food service process, food preparers did not wear gloves. The preparers did not have any open wounds on their hands, and their hands were not tested for any organisms.
+
+43. [frq, 2 pt] Use the information above to list two potentially risky food preparation techniques used in preparing for the Military Unit Lunch Party.
+
+44. [frq, 6 pt] Think about the 6 members or steps of the classic Chain of Transmission model (in order). List these six steps, and based on the information on Stapholococcal food poisoning and the Food Preparation Findings given above, propose a corresponding chain of transmission in this Military Unit Lunch Party outbreak.
+    
+    1.____ ____
+    2.____ ____
+    3.____ ____
+    4.____ ____
+    5.____ ____
+    6.____ ____
+
+
+=== Case Study 3: (Questions 45-58) — Childhood blood lead levels and intellectual development after ban of leaded gasoline in Taiwan: a 9-year prospective study. ===
+
+[STIMULUS] All data taken from Environment International January 2012
+
+Lead (Pb) exposure can have negative effects on health and development. Taiwan recently banned the addition of lead to gasoline. A summary of a recent Taiwanese study on the effects of lead exposure is given below:
+
+**Childhood blood lead levels and intellectual development after ban of leaded gasoline in Taiwan: a 9-year prospective study.**
+
+**Abstract/Background**
+Lead (Pb) exposure is associated with children's neurodevelopment, even at low doses. Leaded gasoline was banned in Taiwan in 2000 to reduce environmental exposure to Pb.
+
+**Objectives**
+To evaluate the neurodevelopmental effect of low-level Pb exposure in young children.
+
+**Methods**
+In 2001–2002, we have recruited 430 pregnant women in the third-trimester in Taichung, Taiwan who answered detailed questionnaires in the obstetric clinic. A total of 119, 76, and 66 children were followed up at 2–3, 5–6 and 8–9 years, respectively. We collected blood samples from pregnant women, Umbilical cord and children, and evaluated children's neurodevelopment and cognition function at all three time points using Bayley and Wechsler tests. Blood samples were analyzed for whole blood lead (BPb) levels.
+
+**Results**
+Geometric mean of BPb in pregnant women, cord blood and children at 2–3, 5–6 and 8–9 years old were 2.21, 1.30, 2.48, 2.49 and 1.97 µg/dl, respectively. Low-level postnatal Ln BPb was significantly associated with not only decreasing intelligence quotient (IQ), but also delayed cognitive function in children at 5–8 years (β: − 5.97, SE: 2.59, p = 0.025), after adjustment for maternal education, maternal BPb exposure, Home Observation for Measurement of the Environment Inventory (HOME), and gender of child, using linear mixed models. No significant relation was observed between prenatal and cord blood Pb levels and children's cognitive function in children 2–8 years.
+
+**Conclusions**
+Low-level postnatal BPb levels in children at 2–5 years may have lagged effects on neurodevelopment in those at 5 to 8 years. Action is warranted to reduce even very low environmental Pb levels to reduce the developmental burden of Pb on children.
+
+45. [mcq, 1 pt] Tetraethyl lead used to be added to gasoline as an anti-knocking agent, but it was outlawed due to its detrimental effects to health. In what decade was leaded gasoline banned in the U.S.?
+    A) 1920s
+    B) 1950s
+    C) 1960s
+    D) 1970s
+    E) 1990s
+
+46. [mcq, 1 pt] Which term best describes the Taiwanese study summarized above?
+    A) case-control study
+    B) cross-sectional study
+    C) cohort study
+    D) experimental study
+    E) clinical trial
+
+47. [numeric, 1 pt] Use the data in the Methods section above to calculate what **percent** of subjects had been lost to follow-up by the time the subject children were 8-9 years old.
+
+48. [frq, 1 pt] A high number of subjects were lost to follow up in this study. This could bias the study results. Lost to follow-up bias is an example of what type of bias?
+
+49. [frq, 1 pt] Give 1 reason that a subject may have been lost to follow-up.
+
+50. [frq, 1 pt] The following sentence comes from the report about the Taiwanese study. Use your knowledge of statistical analysis and study design to fill in the blank with the correct term:
+    
+    "We also included several covariates in statistical analysis to reduce the potential residual ____. Potential covariates selected from several longitudinal studies included child's gender, birth weight, HOME score, maternal education, maternal BPb and age, home pesticide use, pre-pregnancy smoking and alcohol use during pregnancy."
+
+51. [frq, 2 pt] Explain why it is important to use maternal education or maternal intelligence as a covariate. What false relationship might be seen if maternal education were NOT included in the statistical analysis? (Consider what relationships might exist between maternal intelligence and the independent and dependent variables in the study.)
+
+[STIMULUS] A company named BRBiotechnics is developing a new test called LEADER that hopes to detect elevated blood lead level in children in a way that is cheaper and less invasive than the current gold-standard of laboratory blood analysis. In order to investigate the accuracy of their new product, BRBiotechnics has tested 100 children for elevated blood lead level (BLL>10µg/dl) using both LEADER and laboratory blood analysis in order to compare the results. The results of these experiments are given in Table 1 below:
+    |  | laboratory blood analysis positive | laboratory blood analysis negative |
+    | LEADER test positive | 24 | 6 |
+    | LEADER test negative | 2 | 68 |
+
+52. [numeric, 1 pt] Based on the data given in Table 1, how many “false negative” results did the LEADER test give?
+
+53. [frq, 2 pt] Calculate the sensitivity of the LEADER test.
+
+54. [frq, 1 pt] Explain the meaning of “sensitivity”
+
+55. [frq, 2 pt] Calculate the specificity of the LEADER test.
+
+56. [frq, 1 pt] Explain the meaning of “specificity”
+
+58. [frq, 2 pt] List 2 common items or processes in the home or environment that expose people to lead, other than leaded gasoline.
+
+
+=== General Knowledge Section 2: (Questions 59 through 75) ===
+
+59. [mcq, 1 pt] Public health surveillance can be described primarily as which of the following?
+    A) A method to monitor occurrences of public health problems.
+    B) A program to control disease outbreaks.
+    C) A system for collecting health-related information.
+    D) A system for monitoring persons who have been exposed to a communicable disease.
+
+60. [tf, 1 pt] Public health surveillance is only conducted by public health agencies.
+    A) True
+    B) False
+
+61. [tf, 1 pt] Underreporting is not a problem for detecting outbreaks of notifiable diseases because the proportion of cases reported tends to remain relatively stable over time.
+    A) True
+    B) False
+
+62. [mcq, 1 pt] The hallmark feature of an analytic epidemiologic study is:
+    A) Use of an appropriate comparison group
+    B) Laboratory confirmation of the diagnosis
+    C) Publication in a peer-reviewed journal
+    D) Statistical analysis using logistic regression
+
+63. [mcq, 1 pt] When analyzing surveillance data by age, which of the following age groups is preferred?
+    A) 1-year age groups
+    B) 5-year age groups
+    C) 10-year age groups
+    D) Depends on the disease
+
+64. [mcq, 1 pt] A study in which children are randomly assigned to receive either a newly formulated vaccine or the currently available vaccine, and are followed to monitor for side effects and effectiveness of each vaccine, is an example of which type of study?
+    A) Experimental
+    B) Cohort
+    C) Case-control
+    D) Clinical trial
+
+67. [mcq, 1 pt] A cohort study differs from a case-control study in that:
+    A) Subjects are enrolled or categorized on the basis of their exposure status in a cohort study but not in a case-control study
+    B) Subjects are asked about their exposure status in a cohort study but not in a case-control study
+    C) Cohort studies require many years to conduct, but case-control studies do not
+    D) Cohort studies are conducted to investigate chronic diseases, case-control studies are used for infectious diseases
+
+68. [tf, 1 pt] All proportions are ratios, but not all ratios are proportions.
+    A) True
+    B) False
+
+69. [mcq, 1 pt] Many of the students at the boarding school, including 6 just coming down with varicella, went home during the Thanksgiving break. About 2 weeks later, 4 siblings of these 6 students (out of a total of 10 siblings) developed varicella. The secondary attack rate among siblings was, therefore:
+    A) 4 ⁄ 6
+    B) 4 ⁄ 10
+    C) 4 ⁄ 16
+    D) 6 ⁄ 10
+
+[STIMULUS] Use the following diagram for Questions 70 and 71. Assume that the horizontal lines in the diagram represent duration of illness in 8 different people, out of a community of 700.
+    [IMAGE: ../images/2014_yale_c__p19_39a4ad-5b28e1cd.webp]
+
+70. [mcq, 1 pt] What is the prevalence of disease during July?
+    A) 3 ⁄ 700
+    B) 4 ⁄ 700
+    C) 5 ⁄ 700
+    D) 8 ⁄ 700
+
+71. [mcq, 1 pt] What is the incidence of disease during July?
+    A) 3 ⁄ 700
+    B) 4 ⁄ 700
+    C) 5 ⁄ 700
+    D) 8 ⁄ 700
+
+72. [mcq, 1 pt] Which of the following shapes of a population pyramid is most consistent with a young population?
+    A) Tall, narrow rectangle
+    B) Short, wide rectangle
+    C) Triangle base down
+    D) Triangle base up
+
+73. [tf, 1 pt] A spot map must reflect numbers; an area map must reflect rates.
+    A) True
+    B) False
+
+[STIMULUS] Use the following epidemic curve for Question 74.
+    [IMAGE: ../images/2014_yale_c__p20_3455b5-28c3172f.webp]
+
+74. [mcq, 1 pt] A group of tourists on a weeklong bus tour of a European country experienced an outbreak of norovirus. The group had followed a consistent meal time pattern: each morning they had breakfast together in whichever hotel they had stayed from 6:00 a.m. to 7:00 a.m., stopped for lunch from 1:00 p.m. to 2:00 p.m., then had dinner together either at the next hotel or at a restaurant at about 7:00 p.m. The incubation period for norovirus is about 24-48 hours, with a median of about 33 hours. On which day and at which meal was exposure most likely?
+    A) April 19 Dinner
+    B) April 20 Breakfast
+    C) April 20 Lunch
+    D) April 20 Dinner
+    E) April 21 Breakfast
+
+75. [mcq, 1 pt] Choose the letter below that best describes the outbreak shown in epi-curve “C” here:
+    [IMAGE: ../images/2014_yale_c__p20_6c6cb4-0dc70578.webp]
+    A) A malfunctioning space heater was used each time the outside temperature dropped below freezing
+    B) At the Eclipse Restaurant, sodium nitrite was mistaken for table salt in the preparation of breakfast one morning only
+    C) Common cold passed from classmate to classmate

@@ -1,0 +1,858 @@
+BirdSO Satellite — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  128 questions, 404.0 pts
+Source: scio.ly test archive id 9aca0a61-c406-417f-803c-379e295e2b0e  |  original files: https://drive.google.com/drive/folders/1tTmBd6Xv2kwmTYEaMd2juyW9nLS450RA
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: 2 decimal points (at least) for each answer. Work not needed.
+
+
+=== Part 1 ===
+
+[STIMULUS] Match each definition with the appropriate term. Terms are:
+a. Vertical transmission
+b. Horizontal transmission
+c. Outbreak
+d. Pandemic
+e. Cluster
+f. Hyperendemic
+g. Holoendemic
+h. Endemic
+i. Iatrogenic
+j. Nosocomial
+k. Index case
+l. Primary case
+m. Vector
+n. Fomite
+o. Epidemiology
+p. Etiology
+q. Enzootic
+r. Preclinical disease
+s. Subclinical disease
+t. Incubation period
+
+1. [mcq, 2 pt] The study of the distribution and determinant of health conditions in a population and the application of this study to prevent disease.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+2. [mcq, 2 pt] Passage of a pathogen from mother to baby during the period immediately before and after birth.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+3. [mcq, 2 pt] Illness acquired in the hospital.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+4. [mcq, 2 pt] An animal that carries diseases.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+5. [mcq, 2 pt] A disease that has spread over a significant part of the world (multiple countries or continents).
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+6. [mcq, 2 pt] Pathological changes from an agent that does not precede symptomatic disease.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+7. [mcq, 2 pt] A group of cases concentrated in time and place.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+8. [mcq, 2 pt] The first reported case of an outbreak.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+9. [mcq, 2 pt] Persistent, high levels of disease occurrence in a population.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+10. [mcq, 2 pt] A disease that is so prevalent that it infects almost everyone in a population at some point in time.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+11. [mcq, 2 pt] A disease regularly found in a population.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+12. [mcq, 2 pt] Illness caused by medical treatment.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+13. [mcq, 2 pt] The first actual case of an outbreak.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+14. [mcq, 2 pt] The study of the cause of diseases.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+15. [mcq, 2 pt] An inanimate object that transmits disease.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+16. [mcq, 2 pt] A disease constantly present in an animal population.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+17. [mcq, 2 pt] Pathological changes from an agent that precede symptomatic disease.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+18. [mcq, 2 pt] The time between exposure and first clinical symptoms.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+19. [mcq, 2 pt] Transmission of organisms between people that are not in a parent-progeny relationship.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+20. [mcq, 1 pt] More cases than expected in a specific area during a specific time.
+    A) Vertical transmission
+    B) Horizontal transmission
+    C) Outbreak
+    D) Pandemic
+    E) Cluster
+    F) Hyperendemic
+    G) Holoendemic
+    H) Endemic
+    I) Iatrogenic
+    J) Nosocomial
+    K) Index case
+    L) Primary case
+    M) Vector
+    N) Fomite
+    O) Epidemiology
+    P) Etiology
+    Q) Enzootic
+    R) Preclinical disease
+    S) Subclinical disease
+    T) Incubation period
+
+[STIMULUS] Name the person who is associated with each (first and last, both capitalized)
+
+21. [frq, 3 pt] Father of modern epidemiology, found the cause of a cholera outbreak
+
+22. [frq, 3 pt] Developed smallpox vaccine by using cowpox to infect people
+
+23. [frq, 3 pt] Identified origins of pellagra with a descriptive field study
+
+24. [frq, 3 pt] Created the rabies vaccine
+
+25. [frq, 3 pt] First to report SARS to the WHO
+
+[STIMULUS] Name the disease associated with each
+
+26. [frq, 3 pt] Associated with the post 9/11 bioterrorism attacks through the mail
+
+27. [frq, 3 pt] Only human disease to be eradicated
+
+28. [frq, 3 pt] Associated with using e-cigarette products contaminated with Vitamin E Acetate
+
+29. [frq, 3 pt] Caused by ingestion of methylmercury contaminated fish, sometimes called Dancing Cat Fever
+
+30. [frq, 3 pt] The infectious disease that currently kills the most people in the world every year
+
+31. [frq, 5 pt] Put these in order:
+    A. The results are reported to the government and news agencies.
+    B. A hospital reports the number of new yellow fever cases they see every month.
+    C. The data is compared to the number of yellow fever cases reported in prior weeks.
+    D. The government implements a new program to apply insecticides to kill mosquitoes.
+    E. An increase in yellow fever cases is correlated with an increase in mosquitoes due to more standing water after rainfall.
+
+32. [frq, 10 pt] Although rabies is relatively difficult to spread to other hosts, it only take a few rabies virions to infect someone with rabies, and (without taking the vaccine) practically everyone infected shows symptoms and eventually dies. Assuming no vaccine, rabies has a ____ (high/low) infectivity, ____ (high/low) infectiousness, ____ (high/low) pathogenicity, and ____ (high/low) virulence.
+
+33. [multi, 4 pt] Which of the following are NOT clinical epidemiology actions?
+    A) Developing a rapid diagnostic test for COVID-19.
+    B) Finding the risk factors for getting Kawasaki disease.
+    C) Evaluating if penicillin or sulfonamides are better for treating pneumonia.
+    D) Investigating how HIV is transmitted.
+
+[STIMULUS] Match each of the following disease with their current disease control status and explain: Control, eliminated, eradicated
+
+34. [frq, 3 pt] HIV/AIDS
+
+35. [frq, 3 pt] Polio
+
+36. [frq, 3 pt] Smallpox
+
+[STIMULUS] Match each with the associated stage in the natural history of disease. (Each stage may be used more than once or not at all.)
+
+37. [frq, 2 pt] Yoshi gets Chagas disease and fails to treat it in time, so she dies of heart damage.
+
+38. [frq, 2 pt] Samantha is shopping for muffins at Costco when someone with the flu coughs on her (rude!)
+
+39. [frq, 2 pt] Alice currently has a cold and has a runny nose and cough.
+
+40. [frq, 2 pt] Jake tested positive for tuberculosis but has no symptoms.
+
+42. [frq, 3 pt] What are the 3 techniques to prevent confounding?
+
+43. [frq, 6 pt] Antibiotic resistance is a major public health threat. Explain 3 reasons a bacterial disease may be resistant to an antibiotic.
+
+44. [frq, 3 pt] Bacteria aren't the only type of pathogen that can become immune to certain types of drugs. Give an example of a non-bacterial pathogen and a drug that it developed resistance to.
+
+[STIMULUS] For each of the following scenarios, propose a suitable type of surveillance and explain how you would implement it.
+
+45. [frq, 4 pt] You don't know when flu season will start, but you want to be aware of it once it does.
+
+46. [frq, 4 pt] Polio has been eliminated in an area, but you are worried it might be brought back in.
+
+47. [frq, 4 pt] There is a salmonella outbreak and you need to find all cases to investigate.
+
+48. [frq, 4 pt] Due to old lead pipes in the city, you are worried that tap water may cause lead poisoning.
+
+[STIMULUS] Give an example of each type of immunity and how the body could use it to defend against influenza.
+
+49a. [frq, 2 pt] Innate
+
+49b. [frq, 2 pt] Natural active
+
+49c. [frq, 2 pt] Natural passive
+
+49d. [frq, 2 pt] Artificial active
+
+49e. [frq, 2 pt] Artificial passive
+
+[STIMULUS] Lyme disease is caused by Borrelia bacteria, which live in white-footed mice. When blacklegged ticks feed on the mice, they are infected with Lyme disease. When they then bite humans, humans then develop Lyme disease.
+
+50. [frq, 6 pt] List the components of the epidemiological triad and how it applies to Lyme disease.
+
+51. [frq, 12 pt] List the components of the chain of infection in order and explain how it applies to Lyme disease.
+
+52. [frq, 4 pt] Are Koch's postulates commonly used to determine if a pathogen causes a disease today? Why or why not?
+
+53. [frq, 9 pt] List Hill's Criteria for Causation.
+
+
+=== Part 2 ===
+
+[STIMULUS] Based on:
+https://www.cdc.gov/mmwr/volumes/66/wr/mm6649a3.htm?s_cid=mm6649a3_w
+https://reliefweb.int/sites/reliefweb.int/files/resources/Dashboard%20of%20Nigeria%20meningitis%20-%20EndF.pdf
+
+In February 2017, Zamfara, Katsina, Kebbi, Niger, Yobe, and Sokoto states all reported increased cases of suspected cerebrospinal meningitis to the Nigeria Centre for Disease Control.
+
+54. [frq, 3 pt] What are the first 3 steps of outbreak investigation (list in order)?
+
+55. [tf, 1 pt] True or False: You can complete the second and third steps at the same time.
+    A) True
+    B) False
+
+56. [frq, 6 pt] Describe how you could complete the first 3 steps for the scenario given here.
+
+[STIMULUS] "A suspected case of meningitis was defined as the sudden onset of fever (>100.4°F [>38.0°C]) and at least one meningeal sign, including neck stiffness or altered consciousness in any person, or a bulging anterior fontanelle in children aged <18 months (6). Available cerebrospinal fluid (CSF) or blood specimens from patients meeting the suspected meningitis case definition were transported to a designated laboratory for confirmation by culture, latex agglutination, or real-time–polymerase chain reaction (PCR) tests."
+
+57. [frq, 4 pt] Which components of a case definition are listed here? What components are missing?
+
+58. [frq, 4 pt] One possible classification of a case is a "confirmed case." What are the other 4 possible classifications?
+
+[STIMULUS] After testing many cases, it is discovered that most cases are bacterial serogroup C N. meningitidis. It is spread by saliva and other secretions from the esophagus, by kissing or coughing from a close distance.
+
+59. [multi, 4 pt] Select all that apply. N. meningitidis is mainly spread by
+    A) Direct contact
+    B) Indirect contact
+    C) Droplet spread
+    D) Airborne spread
+    E) Vehicle spread
+
+60. [numeric, 3 pt] The R0 for serogroup C meningitis is estimated to be around 1.36. Assuming that the vaccine is 100% effective, what percentage of the population needs to be vaccinated to induce herd immunity?
+
+[STIMULUS] There is a new vaccine. The following data is collected.
+    |  | Meningitis | No meningitis |
+    | Vaccinated | 21 | 467 |
+    | Not vaccinated | 135 | 274 |
+
+61. [numeric, 4 pt] Calculate the vaccine efficiency.
+
+62. [numeric, 2 pt] There is yet another new vaccine, with an efficiency of 85%. If the R0 is still 1.36, what percentage of the population needs to be vaccinated to achieve herd immunity with this new vaccine?
+
+[STIMULUS] A new test is developed to quickly diagnose potential cases of meningitis. It is compared to the gold standard.
+    |  | Positive | Negative |
+    | Disease | 128 | 32 |
+    | No disease | 144 | 643 |
+
+63. [numeric, 3 pt] Calculate the following values: Sensitivity:
+
+64. [numeric, 3 pt] Specificity:
+
+65. [numeric, 3 pt] Positive predictive value:
+
+66. [numeric, 3 pt] Negative predictive value:
+
+67. [frq, 6 pt] One of your values should be significantly lower than the other 3. Name this paradox, and explain why you might see it here.
+
+68. [frq, 4 pt] Explain how lead time bias can make it look like screening tests are beneficial to patients.
+
+69. [frq, 4 pt] Explain how length bias can make it look like screening tests are reducing morbidity of a disease.
+
+70. [numeric, 2 pt] There were 1166 deaths total, out of 14518 cases of meningitis, in a population of 2,544,234. What was the case-fatality ratio for this outbreak?
+
+71. [frq, 2 pt] Explain the difference between the mortality rate and the case-fatality ratio.
+
+[STIMULUS] 
+    [IMAGE: ../images/2022_birdso_satellite_c__p9_7adf71-a1069312.webp]
+
+72. [frq, 2 pt] There is a lot going on in this map even though it is basically unreadable due to image quality. Note that the different states are colored in different shades of green based on their case-fatality rates, what type of map is this?
+
+73. [frq, 2 pt] Notice that there are blue and red circles of different sizes based on the number of cases and deaths in each state. What type of map is this?
+
+[STIMULUS] Classify the level of each measure of prevention as primordial, primary, secondary, tertiary, or quartnerary. A prevention level may be used multiple times or not at all.
+
+74. [frq, 2 pt] Mass vaccination program
+
+75. [frq, 2 pt] Giving diagnostic tests to healthy person exposed to meningitis
+
+76. [frq, 2 pt] Giving antibiotics to people ill with meningitis
+
+77. [frq, 2 pt] Teaching kids the importance of washing hands with soap
+
+78. [frq, 2 pt] Putting up flyers explaining how to stop the spread of meningitis
+
+79. [frq, 8 pt] Which step did you just do above? What steps are left for investigating this outbreak and how would you implement them?
+
+
+=== Outbreak scenario 2 ===
+
+[STIMULUS] Source: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5438a3.htm
+
+"In August 2004, the Kansas Department of Health and Environment (KDHE) received around 300 reports of a rash with no clear cause. From the population, investigators randomly selected 187 residents, of which 108 had a rash."
+
+80. [frq, 6 pt] List 3 reasons why epidemiologists might want to investigate this outbreak.
+
+81. [frq, 6 pt] Talking to affected patients is one way to generate hypotheses for an outbreak investigation. List 3 other ways.
+
+[STIMULUS] "Investigators asked all residents if they had recently been outdoors, if they had an insect bite, if they had used DEET, and if they had a pin oak tree."
+
+(Note: these 2 questions combined are TB 2)
+    |  | Rash | No Rash |
+    | Outdoors recently | 103 | 45 |
+    | Insect bite | 6 | 3 |
+    | DEET | 12 | 18 |
+    | Pin oak tree | 95 | 13 |
+
+82. [frq, 12 pt] Calculate the odds ratio for each of the 4 possible exposures listed.
+
+83. [frq, 12 pt] Calculate the risk ratio for each of the 4 possible exposures listed.
+
+84. [frq, 1 pt] If this were a case control study, would you use risk ratio or odds ratio?
+
+85. [frq, 2 pt] List an advantage and disadvantage of a case control study.
+
+86. [frq, 2 pt] Which exposure was most strongly associated with rash? Interpret the risk ratio for this exposure.
+
+[STIMULUS] 
+    [IMAGE: ../images/2022_birdso_satellite_c__p12_e4c7f6-fe6708f4.webp]
+
+87. [frq, 1 pt] What is this graph called?
+
+88. [frq, 8 pt] Name 4 things you can learn from this type of graph.
+
+89. [frq, 6 pt] Give 3 possible explanations for the large spike on September 1st.
+
+[STIMULUS] Describe what you would expect to see in a graph of this type for a:
+
+90a. [frq, 3 pt] Propagated outbreak
+
+90b. [frq, 3 pt] Common continuous source outbreak
+
+90c. [frq, 3 pt] Common intermittent source outbreak
+
+90d. [frq, 3 pt] Point source outbreak
+
+91. [frq, 4 pt] If the investigators had decided to take study subjects from people who visited the hospital, what specific bias would that be? Explain why this would create bias.
+
+92. [frq, 4 pt] If the investigators had took subjects from the working population, what specific bias would that be? Explain why this would create bias.
+
+[STIMULUS] The investigators created the following table.
+    [IMAGE: ../images/2022_birdso_satellite_c__p13_2a4268-413253d1.webp]
+
+93. [frq, 2 pt] Explain why there may be a difference in odds ratio when people were stratified by age.
+
+94. [frq, 3 pt] Explain what the 95% confidence interval for >33 years old, with one or more pin oak tree with galls on lot means and interpret it.
+
+95. [numeric, 1 pt] For a normal distribution, about 95% of the data will fall within ____ standard deviations of the mean. (Give an integer, no decimal points.)
+
+96. [frq, 3 pt] If the rash was caused by insect bits, why did so few cases report rashes?
+
+[STIMULUS] "A microscopic itch mite (Pyemotes herfsi) [which lived on pin oak trees with galls] was identified as the likely cause of the outbreak, which affected an estimated 54% of the Crawford County population (2000 population: 38,242)."
+
+97. [mcq, 1 pt] Which of the following would you classify this mite as?
+    A) Fomite
+    B) Vector
+    C) Environment
+    D) Agent
+    E) Host
+
+98. [frq, 6 pt] Suggest 3 prevention measures.
+
+99. [frq, 7 pt] Maintaining surveillance is an important step to ensure that an outbreak has truly ended. Name 7 traits of a good surveillance system.
+
+100. [frq, 6 pt] Suggest 3 sources of surveillance data for this outbreak.
+
+101. [frq, 1 pt] This information was published in the CDC MMWR. What does MMWR stand for?
+
+102. [frq, 1 pt] What does CDC stand for?
+
+
+=== Random MCQ Section ===
+
+103. [mcq, 2 pt] What study type did John Snow use to investigate cholera?
+    A) Case-control
+    B) Cohort
+    C) RCT
+    D) Ecological
+
+104. [mcq, 2 pt] Which of the following does not use a control group?
+    A) RCT
+    B) Case series
+    C) Case control
+    D) Cross sectional
+
+105. [mcq, 2 pt] Kuru is caused by which of the following?
+    A) Cannibalism
+    B) Mosquito bites
+    C) Spoiled fish
+    D) Contaminated water
+
+106. [mcq, 2 pt] Which bacteria causes Lyme disease?
+    A) Variola major
+    B) Vibrio vulnificus
+    C) Borrelia burgdorferi
+    D) Rickettsia rickettsii
+
+107. [mcq, 2 pt] The 1918 flu pandemic, caused by H1N1, was caused by the same subtype that caused
+    A) 1957-1958 flu pandemic
+    B) 2009 pandemic
+    C) Hong Kong flu pandemic
+    D) Avian flu pandemic
+
+108. [mcq, 2 pt] The Hawthorne effect is when
+    A) Patients are incorrectly classified as controls, or vice-versa, due to issues with the diagnostic test
+    B) Workers, who are healthier than the general population, are used for a study, making results biased
+    C) People in a study who know they are being observed behave differently than they would otherwise
+    D) When people know expectations are high, they are more likely to try and meet those expectations
+
+109. [mcq, 2 pt] The panel effect occurs when
+    A) Subjects are interviewed by too many people at once, causing nervousness
+    B) Subjects are given too much information at once, causing them to become confused
+    C) Subjects are given too many interviews in a row, causing exhaustion
+    D) Subjects are told which group they are in, influencing their behavior
+
+110. [mcq, 2 pt] Onion is measuring the height of everyone in his town. Unfortunately, his friend played a prank on his ruler and cut off the bottom five centimeters, making everyone's measured heights 5 cm shorter than their actual heights. His data will be:
+    A) Neither precise nor accurate
+    B) Precise but not accurate
+    C) Not precise but accurate
+    D) Both precise and accurate
+
+111. [mcq, 2 pt] What type of screening screens people currently in the hospital for other reasons?
+    A) Mass screening
+    B) Multiphasic screening
+    C) High-risk screening
+    D) Case-finding screening
+
+112. [mcq, 2 pt] Which is not one of the core functions of public health?
+    A) Assessment
+    B) Policy development
+    C) Assurance
+    D) Insurance
+
+113. [mcq, 2 pt] You may choose to use a sensitive case definition when
+    A) Trying to eradicate a disease
+    B) Investigating a new disease
+    C) You want to avoid false positives
+    D) You want to have a high negative predictive value
+
+114. [mcq, 2 pt] An asymptomatic carrier of disease can be
+    A) A primary case
+    B) An index case
+    C) A disease reservoir
+    D) A disease vector
+
+115. [mcq, 2 pt] When crows start showing up dead, scientists will check to see if they have West Nile to prevent human outbreaks. This is an example of
+    A) The One Health approach
+    B) Proof of biological plausibility
+    C) A disease vector
+    D) A spillover event
+
+116. [mcq, 2 pt] Which would be an example of direct transmission?
+    A) You lick a doorknob and get the flu
+    B) You run barefoot on dirt and get hookworm
+    C) Someone on the other side of the room has measles and coughs
+    D) You eat raw beef and get E. Coli
+
+117. [mcq, 2 pt] Which vector is not matched with the correct disease?
+    A) Flea - bubonic plague
+    B) Mosquito - dengue fever
+    C) Horsefly - Eastern Equine Encephalitis
+    D) Kissing bug - Chagas disease
+
+118. [mcq, 2 pt] Which statement is FALSE?
+    A) The Salk polio vaccine is the one primarily used in eradication campaigns.
+    B) All diseases that have been eradicated were done so with vaccines.
+    C) There are currently disease eradication campaigns that do not involve vaccination.
+    D) The word vaccine comes from Latin for the word "cow."
+
+119. [mcq, 2 pt] Sandi's brother gets measles, so he has to stay away from other people until he is no longer infectious. He is under
+    A) Quarantine
+    B) Observation
+    C) Treatment
+    D) Isolation
+
+120. [mcq, 2 pt] The prevalence of Type II diabetes is higher in Flans than Tapioca. What could this potentially mean?
+    A) The incidence of diabetes is higher in Flans
+    B) The morbidity from diabetes is higher in Tapioca
+    C) The people in Flans have a longer lifespan
+    D) All of the above
+
+121. [mcq, 2 pt] Which would not be a primary prevention method for the flu?
+    A) Encouraging citizens to eat more fruits and vegetables to be healthier
+    B) Putting up flyers about how to avoid catching the flu by wearing masks and washing hands
+    C) Giving free flu vaccinations to reduce incidence of the flu
+    D) Isolating those with flu from the general population
+
+122. [mcq, 2 pt] What is an example of a compartmental model of disease used in epidemiology?
+    A) The causal pie model
+    B) The SIR model
+    C) The epidemiological transition model
+    D) The epidemiological triad model

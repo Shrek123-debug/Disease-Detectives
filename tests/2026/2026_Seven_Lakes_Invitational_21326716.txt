@@ -1,0 +1,1316 @@
+Seven Lakes Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  115 questions, 195.0 pts
+Source: scio.ly test archive id 21326716-8398-44bf-a221-3093d816031e  |  original files: https://drive.google.com/drive/folders/1fC9f9peKECdrvjwJlBB2uy1bLl4ixx8G
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+DIRECTIONS: • No penalties for wrong answers
+• Make sure you have a calculator, as it will be needed for some questions.
+• All MCQ have one answer UNLESS the question specifically states to "Select all that apply"
+• Round all answers to the nearest hundredth
+• Good luck on the test!
+
+
+=== Term & Definition Matching ===
+
+[STIMULUS] **Terms:** Pandemic, Outbreak, Epidemic, Holoendemic, Syndemic,
+
+BSL, ELISA, PICO, DAGs, PFGE,
+Sign, Pathognomonic, Disorder, Disease, Symptom,
+Risk Ratio, Sensitivity, Specificity, Attack Rate, Matched Pair,
+Sepsis, Enteric, Endotoxin, Exotoxin, Gram Negative
+
+Match the definitions and characteristics to the terms in the table. Answers may be used once, more than once, or not at all.
+
+1. [mcq, 1 pt] A disruption of bodily function that arises from combinations of factors and multifaceted causal mechanisms
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+2. [mcq, 1 pt] Acronym for a set of safety precautions and procedures when working with microbes
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+3. [mcq, 1 pt] Disease occurrence is often stratified by age due to continuous, high-exposure in early life that creates immunity by adulthood
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+4. [mcq, 1 pt] Calculated by dividing the number of new cases by the total number of people at risk
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+5. [mcq, 1 pt] Classification met when there is two or more cases with the same strain of foodborne illness
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+6. [mcq, 1 pt] Test commonly used to identify specific antibodies or proteins found in a liquid sample
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+7. [mcq, 1 pt] A subjective feeling that only the patient can feel and experience during illness. An example is fatigue
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+8. [mcq, 1 pt] A clustering of two or more epidemics that interact synergistically to create an enhanced health burden
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+9. [mcq, 1 pt] Classification met when there a disease is rapidly and significantly spreading across multiple countries and continents
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+10. [mcq, 1 pt] A life threatening condition where your body's immune response to infection damages its own tissues and organs
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+11. [mcq, 1 pt] A process for creating evidence-based research questions in health related fields
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+12. [mcq, 1 pt] A feature that can help rule out and differentiate a specific diagnosis because it definitively indicates a certain condition. An example is the presence of the "bull's-eye" rash in the diagnosis of Lyme disease
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+13. [mcq, 1 pt] Utilizes immobilized reagents on a microplate in order to simplify the separation process
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+14. [mcq, 1 pt] A statistic that measures a test's ability to correctly identify those with the disease
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+15. [mcq, 1 pt] Classification met when there is one case of a novel or non-endemic disease
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+16. [mcq, 1 pt] Bacteria type with a peptidoglycan layer that provides a barrier against some antibiotics
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+17. [mcq, 1 pt] Lipopolysaccharide components of gram-negative bacteria that can cause severe inflammatory response if released into the bloodstream
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+18. [mcq, 1 pt] A statistic that measures a test's ability to correctly identify those without the disease
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+19. [mcq, 1 pt] An experimental design where participants are paired based on shared characteristics to reduce confounding
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+20. [mcq, 1 pt] Another name for this statistic is relative risk
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+21. [mcq, 1 pt] Bacterial proteins that enter and modify host cells
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+22. [mcq, 1 pt] There are three main types: A-B toxins; membrane-disrupting toxins; superantigens
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+23. [mcq, 1 pt] An observable indication of disease that can be measured by others. An example is high body temperature.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+24. [mcq, 1 pt] A specific, identifiable process that impairs bodily function through a known cause or agent
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+25. [mcq, 1 pt] A model for causal inference that consists of unidirectional edges that meet at vertexes/nodes.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Holoendemic
+    E) Syndemic
+    F) BSL
+    G) ELISA
+    H) PICO
+    I) DAGs
+    J) PFGE
+    K) Sign
+    L) Pathognomonic
+    M) Disorder
+    N) Disease
+    O) Symptom
+    P) Risk Ratio
+    Q) Sensitivity
+    R) Specificity
+    S) Attack Rate
+    T) Matched Pair
+    U) Sepsis
+    V) Enteric
+    W) Endotoxin
+    X) Exotoxin
+    Y) Gram Negative
+
+
+=== Scenario-Based Matching ===
+
+[STIMULUS] Match each scenario below with the correct type of prevention. Answers may be used once, more than once, or not at all.
+
+(A) Primordial
+(B) Primary
+(C) Secondary
+(D) Tertiary
+(E) Quaternary
+
+28. [mcq, 1 pt] Doctors often refrain from providing more antibiotics than needed to prevent the development of a "superbug," a highly resistant bacterial strain which can be difficult to treat.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+29. [mcq, 1 pt] After being diagnosed with Carpal Tunnel Syndrome, Mark decided to buy an ergonomic vertical mouse to reduce symptoms.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+30. [mcq, 1 pt] In the sunny state of Utah, where melanoma rates are the highest, Dr. Alleka provided information to beachgoers on how to self-screen for suspected melanoma.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+[STIMULUS] Match each scenario below with the correct level of disease control or spread. Answers may be used once, more than once, or not at all.
+
+(A) Control
+(B) Elimination
+(C) Eradication
+(D) Extinction
+
+31. [mcq, 1 pt] After an influenza B strain broke out throughout the entire North American continent, epidemiologists from New York worked hard to control the disease within the city, leading it to only be endemic in Staten Island.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+32. [mcq, 1 pt] After multiple concerted efforts to disseminate the smallpox vaccine worldwide, epidemiologists of the WHO successfully ensured that it no longer exists in the natural environment.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+33. [mcq, 1 pt] After earning a degree at MIT (The Magicians Institute of Teaneck), Dr. Barney Stinson successfully reduced the number of HIV cases to 0 in Lebanon.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+34. [mcq, 1 pt] Numerous customers reported that Crumbl Cookie's viral moonbeam cookie was causing diarrhea. In response, the CDC recalled the cookie in stores and contact traced all customers who bought the cookie in the past week.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+35. [mcq, 1 pt] When cases of the Truffula Tree flu were reported after a clear-cutting operation, epidemiologists from Thneedville worked with the Lorax to use his magical powers and successfully eliminate the existence of the agent.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+36. [mcq, 1 pt] A water fountain at school has been identified as the source of an intermittent common source outbreak of cholera. It is then removed by the school administration.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+37. [mcq, 1 pt] Neonatal tetanus occasionally occurs in developing countries where access to vaccines and clean birth practices are more limited. However, in developed countries like the US, there have been no such reported cases for decades.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+[STIMULUS] Match each scenario below with the type of bias it demonstrates using the bias bank below:
+
+**Possible Answers:**
+(A) Reporting Bias
+(B) Selection Bias
+(C) Observer Bias
+(D) Publication Bias
+(E) Halo Effect
+(F) Attrition Bias
+(G) Detection Bias
+(H) Length-Time Bias
+(I) Channeling Bias
+(J) Neyman's Bias
+(K) Procedure Bias
+(L) Interviewer Bias
+(M) Healthy Worker Effect
+(N) Efficiency Bias
+(O) Allocation Bias
+(P) Pygmalion Effect
+(Q) Clinical Susceptibility Bias
+(R) Hawthorne Effect
+
+38. [mcq, 1 pt] Patients report their own adherence to their medications, overestimating their own compliance.
+    A) Reporting Bias
+    B) Selection Bias
+    C) Observer Bias
+    D) Publication Bias
+    E) Halo Effect
+    F) Attrition Bias
+    G) Detection Bias
+    H) Length-Time Bias
+    I) Channeling Bias
+    J) Neyman's Bias
+    K) Procedure Bias
+    L) Interviewer Bias
+    M) Healthy Worker Effect
+    N) Efficiency Bias
+    O) Allocation Bias
+    P) Pygmalion Effect
+    Q) Clinical Susceptibility Bias
+    R) Hawthorne Effect
+
+39. [mcq, 1 pt] A hospital begins a study about the effects of a medicine on a group of ill patients. However, during the course of the study, several of the patients begin to die, and their results are not accounted for at the end of the study.
+    A) Reporting Bias
+    B) Selection Bias
+    C) Observer Bias
+    D) Publication Bias
+    E) Halo Effect
+    F) Attrition Bias
+    G) Detection Bias
+    H) Length-Time Bias
+    I) Channeling Bias
+    J) Neyman's Bias
+    K) Procedure Bias
+    L) Interviewer Bias
+    M) Healthy Worker Effect
+    N) Efficiency Bias
+    O) Allocation Bias
+    P) Pygmalion Effect
+    Q) Clinical Susceptibility Bias
+    R) Hawthorne Effect
+
+40. [mcq, 1 pt] To test the prevalence of respiratory diseases in New York City, epidemiologists sample workers from several construction sites.
+    A) Reporting Bias
+    B) Selection Bias
+    C) Observer Bias
+    D) Publication Bias
+    E) Halo Effect
+    F) Attrition Bias
+    G) Detection Bias
+    H) Length-Time Bias
+    I) Channeling Bias
+    J) Neyman's Bias
+    K) Procedure Bias
+    L) Interviewer Bias
+    M) Healthy Worker Effect
+    N) Efficiency Bias
+    O) Allocation Bias
+    P) Pygmalion Effect
+    Q) Clinical Susceptibility Bias
+    R) Hawthorne Effect
+
+41. [mcq, 1 pt] During a study on handwriting between men and females, both groups were given an extremely short amount of time to complete 10 pages of writing.
+    A) Reporting Bias
+    B) Selection Bias
+    C) Observer Bias
+    D) Publication Bias
+    E) Halo Effect
+    F) Attrition Bias
+    G) Detection Bias
+    H) Length-Time Bias
+    I) Channeling Bias
+    J) Neyman's Bias
+    K) Procedure Bias
+    L) Interviewer Bias
+    M) Healthy Worker Effect
+    N) Efficiency Bias
+    O) Allocation Bias
+    P) Pygmalion Effect
+    Q) Clinical Susceptibility Bias
+    R) Hawthorne Effect
+
+42. [mcq, 1 pt] Researchers carried out a study tracking nose-picking behaviors, holding subjects in a viewing room and tracking how many times they picked their nose.
+    A) Reporting Bias
+    B) Selection Bias
+    C) Observer Bias
+    D) Publication Bias
+    E) Halo Effect
+    F) Attrition Bias
+    G) Detection Bias
+    H) Length-Time Bias
+    I) Channeling Bias
+    J) Neyman's Bias
+    K) Procedure Bias
+    L) Interviewer Bias
+    M) Healthy Worker Effect
+    N) Efficiency Bias
+    O) Allocation Bias
+    P) Pygmalion Effect
+    Q) Clinical Susceptibility Bias
+    R) Hawthorne Effect
+
+
+=== History ===
+
+[STIMULUS] For the next 5 questions, match the name of each individual with the correct description:
+
+(A) Alexander Fleming
+(B) Edward Jenner
+(C) Florence Nightingale
+(D) James Lind
+(E) John Graunt
+
+43. [mcq, 1 pt] Discovered that vitamin C deficiency causes scurvy.
+    A) Alexander Fleming
+    B) Edward Jenner
+    C) Florence Nightingale
+    D) James Lind
+    E) John Graunt
+
+44. [mcq, 1 pt] One of the first to analyze population data. Known as the father of demography.
+    A) Alexander Fleming
+    B) Edward Jenner
+    C) Florence Nightingale
+    D) James Lind
+    E) John Graunt
+
+45. [mcq, 1 pt] Revolutionized healthcare by emphasizing sanitation during the Crimean War.
+    A) Alexander Fleming
+    B) Edward Jenner
+    C) Florence Nightingale
+    D) James Lind
+    E) John Graunt
+
+46. [mcq, 1 pt] Discovered first broadly effective antibiotic substance called penicillin.
+    A) Alexander Fleming
+    B) Edward Jenner
+    C) Florence Nightingale
+    D) James Lind
+    E) John Graunt
+
+47. [mcq, 1 pt] Performed the first smallpox vaccination by rubbing blisters of people with cowpox on arms of uninfected people.
+    A) Alexander Fleming
+    B) Edward Jenner
+    C) Florence Nightingale
+    D) James Lind
+    E) John Graunt
+
+48. [mcq, 1 pt] The Framingham Heart Study, a long-running study on the risk factors of cardiovascular disease, began in the year ____ in the state of ____.
+    A) 1948; Maryland
+    B) 1948; Massachusetts
+    C) 1978; Maryland
+    D) 1978; Massachusetts
+    E) 1978; Connecticut
+
+49. [mcq, 1 pt] Which of the following is the correct chronological order of notable Influenza pandemics?
+    A) Spanish Flu → Asian Flu → Russian Flu → Swine Flu
+    B) Asian Flu → Spanish Flu → Russian Flu → Swine Flu
+    C) Asian Flu → Spanish Flu → Swine Flu → Russian Flu
+    D) Spanish Flu → Russian Flu → Swine Flu → Asian Flu
+    E) Asian Flu → Russian Flu → Spanish Flu → Swine Flu
+
+50. [mcq, 1 pt] The CDC was originally established as an organization to control and prevent which disease?
+    A) Polio
+    B) Spanish Influenza
+    C) Malaria
+    D) HIV/AIDS
+    E) Tuberculosis
+
+51. [mcq, 1 pt] Koch's Postulates were developed by Robert Koch in the 1880s as a framework to prove that specific microorganisms cause specific diseases. Which of the following is NOT something that we have learned since then that creates exceptions or limitations to these postulates?
+    A) Certain pathogens are unable to be maintained in pure culture
+    B) One disease can be caused by multiple pathogens
+    C) One pathogen can cause multiple diseases
+    D) Some carriers of diseases are asymptomatic
+    E) None of the above
+
+52. [mcq, 1 pt] John Snow's study of a cholera outbreak at the Broad Street Pump is famous for being groundbreaking in a variety of ways. Which of the following is an accurate description of the scientific ramifications of his investigation?
+    A) His study discredited the miasma theory of "bad air" and created consensus in the general epidemiological community of its falsity
+    B) His study helped prove the germ theory of disease spread wherein diseases are transmitted by microorganisms invisible to the naked eye
+    C) His study was the first known use of spatial analysis of case clusters to trace an outbreak
+    D) His study formally identified Vibrio cholerae, the bacterium responsible for the cholera outbreak
+    E) None of the above
+
+
+=== Surveillance & Control Measures ===
+
+[STIMULUS] Choose the correct type of surveillance for each scenario.
+
+53. [mcq, 1 pt] Posts on a social media network are monitored for keywords in order to detect emerging signs of brain-rotting disease.
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Active Surveillance
+    D) Syndromic Surveillance
+    E) Risk-factor Surveillance
+
+54. [mcq, 1 pt] Public Health England (PHE) UK, a nationally notifiable system where physicians and labs report identified cases of disease according to NHS regulation.
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Active Surveillance
+    D) Syndromic Surveillance
+    E) Event-Based Surveillance
+
+55. [mcq, 1 pt] When collecting bacterial isolates from specific hospitals in the local area, researchers intend to monitor trends of antibiotic resistance and nosocomial disease.
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Active Surveillance
+    D) Syndromic Surveillance
+    E) Laboratory-Based Surveillance
+
+56. [mcq, 1 pt] The WHO's STEPwise program, a standardized system for non-communicable disease surveillance that tracks obesity rates and tobacco usage.
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Active Surveillance
+    D) Syndromic Surveillance
+    E) Risk-factor Surveillance
+
+57. [mcq, 1 pt] After the senior prom, public health officials ask school officials for the contacts of everyone who attended in order to seek out cases of foodborne illness.
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Active Surveillance
+    D) Syndromic Surveillance
+    E) Event-Based Surveillance
+
+58. [mcq, 1 pt] Which of the following is primary prevention for a mosquito-borne disease like malaria?
+    A) Artemisinin-based combination therapies
+    B) Using STAT thick and thin blood smear
+    C) Taking rest and staying properly hydrated
+    D) Utilizing mosquito repellent and removing standing water
+    E) Increasing funding for clinical trials of mosquito vaccines
+
+60. [mcq, 1 pt] Which of the following would be the most effective tertiary prevention when dealing with a virus outbreak in a small suburban town?
+    A) Isolating individuals with the viral disease
+    B) Providing immunoglobulin medications to infected residents
+    C) Promoting awareness about hygiene and PPE during this epidemic
+    D) Providing sick elderly individuals with antibiotics
+    E) None of the above
+
+61. [mcq, 1 pt] Which type of prevention focuses on stopping the development of risk factors before they are even present?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+62. [multi, 1 pt] Which of the following are primary prevention scenarios? Select all that apply.
+    A) An anti-smoking awareness ad campaign in schools
+    B) Receiving immunizations from local clinic
+    C) Following a strict diet after asymptomatic disease
+    D) Getting annual mammography
+    E) Abstaining from smoking or drinking
+
+
+=== Infectious Disease & Immunity ===
+
+63. [mcq, 1 pt] Susan transfers IgG for RSV via the placenta to her fetus. After her child is born, more IgG is transferred via breast milk. What type of immunity is this?
+    A) Natural Active Immunity
+    B) Natural Passive Immunity
+    C) Artificial Active Immunity
+    D) Artificial Passive Immunity
+    E) Congenital Immunity
+
+64. [mcq, 1 pt] After Robbie gets infected by his sister with Covid-19, his body is equipped with memory B cells specific to the Covid-19 spike protein. What type of immunity is this?
+    A) Natural Active Immunity
+    B) Natural Passive Immunity
+    C) Artificial Active Immunity
+    D) Artificial Passive Immunity
+    E) Expository Immunity
+
+65. [mcq, 1 pt] Gregory has HIV and recently gave himself a deep cut while gardening. His medical providers administered him tetanus immune globulin (TIG) to prevent a potential tetanus infection. What type of immunity is this?
+    A) Natural Active Immunity
+    B) Natural Passive Immunity
+    C) Artificial Active Immunity
+    D) Artificial Passive Immunity
+    E) Pre-prophylaxis Immunity
+
+66. [mcq, 1 pt] As encouraged by the CDC, children 12 months to 12 years of age should receive the MMR vaccine. This reduces the likelihood of infection later in life. What type of immunity is this?
+    A) Natural Active Immunity
+    B) Natural Passive Immunity
+    C) Artificial Active Immunity
+    D) Artificial Passive Immunity
+    E) Viral Immunity
+
+67. [mcq, 1 pt] Methods to make this type of vaccine usually include formaldehyde and β-Propiolactone (BPL). Some well known examples include influenza and Hepatitis A. What type of vaccine is this?
+    A) Live-alternated
+    B) Subunit
+    C) Recombinant
+    D) mRNA
+    E) Inactivated
+
+68. [mcq, 1 pt] Which Covid vaccine is incorrectly matched with its type?
+    A) Moderna; mRNA
+    B) Pfizer-BioNTech; mRNA
+    C) Novavax; mRNA
+    D) Johnson and Johnson; viral vector
+    E) Oxford-AstraZeneca; viral vector
+
+69. [mcq, 1 pt] How are live-attenuated vaccines such as MMR and varicella made?
+    A) Viruses are incubated in compounds such as formaldehyde and β-propiolactone (BPL)
+    B) Viruses are repeatedly cultured via foreign hosts to accumulate mutations
+    C) DNA encoding the viral antigen is inserted into a host to produce a purified antigen for the vaccine
+    D) Single strand mRNA is encased in a lipid nanoparticle and injected into the bloodstream
+    E) Heat, UV radiation, or low-energy electrons are used to denature the virus
+
+70. [mcq, 1 pt] Tdap (adult-version) and DTaP (child-version) are vaccines for diphtheria, tetanus, and acellular pertussis. The DTaP version of the vaccine has stronger antigen doses, whereas the Tdap merely functions as a booster shot. Some individuals may require more doses than standard series in order to stay effective. Which of the following is NOT a reason this may be the case?
+    A) Suboptimal vaccine storage or handling reduced potency of vaccine dose
+    B) Immunocompromised, children, and the elderly may require stronger doses to maintain a certain level of immunity
+    C) Each ensuing booster is typically less effective than the previous as antibody response begins to plateau
+    D) Intrinsic vaccine effectiveness may be low, so multiple doses are required to retain immunity
+    E) Selective pressures or natural variation in the causative agent can reduce effectiveness of prior immunity
+
+71. [mcq, 1 pt] Which of the following vaccines is incorrectly matched to its primary limitation?
+    A) Live-attenuated - can cause sickness or disease in individuals with weak or underdeveloped immune systems
+    B) Inactivated - produces weaker immune response and often requires boosters
+    C) Subunit - generally won't produce long-lasting immunity absent adjuvants or multiple doses
+    D) Toxoid - small dose of bacterial toxins causes minor cell damage near injection site
+    E) mRNA - requires specialized cold storage to keep the RNA stable
+
+72. [mcq, 1 pt] What type of vaccine is Tdap and which diseases does it confer immunity towards?
+    A) Conjugate; tuberculosis, diphtheria, pertussis
+    B) Conjugate; tetanus, diphtheria, anthrax
+    C) Conjugate; tetanus, diphtheria, pertussis
+    D) Toxoid; tetanus, diphtheria, pertussis
+    E) Toxoid; tetanus, diphtheria, anthrax
+
+73. [multi, 1 pt] Which of the following protein components make up the anthrax toxin? Select all that apply.
+    A) poly-γ-D-glutamic acid capsule
+    B) Edema factor
+    C) Hemagglutinin
+    D) Lethal factor
+    E) Protective antigen
+
+74. [mcq, 1 pt] Which is the correct pathophysiological explanation for diarrhea, the common symptom exhibited of cholera?
+    A) Cholera toxin B subunits reduces fat and d-xylose absorption and also decreases brush border enzyme activity.
+    B) Invasion of epithelial cells by cholera toxin A1 subunit stimulates cytokine production, leading to an inflammatory reaction. Acute inflammation leads to watery diarrhea and potential ulceration.
+    C) Cholera toxin A1 subunit increases cAMP production, inhibiting Na⁺/Cl⁻ absorption in microvilli and increasing Cl⁻/H₂O secretion from crypt cells.
+    D) Invasion by cholera bacteria leads to an inflammatory response and damage to intestinal lining, causing lesion formation and, in rare cases, hemolytic-uremic syndrome.
+    E) Bacterial attraction to mucus and adherence to mucus/epithelial cells via adhesins leads to cell destruction and reduced production of absorptive enzymes.
+
+75. [multi, 1 pt] Which of the following SARS-Cov-2 strains are correctly matched with their location of first outbreak? Select all that apply.
+    A) Delta; Vietnam
+    B) Omicron; South Africa
+    C) Alpha; China
+    D) Gamma; South Africa
+    E) Beta; Brazil
+
+76. [multi, 1 pt] Which of these animals are potential vectors for the Ebola Virus? Select all that apply.
+    A) Forest antelope
+    B) Fruit bats
+    C) Chimpanzees
+    D) Bat-eared fox
+    E) Rock hyrax
+
+77. [mcq, 1 pt] Why can prions not be destroyed by normal methods of heating and what is a potential alternative?
+    A) Differing and distinct prion templates means too much variability in prion strength and structure. Thus, heat is unable to fully denature all prions within a fiber; an alternative would be to use special heat-resistant subtilisin combined with heat and detergent
+    B) When heat is applied, PrP^{res} denatures slower than proteinase K, so it cannot be digested enzymatically; an alternative would be to use a guanidinium chloride treatment
+    C) Glycolipid anchors and asparagine-linked glycans that project out from amyloids protects PrP^{Sc} from denaturating; an alternative would be using thiourea-urea treatment
+    D) PrP^{Sc} is rich in beta-pleated sheets unlike the alpha-helical PrP^C, allowing misfolded proteins to form stable aggregates resistant to denaturation; an alternative would be immersion in NaOH and autoclave usage
+    E) PrpSc is rich in alpha-helixes unlike the beta-pleated sheet PrpC, allowing PrpSc to act as scaffold to transform many nonmutant proteins into prion aggregates; an alternative would be to use proteases and ionizing radiation
+
+78. [mcq, 1 pt] Which image correctly identifies the T. spiralis parasite that causes Trichinosis/Trichinellosis?
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p12_cab1a6-fd3464cb.webp]
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p12_aa7f6f-ead13dbe.webp]
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p12_f3f087-20dffd97.webp]
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p12_2646c4-bb7a2e21.webp]
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p12_b1450d-f5ac29b1.webp]
+    A) Image A
+    B) Image B
+    C) Image C
+    D) Image D
+    E) Image E
+
+79. [mcq, 1 pt] How does the Mantoux tuberculin test work?
+    A) Small quantities of tuberculin antigen are injected intradermally on the forearm. Manifestations of a raised area with a certain diameter are considered positive.
+    B) Patients' blood samples are analyzed to test for interferon-gamma (IFN-γ), which is indicative of an immune response.
+    C) Chest X-rays are analyzed for the presence of infiltrates (opaque areas)
+    D) Patients' sputum, pus, cerebrospinal fluid, or biopsied tissue are liquid and solid cultured for 6-8 weeks to test for the presence of mycobacterium tuberculosis.
+    E) A combination of both polymerase chain reaction (PCR) and nucleic acid amplification tests (NAAT) are carried out for urine samples
+
+
+=== Statistical Investigation ===
+
+[STIMULUS] Acme, NJ is a small unincorporated community with 6,741 residents. A mysterious, unknown communicable disease begins rapidly spreading throughout the town. Through contact tracing, epidemiologists have already determined that the outbreak began in Acme High School, which has a combined student & faculty population of 1,476. Additionally, the index case was Mr. Dudley, the high school's principal, who had just come back from a vacation with his rich friends on Esteen Island.
+
+So far, all of the cases have been either students or faculty of the school. 333 were diagnosed with the disease and 22 had died. Assume that all are susceptible to the disease at the beginning of the outbreak.
+
+81. [frq, 2 pt] Calculate the pathogenicity and the case-fatality ratio (CFR) of the disease within the school.
+
+82. [frq, 1 pt] Acme High School student Aarushi Chen recovered (unfortunately) from the disease last week. However, she unknowingly brought the disease into her household as a convalescent carrier, infecting both her parents and one out of her three siblings. What is the secondary attack rate?
+
+
+=== Scenario-Based Investigation ===
+
+[STIMULUS] For the following questions, identify the number and name of the step of investigation using the given scenario
+
+86. [frq, 1 pt] Your team of epidemiologists contact all local pediatrician offices and inquire of any recent E. Coli cases, making a line list of all known confirmed cases, including information like onset of symptoms and address.
+
+87. [frq, 1 pt] Your staff calls a local high school daily for updates on new cases following the implementation of control measures.
+
+88. [frq, 1 pt] You perform a case-control study to test your hypothesis that the outbreak is linked to undercooked hamburgers served at a recent picnic.
+
+89. [frq, 1 pt] The state lab confirms that the E. Coli strain that was isolated from a leftover sample of the burgers from the picnic has a DNA footprint that is identical to that of the strain found in the patients.
+
+90. [frq, 1 pt] The local health department received 15 reports of symptoms that match E. Coli, exceeding the typical monthly average or 1-2 cases.
+
+91. [frq, 1 pt] You and your team write a final report concluding that poor cooking temperature at the local picnic resulted in the E. Coli outbreak, and you present these findings to the city council.
+
+92. [frq, 1 pt] The health department immediately issues a recall of all unused beef from the supplier that was used at the picnic and advises local restaurants to not use beef from that batch.
+
+[STIMULUS] For the following questions, address each component of the scenario
+
+93. [frq, 3 pt] Public health officials want to quickly assess how common obesity is and how it relates to fast food consumption in a large urban population at a single point in time, without tracking participants over years. Which study type is best for this scenario? Explain one advantage of this study type and one possible limitation.
+
+94. [frq, 3 pt] Researchers are investigating whether long-term exposure to air pollution increases the risk of developing lung cancer. They plan to enroll healthy individuals, track their exposure levels over 10 years, and monitor who develops the disease. Which study type is best for this scenario? Explain why it's more appropriate than a case-control study.
+
+95. [frq, 3 pt] A team wants to test the effectiveness of a new vaccine against a rare infectious disease by randomly assigning participants to receive either the vaccine or a placebo and then observing infection rates in both groups over time. Which study type is best for this scenario? Describe one ethical consideration and a possible way to address it.
+
+96. [frq, 3 pt] After an outbreak of foodborne illness at a restaurant, investigators identify affected individuals and compare their food consumption history to that of unaffected diners from the same event to pinpoint the contaminated item. Which study type is best for this scenario? Explain one strength of this approach and how it differs from a cohort study.
+
+97. [frq, 3 pt] Health experts aim to evaluate the impact of a community-wide smoking cessation program on heart disease rates by comparing outcomes in the intervention community to a similar community without the program. Which study type is best for this scenario? Suggest one potential confounding factor and how it could be controlled.
+
+
+=== Case Study #1: Frozen Food Fiasco ===
+
+[STIMULUS] Beginning from September 13th to as of October 30th, 2025, the CDC has officially declared 45 people infected with a specific strain of foodborne illness after consuming frozen foods from Deep-brand frozen products. The 45 cases have been collected from across 11 states including Washington, Texas, and Illinois. Symptoms exhibited by cases include diarrhea, fever, and abdominal cramps after 12-17 hours of initial food consumption.
+
+98. [frq, 4 pt] Please write a case definition for this outbreak.
+
+99. [frq, 3 pt] The epicurve of the outbreak is pictured below. Determine, with justification, the type of outbreak.
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p15_2d26af-5940a346.webp]
+
+104. [frq, 3 pt] Are epidemiologists allowed to complete the 13 steps in any order or should they follow the accepted standard? Explain.
+
+[STIMULUS] Upon narrowing down the source options, epidemiologists administer surveys to 281 various consumers of Deep-brand’s products. Only 267 of the surveys are properly filled out and returned to the epidemiologists. Of the 267 survey responders, 197 reported to be healthy with no signs of foodborne illness. A partial table of the survey responses (only the columns that were preserved) is provided below.
+    | Food | Not Exposed | Healthy |
+    | Mint Chutney | 12 | 6 |
+    | Chicken Tikka Masala | 38 | 28 |
+    | Kati Roll Aloo Tikki | 53 | 33 |
+    | Lamb Vindaloo | 23 | 17 |
+    | Mixed Vegetable Samosa | 69 | 39 |
+    | Sprouted Moong (Mung) | 45 | 39 |
+
+106. [frq, 2 pt] What type of study is this? Be specific.
+
+107. [frq, 3 pt] What is one major issue with how this study was conducted? Suggest two ways to improve.
+
+[STIMULUS] To really confirm that the causative relationship between the suspected food and the outbreak is statistically significant, statistical tests must be conducted.
+
+110a. [frq, 3 pt] Why would a chi-squared test be good for this scenario? List at least 3 reasons.
+
+110b. [frq, 3 pt] Identify which type of chi-squared test should be conducted and provide the null and alternative hypothesis for it.
+
+[STIMULUS] After determining the exact cause of the outbreak, epidemiologists send samples of the food to be cultured and analyzed for the exact pathogen. A PFGE of the sample various strains of salmonella are provided below:
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p19_43b788-c9b53699.webp]
+
+111. [frq, 2 pt] Which Salmonella strain was most likely the culprit of this outbreak?
+
+112. [frq, 3 pt] Though PFGE is a constituent and well-established technology, it may not be the best choice for this scenario. Explain why WGS would be more appropriate to use.
+
+114. [frq, 5 pt] Provide a potential prevention measure for each level of prevention for this outbreak.
+
+115. [frq, 4 pt] What are the 4 steps to preventing foodborne disease?
+
+
+=== Case Study #2: Fowl Play at Poyang Lake Pavillion ===
+
+[STIMULUS] Avian influenza virus (AIV), particularly the highly pathogenic avian influenza (HPAI) H5 and H7 subtypes, has been a persistent global concern because of its substantial economic impact on both the poultry industry and public health (Caserta et al., 2024; Shi et al., 2022; Uyeki et al., 2024). China, a global powerhouse for poultry production and consumption, faces significant challenges in controlling avian influenza due to traditional practices including backyard farming and live poultry markets. These practices, including onsite slaughtering, intensify human-animal interactions, and foster ideal conditions for avian influenza transmission. Additionally, three of the world’s major migratory bird flyways cover China, with the largest and busiest, the East Asian-Australasian Flyway (EAAF), which spans eastern China (Li et al., 2014; Wang et al., 2021; Yang et al., 2020). Poyang Lake, the largest freshwater lake in China, is located on the EAAF, the largest migratory route globally (Wang et al., 2007). This area serves as a crucial wintering and stopover site for hundreds of thousands of birds each year.
+
+Long-term active surveillance for avian influenza was conducted from February 2017 to June 2024 in Nanchang city in the southwestern region of Poyang Lake. The four fixed surveillance sites in Nanchang were strategically selected according to China CDC’s avian influenza surveillance guidelines, aligning with national recommendations to focus surveillance on high-risk areas where poultry, environmental, and human activities intersect. Qingshanhu District was prioritized as the location of Nanchang’s largest live poultry wholesale market, while three other counties (Donghu, Xihu, and Xinjian) were chosen based on their status as major hubs for live poultry retail market. Each stall at the surveillance site was sampled, and sampling was conducted in even-numbered months (February, April, June, August, October, and December).
+
+The poultry samples included oropharyngeal and cloacal swabs from chickens, ducks, pigeons, quail, and geese. The environmental samples included smear samples (countertops, frames, soiled buckets, etc.), sewage samples (poultry wash water and poultry drinking water), and fecal samples. Using these samples, the study calculates positivity rates, or the proportion of samples that test positive in each batch. **Research Question**: Does environmental sampling for avian influenza accurately reflect the overall epidemiological status of the avian influenza virus?
+
+116. [frq, 6 pt] This is a prospective, longitudinal, ecological study that is examining the effectiveness of different avian influenza surveillance/detection techniques in the Poyang Lake region of China, a hotspot for such bird diseases. List two economic, social, or health-related reasons for why this study might be important.
+
+117. [frq, 3 pt] Epidemiological tests can be divided into two main subtypes: screening tests and diagnostic tests. Would the oropharyngeal and cloacal swabs be considered a diagnostic test or a screening test and why?
+
+118. [frq, 6 pt] One Health is a public health framework that recognizes three main domains that are interconnected and interdependent, requiring collaborative, multidisciplinary approaches to address complex health threats. Please state each domain, and provide an example of how each is incorporated into the study.
+
+119. [frq, 3 pt] A specific strain of avian flu, H5N1, was most recently detected in cattle and even humans in the North Texas region. A mutation in basic protein 2, PB2-E627K, allowed the bird-related disease to cross over into animals. Would this be considered an example of antigenic shift or antigenic drift, and why?
+
+[STIMULUS] Assume that the above two graphs display the subregions of the Poyang Lake region. The graph on the left utilizes darker shades to display higher positivity rates of AIV and lighter shades to display lower rates of AIV. The graph on the right distorts the size of the geographic area to represent a specific variable, in this case, the total bird population.
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p21_98e47d-3155a634.webp]
+
+120. [frq, 3 pt] What is the name of the map on the left? List one advantage and one disadvantage of using such a model.
+
+121. [frq, 3 pt] What is the name of the map on the right? List one advantage and one disadvantage of using such a model.
+
+[STIMULUS] Based on the positivity rate data of avian influenza in collected poultry and environmental samples, the study constructs a dynamic transformation process model (1) between susceptible poultry (S) and infected poultry (I) and conducts a study on time series analysis and prediction of avian influenza positive rates using the SI dynamic model.
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p21_929a86-9587981e.webp]
+
+122. [frq, 3 pt] Oftentimes epidemiologists use an SIR model, which includes recovered (R). Justify why in this case study, only an SI model is necessary.
+
+123. [frq, 3 pt] Assume the study sets S₀ = 1. What would be the value of I₀, and why?
+
+[STIMULUS] A linear regression model was constructed between environmental and poultry sample positivity rates, showing a strong, positive correlation between the variables. The slope coefficient was found to be 0.686.
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p22_ab7684-79c42912.webp]
+
+124. [frq, 4 pt] Interpret this value in relation to both variables. Based on this value, is the sensitivity of environmental samples or poultry samples higher?
+
+[STIMULUS] | **Environmental Samples** | **Sick** | **Healthy** |
+|---|---|---|
+| Positive(+) | 92 | 27 |
+| Negative(−) | 14 | 86 |
+
+| **Poultry Samples** | **Sick** | **Healthy** |
+|---|---|---|
+| Positive(+) | 79 | 13 |
+| Negative(−) | 32 | 91 |
+
+125. [frq, 4 pt] Calculate the sensitivity and specificity for environmental samples. Show your work and round to the nearest hundredths.
+
+126. [frq, 4 pt] Calculate the sensitivity and specificity for poultry samples. Show your work and round to the nearest hundredths.
+
+128. [frq, 3 pt] Why might we prioritize sensitivity over specificity in this scenario? Hint: you should be referencing what the specific scenario is to get points
+
+129. [frq, 4 pt] The above directed acyclic graph examines the variables affecting transmission of avian flu to humans in the Poyang Lake area. Children are more likely to visit live markets. AIV status is the positive or negative status of an individual for avian influenza virus. Identify a collider variable and confounding variable. In this case, how would we reduce confounding?
+    [IMAGE: ../images/2026_seven_lakes_invitational_c__p23_ff64d3-6649f915.webp]
+
+130. [frq, 10 pt] Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) is a framework where quality of evidence is considered. There are 3 criteria/domains that can upgrade evidence and 5 criteria/domains that can downgrade evidence. List as many domains as possible AND how they could potentially apply to this study scenario. Up to 5 valid domains will be taken for credit

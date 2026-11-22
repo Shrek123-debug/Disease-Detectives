@@ -1,0 +1,460 @@
+Ohio State Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  95 questions, 199.0 pts
+Source: scio.ly test archive id 74055aaa-5ca2-4310-a4fa-72490390eaae  |  original files: https://drive.google.com/drive/folders/1iFWBirR_3XfMaMsUVFFDxRuQeavYRSIV
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+DIRECTIONS: The Situation: Oh no! An outbreak has struck Ann Arbor, Michigan that seems to be very similar to the 1485 outbreak in England, the English Sweating Disease! Of those already affected, most patients are young adults, and more that 70% of the affected are male. The first case was reported on November 26th, 2022. You are tasked with the job of analyzing this outbreak. Complete the 13 steps of Outbreak Investigation.
+
+
+=== STEP 1 ===
+
+1. [multi, 6 pt] What actions does this step include? Select all the answers that apply.
+    A) Contact all parties to determine roles and local contacts, following protocol
+    B) Research demographic information of the area
+    C) Research the disease/situation
+    D) Gather needed supplies and equipment to conduct the investigation
+    E) Make official administrative and personal travel arrangements
+    F) Plan for isolation and social distancing conditions
+    G) Convene with local health officials
+    H) Theorize possible causes of outbreak
+
+
+=== STEP 2 ===
+
+2. [multi, 7 pt] What information would you use to determine the expected number of cases for an area? Select all the answers that apply.
+    A) Death Records
+    B) Physician records
+    C) Population Survey
+    D) Birth Records
+    E) Hospital records
+    F) Health official survey
+
+3. [multi, 1 pt] What factors may cause reporting to exceed normal numbers of cases
+    A) False reporting
+    B) Seasonal fluctuations
+    C) Faking Sickness
+    D) Population changes
+    E) Better reporting
+
+
+=== STEP 3 ===
+
+4. [mcq, 4 pt] What does commonality gain insight on?
+    A) Source, Spread, and Date
+    B) Agent, date, and Spread
+    C) Cause, source, and spread
+    D) Cause, symptoms, source
+
+5. [frq, 1 pt] To check for ____, verity the procedures used, and check methods used for identifying infectious and toxic chemical agents
+
+6. [frq, 1 pt] The ____ may not be known initially, so an investigator would need to screen ill persons, collect clinical and environmental samples and get them tested in order to determine the agent.
+
+
+=== STEP 4 ===
+
+[STIMULUS] List the 3 kinds of case identification:____, ____, ____
+
+8-1. [frq, 1 pt] Blank 1: List the 3 kinds of case identification:____, (…), (…)
+
+8-2. [frq, 1 pt] Blank 2: List the 3 kinds of case identification:(…), ____, (…)
+
+8-3. [frq, 1 pt] Blank 3: List the 3 kinds of case identification:(…), (…), ____
+
+9. [mcq, 1 pt] Which of the following is the most comprehensive line listing topics?
+    A) ID# Initial Date-Onset Time-Onset Age Sex City Outbreak Setting
+    B) ID# Name Date-Onset Diagnosis Age Occupation Outbreak Setting
+    C) ID# Initial Report Date Diagnosis Symptoms City Outbreak Setting
+    D) ID# Name Date-Onset Symptoms Sex State Outbreak Setting
+
+
+=== STEP 5 ===
+
+10. [multi, 10 pt] Select the essential identifying information an investigator needs to contact patients. Select all that apply
+    A) Address
+    B) Social Security Number
+    C) Sex
+    D) Age
+    E) Telephone number
+    F) Name
+
+[STIMULUS] List the 5 types of information that should be collected in the data collection form
+    | Label | Answer |
+    | i | [[q:11-i]] |
+    | ii | [[q:11-ii]] |
+    | iii | [[q:11-iii]] |
+    | iv | [[q:11-iv]] |
+    | v | [[q:11-v]] |
+
+11-i. [frq, 0.2 pt] Label i
+
+11-ii. [frq, 0.2 pt] Label ii
+
+11-iii. [frq, 0.2 pt] Label iii
+
+11-iv. [frq, 0.2 pt] Label iv
+
+11-v. [frq, 0.2 pt] Label v
+
+12. [mcq, 1 pt] Who will an investigator sometimes need to contact to either seek more clinical information, or report back the results of the investigation? Choose the best answer.
+    A) Investigation manager
+    B) Administrative personal
+    C) Reporter
+    D) Local contacts
+
+
+=== STEP 6 ===
+
+[STIMULUS] The following questions are related the following graph:
+    [IMAGE: ../images/2023_ohio_state_invitational_c__p3_601ce9-09bd49a8.webp]
+
+13. [frq, 10 pt] What is the earliest date of onset?
+
+15. [frq, 1 pt] When is the peak of the bell curve?
+
+16. [frq, 1 pt] What is the name of this graph?
+
+
+=== STEP 7 ===
+
+19. [frq, 1 pt] ____= capable of causing disease and its source
+
+20. [frq, 1 pt] ____= persons susceptible to the blank above
+
+21. [frq, 1 pt] ____= allows answers in blanks above to get together
+
+
+=== STEP 8 ===
+
+[STIMULUS] Identify if the following applies to a cohort study (a), a case-control study (b), or both (c).
+
+22. [mcq, 13 pt] Based on exposure status
+    A) cohort study
+    B) case-control study
+    C) both
+
+23. [mcq, 1 pt] Calculates relative risk
+    A) cohort study
+    B) case-control study
+    C) both
+
+24. [mcq, 1 pt] Works backwards
+    A) cohort study
+    B) case-control study
+    C) both
+
+25. [mcq, 1 pt] Based on effect or illness
+    A) cohort study
+    B) case-control study
+    C) both
+
+26. [mcq, 1 pt] [a/(a+b)]/[c/(c+d)]
+    A) cohort study
+    B) case-control study
+    C) both
+
+27. [mcq, 1 pt] Calculates Attack rate
+    A) cohort study
+    B) case-control study
+    C) both
+
+28. [mcq, 1 pt] Calculates Odds Ratio
+    A) cohort study
+    B) case-control study
+    C) both
+
+29. [mcq, 1 pt] Either retrospective or prospective
+    A) cohort study
+    B) case-control study
+    C) both
+
+[STIMULUS] Identify if the error is a false relationship (a) or a non-Causal relationship (b)
+
+30. [mcq, 1 pt] Random error
+    A) false relationship
+    B) non-Causal relationship
+
+31. [mcq, 1 pt] Systematic error
+    A) false relationship
+    B) non-Causal relationship
+
+32. [mcq, 1 pt] Selection bias
+    A) false relationship
+    B) non-Causal relationship
+
+33. [mcq, 1 pt] Information Bias
+    A) false relationship
+    B) non-Causal relationship
+
+34. [mcq, 1 pt] Confounding
+    A) false relationship
+    B) non-Causal relationship
+
+
+=== STEP 9 ===
+
+35. [frq, 2 pt] What is the next step if analytical studies do not confirm a hypothesis?
+
+36. [frq, 2 pt] What is the next step after finding illness associated with one source?
+
+
+=== STEP 10 ===
+
+[STIMULUS] List the 8 Bradford Hill Criteria for Verifying the Cause of the Health Problem
+    | Label | Answer |
+    | i | [[q:37-a]] |
+    | ii | [[q:37-b]] |
+    | iii | [[q:37-c]] |
+    | iv | [[q:37-d]] |
+    | v | [[q:37-e]] |
+    | vi | [[q:37-f]] |
+    | vii | [[q:37-g]] |
+    | viii | [[q:37-h]] |
+
+37-a. [frq, 1.25 pt] Label i
+
+37-b. [frq, 1.25 pt] Label ii
+
+37-c. [frq, 1.25 pt] Label iii
+
+37-d. [frq, 1.25 pt] Label iv
+
+37-e. [frq, 1.25 pt] Label v
+
+37-f. [frq, 1.25 pt] Label vi
+
+37-g. [frq, 1.25 pt] Label vii
+
+37-h. [frq, 1.25 pt] Label viii
+
+38. [frq, 1 pt] ____ is needed to validate a hypothesis
+
+
+=== STEP 11 ===
+
+39. [frq, 4 pt] The investigator can start this step as soon as the ____ is known
+
+[STIMULUS] Fill in the blanks:
+
+The measures of this step will break the chain of ____ at any of its ____ points
+
+40-1. [frq, 1 pt] Blank 1: The measures of this step will break the chain of ____ at any of its (…) points
+
+40-2. [frq, 1 pt] Blank 2: The measures of this step will break the chain of (…) at any of its ____ points
+
+
+=== STEP 12 ===
+
+41. [tf, 3 pt] True or False: The outbreak must continue to be monitored even after control and prevention measures have been implemented.
+    A) True
+    B) False
+
+42. [frq, 1 pt] If ____ was initiated as part of case finding efforts, it should be continued to determine whether the prevention and control measures are working
+
+
+=== STEP 13 ===
+
+43. [tf, 3 pt] True or False: Many health departments try to communicate with the public directly.
+    A) True
+    B) False
+
+44. [tf, 1 pt] True or False: Many health departments try to communicate with the public both during an investigation and after the investigation.
+    A) True
+    B) False
+
+
+=== Answer the Following Questions ===
+
+[STIMULUS] Identify if the following applies to a Clinical Approach (a) or a Public Health Approach (b) to health care
+
+45. [mcq, 10 pt] Focus on the individual
+    A) Clinical Approach
+    B) Public Health Approach
+
+46. [mcq, 1 pt] Primary role is in control and prevention
+    A) Clinical Approach
+    B) Public Health Approach
+
+48. [mcq, 1 pt] Obesity counseling
+    A) Clinical Approach
+    B) Public Health Approach
+
+49. [mcq, 1 pt] Lifestyle concerns
+    A) Clinical Approach
+    B) Public Health Approach
+
+50. [mcq, 1 pt] Primary role is diagnosis and treatment
+    A) Clinical Approach
+    B) Public Health Approach
+
+51. [mcq, 1 pt] Diagnosis cases associated with outbreaks
+    A) Clinical Approach
+    B) Public Health Approach
+
+52. [mcq, 1 pt] Preventive medicine
+    A) Clinical Approach
+    B) Public Health Approach
+
+54. [mcq, 1 pt] Smoking cessation
+    A) Clinical Approach
+    B) Public Health Approach
+
+55. [mcq, 1 pt] Emphasis on health promotion
+    A) Clinical Approach
+    B) Public Health Approach
+
+58. [frq, 1 pt] What is another name for the stage of subclinical disease when in reference to infectious diseases?
+
+59. [frq, 1 pt] What is another name for the stage of subclinical disease when in reference to chronic diseases?
+
+60. [mcq, 1 pt] What is an example of the appropriate exposure sufficient for an infectious disease process to begin in a susceptible host?
+    A) Asbestos fibers
+    B) Tobacco smoke
+    C) Microorganisms
+    D) Estrogen
+
+61. [frq, 24 pt] List each link of the chain of infections, along with 3 examples of each link
+
+[STIMULUS] List the 5 steps to the public health surveillance process:
+    | Label | Answer |
+    | i | [[q:62-i]] |
+    | ii | [[q:62-ii]] |
+    | iii | [[q:62-iii]] |
+    | iv | [[q:62-iv]] |
+    | v | [[q:62-v]] |
+
+62-i. [frq, 1 pt] Label i
+
+62-ii. [frq, 1 pt] Label ii
+
+62-iii. [frq, 1 pt] Label iii
+
+62-iv. [frq, 1 pt] Label iv
+
+62-v. [frq, 1 pt] Label v
+
+[STIMULUS] Identify if the following applies to passive surveillance (a), active surveillance (b), sentinel (c), or Syndromic Surveillance (d)
+
+63. [mcq, 8 pt] May be a disease, an event, or a population
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+64. [mcq, 1 pt] The analysis of medical data to detect or anticipate disease outbreaks
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+65. [mcq, 1 pt] Can be active or passive
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+66. [mcq, 1 pt] Simple and inexpensive
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+67. [mcq, 1 pt] Health agencies contact health providers seeking reports
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+68. [mcq, 1 pt] Has been historically used to target the investigation of potential cases
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+69. [mcq, 1 pt] Used in conjunction with specific epidemiologic investigation
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+70. [mcq, 1 pt] Monitoring trends or key health indicators
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+71. [mcq, 1 pt] Limited by incompleteness of reporting and variability of quality
+    A) passive surveillance
+    B) active surveillance
+    C) sentinel
+    D) Syndromic Surveillance
+
+[STIMULUS] Identify if the following applies to control methods regarding the Reservoir of Infection (a), the Mode of Transmission (b), or the Susceptible Host (c)
+
+72. [mcq, 15 pt] Screening
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+73. [mcq, 1 pt] Vaccination
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+74. [mcq, 1 pt] Vector control
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+75. [mcq, 1 pt] Water
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+76. [mcq, 1 pt] Limiting exposure to possible sources of infection
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+77. [mcq, 1 pt] Isolation
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+78. [mcq, 1 pt] Animal reservoirs
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+79. [mcq, 1 pt] Chemoprophylaxis
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+81. [mcq, 1 pt] Handwashing
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+82. [mcq, 1 pt] PPE
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+83. [mcq, 1 pt] Reporting
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+84. [mcq, 1 pt] Diagnosis and Treatment
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+85. [mcq, 1 pt] Sanitation, Disinfection, and Sterilization
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host
+
+86. [mcq, 1 pt] Maintain a healthy lifestyle
+    A) Reservoir of Infection
+    B) Mode of Transmission
+    C) Susceptible Host

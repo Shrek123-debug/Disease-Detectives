@@ -1,0 +1,810 @@
+Crown Point Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  100 questions, 127.0 pts
+Source: scio.ly test archive id 54eb02db-2113-4f1d-91ef-f20c34ada3fe  |  original files: https://drive.google.com/drive/folders/1z8LwIB6p2ZGM8fqDC0oG3QL8JeV8aG5H
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: - All questions are worth 1 point unless specified otherwise
+
+
+=== Matching — Terms and Definitions ===
+
+[STIMULUS] For the following 20 questions, match the term to its definition. Each term will only be used once.
+
+a) Clinical equipoise
+b) Cluster
+c) Fomite
+d) Hyperendemic
+e) Hypoendemic
+f) Iceberg phenomenon
+g) Incubation period
+h) Infectivity
+i) Isolation
+j) Latent period
+k) Pandemic
+l) Pathogenicity
+m) Prognosis
+n) Proxy
+o) Quarantine
+p) Secular trend
+q) Syndemic
+r) Vector
+s) Vehicle
+t) Virulence
+
+1. [mcq, 1 pt] The capacity of an agent to cause infection in a susceptible host.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+2. [mcq, 1 pt] The separation of well persons who may have been exposed to a communicable disease to see if they become ill.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+3. [mcq, 1 pt] An aggregation of cases grouped in place and time that are suspected to be greater than the number expected.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+4. [mcq, 1 pt] The time between when a person comes into contact with a pathogen and when they show symptoms and/or signs of disease.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+5. [mcq, 1 pt] A situation in which a large percentage of a problem is subclinical, unreported, or otherwise hidden from view.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+6. [mcq, 1 pt] The possible outcomes of a disease or condition and the likelihood that each one will occur.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+7. [mcq, 1 pt] Changes over a relatively long period of time.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+8. [mcq, 1 pt] The assumption that there is not one “better” intervention present during the design of a RCT.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+9. [mcq, 1 pt] The separation of sick people with a communicable/contagious disease from people who are not sick.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+10. [mcq, 1 pt] The time between when a person comes in contact with a pathogen and when they become infected.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+11. [mcq, 1 pt] The aggregation of two or more concurrent/sequential epidemics in a population with biological interactions that exacerbate prognosis and the burden of disease.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+12. [mcq, 1 pt] Refers to persistent, high levels of disease occurrence.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+13. [mcq, 1 pt] A variable that is not in itself directly relevant but serves in place of an unobservable or immeasurable variable.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+14. [mcq, 1 pt] An inanimate intermediary in the indirect transmission of an agent carried from a reservoir to a susceptible host.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+15. [mcq, 1 pt] A physical object that serves to transmit an infectious agent from person to person.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+16. [mcq, 1 pt] An epidemic that has spread over several countries or continents and usually affects a large number of people.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+17. [mcq, 1 pt] The ability of an infectious agent to cause severe disease.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+18. [mcq, 1 pt] Disease incidence is very low, so the population has limited to no immunity to it.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+19. [mcq, 1 pt] An animal that transmits disease.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+20. [mcq, 1 pt] The ability of an agent to cause disease after infection.
+    A) Clinical equipoise
+    B) Cluster
+    C) Fomite
+    D) Hyperendemic
+    E) Hypoendemic
+    F) Iceberg phenomenon
+    G) Incubation period
+    H) Infectivity
+    I) Isolation
+    J) Latent period
+    K) Pandemic
+    L) Pathogenicity
+    M) Prognosis
+    N) Proxy
+    O) Quarantine
+    P) Secular trend
+    Q) Syndemic
+    R) Vector
+    S) Vehicle
+    T) Virulence
+
+
+=== Epidemiologists ===
+
+21. [frq, 1 pt] For the following questions, identify the epidemiologist associated with the provided description.
+    
+    Created the polio vaccine.
+
+22. [frq, 1 pt] Discovered that childbed fever could be drastically reduced by hand disinfection.
+
+24. [frq, 1 pt] Considered the “Father of Medical Statistics.”
+
+25. [frq, 1 pt] Proved a correlation between smallpox and cowpox.
+
+
+=== Clinical vs. Public Health Approach ===
+
+26. [mcq, 1 pt] Chicago’s vaccination campaign (dubbed “Vax Chi Nation”).
+    A) Clinical approach
+    B) Public health approach
+
+27. [mcq, 1 pt] Being referred to a specialist after a check-up.
+    A) Clinical approach
+    B) Public health approach
+
+28. [mcq, 1 pt] A new study shows a correlation between Skittles consumption and immune response.
+    A) Clinical approach
+    B) Public health approach
+
+29. [mcq, 1 pt] Kanye West requires proof of vaccination to attend his concert.
+    A) Clinical approach
+    B) Public health approach
+
+30. [mcq, 1 pt] Rehabilitation program following an ACL tear.
+    A) Clinical approach
+    B) Public health approach
+
+
+=== Multiple Choice ===
+
+31. [mcq, 1 pt] Which set of ethical principles regarding research in human populations was developed by the World Medical Association?
+    A) Nuremberg code
+    B) Hippocratic oath
+    C) Declaration of Helsinki
+    D) Belmont report
+    E) Common Rule
+
+32. [mcq, 1 pt] Which of the following stages of disease progression involve the most severe signs and symptoms?
+    A) Incubation period
+    B) Acme
+    C) Prodromal period
+    D) Convalescence
+    E) Decline
+
+33. [mcq, 1 pt] Which of the following are not one of the major tasks of epidemiology?
+    A) Policy development
+    B) Field investigation
+    C) Public health surveillance
+    D) Drug regulation
+    E) Analytic studies
+
+34. [mcq, 1 pt] What type of carrier continues to harbor a pathogen for months or even years after their initial infection?
+    A) Incubatory carrier
+    B) Chronic carrier
+    C) Asymptomatic carrier
+    D) Prophylactic carrier
+    E) Convalescent carrier
+
+35. [mcq, 1 pt] What type of surveillance is used to identify illness clusters early to mobilize a quick response?
+    A) Syndromic
+    B) Medical
+    C) Passive
+    D) Sentinel
+    E) Active
+
+
+=== Active vs. Passive Surveillance ===
+
+[STIMULUS] For the following four questions, identify whether each statement describes active or passive surveillance.
+
+36. [mcq, 1 pt] This type of surveillance is cheaper than the other.
+    A) Active surveillance
+    B) Passive surveillance
+
+37. [mcq, 1 pt] The CDC contacts a specific hospital for information on a case of monkeypox.
+    A) Active surveillance
+    B) Passive surveillance
+
+38. [mcq, 1 pt] In the city of Baltimore, the Johns Hopkins Hospital and surrounding hospitals mandatorily report cases of botulism.
+    A) Active surveillance
+    B) Passive surveillance
+
+39. [mcq, 1 pt] This type of surveillance has a limited amount of data available.
+    A) Active surveillance
+    B) Passive surveillance
+
+40. [frq, 2.5 pt] Identify the five steps of public health surveillance.
+
+[STIMULUS] Fill in this diagram of the chain of infection.
+    [IMAGE: ../images/2024_crown_point_invitational_b_c__p6_2ec45b-2a0fc0f6.webp]
+    | Label | Answer |
+    | a | [[q:41-a]] |
+    | b | [[q:41-b]] |
+    | c | [[q:41-c]] |
+    | d | [[q:41-d]] |
+    | e | [[q:41-e]] |
+
+41-a. [frq, 0.5 pt] Label a
+
+41-b. [frq, 0.5 pt] Label b
+
+41-c. [frq, 0.5 pt] Label c
+
+41-d. [frq, 0.5 pt] Label d
+
+41-e. [frq, 0.5 pt] Label e
+
+[STIMULUS] Fill in this diagram of the natural history of disease.
+    [IMAGE: ../images/2024_crown_point_invitational_b_c__p7_b30acf-01b7b16f.webp]
+    | Label | Answer |
+    | a | [[q:42-a]] |
+    | b | [[q:42-b]] |
+    | c | [[q:42-c]] |
+    | d | [[q:42-d]] |
+    | e | [[q:42-e]] |
+    | f | [[q:42-f]] |
+
+42-a. [frq, 0.5 pt] Label a
+
+42-b. [frq, 0.5 pt] Label b
+
+42-c. [frq, 0.5 pt] Label c
+
+42-d. [frq, 0.5 pt] Label d
+
+42-e. [frq, 0.5 pt] Label e
+
+42-f. [frq, 0.5 pt] Label f
+
+
+=== Directed Acyclic Graph ===
+
+[STIMULUS] For the following four questions, use the following directed acyclic graph.
+    [IMAGE: ../images/2024_crown_point_invitational_b_c__p8_6a0b1b-3f2b6cd3.webp]
+
+43. [frq, 3 pt] List all causal paths linking E and D:
+
+44. [mcq, 1 pt] Which of the following confounds the association of E and D?
+    A) C
+    B) S
+    C) Z
+    D) M
+
+45. [mcq, 1 pt] Which of the following is a descendant of D?
+    A) M
+    B) J
+    C) Z
+    D) S
+
+46. [mcq, 1 pt] Which of the following is a plausible instrumental variable?
+    A) C
+    B) I
+    C) L
+    D) J
+
+
+=== Outbreak Investigation — Fortnite Party ===
+
+[STIMULUS] A group of gamers attended a huge Fortnite party on December 26, 2023. Two days after the party, many gamers presented with symptoms of cramps, fever, vomiting, and diarrhea. As you’re a local Disease Detective, you’ve been tasked with investigating this phenomenon.
+
+47. [frq, 2 pt] What are the first two steps you should take in order to investigate this outbreak? Number them.
+
+48. [frq, 4 pt] Write a case definition for this outbreak.
+
+49. [mcq, 1 pt] In the early stages of an outbreak investigation, what type of case definition is preferred?
+    A) Sensitive
+    B) Specific
+
+50. [mcq, 1 pt] In order to only catch true cases, what type of case definition is preferred?
+    A) Sensitive
+    B) Specific
+
+51. [mcq, 1 pt] In the hopes of capturing all true cases, what type of case definition is preferred?
+    A) Sensitive
+    B) Specific
+
+52. [mcq, 1 pt] What type of case definition is considered broader?
+    A) Sensitive
+    B) Specific
+
+[STIMULUS] In total, 138 gamers attended this epic party. 41 people have contracted these symptoms, so you decide to interview the cases and non-cases in order to determine the cause of this outbreak.
+
+53. [frq, 1 pt] What type of study is this?
+
+54. [frq, 2 pt] What are two weaknesses of this type of study?
+
+55. [frq, 1 pt] What measure of association should you use for this outbreak?
+
+[STIMULUS] After interviewing all of the gamers, you made a table with the following information about exposures.
+
+| Food/drink | Ill, ate | Ill, did not eat | Well, ate | Well, did not eat |
+|---|---|---|---|---|
+| Mountain Dew | 20 | 58 | 21 | 39 |
+| Doritos | 32 | 32 | 9 | 65 |
+| Pizza | 17 | 63 | 24 | 34 |
+| Red Bull | 11 | 52 | 30 | 45 |
+| Gummy bears | 24 | 19 | 17 | 78 |
+
+Calculate the appropriate measure of association for each of the following exposures. Round to two decimal places.
+
+57. [numeric, 2 pt] Doritos
+
+58. [numeric, 2 pt] Pizza
+
+60. [numeric, 2 pt] Gummy bears
+
+[STIMULUS] A few days later, lab results reveal that the disease that caused this outbreak is campylobacteriosis. One common cause of this disease is contaminated water, which you realize could have been the cause of this outbreak!
+    | Label | Answer |
+    | **63.** You want to determine whether the consumption of water causes campylobacteriosis. Please write a null and alternative hypothesis for this test. |  |
+    | Null hypothesis | [[q:63-a]] |
+    | Alternative hypothesis | [[q:63-b]] |
+
+63-a. [frq, 2 pt] Null hypothesis
+
+63-b. [frq, 2 pt] Alternative hypothesis
+
+64. [frq, 2 pt] If a false null hypothesis failed to be rejected, what type of error would this be?
+
+[STIMULUS] You went back and re-interviewed the gamers. Now, you've made yet another table of the collected data on whether or not the gamers drank water during the Fortnite party.
+
+| | Diseased | Well |
+|---|---|---|
+| Drank water | 33 | 36 |
+| Did not drink water | 8 | 61 |
+
+65. [numeric, 2 pt] Calculate the odds ratio of drinking water. Round to two decimal places.
+
+66. [frq, 4 pt] A colleague calculates a 95% confidence interval: (2.91, 16.77). Interpret what this finding indicates in relation to the context.
+
+67. [frq, 2 pt] You're somewhat skeptical of this result, as the data was collected a lot later than the day of the Fortnite party. What type of bias could this result in?
+
+[STIMULUS] Speaking of bias, for the following five questions, identify what type of bias is being described by the provided scenario.
+
+68. [frq, 1 pt] Highschoolers being surveyed tend to under-report social behaviors such as drinking and vaping.
+
+69. [frq, 1 pt] Many news outlets have drawn attention to salmonella, which causes more people to wonder if they have the disease. This leads to more reports.
+
+70. [frq, 1 pt] In a clinical trial, one group undergoes serology testing while another group undergoes PCR testing.
+
+71. [frq, 1 pt] A white study participant is accidentally categorized into the people-of-color group for data collection.
+
+72. [frq, 1 pt] A proposed treatment for COVID-19 actually appears to cause COVID-19.
+
+
+=== Diagnostic Testing — Cooties ===
+
+[STIMULUS] You've been tasked with constructing a new diagnostic test for Cooties, a virus that has caused outbreaks across the United States. In order to see how effective your test is, you enroll 500 people: 217 cases and 283 non-cases. Your diagnostic test correctly identified 194 cases and correctly identified 266 non-cases.
+    | Label | Answer |
+    | **73.** Fill in the following table with your collected data. |  |
+    | a Test positive, Infected with Cooties | [[q:73-a]] |
+    | b Test positive, Not infected | [[q:73-b]] |
+    | c Test negative, Infected with Cooties | [[q:73-c]] |
+    | d Test negative, Not infected | [[q:73-d]] |
+
+73-a. [frq, 0.5 pt] Label a Test positive, Infected with Cooties
+
+73-b. [frq, 0.5 pt] Label b Test positive, Not infected
+
+73-c. [frq, 0.5 pt] Label c Test negative, Infected with Cooties
+
+73-d. [frq, 0.5 pt] Label d Test negative, Not infected
+
+74. [numeric, 1 pt] How many false positives did your test detect?
+
+75. [numeric, 1 pt] How many false negatives did your test detect?
+
+76. [frq, 2 pt] What is the sensitivity of your test? Write your answer as a percent and round to two decimal places.
+
+78. [frq, 2 pt] What is the negative predictive value of your test? Write your answer as a percent and round to two decimal places.
+
+80. [frq, 2 pt] What is the accuracy of your test? Show your work. Write your answer as a percent.
+
+[STIMULUS] As the outbreak continues, you have calculated the R₀ of Cooties to be approximately 2.37.
+
+81. [frq, 1 pt] What does R₀ denote?
+
+82. [frq, 3 pt] What percentage of people need to be immune to Cooties in order to achieve the herd immunity threshold? Write your answer as a percent and round to two decimal places.
+
+[STIMULUS] The SIR (susceptible – infected – recovered) model can be adopted to describe various diseases, such as Cooties. This model uses some assumptions: the population is well-mixed and its size is constant, rates (such as transmission and removal rates) are constant, and no demography (i.e. births and deaths). The spread of a disease can be modeled by the following SIR equations:
+
+S' = −aSI
+
+I' = aSI − bI
+
+R' = bI
+
+In these equations, S, I, and R denote the number of individuals susceptible, infected, and recovered, respectively at any given time t. Note that t is measured in days and that S, I, R are measured in people. S', I', and R', which denote the rates of change of S, I, and R, respectively, are measured in people per day. Finally, a and b are called the transmission coefficient and the recovery coefficient, respectively.
+    | Label | Answer |
+    | **83.** What are the units for a and b? |  |
+    | a | [[q:83-a]] |
+    | b | [[q:83-b]] |
+
+83-a. [frq, 1 pt] Label a
+
+83-b. [frq, 1 pt] Label b
+
+[STIMULUS] For the following questions, suppose that a = 0.0005 and b = 0.125. Let's assume Cooties starts with 9,700 susceptible, 300 infected, and none recovered; the population size is 10,000.
+
+84. [numeric, 2 pt] Once someone gets Cooties, how long do they stay infected before they recover?
+
+[STIMULUS] Using a = 0.0005 and b = 0.125, with Cooties starting at 9,700 susceptible, 300 infected, and none recovered (population 10,000), fill out the missing values in the following table. Round to the nearest integer in your calculations.
+    | Label | Answer |
+    | a S' at t = 0 | [[q:85-a]] |
+    | b I' at t = 0 | [[q:85-b]] |
+    | c S at t = 1 | [[q:85-c]] |
+    | d I at t = 1 | [[q:85-d]] |
+    | e S' at t = 1 | [[q:85-e]] |
+    | f I' at t = 1 | [[q:85-f]] |
+    | g R' at t = 1 | [[q:85-g]] |
+    | h S at t = 2 | [[q:85-h]] |
+    | i R at t = 2 | [[q:85-i]] |
+
+85-a. [frq, 2 pt] Label a S' at t = 0
+
+85-b. [frq, 2 pt] Label b I' at t = 0
+
+85-c. [frq, 2 pt] Label c S at t = 1
+
+85-d. [frq, 2 pt] Label d I at t = 1
+
+85-e. [frq, 2 pt] Label e S' at t = 1
+
+85-f. [frq, 2 pt] Label f I' at t = 1
+
+85-g. [frq, 2 pt] Label g R' at t = 1
+
+85-h. [frq, 2 pt] Label h S at t = 2
+
+85-i. [frq, 2 pt] Label i R at t = 2

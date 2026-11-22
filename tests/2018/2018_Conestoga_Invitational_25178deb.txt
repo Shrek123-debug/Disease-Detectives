@@ -1,0 +1,681 @@
+Conestoga Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  48 questions, 53.0 pts
+Source: scio.ly test archive id 25178deb-5985-4f9c-9512-dfe16a8c1afc  |  original files: https://drive.google.com/drive/folders/1le1-CYcJ3_YetP_3X7jwe50O6mwihLCp
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 32
+
+
+=== Part I: Epidemiological Terms: Matching /20 ===
+
+[STIMULUS] 
+
+A. Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+B. an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+C. the process by which an agent comes in contact with an animal or host such that disease ensues
+D. an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+E. US agency based in Atlanta, GA
+F. Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+G. well-defined group of people who have a common experience or exposure
+H. Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+I. when an infectious agent or disease is constantly present in a given population at a specific level
+J. A measure of the frequency with which an illness occurs in a population over a period of time
+K. an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+L. A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+M. transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+N. an infected person or animal that contains, spreads, or harbors and infectious organism
+O. a factor whose presence, excessive presence or deficiency is necessary for disease
+P. An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+Q. an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+R. the first appearance of signs and symptoms
+S. when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+T. An infectious disease that is transmissible from animals to humans
+
+1. [mcq, 1 pt] Vector
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+2. [mcq, 1 pt] Epidemic
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+3. [mcq, 1 pt] Mortality Rate
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+4. [mcq, 1 pt] Aersol transmission
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+5. [mcq, 1 pt] Pandemic
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+6. [mcq, 1 pt] Onset
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+7. [mcq, 1 pt] Jaundice
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+8. [mcq, 1 pt] Listeriosis
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+9. [mcq, 1 pt] Fomite
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+10. [mcq, 1 pt] Carrier
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+11. [mcq, 1 pt] Cluster
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+12. [mcq, 1 pt] CDC
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+13. [mcq, 1 pt] Incidence rate
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+14. [mcq, 1 pt] Zoonosis
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+15. [mcq, 1 pt] cohort
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+16. [mcq, 1 pt] Biological Transmission
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+18. [mcq, 1 pt] Exposure
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+19. [mcq, 1 pt] Endemic
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+20. [mcq, 1 pt] Agent
+    A) Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area
+    B) an inanimate object that may be contaminated with infectious organisms and serve in their transmission
+    C) the process by which an agent comes in contact with an animal or host such that disease ensues
+    D) an insect or organism that transmits a pathogenic fungus, virus, bacterium.etc
+    E) US agency based in Atlanta, GA
+    F) Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+    G) well-defined group of people who have a common experience or exposure
+    H) Affecting many persons at the same time, and spreading from person to person in a locality where the disease is not permanently prevalent
+    I) when an infectious agent or disease is constantly present in a given population at a specific level
+    J) A measure of the frequency with which an illness occurs in a population over a period of time
+    K) an infection with Listeria monocytogenes, a bacterium that can be found in vegetables, milk, cheese, meat, and seafood
+    L) A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease
+    M) transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector
+    N) an infected person or animal that contains, spreads, or harbors and infectious organism
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    Q) an inanimate object in the transmission of an agent that carries it from a reservoir to a host
+    R) the first appearance of signs and symptoms
+    S) when a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person
+    T) An infectious disease that is transmissible from animals to humans
+
+
+=== Part III: Disease Causing Agents: Identify the causative agent of the following diseases (Virus(V), Bacteria(B), Protist(P), Nematode(N), Fungus(F), or Prion(Pr). /10pts. ===
+
+III-1. [mcq, 1 pt] Mad Cow Disease
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-2. [mcq, 1 pt] Typhoid Fever
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-3. [mcq, 1 pt] Athlete’s Foot
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-4. [mcq, 1 pt] Cholera
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-5. [mcq, 1 pt] Toxoplasmosis
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-6. [mcq, 1 pt] West Nile
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-7. [mcq, 1 pt] Candidiasis
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-8. [mcq, 1 pt] Botulism
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-9. [mcq, 1 pt] Trichinosis
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+III-10. [mcq, 1 pt] Bovine spongiform encephalopathy
+    A) Virus (V)
+    B) Bacteria (B)
+    C) Protist (P)
+    D) Nematode (N)
+    E) Fungus (F)
+    F) Prion (Pr)
+
+
+=== Part IV: The Source: Match the organism with its most likely source. Each one is used once, so pick the choice that best fits each one. /10pts. ===
+
+[STIMULUS] A. Pig Intestines
+B. Gym mat
+C. Improperly cannned food
+D. raw oysters, shellfish
+E. shower floor
+F. cattle
+G. Recreational Water
+H. food or water contaminated by stool of infected person
+I. Kitchen Equipment
+J. eggs are not cooked properly
+
+IV-2. [mcq, 1 pt] Hepatitis A
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-3. [mcq, 1 pt] Salmonella
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-5. [mcq, 1 pt] Trichinella
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-7. [mcq, 1 pt] Virbrio vulnificus
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-8. [mcq, 1 pt] Clostridium botulinium
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-9. [mcq, 1 pt] Tinea pedis
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+IV-10. [mcq, 1 pt] E. Coli 0157
+    A) Pig Intestines
+    B) Gym mat
+    C) Improperly cannned food
+    D) raw oysters, shellfish
+    E) shower floor
+    F) cattle
+    G) Recreational Water
+    H) food or water contaminated by stool of infected person
+    I) Kitchen Equipment
+    J) eggs are not cooked properly
+
+
+=== Part XI: A group of Science Olympiad Coaches were asked how many years have they received the influenza vaccine. The answers from 19 of the coaches are listed below. Find the mean, median, and mode of the data set. /13pts. ===
+
+[STIMULUS] Data Set: 2, 0, 3, 1, 0, 1, 2, 2, 4, 8, 1, 3, 3, 12, 1, 6, 2, 5, and 1
+    | Label | Answer |
+    | **XI-2.** Find the mean, median, and mode of the data set. |  |
+    | Mean | [[q:XI-2-a]] |
+    | Median | [[q:XI-2-b]] |
+    | Mode | [[q:XI-2-c]] |
+
+XI-2-a. [frq, 1 pt] Mean
+
+XI-2-b. [frq, 1 pt] Median
+
+XI-2-c. [frq, 1 pt] Mode
+
+
+=== Part XII: An outbreak occurs among people attending a wedding. Guests were interviewed to determine what behaviors lead to disease. The following data were found: /10pts. ===
+
+[STIMULUS] Calculate the risk specific attack rates
+
+| Risk Factor | Cases n=35 | Not cases n=100 | Risk Specific Attack Rates |
+|---|---|---|---|
+| Swimming | 15 | 39 | 1. |
+| Volleyball | 5 | 20 | 2. |
+| Ate box lunch | 20 | 95 | 3. |
+| Ate Hors d’oeuvres | 30 | 40 | 4. |
+
+XII-1. [frq, 2 pt] Swimming — risk specific attack rate
+
+XII-2. [frq, 2 pt] Volleyball — risk specific attack rate
+
+XII-3. [frq, 2 pt] Ate box lunch — risk specific attack rate
+
+XII-4. [frq, 2 pt] Ate Hors d’oeuvres — risk specific attack rate
+
+XII-5. [mcq, 2 pt] What activity is the highest risk?
+    A) Swimming
+    B) Volleyball
+    C) Ate box lunch
+    D) Ate Hors d’oeuvres
+
+
+=== Tie Breaker Questions: /5 TB ===
+
+TB-1. [frq, 1 pt] Who was a pioneer of naval hygiene in the Royal Navy and developed the theory that citrus fruits cured scurvy?
+
+TB-2. [frq, 1 pt] Who was the pioneer of the smallpox vaccine?
+
+TB-4. [frq, 1 pt] Public school students got Hepatitis A from eating what in 1997?
+
+TB-5. [frq, 1 pt] What Denver based food chain has experienced major losses due to E.coli outbreaks in 2015?

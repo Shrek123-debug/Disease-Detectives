@@ -1,0 +1,224 @@
+High Desert Mini 1 — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  56 questions, 143.0 pts
+Source: scio.ly test archive id 897f551d-37bf-4257-87d1-4bc4086da40a  |  original files: https://drive.google.com/drive/folders/192_KrQi7Fdq3QOZhVxGj2gtlgUQNLWm2
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Each team may bring one 8.5” x 11” sheet of paper, in a sealed sheet protector or laminated, that may contain information on both sides in any form and from any source without any annotations or labels affixed along with two stand-alone non-programmable, non-graphing calculators
+
+1. [frq, 2 pt] A/an ____ disease that is present at a continuous level throughout a population/geographic area.
+
+2. [frq, 2 pt] Time in between when a person comes into contact with a pathogen and when they become infected is called the ____ period.
+
+3. [frq, 2 pt] A disease is ____ when no signs or symptoms are shown. The patient can still be a carrier of the disease
+
+4. [frq, 2 pt] ____ is the proportion of persons with clinical disease who become severely ill or die
+
+5. [frq, 2 pt] The ____ of ____ is an opening allowing the microorganism to enter the host.
+
+6. [frq, 2 pt] ____ is the study of the distribution and determinants of health related states or events in specific populations and the application of this study to the control of health problems
+
+7. [frq, 2 pt] ____ is a spore producing eukaryotes. It lacks chlorophyll, it’s mold, yeast, mildews, smuts, mushrooms.
+
+8. [multi, 2 pt] Identify all types of infective agents.
+    A) Bacteria
+    B) Fungi
+    C) Helminths
+    D) Protozoa
+    E) Viruses
+
+9. [frq, 2 pt] ____ transmission occurs through bite from fleas ticks and mosquitoes.
+
+10. [multi, 2 pt] As described in this lesson, public health surveillance includes which activities?
+    A) Data collection.
+    B) Data analysis.
+    C) Data interpretation.
+    D) Data dissemination.
+    E) Disease control.
+
+11. [tf, 2 pt] Public health surveillance is only conducted by public health agencies
+    A) True
+    B) False
+
+12. [multi, 2 pt] Data collected through which of the following methods is commonly used for surveillance?
+    A) Vital registration.
+    B) Randomized clinical trials.
+    C) Disease notifications.
+    D) Population surveys.
+
+13. [mcq, 2 pt] Vital statistics are important sources of data on which of the following?
+    A) Morbidity.
+    B) Mortality.
+    C) Health-related behaviors.
+    D) Injury and disability.
+    E) Outpatient health-care usage.
+
+14. [multi, 2 pt] Key sources of morbidity data include which of the following?
+    A) Environmental monitoring data.
+    B) Hospital discharge data.
+    C) Laboratory results.
+    D) Notifiable disease reports.
+    E) Vital records.
+
+15. [mcq, 2 pt] The list of diseases that a physician must report to the local health department is typically compiled by the…
+    A) Local health department.
+    B) State health department.
+    C) Centers for Disease Control and Prevention (CDC).
+    D) Council of State and Territorial Epidemiologists (CSTE).
+    E) Medical licensing board.
+
+16. [multi, 2 pt] Evaluating and improving surveillance should address which of the following?
+    A) Purpose and objectives of surveillance.
+    B) Resources needed to conduct surveillance.
+    C) Effectiveness of measures for controlling the disease under surveillance.
+    D) Presence of characteristics of well-conducted surveillance.
+
+17. [mcq, 2 pt] The primary reason for preparing and distributing periodic surveillance summaries is which of the following?
+    A) Document recent epidemiologic investigations.
+    B) Provide timely information on disease patterns and trends to those who need to know it.
+    C) Provide reprints of MMWR articles, reports, and recommendations.
+    D) Acknowledge the contributions of those who submitted case reports.
+
+18. [tf, 2 pt] The case definition used for surveillance of a health problem should be the same as the case definition used for clinical (treatment) purposes.
+    A) True
+    B) False
+
+19. [frq, 2 pt] ____ is a disease in which a high prevalent level of infection begins early in life and affects most of the child population.
+
+20. [frq, 2 pt] A ____ is a physical object that serves to transmit an infectious agent from person to person.
+
+21. [frq, 2 pt] A ____ is any agent which carries and transmits an infectious pathogen into another living organism
+
+22. [frq, 2 pt] The ____ case is the first patient in an epidemiological study (also known as patient zero or primary case)
+
+23. [frq, 2 pt] ____ is an illness that is caused by a medication or physician.
+
+24. [frq, 2 pt] ____Infections are acquired during the process of receiving health care that was not present during the time of admission.
+
+25. [frq, 2 pt] Women appeared to be more susceptible to an illness than men, but when studies were carried out, men were found to have a higher probability of contracting the illness. This is known as ____ 's Paradox
+
+26. [frq, 2 pt] Researchers convey high expectations to subjects; the subjects produce those results. This is known as the ____ Effect.
+
+27. [frq, 5 pt] List the 5 steps of surveillance in order.
+
+28. [frq, 5 pt] List at least five diseases that are listed in the National Notifiable Disease Surveillance System.
+
+29. [frq, 5 pt] What is the difference between the Clinical Approach and the Public Health Approach?
+
+30. [frq, 5 pt] Explain infectivity, pathogenicity, and virulence, as well as the differences compared to the other two.
+
+31. [frq, 5 pt] What’s the difference between a latent period and an incubation period?
+
+32. [frq, 2 pt] MDPH recruiting hospitals to report influenza-like illnesses every week is an example of ____surveillance.
+
+33. [frq, 2 pt] ____ surveillance is if the LBOH is supplied with real time indicators of smallpox-like illnesses, including over the counter drug sale records and school absent logs
+
+34. [frq, 2 pt] ____ is the number or proportion of cases or events or conditions in a given population.
+
+35. [frq, 2 pt] ____ ____ is the resistance of a group to an infectious agent. This group resistance exists because a high proportion of people in the group are immune to the agent.
+
+36. [frq, 2 pt] Disease: any departure from a state of physiological or psychological health and well-being is defined as ____.
+
+37. [frq, 2 pt] ____ is an infectious disease that is transmissible from animals to humans.
+
+38. [frq, 2 pt] ____ period is the period following exposure, when pathologic changes are not apparent, and ending with the onset of symptoms of a chronic disease.
+
+39. [mcq, 2 pt] In a lab study, it was found that by increasing the exposure of toxic gas, there was higher risk that the subjects fell ill. Which of Hill’s criteria is this?
+    A) Specificity
+    B) Temporality
+    C) Dose-response relationship
+    D) Coherence
+
+40. [mcq, 2 pt] Jim was conducting a study on a recent illness that broke out. He created an online page for volunteers to sign up. When all the volunteers arrived, Jim asked whether they had previous experience with this illness. Almost all the volunteers had experience with the illness or had it before. What type of bias is this?
+    A) Random error
+    B) Selection bias
+    C) Information bias
+    D) There is no bias
+
+41. [mcq, 2 pt] Which of the following is an example of temporality?
+    A) A scientist checks previous studies to make sure his information matches.
+    B) A scientist considers multiple different possibilities before making a conclusion
+    C) An individual who had contracted salmonella began showing symptoms 36 hours after he contracted the disease from undercooked meat he ate for lunch
+    D) None of these
+
+42. [mcq, 2 pt] Bill recently recovered from a virus. However, recently after he recovered, his sister began showing symptoms of the same virus. Bill’s sister Belle believes she should not have contracted the virus from Bill since she only shared food with Bill after he recovered. However, it is likely Bill passed the virus to his sister. What type of carrier could Bill be?
+    A) Vector
+    B) Fomite
+    C) Chronic
+    D) Convalescent
+
+43. [mcq, 2 pt] John Snow is regarded as the father of epidemiology. He conducted research on which disease?
+    A) Cholera
+    B) Polio
+    C) Smallpox
+    D) Pellagra
+
+44. [mcq, 2 pt] Recently, a study was conducted on patients where a group that had a disease was observed, and so was a group of people who did not have a disease. This kind of study is a:
+    A) Cohort study
+    B) Cross sectional study
+    C) Ecological study
+    D) None of these
+
+45. [mcq, 2 pt] Which foodborne illness can result in respiratory failure and death?
+    A) Clostridium botulinum
+    B) Hepatitis A
+    C) Salmonella
+    D) Clostridium perfringens
+
+46. [mcq, 2 pt] Hyperendemic means the disease is:
+    A) Constantly present at low levels
+    B) Constantly present at high levels
+    C) Almost everyone in the population has it
+    D) Almost nobody in the population has it
+
+[STIMULUS] Determine the type of Bias.
+
+Recall
+Interviewer
+Social Desirability
+
+47a. [mcq, 2 pt] ____ Bias: Jon is more likely to remember experiencing the symptoms of Yellow Mouse Disease now that he has been diagnosed with it
+    A) Recall
+    B) Interviewer
+    C) Social Desirability
+
+47b. [mcq, 2 pt] ____ Bias: Ann asks Sue many purposefully leading questions about the sanitation of her diner, leading to Bonnie failing the inspection.
+    A) Recall
+    B) Interviewer
+    C) Social Desirability
+
+47c. [mcq, 2 pt] ____ ____ Bias: Lowes employees begin to exaggerate the healthiness of their habits when an article published a study on it.
+    A) Recall
+    B) Interviewer
+    C) Social Desirability
+
+[STIMULUS] OUTBREAK INVESTIGATION
+
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+
+| Food eaten | Number infected | Number Non Infected |
+|---|---|---|
+| Raspberry Tarts | 16 | 14 |
+| Enchiladas | 9 | 21 |
+| Beef Soup | 12 | 18 |
+| Asparagus | 11 | 19 |
+
+48a. [frq, 3.33 pt] Write a case definition for this.
+
+48b. [frq, 3.33 pt] Calculate the attack rate of each of the food items.
+
+48c. [frq, 3.34 pt] Based on the calculations, which food item most likely caused the outbreak and why?
+
+[STIMULUS] OUTBREAK INVESTIGATION
+
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+
+49. [frq, 10 pt] What are the 13 steps of an outbreak investigation?
+
+[STIMULUS] OUTBREAK INVESTIGATION
+
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+
+50e. [frq, 3.33 pt] Judging from the information given, what type of surveillance was used in this investigation and why?
+
+50f. [frq, 3.33 pt] What kind of outbreak is this?
+
+50g. [frq, 3.34 pt] What would you do going forward to prevent the continued spread of disease?

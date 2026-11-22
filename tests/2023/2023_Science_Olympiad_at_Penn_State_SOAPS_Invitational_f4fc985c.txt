@@ -1,0 +1,502 @@
+Science Olympiad at Penn State (SOAPS) Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  97 questions, 132.5 pts
+Source: scio.ly test archive id f4fc985c-8550-4eaa-86b6-b263fec8659b  |  original files: https://drive.google.com/drive/folders/145UHXMxOCw3HD_96u6NThKGZOAz_E_VI
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 23
+
+
+=== Section 1: Knitting Convention ===
+
+[STIMULUS] This past weekend, you and your friends attended your first knitting convention! Hundreds of people were in attendance at this exciting event. Throughout the convention, you had the opportunity to try out new yarns, play around with different needles, and experiment with new techniques and patterns. Unfortunately, you come to discover later that someone had a bad case of lice. With all of the swatches of yarn and fabric exchanged between people, lice were able to spread from that one person to many others, which ended up causing some problems among many attendees.
+
+P1-1. [frq, 2 pt] Name one of the diseases that can be transmitted by lice and the name of the pathogen that causes it.
+
+P1-4. [frq, 2 pt] Name two conditions that can propagate the transmission of lice and related infections.
+
+P1-5. [frq, 1 pt] Name one type of population especially susceptible to infections by lice.
+
+P1-7. [frq, 1 pt] What kind of transmission is being shown knowing that the lice are using the fabric and yarn as a medium of travel? (Think broadly)
+
+P1-8. [frq, 1 pt] What epidemiological term best describes the function of the yarn/knitting swatches in this scenario?
+
+P1-9. [frq, 2 pt] For future knitting conventions, what are two ways that we can prevent the transmission of lice?
+
+
+=== Section 2: Identification ===
+
+[STIMULUS] Match each of these statements to the correct type of prevention. Answer choices include primary, secondary, tertiary, quaternary, and primordial.
+
+P2-10. [mcq, 1 pt] Targets the subclinical stage of disease
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-11. [mcq, 1 pt] Vaccines fall under this type of prevention
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-12. [mcq, 1 pt] Example includes not ordering medications until a diagnosis is made
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-13. [mcq, 1 pt] This type of prevention is meant to prevent risk factors from developing
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-15. [mcq, 1 pt] Target susceptible stage of disease
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-16. [mcq, 1 pt] Screening for cancer or other health conditions
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-17. [mcq, 1 pt] Exercising and eating properly from a young age falls under this type
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-18. [mcq, 1 pt] Targets clinical stage of disease
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-19. [mcq, 1 pt] Aims to prevent overmedicalization
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+P2-20. [mcq, 1 pt] An example of this would be rehabilitation after a stroke
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+[STIMULUS] Match each statement to the correct type of bias. For the example-based matching, pick the bias you feel is most likely to be present within that situation.
+
+Possible Answer Choices: Recall bias, publication bias, self-selection bias, response bias, voluntary bias, undercoverage bias, pre-screening bias
+
+P2-21. [mcq, 1 pt] Bias in which people with specific characteristics being studied are more likely to agree to take part in a study compared to others
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-22. [mcq, 1 pt] A survey asks if you've ever committed a crime. Nearly all respondents answer "no"
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-24. [mcq, 1 pt] Students in private schools tend to have higher test scores than students in public schools
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-26. [mcq, 1 pt] Bias in which some members of a population are not properly represented within the sample
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-27. [mcq, 1 pt] A survey regarding respondents' feelings towards poverty is assessed using an online form.
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-28. [mcq, 1 pt] Type of bias in which participants respond inaccurately to questions being asked
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+P2-29. [mcq, 1 pt] When asked to identify the cause of illness, some participants may incorrectly attribute a moment in which they believe they were exposed.
+    A) Recall bias
+    B) Publication bias
+    C) Self-selection bias
+    D) Response bias
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Pre-screening bias
+
+[STIMULUS] Write the term that best describes each of the definitions below.
+
+P2-31. [frq, 1 pt] The spread of an infection by droplets or dust
+
+P2-32. [frq, 1 pt] ____: A factor, such as a microorganism, chemical substance, or form of radiation, whose presence, excessive presence, or (in deficiency diseases) relative absence is essential for the occurrence of a disease
+
+P2-33. [frq, 1 pt] ____: Disease without signs and symptoms that are detectable by physical examination or laboratory test
+
+P2-34. [frq, 1 pt] ____ - The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+
+P2-35. [frq, 1 pt] ____ - The proportion of persons without disease who are correctly identified by a screening test or case definition as not having disease.
+
+P2-36. [frq, 1 pt] ____ - the proportion of persons with disease who are correctly identified by a screening test or case definition as having disease
+
+P2-37. [frq, 1 pt] ____ - The proportion of persons infected, after exposure to a causative agent, who then develops clinical disease.
+
+P2-38. [frq, 1 pt] ____ - The constant presence of a disease or infectious agent within a given geographical area or population group
+
+P2-39. [frq, 1 pt] ____- infectious diseases acquired in a health-care facility
+
+P2-40. [frq, 1 pt] ____ - The resistance of a group to invasion and spread of individual members of the group
+
+
+=== Section 3: Multiple Choice ===
+
+P3-41. [mcq, 1 pt] Local ERs send public health agencies information about many symptoms and this type of surveillance is used as an early bioterrorism detection system by the CDC
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+P3-42. [mcq, 1 pt] Is public health surveillance for most diseases passive or active?
+    A) Passive
+    B) Active
+
+P3-43. [multi, 2 pt] Which of the following are ways to conduct syndromic surveillance? Check all that apply.
+    A) Monitoring event attendance (work, school, conferences, etc)
+    B) Tracking calls to hospital
+    C) Looking at traffic of internet searches pertaining to a specific symptom/illness
+    D) Analysis of OTC drug purchases
+    E) None of the above
+
+P3-44. [mcq, 1 pt] Suppose an epidemiologist is studying the intersectionality of sleep, exercise, and diet in teenagers in the United States. She releases a poster with key statistics to a group of secondary health teachers. What step of the surveillance process would this correspond to?
+    A) Data collection
+    B) Data analysis
+    C) Data interpretation
+    D) Data dissemination
+    E) Link to action
+
+P3-45. [mcq, 1 pt] Which of the following is NOT a non-communicable disease?
+    A) Cancer
+    B) Hypertension
+    C) COPD
+    D) Stroke
+    E) Diabetes
+    F) All of the above are NCDs
+
+P3-46. [mcq, 1 pt] If a case of polio, a disease known to have been eradicated in the US, is detected in the United States, which type of surveillance are public health officials most likely to use to see if there are other cases for this?
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+P3-47. [multi, 2 pt] Descriptive epidemiology answers which of the following questions? Check all that apply.
+    A) Who?
+    B) Where?
+    C) When?
+    D) Why?
+    E) How?
+
+P3-48. [tf, 1 pt] Sentinel surveillance may be passive or active (True/False, 1 pt)
+    A) True
+    B) False
+
+P3-49. [mcq, 1 pt] Which of the following epidemiology-related scientists is best known for their title as the “Father of Field Epidemiology?”
+    A) Robert Koch
+    B) Louis Pasteur
+    C) John Snow
+    D) John Graunt
+    E) James Lind
+
+P3-50. [mcq, 1 pt] Around 12% of the US’s population lives in areas considered to be a “food desert”, or areas in which there is low/limited access to food, especially healthy, nutritious food. Which of the determinants of health does this best represent?
+    A) Social/societal characteristics
+    B) Genes and biology
+    C) Health behaviors
+    D) Access to/use of medical care
+
+[STIMULUS] The following questions all address the steps within an outbreak investigation. Please select the best answer that represents the statements in the question text.
+
+P3-51. [mcq, 1 pt] Some public health officials find it important to sit down with a patient to talk with them about the symptoms of their condition as well as how it's affecting them/others they know.
+    A) Verify the diagnosis
+    B) Construct a working case definition
+    C) Evaluate hypotheses epidemiologically
+    D) Initiate or maintain surveillance
+    E) None of the above
+
+P3-52. [mcq, 1 pt] Data about cases has already been collected, so epidemiologists are working on using statistical analyses to interpret the data.
+    A) Establish the existence of an outbreak
+    B) Find cases systematically and record information
+    C) Evaluate hypotheses epidemiologically
+    D) Compare and reconcile with laboratory and/or environmental studies
+    E) None of the above
+
+P3-53. [mcq, 1 pt] After an outbreak has occurred, epidemiologists write up a report to be published in MMWR.
+    A) Prepare for field work
+    B) Verify the diagnosis
+    C) Develop hypotheses
+    D) Initiate or maintain surveillance
+    E) None of the above
+
+P3-54. [mcq, 1 pt] Officials create a set of criteria for deciding whether an individual should be classified as having the health condition of interest.
+    A) Establish the existence of an outbreak
+    B) Construct a working case definition
+    C) Develop hypotheses
+    D) Evaluate hypotheses epidemiologically
+    E) None of the above
+
+P3-55. [mcq, 1 pt] A plan is created in which to best communicate with public health officials, the government, as well as the public throughout the course of the investigation.
+    A) Prepare for field work
+    B) Verify the diagnosis
+    C) Initiate or maintain surveillance
+    D) Communicate findings
+    E) None of the abover
+
+P3-56. [mcq, 1 pt] An epidemic curve is created to depict the time course of the outbreak.
+    A) Perform descriptive epidemiology
+    B) Develop hypotheses
+    C) As necessary, reconsider, refine, and re-evaluate hypotheses
+    D) Implement control and prevention measures
+    E) None of the above
+
+P3-57. [mcq, 1 pt] Monitor any control/prevention measures that are in place to prevent the transmission of the health condition of interest.
+    A) Establish the existence of an outbreak
+    B) As necessary, consider, refine, and re-evaluate hypotheses
+    C) Implement control and prevention measures
+    D) Initiate or maintain surveillance
+    E) None of the above
+
+P3-58. [mcq, 1 pt] Adjust your interpretation of the findings based on data available from other sources, such as laboratory isolation of a pathogen or other types of studies.
+    A) Develop hypotheses
+    B) Evaluate hypotheses epidemiologically
+    C) As necessary, consider, refine, and re-evaluate hypotheses
+    D) Compare and reconcile with laboratory and/or environmental studies
+    E) None of the above
+
+
+=== Section 4: Matching ===
+
+[STIMULUS] Match the following scientists with what they are famous for.
+
+P4-59. [mcq, 1 pt] Girolamo Fracastoro
+    A) Collaborated with Richard Doll to find a connection between smoking and getting lung cancer.
+    B) Created a more detailed description to the idea that diseases could be spread from one person to another.
+    C) Wrote a book, Observationes Medicae, which detailed many diseases
+    D) Found correlation between living in poor conditions and catching a disease.
+    E) Widely considered to be the father of human demography
+
+P4-60. [mcq, 1 pt] John Graunt
+    A) Collaborated with Richard Doll to find a connection between smoking and getting lung cancer.
+    B) Created a more detailed description to the idea that diseases could be spread from one person to another.
+    C) Wrote a book, Observationes Medicae, which detailed many diseases
+    D) Found correlation between living in poor conditions and catching a disease.
+    E) Widely considered to be the father of human demography
+
+P4-61. [mcq, 1 pt] Edwin Chadwick
+    A) Collaborated with Richard Doll to find a connection between smoking and getting lung cancer.
+    B) Created a more detailed description to the idea that diseases could be spread from one person to another.
+    C) Wrote a book, Observationes Medicae, which detailed many diseases
+    D) Found correlation between living in poor conditions and catching a disease.
+    E) Widely considered to be the father of human demography
+
+P4-62. [mcq, 1 pt] Austin Bradford Hill
+    A) Collaborated with Richard Doll to find a connection between smoking and getting lung cancer.
+    B) Created a more detailed description to the idea that diseases could be spread from one person to another.
+    C) Wrote a book, Observationes Medicae, which detailed many diseases
+    D) Found correlation between living in poor conditions and catching a disease.
+    E) Widely considered to be the father of human demography
+
+P4-63. [mcq, 1 pt] Thomas Sydenham
+    A) Collaborated with Richard Doll to find a connection between smoking and getting lung cancer.
+    B) Created a more detailed description to the idea that diseases could be spread from one person to another.
+    C) Wrote a book, Observationes Medicae, which detailed many diseases
+    D) Found correlation between living in poor conditions and catching a disease.
+    E) Widely considered to be the father of human demography
+
+[STIMULUS] Fill in the missing information:
+
+| Microbe | Disease | Microbe Type |
+|---|---|---|
+| Plasmodium falciparum | 64. | 65. |
+| 66. | Ringworm | 67. |
+| 68. | Chickenpox | 69. |
+| Bordatella pertussis | 70. | 71. |
+| Trichophyton mentagrophytes | 72. | 73. |
+
+P4-64. [frq, 1 pt] Plasmodium falciparum — Disease: ____
+
+P4-65. [frq, 1 pt] Plasmodium falciparum — Microbe Type: ____
+
+P4-66. [frq, 1 pt] ____ — Ringworm
+
+P4-67. [frq, 1 pt] Ringworm — Microbe Type: ____
+
+P4-68. [frq, 1 pt] ____ — Chickenpox
+
+P4-69. [frq, 1 pt] Chickenpox — Microbe Type: ____
+
+P4-70. [frq, 1 pt] Bordatella pertussis — Disease: ____
+
+P4-71. [frq, 1 pt] Bordatella pertussis — Microbe Type: ____
+
+P4-72. [frq, 1 pt] Trichophyton mentagrophytes — Disease: ____
+
+P4-73. [frq, 1 pt] Trichophyton mentagrophytes — Microbe Type: ____
+
+
+=== Case Study #1 — Michigan E.Coli Outbreak ===
+
+[STIMULUS] Information from CDC.gov https://www.cdc.gov/training/epicasestudies/classroom_ecoli.html
+
+Escherichia coli O157:H7 was first identified as a human pathogen in 1982 in the United States of America, following an outbreak of bloody diarrhea associated with contaminated hamburger meat. Sporadic infections and outbreaks have since been reported from many parts of the world, including North America, Western Europe, Australia, Asia, and Africa. Although other animals are capable of carrying and transmitting the infection, cattle are the primary reservoir for E. coli O157:H7. Implicated foods are typically those derived from cattle (e.g., beef, hamburger, raw milk).
+
+Infection with E. coli O157:H7 is diagnosed by detecting the bacterium in the stool. Most laboratories that culture stool do not routinely test for E. coli O157:H7, but require a special request from the health care provider. Only recently has E. coli O157:H7 infection become nationally notifiable in the U.S. Outside the U.S., reporting is limited to a few but an increasing number of countries.
+
+P5-1. [frq, 2 pt] Would this be considered an outbreak, endemic, epidemic, or pandemic? Why?
+
+[STIMULUS] In the last week of June 1997, the Michigan Department of Community Health (MDCH) noticed an increase in laboratory reports of E. coli O157:H7 infection. One hundred patients had already been in the hospital and sick with E. coli since 1996. Fifty-two new infections had been reported that month, compared with 18 new cases ongoing since June of 1996. In preliminary investigations, no obvious epidemiologic linkages between the patients were found. The increase in cases continued into July.
+
+P5-2. [frq, 1 pt] What is the name of a disease that can be transmitted by animals to humans?
+
+P5-3. [frq, 2 pt] Is E.Coli caused by a viral microorganism or a bacterial microorganism? If bacterial, is it considered gram-positive or gram-negative?
+
+P5-4. [frq, 6 pt] Provide two differences between a gram-positive infection and a gram-negative infection? What is an example of each?
+
+P5-5. [frq, 2 pt] Besides bacterial infections, what other kind of infection can gram stains diagnose?
+
+P5-6. [frq, 1 pt] List a common mode of transmission for E.Coli.
+
+P5-7. [mcq, 1 pt] Is droplet transmission or airborne transmission considered direct transmission?
+    A) Droplet transmission
+    B) Airborne transmission
+
+[STIMULUS] **Instructions:** Consider each of the following scenarios and classify each as confirmed, probable, possible, or not a case.
+
+P5-8. [mcq, 1 pt] A death that resulted from a patient feeling severe respiratory issues (trouble breathing and sharp chest pains). This patient was in contact with someone who had a confirmed positive test for COVID.
+    A) Confirmed
+    B) Probable
+    C) Possible
+    D) Not a case
+
+P5-9. [mcq, 1 pt] A patient who is experiencing a fever, muscle aches, and chills who thinks they have Listeria.
+    A) Confirmed
+    B) Probable
+    C) Possible
+    D) Not a case
+
+P5-10. [mcq, 1 pt] A patient who has received a positive antigen test for COVID.
+    A) Confirmed
+    B) Probable
+    C) Possible
+    D) Not a case
+
+P5-11. [mcq, 1 pt] A patient has diarrhea, stomach cramping, nausea, and vomiting. He was recently in contact with someone who tested positive for E.Coli. However, a lab result came back negative.
+    A) Confirmed
+    B) Probable
+    C) Possible
+    D) Not a case
+
+P5-13. [frq, 1 pt] What are the components of a case definition?
+
+P5-19. [frq, 1 pt] What type of epi-curve is above?
+    [IMAGE: ../images/2023_science_olympiad_at_penn_state_soaps_invitational_c__p12_fa986e-6acacb54.webp]
+
+P5-20. [matching, 4 pt] Match each epi-curve with its definition
+    - Intermittent Source  <->  A case of disease serves later as a source of infection for subsequent cases
+    - Continuous Source  <->  Exposure has multiple peaks that have no relation to the incubation period.
+    - Point Source  <->  Exposure to the source is prolonged over an extended period of time, possibly more than one incubation period
+    - Propagated Source  <->  People are exposed to the same exposure over a limited, well defined period of time.
+
+P5-21. [frq, 2 pt] Give two ways the Michigan residents can prevent an E.Coli infection.
+
+P5-23. [frq, 2 pt] All the patients were checked into the hospital. List two reasons why patients might be at a greater risk to acquire an infection than they would outside of the hospital.
+
+P5-24. [frq, 2.5 pt] What are the top five microorganisms that cause illnesses in food according to the CDC?
+
+
+=== Case Study #2 — Botulism in Argentina ===
+
+P6-0. [frq, 1 pt] What does CSTE stand for?
+
+[STIMULUS] “Foodborne botulism is a severe illness that results from the ingestion of a preformed toxin produced by a bacterium, Clostridium botulinum, in contaminated food. Death can occur in up to 60% of untreated cases; supportive care and prompt administration of antitoxin have reduced mortality in the United States to less than 10%. Outbreaks of botulism have been linked to improperly preserved vegetables, fruits, and meats including fermented fish products, sausages, smoked meat, and seafood.
+
+On January 13, 1998, an infectious diseases physician at a Buenos Aires hospital telephoned the Directorate of Epidemiology of the Argentine Ministry of Health (MOH) to report two possible cases of botulism. The patients, both men, presented with drooping eyelids, double vision, difficulty swallowing, and respiratory problems. One patient had onset of symptoms on January 5 and the other on January 6. The physician had drawn sera and collected stool specimens from the men to test for botulinum toxin but no results were available.”
+
+P7-1. [frq, 2 pt] At this point, should a concern be raised about the presence of botulism? Would this be considered an outbreak?
+
+P7-2. [frq, 2 pt] Considering the deathly side effects of botulism, it is imperative to catch cases as soon as possible. How can we detect cases of botulism quickly?
+
+P7-3. [frq, 6 pt] As an epidemiologist, it is important to figure out how to properly warn the population of disease. Craft a ~4-5 sentence press release for the media.
+
+P7-7. [frq, 3 pt] What key pieces of information can an epi curve tell you?
+
+[STIMULUS] In hypothesis-generating interviews with cases and other bus drivers, being a driver on the morning shift of the bus route and eating at the terminal home of the route were the only common exposures among cases. No cases of botulism occurred among bus drivers from the afternoon or evening shift of the route. Bus drivers from those shifts did not usually eat at the terminal home because it was only open for lunch. The investigators hypothesized that the outbreak was limited to morning shift bus drivers and resulted from eating or drinking something at the home at the terminal stop of the particular bus route between January 3 and 7.
+
+P7-9. [frq, 1 pt] What type of study would you use to investigate this?
+
+P7-11. [frq, 2 pt] What type of information are you looking for in the questionnaire?
+
+P7-12. [frq, 2 pt] When administering a questionnaire, there's always a potential for bias. List some biases that epidemiologists should be aware of in relation to the questionnaire.
+
+[STIMULUS] You've gathered information on the foods eaten at the rest stop, as given below.
+
+Foods served to bus drivers in home at terminal stop of bus route in the first week of January:
+Bologna
+Hot dogs
+Matambre*
+Mate**
+Processed ham
+Sauce
+Salami
+Solid ham
+
+*Matambre is a traditional meat roll in Argentina. At the terminal stop it was sliced and served in sandwiches, usually with a spicy sauce.
+**Mate is green tea.
+
+P7-13. [frq, 2 pt] List two foods that could be the source.
+
+P7-17. [frq, 2 pt] What is a complete environmental health assessment?
+
+
+=== Miscellaneous Questions ===
+
+P8-M1. [frq, 4 pt] What is the difference between a null and alternative hypothesis? Give an example of a null hypothesis and give an example of an alternative hypothesis.
+
+P8-M2. [frq, 1 pt] How is SARS-CoV-2 transmitted?
+
+P8-M3. [frq, 1 pt] List one difference between the Omicron variant of SARS-CoV-2 and the Delta variant.
+
+P8-M4. [frq, 1 pt] What is postacute sequelae of SARS-CoV-2 infection?

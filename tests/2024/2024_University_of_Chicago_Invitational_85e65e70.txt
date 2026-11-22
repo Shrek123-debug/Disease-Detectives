@@ -1,0 +1,212 @@
+University of Chicago Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  36 questions, 54.0 pts
+Source: scio.ly test archive id 85e65e70-8f5e-4fdf-a4ce-e81773798f65  |  original files: https://drive.google.com/drive/folders/11scWTMvMucVqpdFBUjkluL_Xrlbs8dGE
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+DIRECTIONS: Welcome to UChicago Science Olympiad!  High score wins. All questions are worth 1 point unless otherwise noted.
+
+
+=== Section 1: Multiple Choice ===
+
+P1-1. [mcq, 1 pt] Which of the following is not a possible infectious agent cause of foodborne illness?
+    A) Bacteria
+    B) Viruses
+    C) Archaea
+    D) Parasites
+    E) Fungi
+
+P1-2. [mcq, 1 pt] Epidemiology is primarily concerned with:
+    A) Infectious disease
+    B) Chronic disease
+    C) Both
+    D) Neither
+
+P1-3. [mcq, 1 pt] Which of the following is not normally part of a case definition?
+    A) Clinical information regarding the disease or condition
+    B) Characteristics of the affected population
+    C) Location
+    D) Time sequence
+    E) Specific exposure
+
+P1-4. [mcq, 1 pt] Your friend has a cough, runny nose, fever, and body aches. They have not received a PCR test for Influenza, but you recognize the symptoms. What kind of case are they?
+    A) Not a case
+    B) Confirmed
+    C) Probable
+    D) Possible/Suspected
+    E) Index case
+
+P1-5. [mcq, 1 pt] Which of the following is not one of Koch's postulates?
+    A) The suspected pathogen must be able to be sampled
+    B) Suspected pathogen must be present in all cases of disease
+    C) Pathogen must be able to be grown in pure culture
+    D) Cultured pathogen, when introduced into healthy model, must cause disease
+    E) The reinfected animal must have the same pathogen
+
+P1-6. [mcq, 1 pt] A randomized controlled trial has high:
+    A) Internal validity
+    B) External validity
+    C) Confounding
+    D) Interviewer's bias
+    E) Double blind
+
+P1-7. [mcq, 1 pt] COVID-19 will likely persist at relatively low levels for the rest of our lives. COVID-19 has transitioned from a pandemic to ____ disease.
+    A) Outbreak
+    B) Syndemic
+    C) Epidemic
+    D) Endemic
+    E) Harmless
+
+P1-8. [mcq, 1 pt] What is the meaning of the Basic Reproduction Number (R₀)?
+    A) Number of sexual partners that an STI case has exposed
+    B) Number of cases that another case generates
+    C) Viral load generated per infectious period in a case of viral disease
+    D) Bacterial culture growth rate
+    E) Average fertility in a population
+
+P1-9. [mcq, 1 pt] Hill's Criteria of Causation are important criteria to consider when determining whether a correlation is actually causation. Which of the following is not one of Hill's Criteria of Causation?
+    A) Dose response
+    B) Strength of association
+    C) Sensitivity
+    D) Temporality
+    E) Specificity
+
+P1-10. [mcq, 1 pt] The famous epidemiological origin story of John Snow and the Broad Street pump describes how Snow recognized that cases of cholera were clustered around a specific water pump in 19th century London. What analysis method would have allowed him to recognize this pattern?
+    A) Line listing
+    B) Agent/host/environment triad
+    C) Passive surveillance
+    D) Shoe leather epidemiology
+    E) Spot map
+
+P1-11. [mcq, 1 pt] Snow had the pump handle removed, and this is often credited as stopping the outbreak because the pump and well were contaminated with Vibrio cholerae. If this pump handle were not removed, what outbreak would have resulted?
+    A) Point source
+    B) Intermittent common source
+    C) Continuous common source
+    D) Propagated
+    E) Sanitation
+
+P1-12. [mcq, 1 pt] Malaria is spread via mosquitoes. Mosquitoes fulfill what role?
+    A) Agent
+    B) Portal of Entry
+    C) Fomite
+    D) Vehicle
+    E) Vector
+
+P1-13. [multi, 1 pt] Knowing this about malaria, how is malaria spread? Please select all that apply, if there is more than one.
+    A) Direct contact
+    B) Indirect contact
+    C) Droplet transmission
+    D) Airborne transmission
+    E) Vehicle transmission
+
+P1-14. [mcq, 1 pt] There are many different strains of E. coli, with pathogenic strains producing varying forms of toxins (for example, two different forms of Shiga toxin). A variant of Shiga toxin that is more harmful to the host would make the disease higher in:
+    A) Infectivity
+    B) Virulence
+    C) Pathogenicity
+    D) Contagiousness
+    E) Shedding
+
+P1-15. [mcq, 1 pt] COVID-19 vaccine requirements are examples of:
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+P1-16. [mcq, 1 pt] What type of study is considered a "snapshot" without temporality?
+    A) Cross sectional
+    B) Ecological
+    C) Cohort
+    D) Case control
+    E) Randomized controlled trial
+
+P1-17. [mcq, 1 pt] What is a negative confounder?
+    A) A confounding variable that is good for the study
+    B) A confounding variable that makes the association appear stronger than it actually is
+    C) A confounding variable that makes the association appear weaker than it actually is
+    D) A confounding variable that switches the direction of association (e.g., a positive association is actually a negative association)
+    E) A confounder that affects the disease process under study at a time earlier than is being studied (e.g., a risk factor from the past)
+
+P1-18. [mcq, 1 pt] Which of the following is not something that needs to be considered when selecting controls for a case-control study?
+    A) Cost
+    B) Motivation to participate for controls
+    C) Having diagnoses related to the condition under study
+    D) Matching of characteristics with controls
+    E) Maintaining a greater number of cases than controls in the study for statistical validity
+
+P1-19. [mcq, 1 pt] Cohort studies are/can be:
+    A) Prospective
+    B) Retrospective
+    C) Longitudinal
+    D) All of the above
+    E) None of the above
+
+P1-20. [mcq, 1 pt] A DALY is a disability adjusted life year. Why do we use this instead of YLL (years of life lost) to measure disease severity/burden?
+    A) Some diseases do not kill, but still decrease quality of life
+    B) YLL overestimates the burden of some diseases
+    C) DALYs are easier to measure/estimate
+    D) DALYs are more conducive to international research
+    E) YLL are too new to be widely accepted
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_university_of_chicago_invitational_b_c__p6_2fde7f-fe2915d9.webp]
+
+P1-21. [mcq, 1 pt] What kind of figure is the one above?
+    A) Epi curve
+    B) Infection web
+    C) Direct acyclic graph
+    D) SNP map
+
+P1-22. [mcq, 1 pt] "Exposure to the putative cause should be present more commonly in those with the disease than in controls without the disease when all risk factors are held constant" is a statement from:
+    A) Koch's postulates
+    B) Evan's postulates
+    C) Bradford-Hill criteria
+    D) The CDC's Principles of Epidemiology in Public Health Practice
+
+P1-23. [mcq, 1 pt] A food manufacturing plant was investigated due to a probable link between Salmonella and the chicken meatballs being produced on the plant. The chicken meatballs are an example of a(n):
+    A) Reservoir
+    B) Fomite
+    C) Infected agent
+    D) Vehicle
+
+P1-24. [mcq, 1 pt] A ____ is a figure that contains key information about each case in an outbreak, with each row representing a case and each column representing a variable such as demographic, clinical and epidemiologic information.
+    A) Epi curve
+    B) Subdivided table
+    C) Line listing
+    D) PFGE
+
+P1-25. [mcq, 1 pt] What bioinformatic tool can be implemented to identify food or waterborne illnesses across local, multistate, or national outbreaks?
+    A) MMWR
+    B) FoodNet
+    C) WGS
+    D) PulseNet
+
+
+=== Section 2: Short Answer/Calculations ===
+
+[STIMULUS] Colorectal Cancer (CRC) is one of the most common cancers in the United States, and it is recommended by the American Cancer Society that healthy adults receive a colonoscopy every 5 years beginning at age 45. A colonoscopy is a somewhat invasive and laborious test, and much research is being conducted to develop easier CRC screening modalities. One such method is fecal immunochemical testing (FIT), including a specific product called Cologuard that is a multitarget DNA stool test. Parts of the following data is adapted from a 2017 study from Bering et al. in Gastroenterology that consisted of a retrospective chart review.
+
+153 patients underwent a Cologuard test, with 16 obtaining a positive result. These patients then underwent a colonoscopy, of which 11 were determined to in fact have cancer. Patients who tested negative for Cologuard also underwent colonoscopies; 2 were found to have CRC.
+
+P2-1. [frq, 2 pt] Based on the Cologuard test, what is the incidence of CRC?
+
+P2-4. [frq, 2 pt] Calculate the sensitivity.
+
+P2-5. [frq, 2 pt] Calculate the specificity.
+
+P2-6. [frq, 2 pt] Calculate the Positive Predictive Value (PPV).
+
+P2-7. [frq, 2 pt] Calculate the Negative Predictive Value (NPV).
+
+P2-8. [frq, 2 pt] PPV is affected by prevalence. If CRC had a higher prevalence, how would the PPV be affected?
+
+P2-9. [frq, 3 pt] What is the interpretation of the PPV? If the PPV is very low, what does this mean for potential CRC patients? Is there a point where screening is not good/is damaging?
+
+P2-14. [frq, 4 pt] Researchers developed a Disease X antigen test that works much like a COVID test. What is the definition of specificity? What about sensitivity?
+
+P2-15. [frq, 2 pt] If this test has a high specificity, what does this mean?
+
+
+=== Case Studies ===
+
+P3-CS1-2e. [frq, 2 pt] Given that we have a series of cases, what would be the best study method to determine what the likely cause of an outbreak would be?
+
+P3-CS2-2. [frq, 6 pt] Cohort, cross-sectional, and case-control studies are commonly used in the field of epidemiology. List a unique pro and con for each.

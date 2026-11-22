@@ -1,0 +1,775 @@
+Belleville — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  68 questions, 106.0 pts
+Source: scio.ly test archive id ee208ee7-c07a-4503-8b78-3cd1b8c0ea43  |  original files: https://drive.google.com/drive/folders/1j1f4LA4YTClgEbP0dFYMf6hggadH-xmK
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== 1. Vocabulary ===
+
+[STIMULUS] Directions: In the following parts, match the term with the correct definition by placing the letter of the definition next to the corresponding term. Do not draw lines.
+
+a. Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+b. Number of new cases of disease occurring over a specified period of time
+c. Concerned with orienting health related data in terms of person, place, and time
+d. Number of cases of disease occurring within a population at any one given point in time
+e. The proportion of exposed persons who become infected
+f. The proportion of infected persons who develop clinical disease
+g. The proportion of persons with clinical disease who become severely ill or die.
+h. Indirectly transmit an infectious agent include food, water, biologic products
+i. Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+j. Diseases spread between animals and people
+k. Occurs over several countries or continents, and effects a very large portion of the population
+l. Any characteristic that affects the health of a population
+m. Any departure, subjective or objective, from a state of health
+n. The extent to which an intervention does more good than harm under ideal circumstance
+o. The cause of a disease or abnormal condition
+p. The distortion of the association between an exposure and health outcome by a third variable
+q. The specific environment in which an infectious pathogen naturally lives and reproduces
+r. A group of cases in a given area and time period, regardless of the number of cases
+s. Time elapsed between exposure to a pathogenic organism and onset of symptoms
+t. Resistance of a population as a result of most but not all members being immune.
+u. Resistance conferred by the antibodies produced in another host.
+v. The number of new cases over a period of time per size of the population at the beginning of that period
+w. Resistance developed in response to an antigen
+x. The proportion of people who die among those who are infected
+
+1-1. [mcq, 1 pt] Match the term with the correct definition: Cluster
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-2. [mcq, 1 pt] Match the term with the correct definition: Morbidity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-3. [mcq, 1 pt] Match the term with the correct definition: Passive immunity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-4. [mcq, 1 pt] Match the term with the correct definition: Zoonoses
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-5. [mcq, 1 pt] Match the term with the correct definition: Confounding
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-6. [mcq, 1 pt] Match the term with the correct definition: Attack rate
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-7. [mcq, 1 pt] Match the term with the correct definition: Incubation period
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-8. [mcq, 1 pt] Match the term with the correct definition: Infectivity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-9. [mcq, 1 pt] Match the term with the correct definition: Analytic epidemiology
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-10. [mcq, 1 pt] Match the term with the correct definition: Descriptive epidemiology
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-12. [mcq, 1 pt] Match the term with the correct definition: Pandemic
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-13. [mcq, 1 pt] Match the term with the correct definition: Fomite
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-14. [mcq, 1 pt] Match the term with the correct definition: Case-Fatality Rate
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-15. [mcq, 1 pt] Match the term with the correct definition: Efficacy
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-16. [mcq, 1 pt] Match the term with the correct definition: Virulence
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-17. [mcq, 1 pt] Match the term with the correct definition: Etiology
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-18. [mcq, 1 pt] Match the term with the correct definition: Active immunity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-19. [mcq, 1 pt] Match the term with the correct definition: Pathogenicity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-20. [mcq, 1 pt] Match the term with the correct definition: Reservoir
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-21. [mcq, 1 pt] Match the term with the correct definition: Determinant
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-22. [mcq, 1 pt] Match the term with the correct definition: Herd immunity
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-23. [mcq, 1 pt] Match the term with the correct definition: Vehicle
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+1-24. [mcq, 1 pt] Match the term with the correct definition: Prevalence
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) Number of new cases of disease occurring over a specified period of time
+    C) Concerned with orienting health related data in terms of person, place, and time
+    D) Number of cases of disease occurring within a population at any one given point in time
+    E) The proportion of exposed persons who become infected
+    F) The proportion of infected persons who develop clinical disease
+    G) The proportion of persons with clinical disease who become severely ill or die.
+    H) Indirectly transmit an infectious agent include food, water, biologic products
+    I) Inanimate objects such as handkerchiefs, bedding, or surgical scalpels that can transfer disease to a new host
+    J) Diseases spread between animals and people
+    K) Occurs over several countries or continents, and effects a very large portion of the population
+    L) Any characteristic that affects the health of a population
+    M) Any departure, subjective or objective, from a state of health
+    N) The extent to which an intervention does more good than harm under ideal circumstance
+    O) The cause of a disease or abnormal condition
+    P) The distortion of the association between an exposure and health outcome by a third variable
+    Q) The specific environment in which an infectious pathogen naturally lives and reproduces
+    R) A group of cases in a given area and time period, regardless of the number of cases
+    S) Time elapsed between exposure to a pathogenic organism and onset of symptoms
+    T) Resistance of a population as a result of most but not all members being immune.
+    U) Resistance conferred by the antibodies produced in another host.
+    V) The number of new cases over a period of time per size of the population at the beginning of that period
+    W) Resistance developed in response to an antigen
+    X) The proportion of people who die among those who are infected
+
+2. [frq, 5 pt] List 5 steps of Public Health Surveillance.
+
+[STIMULUS] During the month of October, Madison, WI is hit with a severe flu outbreak. During that month, 10,000 people are infected, and 3,000 people develop the disease. Of the infected people, 80 die. The population of Madison is 220,000 people. Calculate the infectivity, virulence, and pathogenicity. Show your work including formulas used.
+
+4a. [frq, 2 pt] Infectivity
+
+4b. [frq, 2 pt] Virulence
+
+4c. [frq, 2 pt] Pathogenicity
+
+[STIMULUS] There are four classifications of carriers: healthy, incubatory, convalescent, chronic. Fill in the blank with the appropriate choice.
+
+5a. [frq, 1 pt] ____ carriers are those who continue to harbor a pathogen such as Salmonella Typhi, the causative agent of typhoid fever, for months or even years after their initial infection.
+
+5b. [frq, 1 pt] ____ carriers are those who never experience symptoms despite being infected.
+
+5c. [frq, 1 pt] ____ carriers are those who have recovered from their illness but remain capable of transmitting to others.
+
+5d. [frq, 1 pt] There is a famous example in history for a healthy carrier who used to be a cook in New York City in the early 1900s. She unintentionally infected many people before she was put into isolation. What was the person's name?
+
+[STIMULUS] Questions 6-8 are multiple choice. Circle the best answer for each.
+
+6. [mcq, 1 pt] Portal of exit is the path by which a pathogen leaves its host. Which of the choices can be considered a portal of exit?
+    A) Respiratory tract
+    B) Skin lesion
+    C) Urine
+    D) Placenta
+    E) All of the above
+
+7. [mcq, 1 pt] Which of the below is an example of droplet spread disease?
+    A) Common cold
+    B) Salmonella
+    C) Malaria
+    D) AIDS
+    E) All of the above
+
+8. [mcq, 1 pt] Effects of confounding can result in:
+    A) An observed association when no real association exists.
+    B) No observed association when a true association does exist.
+    C) An underestimate of the association
+    D) Both a and b
+    E) a, b, and c
+
+[STIMULUS] Questions 10-18 are short answer questions.
+
+10. [frq, 2 pt] What marks transition from subclinical to clinical stage of disease?
+
+11. [frq, 4 pt] List four types of analytical studies
+
+12. [frq, 2 pt] What is absolutely needed to validate hypothesis
+
+13. [frq, 2 pt] Dose-response refers to which one of Bradford Hill's criteria?
+
+14. [frq, 2 pt] One to one relationship between cause and outcome is which one of Bradford Hill's criteria?
+
+15. [frq, 2 pt] Performing an analytical study is part of which step of an outbreak investigation? Indicate number and name of step.
+
+16. [frq, 2 pt] Determining and assigning roles in an outbreak investigation is what step? Indicate number and name of step.
+
+17. [frq, 2 pt] Mandatory measle vaccination implemented in New York during recent measles outbreak is an example of which step of an outbreak investigation? Indicate number and name of step.
+
+18. [frq, 2 pt] Types of Disease Control Strategies are designed to interrupt which epidemiological triad?
+
+[STIMULUS] For next section, information is taken MMWR Morb Mortal Wkly Rep 2019;68:405–406. DOI: http://dx.doi.org/10.15585/mmwr.mm6817a5.
+
+Use these two paragraphs to answer questions 19 – 22.
+
+On October 22, 2018, the Vermont Department of Health (VDH) notified CDC's Waterborne Disease Prevention Branch of an outbreak of diarrhea caused by Shigella sonnei among residents, visitors, and staff members of a retirement community in Chittenden County. CDC collaborated with VDH to identify additional cases, determine transmission routes, and recommend prevention and control measures.
+
+A confirmed case was defined as isolation of S. sonnei from the stool of a facility resident, visitor, or staff member during October 1–November 8. A probable case was defined as diarrheal illness without a positive culture in this population during the same period. Overall, 75 cases (24 confirmed and 51 probable) with onset dates from October 9 through November 3 were identified, including six cases in visitors to the facility.
+
+19. [frq, 2 pt] In what format would the investigators most likely display the probable and confirmed cases?
+
+21. [frq, 2 pt] What is the person chosen for the case definition?
+
+22. [numeric, 2 pt] According to the above paragraphs, how many cases were identified?
+
+[STIMULUS] Use the below figure of the epicurve for this investigation for questions 23-25.
+    [IMAGE: ../images/2020_belleville_b__p8_9ac6b1-54cf623c.webp]
+
+23a. [numeric, 2 pt] According to the figure, how many identified cases are there?
+
+23b. [frq, 3 pt] Explain the discrepancy.
+
+24. [frq, 2 pt] What date was the index case?
+
+25. [frq, 2 pt] What type of epicurve is represented in the above figure?
+
+[STIMULUS] Use the below information to answer questions 26 and 27.
+
+46 out of the 311 residents and 23 of the 209 staff members in the retirement community were among the cases. Six patients were hospitalized and 2 died.
+
+A review of facility records and key informant interviews supported foodborne transmission as a leading hypothesis for spread within the facility.
+
+A study was conducted using a standardized questionnaire administered to residents and staff members asking about meal exposures and other known risk factors for shigellosis. Residents and staff members who were cases were compared to those who did not meet the probable or confirmed definition.
+
+26b. [frq, 2 pt] Calculate the attack rate for staff members. Show all your work including formulas used.
+
+26c. [frq, 2 pt] Calculate the case fatality rate. Show all your work including formulas used.
+
+27. [frq, 2 pt] What type of analytical study was done?
+
+[STIMULUS] Classify the below as control, elimination, eradication, or extinction:
+
+28a. [frq, 1 pt] Reduction to zero of the incidence of a specific disease in a defined geographical area.
+
+28b. [frq, 1 pt] Classify the below as control, elimination, eradication, or extinction: Termination of all transmission of infections by extermination of infection agent.
+
+28c. [frq, 1 pt] Classify the below as control, elimination, eradication, or extinction: Specific infectious agent no longer exists in nature or the laboratory.
+
+[STIMULUS] Categorize the below as primordial, primary, secondary, or tertiary type of prevention:
+
+29a. [frq, 1 pt] treatment of hypertension to avoid cardiovascular diseases and cancer screening
+
+29b. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: developing healthy lifestyles early in life including diet and exercise
+
+29c. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: getting recommended childhood vaccines
+
+29d. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: surgical procedures that halt the spread or progression of disease
+
+29e. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: stroke rehabilitation center
+
+29f. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: having moles on your skin checked regularly to detect early changes which may lead to skin cancer
+
+29g. [frq, 1 pt] Categorize the below as primordial, primary, secondary, or tertiary type of prevention: putting on sunscreen before going outside to prevent skin cancer
+
+30. [frq, 4 pt] An outbreak of food poisoning occurred on a cruise ship. The data in the following table was obtained from a questionnaire given to all passengers on board the ship. Calculate the relative risk of food poisoning from consuming oysters. Show all your work including formulas used.
+    [IMAGE: ../images/2020_belleville_b__p10_bd8600-40d3a7e3.webp]
+
+[STIMULUS] You develop a test to detect meningitis and run clinical trials using it. You obtain the following data:
+
+| | MENINGITIS PRESENT | NO MENINGITIS PRESENT |
+|---|---|---|
+| TEST POSITIVE | 254 (A) | 11 (B) |
+| TEST NEGATIVE | 32 (C) | 63 (D) |
+
+31a. [numeric, 2 pt] How many true positives are there?
+
+31b. [numeric, 2 pt] How many false negatives are there?
+
+31c. [frq, 3 pt] Calculate the sensitivity of your new test. Show all your work including formula used.
+
+31d. [frq, 3 pt] Calculate the specificity of your new test. Show all your work including formula used.

@@ -1,0 +1,537 @@
+Northview Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  87 questions, 87.0 pts
+Source: scio.ly test archive id d5087d9c-0745-4624-b899-45a374abbabf  |  original files: https://drive.google.com/drive/folders/1twXDpWKFKFqNzL8tZzLlpJo4hhR6NYnP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+
+=== 2025 SYLVANIA NORTHVIEW INVITATIONAL — Disease Detectives ===
+
+[STIMULUS] Classify the following study as **experimental**, **observational/cohort**, **observational/case-control**, or **not an epidemiologic study**.
+
+2a. [mcq, 1 pt] Vietnam Experience Study: Subjects were several thousand soldiers stationed in Vietnam from 1969-1971 and several thousand soldiers stationed in Europe from 1969-1971. In the mid-1980's, investigators determined and compared the death rate and prevalence of illness in both groups.
+    A) experimental
+    B) observational/cohort
+    C) observational/case-control
+    D) not an epidemiologic study
+
+2b. [mcq, 1 pt] Subjects were 59 patients with end-stage cancer. All were given a new treatment. The monthly survival was charted over 2 years.
+    A) experimental
+    B) observational/cohort
+    C) observational/case-control
+    D) not an epidemiologic study
+
+2c. [mcq, 1 pt] Subjects were persons with laboratory-confirmed trichinosis, and one healthy friend of each. All subjects were asked about their consumption of pork and other meat products.
+    A) experimental
+    B) observational/cohort
+    C) observational/case-control
+    D) not an epidemiologic study
+
+2d. [mcq, 1 pt] Subjects were children enrolled in a health maintenance organization. At 18 months, each child was randomly given one of two types of vaccine against Haemophilus influenzae. Parents were asked to record any side effects on a card, and mail it back after 2 weeks.
+    A) experimental
+    B) observational/cohort
+    C) observational/case-control
+    D) not an epidemiologic study
+
+3. [mcq, 1 pt] In the definition of epidemiology, the terms “distribution” and “determinants” taken together refer to:
+    A) frequency, pattern, and causes of health events
+    B) dissemination of information to those who need to know
+    C) knowledge, attitudes, and practices related to health
+    D) public health services and resources
+
+5. [mcq, 1 pt] The London cholera epidemic of 1848 was traced to the Broad Street pump by whom?
+    A) Grant
+    B) Farr
+    C) Snow
+    D) Doll
+    E) Hill
+
+6. [multi, 1 pt] The functions of public health surveillance include which of the following?
+    A) Collection of health data
+    B) Analysis of health data
+    C) Interpretation of health data
+    D) Dissemination of health data
+    E) Disease control actions developed from the collection, analysis, and interpretation of health data
+
+[STIMULUS] For 7-9, identify the appropriate letter from the time line below representing the natural history of disease.
+    [IMAGE: ../images/2026_northview_invitational_c__p2_b7faf3-19e1bf18.webp]
+
+7. [mcq, 1 pt] Onset of symptoms
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+
+8. [mcq, 1 pt] Usual time of diagnosis
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+
+9. [mcq, 1 pt] Exposure
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+
+[STIMULUS] Questions 10-13: The line listing in Table 2.1 presents some of the information collected on infants born at General Hospital A with neonatal listeriosis.
+    [IMAGE: ../images/2026_northview_invitational_c__p2_382654-0704c140.webp]
+
+10. [frq, 1 pt] What is the ratio of males to females?
+
+11. [frq, 1 pt] What proportion of infants lived?
+
+12. [frq, 1 pt] What proportion of infants were delivered in a delivery room?
+
+13. [frq, 1 pt] What is the ratio of operating room deliveries to delivery room deliveries?
+
+14. [mcq, 1 pt] In August 2001, a cluster of Ralstonia pickettii bacteremia occurred among neonatal intensive care unit (NICU) infants at a California hospital. A case-control study was conducted to identify risk factors for infection. Which of the following would not be a control group for the study
+    A) Infants who had blood cultures taken during either cluster period (July 30-August 3 and August 19-30)
+    B) Infants who had blood cultures that did not yield R. pickettii
+    C) Hospital staff who worked in the NICU.
+    D) Infants who had been in the hospital for at least 72 hours
+
+15. [frq, 1 pt] Salmonella Newport: Multiple States Outbreak, July–November 2006
+    
+    A case-control study of persons aged 18–75 years was conducted. Illness was associated with eating raw tomatoes in restaurants; 14 (67%) of 21 matched case-patients ate raw tomatoes in restaurants compared with 9 (28%) of 32 controls.
+    
+    Calculate the odds ratio.
+
+16. [mcq, 1 pt] A recent train derailment exposed residents of a community to a chemical hazard. Many residents became ill; some died. To calculate the **probability** or **risk** of illness, which denominator would you use?
+    A) The size of the population at risk at the beginning of the period
+    B) The size of the population at risk at the midpoint of the period
+    C) The size of the population at risk at the end of the period
+    D) The average size of the population at risk during the period
+
+17. [mcq, 1 pt] During the second week of September, 87 persons in a small community (population 460) attended a social event which included a meal prepared by several of the participants. Within 3 days, 39 of the participants became ill with a condition diagnosed as salmonellosis. The attack rate among participants was:
+    A) 0.45/100
+    B) 8.5/100
+    C) 18.9/100
+    D) 44.8/100
+
+[STIMULUS] You conduct a case-control study examining the relationship between drinking soda and colon cancer and find that - Among 1500 who have colon cancer, 400 drink soda, - Among the 3000 controls who don’t have colon cancer, 450 drink soda.
+
+18b. [frq, 1 pt] calculate the crude odds ratio.
+
+[STIMULUS] Consider the following study: In a study examining the relationship between oral contraceptives and bacteriuria, you follow women who do and do not use oral contraceptives over a three-year period, and find that 70 of the 500 individuals who use OC acquired bacteriuria, while 150 of 3000 individuals who don’t use OC acquired bacteriuria.
+
+21a. [mcq, 1 pt] Is this a cohort or case-control study?
+    A) Cohort
+    B) Case-control
+
+21b. [frq, 1 pt] What is the incidence among the exposed?
+
+21c. [frq, 1 pt] What is the incidence among the unexposed?
+
+21d. [frq, 1 pt] What is the relative risk?
+
+21e. [frq, 1 pt] What is the attributable risk?
+
+21f. [frq, 1 pt] What is the attributable risk %?
+
+22. [frq, 1 pt] Do seatbelt laws prevent injury? Reclassify the response to either "no injury" or "injury." Display the data in a 2-by-2 table and compare the incidence of "no injury" to "injury" in the form of a risk ratio and interpret these results.
+    
+    | Time period | No injury | Minimal injury | Minor injury | Major/fatal | Total injury |
+    |---|---|---|---|---|---|
+    | After enactment | 1281 | 64 | 35 | 4 | 1384 |
+    | Prior to enact. | 6596 | 400 | 264 | 30 | 7290 |
+    | Total | 7877 | 464 | 299 | 34 | 8674 |
+
+[STIMULUS] Classify the following causal factor for malaria as **agent**, **host**, or **environmental**.
+
+23a. [mcq, 1 pt] Anopheles mosquito
+    A) agent
+    B) host
+    C) environmental
+
+23b. [mcq, 1 pt] presence/absence of sickle cell trait (determines susceptibility)
+    A) agent
+    B) host
+    C) environmental
+
+23c. [mcq, 1 pt] Plasmodium species (protozoan)
+    A) agent
+    B) host
+    C) environmental
+
+[STIMULUS] A cohort of 150 people begins with 10 cases. The cohort is followed for five (5) years during which 16 new cases arise. Leave your answer in the form of a fraction.
+
+24a. [frq, 1 pt] What is the prevalence of disease X at the start of follow-up?
+
+24b. [frq, 1 pt] Assume all cases survive. What is the prevalence at the end of follow-up?
+
+24c. [frq, 1 pt] What is the incidence proportion of disease over the interval?
+
+24d. [frq, 1 pt] What is the incidence rate of disease over the follow-up interval?
+
+[STIMULUS] Match each term with its definition.
+
+29. [mcq, 1 pt] epidemic
+    A) occurrence at an increased or excess level
+    B) related to death
+    C) related to disease or disability
+    D) occurrence at a constant or expected level
+
+32. [mcq, 1 pt] Which of the following apply to drawing an epidemic curve?
+    A) The y-axis is dates of onset of the illness
+    B) The time interval should be less than one-eighth the minimum incubation period of the disease
+    C) The type of graph should be a histogram
+    D) The graph should begin with the first case of the epidemic
+
+33. [mcq, 1 pt] For Clostridium perfringens food poisoning, the minimum incubation period is 8 hours, and the average incubation period is 10 to 12 hours. Based on the graph shown below, when is the probable period of exposure?
+    [IMAGE: ../images/2026_northview_invitational_c__p4_3d635b-cf6f111b.webp]
+    A) October 6, periods 1-2 (12:01 A.M. to 8:00 A.M.)
+    B) October 6, periods 2-3 (4:01 A.M. to noon)
+    C) October 6, periods 3-4 (8:01 A.M. to 4 P.M.)
+    D) October 6, periods 4-5 (12:01 P.M. to 8:00 P.M.)
+    E) October 6, periods 5-6 (4:01 P.M. to midnight)
+
+35. [mcq, 1 pt] The Bradford Hill Criteria were primarily developed to help scientists determine:
+    A) The biological mechanism of infectious agents
+    B) Statistical associations between exposures and outcomes
+    C) Causal relationships between an exposure and a disease
+    D) The genetic susceptibility to disease
+
+36. [mcq, 1 pt] Which of the following is NOT one of Bradford Hill’s original criteria for causation?
+    A) Strength of association
+    B) Biological plausibility
+    C) Experimental evidence
+    D) Genetic predisposition
+
+37. [mcq, 1 pt] Koch’s postulates are best suited for identifying causation in which type of disease?
+    A) Chronic non-communicable diseases
+    B) Infectious diseases caused by microorganisms
+    C) Genetic disorders
+    D) Lifestyle-related conditions
+
+38. [mcq, 1 pt] A limitation of Koch’s postulates in modern epidemiology is that:
+    A) They rely on animal experimentation
+    B) Many diseases have multiple interacting causes, not a single pathogen
+    C) They do not require laboratory verification
+    D) They ignore clinical observations
+
+39. [mcq, 1 pt] Evans’ postulates were developed to:
+    A) Replace Bradford Hill’s criteria for environmental exposures
+    B) Extend Koch’s postulates to non-infectious and multifactorial diseases
+    C) Explain genetic determinants of disease
+    D) Focus only on experimental causality
+
+40. [mcq, 1 pt] The Bradford Hill criterion of “consistency” refers to:
+    A) The exposure consistently causes the same disease in all individuals
+    B) Repeated studies show a similar association between exposure and disease
+    C) The association remains even after controlling for all confounders
+    D) The biological mechanism of action is well understood
+
+41. [mcq, 1 pt] In modern epidemiology, Directed Acyclic Graphs (DAGs) are primarily used to:
+    A) Visualize causal assumptions and identify confounding variables
+    B) Estimate disease prevalence from survey data
+    C) Test statistical significance of associations
+    D) Describe microbial transmission pathways
+
+42. [mcq, 1 pt] The sufficient/component cause model (Rothman’s model) emphasizes that:
+    A) Each disease has a single necessary cause
+    B) Multiple causal components together can produce disease
+    C) Random variation is the main determinant of disease occurrence
+    D) Causation can be proven by eliminating all bias
+
+43. [mcq, 1 pt] The GRADE approach (Grading of Recommendations Assessment, Development, and Evaluation) focuses on:
+    A) Assigning biological mechanisms to diseases
+    B) Assessing the certainty and quality of evidence in public health and clinical recommendations
+    C) Modeling confounding pathways
+    D) Identifying laboratory evidence for causation
+
+44. [mcq, 1 pt] Compared to the Bradford Hill Criteria, newer causality models like DAGs and GRADE:
+    A) Are less applicable to modern epidemiology
+    B) Focus more on visualizing and quantifying causal relationships
+    C) Eliminate the need for expert judgment
+    D) Only apply to infectious disease outbreaks
+
+45. [mcq, 1 pt] When applying the Bradford Hill Criteria to verify the cause of an outbreak, the criterion of temporality ensures that:
+    A) The cause occurs after the effect
+    B) The cause occurs before the effect
+    C) The cause and effect occur simultaneously
+    D) The cause can occur at any time relative to the effect
+
+46. [mcq, 1 pt] Which of the following is a key advantage of Bradford Hill Criteria over Koch’s Postulates?
+    A) They allow for non-biological and multifactorial causes of disease
+    B) They require laboratory isolation of pathogens
+    C) They are only applicable to infectious diseases
+    D) They cannot be used in observational studies
+
+47. [mcq, 1 pt] An infectious disease has a basic reproductive number (R₀) of 5. What proportion of the population must be immune (through vaccination or prior infection) to achieve herd immunity?
+    A) 20%
+    B) 40%
+    C) 60%
+    D) 80%
+
+48. [mcq, 1 pt] A disease has an R₀ of 3.0. If 70% of the population is immune (either from vaccination or prior infection), what is the effective reproductive number (Rₑ)?
+    A) 0.3
+    B) 0.6
+    C) 0.9
+    D) 1.2
+
+50. [mcq, 1 pt] An epidemic curve shows a sharp rise in cases over a short period, followed by a gradual decline. All cases occur within one incubation period. What is the most likely pattern of transmission?
+    A) Continuous common-source outbreak
+    B) Point-source outbreak
+    C) Propagated (person-to-person) outbreak
+    D) Mixed (common-source followed by secondary spread) outbreak
+
+51. [mcq, 1 pt] When analyzing a line listing, you notice that most cases ate at the same restaurant within a 24-hour period, and the onset of symptoms occurred 12–18 hours later. What is the most likely conclusion?
+    A) Person-to-person spread is occurring
+    B) The outbreak is likely a point-source foodborne exposure
+    C) The illness is likely caused by a chronic exposure
+    D) Laboratory contamination is suspected
+
+52. [mcq, 1 pt] How does PulseNet enhance outbreak detection compared to traditional epidemiologic methods?
+    A) It replaces all epidemiologic interviews
+    B) It identifies identical or related bacterial strains from geographically distant cases
+    C) It relies solely on case symptom profiles
+    D) It only detects viral outbreaks
+
+53. [mcq, 1 pt] An epidemiologist in Ohio receives a phone call from a father in Clintonville who is concerned that several children in his neighborhood have been diagnosed with juvenile alopecia (hair loss). The father is specifically concerned that a nearby oil refinery is the cause of the alopecia. An initial review suggests there are more new cases of juvenile alopecia in Clintonville than expected. After establishing a case definition of juvenile alopecia, one of the first things the epidemiologist should do is to:
+    A) conduct a case control study with vicinity to the oil refinery as the exposure of interest
+    B) describe the natural history of juvenile alopecia in terms of person, place and time
+    C) conduct a prospective cohort study comparing children in Yankeyville to children who live elsewhere with juvenile alopecia as the outcome of interest
+    D) collect ticks in Yankeyville for analysis
+    E) conduct a randomized controlled trial to determine if topical Minoxidil will help the children grow back hair
+
+54. [mcq, 1 pt] Public health officials are concerned about a summer outbreak of a virus transmitted to humans by mosquitoes. The officials establish mosquito traps in wooded areas to determine the prevalence of the virus in the mosquitoes. This mosquito trapping is an example of:
+    A) passive surveillance
+    B) active surveillance
+    C) a retrospective cohort study
+    D) a prospective cohort study
+    E) a case control study
+
+55. [mcq, 1 pt] Botulism occurs rarely and is not a communicable disease when it does occur. Assuming that the incidence of botulism remains unchanged, one would classify botulism as (only one correct answer)
+    A) a sporadic disease
+    B) an epidemic disease
+    C) a pandemic disease
+    D) an endemic disease
+    E) all of the above
+    F) none of the above
+
+[STIMULUS] Please label the following statements as (TRUE) or (FALSE) regarding bias in epidemiologic research.
+
+56. [tf, 1 pt] Bias is an error in design or execution of a study that produces results that are consistently distorted in one direction and lead to an incorrect assessment of the association between the factor and the disease under study.
+    A) True
+    B) False
+
+57. [tf, 1 pt] Bias could be due to problems in the selection of the population to be studied.
+    A) True
+    B) False
+
+58. [tf, 1 pt] Bias can be prevented or minimized by taking a larger sample.
+    A) True
+    B) False
+
+59. [tf, 1 pt] Bias can be classified in two major types: selection bias and information bias.
+    A) True
+    B) False
+
+[STIMULUS] An investigator would like to assess the association of melanoma (skin cancer) and exposure to infrared skin tanning services by using a hospital-based case-control study. Hospitalized individuals with melanoma will be compared to hospitalized patients without melanoma (controls). This hospital is located in a low-income area of the city and is famous nationwide for its expertise in melanoma; individuals with melanoma (cases) from all over the country go to that hospital to get the highest quality care that can be provided. However, this hospital is not as well known for other medical conditions. Therefore, cases would come from all over the country and controls will be mostly local low-income individuals. The investigator predicts that an overestimation of the association between melanoma and skin tan services may occur.
+
+Please label the following statements as TRUE or FALSE regarding this study.
+
+60. [tf, 1 pt] The investigator is wrong, an underestimation of the association is more likely to occur.
+    A) True
+    B) False
+
+61. [tf, 1 pt] The results of this study are likely to be influenced by nonresponse bias.
+    A) True
+    B) False
+
+62. [tf, 1 pt] The results of this study are likely to be influenced by Berkson's bias.
+    A) True
+    B) False
+
+63. [tf, 1 pt] Recall bias is likely to be present in this study.
+    A) True
+    B) False
+
+64. [tf, 1 pt] Bias caused by misclassification of the outcome (namely melanoma) is likely to be a major problem.
+    A) True
+    B) False
+
+65. [mcq, 1 pt] For an investigation of an outbreak, what is the logical order of the activities listed below?
+    
+    (1) Analyze data by time, place, and person
+    
+    (2) Conduct a case-control study
+    
+    (3) Generate hypotheses
+    
+    (4) Conduct active surveillance for additional cases
+    
+    (5) Verify the diagnosis
+    
+    (6) Confirm that the number of cases exceeds the expected number
+    
+    (7) Coordinate who will talk to the press about the investigation
+    A) 1-2-3-4-5-6-7
+    B) 5-6-4-1-2-3-7
+    C) 6-5-1-3-2-4-7
+    D) 7-6-5-4-1-3-2
+    E) 5-6-1-3-2-4-7
+
+[STIMULUS] **Case Study: Ringworm Outbreak in a Youth Soccer League**
+
+**Background**
+In early September, the Maumee Valley Community Health Department received reports of several children in a local youth soccer league developing unexplained skin rashes. The league involved 120 children ages 7–12, divided into eight teams, practicing twice per week on shared athletic fields.
+
+**Initial Observations**
+Parents first noticed small, red, itchy patches on their children's skin. These lesions became increasingly circular and scaly over several days. Many families assumed it was eczema, heat rash, or insect bites. However, by the third week, the school nurse at Maumee Valley Elementary had seen similar rashes on multiple students who all played in the same league. Recognizing the characteristic ring-shaped pattern, she suspected **tinea corporis (ringworm)** and contacted the community health department for guidance.
+
+**Epidemiological Investigation: Case Findings**
+A total of **nine confirmed cases** were identified across **three different teams**:
+- 5 cases on the U10 Wildcats
+- 3 cases on the U12 Tornadoes
+- 1 case on the U10 Rockets
+
+All affected children presented with:
+- Circular lesions with raised, scaly borders
+- Itching
+- Lesions on arms, legs, neck, or upper torso
+
+No systemic symptoms were reported.
+
+**Interviews and Observations:** Public health investigators conducted interviews with players, parents, and coaches. They also visited the practice fields and equipment storage areas.
+
+Key findings included:
+1. **Shared Equipment** — Many children regularly shared shin guards, goalie gloves, and practice pinnies. These items were **rarely cleaned** between uses.
+2. **Hygiene Gaps** — Several players admitted they **did not shower immediately after practice**, instead going home still in their uniforms.
+3. **Animal Exposure** — Players from two affected teams frequently interacted with a **stray cat** that lived near Field 3. The cat was observed to have patches of missing fur.
+4. **Inconsistent Cleaning Protocols** — Only one of the four practice fields had a routine schedule for cleaning athletic mats used during warm-ups. Other fields had **no regular disinfection procedures**.
+
+**Potential Sources of Transmission**
+Based on the findings, investigators identified three major possible transmission pathways:
+- **Zoonotic transmission** from the stray cat
+- **Fomite transmission** through contaminated shared equipment
+- **Skin-to-skin contact**, which is common during soccer play
+
+Given the widespread sharing of equipment across teams and the pattern of cases across multiple age groups, fomite transmission was considered a primary driver, with the stray cat likely serving as an initial reservoir.
+
+**Public Health Concerns**
+Although ringworm is not life-threatening, the number of cases had increased steadily over three weeks, suggesting ongoing transmission. Officials worried about:
+- Spread to additional teams
+- Introduction into local schools
+- Secondary household infections, especially among younger siblings
+
+The health department recommended immediate action to prevent further spread.
+
+Answer the following based on the case study.
+
+66. [mcq, 1 pt] What was the most likely primary mode of ongoing transmission in the soccer league outbreak?
+    A) Airborne spores spread during heavy breathing
+    B) Fomite transmission through shared sports equipment
+    C) Waterborne contamination in the drinking fountains
+    D) Foodborne exposure from team snacks
+
+67. [mcq, 1 pt] Which observation suggests a possible zoonotic source for the outbreak?
+    A) Players wore long-sleeved uniforms
+    B) A stray cat with patchy fur roamed near the practice fields
+    C) Several players forgot their shin guards
+    D) The grass on Field 2 was recently reseeded
+
+68. [mcq, 1 pt] Which of the following actions would MOST effectively reduce the spread of ringworm?
+    A) Increasing the number of weekly games
+    B) Encouraging players to share towels to dry off faster
+    C) Disinfecting shared equipment after each use
+    D) Switching practices from afternoons to mornings
+
+69. [mcq, 1 pt] Why did cases appear on multiple teams rather than being confined to one group?
+    A) Some teams had weaker immune systems
+    B) Fungal infections always spread equally among all players
+    C) Teams frequently shared equipment and practice spaces
+    D) Only older children are susceptible to ringworm
+
+70. [mcq, 1 pt] Which personal hygiene practice is most important in preventing ringworm?
+    A) Wearing sunscreen daily
+    B) Showering immediately after practices and games
+    C) Drinking extra water
+    D) Eating a high-protein diet
+
+71. [mcq, 1 pt] What early symptom helped the school nurse identify the infection as ringworm?
+    A) Fever
+    B) Circular, scaly lesions with clearer centers
+    C) Cough and congestion
+    D) Severe muscle cramps
+
+72. [mcq, 1 pt] Which prevention strategy targets the environmental reservoir involved in this outbreak?
+    A) Training coaches to use better scoring methods
+    B) Removing or treating the stray cat
+    C) Encouraging nighttime practices
+    D) Providing extra jerseys
+
+73. [mcq, 1 pt] Why should families of infected players check siblings for symptoms?
+    A) Ringworm can spread easily through household contact
+    B) Siblings usually play soccer too
+    C) Siblings always share equipment
+    D) Ringworm is genetic
+
+74. [mcq, 1 pt] Which measure supports early case identification?
+    A) Keeping players from reporting symptoms
+    B) Requiring complete silence during warm-ups
+    C) Encouraging parents to notify coaches of suspicious skin lesions
+    D) Delaying medical evaluation until the season ends
+
+75. [mcq, 1 pt] Which category best describes ringworm?
+    A) Bacterial infection
+    B) Viral infection
+    C) Fungal infection
+    D) Parasitic infection
+
+76. [mcq, 1 pt] Which factor most strongly suggests that the outbreak involved both a reservoir and a method of amplification?
+    A) Only one field had a cleaning schedule
+    B) The presence of an untreated stray cat combined with widespread shared equipment
+    C) All teams practiced twice per week
+    D) Players varied in their attendance
+
+77. [mcq, 1 pt] Which epidemiological action would be MOST helpful in confirming the initial source of infection?
+    A) Testing soil samples from all fields
+    B) Performing fungal cultures on equipment and examining the stray cat
+    C) Increasing the number of practices to observe transmission
+    D) Interviewing players about their favorite sports teams
+
+78. [mcq, 1 pt] Which reasoning best explains why the outbreak persisted for at least three weeks?
+    A) Ringworm is airborne and spreads quickly through respiratory droplets
+    B) The fungus survives on surfaces and equipment for long periods without cleaning
+    C) Players were too young to understand soccer rules
+    D) The fields were too large to monitor effectively
+
+79. [mcq, 1 pt] If a second outbreak occurs despite improved equipment cleaning, what is the MOST plausible explanation?
+    A) The strain of fungus became airborne
+    B) Undiagnosed cases continued to participate in practices
+    C) Water bottles caused fungal growth
+    D) Fungi were transmitted through sunlight exposure
+
+80. [mcq, 1 pt] Which intervention would best help determine the effectiveness of the new prevention strategies?
+    A) Asking coaches to guess whether cases have decreased
+    B) Tracking the number of new cases over several weeks after implementing changes
+    C) Switching all teams to indoor practice fields
+    D) Ending the soccer season early
+
+
+=== Tie Breakers ===
+
+[STIMULUS] Study Design 2. 1,500 employees of a major aircraft company were initially examined in 1951 and were classified by diagnostic criteria for coronary artery disease (CAD). New cases of CAD have been identified by examinations every three years and through death certificates. Incidence rates in different subgroups have been computed.
+
+TB1. [mcq, 1 pt] Is this study experimental or observational?
+    A) Experimental
+    B) Observational
+
+TB2. [tf, 1 pt] Is this study an ecological study?
+    A) True
+    B) False
+
+TB3. [mcq, 1 pt] Is this study longitudinal or cross-sectional?
+    A) Longitudinal
+    B) Cross-sectional
+
+TB4. [tf, 1 pt] Is this a case-control study?
+    A) True
+    B) False
+
+TB5. [frq, 1 pt] What type of study is this?
+
+TB6. [frq, 1 pt] In a mass screening of 1,000 65-year-old men, 100 were found to have polyps of the colon. During the following 10-year period, another 200 men with colon polyps were discovered. Calculate a measure of disease occurrence.

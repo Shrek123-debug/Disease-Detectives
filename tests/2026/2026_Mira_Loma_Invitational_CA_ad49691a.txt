@@ -1,0 +1,1116 @@
+Mira Loma Invitational - CA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  130 questions, 154.0 pts
+Source: scio.ly test archive id ad49691a-c778-49a7-a9ec-eeff4761b674
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+DIRECTIONS: - No partial credit
+- Point values noted in each section's header
+
+
+=== Part 1 – Multiple Choice ===
+
+1. [mcq, 1 pt] Which determinant of health accounts for the largest proportion of preventable premature deaths in the U.S.?
+    A) Health behaviors
+    B) Genetics
+    C) Medical care access
+    D) Physical environment
+    E) Infectious diseases
+
+2. [mcq, 1 pt] Incidence is best defined as the:
+    A) Proportion of a population with disease at a given time
+    B) Number of new cases in a defined population over a defined period
+    C) Probability that an exposed person becomes ill
+    D) Proportion of deaths among cases
+    E) Average duration of disease
+
+3. [mcq, 1 pt] Which study design is MOST appropriate for studying a rare disease?
+    A) Cohort study
+    B) Cross-sectional study
+    C) Case-control study
+    D) Ecological study
+    E) Randomized controlled trial
+
+4. [mcq, 1 pt] Which stage of the natural history of disease occurs after pathologic changes but before symptoms?
+    A) Incubation period
+    B) Prodromal period
+    C) Latent period
+    D) Preclinical stage
+    E) Convalescent period
+
+5. [mcq, 1 pt] Which of the following is a necessary but not sufficient cause?
+    A) Smoking for lung cancer
+    B) HIV for AIDS
+    C) Mycobacterium tuberculosis for TB infection
+    D) Hypertension for coronary artery disease
+    E) HPV for cervical cancer
+
+6. [mcq, 1 pt] During which of the following stages of the natural history of disease is a person MOST likely to be contagious?
+    A) Convalescent period
+    B) Incubation period
+    C) Latent period
+    D) Prodromal period
+    E) Preclinical period
+
+7. [mcq, 1 pt] A disease that occurs at a constant, expected level within a population is:
+    A) Sporadic
+    B) Clustered
+    C) Endemic
+    D) Epidemic
+    E) Pandemic
+
+8. [mcq, 1 pt] Which of the following best describes the severity of a disease?
+    A) Incidence
+    B) Prevalence
+    C) Case-fatality rate
+    D) Attack rate
+    E) Mortality rate
+
+9. [mcq, 1 pt] To pinpoint case clustering along a single street during an outbreak, which map is most appropriate?
+    A) Cartogram map
+    B) Spot map
+    C) Heat map
+    D) Choropleth map
+    E) Flow map
+
+10. [mcq, 1 pt] Which of the following serves as host in the life cycle of certain parasitic flukes?
+    A) Fleas
+    B) Flies
+    C) Rodents
+    D) Tapeworm
+    E) Snails
+
+11. [mcq, 1 pt] In a case–control study, which bias arises when one group provides more detailed or accurate reports of prior exposures than the comparison group?
+    A) Selection bias
+    B) Confounding
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+
+12. [mcq, 1 pt] A national health agency launches policies to reduce childhood exposure to ultra-processed foods by restricting marketing to children and improving neighborhood food environments to prevent unhealthy eating. This intervention represents which level of prevention?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+13. [mcq, 1 pt] In a cohort study, the best measure of association between exposure and the subsequent development of a fatal disease is?
+    A) Odds ratio
+    B) Relative risk
+    C) Hazard ratio
+    D) Case-fatality rate
+    E) Standardized mortality ratio
+
+14. [mcq, 1 pt] Which of the following has been globally eradicated?
+    A) Polio
+    B) Smallpox
+    C) Rinderpest
+    D) A and B
+    E) B and C
+
+15. [mcq, 1 pt] Which surveillance system relies on routine reporting by clinicians?
+    A) Active
+    B) Case-based
+    C) Passive
+    D) Sentinel
+    E) Syndromic
+
+16. [mcq, 1 pt] A screening test has high sensitivity. This means it:
+    A) Produces few false positives
+    B) Produces few false negatives
+    C) Has high positive predictive value
+    D) Is unaffected by prevalence
+    E) Is highly specific
+
+17. [mcq, 1 pt] Which variable type best describes cancer stage (I–IV)?
+    A) Nominal
+    B) Interval
+    C) Ratio
+    D) Continuous
+    E) Ordinal
+
+18. [mcq, 1 pt] Which of the following figures helped to link smoking to lung cancer?
+    A) William Farr
+    B) Richard Doll
+    C) Louis Pasteur
+    D) John Snow
+    E) Joseph Goldberger
+
+19. [mcq, 1 pt] Which of the following best supports causality?
+    A) Strength of association
+    B) Biological plausibility
+    C) Consistency
+    D) Temporality
+    E) Specificity
+
+20. [mcq, 1 pt] In a population where a chronic disease develops infrequently, progresses slowly, and has minimal impact on short-term survival, which of the following is most likely to be observed at any given point in time?
+    A) Low prevalence
+    B) High prevalence
+    C) Low case-fatality
+    D) Low mortality
+    E) No secondary transmission
+
+21. [mcq, 1 pt] A researcher is evaluating whether a new intervention affects average systolic blood pressure compared with standard care. Participants are randomly assigned to one of the two groups, and each participant contributes only a single post-treatment measurement. Assuming normality and equal variances, which statistical test is most appropriate for comparing the mean outcomes between the two groups?
+    A) Chi square test
+    B) Paired t-test
+    C) Two-sample t-test
+    D) One-way ANOVA
+    E) Pearson correlation
+
+23. [mcq, 1 pt] Which of the following is an example of secondary prevention?
+    A) Vaccination
+    B) Health education
+    C) Smoking cessation counseling
+    D) Screening colonoscopy
+    E) Rehabilitation after a stroke
+
+25. [mcq, 1 pt] In a stable population with no major migration, a chronic condition has an annual incidence of 4 new cases per 1,000 persons. Individuals typically remain in the disease state for an average of 5 years before recovery or death. Assuming steady-state conditions and negligible competing risks, what is the approximate point prevalence of the disease??
+    A) 0.8%
+    B) 1.2%
+    C) 2.0%
+    D) 4.0%
+    E) 20%
+
+26. [mcq, 1 pt] In a case–control study, RR cannot be calculated directly because:
+    A) Incidence is unknown
+    B) Exposure is rare
+    C) Disease is rare
+    D) Controls are matched
+    E) Confounding is common
+
+27. [mcq, 1 pt] A screening test is applied to two populations with different disease prevalence. Which metric is expected to change the most?
+    A) Sensitivity
+    B) Specificity
+    C) Positive predictive value
+    D) Negative predictive value
+    E) Likelihood ratio
+
+28. [mcq, 1 pt] An apparent association disappears after stratifying by age. This is most consistent with:
+    A) Effect modification
+    B) Random error
+    C) Selection bias
+    D) Confounding
+    E) Overadjustment
+
+29. [mcq, 1 pt] Which scenario best demonstrates Simpson's paradox?
+    A) Association reverses after stratification
+    B) Confidence intervals overlap
+    C) RR ≈ OR
+    D) Wide variability between studies
+    E) High I² statistic
+
+30. [mcq, 1 pt] In a forest plot, the weight of a study is most influenced by:
+    A) Direction of effect
+    B) Effect size
+    C) Sample size
+    D) Study design
+    E) P-value
+
+31. [mcq, 1 pt] An I² of 75% indicates:
+    A) Strong overall effect
+    B) Low study quality
+    C) High heterogeneity
+    D) No publication bias
+    E) Statistical significance
+
+32. [mcq, 1 pt] Which surveillance system is BEST for early outbreak detection?
+    A) Active
+    B) Passive
+    C) Case-based
+    D) Sentinel
+    E) Syndromic
+
+33. [mcq, 1 pt] Vaccine effectiveness is calculated as:
+    A) RR − 1
+    B) 1 − RR
+    C) OR − 1
+    D) 1 − OR
+    E) AR ÷ incidence
+
+34. [mcq, 1 pt] A case-control study reports an odds ratio of 3.2 for an exposure, with a 95% confidence interval of 0.4–28.7. Investigators note that the estimate is “imprecise.” Which factor most directly explains for this imprecision?
+    A) Bias
+    B) Confounding
+    C) Small sample size
+    D) Measurement error
+    E) High variability in the study population
+
+35. [mcq, 1 pt] Which of the following best describes propagated transmission?
+    A) Single time-limited rise in cases
+    B) Prolonged elevation in case numbers without distinct intervals
+    C) Recurrent pattern of successive generations of transmission
+    D) Uniform distribution of sporadic cases
+    E) Gradual tapering after initial rise
+
+36. [mcq, 1 pt] Which bias is most likely to occur in vaccine effectiveness observational studies?
+    A) Recall bias
+    B) Confounding by indication
+    C) Observer bias
+    D) Selection bias
+    E) Publication bias
+
+37. [mcq, 1 pt] Which metric is most appropriate to estimate public health impact?
+    A) Attributable risk
+    B) Case fatality
+    C) Odds ratio
+    D) Relative risk
+    E) Prevalence ratio
+
+38. [mcq, 1 pt] A researcher is reviewing a set of studies and wants to evaluate whether smaller studies show systematically different effect estimates than larger ones. Which type of study design is most likely to include this analytic tool?
+    A) Case-control study
+    B) Cross-sectional survey
+    C) Prospective cohort study
+    D) Randomized controlled trial
+    E) Systemic review with meta-analysis
+
+39. [mcq, 1 pt] A funnel plot is primarily used to assess which of the following?
+    A) Heterogeneity
+    B) Study quality
+    C) Effect size
+    D) Publication bias
+    E) Confounding
+
+40. [mcq, 1 pt] Which conclusion is LEAST justified by statistical significance alone?
+    A) The association is real
+    B) The effect is clinically important
+    C) Random errors are unlikely
+    D) Null hypothesis is rejected
+    E) Results are unlikely due to chance
+
+41. [mcq, 1 pt] Investigators studying a rare neurologic syndrome find that the condition has not been observed in individuals lacking exposure to Agent X. However, among those exposed, only a fraction develops the syndrome after accounting for known risk factors. Some clinicians argue that Agent X merely marks higher-risk individuals, while others claim it alone can trigger disease. How is Agent X best characterized within a causal framework?
+    A) A confounder that distorts the true association
+    B) Necessary and sufficient cause
+    C) Necessary but not sufficient cause
+    D) Neither necessary nor sufficient
+    E) Sufficiency but not necessary cause
+
+42. [mcq, 1 pt] Which statement about odds ratios is TRUE?
+    A) OR ≈ RR only when outcome is rare
+    B) OR always overestimates RR
+    C) OR cannot be used in cohort studies
+    D) OR depends on prevalence
+    E) OR incorporates incidence rate
+
+43. [mcq, 1 pt] Which of the following scenarios MOST strongly supports causality?
+    A) Large RR with weak plausibility
+    B) Small RR with temporality
+    C) Single statistically significant study
+    D) Consistent findings across independent studies
+    E) Dose-response pattern observed
+
+45. [mcq, 1 pt] Which error occurs when disease rates are inferred from group-level data?
+    A) Confounding
+    B) Ecological fallacy
+    C) Random error
+    D) Recall bias
+    E) Selection bias
+
+46. [mcq, 1 pt] Which study design BEST estimates incidence?
+    A) Case-control
+    B) Case series
+    C) Cohort
+    D) Cross-sectional
+    E) Ecological
+
+47. [mcq, 1 pt] A p-value of 0.03 can be most accurately interpreted as:
+    A) A 3% probability of obtaining this or more extreme results if null hypothesis is false
+    B) A 3% probability of obtaining this or more extreme results if null hypothesis is true
+    C) A 97% probability that the alternative hypothesis is true
+    D) That bias and confounding are unlikely
+    E) That the association is strong
+
+48. [mcq, 1 pt] Which feature MOST distinguishes a randomized controlled trial?
+    A) Blinding
+    B) Large sample size
+    C) Prospective design
+    D) Random allocation
+    E) High statistical power
+
+49. [mcq, 1 pt] Which is an example of quaternary prevention?
+    A) Prescribing physical therapy after a stroke
+    B) Counseling patients on smoking cessation
+    C) Initiating population-wide screening colonoscopy at age 45
+    D) Providing pre-travel immunizations for high-risk destinations
+    E) Decline ordering a CT scan for low back pain without warning features
+
+50. [mcq, 1 pt] In the initial steps of an outbreak investigation, what is the primary purpose of 'verifying the diagnosis'?
+    A) To assess community immunity levels before conducting analytic studies
+    B) To determine the R₀ of the pathogen in the specific population
+    C) To ensure that cases have been properly diagnosed and to rule out lab errors
+    D) To finalize the case definition used for the entire investigation
+    E) To quickly identify the point source of the outbreak
+
+51. [mcq, 1 pt] How does Single Nucleotide Polymorphism (SNP) mapping compare to Pulsed-Field Gel Electrophoresis (PFGE) in foodborne outbreak surveillance?
+    A) PFGE is the only method capable of identifying the chain of transmission
+    B) PFGE provides higher resolution for distinguishing closely related bacterial strains
+    C) SNP mapping allows for finer discrimination between isolates that appear identical on PFGE
+    D) SNP mapping cannot distinguish outbreak-related isolates from background strains
+    E) SNP mapping is less expensive and faster than PFGE, making it the primary tool for PulseNet's historical data
+
+52. [mcq, 1 pt] Which of the following scenarios represents the greatest threat to a study's internal validity, assuming all other design features are held constant?
+    A) The study recruits participants from only a single tertiary-care center
+    B) A third variable is unevenly distributed between groups and associated with both the exposure and the outcome
+    C) The outcome of interest occurs infrequently, reducing the number of observed events
+    D) The sample size is small, increasing the width of confidence interval
+    E) Participants are followed for several years, increasing the likelihood of loss to follow-up but with balanced attrition across groups
+
+53. [mcq, 1 pt] Which factor does NOT influence predictive values?
+    A) Sensitivity
+    B) Specificity
+    C) Disease duration
+    D) Likelihood ratio
+    E) Prevalence
+
+54. [mcq, 1 pt] A case-control study is being conducted to evaluate possible association between childhood environmental exposure and later adult-onset disease. Exposures are classified based on interviews of subjects. Interview procedures and wording were identical for all participants. Both groups lack objective records from childhood. After data collection, researchers note that cases report substantially higher exposure frequencies than controls? Which of the following is most likely to explain the observed difference?
+    A) Differential misclassification from imprecise exposure measurement
+    B) Observer bias introduced by interviewer expectations
+    C) Non-differential misclassification attenuating the true association
+    D) Recall bias leading to asymmetric exposure reporting
+    E) Selection bias due to differential enrollment of cases and controls
+
+55. [mcq, 1 pt] Which measure estimates excess risk due to exposure?
+    A) Attributable risk
+    B) Incidence rate
+    C) Risk ratio
+    D) Odds ratio
+    E) Relative risk
+
+56. [mcq, 1 pt] Which surveillance is the MOST resource intensive?
+    A) Active
+    B) Passive
+    C) Event-based
+    D) Sentinel
+    E) Syndromic
+
+57. [mcq, 1 pt] Which of the following variables is best analyzed using linear regression?
+    A) Blood type
+    B) Cancer stage
+    C) Number of daily medications taken
+    D) Pain score
+    E) Serum sodium level
+
+58. [mcq, 1 pt] Which of the following is the most common vector for human disease?
+    A) Contaminated water sources
+    B) Domestic livestock
+    C) Rodents
+    D) Migratory birds
+    E) Arthropods
+
+59. [mcq, 1 pt] Which mapping approach is MOST appropriate for comparing age-adjusted disease rates across counties?
+    A) Case-location dot map
+    B) Choropleth map
+    C) Heat map
+    D) Isarithmic map
+    E) Proportional symbol map
+
+60. [mcq, 1 pt] Which of the following techniques can be used to address unmeasurable confounders as opposed to measurable confounders in an experimental study?
+    A) Matching
+    B) Standardization
+    C) Crossover
+    D) Regression
+    E) Stratification
+
+
+=== Part 2 – Matching ===
+
+[STIMULUS] **Questions 61-70: Statistical Output Interpretation**
+
+Match each statistical result to the ONE most accurate and reasonable interpretation (A to F). Each option from A to F can be used once or more than once:
+
+a. Statistically significant and clinically important
+b. Statistically significant but not clinically important
+c. Not statistically significant; insufficient evidence
+d. Suggests possible harm
+e. Imprecise estimate
+f. Strong evidence of heterogeneity
+
+61. [mcq, 1 pt] RR = 1.02, 95% CI: 1.01–1.03
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+62. [mcq, 1 pt] RR = 2.5, 95% CI: 0.6–10.4
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+63. [mcq, 1 pt] RR = 0.40, 95% CI: 0.30–0.55
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+64. [mcq, 1 pt] OR = 1.1, p = 0.48
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+65. [mcq, 1 pt] I² = 82% in meta-analysis
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+66. [mcq, 1 pt] RR = 0.98, p < 0.001
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+67. [mcq, 1 pt] OR = 3.0, narrow CI
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+68. [mcq, 1 pt] CI crosses 1.0
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+69. [mcq, 1 pt] Large effect size, wide CI
+    A) Statistically significant and clinically important
+    B) Statistically significant but not clinically important
+    C) Not statistically significant; insufficient evidence
+    D) Suggests possible harm
+    E) Imprecise estimate
+    F) Strong evidence of heterogeneity
+
+[STIMULUS] **Questions 71-80: Surveillance and Data Source Identification**
+
+Match each example to the MOST appropriate data source or system (A to F). Each option from A to F can be used once or more than once:
+
+a. Vital statistics
+b. Disease registry
+c. Syndromic surveillance
+d. Sentinel surveillance
+e. Active surveillance
+f. Passive surveillance
+
+71. [mcq, 1 pt] Death certificates used to track overdose mortality
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+72. [mcq, 1 pt] Selected clinics reporting influenza-like illness weekly
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+73. [mcq, 1 pt] Emergency department chief complaints monitored in real time
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+74. [mcq, 1 pt] Door-to-door investigation during outbreak
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+75. [mcq, 1 pt] Cancer incidence tracking
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+76. [mcq, 1 pt] Early detection of foodborne outbreaks
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+77. [mcq, 1 pt] Follow-up of known contacts
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+78. [mcq, 1 pt] National birth records
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+79. [mcq, 1 pt] Routine influenza case reporting to a health department
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+80. [mcq, 1 pt] Real-time monitoring of gastrointestinal symptoms
+    A) Vital statistics
+    B) Disease registry
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Active surveillance
+    F) Passive surveillance
+
+[STIMULUS] **Questions 81-90: Study Design Logic**
+
+Match each research question to the MOST appropriate study design (A to E). Each option from A to E can be used once or more than once:
+
+a. Cross-sectional study
+b. Case-control study
+c. Cohort study
+d. Randomized controlled trial
+e. Ecological study
+
+81. [mcq, 1 pt] Does prior asbestos exposure increase mesothelioma risk?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+82. [mcq, 1 pt] What proportion of adults currently have hypertension?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+83. [mcq, 1 pt] Does a new vaccine reduce influenza incidence?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+84. [mcq, 1 pt] Is air pollution correlated with asthma rates across cities?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+85. [mcq, 1 pt] What is the incidence of diabetes over 10 years?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+86. [mcq, 1 pt] Is a rare cancer associated with chemical exposure?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+87. [mcq, 1 pt] Does masking reduce respiratory virus transmission?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+88. [mcq, 1 pt] What is the relationship between obesity prevalence and income by state?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+89. [mcq, 1 pt] Do smokers have higher lung cancer risk than nonsmokers?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+90. [mcq, 1 pt] What percentage of adolescents vape today?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Cohort study
+    D) Randomized controlled trial
+    E) Ecological study
+
+[STIMULUS] **Questions 91-110: Bias and Errors Identification**
+
+Match each study flaw to the MOST specific type of bias or error (A to J). Each choice A to J may be used once or more than once:
+
+a. Confounding
+b. Selection bias
+c. Recall bias
+d. Observer bias
+e. Ecological fallacy
+f. Random error
+g. Information (misclassification) bias
+h. Reporting bias
+i. Lead-time bias
+j. Healthy worker effect
+
+91. [mcq, 1 pt] Older participants are both more likely to take a medication and more likely to develop disease
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+92. [mcq, 1 pt] Participants are less likely to disclose socially undesirable behaviors
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+93. [mcq, 1 pt] Loss to follow-up differs by exposure status
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+94. [mcq, 1 pt] Group-level alcohol consumption used to infer individual risk
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+95. [mcq, 1 pt] Investigator subconsciously records more severe symptoms in exposed group
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+96. [mcq, 1 pt] Small sample produces wide confidence intervals
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+97. [mcq, 1 pt] Study recruits controls from a hospital population
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+98. [mcq, 1 pt] Apparent association disappears after stratification
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+99. [mcq, 1 pt] Disease rates inferred from national averages
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+100. [mcq, 1 pt] Repeated measurements vary unpredictably
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+101. [mcq, 1 pt] Workers appear healthier than the general population
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+102. [mcq, 1 pt] Cases over-report pesticide exposure compared to controls
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+103. [mcq, 1 pt] Screening detects disease earlier without changing survival
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+104. [mcq, 1 pt] Exposure status recorded incorrectly for some participants
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+105. [mcq, 1 pt] Study volunteers differ systematically from non-volunteers
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+106. [mcq, 1 pt] Media attention increases likelihood of reporting symptoms
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+107. [mcq, 1 pt] Measurement instrument consistently favors one group
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+108. [mcq, 1 pt] Random fluctuation creates a spurious association
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+109. [mcq, 1 pt] Disease outcome depends on a third unmeasured variable
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+110. [mcq, 1 pt] Individuals with severe disease are more likely to enroll
+    A) Confounding
+    B) Selection bias
+    C) Recall bias
+    D) Observer bias
+    E) Ecological fallacy
+    F) Random error
+    G) Information (misclassification) bias
+    H) Reporting bias
+    I) Lead-time bias
+    J) Healthy worker effect
+
+
+=== Part 3 – Case Study ===
+
+[STIMULUS] **Aflatoxin exposure and liver cancer risk**
+
+Between 1986–1989, researchers enrolled 18,244 middle-aged men in Shanghai. Each participant completed a dietary questionnaire and provided a single urine sample. The goal: evaluate whether aflatoxin exposure increases risk of hepatocellular carcinoma (HCC).
+
+Aflatoxin is a naturally occurring toxin produced by Aspergillus fungi, which thrives in warm, humid environments. These fungi commonly contaminate staple foods such as corn, peanuts, soybeans, and various grains during growth, harvest, or storage. When ingested, aflatoxin B₁, the most potent form, is metabolized in the liver into reactive toxic intermediates that can bind to DNA and form adducts, particularly the aflatoxin-N7-guanine adduct. These adducts can cause characteristic mutations in the TP53 tumor suppressor gene, impairing the cell's ability to regulate growth and to repair DNA damage. Over time, this mutagenic process contributes to carcinogenesis in the liver, especially in populations with coexisting risk factors such as chronic hepatitis B infection.
+
+By administering dietary questionnaires and measuring urinary aflatoxin metabolites, the researchers aimed to capture a more accurate picture of each participant's true biologic exposure and better understand how this potent environmental carcinogen contributes to hepatocellular carcinoma risk in real-world settings.
+
+111. [mcq, 2 pt] Which study design best described the structure of this investigation?
+    A) Cross-sectional study
+    B) Case-control study
+    C) Prospective cohort study
+    D) Retrospective cohort study
+    E) Ecological study
+
+112. [mcq, 2 pt] Which feature of the study is most important for its internal validity?
+    A) Applying multivariable adjustment to reduce confounding
+    B) Collecting exposure data before outcomes occur
+    C) Matching controls to cases carefully
+    D) Ensuring high follow-up rates to minimize attrition bias
+    E) Using objective laboratory-based exposure indicators
+
+113. [mcq, 2 pt] What was the primary outcome of interest in this study?
+    A) Aflatoxin levels in urine
+    B) Development of liver cirrhosis
+    C) Hepatitis B infection
+    D) Incident liver cancer
+    E) Liver injury reflected by elevated liver tests
+
+[STIMULUS] Researchers estimated aflatoxin exposure in two ways:
+1. Dietary questionnaire + market food contamination survey
+2. Urinary biomarkers (AFB1, AFM1, AFP1, AFB-N7-gua)
+
+The dietary method produced high variability because contamination levels differed substantially between food samples.
+
+114. [mcq, 2 pt] Which type of bias most likely affected the dietary exposure assessment?
+    A) Differential misclassification
+    B) Nondifferential misclassification
+    C) Recall bias
+    D) Selection bias
+    E) Surveillance bias
+
+115. [mcq, 2 pt] Why does random exposure-independent measurement error in the exposure variable often weaken the observed association?
+    A) It amplifies the influence of uncontrolled confounders
+    B) It increases the likelihood of effect modification
+    C) It reduces the precision of outcome ascertainment
+    D) It preferentially misclassifies individuals with the outcome
+    E) It dilutes true exposure differences, compressing groups toward each other
+
+116. [mcq, 2 pt] Which statement best explains why urinary biomarkers improved exposure assessment?
+    A) They capture habitual dietary patterns over long periods
+    B) They minimize both random and systematic measurement errors
+    C) They are unaffected by short-term fluctuations in diet or metabolism
+    D) They quantify biologically relevant metabolites formed after hepatic activation
+    E) Urine samples are easy to collect and the tests are inexpensive to perform
+
+[STIMULUS] After roughly 70,000 person-years of follow-up, the cohort study identified 55 incident cases of hepatocellular carcinoma (HCC). For the biomarker portion of the analysis, the investigators used a nested case-control design within the original cohort.
+
+Of the 55 cases, 50 had baseline urine samples available for laboratory testing. The researchers selected 267 controls from cohort members who were still cancer-free at the time each case occurred. Controls were matched to cases on age, timing of urine collection, and neighborhood.
+
+117. [mcq, 2 pt] All of the following are reasons why a nested case-control design was chosen for the biomarker analysis in this cohort study EXCEPT:
+    A) It reduces laboratory workload and cost by measuring biomarkers in only a subset of participants
+    B) It preserves the temporal sequence between baseline exposure and later disease
+    C) It allows controls to be selected from individuals who were still at risk when each case occurred
+    D) It improves efficiency when the outcome of interest is relatively rare
+    E) It eliminates the possibility of selection bias in the analysis
+
+118. [mcq, 2 pt] Matching on the time of urine collection helps control for which issue?
+    A) Confounding by HBV infection
+    B) Diurnal variation in biomarker excretion
+    C) Loss to follow-up
+    D) Reverse causation
+    E) Selection bias
+
+119. [mcq, 2 pt] In a matched case-control study, which statistical method is most appropriate?
+    A) Conditional logistic regression
+    B) Cox proportional hazards
+    C) Chi-square test
+    D) Linear regression
+    E) Poisson regression
+
+123. [mcq, 2 pt] Why is the "no biomarker" group used as the reference category (RR = 1.0)?
+    A) It represents the baseline unexposed group
+    B) It had the lowest adjust RR
+    C) It had the highest number of controls
+    D) It had the most complete urine samples
+    E) It included only HBV-negative subjects
+
+127. [mcq, 2 pt] Which statement best explains why food contamination data alone may underestimate individual aflatoxin exposure?
+    A) AFM₁ levels in milk are low enough that they can be excluded from exposure calculations without consequence
+    B) Questionnaire-based intake data are more reliable than biomarker data for estimating long-term exposure
+    C) The limited number of food samples prevents any meaningful conclusions about aflatoxin exposure pattern
+    D) Mean contamination values are sufficient for population-level exposure modeling, making individual-level data redundant
+    E) Individuals may consume small amounts of highly contaminated foods not captured in average contamination metrics
+
+128. [mcq, 2 pt] What is the most appropriate methodological response to wide variability in food aflatoxin contamination levels?
+    A) Assume that contamination patterns are stable across seasons and regions
+    B) Exclude foods with wide contamination ranges from analysis
+    C) Focus only on foods with contamination above regulatory limits
+    D) Incorporate biomarkers of internal dose to complement dietary data and reduce exposure misclassification
+    E) Use average contamination levels to estimate individual exposure
+
+[STIMULUS] The following questions 129 to 133 are based on date from Tables 4 and 5. Note that "dietary aflatoxin" level or exposure are the estimated values based on questionnaires completed by the cases and control subjects.
+    [IMAGE: ../images/2026_mira_loma_invitational_ca_c__p20_f29fd3-0979a6ab.webp]
+    [IMAGE: ../images/2026_mira_loma_invitational_ca_c__p20_acb5cb-d3a845b6.webp]
+
+129. [mcq, 2 pt] Which finding in Table 4 best illustrates the limitation of dietary intake estimates in capturing biologically effective aflatoxin exposure?
+    A) Individuals with DNA adducts had lower mean intake than those without, suggesting intake alone misses internal dose
+    B) Mean intake was higher in adduct-negative controls than in adduct-positive controls
+    C) Median intake was identical across all urinary biomarker groups
+    D) Questionnaire data showed stronger correlation with AFM₁ than with AFB₁
+    E) Urinary biomarker positivity was restricted to high dietary intake tertiles
+
+130. [mcq, 2 pt] What does the similarity in mean dietary aflatoxin intake between biomarker-positive and biomarker-negative controls in Table 4 suggest?
+    A) Aflatoxin metabolism is uniform across individuals
+    B) Biomarker detection is unrelated to aflatoxin exposure
+    C) Dietary intake estimates are highly sensitive to true exposure
+    D) Exposure misclassification is likely when relying solely on dietary recall
+    E) Questionnaire data are more accurate than biomarker data
+
+131. [mcq, 2 pt] Why is the lack of a clear dose–response in Table 5 not sufficient to dismiss aflatoxin as a risk factor?
+    A) Exposure misclassification from dietary estimates may attenuate true associations
+    B) The biomarker data confirmed no genotoxicity
+    C) The confidence intervals were narrow and precise
+    D) The high exposure group had few person-years
+    E) The medium exposure group showed a statistically significant increase in risk
+
+132. [mcq, 2 pt] Why is AFB₁-N⁷-guanine considered a more informative marker than dietary intake for assessing cancer risk?
+    A) It reflects recent food consumption
+    B) It is easier to measure than dietary intake
+    C) It captures internal dose and genotoxic interaction with DNA
+    D) It correlates directly with questionnaire responses
+    E) It is unaffected by metabolic variability
+
+133. [mcq, 2 pt] Which methodological approach best addresses the limitations shown in these tables?
+    A) Exclude subjects with missing dietary data
+    B) Focus only on high-dose exposure groups for risk modeling
+    C) Integrate biomarker data into exposure classification
+    D) Stratify subjects by food type consumed
+    E) Use food contamination averages to model exposure
+
+[STIMULUS] The following questions 134 to 140 are based on information from Table 6 above. HBsAg in the table refers to hepatitis B antigen, which is positive in the blood when a subject is infected with the hepatitis B virus, but negative when not infected.
+    [IMAGE: ../images/2026_mira_loma_invitational_ca_c__p22_1ffb55-b1974d14.webp]
+
+134. [mcq, 2 pt] Which subgroup had the highest adjusted relative risk for hepatocellular carcinoma (HCC)?
+    A) HBsAg-negative and aflatoxin-negative
+    B) HBsAg-positive and aflatoxin-negative
+    C) HBsAg-negative and aflatoxin-positive
+    D) HBsAg-positive and aflatoxin-positive
+    E) None of the above
+
+135. [mcq, 2 pt] What does the RR of 59.4 for individuals positive for both HBsAg and aflatoxin biomarkers suggest?
+    A) Aflatoxin exposure is sufficient to cause HCC
+    B) HBV infection mitigates against aflatoxin toxicity
+    C) The result is likely due to selection bias
+    D) The RR is inflated due to misclassification
+    E) There is a multiplicative interaction between HBV and aflatoxin exposure
+
+136. [mcq, 2 pt] Why did the authors adjust the relative risks in Table 6 for cigarette smoking?
+    A) Smoking alters dietary pattern that affects aflatoxin exposure
+    B) Smoking improves biomarker detection
+    C) Smoking increases aflatoxin metabolism
+    D) Smoking is a mediator between exposure and outcome
+    E) Smoking is a potential confounder for HCC risk
+
+137. [mcq, 2 pt] In Table 6, the subgroup with HBsAg positivity and aflatoxin biomarkers had only 7 controls but a very high RR (59.4). What limitation does this raise?
+    A) Lack of temporality
+    B) Outcome misclassification
+    C) Overadjustment
+    D) Reverse causation
+    E) Sparse-data instability of the estimate
+
+138. [mcq, 2 pt] Which factor most strengthens the argument that aflatoxin exposure contributes causally to HCC?
+    A) Adjustment for smoking and other confounders
+    B) Biological plausibility of DNA adduct formation
+    C) High biomarker prevalence in controls indicating widespread background exposure
+    D) Similar RR across strata suggesting stable associations
+    E) Use of dietary questionnaires to provide population-level exposure distributions
+
+139. [mcq, 2 pt] Why was HBsAg both adjusted for and stratified in the analysis?
+    A) It acts as a collider
+    B) It captures underlying differences in immune status that influence biomarker positivity
+    C) It plays a role as both a confounder and an effect modifier
+    D) It helps to separate background liver disease risk from aflatoxin-related risk in the cohort
+    E) It is used to reduce measurement errors in classifying aflatoxin exposure categories
+
+140. [mcq, 2 pt] Which concern arises from using a single urine sample to assess aflatoxin exposure in a prospective cohort?
+    A) Biomarker levels may be inflated as urine collection typically occurs after meals
+    B) Long-term dietary stability makes repeated sampling unnecessary
+    C) Single-timepoint sampling improves comparability across participants
+    D) Short biomarker half-life may cause exposure misclassification if the sample misses recent exposure
+    E) Variability in hydration status may distort biomarker levels independent of true exposure

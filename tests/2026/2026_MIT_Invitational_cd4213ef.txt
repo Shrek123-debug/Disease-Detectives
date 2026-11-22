@@ -1,0 +1,664 @@
+MIT Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  111 questions, 217.0 pts
+Source: scio.ly test archive id cd4213ef-9d10-471e-83c3-552a4aac0557  |  original files: https://drive.google.com/drive/folders/1_45wLrlBYvAtD8IqfcMET4_IsO7gu1e7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 23
+
+DIRECTIONS: Questions from any individual case study in the exam may refer to any context previously stated in the case study.  Points are not deducted for wrong answers. Write numerical answers to two decimal places. Work will not be graded.
+
+
+=== Part 1: Norovirus Nonsense ===
+
+[STIMULUS] Tyler and Elisa attend a conference for Science Olympiad events directors, hoping to learn more about fire safety best practices at tournaments. On the third day of the conference, both of them experience severe diarrhea and vomiting, leaving them bedridden and unable to attend the day's workshops. Unfortunately, Tyler and Elisa are not the only attendees who have symptoms of a norovirus infection—36 total of the 94 attendees do.
+
+[STIMULUS] Consider the following descriptions of cases, and select which descriptor best characterizes them:
+
+1i. [mcq, 1 pt] Tyler suffers from constant diarrhea and vomiting. He also tests positive for norovirus.
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+1ii. [mcq, 1 pt] Elisa experiences the same symptoms as Tyler, but does not test positive.
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+1iii. [mcq, 1 pt] Peter only experiences mild stomach discomfort, but still tests positive.
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+2. [mcq, 1 pt] Norovirus can be spread either person-to-person, or by eating contaminated food. Since norovirus has a 12-48 hour incubation period, and the day before was the conference banquet, you suspect it was transmitted by some food at the dinner. What type of transmission is this?
+    A) Direct contact
+    B) Vehicle
+    C) Vector
+    D) Airborne/droplet
+
+[STIMULUS] To determine which food might be the culprit, you interview the conference attendees about which dishes they ate at the dinner:
+    | Exposure | Tested positive | Tested negative |
+    | Salmon sashimi | 5 | 41 |
+    | Chicken tenders | 29 | 47 |
+    | Soup dumplings | 18 | 29 |
+    | Roast sweet potatoes | 34 | 56 |
+
+3. [mcq, 2 pt] Which of the following options best characterizes this study?
+    A) Prospective cohort
+    B) Retrospective cohort
+    C) Case-control
+    D) Cross-sectional
+
+5. [mcq, 2 pt] Suppose that the measure of association you calculate for each food from the table above is between 0 and 1. Which of the following interpretations best matches the data and scenario?
+    A) For each food, the risk of getting norovirus among people who ate the food is about equal to or less than the risk of getting norovirus among people who did not eat the food.
+    B) For each food, the risk of getting norovirus among people who ate the food is significantly higher than the risk of getting norovirus among people who did not eat the food.
+    C) For each food, the odds of getting norovirus among people who ate the food are about equal to or less than the odds of getting norovirus among people who did not eat the food.
+    D) The odds of getting norovirus among people who attended the dinner are about equal to the odds of getting norovirus among people who did not attend the dinner.
+
+6. [mcq, 1 pt] After reviewing your numbers from above, you decide it is more likely that norovirus was transmitted person-to-person between attendees, instead of by food. What type of transmission is this?
+    A) Airborne/droplet
+    B) Vehicle
+    C) Direct contact
+    D) Vector
+
+[STIMULUS] You assemble the following table based on the seating chart data, and calculate that the appropriate measure of risk is highest for table 4. To determine if these findings are statistically significant, you perform a chi-square test.
+    | Table | Tested positive | Tested negative |
+    | 1 | 0 | 15 |
+    | 2 | 2 | 13 |
+    | 3 | 4 | 12 |
+    | 4 | 15 | 1 |
+    | 5 | 12 | 4 |
+    | 6 | 3 | 13 |
+
+8i. [frq, 1 pt] First, what are your null and alternative hypotheses? — Null hypothesis (H₀):
+
+8ii. [frq, 1 pt] Alternative hypothesis (H₁):
+
+[STIMULUS] You first collect the following rt-qPCR data on norovirus genetic material in attendees' stool samples:
+    | Table/sample | Mean Cq | Cq standard deviation |
+    | 1 | 37.5 | 5.3 |
+    | 2 | 37.1 | 4.5 |
+    | 3 | 30.4 | 6.1 |
+    | 4 | 24.1 | 5.6 |
+    | 5 | 28.3 | 4.2 |
+    | 6 | 35.5 | 3.5 |
+    | Negative control | 38.0 | 2.4 |
+    | Positive control | 23.5 | 3.3 |
+
+12. [numeric, 5 pt] You can use the following equation to calculate t, the t-statistic:
+    
+    Where x is the sample mean, μ₀ is the mean expected if the null hypothesis was true, s is the sample standard deviation, and n is the sample size. Calculate the t-statistic for **Table 4**, and round your answer to the 100ths place (2 decimals.)
+    [IMAGE: ../images/2026_mit_invitational_c__p5_c8a539-83ce93ed.webp]
+
+15. [frq, 4 pt] We also want to find the 95% confidence interval for our average level of norovirus genetic material in stool samples from attendees at table 4. Use the following equation, as well as the appropriate critical t value, to calculate this interval.
+    [IMAGE: ../images/2026_mit_invitational_c__p5_573375-c7ef1dd1.webp]
+
+[STIMULUS] As you investigate this outbreak, you grow frustrated with the slowness and cost of the gold-standard rt-qPCR. Consequently, you start looking into alternative tests; namely, enzyme immunoassays (EIAs). These assays aim to use monoclonal antibodies to detect the presence of norovirus protein in the body's bloodstream to determine whether someone is infected. Wilhelmi de Cal, et al. compared two such EIAs—IDEIA and Ridascreen—to the rt-qPCR gold standard. Read the following excerpt from the paper to answer the subsequent questions:
+
+The study was performed with children aged < 5 years with a clinical diagnosis of acute gastroenteritis, hospitalised in Severo Ochoa Hospital, Madrid, Spain between 1 October 2002 and 1 April 2004. Stool specimens were collected within 24–48 h of admission and were stored at 4°C. All samples were screened for bacterial pathogens, rotaviruses, adenoviruses and astroviruses. A subset of 117 samples negative for these pathogens was tested for Caliciviridae by RT-PCR and the IDEIA NVL and Ridascreen NLV EIAs.
+
+19. [frq, 2 pt] What is one difference between the population studied in the paper compared to the Science Olympiad conference which might prove problematic when trying to extrapolate the author's conclusions to our case study? Answer in one sentence only.
+
+[STIMULUS] Consider the following table from the paper:
+    [IMAGE: ../images/2026_mit_invitational_c__p7_1e1b56-0f938b22.webp]
+    | Label | Answer |
+    | **20.** Calculate the sensitivity and specificity for Ridascreen and IDEIA. Write your answers as percentages, rounded to one decimal place (10ths place). |  |
+    | Ridascreen sensitivity | [[q:20-a]] |
+    | Ridascreen specificity | [[q:20-b]] |
+    | IDEIA sensitivity | [[q:20-c]] |
+    | IDEIA specificity | [[q:20-d]] |
+    | **21.** Calculate the positive and negative predictive values for Ridascreen and IDEIA. Write your answers as percentages, rounded to one decimal place (10ths place). |  |
+    | Ridascreen PPV | [[q:21-a]] |
+    | Ridascreen NPV | [[q:21-b]] |
+    | IDEIA PPV | [[q:21-c]] |
+    | IDEIA NPV | [[q:21-d]] |
+
+20-a. [frq, 1 pt] Ridascreen sensitivity
+
+20-b. [frq, 1 pt] Ridascreen specificity
+
+20-c. [frq, 1 pt] IDEIA sensitivity
+
+20-d. [frq, 1 pt] IDEIA specificity
+
+21-a. [frq, 1 pt] Ridascreen PPV
+
+21-b. [frq, 1 pt] Ridascreen NPV
+
+21-c. [frq, 1 pt] IDEIA PPV
+
+21-d. [frq, 1 pt] IDEIA NPV
+
+[STIMULUS] Read the following excerpt from the paper to answer the subsequent questions:
+
+The 12 samples positive only by the Ridascreen assay showed absorbance units at least 1.5-fold greater than the cut-off value. Previous studies have also encountered similar false-positive results with this EIA method. The nine samples that were negative by RT-PCR, but positive by both EIAs, also exhibited high absorbance values. The possibility of false-negative RT-PCR results for these samples cannot be excluded, and may be associated with factors that might affect the sensitivity of the RT-PCR assay, e.g., the instability of viral RNA, the presence of PCR inhibitors in faecal samples, and the genetic diversity of the NoV genomes.
+
+22. [mcq, 1 pt] The false positives present in both assays decrease the:
+    A) Specificity
+    B) Sensitivity
+
+23. [frq, 2 pt] Why might it be problematic that new diagnostic tests (like the EIAs) are compared to an existing "gold standard" to assess their accuracy? Reference the excerpt above in your answer (one sentence).
+
+24. [frq, 8 pt] Consider a hypothetical diagnostic test for rare condition X that has **95% sensitivity and specificity**. Let's also say that condition X has **1% prevalence** in the general population. Let A be the event that a person has the disease, let A^C ("A complement") be the event that a person does not have the disease, and let B be the event that a person tests positive with our test. We want to find what the positive predictive value (PPV) of our test is; written in math terms, we want to find P(A|B)—the probability of having the disease given a positive test (we use A|B to denote the event A, given the event B. So, for example, the sensitivity of our test would be P(B|A); it is the probability of testing positive given you have the disease).
+    
+    A famous formula called Bayes' Theorem gives us the following:
+    
+    P(A|B) = P(B|A)*P(A)/P(B) = P(B|A)*P(A) / ((P(B|A)*P(A))+(P(B|A^c)*P(A^c)))
+    
+    Using this formula, calculate the PPV of our hypothetical test. (This formula is actually where the formula you probably have in your notes for PPV comes from!). Express your answer as a percentage and round to 1 decimal place.
+
+25. [mcq, 2 pt] You should have found that the PPV was quite low compared to the sensitivity and specificity. Why might this be the case?
+    A) The test has many false negatives.
+    B) The test has many false positives.
+    C) The sensitivity and specificity were calculated in a controlled trial, but we are considering the PPV in a real-world environment.
+    D) I've tricked you and the statistics shown above are actually a logical fallacy.
+
+26. [frq, 3 pt] The situation described above (high sensitivity and specificity but low PPV) is true for many diagnostic tests for rare diseases in real-life. Why are these diagnostic tests still clinically useful? Answer in one sentence.
+
+[STIMULUS] Consider the following receiver operating characteristic (ROC) curve for your test.
+    [IMAGE: ../images/2026_mit_invitational_c__p9_a8814a-f8e567e0.webp]
+
+29. [frq, 1 pt] What characteristic of the curve suggests your test is accurate? Answer in one sentence.
+
+[STIMULUS] You are interested in exploring the extent to which your test agrees with the existing Ridascreen test. Bland Altman analysis is a method which allows us to quantify this through "limits of agreement." The difference of two paired measurements is plotted against the mean of the same two paired measurements, and we say the techniques agree if at least 95% of points lie within +/- 1.96 standard deviations of the mean difference. Consider the Bland Altman graph (Figure 1).
+    [IMAGE: ../images/2026_mit_invitational_c__p3_279dcf-f3d5d482.webp]
+
+30. [mcq, 1 pt] The mean difference between the absorbance values for NoroTest and Ridascreen was -1.94. Does this indicate to you that your test is biased relative to Ridascreen?
+    A) Yes, since -1.94 is a relatively large difference considering the y-axis values of the points.
+    B) Yes, since -1.94 is a relatively large difference considering the x-axis values of the points.
+    C) No, since -1.94 is a relatively small difference considering the y-axis values of the points.
+    D) No, since -1.94 is a relatively small difference considering the x-axis values of the points.
+
+[STIMULUS] The standard deviation of your dataset is 10.7. Use this to calculate the limits of agreement.
+    | Label | Answer |
+    | Upper Upper limit of agreement | [[q:31-a]] |
+    | Lower Lower limit of agreement | [[q:31-b]] |
+
+31-a. [frq, 2 pt] Upper limit of agreement
+
+31-b. [frq, 2 pt] Lower limit of agreement
+
+32. [frq, 3 pt] Do the tests agree? Justify your answer in one sentence using your answer from question 30 and the graph.
+
+[STIMULUS] Just as the CDC uses PulseNet as a laboratory network to detect foodborne disease outbreaks, the CDC uses CaliciNet as the analogous database for noroviruses.
+
+33. [frq, 1 pt] Although PulseNet now uses whole genome sequencing (WGS), it used to use a different technique to differentiate between bacterial serotypes. What was this technique called?
+
+34. [frq, 2 pt] In contrast to PulseNet, CaliciNet does not use WGS, instead relying on RT-PCR (since the norovirus genome is RNA and must be reverse-transcribed into DNA to be sequenced) followed by Sanger sequencing. Compared to the next-gen sequencing techniques used in WGS, Sanger sequencing is slower and lower throughput but highly accurate. Based on what you know about viruses and bacteria, why do you think Sanger sequencing is a viable technique for CaliciNet to use, but not for PulseNet? **Hint: think about the differences between viral and bacterial genomes**
+
+
+=== Part 2: A (Bad) Bearded-dragon Bonanza ===
+
+[STIMULUS] Although we usually think of Salmonella outbreaks in the context of raw or undercooked eggs or chicken meat, Salmonella bacteria can be carried by almost any animal, from frogs to goats to cats to birds. In fact, multiple salmonella outbreaks in the past 20 years have been linked to pet bearded dragons (a type of lizard, see Figure 2), with one in 2012-14 spanning 35 states and infecting over 150 patients! In this case study, we will focus on a Salmonella outbreak in 2024 that was also tied to pet bearded dragons.
+
+We previously discussed PulseNet in the context of foodborne disease outbreaks, but PulseNet can be used for other types of bacterial infection outbreaks, like our salmonella spread by bearded dragons! According to the outbreak MMWR, "In April 2024, CDC's PulseNet, the national molecular subtyping network for enteric disease surveillance, identified a cluster of seven S. Cotham illnesses from five states; isolates from these cases were found by WGS to be highly related. S. Cotham, a rare Salmonella serotype, was linked to bearded dragons during a 2012–2014 outbreak"
+    [IMAGE: ../images/2026_mit_invitational_c__p3_cd7bda-8ddb19db.webp]
+
+35. [multi, 2 pt] Select all of the following attributes of WGS which are useful for identifying the type of outbreak described above:
+    A) WGS is extremely efficient at sequencing large volumes of samples.
+    B) Since WGS sequences the entire genome, it is able to differentiate between different serotypes of Salmonella.
+    C) WGS is relatively inexpensive, which is useful since Salmonella is a low-priority disease.
+
+[STIMULUS] Besides epi-curves, another useful visualization when considering disease outbreaks is a map. For the next few questions, consider the map (Figure 3) which shows cases for the bearded dragon salmonella outbreak.
+    [IMAGE: ../images/2026_mit_invitational_c__p4_c1fb16-45b0d3e0.webp]
+
+37. [frq, 1 pt] What type of map is this? Answer in one word.
+
+38. [mcq, 1 pt] Based on the map, which of the following conclusions can we make about the outbreak? (select 1)
+    A) The outbreak likely started in New York or Ohio and then spread to other states by infected patients.
+    B) Since there are more S. cotham cases in the Eastern US than West, environmental conditions on the East are likely more favorable for Salmonella.
+    C) This is not a point source outbreak.
+    D) S. cotham cases are roughly correlated with state population, suggesting other trends from the map are likely just correlation, not causation.
+
+[STIMULUS] Read the following excerpt from the MMWR to answer the subsequent questions:
+
+WGS using PulseNet's predefined cgMLST allele scheme demonstrated that five S. Cotham isolates obtained from individual bearded dragons during the 2012–2014 (three) and 2024 (two) investigations were closely genetically related (i.e., within 0–13 allele differences by cgMLST) to each other and to clinical isolates collected during the 2024 investigation. Traceback information gathered through the supplemental questionnaire indicated that recently purchased bearded dragons within the households of four 2024 patients shared a common bearded dragon supplier.
+
+39. [multi, 2 pt] Based on the above information, which of the following could be an appropriate next step/prevention measure? Select all that apply.
+    A) Test bearded dragons from households previously not identified as part of the outbreak but who shared the same bearded dragon supplier as the cases mentioned above.
+    B) Reach out to patients from the 2012-14 investigation about where they obtained their bearded dragons.
+    C) Temporarily shut down the aforementioned bearded dragon supplier until further testing and investigation can take place.
+    D) Ban bearded dragons as pets in the US.
+
+40. [mcq, 1 pt] Are the steps mentioned above part of the clinical or public health approach to fighting disease?
+    A) Clinical
+    B) Public health
+
+41. [frq, 3 pt] Further investigation ties more S. cotham cases to the aforementioned bearded dragon supplier. Based on this information, propose a measure the supplier should implement to prevent future Salmonella outbreaks. Answer in one sentence.
+
+[STIMULUS] Read the below excerpt to answer the following questions. Sections are numbered for your convenience in referencing the information needed for specific questions:
+
+i) Two of the six parents reported that the bearded dragon in each respective household was allowed to roam freely, with one specifying the reptile was allowed in bed.
+ii) Four parents provided information on hand hygiene behaviors, with two parents reporting always washing their hands after handling bearded dragons and two reporting almost always.
+iii) Two parents reported cleaning baby bottles and bearded dragon supplies in the same sink.
+iv) All six parents of patients aged <5 years who were reinterviewed with the supplemental questionnaire reported they did not have prior knowledge of reptile-associated salmonellosis and were unaware that reptiles can transmit Salmonella.
+
+42. [frq, 6 pt] Consider the information in i), ii), and iii) above. Based on this information, propose **TWO** recommendations the CDC should issue to pet bearded dragon owners. You must reference the section (roman numeral) your recommendation is based on.
+
+43. [frq, 1 pt] Consider the information in section i) above. Only 4 parents (there were 27 total cases) in the outbreak provided information on hand hygiene behaviors. What type of bias might this introduce? **Answer in a word or phrase.**
+
+44. [frq, 1 pt] Since handwashing is considered to be a good health practice, parents might feel compelled to answer that they always wash hands, even if they actually do not. What is this type of bias called? **Answer in a word or phrase.**
+
+45. [frq, 1 pt] Consider that many of the patients in the outbreak are young children. What bias may be more likely to be introduced when asking them questions in a survey compared to when asking adults? **Answer in a word or phrase.**
+
+46. [mcq, 1 pt] Based on the information in iv above, you decide to produce a PSA about the existence of Salomonella carried by reptiles. What level of prevention is this?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+49. [mcq, 2 pt] Let's say you want to carry out a follow-up study to measure the real-world effectiveness of the recommendations you made in your response to question 41. What step would this study fall under?
+    A) Surveillance
+    B) Risk factor identification
+    C) Intervention evaluation
+    D) Implementation
+
+
+=== Part 3 - Lyme Time ===
+
+[STIMULUS] In 1975, physicians in the small town of Lyme, Connecticut noticed an unusual pattern of illness. Young patients presented with a range of symptoms, including erythema migrans (circular rashes) and manifestations resembling rheumatoid arthritis. A common feature among these patients was a reported tick bite approximately one week prior to symptom onset. The illness was subsequently named Lyme Disease after the town in which it was first described. It wasn't until 1981 that the causative agent of Lyme Disease – a spirochete bacteria called Borrelia burgdorferi – was isolated and linked to the disease. Since its initial description in Lyme, Connecticut, the disease has spread rapidly throughout the United States, particularly in the Midwest and along the east coast.
+
+Borrelia burgdorferi inhabits the hindgut of the deer tick, Ixodes scapularis, where it does not cause disease in the tick. Ixodes scapularis feeds on host blood, and during this process transmission of B. burgdorferi can occur bidirectionally: ticks may acquire the bacterium from infected hosts, and hosts may become infected following a tick bite. Humans are considered dead-end hosts, as ticks do not acquire B. burgdorferi when feeding on infected humans. The tick undergoes three life stages, each requiring a single blood meal: the larval stage, during which it typically feeds on small mammals such as the white-footed mouse; the nymph stage, during which it feeds on larger mammals including deer and humans; and the adult stage, in which it again feeds on larger mammals. The majority of human Lyme disease cases result from bites by nymphal ticks, which have already taken a blood meal and are sufficiently small to evade detection.
+
+50. [multi, 4 pt] Match each item to all applicable terms from the word bank below. Each item may correspond to more than one term, and each term may be used more than once. References to certain items below are underlined in the text above for your convenience.
+    
+    i. *Ixodes scapularis*
+    A) Vector
+    B) Fomite
+    C) Vehicle
+    D) Virulence factor
+    E) Reservoir
+    F) Host
+    G) Agent
+
+50-ii. [multi, 4 pt] Match each item to all applicable terms from the word bank below. Each item may correspond to more than one term, and each term may be used more than once. References to certain items below are underlined in the text above for your convenience.
+    
+    ii. *Borrelia burgdorferi*
+    A) Vector
+    B) Fomite
+    C) Vehicle
+    D) Virulence factor
+    E) Reservoir
+    F) Host
+    G) Agent
+
+50-iii. [multi, 4 pt] Match each item to all applicable terms from the word bank below. Each item may correspond to more than one term, and each term may be used more than once. References to certain items below are underlined in the text above for your convenience.
+    
+    iii. White-footed mice
+    A) Vector
+    B) Fomite
+    C) Vehicle
+    D) Virulence factor
+    E) Reservoir
+    F) Host
+    G) Agent
+
+50-iv. [multi, 4 pt] Match each item to all applicable terms from the word bank below. Each item may correspond to more than one term, and each term may be used more than once. References to certain items below are underlined in the text above for your convenience.
+    
+    iv. Humans
+    A) Vector
+    B) Fomite
+    C) Vehicle
+    D) Virulence factor
+    E) Reservoir
+    F) Host
+    G) Agent
+
+51. [multi, 2 pt] A common conspiracy theory is that Lyme Disease originated from a lab leak of a modified *Borrelia burgdorferi* strain that was released in Lyme, Connecticut. Which of the following observations provide evidence that **refutes** this theory? **Choose all that apply**.
+    A) A 5,300 year old mummy was found to be infected by *B. burgdorferi*
+    B) *B. burgdorferi* has few SNPs when compared to the most closely related *Borrelia* species
+    C) *Borrelia* strains other than *B. burgdorferi* can cause Lyme disease
+    D) The range of *Ixodes scapularis* includes much of the United States, not just the areas where Lyme Disease is present.
+
+[STIMULUS] Over the years, Lyme Disease has been spreading in both range and prevalence. Study **Figure 4**, which details how the number of Lyme Disease cases have changed since 1996. During that time period, Lyme Disease has had three different case definitions, indicated by the colors of the bars in the chart. Questions 52-54 will refer to Figure 4.
+    [IMAGE: ../images/2026_mit_invitational_c__p4_651cc2-34e1da71.webp]
+
+52. [frq, 2 pt] In one sentence, provide a hypothesis for why there was a significant decrease in Lyme Disease prevalence in 2020-2021.
+
+53. [mcq, 2 pt] Assuming that incidence changes are due solely to the change in case definition, which of the following statements can be directly concluded from **Figure 4**?
+    A) The 2022 case definition is more sensitive than the 2008 case definition
+    B) The 2022 case definition is less sensitive than the 2008 case definition
+    C) The 2022 case definition is more specific than the 2008 case definition
+    D) The 2022 case definition is less specific than the 2008 case definition
+
+54. [mcq, 2 pt] Other than a change in case definition, which of the following is **not** a reasonable hypothesis for the uptick in Lyme Disease cases after 2022?
+    A) An increase in white-footed mouse population
+    B) Heightened Lyme Disease surveillance
+    C) Increased human encroachment into forested lands
+    D) Expansion of the range of *Ixodes scapularis*
+    E) All of the above are reasonable hypotheses
+
+55. [mcq, 3 pt] Below are some hypothetical surveillance techniques that may be used for tracking Lyme Disease. Match each to the following surveillance types (a-e).
+    
+    i. Rash-related ER visits are tracked nationwide to find potential Lyme Disease hotspots
+    A) Active, non-sentinel
+    B) Active, sentinel
+    C) Passive, non-sentinel
+    D) Passive, sentinel
+    E) Syndromic
+
+55-ii. [mcq, 3 pt] Below are some hypothetical surveillance techniques that may be used for tracking Lyme Disease. Match each to the following surveillance types (a-e).
+    
+    ii. Lyme Disease is classified as a notifiable disease in the United States which must be reported to public health agencies when a case is recorded
+    A) Active, non-sentinel
+    B) Active, sentinel
+    C) Passive, non-sentinel
+    D) Passive, sentinel
+    E) Syndromic
+
+55-iii. [mcq, 3 pt] Below are some hypothetical surveillance techniques that may be used for tracking Lyme Disease. Match each to the following surveillance types (a-e).
+    
+    iii. Public health agents request patient data from five selected hospitals in urban areas and five selected hospitals in rural areas. Prevalence data from these hospitals is used to monitor trends and compare Lyme disease risk between urban and rural populations
+    A) Active, non-sentinel
+    B) Active, sentinel
+    C) Passive, non-sentinel
+    D) Passive, sentinel
+    E) Syndromic
+
+56. [frq, 2 pt] What is the most significant advantage to using the surveillance strategy described in **55i** over any of the other options? Describe in one sentence.
+
+57. [frq, 1 pt] What one word describes the type of study performed in **55iii**?
+
+[STIMULUS] There is significant controversy over the treatment of Lyme Disease. It is understood that individuals infected with Lyme Disease can rarely experience life-long, debilitating symptoms. The Infectious Disease Society of America (IDSA) calls this syndrome Post-Treatment Lyme Disease Syndrome (PTLDS) and asserts symptoms are not due to active infection. The International Lyme and Associated Diseases Society (ILADS) calls the syndrome Chronic Lyme Disease and claims symptoms are due to active *B. burgdorferi* infection which should be treated by a heavy antibiotic course.
+
+58. [mcq, 2 pt] How may surveillance data of Lyme Disease from ILADS and IDSA differ?
+    A) ILADS would report a higher prevalence
+    B) ILADS would report a higher prevalence of AND a higher incidence
+    C) ILADS would report a lower prevalence
+    D) ILADS would report a lower prevalence AND a lower incidence
+
+59. [mcq, 1 pt] The main concern with the treatments proposed by ILADS is the use of antibiotics. Antimicrobial stewardship refers to using antimicrobials sustainably in order to reduce antibiotic resistance. Which level of prevention does antimicrobial stewardship fall under?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+60. [frq, 2 pt] In retrospective cohort studies, patients often self-report improvement in symptoms after long-term antibiotic use. While ILADS believes this is proof of the effectiveness of long term antibiotics, the IDSA dismisses this trend as a placebo effect. In 2 or less sentences, describe an experiment that would help distinguish causation from the placebo effect.
+
+61. [mcq, 1 pt] Which bias is most likely to affect studies of patients who seek ILADS-based treatment?
+    A) Recall bias
+    B) Selection bias
+    C) Lead-time bias
+    D) Reporting bias
+
+62. [mcq, 1 pt] Which of the following is generally true about the two approaches to Lyme Disease? (Keep in mind, this is very much an oversimplification of the two arguments … )
+    A) ILADS prioritizes clinical health while IDSA prioritizes public health
+    B) IDSA prioritizes clinical health while ILADS prioritizes public health
+
+[STIMULUS] You are curious if there are any genetic factors that make people more or less susceptible to Lyme Disease. You would like to study five SNPs located on Chromosome 1 in particular. You gather 5,000 individuals who have contracted Lyme Disease and 5,000 individuals who have never contracted Lyme disease. You collect genetic information from the subjects to perform a GWAS study. Refer to **Figure 5** for questions 63-67.
+    [IMAGE: ../images/2026_mit_invitational_c__p5_61a0e6-8f5c3223.webp]
+
+63. [mcq, 1 pt] This study, which is an example of typical GWAS procedure, is an example of which type of epidemiological study?
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case-control study
+    D) Ecological study
+    E) None of the above
+
+64. [multi, 2 pt] Which SNPs (1-5) are significantly correlated with contracting Lyme Disease? Choose multiple.
+    A) SNP 1
+    B) SNP 2
+    C) SNP 3
+    D) SNP 4
+    E) SNP 5
+
+65. [frq, 2 pt] The SNPs you found in the previous question are very likely not the SNPs that confer susceptibility to Lyme Disease. Explain why in one sentence.
+
+66. [frq, 2 pt] Where in the chromosome would you expect to find the allele that causes susceptibility to Lyme Disease? Your answer should be a range of coordinates in Mb.
+
+67. [mcq, 2 pt] The study you conducted only includes American patients. Can we be certain that the same SNPs will be associated with increased susceptibility in patients from other countries?
+    A) Yes; SNPs are highly conserved throughout human populations
+    B) Yes; the same SNP will almost always have the same effect on the target gene
+    C) No; SNPs cannot be compared between genetically distinct populations
+    D) No; SNPs are completely random and cannot be used for these sorts of predictions
+
+[STIMULUS] When a tick is feeding on a white-footed mouse infected with *Borrelia*, it is very likely that tick will then become infected with *Borrelia*. Squirrels, on the other hand, are much less likely to transmit the disease to ticks. Deer (as well as humans) cannot transmit *Borrelia* back to a tick once infected with Lyme Disease.
+
+68. [mcq, 1 pt] Which animal is the most competent host for Lyme Disease?
+    A) Deer
+    B) White-footed mice
+    C) Squirrels
+    D) Two of the above are correct
+
+69. [frq, 2 pt] A researcher on your team recommends starting a program to reduce deer numbers in order to reduce the number of ticks, and therefore reduce the number of Lyme Disease cases. In one sentence, describe why this approach may not work.
+
+70. [frq, 3 pt] Urbanization reduces forested habitat, which decreases the diversity of animals in an area. Surprisingly, this is associated with higher Lyme disease risk in humans. This trend is known in infectious disease ecology as the Dilution Effect. Using the concept of host competence, explain why Lyme disease risk might increase in urbanized areas. Limit your response to 2 sentences.
+
+71. [multi, 2 pt] You would like to quantify exactly how much raccoons contribute to transmission of Lyme Disease in reservoir populations and how the size of their population affects disease risk. Which of the following values would be helpful to measure in a field study? Choose all that apply.
+    A) The probability that a tick feeding on a raccoon becomes infected with Borrelia
+    B) The density of raccoons per unit area
+    C) The mortality rate of raccoons following Borrelia infection
+    D) The proportion of ticks in the environment that feed on raccoons
+    E) The average lifespan of adult raccoons
+
+[STIMULUS] A very common way of understanding Lyme Disease, as well as other diseases, is by mathematical modeling. A common and very simple model for disease is the **SIR model**. The SIR model has three 'compartments': susceptible, infected, and recovered. In the model, people can move from one compartment to another based on their infection status. The three compartments are visualized above for reference. You do not need to understand the two parameters beta and gamma, but they may aid in your comprehension. To understand SIR models, we will explore a hypothetical disease that spreads directly from person to person. This disease is modeled by the SIR model in **Figure 6.** Refer to this figure for the following questions.
+
+In an SIR model, some assumptions must be made:
+i. Infections occur completely randomly
+ii. A recovered individual cannot be reinfected (that is, one an individual is in the 'recovered' compartment, they may not move out of that compartment)
+iii. Infection only occurs via direct contact between an infected and susceptible individual
+iv. The disease has no latency/incubation period.
+    [IMAGE: ../images/2026_mit_invitational_c__p18_5e0ec4-b199b841.webp]
+    [IMAGE: ../images/2026_mit_invitational_c__p5_c4d561-8481fd8c.webp]
+
+74. [frq, 2 pt] Based on this chart, is the basic reproductive number for this disease greater than, less than, or equal to 1? Explain your answer in one succinct sentence.
+
+77. [numeric, 2 pt] Imagine a hypothetical disease (not the one shown in the model) with a R₀ = 3. This disease has a vaccine which has an efficacy of 0.75. What is the herd immunity threshold for this disease?
+
+[STIMULUS] Another hypothetical disease has R₀ = 3 and is made up of two groups of equal size: Group A and Group B, where Group A has twice the contact rate of Group B. A portion p_A of Group A and p_B of Group B are fully immune to the disease.
+
+78i. [mcq, 1 pt] If you only had a limited number of vaccines, would it be more effective to vaccinate individuals from Group A or Group B?
+    A) Group A
+    B) Group B
+
+78iii. [frq, 3 pt] Derive a condition based on p_a and p_b that must be met for herd immunity.
+
+79. [mcq, 2 pt] If the reproductive number was increased slightly, what would happen to the peak of the infection (the point at which the number of infected individuals is the highest)?
+    A) The peak would be higher and further to the right on the graph
+    B) The peak would be lower and further to the right on the graph
+    C) The peak would be higher and further to the left on the graph
+
+[STIMULUS] A modification of the SIR model is the SEIR model, which adds the exposure compartment. The image from the previous page is modified above to represent an SEIR model. An individual is in the exposed compartment from the time that they are exposed to the time that they become infectious. That is, an individual goes from susceptible to exposed to infected to recovered. Other than the addition of this extra compartment, the model stays the same.
+    [IMAGE: ../images/2026_mit_invitational_c__p19_cd2556c-8439cd28.webp]
+
+81. [mcq, 2 pt] Which stage of the natural history of disease does the exposed compartment in an SEIR model correspond to?
+    A) Susceptibility
+    B) Subclinical Disease
+    C) Clinical Disease
+    D) Recovery
+    E) The exposed compartment could correspond to either subclinical or clinical disease
+
+82. [mcq, 2 pt] Imagine a simple SEIR model is used to model COVID-19, where clinical data from hospitals is used to estimate the number of infected individuals. Which of the following would likely be true about the model?
+    A) The model would overestimate the true number of infected individuals
+    B) The model would underestimate the true number of infected individuals
+    C) The model would overestimate the true number of exposed individuals
+    D) The model would underestimate the true number of exposed individuals
+    E) Both B and C are true
+    F) Both A and D are true
+
+83. [multi, 2 pt] Which of the following are reasons why SEIR models cannot accurately model Lyme Disease? Select all that apply.
+    A) Lyme Disease is transmitted by the vector Ixodes scapularis
+    B) Lyme Disease is highly seasonal
+    C) Lyme Disease has a long latency period
+    D) There are multiple hosts, including mice, deer, and humans
+    E) Lyme Disease has high variability in how symptoms present themselves
+
+84. [mcq, 2 pt] Which of the following values, if measured in the field, is the best ecological predictor of the risk of humans getting infected by Lyme Disease?
+    A) The number of tick nymphs that are infected with Lyme Disease
+    B) The proportion of white-tailed mice that are infected with Lyme Disease
+    C) The proportion of humans that are infected with Lyme Disease
+    D) The number of tick nymphs per square meter
+    E) The number of ticks that feed on a single white-footed mouse, on average
+
+
+=== Part 4 - Corals in Crisis ===
+
+[STIMULUS] Coral reefs are in a global state of decline—approximately 14% of coral cover has been lost in the past 15 years, and up to 90% is projected to be lost within the next 25 years. This decline is driven largely by shifts in environmental conditions, including increasing sea surface temperatures, ocean acidification, and altered ocean currents that disrupt fragile coral reef ecosystems. These environmental stressors increase coral susceptibility to a wide range of diseases, which may be infectious or noninfectious in origin. In recent years, the frequency of coral mass mortality events has increased as disease prevalence has risen.
+
+Despite the ecological importance of coral reefs and extensive research efforts worldwide, the precise causes of many coral diseases–associated mass mortality events remain poorly understood. Coral diseases are often difficult to characterize, complicating both diagnosis and management, and presenting significant challenges for conservation efforts. In this scenario, your goal is to apply epidemiological principles to investigate coral diseases in the context of a hypothetical outbreak.
+
+Below is a list of true facts about corals and their diseases, labeled i-viii. Use these facts to answer the following questions. The questions may ask you to refer to a specific fact — in that case, your answer should be the roman numeral corresponding to that fact.
+i. Coral diseases are often caused by multiple pathogens that infect at the same time
+ii. A single coral pathogen may be capable of causing a variety of diseases
+iii. Most microbes implicated in marine disease are not currently culturable
+iv. Coral disease can be caused by a wide variety of pathogens including fungi, bacteria, and protists
+v. Certain pathogens cause infection only when the coral is stressed by complex environmental factors
+vi. Certain corals can live up to 4000 years old
+vii. Coral have an innate immune system, but not an adaptive immune system
+viii. Many coral diseases have no accepted case definition
+ix. Surveys of coral are difficult and expensive, making estimating prevalence and incidence of coral disease relatively unreliable.
+
+85. [mcq, 2 pt] Given **fact i**, which of the following must be true about coral diseases?
+    A) Coral diseases often exhibit comorbidity
+    B) Coral diseases often exhibit coinfection
+    C) Coral diseases often have high mortality
+    D) Coral diseases often have high morbidity
+    E) Both A and B are correct
+    F) Both B and D are correct
+
+86. [multi, 4 pt] Which of the true statements from above (i-ix) are possible reasons why it may be impossible to fulfill Koch's postulates for coral diseases?
+    A) i
+    B) ii
+    C) iii
+    D) iv
+    E) v
+    F) vi
+    G) vii
+    H) viii
+    I) ix
+
+87. [frq, 3 pt] Provide an argument for why Koch's Postulates are better suited for coral diseases than Evan's postulates. Cite one of the facts above (i-ix) and explain why it disrupts Evan's postulates, but not Koch's postulates.
+
+88. [frq, 3 pt] Provide an argument for why Evan's Postulates are better suited for coral diseases than Koch's postulates. Cite one of the facts above (i-ix) and explain why it disrupts Koch's postulates, but not Evan's postulates.
+
+[STIMULUS] Ocean current data cannot identify a pathogen directly, but it can provide insight into how disease spreads spatially.
+
+You receive a report of a developing marine mass mortality event affecting coral populations. Divers in the Caribbean have observed previously healthy elkhorn corals developing large white lesions that progressively expand and ultimately lead to tissue necrosis. In the majority of cases, affected corals die within several months. The characteristic necrosis gives the disease its name: Zombie Coral Disease (ZCD). You have developed two hypotheses regarding the general etiology of this disease:
+
+**Hypothesis A:** ZCD results from environmental stress due to elevated temperatures.
+
+**Hypothesis B:** ZCD is caused by a transmissible pathogen.
+
+You are tasked with conducting environmental sampling to provide evidence for either Hypothesis A or Hypothesis B. You do metagenomic analysis of healthy coral and diseased coral, as well as analysis of temperature change over time in various locations. You also obtain data about the location/strength of ocean currents in the Caribbean.
+
+90i. [frq, 1 pt] Describe the spatial pattern of disease you would expect to observe if Hypothesis A is correct.
+
+90ii. [frq, 1 pt] Describe the spatial pattern of disease you would expect to observe if Hypothesis B is correct.
+
+[STIMULUS] Since the total population of corals (and any marine organism, really) is very hard to estimate, marine disease prevalence is usually expressed in units of cases / area. In order to gather more information about disease spread and prevalence, you use the following protocol: you define an area of interest of 10 km² encompassing the disease corals. Within this area of interest, you choose thirty random 10 m² plots to survey. A diver is dispatched to these areas and notes how many Elkhorn Corals have the characteristic white lesions.
+
+91. [mcq, 2 pt] Which of the 13 Steps to an Outbreak Investigation does this kind of study correlate to? Your answer should be a number 1-13.
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+    K) 11
+    L) 12
+    M) 13
+
+92. [frq, 2 pt] It is possible that random sampling over such a large area could miss certain habitat types entirely. How could you adjust the study to fix this?
+
+93. [frq, 2 pt] It is very hard to distinguish Zombie Coral Disease from White Band Disease without complex (and expensive!) histopathology. To mitigate this confound, tissue samples are taken from three of the thirty plots to determine what proportion of cases are due to White Band Disease rather than Zombie Coral Disease. Is this sufficient to remove White Band Disease as a confound entirely? Explain your answer.
+
+94. [frq, 2 pt] Corals which show the white lesion are marked and their disease progression is tracked over the next year. Assume all the corals are correctly identified - that is, no corals with White Band Disease are accidentally tracked. This data is used to calculate the mortality of Zombie Coral Disease. Is this mortality likely to be an overestimate or underestimate?
+
+[STIMULUS] For the following questions, refer to **Figure 7,** which is a map of the Caribbean that shows sea surface temperatures. Recorded cases of ZCD are marked with a black circle – each circle represents a single case at that location on the map.
+    [IMAGE: ../images/2026_mit_invitational_c__p6_07b88d-502443d7.webp]
+
+96. [frq, 2 pt] In epidemiology, what name is given to maps like **Figure 7**? What is the name of the epidemiologist who famously used this type of map to solve a Cholera outbreak in London? Make sure to respond to both parts of this question.
+
+97. [frq, 2 pt] You should see that in the figure, diseased corals are often clustered close by to each other. What does this tell you about the spread of the disease?
+
+98. [frq, 2 pt] You can also see that clusters often form around areas of abnormally high sea surface temperature. Given what you concluded in the previous question, what does this tell you about the disease?
+
+99. [frq, 3 pt] To find a potential pathogen for ZCD, you decide to investigate the microbes associated with Elkhorn Corals. You perform sequencing on live samples of Elkhorn Coral in the Caribbean and find that all diseased corals show presence of the fungus Aspergillus while none of the healthy corals show presence of the fungus. Assume the PCR data as well as the diagnosis of ZCD is 100% accurate. Is this data sufficient to conclude with 100% certainty that Aspergillus is a necessary cause of ZCD in the current epidemic? Explain your answer; if you answer no, be sure to explain a possible alternative hypothesis that explains the data.
+
+100. [frq, 3 pt] To confirm your data, you perform a laboratory experiment in which the gastrovascular cavity of healthy Elkhorn corals is directly injected with a live culture of Aspergillus. You find that many corals injected with Aspergillus develop signs of ZCD, while none of the corals that were injected with sterile media show signs of ZCD. Is this evidence, combined with the observational data from the previous question, sufficient to conclude that Aspergillus is the cause of ZCD in the current epidemic? Explain your answer. If you answer no, describe one way the experiment could be improved to better test causation.
+
+[STIMULUS] For the rest of this section, assume that **Aspergillus is the causative agent of ZCD**, regardless of your answers above.
+
+101. [multi, 2 pt] While many infectious diseases will evolve to be less virulent over time, fungal diseases like Zombie Coral Disease are known to evolve to be highly virulent and even drive many species to extinction. Which of the following statements explain why diseases such as COVID-19 tend to evolve to be less virulent over time? **Choose multiple.**
+    A) Hosts that are too sick or die quickly transmit the pathogen less effectively, favoring strains that cause milder disease
+    B) Viruses face selective pressure to maintain their hosts as long-term reservoirs
+    C) Highly virulent strains are less likely to spread if transmission depends on host mobility and social interaction
+    D) Less virulent strains are more likely to be controlled by public health measures, reducing their prevalence
+    E) Rapid pathogen replication favors accumulation of mutations that reduce virulence over time
+
+102. [mcq, 2 pt] Which of the following true facts about fungal diseases explains why fungi do not tend to evolve to be less virulent?
+    A) Most fungi are saprotrophs, meaning they can consume dead organic matter
+    B) Most fungi can live independently of the host
+    C) Fungi multiply slower than bacteria and viruses do
+    D) A and B are correct
+    E) All of the above are correct
+
+103. [frq, 2 pt] Many coral diseases are treated by application of an antibiotic ointment – you may then be tempted to use an antifungal to treat the disease. However, there are very few antifungals that can be used clinically with animals. In one brief sentence, explain why this is the case.
+
+104. [frq, 3 pt] With the knowledge that Aspergillus causes ZCD, identify the three components of the epidemiological triad in this outbreak. (hint: not the person/place/time triad!)
+
+[STIMULUS] Zooxanthellae are single celled photosynthetic eukaryotes that have a symbiotic relationship with many corals, including the Elkhorn coral. They provide the coral with essential energy from photosynthesis and receive nutrients from the coral in return. In a phenomenon known as coral bleaching, coral can lose their symbionts due to environmental stressors such as increased temperature. A few hours to days after losing their symbionts, these corals turn white. You hypothesize that coral bleaching can contribute to infection. To test this hypothesis, you take samples from 100 Elkhorn corals showing symptoms of Zombie Coral Disease as well as samples from 100 grossly normal Elkhorn corals and test for presence of zooxanthellae.
+
+105. [mcq, 1 pt] This methodology most closely resembles which kind of epidemiological study?
+    A) Case-control
+    B) Cohort study
+    C) Cross sectional study
+    D) Longitudinal study
+    E) Both C and D are correct
+
+[STIMULUS] After collecting data, you calculate the odds ratio of between coral who had Zooxanthellae symbionts present and Zombie Coral Disease to be 0.47 with a 95% confidence interval from 0.33-0.61.
+
+106. [mcq, 2 pt] Which of the following is a correct interpretation of the 95% confidence interval?
+    A) There is a 95% chance that the true relative risk lays within the confidence interval
+    B) If the study was repeated indefinitely, 95% of the calculated confidence intervals would report the true relative risk
+    C) 95% of the specimens of the disease have a relative risk within the confidence interval
+    D) The confidence interval includes the true relative risk for 95% of cases of the disease
+    E) All of the above are correct interpretations
+
+107. [mcq, 1 pt] Based on the confidence interval, do you believe the correlation between loss of Zooxanthellae symbionts and Zombie Coral Disease to be statistically significant?
+    A) Yes
+    B) No
+
+109i. [mcq, 1 pt] How would the following affect the calculated odds ratio? Zombie Coral Disease has a long latency period
+    A) Would lead to the calculated odds ratio being higher than the actual value
+    B) Would lead to the calculated odds ratio being lower than the actual value
+    C) Would not bias the data in any specific direction
+
+109ii. [mcq, 1 pt] How would the following affect the calculated odds ratio? Corals with Zombie Coral Disease are more likely to lose their Zooxanthellae
+    A) Would lead to the calculated odds ratio being higher than the actual value
+    B) Would lead to the calculated odds ratio being lower than the actual value
+    C) Would not bias the data in any specific direction
+
+109iii. [mcq, 1 pt] How would the following affect the calculated odds ratio? The characteristic lesion used to diagnose Zombie Coral Disease is much harder to spot in bleached corals
+    A) Would lead to the calculated odds ratio being higher than the actual value
+    B) Would lead to the calculated odds ratio being lower than the actual value
+    C) Would not bias the data in any specific direction
+
+109iv. [mcq, 1 pt] How would the following affect the calculated odds ratio? Your test for Zooxanthellae in corals had low specificity
+    A) Would lead to the calculated odds ratio being higher than the actual value
+    B) Would lead to the calculated odds ratio being lower than the actual value
+    C) Would not bias the data in any specific direction
+
+109v. [mcq, 1 pt] How would the following affect the calculated odds ratio? There was a small sample size
+    A) Would lead to the calculated odds ratio being higher than the actual value
+    B) Would lead to the calculated odds ratio being lower than the actual value
+    C) Would not bias the data in any specific direction
+
+[STIMULUS] You come up with one final hypothesis for how the outbreak began. Warmer waters, possibly related to climate change, promoted loss of Zooxanthellae symbionts of Elkhorn Coral (coral bleaching). This leaves the coral susceptible to infection by the Aspergillus fungus, causing Zombie Coral Disease.
+
+110. [frq, 1 pt] What factor(s) is/are a necessary cause for Zombie Coral Disease?
+
+111. [frq, 2 pt] Based on the hypothesis provided above, list the components of a sufficient cause for Zombie Coral Disease.
+
+112. [frq, 2 pt] Based on your data, it is clear that there must be more than one sufficient cause for Zombie Coral Disease. In one succinct sentence, describe why this must be the case.
+
+[STIMULUS] You and your colleagues come up with a few potential prevention techniques for ZCD, which are listed below.
+
+i. Remove infected corals from the seafloor and place them in a closely monitored tank on land, where they will be treated. If the coral recovers, they will be placed back into the seafloor.
+ii. Treat corals that are nearby to infected corals with antifungal ointment.
+iii. Reintroduce strains of Zooxanthellae that are more resistant to heat shock into coral
+iv. Limit the release of warm water into coral reefs by power plants
+v. Restore native seagrasses in coral ecosystems, shifting the microbial ecosystem to favor nonpathogenic microbes
+
+114. [frq, 2 pt] For prevention technique iii, which piece of the chain of transmission is targeted?

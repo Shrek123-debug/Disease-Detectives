@@ -1,0 +1,285 @@
+Camas Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  60 questions, 98.0 pts
+Source: scio.ly test archive id 0df1171b-a8f5-4b6b-a753-f9a562bcf73a  |  original files: https://drive.google.com/drive/folders/1w2Rqq6dYjzVlfdVFFdMgM_PxPtKEZgTH
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+
+=== Part 1: Vocabulary ===
+
+[STIMULUS] Write the correct vocab term for the definition.
+    | Definition | Vocabulary Term |
+    | A population oriented study of community origins of health issues related to nutrition, environment and human behavior | [[q:P1-1a]] |
+    | Study of the cause of a disease | [[q:P1-1b]] |
+    | A serious infectious disease that is usually transmitted to humans by the bites of rodent fleas (can be life-threatening) | [[q:P1-1c]] |
+    | Measures new instances of disease in a population over a given time period | [[q:P1-1d]] |
+    | Measures the affected individuals of a population at any given time | [[q:P1-1e]] |
+    | Protecting a whole community from disease by immunizing a critical mass of its populace | [[q:P1-1f]] |
+    | Short-term immunization by the injection of antibodies, that are not produced by the recipient's cells. | [[q:P1-1g]] |
+    | Time in between when a person encounters a pathogen and when they first show symptoms or signs of disease. | [[q:P1-1h]] |
+    | Error that occurs when participants of a study do not remember previous events or experiences accurately or don't include crucial details | [[q:P1-1i]] |
+    | When selection of participants for a study is affected by an unknown variable that is associated with the exposure and outcome being measured | [[q:P1-1j]] |
+    | Someone who can transmit an infectious disease for a short amount of time | [[q:P1-1k]] |
+
+P1-1a. [frq, 1 pt] A population oriented study of community origins of health issues related to nutrition, environment and human behavior — Vocabulary Term
+
+P1-1b. [frq, 1 pt] Study of the cause of a disease — Vocabulary Term
+
+P1-1c. [frq, 1 pt] A serious infectious disease that is usually transmitted to humans by the bites of rodent fleas (can be life-threatening) — Vocabulary Term
+
+P1-1d. [frq, 1 pt] Measures new instances of disease in a population over a given time period — Vocabulary Term
+
+P1-1e. [frq, 1 pt] Measures the affected individuals of a population at any given time — Vocabulary Term
+
+P1-1f. [frq, 1 pt] Protecting a whole community from disease by immunizing a critical mass of its populace — Vocabulary Term
+
+P1-1g. [frq, 1 pt] Short-term immunization by the injection of antibodies, that are not produced by the recipient's cells. — Vocabulary Term
+
+P1-1h. [frq, 1 pt] Time in between when a person encounters a pathogen and when they first show symptoms or signs of disease. — Vocabulary Term
+
+P1-1i. [frq, 1 pt] Error that occurs when participants of a study do not remember previous events or experiences accurately or don't include crucial details — Vocabulary Term
+
+P1-1j. [frq, 1 pt] When selection of participants for a study is affected by an unknown variable that is associated with the exposure and outcome being measured — Vocabulary Term
+
+P1-1k. [frq, 1 pt] Someone who can transmit an infectious disease for a short amount of time — Vocabulary Term
+
+[STIMULUS] Fill in the blank.
+
+Transmission occurs when the ____ leaves the ____ through ____, and is conveyed by some ____, and enters the appropriate ____ to infect a ____.
+
+P1-2-1. [frq, 1 pt] Blank 1: Transmission occurs when the ____ leaves the (…) through (…), and is conveyed by some (…), and enters the appropriate (…) to infect a (…).
+
+P1-2-2. [frq, 1 pt] Blank 2: Transmission occurs when the (…) leaves the ____ through (…), and is conveyed by some (…), and enters the appropriate (…) to infect a (…).
+
+P1-2-3. [frq, 1 pt] Blank 3: Transmission occurs when the (…) leaves the (…) through ____, and is conveyed by some (…), and enters the appropriate (…) to infect a (…).
+
+P1-2-4. [frq, 1 pt] Blank 4: Transmission occurs when the (…) leaves the (…) through (…), and is conveyed by some ____, and enters the appropriate (…) to infect a (…).
+
+P1-2-5. [frq, 1 pt] Blank 5: Transmission occurs when the (…) leaves the (…) through (…), and is conveyed by some (…), and enters the appropriate ____ to infect a (…).
+
+P1-2-6. [frq, 1 pt] Blank 6: Transmission occurs when the (…) leaves the (…) through (…), and is conveyed by some (…), and enters the appropriate (…) to infect a ____.
+
+P1-3a. [frq, 4 pt] What are the two main categories of modes of disease transmission according to the American Public Health Association and CDC? What are the ways of transmission each category includes?
+
+P1-3b. [frq, 1.5 pt] What are the different categories of contact transmission?
+
+P1-3c. [frq, 1.5 pt] What are the different categories of vehicle transmission?
+
+P1-4a. [frq, 1 pt] Define Primordial Prevention.
+
+P1-4b. [frq, 1 pt] Define Primary Prevention.
+
+P1-4c. [frq, 1 pt] Define Secondary Prevention.
+
+P1-4d. [frq, 1 pt] Define Tertiary Prevention.
+
+P1-4e. [frq, 1 pt] Define Quaternary Prevention.
+
+P1-5a. [frq, 1 pt] Define the ecological epidemiological study.
+
+P1-5b. [frq, 1 pt] Define the cross-sectional epidemiological study.
+
+P1-5c. [frq, 1 pt] Define the case control epidemiological study.
+
+P1-5d. [frq, 1 pt] Define the cohort epidemiological study.
+
+P1-5e. [frq, 1 pt] Define the randomized controlled trial epidemiological study.
+
+P1-5f. [frq, 1 pt] Define the quasi experiments epidemiological study.
+
+
+=== Part 2: General ===
+
+P2-1. [frq, 2 pt] What are two limitations of Koch's postulates?
+
+P2-2. [frq, 9 pt] What are the nine parts of Bradford Hill's Criteria for Causation?
+
+P2-3. [frq, 1 pt] In what pH conditions do foodborne pathogens thrive?
+
+P2-4. [frq, 1 pt] What is the key difference between a chi-square and McNemar's test?
+
+P2-5. [frq, 1 pt] What is one way to prevent food borne illnesses?
+
+P2-6. [mcq, 1 pt] Which of the below modes of transmission results in primary pneumonic plague cases?
+    A) vectorborne
+    B) direct contact
+    C) direct droplet spread
+    D) all of the above
+
+P2-7. [frq, 1 pt] What is an epi-curve?
+
+[STIMULUS] Questions 8-9 use this image:
+    [IMAGE: ../images/2022_camas_invitational_c__p5_18f22b-3b493384.webp]
+
+P2-8. [frq, 1 pt] What mode of spread does this epi curve describe?
+
+P2-9. [frq, 2 pt] When does this type of epidemic occur?
+
+[STIMULUS] Questions 10-11 use this image:
+    [IMAGE: ../images/2022_camas_invitational_c__p5_6078b6-daaf9104.webp]
+
+P2-10. [frq, 1 pt] What mode of spread does this epi-curve describe?
+
+P2-11. [frq, 2 pt] When does this type of epidemic occur?
+
+[STIMULUS] Questions 12-13 use this image:
+    [IMAGE: ../images/2022_camas_invitational_c__p6_fafdbe-3e4c116e.webp]
+
+P2-12. [frq, 1 pt] What mode of spread does this epi-curve describe?
+
+P2-13. [frq, 2 pt] When does this type of epidemic occur?
+
+P2-14. [frq, 1 pt] What is the purpose of public health surveillance?
+
+P2-15. [frq, 5 pt] What is the five-step process for surveillance?
+
+P2-16. [frq, 12 pt] What are the six parts of the Chain of Infection, and what is an example of each?
+
+[STIMULUS] 400 people attended a certain competition. Some people fell ill, and the suspected culprit was food poisoning from the salad bowl. Use the following 2x2 table to answer the following questions.
+
+| | Disease | No disease |
+|---|---|---|
+| Exposure | 150 | 30 |
+| No exposure | 50 | 170 |
+
+P2-17. [frq, 1 pt] Calculate the relative risk.
+
+P2-18. [frq, 1 pt] What does this relative risk indicate?
+
+P2-20. [frq, 1 pt] Calculate the attack rate for the unexposed.
+
+
+=== Part 3: Case Study ===
+
+[STIMULUS] Scenario, Part A
+
+It is late Summer, a chilly August day, at your office in the Washington state health department. You are thinking about an upcoming skiing trip you are planning for the mountains while reviewing work from the previous week. You note, with some worry, that the number of reports of airborne illness are slightly higher than last year. You make note, and hope it's just the effect of mask mandate removals from last year.
+
+The phone rings and you answer it with your usual "State health department, epi section, can I help you?" The voice on the other end says "Yes, this is Dr. Kennedy from the Evergreen Hospital. I would like to report a suspected case of Yersinia pestis infection. The patient is a 15 year old caucasian male. His father says he developed sudden chills and sweats yesterday and complained of weakness and pain in the groin area. He brought him to our emergency room last night because of his high fever, inguinal pain and swelling. A physical exam showed what appeared to be a bubo in the groin area. We aspirated it and the lab report on the gram stain came back positive for Gram negative bacilli. A Wright stain of the same aspirate showed the bipolar morphology characteristic of Yersinia pestis. Although we need to wait a bit longer for the final culture results, it looks like plague. We admitted him and started him on ciprofloxacin as soon as the Gram stain results came back and he seems to be responding."
+
+You start to fill out the plague case report form. You ask where the patient lives, his name, address and home phone number as well as other symptoms at presentation (none were noted) and localized signs such as insect bites (none noted) and chest X-ray results (not done).
+
+Doctor Kennedy requested that a blood specimen be drawn for serology but those results are not back yet. He says that the boy had not left the state in the last two weeks. However, before he hung up, Doctor Kennedy said "Oh yes, the father said he attended an event with a group of boy scouts out at Big Dome this last weekend. As far as he knew everyone else in the group was fine. He is expecting a call from you."
+
+After hanging up, you get the sinking feeling that you will not be skiing any time soon. Big Dome is a huge national park. With the Labor Day weekend coming up, the park is expecting near record numbers of visitors.
+
+In an effort to get more information, you call the case patient's home. No one answers so you leave a message on the answering machine. You then call Evergreen Hospital and ask to be transferred to the floor where the young boy (case patient #1) is being cared for. You ask if his parents are there and to be transferred to the boy's room.
+
+The phone rings several times but no one answers.
+
+Your phone rings and the screen shows the caller is the US GOVERNMENT. You answer it and the caller says, "Hello, this is Doctor Sara Rajasekeran. I'm calling from the Bacterial Diseases Branch of the CDC Division of Vector-Borne Diseases in Fort Harrows. We have just confirmed that one of your residents has been infected with Yersinia pestis and are calling to inform you of that fact. The patient is a 46 year old hispanic male from Woodinville. He is currently hospitalized at Overlake Hospital. His attending physician is Doctor William Cho. Doctor Cho called our emergency answering service over the weekend and spoke with one of our medical epidemiologists. The patient was started on ciprofloxacin shortly after he came in. The initial blood culture results were negative however that specimen was collected after antibiotics were started. Doctor Cho sent us a blood specimen that was collected later and we were able to detect Yersinia pestis DNA by PCR. You can reach Doctor Cho at 404-498-1182. He will be expecting your call."
+
+P3-26. [mcq, 1 pt] Which of the below best explains why the blood culture was negative but the PCR was positive for plague?
+    A) The antibiotics given in the emergency room killed most of the Yersinia in the blood and inhibited the growth of any survivors.
+    B) The specimen was not collected properly.
+    C) Yersinia does not grow in culture.
+    D) Yersinia pestis is not found in the blood.
+    E) All the above.
+
+[STIMULUS] Scenario, Part B
+
+Doctor Rajasekeran goes on to say, "The patient supposedly has no history of recent travel outside the state. Doctor Cho did say that the patient reported going on a family outing to Big Dome on August 11. You may want to contact the National Park Service (NPS). This is their jurisdiction and they take the lead on investigations involving outbreaks on park property. Our contact at NPS is Vanessa Williams. We have worked with her before. We will be glad to work with you folks as well. Any questions?"
+
+You respond, "Well I was just about to call you. Less than an hour ago, I got call from an area physician who has a patient with Gram-negative bacilli and bipolar morphology on Wrights stain of aspirates of an inguinal bubo. The patient is a 15 year old asian male who supposedly attended a Boy Scout event last weekend - also at Big Dome. I have been trying to get in touch with the family to verify this and learn more about it. Blood culture results are not final. Perhaps you folks might be interested in confirming and genotyping the isolate."
+
+You continue, "I have lots of questions and expect that you do too. A conference call between you folks, the NPS and our group would seem in order. Can you help us set one up?"
+
+"Certainly. What is your schedule like this morning? I think we want to move on this - especially with two cases. I'll email you instructions and forms for specimen submission. We would certainly be interested in genotyping this second isolate."
+
+P3-27. [mcq, 1 pt] Which of the below statements best reflects the importance of genotyping isolates?
+    A) Genotyping is the quickest, easiest way to prove that an isolate really is Y. pestis.
+    B) Genotyping can provide information that is useful in deciding which antimicrobials to use in treating an infection.
+    C) Genotyping can provide information that is useful in determining if multiple patients were infected at different locations or at the same location.
+    D) Genotyping can help determine whether an infection is likely to be spread from person to person.
+
+P3-28. [mcq, 1 pt] An outbreak is defined as the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. The annual number of cases of reported Y. pestis infections in the United States is 4 to 8 per year. Which of the below best describes whether this scenario represents an outbreak or not?
+    A) It is not an outbreak because the total number of cases so far (two) is less than the number reported from the United States.
+    B) It is an outbreak since, like measles and human rabies, even a single human case may be considered more than expected.
+    C) It is not an outbreak because the total number of cases has not yet exceeded the annual number reported by the United States.
+    D) It is an outbreak because plague is a very serious, reportable condition.
+
+[STIMULUS] Scenario, Part C
+
+After ending the call, you quickly brief your staff on the situation. You tell Krithi Magesh, one of your key epidemiology staff members, to try to reach the father of case patient #1 and find out more about the camporee.
+
+You also ask that they contact the local scout district to find out more about the camporee..
+
+You then head upstairs to inform the Director of the Washington state health department of the situation. The two of you call an emergency staff meeting. The purpose of this meeting is to let other administrative division heads in the health department such as the communications and environmental groups know about this situation, determine who should participate in the upcoming conference call with the CDC and the NPS, and provide background information on the epidemiology of Y. pestis infections.
+
+As the meeting with the Director wraps up, Krithi Magesh comes into the room and pulls you and the Director aside.
+
+She tells both of you that she was able to contact the father at the hospital and to talk with both him and the case patient #1. The father confirmed that there was a camporee at Big Dome and that about 8 different Boy Scout troops participated. Case patient #1 was a member of troop 25. All troops were in the Lake Washington Scout District.
+
+The schedule on Saturday involved a series of events and competitions at various locations throughout the park.
+
+Case patient 1 said that events included activities like an obstacle course, fire building, bridge building, map reading, and first-aid. The Boy Scout troops were split up and not all members participated in the same events although each troop participated in each event.
+
+Krithi Magesh got the name and phone number of the leader for Boy Scout troop 25 and the phone number for the Lake Washington District office. She has not called either yet because she was not sure what to say and what not to say. She also contacted Doctor Cho, the physician caring for case patient #2. That case patient had been to Big Dome on August 11 but had only gotten out of the car to walk their dog so that it could go to the bathroom. It had run into a bush but came back shortly. Although the dog slept in the bed with case patient #2, he didn’t report any insect bites.
+
+[STIMULUS] Scenario, Part D
+
+Krithi Magesh also tells you that a third possible case has been reported from the emergency room of a local hospital.
+
+The patient (case patient #3) is a 16-year old boy who was supposedly at Big Dome for a Boy Scout event. She finishes by saying that the CDC called back and a conference call is scheduled for 30 minutes from now. They have asked that this initial call be limited to CDC, NPS and health department staff. The Director is debating whether he should contact the Governor's office before or after this call. Although you value Krithi Magesh's input, you ask her to spend the next 30 minutes trying to collect more information on the three case-patients.
+
+The conference call starts with each group introducing themselves. The Park Supervisor for Big Dome is chairing the meeting and introduces his group that includes representatives from their Communications team, their Operations team and their Health team. A representative from the NPS headquarters in Washington DC is also on the line. The CDC group includes Doctor Williams, two other epidemiologists including a second year second year Epidemic Intelligence Service (EIS) officer, two microbiologists, an entomologist and a wildlife disease expert.
+
+The NPS group starts with a description of their park, including the area (645 square miles with 121 miles of paved roads and 460 miles of trails), campgrounds (981 family sites and 6 group sites accommodating 9,300 and 401 people, respectively). They average about 2.6 million visitors each year: 74% of those are from within the state, 6% are out-of-state and 10% are international.
+
+They estimated that there were more than 30,000 visitors during the weekend in question. They are aware of the Boy Scout event and have a complete agenda of events, activities and locations that the Lake Washington District provided as part of their permit application. They have sent teams of wildlife biologists to make preliminary inspections of each of the sites but have not done any sampling pending additional information. They indicate they have rather limited laboratory capacity and ask if the CDC lab would be willing to help with testing animal carcasses or fleas, if found. The CDC lab team indicates they can probably help but would like to discuss specifics after conferring with their laboratorians. The major concern of the NPS group is controlling publicity and assuring public safety during the upcoming holiday weekend.
+
+The State Health Department (SHD) invites the CDC to participate in the investigation and has already drafted an email to that effect. The CDC group in Fort Harrows says they will try to have an EIS officer on site. The three groups agree to collaborate on a press release that will be issued at a press conference called for late afternoon at the SHD.,
+
+CDC has established a set of case definitions as part of the notifiable disease reporting system. These can be easily adapted for this situation. The group agrees to start with a broad approach and target anyone who has visited Big Dome within the last month.
+
+The discussion turns to recommendations for persons who may have been exposed at the park and recommendations that should be given to persons who may be going to the park for the Labor Day weekend. The CDC group agrees to take the lead on developing those and will have them ready for joint distribution at the press conference later in the afternoon. The SHD and NPS will develop educational materials to distribute to scout groups, park visitors and other concerned individuals while the CDC will post information on its website.
+
+The NPS feels it cannot wait for survey results to pinpoint possible areas where infection took place and is starting environmental studies, including flea collection from nests and burrows and searching for small animal carcasses in the areas used by the scouts as well as those linked with other additional cases. Any areas with potential Y. pestis activity will be closed to the public during the Labor Day weekend. The park will remain open and an information campaign will be developed to alert visitors to possible risks and precautions they should take.
+
+The CDC will notify other state and local health departments of the situation on its Health Alert Network (HAN). The CDC will ask health officials to pass the information on to local health care providers and that they notify the CDC of any suspect cases
+
+P3-31. [mcq, 1 pt] The notification of other state and local health departments of the situation and request that they report suspect cases to CDC represents which of the below types of surveillance?
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+
+[STIMULUS] Case Definition
+
+The CDC case definition for plague includes clinical and laboratory criteria. Clinical criteria depend on how the patient was exposed to the bacteria and are given in the background section. Presumptive laboratory criteria include an elevated level of antibody to a specific Y. pestis antigen or detection of that antigen in a clinical specimen. Confirmatory laboratory criteria include isolation of Y. pestis from a clinical specimen or an increase in levels of serum antibody to Y. pestis. The latter requires at least two serum specimens collected several days apart.
+
+[STIMULUS] By the time you complete the survey, 6 more scouts and one of the Lake Washington District staff have been reported to be probable or confirmed plague cases. Results from your survey are shown in Table 2.
+    [IMAGE: ../images/2022_camas_invitational_c__p15_d9ba78-fe4cdeb6.webp]
+
+P3-34. [frq, 2 pt] What study design is represented here?
+
+P3-35. [mcq, 2 pt] Competitive events were held during the morning and afternoon on Saturday, August 17. Two sets of events (fire building first aid and compass course/obstacle course) were held during the morning and two sets (axemanship/knot tying and bridge building/map reading) were held in the afternoon. Troops were expected to have teams participate in each event but teams participated in only one event during each of the four periods. For example, all troops had teams participate in fire building and first aid but the scouts who participated in fire building did not participate in first aid. Which of the events had the greatest association with plague infection?
+    A) fire building
+    B) first aid
+    C) compass course
+    D) obstacle course
+    E) axemanship
+    F) knot tying
+    G) bridge building
+    H) map reading
+
+P3-36. [mcq, 2 pt] How much less likely were those who used repellent to get plague infection than those who did not use repellent?
+    A) 0.10 times
+    B) 3.3 times
+    C) 4.3 times
+    D) 9.6 times
+
+[STIMULUS] Environmental Assessment
+
+While the survey was being conducted, the NPS completed their environmental assessment throughout the park, as shown on the map in Figure 2. In the northwest part of the park, the team observed several dead prairie dog carcasses close together. The team collected the carcasses to take back to the laboratory for testing.
+
+Plague is enzootic among some small rodent species, but not prairie dogs. Enzootic means the disease circulates at low levels, and without causing die offs. However, plague can rapidly decimate entire prairie dog towns during epizootics. Given the NPS findings of dead prairie dogs as well as the human cases, you determine that an epizootic is likely occurring.
+    [IMAGE: ../images/2022_camas_invitational_c__p16_c81ef8-38d63698.webp]
+
+P3-37. [frq, 3 pt] Explain what is meant by an epizootic.
+
+P3-38. [mcq, 2 pt] Which of the below follow-up options is the most appropriate for this situation?
+    A) Close the park indefinitely until it is verified plague free
+    B) Post signs to warn the public to avoid this area as well as provide information on personal prevention and disease symptoms for awareness
+    C) Conduct aerial insecticide sprays over the entire park
+    D) Trap and remove all rodents from the northwest part of Big Dome
+
+P3-39. [frq, 2 pt] CDC and others recognize that the health of people is connected to the health of animals and the environment. There is a movement for partnerships between physicians, veterinarians, and other scientific health disciplines. What is this initiative called?

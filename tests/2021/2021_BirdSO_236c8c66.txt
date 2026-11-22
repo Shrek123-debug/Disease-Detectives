@@ -1,0 +1,531 @@
+BirdSO — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  97 questions, 122.5 pts
+Source: scio.ly test archive id 236c8c66-4482-464f-99a5-3554267193a5  |  original files: https://drive.google.com/drive/folders/1eKZrwG30v4SlpoLKMh6TxbTlpFQ_sGGL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: You will have 50 minutes to complete this exam. You may use another application to communicate with your partner, either through voice or video call. This test has 2 sections: a case study and a short general epidemiology section. There is no penalty for guessing, so please make an attempt to answer each question! Please follow instructions on how to format your answer if a question specifies to.
+
+
+=== Case Study ===
+
+[STIMULUS] The council forms an emergency task force that includes you, a team of doctors, and a pop-up lab with technicians. Answer [True] for the tasks you feel equipped to handle as an epidemiology and [False] for those that would better be performed by someone else on the force.
+
+1. [tf, 1 pt] Development of vaccination and drug formulas.
+    A) True
+    B) False
+
+2. [tf, 1 pt] Identifying the disordered physiological processes associated with disease
+    A) True
+    B) False
+
+3. [tf, 1 pt] Determining the identity of the infectious agent
+    A) True
+    B) False
+
+4. [tf, 1 pt] Performing therapeutic interventions on the infected
+    A) True
+    B) False
+
+5. [tf, 1 pt] Delineating high risk groups that will be most susceptible to greater health complications
+    A) True
+    B) False
+
+6. [tf, 1 pt] Analysis of data post-intervention to determine how effective certain measures are at preventing disease spread
+    A) True
+    B) False
+
+7. [tf, 1 pt] Running tests on patient samples to find abnormalities compared to healthy individuals
+    A) True
+    B) False
+
+[STIMULUS] A) Passive sentinel
+B) Active sentinel
+C) Passive, non-sentinel
+D) Active, non-sentinel
+E) Syndromic
+
+The team looks to you for guidance on how to control the spread of the disease. You suggest that the first step to controlling the situation is to understand it and advise the council to set up a surveillance program in the colonies. Match the descriptions given below with the correct type of surveillance program (i.e. your answer should be A, B, C, D or E):
+
+8. [mcq, 1 pt] Physicians throughout the colonies report cases of the disease by contacting the task force. The force then contacts doctors and other laboratories upon notification for other potential instances matching the case definition.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+9. [mcq, 1 pt] The force asks physicians to report cases of the disease as they appear from the colonies near the perimeter of the settled area to collect more information on sparser regions that have had historically poor reporting rates.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+10. [mcq, 1 pt] The task force collects data from outside sources such as search drug purchase history and work logs to anticipate potential disease outbreaks.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+11. [mcq, 1 pt] Physicians from the major, high-population colonies are asked to report cases. The force follows up in areas with reported disease to find additional cases to monitor the trends and burden in the critical centers of the settlement.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+[STIMULUS] Which of the surveillance approaches would be best to use in each of the following scenarios?
+
+12. [mcq, 1 pt] The budget for disease surveillance is limited, yet results and needed quickly and in particular for the urban centers of the settlement. The disease is also known to be highly communicable.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+13. [mcq, 1 pt] In the later stages of investigation, there are generic drugs available for the disease. It is known to uptick in certain periods of the year, and you'd like to be able to predict rapidly when that will occur.
+    A) Passive sentinel
+    B) Active sentinel
+    C) Passive, non-sentinel
+    D) Active, non-sentinel
+    E) Syndromic
+
+[STIMULUS] You instruct the team to carry out your chosen surveillance method. Based on the information given below, write a case definition.
+
+There is a high incidence of jaundice and anemia reported beginning three weeks ago in the settlement perimeter. The reports are mainly from mothers who have seen worrying symptoms in their children, typically infants under 3 years old. There have been notes in clinical records regarding some association of breast-feeding with symptom development. The laboratory technicians report the presence of what they term the 'Mars Virus' named for their round, spherical appearance in blood samples from patients. You recommend active surveillance to collect more samples and to prioritize developing a diagnostic test.
+
+15. [mcq, 1 pt] Based on the information given above, write a case definition.
+    A) Individuals with jaundice and anemia under the age of 3 years old whose date of onset began three weeks ago. Living or working in the outer perimeter of the settlement. Detection of Mars Virus in blood sample.
+    B) Individuals with jaundice and anemia whose date of onset began three weeks ago. Living or working in the outer perimeter of the settlement.
+    C) Individuals with jaundice, anemia under the age of 3 years old whose date of onset began three weeks ago. Individuals had been breast-fed. Living or working in the outer perimeter of the settlement. Detection of Mars Virus in blood sample.
+    D) Individuals with jaundice, anemia under the age of 3 years old. Individuals had been breast-fed. Living or working in the outer perimeter of the settlement.
+
+[STIMULUS] Match the above case definitions from Q15 with the following descriptors (i.e. your answer for each of the following questions should be A, B, C, or D).
+
+Hint: Sensitivity refers to how likely the definition is to include someone who does have the disease, while specificity refers to how likely the definition is to exclude someone who does not have the disease.
+
+16. [mcq, 1 pt] High sensitivity, high specificity
+    A) A
+    B) B
+    C) C
+    D) D
+
+17. [mcq, 1 pt] Low sensitivity, high specificity
+    A) A
+    B) B
+    C) C
+    D) D
+
+18. [mcq, 1 pt] Low sensitivity, low specificity
+    A) A
+    B) B
+    C) C
+    D) D
+
+19. [mcq, 1 pt] High sensitivity, low specificity
+    A) A
+    B) B
+    C) C
+    D) D
+
+20. [multi, 1 pt] Select **all** of the following that describe the epidemiology study you conducted in analyzing the surveillance data:
+    A) Experimental
+    B) Descriptive
+    C) Observational
+    D) Analytic
+
+[STIMULUS] The council wants to verify if this is indeed an outbreak. Which of the following statements, if any, would support the presence of an outbreak (mark true)?
+
+21. [tf, 1 pt] The rate of jaundice and anemia are predicted by prior data collected from last year.
+    A) True
+    B) False
+
+22. [tf, 1 pt] There was a new training program for physicians that enabled them to better identify anemia in young infants.
+    A) True
+    B) False
+
+23. [tf, 1 pt] A rural outreach initiative from the health department enforced higher reporting rates from the settlement perimeter to meet new standards.
+    A) True
+    B) False
+
+24. [tf, 1 pt] The symptoms are known to be seasonal and appear most frequently in regions with cold weather and shorter day lengths. The perimeter settlements are at a higher elevation and have entered the winter season.
+    A) True
+    B) False
+
+[STIMULUS] A) Retrospective cohort study
+B) Prospective cohort study
+C) Case control study
+D) Cross sectional study
+E) Ecological study
+
+Knowing that there is an outbreak, you decide to conduct another study to generate and test your hypotheses about the disease. Based on the results of your surveillance, your hypothesis is that the agent is the Mars Virus, the host is mothers from the settlement perimeter and their children, and the environment is breast milk. To verify that the disease is indeed transmitted by exposure to infected breast milk, you conduct observational epidemiology studies. Match the following observational studies to the correct study type (i.e. your answer should be A, B, C, D or E):
+
+25. [mcq, 1 pt] You take a simple random sample of the healthy newborns and identify each person in the sample with an ID number. You record whether or not each person is breast-fed during the study whether they meet your case definition over time.
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+26. [mcq, 1 pt] You take a simple random sample of infants from the following groups: low frequency of breast-feeding, intermediate frequency of breast-feeding, and high-frequency of breast-feeding and record the total number from each group that meets your case definition.
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+27. [mcq, 1 pt] You take a simple random sample of infants who are healthy and another sample of those who meet the case definition and identify each person with an ID number. You record whether or not they have been breast-fed in the past three weeks.
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+28. [mcq, 1 pt] You take a simple random sample of healthy infants and identify each person in the sample with an ID number. You record whether or not each person was breast-fed within the past three weeks prior to your study and whether they meet your case definition over time.
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+29. [mcq, 1 pt] You take a simple random sample of infants and identify each person in the sample with an ID number. You record whether they have been breast-fed in the past three weeks and whether they meet your case definition presently.
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+[STIMULUS] Fill in the blank:
+
+I would rather conduct a (i) cohort study because it (ii).
+
+For (i) your options are:
+A) Retrospective
+B) Prospective
+
+For (ii) your options are:
+A) Is more likely to have statistically significant results
+B) is less likely to have confounding variables and bias
+C) is more likely to confirm my hypothesis
+D) Can determine factors outside of breast-feeding that contribute to development of the disease
+
+**Your answer should be the one-letter code (e.g. A, B, C, D) not the phrase/word.**
+
+30a. [mcq, 1 pt] I would rather conduct a (i) cohort study because it (ii). — For (i), select the correct option.
+    A) Retrospective
+    B) Prospective
+
+30b. [mcq, 1 pt] I would rather conduct a (i) cohort study because it (ii). — For (ii), select the correct option.
+    A) Is more likely to have statistically significant results
+    B) is less likely to have confounding variables and bias
+    C) is more likely to confirm my hypothesis
+    D) Can determine factors outside of breast-feeding that contribute to development of the disease
+
+[STIMULUS] From a cohort observational study, you collect the following data from (n=1000) infants under the age of 3 living in all areas of the settlement. **Please round all your answers to the nearest thousandths place.**
+    |  | Disease - Yes | Disease - No |
+    | Unexposed (not breast-fed) | 2 | 476 |
+    | Exposed (breast-fed) | 129 | 393 |
+
+31. [numeric, 1 pt] Calculate the attack rate in the exposed group.
+
+32. [numeric, 1 pt] Calculate the attack rate in the unexposed group.
+
+33. [numeric, 1 pt] Calculate the relative risk using your rounded values from the previous part. **Round to the nearest whole number**.
+
+[STIMULUS] A) Positive association
+B) Negative association
+C) No association
+
+Match what your conclusion would be about the association between exposure and disease for the following relative risk values (i.e. your answer should be A, B, or C):
+
+34. [mcq, 1 pt] r = 1.0
+    A) Positive association
+    B) Negative association
+    C) No association
+
+35. [mcq, 1 pt] r = 0.1
+    A) Positive association
+    B) Negative association
+    C) No association
+
+36. [mcq, 1 pt] r = 10
+    A) Positive association
+    B) Negative association
+    C) No association
+
+37. [mcq, 1 pt] Which association type would suggest that exposure to the factor increases the chance that one will contract the disease?
+    A) Positive association
+    B) Negative association
+    C) No association
+
+38. [frq, 2 pt] Based on the description of how the data was collected and your case definition, fill in the blanks:
+    
+    I expect my relative risk estimate to be (i) ____ than the true relative risk value because (ii) ____.
+    
+    For (i) your options are:
+    (A) Higher
+    (B) Lower
+    
+    For (ii) your options are:
+    (A) The sampled group systematically excludes some groups in the population of interest who are more likely to have the disease
+    (B) The sampled group contains individuals outside of the population of interest who are less likely to have the disease
+    (C) The sampled group systematically excludes some groups in the population of interest who are less likely to have the disease
+    
+    **Your answer should be the one-letter code not the entire word/phrase (i.e. A, B, C).**
+
+39. [numeric, 1 pt] Noticing a mismatch between your estimated relative risk and the actual incidence of cases seen in the population, you conduct a case-control study and compare exposure to the settlement perimeter and assess whether that is another environmental factor. The sample is infants under the age of 3 who have all been breast-fed within the last 3 weeks. You receive the following data:
+    
+    | | Disease - Yes | Disease - No |
+    |---|---|---|
+    | Breast-fed, live in perimeter of settlement | 98 | 140 |
+    | Breast-fed, live in center of settlement | 31 | 253 |
+    
+    What is the odds ratio of exposure? **Round to the nearest tenths place.**
+
+40. [mcq, 1 pt] If you were to hypothetically get an odds ratio of 0.3, which of the following statements is the best interpretation of that result?
+    A) People who lived at the perimeter of the settlement were about ⅓ as likely to develop the disease compared to the unexposed.
+    B) People who lived at the perimeter of the settlement were about 3x more likely to develop the disease compared to the unexposed.
+    C) Neither (a) nor (b) can be concluded.
+
+[STIMULUS] Which of the following (mark true) would be confounding variables for this study?
+
+41. [tf, 1 pt] Availability of healthcare in the perimeter versus the center of the settlement.
+    A) True
+    B) False
+
+42. [tf, 1 pt] Breastfeeding being associated with more outdoor activity for infants in the perimeter but with less outdoor activity for infants in the center.
+    A) True
+    B) False
+
+43. [tf, 1 pt] Children who weren't breast-fed in the center of the settlement had higher rates of outdoor activity compared with those living at the perimeter.
+    A) True
+    B) False
+
+44. [multi, 1 pt] Given the following list of facts (may not necessarily correspond to your answers above), what statement(s) can you conclude about the cause of the outbreak?
+    
+    - There is a strong association between breast-feeding and development of the disease
+    - There is a strong association between living in the perimeter and the development of the disease, given breast-feeding
+    - Breast-feeding is known to have preceded development of the disease in most cases
+    - The Mars Virus has been found in blood samples of infants with the disease
+    A) I cannot conclude anything listed beyond the given facts above without more data.
+    B) I conclude that living at the perimeter and breast-feeding make the infant more exposed to the virus.
+    C) I conclude that living at the perimeter and breast-feeding make the infant more susceptible to the virus given the same level of exposure.
+    D) I conclude that there is more Mars Virus present in the perimeter of the settlement than at the center.
+    E) I conclude that living at the perimeter and breast-feeding worsen the immune system of the infant.
+    F) I conclude that breast milk transmits the virus to the infants from the mothers.
+
+45. [mcq, 1 pt] Using the study types defined in question 25 (listed below again for convenience) what kind of epidemiology study would you conduct to determine if there is the presence of a biological gradient, as defined by the Bradford Hill criteria?
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case control study
+    D) Cross sectional study
+    E) Ecological study
+
+[STIMULUS] You want to next evaluate the biological plausibility of the disease, as defined by the Bradford Hill criteria. To do this, you ask your lab technicians to help you establish the chain of infection for the disease. They work with those on surveillance to provide you the following paragraphs of results:
+
+The lab report states that the (i) Mars Virus is particularly concentrated in the (ii) water near the perimeter of the settlement. Though this water is not for drinking purposes, many of the settlers do their (iii) laundry in the water. The virus has been found to be present in (iv) breast-milk. Though the virus doesn't seem to harm (v) adults, it causes illness in (vi) young infants who (vii) consume contaminated breast-milk due to their overall (viii) weaker immune systems. The virus seems to pass through the (ix) digestive system into the (x) liver and (xi) spleen where it causes the (xii) breakdown of red blood cells and (xiii) obstruction of the bile duct. As the virus multiplies, the effects manifest in (xiv) jaundice and (xv) anemia.
+
+From mice studies, they know that once a mouse is exposed to the virus, a large proportion become infected; however, most of the infected mice do not develop symptoms of the clinical disease. More surveillance data has also indicated that most infants who develop the disease do not go on to have serious complications.
+
+**Your answer should be a roman numeral. If you want to give more than one as your answer, enter them separated by a comma WITHOUT a space (e.g. i,ii). Write 'None' without quotation marks if there is no matching answer from the text given.**
+
+46. [frq, 1 pt] Identify the agent(s), if any.
+
+47. [frq, 1 pt] Identify the reservoir(s), if any.
+
+48. [frq, 1 pt] Identify the mode(s) of transmission, if any.
+
+49. [frq, 1 pt] Identify the portal(s) of entry, if any.
+
+50. [frq, 1 pt] Identify the susceptible host(s), if any.
+
+51. [frq, 1 pt] What terms are most related to the stage of exposure?
+
+52. [frq, 1 pt] What terms are most related to the pathological changes that occur during subclinical disease?
+
+53. [frq, 1 pt] What terms are most related to the stage of clinical disease?
+
+54. [tf, 1 pt] The disease appears to be zoonotic.
+    A) True
+    B) False
+
+55. [frq, 3 pt] Based on the given information, fill in the blanks:
+    
+    The disease has (i) ____ infectivity, (ii) ____ pathogenicity, and (iii) ____ virulence.
+    
+    For (i), (ii), and (iii) your options are:
+    A) High
+    B) Low
+    
+    **Your answer should be the one-letter code not the entire word/phrase (i.e. your answer should be A or B).**
+
+56. [mcq, 1 pt] Is this disease a zoonotic disease?
+    A) Yes
+    B) No
+
+57. [mcq, 1 pt] Would latency period be an appropriate term for the stage of subclinical disease?
+    A) Yes
+    B) No
+
+58. [multi, 1 pt] Now that you have collected data and tested your hypotheses, you advise the council that it's time to implement control and prevention measures. The clinicians advise the council to treat existing disease cases to prevent any worsening of patient outcomes while the lab is developing an early screening for the disease for earlier intervention. You're tasked with designing another method to prevent the disease from developing at all and to minimize hazards in general.
+    
+    What level(s) of prevention have you been tasked with?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+59. [frq, 2 pt] Given the information you know about the disease, fill in the blanks:
+    
+    I would choose a (i) ____ based approach because (ii) ____.
+    
+    For (i), your options are:
+    (A) High-risk
+    (B) population
+    
+    For (ii), your options are:
+    (A) The general population is likely to follow advisories from the council.
+    (B) The affected population is a very specific group of individuals.
+    (C) The rate of disease spread is likely to increase in the future.
+    
+    **Your answer should be the one-letter code, not the full word/phrase (i.e. your answer should be A, B, or C).**
+
+[STIMULUS] Since the disease is not particularly communicable as infants rarely socialize directly with one another, which of the following prevention strategies would you prioritize (mark true)?
+
+60. [tf, 1 pt] Burning of used clothes and waste from infected infants.
+    A) True
+    B) False
+
+61. [tf, 1 pt] Understanding the behavioral relationships between families and the community.
+    A) True
+    B) False
+
+62. [tf, 1 pt] Identifying inequalities in health care between the center and perimeter of the settlement.
+    A) True
+    B) False
+
+63. [tf, 1 pt] Quarantining healthy individuals living in the affected area.
+    A) True
+    B) False
+
+64. [tf, 1 pt] Using social marketing to communicate the risks of breast-feeding in the perimeter.
+    A) True
+    B) False
+
+65. [tf, 1 pt] Confining all infected persons in designated quarantine hospitals.
+    A) True
+    B) False
+
+[STIMULUS] After implementing your chosen prioritized strategies, the task force continues to monitor the situation. You decide to evaluate the effectiveness of your control measures. The data is summarized as a graph below. P = perimeter, C = center, A = after prevention method implementation, B = before prevention method implementation. **The number of healthy, old cases, and new cases in the plot below is an exact multiple of 50. Round your answers to the nearest 0.01 (If your answer is 0.1, enter 0.10).**
+    [IMAGE: ../images/2021_birdso_c__p11_cacbd8-6d56a0a5.webp]
+
+66. [numeric, 1 pt] Calculate the incidence rate before implementing prevention measures in the perimeter (PB).
+
+67. [numeric, 1 pt] Calculate the incidence rate after implementing prevention measures in the perimeter (PA).
+
+68. [numeric, 1 pt] Calculate the prevalence of the disease before implementing your control measures in the perimeter (PB).
+
+69. [numeric, 1 pt] Calculate the prevalence of the disease before implementing your control measures in the center (CB).
+
+70. [numeric, 1 pt] If the number of deaths in the population attributed to the Mars Virus after implementing control measures is 2 in the perimeter, what is the case-to-death ratio for PA?
+
+[STIMULUS] Given your calculations, what can you conclude about the disease and prevention strategies? Assume any change in incidence/prevalence rate was due to the adopted prevention strategies. Mark true for all appropriate statements.
+
+71. [tf, 1 pt] The disease is more prevalent in the center than in the perimeter of the colony.
+    A) True
+    B) False
+
+72. [tf, 1 pt] The control methods were effective in preventing the spread and onset of the disease.
+    A) True
+    B) False
+
+73. [tf, 1 pt] The disease is incredibly deadly in the perimeter.
+    A) True
+    B) False
+
+[STIMULUS] At the conclusion of the outbreak, the councilmembers want you to answer some of their remaining questions through snail mail for future reference (a.k.a. the short answer section!) Please answer the following questions in no more than **1-3 sentences**.
+
+74. [frq, 2 pt] In the future, there is a disease that is also found to be transmitted through breast milk. This disease in addition to causing jaundice and anemia is also known to inflame the smaller intestine and cause chronic diarrhea as well as severe abdominal pain. Would you suspect this disease to be possibly caused by a variant of the Mars Virus given what you know? Explain in terms of the Bradford Hill criteria.
+
+75. [frq, 2 pt] Given what you know about the nature of the disease, would you classify administering anti-Mars Virus therapeutics as primarily a clinical approach, a public health approach, or both? Explain your reasoning.
+
+76. [frq, 2 pt] Say that in future years, the Mars Virus mutates and some mothers now become symptomatic as well. Now that virus has become a larger-scale issue for the adult population, you want to conduct an ecological study to further analyze what determines whether an adult carrier will become symptomatic. (1) Describe a possible hypothesis to test and (2) describe the corresponding ecological study.
+
+77. [frq, 1 pt] If you were to find that you validated your hypothesis during your study, yet when you take a larger sample size your hypothesis is no longer true, what may be a possible explanation (Hint: consider systematic error)?
+
+
+=== General Epidemiology
+
+Part 1: Please put down the phrase that best represents the description. Each is worth 1 point. ===
+
+78. [frq, 1 pt] Number of new cases of disease over the number of person-years.
+
+79. [frq, 1 pt] A group of viruses that are transmitted by mosquitoes, ticks, or other arthropods; causes diseases like yellow fever and dengue.
+
+80. [frq, 1 pt] Victoria is a pretty messed up doctor. She is administering the COVID-19 vaccine to her gullible patient, Josephine. However, the needle was contaminated. After 5 days, despite not being hospitalized, Josephine experienced symptoms of a fungal disease. What best describes this infection?
+
+81. [frq, 1 pt] Technique that estimates the measure of association between an exposure and an outcome while taking into account confounding. Used with a dichotomous outcome variable and risk factor.
+    
+    Note: Do not put the word "test" after the name of the technique and do not put dashes.
+
+82. [frq, 1 pt] Known for being the person to identify the causative agent of leprosy.
+
+83. [frq, 1 pt] Individuals modify an aspect of their behavior after learning that they are being observed.
+
+84. [frq, 1 pt] Actions taken to prevent disease.
+
+85. [frq, 1 pt] The extent to which results of a study can be generalized to the entire population.
+
+
+=== Part 2: Short Answer ===
+
+86. [frq, 2 pt] During his summer internship at the WHO, Jason was tasked with gathering intel and information on a recent bioterrorism incident. Which type of surveillance should he conduct and what is a disadvantage of this type?
+
+87. [frq, 4 pt] Allen, a self proclaimed Road Scholar, is excited to conduct a public health investigation using his map skills, especially with a choropleth map. List 1 advantage and disadvantage to using this type of map. Additionally, provide Allen with an alternative.
+
+88. [frq, 2 pt] What is an exception to Koch's Postulates?
+
+89. [frq, 3 pt] In detail, explain how cholera affects your intestines and leads to diarrhea.
+
+90. [frq, 4.5 pt] What are the 9 characteristics of an effective surveillance system?
+
+91. [frq, 3 pt] Give 3 pieces of information that an epicurve can provide.
+
+
+=== Part 3: Multiple Choice ===
+
+92. [mcq, 2 pt] Which one of the following is NOT a reason to use sentinel surveillance?
+    A) Highly trained hospitals exist in the area.
+    B) You want to confirm that there is an outbreak of a disease.
+    C) High quality data is required about a specific disease that cannot be obtained via passive surveillance.
+    D) You have enough money and resources, but not enough for active surveillance.
+    E) Allows you to gather trends about a disease.
+
+93. [mcq, 2 pt] What is the reason for why we need a new influenza vaccine each year?
+    A) Antigenic shift
+    B) Clonal selection
+    C) Antigenic drift
+    D) Presence of granzymes and perforins in influenza
+
+94. [mcq, 2 pt] Which of the following is NOT a proportion?
+    A) Attack rate
+    B) Death-to-case ratio
+    C) Proportionate mortality
+    D) Incidence proportion
+
+95. [mcq, 2 pt] Keshav is leading a study regarding the effects of folic acid deficiency on neural tube defects. He decided to examine cases and controls and categorized persons based on whether they had folic acid deficiency or not in the past. What type of case study is this?
+    A) Retrospective cohort study
+    B) Case control study
+    C) Prospective cohort study
+    D) Ecological study
+
+96. [mcq, 2 pt] Eric is conducting a 4 year prospective cohort study investigating COPD (Chronic Obstructive Pulmonary Disease) composed of 100 people. In the first year, there were 0 cases and 0 that were lost to follow-up. However, in the second year, 15 people were lost to follow-up and 3 were diagnosed with COPD. In the third year, 13 people were lost to follow-up and 8 people were diagnosed with COPD. In year 4, 27 people were lost to follow-up and 12 people were diagnosed with COPD. What is the incidence rate of this study?
+    A) 0.16 cases per person/year
+    B) 0.37 cases per person/year
+    C) 0.08 cases per person/year
+    D) 0.12 cases per person/year
+
+97. [mcq, 2 pt] Which one of the following incorrectly matches the outbreak with the disease?
+    A) Joan of Arc Bean Salad Scare (1977): Botulism
+    B) Jalisco Cheese (1985): Listeria
+    C) Tropical Smoothie Cafe Drink (2016): Hepatitis A
+    D) Lab Monkeys (1988): HIV

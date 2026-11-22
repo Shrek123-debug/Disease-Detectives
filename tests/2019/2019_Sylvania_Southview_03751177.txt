@@ -1,0 +1,249 @@
+Sylvania-Southview — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  51 questions, 57.0 pts
+Source: scio.ly test archive id 03751177-9629-4786-9b9c-3499629743ca  |  original files: https://drive.google.com/drive/folders/1y05URq9nAAkw2_uUsoNxq8bChr6eglyd
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 21
+
+DIRECTIONS: Please do not open test booklet until you are instructed to do so. Write all answers on Answer Sheet. All questions are worth one point unless marked otherwise.
+
+[STIMULUS] Use terms from the following list to answer questions 1-18.
+
+Epidemic or outbreak	Zoonosis	Contamination
+Vector	Fomite	Infection
+Pandemic	Cluster	Disease
+Prevalence	Determinant	Incidence
+Sporadic	Outbreak	Epidemic
+Infectivity	Sequence	Pathogenicity
+Resilience	Virulence
+
+[STIMULUS] Three terms are used to describe an infectious disease according to the various outcomes that may occur after exposure to its causative agent.
+
+1. [frq, 1 pt] ____ refers to the proportion of exposed persons who become infected.
+
+2. [frq, 1 pt] ____ refers to the proportion of infected persons who develop clinical disease.
+
+3. [frq, 1 pt] ____ refers to the proportion of persons with clinical disease who become severely ill or die.
+
+4. [frq, 1 pt] ____ an animate intermediary in the indirect transmission of an agent that carries the agent from a reservoir to a susceptible host. An organism that transmits the infection as a mosquito transmits the malaria protozoans.
+
+6. [frq, 1 pt] ____ An infectious disease that is transmissible from animals to humans.
+
+7. [frq, 1 pt] ____ when a potentially infectious agent exists in the host but has not yet invaded the tissues of the host. The microbe may be destroyed by the body defenses or it may become part of the normal flora.
+
+9. [frq, 1 pt] ____ the cumulative effects of the infection cause damage in the tissues.
+
+10. [frq, 1 pt] ____ rate of occurrence of an event; number of new cases of disease occurring over a specified period of time; may be expressed per a known population size.
+
+11. [frq, 1 pt] ____ number of cases of disease occurring within a population at any one given point in time.
+
+13. [frq, 1 pt] ____ (localized epidemic) - more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+
+14. [frq, 1 pt] ____ An epidemic occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+
+15. [frq, 1 pt] ____ -an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number. Often the expected number of cases is not known.)
+
+16. [frq, 1 pt] ____ - a disease that occurs infrequently and irregularly
+
+17. [frq, 1 pt] ____ -factor that contributes to the generation of a trait.
+
+18. [frq, 1 pt] ____ -occurrence in a community or region of cases of an illness, specific health related behavior, or other health-related event clearly in excess of normal expectancy.
+
+[STIMULUS] Types of Prevention Strategies (21-24)
+·Level of Prevention. Match the title of each type of prevention strategy with the description.
+
+Tertiary
+Primary
+Secondary
+Primordial
+
+21. [frq, 1 pt] ____ - Measures designed to avoid the development of risk factors in the first place; early in life – example- many adult health problems (e.g. obesity, hypertension) develop in childhood because this is when lifestyles are formed so developing healthy lifestyles is essential.
+
+22. [frq, 1 pt] ____ -Promote general health and avoid risk factors for disease – examples include immunization against disease, maintaining a healthy diet and exercise regimen as well as utilizing protective measures to prevent susceptibility and presymptomatic disease
+
+23. [frq, 1 pt] ____ - Early detection and timely treatment – examples include treatment of hypertension to avoid cardiovascular diseases and cancer screening
+
+24. [frq, 1 pt] ____ - Rehabilitation and prevention of further disease or disability – examples include surgical procedures that halt the spread or progression of disease
+
+[STIMULUS] 14 MMWR March 17, 2000
+
+TABLE 4. Number of reported foodborne-disease outbreaks, cases, and deaths, by etiology — United States,* 1995
+    | Etiology | Outbreaks No. (%) | Cases No. (%) | Deaths No. (%) |
+    | **Bacterial** |  |  |  |
+    | Bacillus cereus | 2 ( 0.3) | 24 ( 0.1) | 0 ( 0.0) |
+    | Campylobacter | 6 ( 1.0) | 127 ( 0.7) | 0 ( 0.0) |
+    | Clostridium botulinum | 2 ( 0.3) | 6 ( 0.0) | 0 ( 0.0) |
+    | Clostridium perfringens | 14 ( 2.2) | 455 ( 2.6) | 0 ( 0.0) |
+    | Escherichia coli | 25 ( 4.0) | 393 ( 2.2) | 1 ( 9.1) |
+    | Salmonella | 90 ( 14.3) | 8,449 ( 47.5) | 9 ( 81.8) |
+    | Shigella | 7 ( 1.1) | 259 ( 1.5) | 0 ( 0.0) |
+    | Staphylococcus aureus | 6 ( 1.0) | 66 ( 0.4) | 0 ( 0.0) |
+    | Yersinia enterocolitica | 1 ( 0.2) | 17 ( 0.1) | 1 ( 9.1) |
+    | Other bacterial | 2 ( 0.3) | 221 ( 1.2) | 0 ( 0.0) |
+    | **Total bacterial** | 155 ( 24.7) | 10,017 ( 56.3) | 11 (100.0) |
+    | **Chemical** |  |  |  |
+    | Ciguatoxin | 10 ( 1.6) | 27 ( 0.2) | 0 ( 0.0) |
+    | Heavy metals | 1 ( 0.2) | 3 ( 0.0) | 0 ( 0.0) |
+    | Scombrotoxin | 16 ( 2.5) | 91 ( 0.5) | 0 ( 0.0) |
+    | Other chemical | 2 ( 0.3) | 12 ( 0.1) | 0 ( 0.0) |
+    | **Total chemical** | 29 ( 4.6) | 133 ( 0.7) | 0 ( 0.0) |
+    | **Parasitic** |  |  |  |
+    | Trichinella spiralis | 1 ( 0.2) | 9 ( 0.1) | 0 ( 0.0) |
+    | **Viral** |  |  |  |
+    | Hepatitis A | 4 ( 0.6) | 38 ( 0.2) | 0 ( 0.0) |
+    | Norwalk | 4 ( 0.6) | 433 ( 2.4) | 0 ( 0.0) |
+    | Other viral | 1 ( 0.2) | 41 ( 0.2) | 0 ( 0.0) |
+    | **Total viral** | 9 ( 1.4) | 512 ( 2.9) | 0 ( 0.0) |
+    | **Confirmed etiology** | 194 ( 30.9) | 10,671 ( 59.9) | 11 (100.0) |
+    | **Unknown etiology** | 434 ( 69.1) | 7,129 ( 40.1) | 0 ( 0.0) |
+    | **Total 1995** | 628 (100.0) | 17,800 (100.0) | 11 (100.0) |
+    | *Includes Guam, Puerto Rico, and the U.S. Virgin Islands. |  |  |  |
+    | †Totals might vary by <1% from summed components because of rounding. |  |  |  |
+
+31. [frq, 1 pt] Which had the second highest Fatality Rate?
+
+[STIMULUS] 34-38. Investigators of an outbreak of trichinosis used a case definition with the following categories:
+
+Clinical Criteria
+Confirmed case: Signs and symptoms plus laboratory confirmation
+Probable case: Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+Possible case: Acute onset of two of the four features plus a physician diagnosis of trichinosis
+Suspect case: Unexplained eosinophilia
+Not a case: Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+Time: Onset after October 1, 2006
+Place: Metropolitan Atlanta
+Person: Any
+
+Using this case definition, assign the appropriate classification to each of the persons included in the line listing below. Use the highest rate classification possible. (All were residents of Atlanta with acute onset of symptoms in November.)
+    | ID# | Last Name | Myalgias | Fever | Facial Edema | Eosinophil Count | Physician Diagnosis | Laboratory Confirmation | Classification |
+    | 1 | Anderson | yes | yes | no | 495 | trichinosis | yes | [[q:34]] |
+    | 2 | Buffington | yes | yes | yes | pending | possible trichinosis | pending | [[q:35]] |
+    | 3 | Callahan | yes | yes | no | 1,100 | possible trichinosis | pending | [[q:36]] |
+    | 4 | Doll | yes | yes | no | 2,050 | EMS* | pending | [[q:37]] |
+    | 5 | Enlich | no | yes | no | 600 | trichinosis | not done | [[q:38]] |
+
+34. [frq, 1 pt] Row: Anderson — Classification
+
+35. [frq, 1 pt] Row: Buffington — Classification
+
+36. [frq, 1 pt] Row: Callahan — Classification
+
+37. [frq, 1 pt] Row: Doll — Classification
+
+38. [frq, 1 pt] Row: Enlich — Classification
+
+[STIMULUS] 39-42 Which of the following terms best matches the definitions below:
+(A) Prevalence
+(B) Incidence
+(D) Risk Ratio
+(E) Risk Difference
+(F) Attributable Fraction
+
+39. [mcq, 1 pt] ____ This statistic describes the excess in risk associated with an exposure in relative terms. When it is 1, there is no additional risk associated with the exposure.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+40. [mcq, 1 pt] ____ This statistic describes the probability that someone selected at random from the population will have the disease in question.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+41. [mcq, 1 pt] ____ This statistic describes the excess in risk in absolute terms. It shows the additional number of cases expected per m exposures.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+42. [mcq, 1 pt] ____ This statistic is used to estimate the risk of acquiring a disease. It may be measured as a rate or a proportion.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+43. [numeric, 1 pt] A study starts with 5,000 people. Of these, 125 have the disease in question. What is the prevalence of disease per 1000 people?
+
+45. [frq, 1 pt] A study assesses the association between talking on a cellular phone while driving and traffic accidents. It finds that people with cellular phones have accidents at a rate of 11.1 per 10,000 miles traveled. People who do not have cellular phones have accidents at the rate of 8.6 per 10,000 miles. Calculate the rate difference associated with cellular phone use.
+
+[STIMULUS] Name the bias that may arise from the situations described below:
+
+46. [frq, 1 pt] A case is more motivated to participate than a control, and thus more likely to report past exposures accurately.
+
+47. [frq, 1 pt] An interviewer learns to distinguish cases from controls, and subsequently differs slightly between them in how she asks her questions.
+
+
+=== Calculating Measures of Association ===
+
+48. [frq, 1 pt] The ____ is the measure of association for a cohort study. It tells us how much more likely (or less likely) it is for people exposed to a factor to develop a disease compared to people not exposed to the factor.
+
+49. [frq, 1 pt] The ____ is the measure of association for a case-control study. It tells us how much higher the odds of exposure is among cases of a disease compared with controls.
+
+[STIMULUS] A study was conducted to examine risk factors for spontaneous pneumothorax (collapsed lung), including use of car air fresheners. 430 emergency room cases were identified from Florida hospitals in 2005, and 1204 controls were sampled from the patients admitted to the emergency room for broken bones or lacerations. It was found that 110 of the cases and 214 of the controls used a car air freshener regularly. The remaining cases and controls did not use air fresheners in their car.
+
+51. [frq, 1 pt] Calculate the odds of being a case among the unexposed
+
+52. [frq, 1 pt] Calculate the odds ratio for disease given exposure to regular car air freshener use compared to no air freshener use.
+
+53. [frq, 1 pt] What does the odds ratio indicate?
+
+54. [mcq, 1 pt] When is it NOT appropriate to use the odds ratio to approximate the relative risk?
+    A) When the controls' exposure history is representative of all subjects without disease
+    B) When the case selection is representative of all subjects with disease (e.g. unbiased incident cases)
+    C) When the study disease occurs frequently
+    D) When the study outcome is rare
+
+[STIMULUS] A study of gym members was undertaken to see if machine-users were more prone to injury than free-weight users. Assume for this study that you can only be injured in the gym once in your lifetime. 1500 gym patrons across the county were polled beginning January 1, 2003. On June 5, 2003, it was discovered that 75 of those gym patrons currently had gym-related injuries. After June 5, the remaining injury-free patrons were enrolled in a cohort study, classified as machine-users (n=1000) and free-weight users (n=425), and followed for 3 years. 85 machine-users and 15 free-weight users became injured in the 3 years. All follow-up stopped on exactly June 5, 2006. Assuming complete ascertainment and no drop-outs:
+
+55. [frq, 1 pt] Calculate the point prevalence of injury on June 5, 2003.
+
+56. [frq, 1 pt] Calculate the incidence of injury among the exposed and unexposed over a 3 year period.
+
+57. [frq, 1 pt] Calculate the relative risk of injury among machine users compared to free-weight users.
+
+[STIMULUS] Use the chart on the next page to answer 58-62.
+    [IMAGE: ../images/2019_sylvania_southview_c__p10_v378e9a-198683c7.webp]
+
+62. [frq, 1 pt] What % of the male deaths in 2001 were due to heart disease?
+
+63. [mcq, 1 pt] In epidemiology, the measure of central location generally preferred for summarizing skewed data such as incubation periods is the:
+    A) Mean
+    B) Median
+    C) Midrange
+    D) Mode
+
+64. [mcq, 1 pt] The interquartile range covers what proportion of a distribution?
+    A) 25%
+    B) 50%
+    C) 75%
+    D) 100%
+
+65. [mcq, 1 pt] The algebraic relationship between the variance and the standard deviation is that:
+    A) The standard deviation is the square root of the variance.
+    B) The variance is the square root of the standard deviation
+    C) The standard deviation is the variance divided by the square root of n.
+    D) The variance is the standard deviation divided by the square root of n.
+
+66. [mcq, 1 pt] The primary use of the standard error of the mean is in calculating the:
+    A) Confidence interval
+    B) Error rate
+    C) Standard deviation
+    D) Variance
+
+[STIMULUS] For 67-71, use the following information.
+A suspected outbreak of E. coli occurred on a college campus. On September 1st, 15 people were sick. On each of the following days, 3 more people were sick until September 5th. (i.e. 18 on the second day, 21 the third day, 24 the fourth day and 27 the fifth day.
+
+67. [numeric, 1 pt] Calculate the average number of people who got sick per day.
+
+69. [numeric, 4 pt] Calculate the standard deviation.
+
+71. [frq, 3 pt] Write the Z scores for the 90%, 95%, and 99% Confidence Interval
+
+72. [multi, 2 pt] Given the area under a normal curve, which two of the following ranges are the same?
+    A) From the 2.5th percentile to the 97.5th percentile.
+    B) From the 5th percentile to the 95th percentile.
+    C) From the 25th percentile to the 75th percentile.
+    D) From 1 standard deviation below the mean to 1 standard deviation above the mean.
+    E) From 1.96 standard deviations below the mean to 1.96 standard deviations above the mean.

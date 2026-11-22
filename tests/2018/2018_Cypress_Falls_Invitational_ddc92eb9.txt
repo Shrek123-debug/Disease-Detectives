@@ -1,0 +1,231 @@
+Cypress Falls Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  49 questions, 82.0 pts
+Source: scio.ly test archive id ddc92eb9-8843-4eae-8d08-e8f3f93e195a  |  original files: https://drive.google.com/drive/folders/1W_Tcjn-LttQ246C2tPeweBwkCcHhhNKZ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== Incident #1 used to answer questions 1 – 6 ===
+
+[STIMULUS] At least 70 people attending a national conference in a city in Texas became ill with what appeared to be food poisoning. Three hospitals in the area treated and released 48 attendees who complained of nausea and vomiting; others with similar symptoms were hospitalized overnight. A health official noted that all of the patients had eaten brunch or lunch at the same hotel.
+
+The hotel's lunch menu included roast chicken, roast beef and a vegetable pasta dish. Because some of the people who became ill were vegetarian, there was particular interest in determining whether the pasta dish might be contaminated. At the time of the report, health officials were still looking for the source of the outbreak. The hotel was cooperating in the investigation and had voluntarily halted food service for the time being.
+
+1. [frq, 4 pt] Explain why you might consider this problem important enough to investigate.
+
+2. [frq, 4 pt] Give at least 3 reasons for investigating.
+
+3. [frq, 4 pt] Briefly describe the initial steps that you would take in investigating this problem.
+
+4. [frq, 4 pt] Indicate the type of data needed to accomplish each step and give examples of sources of such data in a community.
+
+5. [frq, 4 pt] Develop a probable hypothesis to explain the cause, source, and spread of the outbreak.
+
+6. [frq, 4 pt] Develop suitable recommendations and interventions for controlling the problem.
+
+
+=== Incident #2 used to answer questions 7 – 13 ===
+
+[STIMULUS] A physician in Texas suspects one of his patients has botulism, a potentially fatal and notifiable illness. The physician reports the suspect case to the Texas Department of State Health Services who in turn notify the United States Centers for Disease Control and Prevention (CDC). As the CDC epidemiologist assigned to the case, it is your responsibility to determine the source of illness and to suggest means to prevent others from becoming ill. This involves interviewing the patient, determining potential exposure sources, determining what should be tested, interpreting laboratory results, helping to determine necessary actions to prevent others from becoming ill, and helping to determine actions necessary to prevent future occurrences.
+
+7. [frq, 3 pt] The physician suspects the patient is suffering from botulism, an intoxication associated with certain foods. What symptom(s) distinguishes botulism from other microbiological foodborne illnesses?
+
+8. [frq, 1 pt] Tests of the patient's stool sample confirm the presence of Clostridium botulinum spores, and botulinum toxin is detected in serum samples. A search of networked CDC databases for reportable illnesses yields no other cases in the same time frame to-date. Does this Texas case constitute an outbreak?
+
+10. [frq, 3 pt] You collect samples of the suspect food(s) and/or container(s) from the Texas victim's home and send them to the laboratory for testing. In the meantime, two cases of botulism are reported in Ohio. The victims are siblings, ages 4 and 5. They are responsive and their parents are available for interview. What specific question(s) might you ask in light of the case in Texas?
+
+[STIMULUS] There are no remaining food samples to test in the Ohio cases; and, as in the Texas case, rinse samples of empty containers yield negative results for C. botulinum and its toxin. However, containers from the suspect food are also coded to identify the facility where the product was manufactured. A comparison of containers reveals a common production facility for the suspect food despite different brand labels. The facility is visited by inspectors from government agencies. Review of operational quality assurance, production, and distribution records ensues.
+
+a. Time and temperature cook profiles for the production lot codes on the cans recovered from the victims' homes
+b. Maintenance, repair, and calibration records for the cooker equipment (a.k.a. retorts)
+c. Distribution records for the product made under the production lot codes on the cans recovered from the victims' homes
+
+Why do the inspectors review the above three records?
+    | Label | Answer |
+    | a Time and temperature cook profiles for the production lot codes on the cans recovered from the victims' homes | [[q:12-a]] |
+    | b Maintenance, repair, and calibration records for the cooker equipment (a.k.a. retorts) | [[q:12-b]] |
+    | c Distribution records for the product made under the production lot codes on the cans recovered from the victims' homes | [[q:12-c]] |
+
+12-a. [frq, 1 pt] Label a Time and temperature cook profiles for the production lot codes on the cans recovered from the victims' homes
+
+12-b. [frq, 1 pt] Label b Maintenance, repair, and calibration records for the cooker equipment (a.k.a. retorts)
+
+12-c. [frq, 1 pt] Label c Distribution records for the product made under the production lot codes on the cans recovered from the victims' homes
+
+13. [frq, 3 pt] A comprehensive review reveals critical problems on one production line with new equipment installed 5 days prior to the production date of the product consumed by the victims. The production lines are running right now. What actions do you think should be taken?
+
+
+=== Part #3 used for questions 14 - 17 ===
+
+[STIMULUS] Outbreaks of foodborne illness may involve either infectious or toxic agents. They may be as local as a family meal or as large as a multistate outbreak involving thousands of individuals. The one thing they all have in common is that people get sick from eating contaminated food.
+
+14. [frq, 2 pt] Epidemiologists divide transmission patterns into direct and ____
+
+15. [frq, 2 pt] The latter transmission pattern from question 14 includes airborne, vehicleborne, and ____ infections.
+
+16. [frq, 2 pt] Which of the three categories in question 15 includes foodborne illness?
+
+17. [frq, 2 pt] Which of the major groups of pathogens (domain or kingdom level) does not multiply in contaminated food items?
+
+
+=== Part #4 used for questions 18 – 20 ===
+
+[STIMULUS] A junior employee at a large Midwestern health department noticed an increase in the number of cases of *Salmonella typhimurium* and called this to the attention of his supervisor. *S. typhimurium* is just one of over 2,000 named serotypes of *Salmonella*. Although it is not particularly rare, several other serotypes are much more common than *S. typhimurium*.
+
+18. [frq, 1 pt] What type of pathogen is *Salmonella typhimurium*?
+
+19. [frq, 1 pt] What term do epidemiologists use for this systematic collection, analysis, and interpretation of health data on an ongoing basis?
+
+20. [mcq, 1 pt] What would be the next step in the investigation?
+    A) Contact all the *S. typhimurium* cases reported over the last month and ask them what they ate in the last week.
+    B) Make a spot map of all the *S. typhimurium* cases reported over the last month and identify restaurants within a 5 block radius of their homes.
+    C) Contact other health departments in the area and ask if they had seen a similar increase in numbers of cases.
+    D) Determine the numbers of *S. typhimurium* cases reported during the same period of previous year and compare that with the number of cases reported this year.
+    E) Look for another job, because things are about to get rough.
+
+
+=== Part #5 used for questions 21 – 25 ===
+
+21. [numeric, 2 pt] Calculate the odds ratio for exposure to cooked roast beef. Round to only one decimal place. ____
+    
+    | | Salmonellosis | No salmonellosis |
+    |---|---|---|
+    | Ate beef | 15 | 16 |
+    | Did not eat beef | 20 | 18 |
+
+22. [numeric, 2 pt] Calculate the odds ratio for exposure to milk. Round to only one decimal place. ____
+    
+    | | Salmonellosis | No salmonellosis |
+    |---|---|---|
+    | Drank milk | 26 | 13 |
+    | Did not drink milk | 9 | 21 |
+
+23. [numeric, 2 pt] Calculate the odds ratio for exposure to fresh strawberries. Round to only one decimal place. ____
+    
+    | | Salmonellosis | No salmonellosis |
+    |---|---|---|
+    | Ate strawberries | 21 | 17 |
+    | Did not eat strawberries | 14 | 17 |
+
+24. [frq, 2 pt] The odds ratio for 3 other food items are listed below
+    
+    chicken and dumplings 1.1
+    macaroni and cheese 1.3
+    fresh broccoli 1.8
+    
+    Which of the six food items (from #21 - #24) is most likely the source of the outbreak?
+
+25. [frq, 2 pt] Interpret the odds ratio for the food item that is most likely the source of the outbreak?
+
+
+=== Part #6 used for questions 26 – 50 — Multiple Choice ===
+
+27. [mcq, 1 pt] Why is it important to identify as many cases associated with an outbreak as possible?
+    A) Determine true magnitude of outbreak
+    B) Characterize outbreak accurately
+    C) Increase the ability of epidemiologic studies to link illness with true cause of outbreak
+    D) All of the above
+
+28. [mcq, 1 pt] A case definition might include all of the following EXCEPT:
+    A) Symptoms of the illness
+    B) Laboratory test results
+    C) Food that is the suspected source of the outbreak
+    D) Date of illness onset
+
+29. [mcq, 1 pt] Which of the following characteristics would make an outbreak the highest priority for further investigation?
+    A) It has been 3 months since onset of illness for the last case.
+    B) Affected persons are staff who attended an office potluck.
+    C) Listeria is the causative agent.
+    D) A total of 8 cases of campylobacteriosis were identified after searching for additional cases.
+
+30. [mcq, 1 pt] To prepare for an environmental health assessment, the investigator might consult which of the following?
+    A) Team epidemiologist
+    B) Laboratory staff
+    C) Regulatory inspector for facility
+    D) All of the above
+
+31. [mcq, 1 pt] Which of the following causative agents tend to have the longest incubation period?
+    A) Preformed toxins
+    B) Viruses
+    C) Bacteria
+    D) Parasites
+
+32. [mcq, 1 pt] Which of the following would be reasonable to include on a local agency's list of stakeholders to be contacted in the event of a foodborne outbreak?
+    A) Public health laboratory
+    B) Key health-care providers in the community
+    C) Primary media contacts
+    D) All of the above
+
+33. [mcq, 1 pt] Which of the following would be reasonable to include in the final report from a foodborne outbreak investigation?
+    A) Notes from interviews with food workers at implicated establishment
+    B) Individual laboratory reports
+    C) Summary of findings from case-control or cohort studies
+    D) Names of patients
+
+34. [mcq, 1 pt] What is the measure of association for a case-control study?
+    A) Odds ratio
+    B) Relative risk
+    C) p-value
+    D) Confidence interval
+
+35. [tf, 1 pt] Some foodborne pathogens can also be spread by water, from person-to-person, and from animal-to-person.
+    A) True
+    B) False
+
+36. [tf, 1 pt] Development of a hypothesis early in an outbreak helps direct subsequent steps of an outbreak investigation and should involve all investigation team members.
+    A) True
+    B) False
+
+37. [tf, 1 pt] A case series includes a comparison group.
+    A) True
+    B) False
+
+38. [tf, 1 pt] Only epidemiologists should interpret results from epidemiologic studies.
+    A) True
+    B) False
+
+39. [tf, 1 pt] If the causative agent in a foodborne outbreak is a common foodborne disease, the outbreak is unlikely to be intentional.
+    A) True
+    B) False
+
+40. [tf, 1 pt] The food safety danger zone is between 40 degrees F and 140 degrees F.
+    A) True
+    B) False
+
+41. [tf, 1 pt] If a hamburger is no longer pink in the middle it is safe to eat.
+    A) True
+    B) False
+
+42. [tf, 1 pt] Turkey burgers and hamburgers should be cooked to the same internal temperature.
+    A) True
+    B) False
+
+43. [tf, 1 pt] Muscle cuts like steak or roasts can be eaten rare or medium rare.
+    A) True
+    B) False
+
+44. [tf, 1 pt] Pregnant women and others with compromised immune systems should reheat lunch meats before consuming them.
+    A) True
+    B) False
+
+45. [tf, 1 pt] When grilling, it is acceptable to use the plate that held raw meat to serve cooked meat.
+    A) True
+    B) False
+
+46. [tf, 1 pt] Use separate cutting boards for produce and meat/poultry products.
+    A) True
+    B) False
+
+47. [tf, 1 pt] Nitrite in cured meats is added for color, flavor, and food safety.
+    A) True
+    B) False
+
+48. [tf, 1 pt] People consume more nitrite from vegetables and saliva than from cured meats.
+    A) True
+    B) False
+
+49. [tf, 1 pt] Freezing food kills bacteria.
+    A) True
+    B) False
+
+50. [tf, 1 pt] The prevalence of pathogenic bacteria *E. coli* O157:H7 on ground beef products has increased in the last decade.
+    A) True
+    B) False

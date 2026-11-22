@@ -1,0 +1,252 @@
+Princeton Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  46 questions, 127.0 pts
+Source: scio.ly test archive id fe571a20-271b-483a-afcd-6ec84340d8cf  |  original files: https://www.dropbox.com/sh/scdwpr6qs11um6z/AAA7M7tPPQY46Nzr9G2Baep1a?dl=0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 30
+
+DIRECTIONS: This exam comprises multiple-select, fill-in-the-blank, calculation, and short answer questions. Partial credit will be granted for any question worth more than one point. Try your best on every question! It is not expected that you will answer every question correctly or even finish every question; each team should play on the strengths of its members and split up the test. Note: It is NOT recommended to split up the case studies as they ask questions that build on previous information in the question. Points values are denoted next to each question and part number.
+
+
+=== Part 1 - Background and Surveillance ===
+
+[STIMULUS] Match the following terms to their definitions. Some terms may not be used.
+
+Host | Etiologic | Determinant | Pathogenicity | Virulence | Infectivity | Sensitivity
+Index Case | Isolation | Quarantine | Iatrogenic | Specificity | Point Prevalence
+Zoonotic | Contagious | Agent
+
+1D. [mcq, 1 pt] A person or organism that can be infected by an agent
+    A) Host
+    B) Etiologic
+    C) Determinant
+    D) Pathogenicity
+    E) Virulence
+    F) Infectivity
+    G) Sensitivity
+    H) Index Case
+    I) Isolation
+    J) Quarantine
+    K) Iatrogenic
+    L) Specificity
+    M) Point Prevalence
+    N) Zoonotic
+    O) Contagious
+    P) Agent
+
+2. [frq, 6 pt] Pick three people from the following list and describe their contributions to epidemiology.
+    
+    Louis Pasteur | John Snow | Edgar Sydenstricker | Lemuel Shattuck | James Lind | Edward Jenner
+
+3. [frq, 4 pt] What is the difference between a vector and a fomite? Give one example of each
+
+4. [frq, 9 pt] List 3 modes of transmission and give an example for each, clearly outlining the agent and method of transmission
+
+[STIMULUS] Pick the term that best describes each of the following scenarios.
+
+Holoendemic | Hyperendemic | Outbreak | Pandemic | Epidemic | Cluster | Sporadic
+
+5a. [mcq, 1 pt] COVID-19 affected a majority of countries, infecting over 660 million people around the globe.
+    A) Holoendemic
+    B) Hyperendemic
+    C) Outbreak
+    D) Pandemic
+    E) Epidemic
+    F) Cluster
+    G) Sporadic
+
+5b. [mcq, 1 pt] There were 24 cases of Princeton Plague at Princeton between November 23 and November 26. ____
+    A) Holoendemic
+    B) Hyperendemic
+    C) Outbreak
+    D) Pandemic
+    E) Epidemic
+    F) Cluster
+    G) Sporadic
+
+5c. [mcq, 1 pt] In a certain community in Senegal, a majority of children are infected with malaria and develop some form of adaptive immunity.
+    A) Holoendemic
+    B) Hyperendemic
+    C) Outbreak
+    D) Pandemic
+    E) Epidemic
+    F) Cluster
+    G) Sporadic
+
+5d. [mcq, 1 pt] In 2017, a total of 33 tetanus cases were reported across the US, with no clear pattern.
+    A) Holoendemic
+    B) Hyperendemic
+    C) Outbreak
+    D) Pandemic
+    E) Epidemic
+    F) Cluster
+    G) Sporadic
+
+6. [frq, 10 pt] Create an accurate chain of infection for COVID-19, making sure to list each step in the chain.
+
+[STIMULUS] Identify which stage of the Natural History of Disease fits best for each scenario.
+
+7a. [frq, 1 pt] After 8 days of suffering from the flu, Joyce finally began to feel better.
+
+7b. [frq, 1 pt] Kyle hugs Joyce while she is sick.
+
+7c. [frq, 1 pt] Kyle is diagnosed with influenza days later.
+
+[STIMULUS] Questions 8 through 10 are about the 5 Steps of Surveillance.
+
+8. [multi, 2 pt] What information would a health official typically collect during surveillance?
+    A) Vital records
+    B) Disease history
+    C) Social Security number
+    D) Location
+
+9. [mcq, 2 pt] Who is the target audience for an epidemiological journal article about new methods of disease treatment?
+    A) Healthcare providers
+    B) Health policy makers
+    C) The general public
+    D) Community leaders
+
+10. [mcq, 2 pt] What three things are key to data interpretation?
+    A) Agent host environment
+    B) Disease risk occurrence
+    C) Transmission symptoms treatment
+    D) Person place time
+
+11. [frq, 3 pt] What was the original reason for the development of syndromic surveillance?
+
+12. [frq, 2 pt] List 2 limitations of Koch's Postulates.
+
+
+=== Part 2A: Case Study 1 - Mysterious Outbreak Among Children ===
+
+[STIMULUS] You are shadowing a primary care practitioner, at the world renowned (imaginary) Princeton University Medical Institute in December 2022. During your first few days there, from December 2 through December 4, 8 patients between the ages of one and two have been seen for varying symptoms including cough, fever, sneezing, wheezing, and runny nose. The practitioner suspects that some or all of these patients may have RSV.
+
+13. [frq, 3 pt] What data would you need to confirm that this is indeed an outbreak?
+
+14. [frq, 5 pt] Create a case definition for this outbreak.
+
+15. [frq, 2 pt] Why is it important to track and halt this outbreak specifically?
+
+[STIMULUS] With a little more research, you identify more cases at other medical centers nearby between November 28th and December 4th. Here is a figure that depicts the number of cases per day in this time period.
+    [IMAGE: ../images/2023_princeton_invitational_c__p10_821f33-81d985c1.webp]
+
+20. [frq, 1 pt] What step of the outbreak investigation is this?
+
+21. [frq, 4 pt] What is this figure called, and what specific type is it? What does this tell you about the spread of RSV?
+
+22. [frq, 2 pt] Define incubation period, and estimate the incubation period for RSV based on the graph.
+
+23. [frq, 4 pt] Based on everything you know so far, what would you recommend as the best course of action to prevent spread of RSV? In your answer identify the mode of transmission and 2 preventative methods.
+
+24. [frq, 2 pt] What does the NREVSS stand for and what is its purpose?
+
+
+=== Part 2B: More than Tacos? ===
+
+[STIMULUS] Tacoria is a popular Mexican-American restaurant on Nassau Street in Downtown Princeton. They feature a tasty array of tacos, burritos, salads, nachos, and more — an affordable and satisfying option for hungry college students. In November of 2022, however, 607 students were diagnosed with an E. coli infection, and the Mercer County Division of Public Health is conducting an investigation to determine if Tacoria is the source of infection. 437 infected individuals dined at Tacoria and 170 did not. In addition to the 607 people diagnosed, 876 disease-free people were contacted to see if they dined at Tacoria. 365 people ate at Tacoria and 511 did not.
+
+25. [frq, 1 pt] With the information provided, what type of study would an epidemiologist perform?
+
+26. [frq, 2 pt] What is the primary fallback/obstacle in performing the type of study listed in question 25?
+
+28. [frq, 1 pt] Based on the data in the passage, what method would you use to calculate risk for this scenario?
+
+29. [frq, 4 pt] Calculate the risk of the E. coli using the method that you answered in the previous question. Show all work and round your answer to the nearest decimal place.
+
+30. [frq, 2 pt] What does this risk tell us? Is Tacoria the likely source of the E. coli?
+
+[STIMULUS] To keep up with the large number of E. coli presenting patients, Princeton University Health services performed MicroSnap ® Rapid Diagnostic Tests (RDTs) in order to quickly determine the expansion of the infection to the University population. Analogous to data presented in the initial paragraph, the University ordered 1483 RDTs, and 607 were laboratory positive tests of E. coli. The University was concerned about false negatives so they decided to determine the RDT validity against the standard test which was used to diagnose malaria. Results were as follows:
+
+Table 3: Results of RDT Validity against standard malaria test
+
+| | Standard Test Positive | Standard Test Negative |
+|---|---|---|
+| RDT Positive | 569 | 79 |
+| RDT Negative | 38 | 797 |
+
+31. [frq, 2 pt] Calculate RDT sensitivity. Show all work and answer in a percentage or a decimal number rounded to two decimal places.
+
+32. [frq, 2 pt] Calculate RDT specificity. Show all work and answer in a percentage or a decimal number rounded to two decimal places.
+
+
+=== Part 3: Patterns, Controls, and Prevention ===
+
+[STIMULUS] Questions 33 to 36 are based off of the data in the graph below from Boston University's School of Public Health
+    [IMAGE: ../images/2023_princeton_invitational_c__p14_0ab559-77544bff.webp]
+
+33. [frq, 2 pt] If the incubation period of Cholera is between two (2) hours and 120 hours, what are two possible dates that the first infected individual could have been exposed?
+
+34. [frq, 2 pt] What is a possible date for the index case? The peak?
+
+35. [frq, 1 pt] What name do epidemiologists call the above graph?
+
+[STIMULUS] Based on your answer in question 35, briefly explain how the graph:
+
+36a. [frq, 2 pt] Provides clues about the pattern of disease spread.
+
+36b. [frq, 2 pt] Identifies Outliers
+
+36c. [frq, 2 pt] Deduces a probable time of exposure
+
+[STIMULUS] Questions 37 to 41 are adapted from the CDC's November 21, 2012 final update regarding a multistate listeriosis outbreak. For all questions, show all work and answer in a percentage or decimal number rounded to two (2) decimal places
+
+Shortly following a 2012 national outbreak, the CDC heightened Listeriosis surveillance. They grew very concerned about a cluster of cases in Massachusetts that occurred among individuals who attended a wine and cheese event at a local hotel on December 4, 2012. A total of 12 individuals met the city health department's case definition for this particular Listeria monocytogenes outbreak out of the 37 people who attended the food event. A total of 20 people sampled the ricotta salata, ten (10) of whom became ill. Among those who did not eat the ricotta salata, two (2) became ill. A total of 22 people tried mozzarella at the event, and eight (8) became ill. Of those who did not sample mozzarella, four (4) individuals became ill. In addition, 28 individuals reported eating brie, with ten (10) becoming ill. Of those who did not consume brie, two (2) became ill.
+
+37. [frq, 2 pt] Calculate and interpret the primary attack rate.
+
+38. [frq, 6 pt] Calculate and interpret the food-specific attack rates for those who ate each of the implicated cheese items.
+
+39. [frq, 6 pt] Calculate and interpret the food-specific attack rates for those who did not eat each of the implicated cheese items.
+
+40. [frq, 9 pt] Calculate the food-specific attack rate ratios and interpret your findings. Given these ratios, what cheese item appears to be the cause of this Listeria outbreak? Why?
+
+41. [frq, 3 pt] Given your conclusions regarding the source of the outbreak, what suggestions would you make for controlling the outbreak and/or preventing future outbreaks of Listeria monocytogenes?
+
+[STIMULUS] In reference to the following hypothetical data on an outbreak of measles at a local preschool, calculate and interpret the epidemiologic measures listed below.
+
+**Assume that:**
+A. Children were followed for 4 months, starting on January 1st, 2022.
+B. Each episode of infection lasts 7 days (on average) and confers lifelong immunity (a person is no longer at risk of new measles infection after the initial episode)
+C. Infections begin at 12:01 A.M. of the date shown
+D. There are no deaths from measles or other causes, and no loss to follow-up
+E. January has 31 days, February has 28 days, March has 31 days, and April has 30 days
+
+Table 5: Preschool children and the onset of their affliction with measles
+
+| Child | Dates of onset of measles episode |
+|---|---|
+| 1 | None |
+| 2 | February 1 |
+| 3 | None |
+| 4 | April 28 |
+| 5 | None |
+| 6 | January 3 |
+| 7 | January 14 |
+| 8 | None |
+| 9 | March 4 |
+| 10 | April 19 |
+| 11 | None |
+| 12 | February 24 |
+| 13 | None |
+| 14 | None |
+| 15 | None |
+
+44. [frq, 3 pt] Calculate and interpret the point prevalence for measles on February 1, 2022.
+
+[STIMULUS] Think back to the types of prevention strategies: Primordial Prevention, Primary Prevention, Secondary Prevention, and Tertiary Prevention.
+
+For each of the following situations, identify the type of prevention strategy with which it is most consistent.
+
+Primordial Prevention
+Primary Prevention
+Secondary Prevention
+Tertiary Prevention
+
+48a. [mcq, 1 pt] ____ Mathias has advanced type-2 diabetes mellitus and focuses on control of blood sugar, excellent skin care, frequent examination of his feet, and frequent exercise to prevent heart and blood vessel disease
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+
+48d. [mcq, 1 pt] ____Ashanti gets an annual mammogram to detect breast cancer
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention

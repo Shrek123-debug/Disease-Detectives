@@ -1,0 +1,224 @@
+Arcadia HS Tryouts — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  61 questions, 83.0 pts
+Source: scio.ly test archive id dd3fbf01-d71c-46b0-9e5d-f4b7f5b4a3d4
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Round to the nearest hundredth unless otherwise stated.
+
+Partial credit allowed with free-response questions.
+
+
+=== Section 1: Background and Surveillance (33) ===
+
+[STIMULUS] Identify whether each of the following falls under the clinical or public health approach.
+    |  |  |
+    | Emphasizes prevention and health promotion. | [[q:1a]] |
+    | Primarily focuses on the individual. | [[q:1b]] |
+    | Occurs between bedside and laboratory. | [[q:1c]] |
+    | Interventions aimed at environment and behavior. | [[q:1d]] |
+    | Personal service ethic. | [[q:1e]] |
+
+1a. [mcq, 1 pt] Emphasizes prevention and health promotion.
+    A) Clinical
+    B) Public health
+
+1b. [mcq, 1 pt] Primarily focuses on the individual.
+    A) Clinical
+    B) Public health
+
+1c. [mcq, 1 pt] Occurs between bedside and laboratory.
+    A) Clinical
+    B) Public health
+
+1d. [mcq, 1 pt] Interventions aimed at environment and behavior.
+    A) Clinical
+    B) Public health
+
+1e. [mcq, 1 pt] Personal service ethic.
+    A) Clinical
+    B) Public health
+
+3. [frq, 3 pt] List the six parts of the chain of infection starting from what is exemplified by bacterium *Vibrio cholerae*.
+
+[STIMULUS] 
+    [IMAGE: ../images/2026_arcadia_hs_tryouts_c__d_bf372f-70f944ec.webp]
+
+4. [frq, 1 pt] What does the diagram below represent?
+
+5. [frq, 1 pt] What is this diagram known as?
+
+[STIMULUS] Fill in each space with a word or phrase corresponding to the adjacent definition.
+    |  |  |
+    | The distortion of the association between an exposure and a health outcome by a third variable that is related to both. | [[q:6a]] |
+    | A positive test result for a person who actually does not have the condition. | [[q:6b]] |
+    | The ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice. | [[q:6c]] |
+    | The aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place. | [[q:6d]] |
+    | (Of an event) occurs infrequently and irregularly. | [[q:6e]] |
+    | The time from exposure to a causal agent to onset of symptoms of a (usually noninfectious) disease. | [[q:6f]] |
+    | The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. | [[q:6g]] |
+    | The probability that an event will occur. | [[q:6h]] |
+    | The ability of an intervention or program to produce the intended or expected results under ideal conditions. | [[q:6i]] |
+    | A systematic deviation of results or inferences from the truth or processes leading to such systematic deviation. | [[q:6j]] |
+
+6a. [frq, 1 pt] The distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+
+6b. [frq, 1 pt] A positive test result for a person who actually does not have the condition.
+
+6c. [frq, 1 pt] The ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice.
+
+6d. [frq, 1 pt] The aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place.
+
+6e. [frq, 1 pt] (Of an event) occurs infrequently and irregularly.
+
+6f. [frq, 1 pt] The time from exposure to a causal agent to onset of symptoms of a (usually noninfectious) disease.
+
+6g. [frq, 1 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period.
+
+6h. [frq, 1 pt] The probability that an event will occur.
+
+6i. [frq, 1 pt] The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+6j. [frq, 1 pt] A systematic deviation of results or inferences from the truth or processes leading to such systematic deviation.
+
+7. [frq, 4 pt] List the first four steps of surveillance.
+
+[STIMULUS] Identify what type of surveillance each of the following scenarios best represents.
+    |  |  |
+    | The California Department of Public Health asks all primary care providers in the state for information on measles cases. | [[q:8a]] |
+    | All hospitals in the US report all cases of malaria to the CDC. | [[q:8b]] |
+    | The California Department of Public Health asks one primary care provider in each county of the state for information on measles cases. | [[q:8c]] |
+    | The California Department of Public Health asks each school in Los Angeles County for all data relating to illness-related reasons for absence. | [[q:8d]] |
+
+8a. [frq, 1 pt] The California Department of Public Health asks all primary care providers in the state for information on measles cases.
+
+8b. [frq, 1 pt] All hospitals in the US report all cases of malaria to the CDC.
+
+8c. [frq, 1 pt] The California Department of Public Health asks one primary care provider in each county of the state for information on measles cases.
+
+8d. [frq, 1 pt] The California Department of Public Health asks each school in Los Angeles County for all data relating to illness-related reasons for absence.
+
+
+=== Section 2: Outbreak Investigation (43) ===
+
+[STIMULUS] 800 students from one grade level at Arcadia High School, 100 of whom vape and 700 of whom do not, are followed over a 50-year period to assess the correlation between vaping and COPD. Of the 100 students who vape, 10 develop COPD. Of the 700 students who do not vape, 35 develop COPD.
+
+9a. [frq, 1 pt] What type of observational study is being conducted?
+
+[STIMULUS] Name one advantage and one disadvantage associated with the type of study identified in question 9a.
+    | Label | Answer |
+    | Advantage | [[q:9b-a]] |
+    | Disadvantage | [[q:9b-b]] |
+
+9b-a. [frq, 1 pt] Advantage
+
+9b-b. [frq, 1 pt] Disadvantage
+
+9c. [frq, 4 pt] Calculate the attack rates for those who vape and those who do not vape.
+
+9d. [frq, 3 pt] Identify and calculate the appropriate measure of association.
+
+9e. [frq, 1 pt] Interpret the calculated measure of association.
+
+9f. [frq, 1 pt] What is the epidemiological triad?
+
+9g. [frq, 2 pt] What are the first and last steps of outbreak investigation?
+
+[STIMULUS] In April 2024, 400 cases of salmonellosis occurred at Arcadia High School; the first of these cases was reported on April 1, 2024, and the last was reported on April 7, 2024. Symptoms of salmonellosis include diarrhea, abdominal cramps, fever, nausea, vomiting, chills, headache, and bloody stool.
+
+10a. [frq, 4 pt] Using the information above, write a probable case definition.
+
+10b. [frq, 1 pt] With exclusively the information above, can the existence of an outbreak be established?
+
+10c. [frq, 1 pt] What type of study should be conducted to determine the cause of this cluster?
+
+10d. [frq, 4 pt] Using the table below, calculate and interpret the appropriate measure of association between eating school lunch and contracting salmonellosis.
+    
+    | | Has salmonellosis | Does not have salmonellosis |
+    |:---|:---|:---|
+    | Ate school lunch | 270 | 1730 |
+    | Did not eat school lunch | 130 | 870 |
+
+10e. [frq, 1 pt] If a shipment of meals containing contaminated chicken that was undercooked before serving is the source of an outbreak, what type of outbreak would be expected?
+
+11. [frq, 2 pt] What is the objective of PulseNet and how does it achieve that objective?
+
+[STIMULUS] Identify which of Hill’s criteria each of the following satisfies.
+    |  |  |
+    | The patient smoked a pack of cigarettes per day for 20 years before developing lung cancer. | [[q:12a]] |
+    | In the British Doctors’ study, the relative risk for smokers for developing lung cancer was 25. | [[q:12b]] |
+    | The more someone smoked in 1980, the more severe their lung cancer was in 2000. | [[q:12c]] |
+    | Benzo[a]pyrene is a compound found in tobacco smoke that promotes the formation of cancer. | [[q:12d]] |
+
+12a. [frq, 1 pt] The patient smoked a pack of cigarettes per day for 20 years before developing lung cancer.
+
+12b. [frq, 1 pt] In the British Doctors’ study, the relative risk for smokers for developing lung cancer was 25.
+
+12c. [frq, 1 pt] The more someone smoked in 1980, the more severe their lung cancer was in 2000.
+
+12d. [frq, 1 pt] Benzo[a]pyrene is a compound found in tobacco smoke that promotes the formation of cancer.
+
+[STIMULUS] (1) The microorganism must be found in abundance in all organisms suffering from the disease but should not be found in healthy organisms. (2) The microorganism must be isolated from a diseased organism and grown in pure culture. (3) The cultured microorganism should cause disease when introduced into a healthy organism. (4) The microorganism must be re-isolated from the inoculated, diseased experimental host and identified as being identical to the original specific causative agent.
+
+13a. [frq, 1 pt] The set of postulates above was published by whom?
+
+13b. [frq, 1 pt] What type of carrier violates the first postulate?
+
+13c. [frq, 1 pt] Name one type of infectious agent that violates the second postulate.
+
+14. [frq, 1 pt] In the sufficient-component cause model, what does a complete pie represent?
+
+[STIMULUS] Smallpox has an R₀ of 5.
+
+15a. [frq, 1 pt] What does R₀ represent?
+
+15b. [frq, 1 pt] Explain the concept of herd immunity.
+
+15c. [frq, 2 pt] Calculate the herd immunity threshold for smallpox.
+
+
+=== Section 3: Patterns, Control, and Prevention (17) ===
+
+[STIMULUS] On December 31, 2023, there were 50 cases of influenza in Arcadia. Over the course of the next two years, 25 new cases occurred in the population of 60,000.
+
+17a. [frq, 2 pt] Calculate the incidence rate of influenza per 1,000 person-years.
+
+17b. [frq, 2 pt] Calculate the prevalence of influenza per 1,000 persons on December 31, 2025.
+
+18. [frq, 2 pt] Which of the 4 stages of disease control require continued intervention measures to lower or prevent disease incidence?
+
+19. [frq, 1 pt] Name one eradicated infectious disease.
+
+20a. [frq, 1 pt] Provide one example of each of the following levels of prevention.
+    
+    Primordial:
+
+20b. [frq, 1 pt] Provide one example of each of the following levels of prevention.
+    
+    Primary:
+
+20c. [frq, 1 pt] Provide one example of each of the following levels of prevention.
+    
+    Secondary:
+
+20d. [frq, 1 pt] Provide one example of each of the following levels of prevention.
+    
+    Tertiary:
+
+22a. [frq, 1 pt] What do each of the following abbreviations stand for?
+    
+    CDC:
+
+22b. [frq, 1 pt] What do each of the following abbreviations stand for?
+    
+    NNDSS:
+
+22c. [frq, 1 pt] What do each of the following abbreviations stand for?
+    
+    MRSA:
+
+22d. [frq, 1 pt] What do each of the following abbreviations stand for?
+    
+    MMWR:
+
+22e. [frq, 1 pt] What do each of the following abbreviations stand for?
+    
+    DALY:

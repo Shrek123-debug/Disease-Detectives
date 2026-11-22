@@ -1,0 +1,192 @@
+Carnegie Mellon — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  36 questions, 121.0 pts
+Source: scio.ly test archive id 26aad5e3-2562-4363-9bad-94d34c297929  |  original files: https://drive.google.com/drive/folders/1sejemuRbNV3gzu_3dXFiuKZeLSsBPmyL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: For this exam, please use a legible writing utensil. Black pen or pencil. No talking between teams, no notes, no phones, just you, your cheat sheet (must be at maximum, the size of a standard letter paper) and your writing utensils. Raise your hand if you have questions. You've got 50 minutes to complete this exam. Good luck!
+
+
+=== Part 1 ===
+
+[STIMULUS] For 1-14 please circle ALL correct answers.
+
+1. [mcq, 2 pt] Which of the following is NOT a zoonotic disease?
+    A) Ebola
+    B) Streptococcosis
+    C) Swine flu
+    D) Malaria
+
+2. [mcq, 2 pt] Which of the following best describes a nosocomial infection?
+    A) A patient comes to the hospital for a knee surgery and three days after leaving, notices that the surgical site is red, swollen, and oozing and presents with a fever and chills.
+    B) A patient comes to the hospital for a knee surgery, but upon assessment of vitals, it is discovered that the patient has a fever of 101.5°F.
+    C) One friend presents with a common cold and three days later, another friend presents with similar symptoms.
+    D) After eating raw cookie dough, a person presents with symptoms consistent with Salmonella infection.
+
+3. [mcq, 2 pt] Which of the following is the best example of a pandemic?
+    A) Asian influenza of 1957
+    B) Swine flu of 2009-2010
+    C) Mad Cow Disease in Britain from 1987-2019
+    D) Ebola in West Africa from 2014-2016
+
+4. [mcq, 2 pt] Which of the following is most correct?
+    A) An outbreak involves infection of many people across multiple continents.
+    B) An epidemic is a pandemic that affects people in multiple continents.
+    C) A pandemic is an epidemic that affects people in multiple continents.
+    D) An epidemic is most often transmitted by rodent fleas.
+
+5. [mcq, 2 pt] Rate of death in a population best describes
+    A) Incubation period
+    B) Latency period
+    C) Morbidity
+    D) Mortality
+
+6. [mcq, 2 pt] Which of the following best describes chicken pox in the United States in 2019?
+    A) Endemic
+    B) Epidemic
+    C) Pandemic
+    D) Plague
+
+7. [mcq, 2 pt] Plague that infects the lymph nodes is described as
+    A) Pneumonic
+    B) Bubonic
+    C) Septicemic
+    D) Black
+
+8. [mcq, 2 pt] An aggregation of cases over a particular period closely grouped in time and space best describes
+    A) Plague
+    B) Endemic
+    C) Epidemic
+    D) Cluster
+
+9. [mcq, 2 pt] Which of the following is not a type of surveillance?
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Flexible
+
+10. [mcq, 2 pt] Which of these is NOT an example of random error?
+    A) Inaccuracies in 24hrs food intake recall.
+    B) Recruiting sicker individuals into a study.
+    C) Changes in an individual's blood pressure over the course of a day.
+    D) The sampled group does not reflect the age and sex of the population.
+    E) All of the above are correct.
+
+11. [mcq, 2 pt] Which fomite is most poorly mismatched with its disease?
+    A) Kitchen counter – HIV
+    B) Stereoscope – MRSA
+    C) Combs – Rickettsia prowazekii
+    D) Bedpans – C. Difficile
+    E) None of the above are poorly mismatched
+
+12. [mcq, 2 pt] An agent which carries and transmits an infectious pathogen into another living organism is best described as a:
+    A) Fomite
+    B) Reservoir
+    C) Vector
+    D) Cohort
+
+13. [mcq, 2 pt] Which of the following is not one of the criteria of causality?
+    A) Strength of association
+    B) Consistency across investigations
+    C) Plausibility
+    D) Evidence of dose-response relationship
+    E) Absence of systematic error and confounding variables
+    F) All of the above is correct
+    G) Both C and E
+
+14. [frq, 3 pt] ____ is the ability of a pathogen to establish an infection.
+    ____ is the ability of a pathogen to cause harm to its host.
+    ____ is the ability of a pathogen to cause the disease.
+
+15. [frq, 10 pt] Put the following 10 steps of investigating an outbreak in order by placing a number 1 to 10 next to the statement:
+    Execute Prevention Measures
+    Search for Cases
+    Confirm the Diagnosis
+    Communicate findings
+    Draw Conclusions
+    Determine the existence of an outbreak
+    Define a Case
+    Generate hypotheses
+    Test hypotheses analytically
+    Compare hypothesis with established facts and additional studies
+
+16. [frq, 4 pt] State whether the following studies are experimental or observational and examples of either A) cross-sectional, B) case control C) experimental, or D) cohort study by writing E (experimental) or O (Observational) and the letter of each study type next to the statement.
+    1. People who have and have not eaten deli meats are enrolled in the study and tracked over a period of time to determine if they develop colon cancer as a means of determining if eating deli meats is a risk factor for colon cancer.
+    2. Bio-statistical study to determine the prevalence of colon cancer in the United States controlling for variables such as age, gender, ethnicity, geographical and social factors.
+    3. Determining whether eating deli meat is a risk factor for colon cancer by enrolling people with and without colon cancer and scoring the quantity and frequency of eating deli meat for each person in the study.
+    4. Performing a study in which lab mice are fed increasing amounts of deli meat to see if they develop gastric cancer at a higher rate than their control counterparts.
+
+17. [frq, 5 pt] Put the following five steps of surveillance in identifying health problems in order by placing a number 1 to 5 next to the statement:
+    Monitor and periodically evaluate the usefulness and quality of surveillance to improve it for future use. Note that surveillance of a problem does not include actions to control the problem
+    Collect and compile data about the problem (and if possible, factors that influence it)
+    Identify, define, and measure the health problem of interest
+    Provide these data and their interpretation to those responsible for controlling the health problem
+    Analyze and interpret these data
+
+
+=== Part 2: Short Answers ===
+
+18. [frq, 6 pt] State the chain of infection.
+
+[STIMULUS] **Chipotle E. coli Outbreak**
+From October-December 2015, a multistate outbreak of Shiga toxin-producing Escherichia coli O26 was found to be linked to a chain of Chipotle restaurants. In the primary outbreak, there were a total of 55 cases across 11 states. 27 cases were in Washington State alone. Washington state restaurants served a total of 914,650 customers during the outbreak period.
+
+19. [frq, 2 pt] What was the incidence of E. coli O26 infection in Washington state?
+
+[STIMULUS] Figure 1: Above is a graph summarizing the number of cases and date of illness onset.
+    [IMAGE: ../images/2020_carnegie_mellon_c__p8_4d0bf7-1d98f721.webp]
+
+21. [mcq, 2 pt] Which of the following best describes the date or period that someone who had onset of illness on 10/15 ate at Chipotle?
+    A) 10/11-10/15
+    B) 10/5 -10/8
+    C) 10/15
+    D) 10/8-10/10
+
+22. [frq, 4 pt] What is the mode of spread of E. coli infection: direct or indirect? Justify your answer.
+
+23. [frq, 4 pt] What type of source is the source for the outbreak? Justify your answer.
+
+24. [frq, 8 pt] Name three ways Chipotle could have prevented the E. coli outbreak and one way that Chipotle customers could prevent further spread of the outbreak.
+
+[STIMULUS] **Respiratory Infection**
+During the fall semester at the University of Pittsburgh, 6,245 students reported symptoms of respiratory infection. 523 students reported that they had come to school already with a respiratory infection and there are a total of 34,934 students at the University of Pittsburgh.
+
+25. [frq, 2 pt] What is the rate of incidence of respiratory infection among students during the fall semester?
+
+26. [frq, 4 pt] What is the point prevalence rate of the respiratory infection at the start of the fall semester? What is the period prevalence of respiratory infection amongst Pitt students throughout the fall semester?
+
+27. [numeric, 4 pt] 63 of the students who came to Pitt with a respiratory infection at the beginning of the fall semester were living in Litchfield Towers during the fall semester. One incubation period later, an additional 126 Litchfield Towers residents reported symptoms of respiratory infection. If there were 1,800 residents in Litchfield Towers during the fall semester, calculate the secondary attack rate of the respiratory infection.
+
+[STIMULUS] **Christmas Party**
+On December 25th, 2019, 59 individuals in the state of Arizona reported to the hospital with severe diarrhea. They had all attended a dessert party at the University of Arizona the previous night, in which 70 people attended and 11 people did not eat anything. The hospital got in contact with the school, and all the students that attended the party were asked for what foods they ate. Their responses are recorded below.
+
+Table 1: Survey Responses
+    | Food Item | Individuals who ate the food | Individuals who ate and got sick |
+    | Carrot cake | 15 | 2 |
+    | Raisin cookie | 44 | 12 |
+    | Chocolate cake | 35 | 8 |
+    | Velvet cheesecake | 45 | 13 |
+    | Vanilla ice cream | 60 | 34 |
+    | Apple pie | 13 | 3 |
+    | Tiramisu | 46 | 25 |
+
+28. [frq, 1 pt] Name one of the most common bacterial causes of diarrhea in the US.
+
+30. [frq, 2 pt] What are some biases in this study that could affect the results?
+
+31. [frq, 2 pt] Identify which group of people are the control for this study.
+
+32. [frq, 8 pt] Assume that there were 15 individuals who did not eat the raisin cookie. Among them, there were 5 who got sick. Based on your answer to the previous question, construct a 2x2 table and calculate either the relative risk or the odds ratio in regards to eating the raisin cookie. Interpret your value.
+
+33. [frq, 4 pt] We can determine which food has the highest association with diarrhea by calculating the ____. Which food is this?
+
+34. [frq, 6 pt] From the information known, can we conclude causation? Use at least three of Hill's causation criteria to justify. Also, if we cannot conclude causation, what would need to be done to show causality? (Bonus points for using more of Hill's criteria).
+
+[STIMULUS] **Turtle Woes**
+From May 29, 2019, to September 3, 2019, the CDC reported that there were a total of 21 individuals infected with Salmonella across 13 states. Ill people range in age from less than 1 year to 80 years, with a median age of 24 years. 3/4th of the infected individuals were female. 7 hospitalizations were reported, and no deaths.
+
+35. [frq, 3 pt] Write a case definition for the above outbreak.
+
+36. [frq, 3 pt] State some of the common symptoms an individual with a Salmonella infection may experience.
+
+37. [frq, 4 pt] 17 of the infected were interviewed about animal contact the week prior to becoming ill, and 12 answered that they had contact with a pet turtle. What role are pet turtles playing in the spread of the disease?
+
+38. [frq, 4 pt] What safety precautions should pet turtle owners take to prevent getting infected?

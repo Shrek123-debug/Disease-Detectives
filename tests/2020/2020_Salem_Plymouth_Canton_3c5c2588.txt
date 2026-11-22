@@ -1,0 +1,348 @@
+Salem (Plymouth-Canton) — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  36 questions, 41.0 pts
+Source: scio.ly test archive id 3c5c2588-6745-4536-9d25-397c2f79776b  |  original files: https://drive.google.com/drive/folders/1U98s3We8bNFzkcltqgvwTJTRL6J2EutD
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 25
+
+DIRECTIONS: Part I: Matching / Fill in the blank (1 point each). Correctly match the following epidemiological terms in the left-hand column with the appropriate description, example, or formula in the right-hand column. Record your answers on your score sheet. Choose the best answer.
+
+
+=== Part I: Matching / Fill in the blank ===
+
+[STIMULUS] a. Science concerned with the prevalence and distribution of a disease
+b. Disease occurring in a population at a higher than normal frequency
+c. Constant low frequency of disease
+d. Worldwide epidemic
+e. Number of cases in a susceptible population of 100,000
+ab. Deaths per total infected
+ac. Number of new cases during a period divided by the total population
+ad. Infected individual who transmits a disease to another
+ae. Site where infectious disease is maintained between outbreaks
+bc. Acquired in a hospital
+bd. Various arthropods that transmit pathogenic organism from one host to another
+be. Relative pathogenicity of an infectious microorganism
+cd. Percent of total population that has the disease at a given time
+ce. Sudden high incidence of disease in a given population
+de. Disease associated with animals but can be transmitted to humans
+
+1. [mcq, 1 pt] Pandemic
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+2. [mcq, 1 pt] Morbidity rate
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+3. [mcq, 1 pt] Vector
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+4. [mcq, 1 pt] Incidence
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+5. [mcq, 1 pt] Zoonosis
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+6. [mcq, 1 pt] Reservoir
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+10. [mcq, 1 pt] Epidemiology
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+11. [mcq, 1 pt] Virulence
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+12. [mcq, 1 pt] Carriers
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+13. [mcq, 1 pt] Endemic
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+14. [mcq, 1 pt] Nosocomial infections
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+15. [mcq, 1 pt] Prevalence
+    A) Science concerned with the prevalence and distribution of a disease
+    B) Disease occurring in a population at a higher than normal frequency
+    C) Constant low frequency of disease
+    D) Worldwide epidemic
+    E) Number of cases in a susceptible population of 100,000
+    F) Deaths per total infected
+    G) Number of new cases during a period divided by the total population
+    H) Infected individual who transmits a disease to another
+    I) Site where infectious disease is maintained between outbreaks
+    J) Acquired in a hospital
+    K) Various arthropods that transmit pathogenic organism from one host to another
+    L) Relative pathogenicity of an infectious microorganism
+    M) Percent of total population that has the disease at a given time
+    N) Sudden high incidence of disease in a given population
+    O) Disease associated with animals but can be transmitted to humans
+
+
+=== Epidemiology- Word Identification and search ===
+
+[STIMULUS] Census
+Mode of Transmission
+Cluster
+Line Listing
+Cohort
+Odds Ratio
+Epidemic
+Pandemic
+Analytic Study
+Risk
+Exposure
+Surveillance
+Host
+Survey
+Vehicle
+
+16. [frq, 1 pt] A well-defined group of persons who have a common experience or exposure
+
+17. [frq, 1 pt] Having come in contact with a cause of, or possessing a characteristic that will cause, a particular health problem
+
+19. [frq, 1 pt] A person or other living organism that is susceptible to or harbors an infectious agent
+
+20. [frq, 1 pt] The systematic, ongoing collection, analysis, interpretation, and dissemination of health data
+
+21. [frq, 1 pt] A type of epidemiologic database
+
+22. [frq, 1 pt] The probability that an individual will be affected by, or die from, an illness or injury within a stated time frame or age span
+
+23. [frq, 1 pt] The manner in which an agent is transmitted from its reservoir to a susceptible host
+
+24. [frq, 1 pt] An aggregation of cases over a particular period
+
+25. [frq, 1 pt] A measure of association used in comparative studies, that makes the association between an exposure and a health outcome
+
+26. [frq, 1 pt] An epidemic occurring over a very wide area and usually affecting a large proportion of the population
+
+27. [frq, 1 pt] The details of a population that includes residence, age, sex, occupation, racial/ethnic group, etc.
+
+28. [frq, 1 pt] A study, usually observational, in which groups are compared to identify and compute associations, test hypotheses, and identify causes
+
+29. [frq, 1 pt] A systematic canvassing of persons to collect information. To get a representative sample of a population
+
+30. [frq, 1 pt] An inanimate object that can carry an agent from a reservoir to a susceptible host
+
+
+=== Part II: General Questions ===
+
+32. [mcq, 1 pt] What methods could a disease detective use to communicate a finding?
+    A) Shout it from the highest mountain
+    B) Oral Briefing
+    C) Written Report
+    D) B&C
+    E) None of the above
+
+33. [mcq, 1 pt] The environment is one component of a famous triad in epidemiology. What are the other two components?
+    A) Infectious disease & Chronic Disease
+    B) Person & Place
+    C) Exposure & Risk
+    D) Agent & Host
+
+37. [matching, 4 pt] Four levels of prevention are: (match the definition for each)
+    - A. Primordial  <->  1. Immunization and case-finding, to avoid spread
+    - B. Primary  <->  2. Early and effective treatment of infected people
+    - C. Secondary  <->  3. Prevention the entry of infectious cases into healthy population
+    - D. Tertiary  <->  4. Intervention of patients may slow the disease rate
+
+38. [mcq, 1 pt] Warts are caused by what type of infectious agent:
+    A) Virus
+    B) Protozoa
+    C) Fungus
+    D) Bacteria
+
+39. [mcq, 1 pt] What food might you be at a higher risk of acquiring Salmonella from:
+    A) Well-cooked Hamburger
+    B) Pasteurized Milk
+    C) Cookie dough
+    D) Well-cooked chicken
+
+40. [mcq, 1 pt] The capacity to cause a disease in a host is called:
+    A) Virulence
+    B) Pathogenicity
+    C) Disease Causation
+    D) Vector causation
+
+41. [mcq, 1 pt] E coli is what type of infectious agent:
+    A) Virus
+    B) Protozoa
+    C) Fungus
+    D) Bacteria
+
+42. [mcq, 1 pt] Influenza is caused by what type of infectious agent:
+    A) Virus
+    B) Protozoa
+    C) Fungus
+    D) Bacteria
+
+
+=== Part III: Scenario ===
+
+[STIMULUS] Background II: Outbreak in Texas
+
+The Chief Medical Officer of the Ontario Health Department notified the Texas Department of Health (TDH) about the cyclospora infections in the three Canadian businessmen. The businessmen had attended a meeting at a private club in Houston, Texas on May 9 & 10.
+
+A total of 270 people had attended the Houston business meeting. Participants came from three US states and Canada. Meals served during the meeting were prepared at the restaurant operated by the private club. Rumors among the staff suggested that other attendees at the meeting had also become ill.
+
+TDH, the Houston Health and Human Services Department and the CDC initiated an epidemiologic investigation to identify the source of the outbreak.
+
+48. [mcq, 2 pt] What type of study will the disease detective use for this outbreak?
+    A) Case-control –Retrospective study
+    B) Case-control- Prospective study
+    C) Cohort –Respective study
+    D) Cohort- Prospective study
+
+[STIMULUS] Disease detective's first surveyed people who attended the meeting to characterize the illness associated with the outbreak. 270 of the 270 attendees were interviewed for symptoms. 166 people experienced severe diarrhea and weight loss. In addition, 160 reported fatigue; 162 reported nausea; 162 reported stomach cramps; and 100 reported fever. 130 people had stool specimens positive for cyclospora.
+
+49c. [numeric, 2 pt] What percent of people interviewed reported: Fever?

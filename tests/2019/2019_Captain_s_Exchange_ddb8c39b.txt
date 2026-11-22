@@ -1,0 +1,195 @@
+Captain's Exchange — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  34 questions, 41.0 pts
+Source: scio.ly test archive id ddb8c39b-d9dd-424b-8f6c-4bdce6d7f49b  |  original files: https://drive.google.com/drive/folders/1L4HbEqCM46MFBc3k0oixjDkMpHhgxUsr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 21
+
+[STIMULUS] **Salmonella outbreak traced to fish fry likely winding down**
+
+BY NEWS DESK | SEPTEMBER 25, 2016
+
+More than 50 people have been sickened in a Salmonella outbreak in Tennessee apparently stemming from a volunteer fire department fish fry fund raiser earlier this month.
+
+Multiple media in and around Lacassas, TN, are reporting that a Sept. 10 fish fry at the Lascassas Fire Department has been identified as the likely outbreak event. The event was catered by an out-of-state restaurant (name redacted)—the sole purchaser of a small, local fish supplier.
+
+Deputy state epidemiologist John Dunn said all of the sick people he was aware of had attended the fire department event, according to reports by Nashville's NewsChannel 5 and other media. About 400 people attended the event.
+
+Because the illnesses appear to stem from a one-night event rather than a restaurant with ongoing business or from food available through retailers, it is likely the outbreak has run its course.
+
+Salmonella infection symptoms generally develop within 72 hours of ingesting the bacteria, according to the Centers for Disease Control and Prevention.
+
+Anyone who attended the Sept. 10 fish fry and later developed symptoms that have not subsided should immediately seek medical attention.
+
+Symptoms of this Salmonella infection include diarrhea, fever, and abdominal cramps 12 to 72 hours after infection, according to the CDC. The illness usually lasts four to seven days, and most people recover without treatment. However, in some cases, the diarrhea may be so severe that victims require hospitalization.
+
+Salmonella is estimated to cause one million foodborne illnesses in the United States annually, resulting in 19,000 hospitalizations and 380 deaths.
+
+Nashville's NewsChannel 5 reported this outbreak marked the first time something like this has happened at a Lascassas Volunteer Fire fundraiser.
+
+Note: This article has been modified for the purpose of this evaluation.
+
+[STIMULUS] Answer the following questions and support your claims based on evidence in the article.
+
+P1-1. [frq, 2 pt] What type of epicurve likely resulted from this outbreak? Support your answer.
+
+P1-2. [frq, 2 pt] Write a case definition for this outbreak.
+
+P1-3. [frq, 2 pt] Which measure of association, odds ratio or relative risk, would be most appropriate to use in this outbreak? Explain.
+
+P1-5. [frq, 2 pt] Given this scenario, is there reason to use a Cochran-Mantel-Haenszel equation instead? Explain.
+
+P1-6. [frq, 2 pt] A woman in Lacassas, TN reported symptoms of Salmonella on Sept. 9, 2016. This case was confirmed by laboratory analysis the next day. Is there reason to believe that this case is linked to the fish-fry outbreak? Explain.
+
+P1-7. [frq, 2 pt] Would Fisher's exact test be an appropriate calculation for this outbreak? Explain.
+
+P1-8. [frq, 2 pt] Complete a Mantel-Haenszel odds ratio estimate on the following data:
+    [IMAGE: ../images/2019_captain_s_exchange_c__p3_d369ba-19909ee7.webp]
+
+P1-9. [frq, 1 pt] List the possible steps in a chain of infection for this scenario
+
+P1-10. [frq, 1 pt] Identify the components of the epidemiological triad:
+    
+    Stuart Little fell ill the night with cholera after playing the town lake with his friends.
+
+[STIMULUS] In 2015, a group of researchers associated with the Beijing Center for Diseases Prevention and Control published the results of a study on scrub typhus, also known as tsutsugamushi disease. The disease is caused by a bacteria carried by parasitic mites, of the variety commonly called chiggers. Larval mites feed on the skin of rats, and occasionally humans, before dropping off and spending the rest of their life feeding on the juices of low-lying (or "scrub") vegetation, where they will lay their eggs. Symptoms include fever, rash, headache, and sometimes hemorrhage; advanced cases may also affect the heart, liver or brain. The incubation period may range from 6 to 21 days, averaging 10 to 12. In most cases, symptoms resolve within two weeks.
+
+The disease is fatal in about 30% of untreated cases. The study was conducted in an area northeast of Beijing which area included 15 towns and villages and a total population of 500,000.
+
+In 2011, 56 individuals who had received a laboratory-confirmed diagnosis of scrub typhus between 2008 and 2010 were selected and interviewed about their occupation, housing and other possible risk factors. In addition, for every typhus patient three other residents of the town of similar age and occupation with no history of typhus infection for the last three years were chosen to be interviewed.
+
+168 additional participants were enrolled in this manner; each was also tested for the presence of IgG antibodies to typhus, and all tests were negative.
+
+[STIMULUS] | Exposure | Cases | Control |
+|---|---|---|
+| Work in Farmland | 38 | 60 |
+| Work in Vegetable Fields | 19 | 34 |
+| Work in Woodland Area | 22 | 45 |
+| Harvesting | 38 | 53 |
+| Sowing | 22 | 45 |
+
+P1-11. [frq, 1 pt] What type of study is this?
+
+P1-12. [frq, 1 pt] Develop a case definition for this study.
+
+P1-13. [frq, 1 pt] If there are cases of scrub typhus every year in this region, what epidemiological term is used to describe this pattern of infection?
+
+P1-14. [frq, 1 pt] What are the people who tested negative for IgG antibodies referred to as?
+
+P1-15. [frq, 1 pt] What is the measure of risk performed for this type of study and why is it appropriate?
+
+P1-16. [frq, 1 pt] Calculate the measure of risk identified for exposures and state the exposure with the highest risk
+
+P1-17. [frq, 1 pt] What is a possible source of bias in this study?
+
+[STIMULUS] The local high school of 560 students is holding a dance for all the students in order to raise money for afterschool clubs and activities. The dance was a great success, with 345 of the high schoolers attending the event. During this dance, one of the students was sneezing violently and eventually left the party early. A week later, 72 of the students from the dance reported developing a cold and subsequently, 25 of their classmates who did not attend the dance also became sick. It was found that over the course of that week, 2 students had died.
+
+P1-18. [frq, 1 pt] What was most likely the method of transmission?
+
+P1-19. [frq, 1 pt] Find the incidence rate for those who did and did not attend the dance.
+
+P1-20. [frq, 1 pt] Calculate the measure you use to express the risk associated with attending the dance
+
+P1-21. [frq, 1 pt] What is the case fatality rate?
+
+P1-22. [frq, 1 pt] If any student was to accidentally use a cup that the infected student used, the cup would be considered a:
+
+[STIMULUS] | Date | 5/1 | 5/3 | 5/5 | 5/7 | 5/9 | 5/11 | 5/13 | 5/15 | 5/17 | 5/19 | 5/21 | 5/23 | 5/25 | 5/25 | 5/27 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cases | 0 | 3 | 6 | 0 | 0 | 0 | 8 | 16 | 0 | 0 | 21 | 27 | 15 | 3 | 0 |
+
+P1-24. [frq, 1 pt] What type of outbreak does this data represent?
+
+P1-25. [frq, 1 pt] What is the most likely kind of agent in this outbreak?
+
+P1-26. [frq, 1 pt] Suggest a reason why no cases were reported after 5/25
+
+[STIMULUS] A new screening test is currently being implemented for breast cancer patients. The researcher conducts the test on his patients and compares it to their actual cancer status. The data is shown below.
+
+|  | Has Cancer | No Cancer |
+|---|---|---|
+| Positive Test | 125 | 20 |
+| Negative Test | 15 | 450 |
+
+P1-27. [frq, 1 pt] Calculate the Sensitivity
+
+P1-28. [frq, 1 pt] Calculate the Specificity
+
+P1-29. [frq, 1 pt] Find the Positive and Negative Predictive Value
+
+P1-30. [frq, 1 pt] What does a high sensitivity value mean for this screening test?
+
+P1-31. [frq, 1 pt] What does the WHO stand for?
+
+P1-32. [frq, 1 pt] Who is the father of modern epidemiology?
+
+P1-34. [frq, 1 pt] What is the difference between sufficient cause and necessary cause?
+
+P1-35. [frq, 1 pt] Is using patient data provided by a hospitable considered **passive** or **active** surveillance?
+
+
+=== Vocabulary ===
+
+[STIMULUS] Match the definition with the corresponding letter
+
+P2-3. [frq, 1 pt] A physical object that serves to transmit an infectious agent from person to person
+
+[STIMULUS] a. Alternative hypothesis
+b. Carrier
+c. Census
+d. Cluster
+e. Ectoparasite
+f. Effectiveness
+g. Efficacy
+h. Efficiency
+i. Endemic
+j. Endoparasite
+k. Fomite
+l. Holoendemic
+m. Horizontal transmission
+n. Hyperendemic
+o. Index case
+p. Infectivity
+q. Null hypothesis
+r. Outliers
+s. Pathogenicity
+t. Primary case
+u. Primary prevention
+v. Secondary attack rate
+w. Secondary prevention
+x. Sentinel surveillance
+y. Sporadic
+z. Syndromic surveillance
+aa. Vector
+bb. Vertical transmission
+cc. Virulence
+dd. Vital statistic
+
+P2-20. [mcq, 1 pt] Uses a prearranged sample of sources who have agreed to report all cases of one or more notifiable diseases
+    A) Alternative hypothesis
+    B) Carrier
+    C) Census
+    D) Cluster
+    E) Ectoparasite
+    F) Effectiveness
+    G) Efficacy
+    H) Efficiency
+    I) Endemic
+    J) Endoparasite
+    K) Fomite
+    L) Holoendemic
+    M) Horizontal transmission
+    N) Hyperendemic
+    O) Index case
+    P) Infectivity
+    Q) Null hypothesis
+    R) Outliers
+    S) Pathogenicity
+    T) Primary case
+    U) Primary prevention
+    V) Secondary attack rate
+    W) Secondary prevention
+    X) Sentinel surveillance
+    Y) Sporadic
+    Z) Syndromic surveillance
+    [) Vector
+    \) Vertical transmission
+    ]) Virulence
+    ^) Vital statistic

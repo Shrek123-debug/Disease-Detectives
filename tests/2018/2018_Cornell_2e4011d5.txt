@@ -1,0 +1,626 @@
+Cornell — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  91 questions, 160.0 pts
+Source: scio.ly test archive id 2e4011d5-d45b-48e6-bea1-b61419a25149  |  original files: https://drive.google.com/drive/folders/1HFmbmqKTAqywcjwCumqwIjkLFN0yOlhI
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Please fill in your team number and your names before beginning this exam. DO NOT open this exam until explicitly instructed to by the event supervisor. You will have 50 minutes to complete this exam. Communication with other teams is prohibited.
+
+
+=== Section 1: Vocabulary ===
+
+[STIMULUS] Directions: In the following parts, match the term with the correct definition by placing the letter of the definition next to the corresponding term. Do not draw lines.
+
+Part 1: Statistics
+
+a. The general rate at which people die among all that are at risk of death.
+b. The number of new cases over a period of time per size of the population at the beginning of that period
+c. A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+d. The proportion of contacts who develop disease.
+e. The number of new cases over a period of time per average population during that specified time
+f. The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+g. The proportion of total cases over a period of time per average population.
+h. The rate at which people die among those that are infected.
+i. A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+j. The proportion of total disease among a population.
+
+P1-2. [mcq, 1 pt] Incidence Rate:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-4. [mcq, 1 pt] Point Prevalence:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-5. [mcq, 1 pt] Period Prevalence:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-6. [mcq, 1 pt] Secondary Attack Rate:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-7. [mcq, 1 pt] Mortality Rate:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-8. [mcq, 1 pt] Case-Fatality Rate:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+P1-10. [mcq, 1 pt] Cross Product Ratio:
+    A) The general rate at which people die among all that are at risk of death.
+    B) The number of new cases over a period of time per size of the population at the beginning of that period
+    C) A numerical representation of risk as the comparison between the probability of developing an outcome with the exposure and developing the outcome without the exposure.
+    D) The proportion of contacts who develop disease.
+    E) The number of new cases over a period of time per average population during that specified time
+    F) The number of new cases over a period of time per number of healthy individuals at the beginning of the period
+    G) The proportion of total cases over a period of time per average population.
+    H) The rate at which people die among those that are infected.
+    I) A numerical representation of risk as the comparison between the odds of developing an outcome with the exposure and developing the outcome without the exposure.
+    J) The proportion of total disease among a population.
+
+[STIMULUS] Part 2: Nature of Disease
+
+a. A pathogen’s potential to enter a certain tissue.
+b. A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+c. A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+d. Any departure, subjective or objective, from a state of health
+e. The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+P1-11. [mcq, 1 pt] Pathogenicity:
+    A) A pathogen’s potential to enter a certain tissue.
+    B) A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+    C) A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+    D) Any departure, subjective or objective, from a state of health
+    E) The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+P1-12. [mcq, 1 pt] Virulence:
+    A) A pathogen’s potential to enter a certain tissue.
+    B) A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+    C) A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+    D) Any departure, subjective or objective, from a state of health
+    E) The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+P1-13. [mcq, 1 pt] Infectivity:
+    A) A pathogen’s potential to enter a certain tissue.
+    B) A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+    C) A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+    D) Any departure, subjective or objective, from a state of health
+    E) The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+P1-14. [mcq, 1 pt] Invasiveness:
+    A) A pathogen’s potential to enter a certain tissue.
+    B) A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+    C) A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+    D) Any departure, subjective or objective, from a state of health
+    E) The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+P1-15. [mcq, 1 pt] Morbidity:
+    A) A pathogen’s potential to enter a certain tissue.
+    B) A pathogen’s potential to gain access to the host, measured as the proportion of the entire population who tests positive for the disease.
+    C) A pathogen’s potential to cause disease, measured as the proportion of people who tested positive for the disease, and who also show symptoms.
+    D) Any departure, subjective or objective, from a state of health
+    E) The severity of the disease. Usually not quantified, but can be said to be the proportion of people who tested positive for the disease, and who also are extremely ill/hospitalized.
+
+[STIMULUS] Part 3: Modes of Transmission
+
+a. Transfer of an agent from a reservoir to a host by an intermediary
+b. Immediate pathway of agent from reservoir to host by droplet spread or contact
+c. An inanimate object that carries disease from host to host.
+d. A living organism that carries disease.
+e. Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+P1-16. [mcq, 1 pt] Vehicle:
+    A) Transfer of an agent from a reservoir to a host by an intermediary
+    B) Immediate pathway of agent from reservoir to host by droplet spread or contact
+    C) An inanimate object that carries disease from host to host.
+    D) A living organism that carries disease.
+    E) Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+P1-17. [mcq, 1 pt] Indirect Transmission:
+    A) Transfer of an agent from a reservoir to a host by an intermediary
+    B) Immediate pathway of agent from reservoir to host by droplet spread or contact
+    C) An inanimate object that carries disease from host to host.
+    D) A living organism that carries disease.
+    E) Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+P1-18. [mcq, 1 pt] Vector:
+    A) Transfer of an agent from a reservoir to a host by an intermediary
+    B) Immediate pathway of agent from reservoir to host by droplet spread or contact
+    C) An inanimate object that carries disease from host to host.
+    D) A living organism that carries disease.
+    E) Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+P1-19. [mcq, 1 pt] Direct transmission:
+    A) Transfer of an agent from a reservoir to a host by an intermediary
+    B) Immediate pathway of agent from reservoir to host by droplet spread or contact
+    C) An inanimate object that carries disease from host to host.
+    D) A living organism that carries disease.
+    E) Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+P1-20. [mcq, 1 pt] Biological transmission:
+    A) Transfer of an agent from a reservoir to a host by an intermediary
+    B) Immediate pathway of agent from reservoir to host by droplet spread or contact
+    C) An inanimate object that carries disease from host to host.
+    D) A living organism that carries disease.
+    E) Pathway of agent from reservoir to host by an organism. The agent may, during this process, undergo change.
+
+[STIMULUS] Part 4: Epidemiology
+
+a. Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+b. A greater number of cases than expected in a given area and time period.
+c. Changes over a relatively short period of time, typically months or years.
+d. time between exposure and infectiousness
+e. Changes over a relatively long period of time, typically, years or decades.
+f. Concerned with orienting health related data in terms of person, place, and time.
+g. A group of cases in a given area and time period, regardless of the number of cases.
+h. Occurs over several countries or continents, and effects a very large portion of the population.
+e. Time between exposure and onset of symptoms
+f. A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-21. [mcq, 1 pt] Analytic epidemiology:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-22. [mcq, 1 pt] Descriptive epidemiology:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-23. [mcq, 1 pt] Trend:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-24. [mcq, 1 pt] Secular Trend:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-25. [mcq, 1 pt] Incubation period:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-26. [mcq, 1 pt] Latency period:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-27. [mcq, 1 pt] Outbreak:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-28. [mcq, 1 pt] Cluster:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-29. [mcq, 1 pt] Epidemic:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+P1-30. [mcq, 1 pt] Pandemic:
+    A) Concerned with cause and effect, seeks to quantify the relationship between exposure and outcome.
+    B) A greater number of cases than expected in a given area and time period.
+    C) Changes over a relatively short period of time, typically months or years.
+    D) time between exposure and infectiousness
+    E) Changes over a relatively long period of time, typically, years or decades.
+    F) Concerned with orienting health related data in terms of person, place, and time.
+    G) A group of cases in a given area and time period, regardless of the number of cases.
+    H) Occurs over several countries or continents, and effects a very large portion of the population.
+    I) Time between exposure and onset of symptoms
+    J) A large aggregation of cases that occurs over a large number of people and geographical area
+
+[STIMULUS] Part 5: Disease Prevention
+
+a. Monitoring of a potentially exposed person for the onset of symptoms
+b. The separation of ill persons.
+c. Resistance developed in response to an antigen
+d. Public Health Surveillance in which the health agency solicits reports
+e. A system of prearranged sources that agree to report all case of one or more notifiable diseases
+f. Public Health Surveillance in which data is sent to the health agency without prompting
+g. The separation of potentially exposed but well persons.
+h. Resistance of a population as a result of most but not all members being immune.
+i. Resistance conferred by the antibodies produced in another host.
+
+P1-31. [mcq, 1 pt] Active immunity:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-32. [mcq, 1 pt] Passive immunity:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-33. [mcq, 1 pt] Herd immunity:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-34. [mcq, 1 pt] Quarantine:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-35. [mcq, 1 pt] Isolation:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-36. [mcq, 1 pt] Active Surveillance:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-37. [mcq, 1 pt] Passive Surveillance:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-38. [mcq, 1 pt] Sentinel Surveillance:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+P1-39. [mcq, 1 pt] Medical Surveillance:
+    A) Monitoring of a potentially exposed person for the onset of symptoms
+    B) The separation of ill persons.
+    C) Resistance developed in response to an antigen
+    D) Public Health Surveillance in which the health agency solicits reports
+    E) A system of prearranged sources that agree to report all case of one or more notifiable diseases
+    F) Public Health Surveillance in which data is sent to the health agency without prompting
+    G) The separation of potentially exposed but well persons.
+    H) Resistance of a population as a result of most but not all members being immune.
+    I) Resistance conferred by the antibodies produced in another host.
+
+
+=== Section 2: Case Scenario ===
+
+[STIMULUS] Directions: The following is a narrative case scenario in which questions follow bits of narrative text. Please answer each question fully yet concisely. When using a formula, please write it down.
+
+(Adapted from Food Safety News)
+
+On October 18, 2015, the California restaurant Mariscos San Juan was closed after the Santa Clara County Public Health Department connected the seafood restaurant with an outbreak of Shigella. Dr. Looney, with his motto, “better late than never!” wants to investigate what caused the outbreak two years ago. First, he needs your help to learn about the disease.
+
+P2-1a. [frq, 6 pt] The Shigella bacteria causes a disease called Shigellosis in humans. What are some symptoms of the disease? List 3.
+
+P2-2. [frq, 6 pt] How is Shigella transmitted? Name the route and all 6 steps of the chain of infection for foodborne shigella specifically.
+
+[STIMULUS] Over the few weeks after the restaurant closed, the number of reported cases of Shigellosis rose to 190 people.
+
+P2-3. [frq, 4 pt] Give a possible case definition for this outbreak.
+
+[STIMULUS] Dr. Looney pulls out the the following graph, which is an epi curve of the outbreak. “Look! I made an epi curve of the outbreak. Isn’t it amazing?”
+    [IMAGE: ../images/2018_cornell_c__p7_29b38f-497bb66c.webp]
+
+P2-4. [frq, 2 pt] You acknowledge that it is good, but he’s made a mistake. What did he do wrong?
+
+[STIMULUS] “I want to see what kind of food was most likely the cause of this outbreak,” Dr. Looney announces. “But I don’t know where to start. It could be anything! The chicken, the beef, the tacos, mushrooms, the brownies. Oh! I could use a brownie right now…”
+
+P2-6. [frq, 2 pt] As Dr. Looney rambles on about how great his wife’s brownies’ are, which you know are great, you get to work figuring out where to start investigating. What kinds of food are typically associated with Shigella outbreaks?
+
+[STIMULUS] Dr. Looney then quickly makes a table. “During the investigation, epidemiologists asked people what they ate. Then they separated them based on how they answered. I’ve put together all the different types of food people could have eaten there, but I don’t know how to interpret it. Could you help me?” Note: he has ignored your suggestion from the last question. The categories here are not necessarily answers to the last question.
+    | Food | Did Eat - Infected | Did Eat - Not infected | Did Eat - Total | Did Not Eat - Infected | Did Not Eat - Not infected | Did Not Eat - Total |
+    | Steak fajita | 95 | 75 | 170 | [[q:P2-7-a]] | 115 | 210 |
+    | Chicken quesadilla | 72 | [[q:P2-7-b]] | 145 | 118 | [[q:P2-7-c]] | 235 |
+    | Ice cream | 30 | 25 | 55 | [[q:P2-7-d]] | 165 | 325 |
+    | Shrimp cocktail | [[q:P2-7-e]] | 1 | 4 | 187 | 189 | 376 |
+    | Salad bar | 50 | 60 | [[q:P2-7-f]] | 140 | [[q:P2-7-g]] | 270 |
+
+P2-7-a. [numeric, 1 pt] Row: Steak fajita - Did Not Eat - Infected
+
+P2-7-b. [numeric, 1 pt] Row: Chicken quesadilla - Did Eat - Not infected
+
+P2-7-c. [numeric, 1 pt] Row: Chicken quesadilla - Did Not Eat - Not infected
+
+P2-7-d. [numeric, 1 pt] Row: Ice cream - Did Not Eat - Infected
+
+P2-7-e. [numeric, 1 pt] Row: Shrimp cocktail - Did Eat - Infected
+
+P2-7-f. [numeric, 1 pt] Row: Salad bar - Did Eat - Total
+
+P2-7-g. [numeric, 1 pt] Row: Salad bar - Did Not Eat - Not infected
+
+P2-8. [frq, 5 pt] Calculate the attack ratio for all 5 foods.
+
+P2-9. [frq, 7 pt] What kind of study is this? Name 3 advantages and 3 disadvantages of this type of study. Note: if you incorrectly name the study, Dr. Looney will be generous and still award half credit if everything else is correct according to the study you put down.
+
+P2-10. [frq, 5 pt] What is the metric used for this study? Calculate it for all 5 foods.
+
+P2-11. [frq, 2 pt] What is a potential problem his claim?
+
+P2-12. [frq, 7 pt] Another test epidemiologists use is called the chi-square test. Dr. Looney asks, “I’m no good at statistics. Can you perform this test on all 5 foods? I want to get myself a snack.” You don’t need to calculate exact p-values, just the range of p-values. What new conclusions can you make? You only need to show calculations for one of the calculations. Use α = 0.05.
+
+P2-13. [frq, 2 pt] You’ve cracked the case, and you can tell Dr. Looney what the real culprit was:
+
+P2-14. [frq, 3 pt] “Aha! I knew that all along. I was just testing you,” explains Dr. Looney. “Now all that’s left is to figure out what we can do better from now on.” What are some things that can be done to limit similar outbreaks in the future? Name 3.
+
+
+=== Section 3: Practicum, Clinical, and Theory ===
+
+[STIMULUS] **Directions:** Answer the following short answer questions concisely.
+
+P3-1. [frq, 4 pt] Suppose Dr. Looney wants to demonstrate that Salmonella causes disease in organisms? What steps would he take?
+
+[STIMULUS] Consider the following examples. What criteria for causation do they fulfill? Provide one for each example, (some questions might have more than 1 correct answer).
+
+P3-2a. [frq, 1 pt] A long term study on the effects of smoking on lung disease showed that people who smoke are much more likely to develop lung disease than those who didn’t smoke.
+
+P3-2b. [frq, 1 pt] After not feeding his zebrafish for several days, Dr. Looney noticed that they had died. He bought some new ones and he once again didn’t feed them. They died again. In fact, they died each time he didn’t feed them.
+
+P3-2c. [frq, 1 pt] While injecting rats with botulinum toxin, Dr. Looney noticed that they developed symptoms after, not before, he performed the injection.
+
+P3-2d. [frq, 1 pt] A small amount of BTX can lead to paralysis, but a large amount can be lethal.
+
+P3-2e. [frq, 1 pt] Revanth thinks that the cause of widespread diarrhea is witchcraft, but Dr. Looney argues that it is Salmonella, since there is a way to explain how salmonella affects the digestive system.
+
+P3-2f. [frq, 1 pt] Dr. Looney remembers investigating an outbreak in which a contaminated water supply lead to E. Coli infections. Similarities to that outbreak make Dr. Looney think that E. Coli might also be the cause of the current outbreak.
+
+[STIMULUS] Listed below are the symptoms and recently eaten foods of several people. What is the most likely biological agent in each case? 1 point for binomial name if applicable, otherwise 0.5 points for general disease name.
+
+P3-3a. [frq, 1 pt] The patient is jaundiced, has flu-like symptoms, and dark urine. Recently ate shellfish.
+
+P3-3b. [frq, 1 pt] The patient has a fever, cramps, and diarrhea. Recently consumed raw cookie dough.
+
+P3-3c. [frq, 1 pt] Patient is vomiting and has diarrhea. He reports double vision and muscle weakness. Recently ate some home-canned vegetables.
+
+P3-3d. [frq, 1 pt] Patient is fatigued, with a loss of weight, stomach cramps, and nausea. Patient reports usually not washing fresh produce before eating.
+
+P3-3e. [frq, 1 pt] A patient with HIV has developed meningitis. Prior to the meningitis, he reported muscle aches, nausea, and diarrhea. Patient is a dairy farmer, and often drank raw milk from his cows.
+
+P3-3f. [frq, 1 pt] Patient rushed to the hospital after hurricane passes by. She has severe nausea and is vomiting profusely. These symptoms appeared not 2 hours after she had eaten leftover chicken from the fridge, despite the city-wide loss of power over the last 3 days.
+
+P3-4. [frq, 2 pt] Define bias.
+
+[STIMULUS] Consider the following examples. What bias is demonstrated in each example?
+
+P3-5a. [frq, 1 pt] In a long term study involving crime rates, Anna noticed that crime rates increased as ice cream sales increased. At first puzzled, Anna quickly realised that the two were correlated because as temperature increased, crime rates and ice cream sales both increased.
+
+P3-5b. [frq, 1 pt] When testing the effects of C. perfringens on rats, Dr. Looney employs two procedures. He both feeds the rats infected cheese and injects them directly. However, being squeamish, he prefers to feed them the cheese. As a result, he is better at infecting the rats using the cheese than his is at inoculating them. Analysis of the data then shows that rats were more likely to die from the cheese than the direct infection.
+
+P3-5c. [frq, 1 pt] An oncologist, Jason notices that patients that are diagnosed with cancer by screening tend to live longer after they’ve been diagnosed than patients who are diagnosed when the disease has been discovered through symptoms. This leads Jason to believe that screening extends the patient’s life span, when in reality both patients live the same amount of time.
+
+P3-5d. [frq, 1 pt] Suppose Ranjan has developed a new drug to treat cryptosporidiosis. The results of a rather ethically questionable clinical trial are shown below. Since survival rate among those untreated was greater than that among those treated, Ranjan concludes that the new drug is a flop, and it’s better to go without it.
+    
+    | | Immunocompetent | | Immunocompromised | | Total | | |
+    |---|---|---|---|---|---|---|---|
+    | | Survived Died | | Survived Died | | Survived Died Survival Rate | | |
+    | Treated/Untreated | 497/1511 3/489 | | 512/4 1488/496 | | 1009/1515 1491/985 40.36%/60.60% | | |
+
+P3-5e. [frq, 1 pt] Nick really likes drinking milk. He regularly drinks raw milk, and believes that there are certain health benefits you can get from drinking it. When he decides to investigate foodborne illness among those who drink raw milk, his case definitions for those who drink raw milk are much more strict than those who don’t.
+
+P3-5f. [frq, 1 pt] During an outbreak after a party, Katherine is being interviewed by Soumil to determine what foods she had eaten. However, Katherine falsely reports that she’d eaten the ice cream when she hadn’t.
+
+P3-5g. [frq, 1 pt] During a clinical trial on a drug used to treat headaches, Jonathan notices that the drug is more effective on people that enrolled themselves than people that are randomly selected. He suspects that it might be because people who enrolled themselves are more health conscious and will therefore take the drug more diligently and without error.
+
+
+=== Section 4: Food Safety ===
+
+[STIMULUS] **Directions:** Answer the following multiple choice questions by circling the right letter. For the free response, you may bullet your answers. They do not have to be complete sentences.
+
+P4-1. [mcq, 1 pt] Why should ground beef be cooked longer than whole cuts of beef?
+    A) Ground beef contains meat from more cows than whole cuts of beef
+    B) Ground beef comes into contact with more potentially infected fomites than whole cuts of beef
+    C) Ground beef can be penetrated by bacteria more easily than whole cuts of beef
+    D) Ground beef provides a more oxygen rich environment, allowing for the growth of certain heat resistant bacteria
+
+P4-2. [mcq, 1 pt] Match the meat with the recommended cooking temperature
+    A) 130 degrees F for ground beef
+    B) 130 degrees F for whole cuts of beef
+    C) 160 degrees F for ground beef
+    D) 160 degrees F for whole cuts of beef
+    E) More than one answer is correct
+
+P4-3. [mcq, 1 pt] Should you wash raw meat before cooking?
+    A) Yes - washing raw meat rinses away potentially harmful bacteria on the surface of the meat
+    B) Yes - it allows the meat to absorb water, which heats up when cooked, killing bacteria more efficiently
+    C) No - it allows the meat to absorb water, which, because of its high specific heat, allows bacteria to survive cooking
+    D) No - it may spread potentially harmful bacteria to other surfaces in the cooking space
+
+P4-4. [mcq, 1 pt] What range of temperatures did the CDC dub “the danger zone”, in which bacteria grow most quickly?
+    A) 50-120 degrees F
+    B) 40-140 degrees F
+    C) 40-120 degrees F
+    D) 50-140 degrees F
+
+P4-5. [multi, 3 pt] How should you thaw 4-12 pounds of chicken/turkey meat? Select all the correct answers
+    A) Let it warm up on the kitchen counter for 6 hours
+    B) Let it warm up on the kitchen counter for 12 hours
+    C) Let it warm up in the refrigerator for 12 hours
+    D) Let it warm up in the refrigerator for 1-2 days
+    E) Warm it in the microwave for 10-20 minutes then allow it to rest on the kitchen counter for 10 minutes
+    F) Warm it in the microwave for 10-20 minutes then cook immediately afterwards
+    G) Submerge in cold water for 3 hours without changing the water
+    H) Submerge in warm water for 3 hours without changing the water
+    I) Submerge in cold water for 3 hours, changing the water every 30 minutes
+    J) Submerge in warm water for 3 hours, changing the water every 30 minutes
+
+P4-6. [mcq, 1 pt] Should you wash fresh fruits and vegetables before eating them?
+    A) No - the bacteria on the surface of the vegetables can spread to kitchen surfaces
+    B) No - washing vegetables can rinse away important nutrients
+    C) Maybe - Only if you aren’t going to peel them
+    D) Yes - washing produce washes away potentially harmful bacteria
+
+P4-7. [frq, 3 pt] Name 3 high risk groups for foodborne disease.
+
+P4-8. [frq, 6 pt] How can antibiotic resistant bacteria pervade food and infect consumers before it is even touched by humans? Briefly explain.
+
+[STIMULUS] “ Culture-independent diagnostic tests (CIDTs) are changing the way that clinical laboratories diagnose patients with foodborne illness. These tests can identify the general type of bacteria causing illness within hours, without having to culture, or grow the bacteria in a laboratory. (The pure bacterial strain that grows is called an isolate.) These tests allow doctors to rapidly determine the cause of a patient’s illness. However, a shift toward CIDTs means that clinical laboratories may stop culturing, or producing bacterial isolates, from patients with foodborne illness. For example, the percentage of Campylobacter diarrheal illnesses diagnosed only by CIDTs in FoodNet sites increased from 13% in 2012-2014 to 24% in 2015. ”
+(https://www.cdc.gov/foodsafety/challenges/cidt.html)
+
+P4-9a. [frq, 6 pt] Name 3 problems that arise from ceasing to produce bacterial isolates
+
+P4-9b. [frq, 2 pt] Propose 2 reasons why CIDTs might be more popular than bacterial cultures.
+
+P4-9c. [frq, 4 pt] Name 2 solutions that could alleviate the problems above without completely eliminating CIDTs.
+
+P4-9d. [frq, 1 pt] Name the network that the CDC uses to track bacterial fingerprints for signs of an outbreak.
+
+P4-10. [frq, 2 pt] What are the 4 steps to food safety that the CDC recommends?
+
+P4-11. [frq, 6 pt] List the 4 steps in the food production chain, and name one way food can get contaminated for each.
+
+P4-12. [frq, 3 pt] Consider the disease shigellosis, which sometimes leads to postinfectious arthritis. Name each level of disease prevention, and provide three examples of how shigellosis can be prevented, one from each level. of disease prevention.

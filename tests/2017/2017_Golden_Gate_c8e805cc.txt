@@ -1,0 +1,419 @@
+Golden Gate — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  138 questions, 255.0 pts
+Source: scio.ly test archive id c8e805cc-f0a7-45de-9a95-580adc34152d  |  original files: https://drive.google.com/drive/folders/1oD5JN8fH9JuaByTvebklbiLPpsQNDDF1
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Time limit: 60 Minutes
+
+
+=== Part One ===
+
+[STIMULUS] ** (Each term will be used only once)**
+
+| Active Immunity | Acute Exposure | Agent | Antigen | Secondary Attack Rate | Information Bias | Selection Bias |
+|---|---|---|---|---|---|---|
+| Crude Birth Rate | Index Case | Necessary Cause | Class Interval | Comparison Value | Confounding | Delayed Health Effect |
+| Detection Limit | Dose-Response Relationship | Efficacy | Efficiency | Endemic Level | Epidemiologic Trial | Analytic Epidemiology |
+| Applied Epidemiology | Descriptive Epidemiology | Exposure-Dose Reconstruction | Fomite | Health Promotion | Healthy Worker Effect | Host Factor |
+| Active Immunity | Herd Immunity | Passive Immunity | Incidence | Incubation Period | In Vitro | In Vivo |
+| Crude Mortality Rate | Infant Mortality Rate | Neonatal Mortality Rate | Postneonatal Mortality Rate | Normal Distribution | Odds Ratio | Outbreak |
+| Common-Source Outbreak | Point-Source Outbreak | Propagated Outbreak | Pandemic | Prevalence | Reservoir | Risk Communication |
+| Random Sample | Representative Sample | Standard Deviation | Analytic Study | Case-Control Study | Cohort Study | Experimental Study |
+| Observational Study | Medical Surveillance | Passive Surveillance | Sentinel Surveillance | Synergistic Effect | Teratogen | Airborne Transmission |
+| Vectorborne Transmissions | Vehicleborne Transmissions | Virulency | | | | |
+
+P1-A. [frq, 1 pt] The systematic assessment of people exposed or potentially exposed to health hazards.
+
+P1-B. [frq, 1 pt] Manipulation of the association between an exposure and a health outcome by a third variable that is related to both.
+
+P1-C. [frq, 1 pt] The immunity that results from the production of antibodies by the immune system in response to the presence of an antigen.
+
+P1-D. [frq, 1 pt] The number of deaths of children from birth up to, but not including, 28 days per 1,000 live births.
+
+P1-E. [frq, 1 pt] Contact with a substance that occurs once or for only a short time.
+
+P1-F. [frq, 1 pt] A study that evaluates the association between exposure to hazardous substances and disease by testing scientific hypotheses.
+
+P1-G. [frq, 1 pt] Selected reporting units, with a high probability of seeing cases of the disease in question, good laboratory facilities and experienced well-qualified staff, identify and notify on certain diseases.
+
+P1-H. [frq, 1 pt] A toxin or other foreign substance that induces an immune response in the body, especially the production of antibodies.
+
+P1-I. [frq, 1 pt] The probability that infection occurs among susceptible persons within a reasonable incubation period following known contact with an infectious person or another infectious source.
+
+P1-J. [frq, 1 pt] Bias arising from measurement error.
+
+P1-K. [frq, 1 pt] The choice of individuals, groups or data for analysis in such a way that proper randomization is not achieved.
+
+P1-L. [frq, 1 pt] Gathers disease data from all potential reporting health care workers without prompting.
+
+P1-M. [frq, 1 pt] The number of live births occurring among the population of a given geographical area during a given year, per 1,000 mid-year total population of the given geographical area during the same year.
+
+P1-N. [frq, 1 pt] A measure that is used to quantify the amount of variation of a set of data values.
+
+P1-O. [frq, 1 pt] The initial patient in the population of an epidemiological investigation, or more generally, the first case of a condition or syndrome to be described in the medical literature.
+
+P1-P. [frq, 1 pt] A study that samples a group of people who share a defining characteristic, typically who experienced a common event in a selected period.
+
+P1-Q. [frq, 1 pt] A factor that must be present for a disease to occur.
+
+P1-R. [frq, 1 pt] A factor (e.g., a microorganism or chemical substance) or form of energy whose presence, excessive presence, or in the case of deficiency diseases, relative absence is essential for the occurrence of a disease or other adverse health outcome.
+
+P1-S. [frq, 1 pt] The size of each class into which a range of a variable is divided, as represented by the divisions of a histogram or bar chart.
+
+P1-T. [frq, 1 pt] Refers to the degree of damage caused by a microbe to its host.
+
+P1-U. [frq, 1 pt] Calculated concentration of a substance in air, water, food, or soil that is unlikely to cause harmful health effects in exposed people.
+
+P1-V. [frq, 1 pt] An outbreak in which persons are exposed to the same source over a brief time, such as through a single meal or at an event. The number of cases rises rapidly to a peak and falls gradually.
+
+P1-W. [frq, 1 pt] A study that compares exposures of people who have a disease or condition with people who do not have the disease or condition.
+
+P1-X. [frq, 1 pt] A disease or an injury that happens as a result of exposures that might have occurred in the past.
+
+P1-Y. [frq, 1 pt] The lowest concentration of a chemical that can reliably be distinguished from a zero concentration.
+
+P1-Z. [frq, 1 pt] The relationship between the amount of exposure to a substance and the resulting changes in body function or health.
+
+P1-AA. [frq, 1 pt] The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+P1-AB. [frq, 1 pt] The ability of an intervention or program to produce the intended or expected results with a minimum expenditure of time and resources.
+
+P1-AC. [frq, 1 pt] The amount of a particular disease that is usually present in a community.
+
+P1-AD. [frq, 1 pt] Consists of an external agent, a host and an environment in which host and agent are brought together, causing the disease to occur in the host.
+
+P1-AE. [frq, 1 pt] The study of epidemiology that is concerned with the search for causes and effects, or the why and the how.
+
+P1-AF. [frq, 1 pt] An outbreak which results from transmission from one person to another.
+
+P1-AG. [frq, 1 pt] Putting epidemiological research methods to use in public health practice.
+
+P1-AH. [frq, 1 pt] The study of the amount and distribution of a disease in a specified population by person, place, and time.
+
+P1-AI. [frq, 1 pt] A method of estimating the amount of people's past exposure to hazardous substances.
+
+P1-AJ. [frq, 1 pt] Any nonliving object or substance capable of carrying infectious organisms, such as germs or parasites, and hence transferring them from one individual to another.
+
+P1-AK. [frq, 1 pt] A study where the researcher observes and systematically collects information, but does not try to change the people.
+
+P1-AL. [frq, 1 pt] The process of enabling people to increase control over, and to improve, their health.
+
+P1-AM. [frq, 1 pt] A phenomenon where workers usually exhibit lower overall death rates than the general population because the severely ill and chronically disabled are ordinarily excluded from employment.
+
+P1-AN. [frq, 1 pt] A biologic response to multiple substances where one substance worsens the effect of another substance.
+
+P1-AO. [frq, 1 pt] Refers to the traits of an individual person or animal that affect susceptibility to disease, especially in comparison to other individuals.
+
+P1-AQ. [frq, 1 pt] A sample whose characteristics correspond to those of the original population or reference population.
+
+P1-AR. [frq, 1 pt] The immunity to a pathogen in a population based on the acquired immunity to it by a high proportion of members over time.
+
+P1-AS. [frq, 1 pt] A study where the researcher intervenes to change something (e.g., gives some patients a drug) and then observes what happens.
+
+P1-AT. [frq, 1 pt] The short-term immunity that results from the introduction of antibodies from another person or animal.
+
+P1-AU. [frq, 1 pt] The number of new cases of disease in a defined population over a specific time period.
+
+P1-AV. [frq, 1 pt] The period between exposure and onset of clinical symptoms.
+
+P1-AW. [frq, 1 pt] The exchange of information to increase understanding of health risks.
+
+P1-AX. [frq, 1 pt] In an artificial environment outside a living organism or body.
+
+P1-AY. [frq, 1 pt] Infections transmitted by the bite of infected arthropod species.
+
+P1-AZ. [frq, 1 pt] Within a living organism or body.
+
+P1-BA. [frq, 1 pt] The mortality rate from all causes of death for a population during a specified time period.
+
+P1-BB. [frq, 1 pt] The habitat in which an infectious agent normally lives, grows and multiplies.
+
+P1-BC. [frq, 1 pt] The number of deaths of infants under one year old per 1,000 live births.
+
+P1-BD. [frq, 1 pt] A substance that causes defects in development between conception and birth.
+
+P1-BE. [frq, 1 pt] A set of items that have been drawn from a population in such a way that each time an item was selected, every item in the population had an equal opportunity to appear in the sample.
+
+P1-BF. [frq, 1 pt] The number of deaths of children from 28 days up to, but not including, one year per 1,000 live births.
+
+P1-BG. [frq, 1 pt] A function that represents the distribution as a symmetrical bell-shaped graph.
+
+P1-BH. [frq, 1 pt] Infections transmitted by an inanimate object or material.
+
+P1-BI. [frq, 1 pt] A measure of association between an exposure and an outcome.
+
+P1-BJ. [frq, 1 pt] A sudden increase in occurrences of a disease in a particular time and place.
+
+P1-BK. [frq, 1 pt] An outbreak in which a group of persons are all exposed to an infectious agent or a toxin from the same source.
+
+P1-BL. [frq, 1 pt] An epidemic of infectious disease that has spread through human populations across a large region.
+
+P1-BM. [frq, 1 pt] When bacteria or viruses travel on dust particles or on small respiratory droplets that may become aerosolized when people sneeze, cough, laugh, or exhale.
+
+P1-BN. [frq, 1 pt] The number of existing disease cases in a defined population during a specific time period.
+
+
+=== Part Two ===
+
+[STIMULUS] Half of the students living in Berkeley’s Adams, James, and Jefferson dorms eat in the President’s Dining Hall for their meals, and the other half eat in a dining facility close by. About 700 students live in Adams, 1000 in James, and 850 in Jefferson. Dinner is served from 5:00PM to 7:00PM everyday. Typical meals at the dining hall include burgers, pizza, and french fries, but on special occasions, the dining hall serves the students good food from restaurants in the surrounding community. On November 10th, 2016, some of the delicacies served were a soft cheese similar to brie, grilled steak with truffle mashed potatoes, and braised rosemary chicken breast. You can assume that all the students who ate at the dining hall ate all of the food provided. After their delicious meal, the Berkeley students returned to their dorms, studied for their classes, and went to bed. Around 8:00AM on November 11th, 30 students in Adams, 55 in James, and 40 in Jefferson came down with symptoms of nausea, diarrhea, fever, and muscle aches. All of these students ate at the President’s Dining Hall. Of the students who ate at the other dining facility, which did not have this special dinner, 15 in total came down with these same symptoms. These students visited the University Health Services Center, and were told by the nurses to stay in bed and limit contact with uninfected students. Based on this situation, answer the following questions:
+
+P2-1. [frq, 4 pt] Which food-borne organism **AND** illness do you believe these students were infected with? Support your claim with evidence from the above scenario.
+    
+    Organism: ____
+    
+    Illness: ____
+    
+    Evidence: ____
+
+P2-2. [frq, 4 pt] Name two food-borne illnesses that you could have ruled out from evidence provided above. Explain how you were able to rule them out.
+    
+    1: ____
+    
+    2: ____
+
+P2-3. [frq, 3 pt] Explain why the advice the nurses gave the students at the University Health Services Center does or does not make sense.
+
+P2-4. [frq, 6 pt] Calculate the risk ratio for the scenario above. Show the work you did to get to your answer.
+
+P2-5. [frq, 3 pt] Interpret the risk ratio you calculated.
+
+[STIMULUS] By coincidence, it happened that a free lamaze class for low income pregnant women was being held in a nearby Berkeley gymnasium from 3:00PM to 5:00PM the same day. About 400 women from around the area attended the class and they were all in their third trimester of pregnancy. When the class ended, every woman was given a free pass to Berkeley’s President’s Dining Hall for a free dinner that day only. 300 of the women went to dinner that day and ate all of the selections provided. About two and a half weeks later, 150 of these women started to develop flu-like symptoms, but only mild fever and vomiting, akin to morning sickness. Two weeks after these symptoms arose, 50 of these women had sudden miscarriages.
+
+P2-6. [frq, 4 pt] Based on your earlier identification of the food-borne illness, what happened to these pregnant women that had miscarriages?
+
+[STIMULUS] That week was also homecoming week for UC Berkeley and alumni from across the country were coming to revisit their alma mater. The Berkeley Class of 1958’s reunion was being held at the reception hall near the President’s Dining Hall and their food was being catered by that dining hall the same day as the special dinner, November 10th. The alumni ate all of the food that was catered and several hundred of them had similar symptoms as the students, fever, nausea, muscle aches, diarrhea, and also a stiff neck and sensitivity to light. About 2 months later, a six dozen of these alumni who had these symptoms die.
+
+P2-7. [frq, 4 pt] Based on the above information, what was the likely cause of their death? Provide evidence that supports your claim.
+
+
+=== Part Three ===
+
+P3-1. [frq, 13 pt] List the 13 steps of an Epidemiologic Outbreak Investigation. Do your best to put the steps in order, but it is not required.
+    
+    1: ____
+    
+    2: ____
+    
+    3: ____
+    
+    4: ____
+    
+    5: ____
+    
+    6: ____
+    
+    7: ____
+    
+    8: ____
+    
+    9: ____
+    
+    10: ____
+    
+    11: ____
+    
+    12: ____
+    
+    13: ____
+
+P3-2. [frq, 6 pt] When identifying a specific case, what are the three different categories of a case definition that allow for uncertainty, and how do you define each of these categories?
+    
+    1: ____
+    
+    2: ____
+    
+    3: ____
+
+P3-3. [frq, 2 pt] ____ is the process of characterizing an outbreak by time, place, and person.
+
+[STIMULUS] 
+    [IMAGE: ../images/2017_golden_gate_c__d_0c34e7-197d24d0.webp]
+
+P3-4. [frq, 2 pt] What type of graph is shown above?
+
+P3-5. [frq, 2 pt] On this graph above, what does A indicate?
+
+P3-6. [frq, 2 pt] What type of spread is indicated above?
+
+[STIMULUS] 
+    [IMAGE: ../images/2017_golden_gate_c__d_daaff8-426c45af.webp]
+
+P3-7. [frq, 4 pt] Identify each of these graphs for different types of spread:
+    
+    Upper Left: ____
+    
+    Upper Right: ____
+    
+    Lower Left: ____
+    
+    Lower Right: ____
+
+P3-8. [frq, 4 pt] Name and briefly describe the two types of cohort studies:
+    
+    1: ____
+    
+    2: ____
+
+[STIMULUS] Brunch’d is a popular brunch destination in downtown Palo Alto, and only a 15 minute bike ride from the Stanford campus! Frequents of the restaurant are university students as well as Palo Alto community members. In October, 394 people was diagnosed with Salmonellosis and Brunch’d is suspected to be the source. 274 went to Brunch’d and 120 people did not. In addition to the 394 people diagnosed, 612 similar disease-free people were contacted to see if they ate at Brunch’d. 241 people ate at Brunch’d and 371 did not.
+
+P3-9. [frq, 2 pt] What is the type of study you will perform with the information provided?
+
+P3-10. [frq, 2 pt] What is the primary fallback from the type of study you listed above?
+
+P3-11. [frq, 5 pt] Create a 2x2 table below based on the above scenario:
+
+P3-12. [frq, 4 pt] Calculate the odds ratio for the above scenario. Show the work you did to get to your answer.
+
+P3-13. [frq, 2 pt] Interpret the odds ratio you calculated.
+
+P3-14. [frq, 5 pt] Name three symptoms of Salmonellosis and the typical range of incubation period.
+    
+    Symptoms: ____
+    
+    Incubation Period: ____
+
+
+=== Part Four ===
+
+[STIMULUS] Name the following famous epidemiologists:
+
+P4-1. [frq, 2 pt] British physician who developed a critical theory regarding Cholera Transmission and lead to the adoption of anesthesia.
+
+P4-2. [frq, 2 pt] The scientist who was credited with developing the Smallpox Vaccine.
+
+P4-3. [frq, 2 pt] The scientist who developed the vaccine that eradicated polio.
+
+P4-4. [frq, 2 pt] British epidemiologist, regarded as the founder of medical statistics.
+
+[STIMULUS] 
+    [IMAGE: ../images/2017_golden_gate_c__d_8635f4-dceb3932.webp]
+
+P4-5. [frq, 4 pt] Name the type of map shown above as well as what significant disease outbreak it depicts.
+    
+    Type of Map: ____
+    
+    Disease Outbreak: ____
+
+P4-7. [frq, 3 pt] Describe the significance of the discovery of this outbreak.
+
+P4-8. [frq, 6 pt] Previously, this disease had a debate over the mode of transmission. Explain what this debate was and how the discovery this epidemiologist made ended this debate.
+
+[STIMULUS] Below is a table of various diseases, modes of transmission, and symptoms of the disease. Fill in the blank spaces.
+    | Disease | Transmission | Symptoms | B/V/P |
+    | [[q:P4-9-1]] | Tick | Fever, Chills, Headache | [[q:P4-9-2]] |
+    | Yellow Fever | [[q:P4-9-3]] | [[q:P4-9-4]] | [[q:P4-9-5]] |
+    | [[q:P4-9-6]] | Zoonosis (Rodents, Rabbits, Insect) | Flu, Pneumonia | [[q:P4-9-7]] |
+    | Hepatitis C | [[q:P4-9-8]] | [[q:P4-9-9]] | [[q:P4-9-10]] |
+    | [[q:P4-9-11]] | Zoonosis (Bird bite/air) | Typhoid | [[q:P4-9-12]] |
+    | Pertussis | [[q:P4-9-13]] | [[q:P4-9-14]] | [[q:P4-9-15]] |
+    | [[q:P4-9-16]] | Direct Contact/Droplet | Throat/Respiratory | [[q:P4-9-17]] |
+    | Tetanus | [[q:P4-9-18]] | [[q:P4-9-19]] | [[q:P4-9-20]] |
+    | Kuru | [[q:P4-9-21]] | [[q:P4-9-22]] | [[q:P4-9-23]] |
+    | Anthrax | [[q:P4-9-24]] | [[q:P4-9-25]] | [[q:P4-9-26]] |
+    | [[q:P4-9-27]] | Direct Contact | Red Rashes or Blister | [[q:P4-9-28]] |
+    | Measles | [[q:P4-9-29]] | [[q:P4-9-30]] | [[q:P4-9-31]] |
+    | SARS | [[q:P4-9-32]] | [[q:P4-9-33]] | [[q:P4-9-34]] |
+    | [[q:P4-9-35]] | Aerosol from Infected Water | Pneumonia | [[q:P4-9-36]] |
+    | [[q:P4-9-37]] | Tick | Circular Rash, Headache, Fatigue | [[q:P4-9-38]] |
+
+P4-9-1. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-2. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-3. [frq, 1 pt] Row: Yellow Fever - Transmission
+
+P4-9-4. [frq, 1 pt] Row: Yellow Fever - Symptoms
+
+P4-9-5. [frq, 1 pt] Row: Yellow Fever - B/V/P
+
+P4-9-6. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-7. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-8. [frq, 1 pt] Row: Hepatitis C - Transmission
+
+P4-9-9. [frq, 1 pt] Row: Hepatitis C - Symptoms
+
+P4-9-10. [frq, 1 pt] Row: Hepatitis C - B/V/P
+
+P4-9-11. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-12. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-13. [frq, 1 pt] Row: Pertussis - Transmission
+
+P4-9-14. [frq, 1 pt] Row: Pertussis - Symptoms
+
+P4-9-15. [frq, 1 pt] Row: Pertussis - B/V/P
+
+P4-9-16. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-17. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-18. [frq, 1 pt] Row: Tetanus - Transmission
+
+P4-9-19. [frq, 1 pt] Row: Tetanus - Symptoms
+
+P4-9-20. [frq, 1 pt] Row: Tetanus - B/V/P
+
+P4-9-21. [frq, 1 pt] Row: Kuru - Transmission
+
+P4-9-22. [frq, 1 pt] Row: Kuru - Symptoms
+
+P4-9-23. [frq, 1 pt] Row: Kuru - B/V/P
+
+P4-9-24. [frq, 1 pt] Row: Anthrax - Transmission
+
+P4-9-25. [frq, 1 pt] Row: Anthrax - Symptoms
+
+P4-9-26. [frq, 1 pt] Row: Anthrax - B/V/P
+
+P4-9-27. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-28. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-29. [frq, 1 pt] Row: Measles - Transmission
+
+P4-9-30. [frq, 1 pt] Row: Measles - Symptoms
+
+P4-9-31. [frq, 1 pt] Row: Measles - B/V/P
+
+P4-9-32. [frq, 1 pt] Row: SARS - Transmission
+
+P4-9-33. [frq, 1 pt] Row: SARS - Symptoms
+
+P4-9-34. [frq, 1 pt] Row: SARS - B/V/P
+
+P4-9-35. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-36. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+P4-9-37. [frq, 1 pt] Row: (blank disease) - Disease
+
+P4-9-38. [frq, 1 pt] Row: (blank disease) - B/V/P
+
+
+=== Part Five ===
+
+[STIMULUS] Bias inherently exists in all Epidemiologic studies, and it is important for scientists to identify these sources of bias and attempt to correct them.
+
+Below you will be given various scenarios and you will state the most specific type of bias that is present. Then explain how this bias could have been prevented.
+
+P5-1. [frq, 6 pt] 500 supervisors are selected as a sample and they are questioned about the amount of work they give their employees. The survey is publicly available, with their individual responses identified. The result of the survey had the mass majority of supervisors respond that they give their employees little work.
+
+P5-2. [frq, 6 pt] A case-control study is being performed among a group of people who ate a restaurant that likely served contaminated food. After eating at this restaurant, the people brought leftovers home. The control group selected are the family members of the sick people.
+
+P5-3. [frq, 6 pt] A complete study is performed on California residents who have lung cancer. Biographical and medical information is collected as complete as possible, with 15 different categories per patient. When analyzing the data, it is decided that any patient with information missing in more than 5 categories will be thrown out of the study. About 2000 cases of 14000 ended up being thrown out.
+
+P5-5. [frq, 6 pt] A study is being performed in which patients infected with Norovirus are asked about when they were exposed and what situations placed them at risk. During these interviews, the interviewer asked the patients about a specific location where they believe the Norovirus to have broken out, and many patients said they went to that location.
+
+P5-6. [frq, 6 pt] 1000 young college students are interviewed regarding their sexual health and history. One of the questions in the interview asked about their use of protection when engaging in sexual activities with partners. There ended up being an extremely high percentage of students that said they use protection, 85%, whereas the national average for college students is about 60%.
+
+P5-7. [frq, 6 pt] A group of 45 high school students were exposed to whooping cough and contracted the disease. A group of epidemiologists came in from the CDC to investigate the outbreak and interviewed the students about their interactions with other students in an attempt to find the source. Five researchers came in and each student went through five rounds of interviews.
+
+P5-8. [frq, 12 pt] Name three ways confounding can be controlled in a study. Explain how each of these methods reduces an aspect of confounding.
+    
+    1: ____
+    
+    2: ____
+    
+    3: ____

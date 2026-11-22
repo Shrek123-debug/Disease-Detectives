@@ -1,0 +1,218 @@
+CyFalls — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  60 questions, 60.0 pts
+Source: scio.ly test archive id 1acf33a3-5849-48ad-82c2-ffb2e8fb920d  |  original files: https://drive.google.com/drive/folders/1FDPtOlitl0leq8DbdFRC5FjF7wksa2OX
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: All answers are to be written in the spaces provided of this test packet in neat handwriting. Anything I cannot read will not receive points. Tie Breaker Questions and completion time will be used on all scores that tie.
+
+3. [frq, 1 pt] Calculate the prevalence if the population of affected individuals is 270 and the duration is 18 months. Show formula and work for credit.
+
+4. [frq, 1 pt] If two concurrent illnesses have the same incidence in a population, which one factor will cause the greatest prevalence between these two diseases?
+
+5. [frq, 1 pt] Place the following in the most logical order: ALL must be in order for credit
+    ____ a) Develop a chain of transmission
+    ____ b) Communicate findings
+    ____ c) Analytical analysis of data
+    ____ d) Implement control and prevention methods
+    ____ e) Prepare fieldwork and establish an epidemic
+    ____ f) diagnosis with lab work
+    ____ g) Describe data in terms of person – place – time
+
+6a. [frq, 1 pt] The Chain of Transmission includes what 3 factors? (a)
+
+6b. [frq, 1 pt] The Chain of Transmission includes what 3 factors? (b)
+
+6c. [frq, 1 pt] The Chain of Transmission includes what 3 factors? (c)
+
+7a. [frq, 1 pt] What are two agencies which help establish the chain of transmission? (a)
+
+7b. [frq, 1 pt] What are two agencies which help establish the chain of transmission? (b)
+
+8. [frq, 1 pt] Mary Mallon, also known by the name Typhoid Mary, was asymptomatic for the disease typhoid. Typhoid Fever killed several individuals of which she worked for in their houses as a maid. She would be considered a(n) ____ by this description.
+
+9a. [frq, 1 pt] The chain of infection includes which 3 factors (a)
+
+9b. [frq, 1 pt] The chain of infection includes which 3 factors (b)
+
+10. [frq, 1 pt] What was the most common fomite in the transmission of mad cow disease in and out of the United Kingdom in the 1990's?
+
+11. [frq, 1 pt] What is the primary vector in the bubonic plague experienced in the 1500's?
+
+12. [frq, 1 pt] Explain the differences of causation and correlation by using an example. Be very clear in your responses.
+
+13. [frq, 1 pt] The Hanta virus broke out in the USA during 1993 in the four corners region of the southwest. This is considered to be a(n) ____
+
+14a. [frq, 1 pt] List three different examples of vehicle transmission of disease. Supply an example of each. (a)
+
+14b. [frq, 1 pt] List three different examples of vehicle transmission of disease. Supply an example of each. (b)
+
+14c. [frq, 1 pt] List three different examples of vehicle transmission of disease. Supply an example of each. (c)
+
+15. [frq, 1 pt] Make a chart listing and explain FATTOM
+    Name | Description/example/explanation
+    [IMAGE: ../images/2019_cyfalls_c__p4_v60c1fb-07ac1b99.webp]
+
+16. [frq, 1 pt] Using the FATTOMS acronym, what adaptation does Clostridium botulinum possess to survive in a can of pumpkin pie filling?
+
+17. [frq, 1 pt] What can be done to foods to reduce their level of water thus reducing their susceptibility to contamination? Give several examples.
+
+[STIMULUS] From May to July of 2010, two Iowa egg producers shipped eggs to 14 states, with over 2,000 illnesses reported.
+
+18a. [frq, 1 pt] what type of bacteria caused the disease?
+
+18b. [frq, 1 pt] From May to July of 2010, two Iowa egg producers shipped eggs to 14 states, with over 2,000 illnesses reported. (b) what practices contributed to contamination?
+
+18c. [frq, 1 pt] From May to July of 2010, two Iowa egg producers shipped eggs to 14 states, with over 2,000 illnesses reported. (c) how should the consumer handle food to avoid poisoning by this bacteria?
+
+[STIMULUS] In March of 2015, three people died and several more were sickened after eating Blue Bell Ice Cream in several states.
+
+19a. [frq, 1 pt] what type of bacteria caused the disease?
+
+19b. [frq, 1 pt] In March of 2015, three people died and several more were sickened after eating Blue Bell Ice Cream in several states. (b) what practices contributed to contamination?
+
+19c. [frq, 1 pt] In March of 2015, three people died and several more were sickened after eating Blue Bell Ice Cream in several states. (c) how did Blue Bell react to this contamination?
+
+[STIMULUS] | TIE BREAK QUESTIONS (+1/each) | Identify the causes of these outbreaks |
+|---|---|
+| a. 2014 Sierra Leone, vaccine may have been created | |
+| b. 2018 Cruise ship headed to Alaska sickens 73 passengers with severe gastroenteritis | |
+| c. New Mexico/Arizona four corners, farm house/ranch, 1993 | |
+| d. Public Schools in the USA, frozen strawberries, 1997 | |
+| e. Mosquito associated, New York city, 1999 | |
+| f. airborne bacteria outbreak from cooling towers in air-conditioning 1976 | |
+| g. Protists caused, largest waterborne outbreak, 1993 Milwaukee | |
+| h. Virus affecting fetal development, Caribbean, Africa and Asia, recent | |
+| i. Jack in the Box undercooked hamburgers, Seattle, 1993 | |
+| j. can be fatal, flesh eating bacteria in stagnant/polluted bay water | |
+
+TB-b. [frq, 1 pt] Identify the cause of the outbreak: 2018 Cruise ship headed to Alaska sickens 73 passengers with severe gastroenteritis
+
+TB-c. [frq, 1 pt] Identify the cause of the outbreak: New Mexico/Arizona four corners, farm house/ranch, 1993
+
+TB-e. [frq, 1 pt] Identify the cause of the outbreak: Mosquito associated, New York city, 1999
+
+TB-f. [frq, 1 pt] Identify the cause of the outbreak: airborne bacteria outbreak from cooling towers in air-conditioning 1976
+
+TB-h. [frq, 1 pt] Identify the cause of the outbreak: Virus affecting fetal development, Caribbean, Africa and Asia, recent
+
+TB-j. [frq, 1 pt] Identify the cause of the outbreak: can be fatal, flesh eating bacteria in stagnant/polluted bay water
+
+[STIMULUS] A total of 1500 children have a rapid strep test (RST) done by a standardized culture technique. Of the 1500 children, 1338 have a negative RST and 162 have a positive RST. In addition, a backup throat culture (gold standard) was done on all children. Of those children with a negative RST, 1302 have a negative throat culture. In the group with a positive RST, 159 have a positive throat culture.
+    [IMAGE: ../images/2019_cyfalls_c__p6_vc0c37e-83ab3a9f.webp]
+    | Target Disorder (strep tonsillitis) | Present | Absent |
+    | Diagnostic Test Result Positive RST | a | b |
+    | Negative RST | c | d |
+
+20. [frq, 1 pt] Calculate the percentage sensitivity of RST for the diagnosis of strep throat. Show formula/set up and work.
+
+21. [frq, 1 pt] Calculate the percentage specificity of RST for the diagnosis of strep throat. Show formula/set up and work.
+
+22. [frq, 1 pt] From these results, would a negative test be trustworthy? What follow up on a negative test might be taken?
+
+23. [frq, 1 pt] The ongoing systematic collection, analysis, and interpretation of outcome of specific data for use in planning, implementing and evaluating public health policies and practices is called ____
+
+24. [mcq, 1 pt] Circle the answer which of the following is an example of cross-contamination?
+    A) Jane infects John by sneezing on him
+    B) George's raw chicken drips onto his fruit salad inside the fridge. George later gets a salmonella infection from the fruit salad.
+    C) A virus infects a bacterial cell, providing it with a new gene that makes the bacteria even more dangerous
+    D) A disease affecting one population and another disease affecting another population suddenly and inexplicably switch populations
+
+25. [frq, 1 pt] Etiology is the study of ____
+
+26. [frq, 1 pt] Describe the advances each of the following scientists accomplished: John Snow
+
+27. [frq, 1 pt] Describe the advances each of the following scientists accomplished: Hippocrates
+
+28. [frq, 1 pt] Describe the advances each of the following scientists accomplished: Koch
+
+29. [frq, 1 pt] Describe the advances each of the following scientists accomplished: Pasteur
+
+[STIMULUS] Use the following list to identify the following: Bacterial, Viral, Prion, Protist, Fungal
+
+30. [mcq, 1 pt] Mad Cow Disease
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+31. [mcq, 1 pt] capsid and tail fibers
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+32. [mcq, 1 pt] Entamoeba histolytica
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+33. [mcq, 1 pt] spores and hyphae
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+34. [mcq, 1 pt] gram negative
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+35. [mcq, 1 pt] Amanita bisporigera also known as the death cap
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+36. [mcq, 1 pt] Hepatitis A
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+37. [mcq, 1 pt] protein particle
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+38. [mcq, 1 pt] Listeria
+    A) Bacterial
+    B) Viral
+    C) Prion
+    D) Protist
+    E) Fungal
+
+39. [frq, 1 pt] Explain how swordfish or tuna fish accumulate heavy metals inside their bodies and why this is a concern.
+
+40. [frq, 1 pt] ____: This study is used with a small, well-defined population.
+
+41. [frq, 1 pt] ____: This study uses the odds ratio to calculate relevant data.
+
+42. [frq, 1 pt] ____: This type of study is also known as a survey.
+
+43. [frq, 1 pt] ____: This study compares groups of people to determine a cause of a disease.
+
+[STIMULUS] On the morning of Thursday, March 4th, the local hospital emergency room reports that several patients were seen in the emergency room with gastroenteritis. All the patients attended a birthday party (held Tuesday, March 2nd) hosted by a mutual friend at their home. A total of 55 guests attended the birthday party dinner; however only 35 guests became sick. Dates of onset in these cases ranged from March 3rd to March 5th. Onset of illness in all cases was characterized chiefly by abdominal pain and nausea. Some patients experienced diarrhea and/or vomiting. At least one ill person reported a fever >99.5º (37.5ºC)
+
+44. [frq, 1 pt] Is this an outbreak? Explain your answer
+
+[STIMULUS] A local catering company catered the Fourth of July Celebration party; however guests did bring the cut fruit tray and the cake. The various foods consumed at the party appear in the Table below. Complete the shaded squares in the table. Use the information in this table to answer the following questions.
+    [IMAGE: ../images/2019_cyfalls_c__p9_v5e66c6-88e926ab.webp]
+
+48. [frq, 1 pt] Refer to Table 2. What one food is most likely the source of the illness experienced?
+
+50. [mcq, 1 pt] Stool specimen from ill birthday party attendees were submitted to the state lab. Four specimen tested positive for Norovirus and negative for enteric bacteria. The stool specimen from the catering food worker was negative for both Norovirus and enteric bacteria. What intervention measure would you suggest to the ill individuals?
+    A) Wear gloves only when handling raw meat
+    B) Never wear gloves
+    C) Use good personal hygiene during food preparations
+    D) Use the same cutting board and knife for raw meats and vegetables
+    E) Thaw raw meat on the counter at room temperature

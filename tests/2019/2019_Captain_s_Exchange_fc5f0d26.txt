@@ -1,0 +1,312 @@
+Captain's Exchange — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  76 questions, 137.0 pts
+Source: scio.ly test archive id fc5f0d26-00ca-49a2-8a61-838f9e98955e  |  original files: https://drive.google.com/drive/folders/1L4HbEqCM46MFBc3k0oixjDkMpHhgxUsr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== Section 1: Matching ===
+
+[STIMULUS] a) In order to determine if there is statistical difference between means of 2 or more independent variables
+b) true pos/(true pos + false neg)
+c) (1-sensitivity)/specificity
+d) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+e) The rate at which a population's members develop a condition, measured in events per person-time.
+f) true neg/(true neg + false pos)
+g) Fatalities from disease/total cases
+h) true neg/(true neg + false neg)
+i) true pos/(false pos + true pos)
+j) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+k) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+l) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-1. [mcq, 1 pt] Which definition matches Attributable Risk?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-2. [mcq, 1 pt] Which definition matches Case Fatality Rate?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-3. [mcq, 1 pt] Which definition matches Incidence Rate?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-4. [mcq, 1 pt] Which definition matches T-Test?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-5. [mcq, 1 pt] Which definition matches Chi Square?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-6. [mcq, 1 pt] Which definition matches Cochran-Mantel-Haenszel?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-8. [mcq, 1 pt] Which definition matches Negative Likelihood Ratio?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-9. [mcq, 1 pt] Which definition matches Positive Predictive Value?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+P1-10. [mcq, 1 pt] Which definition matches Negative Predictive Value?
+    A) In order to determine if there is statistical difference between means of 2 or more independent variables
+    B) true pos/(true pos + false neg)
+    C) (1-sensitivity)/specificity
+    D) Test for repeated tests of independence with 2x2 contingency tables in order to avoid Simpson's Paradox.
+    E) The rate at which a population's members develop a condition, measured in events per person-time.
+    F) true neg/(true neg + false pos)
+    G) Fatalities from disease/total cases
+    H) true neg/(true neg + false neg)
+    I) true pos/(false pos + true pos)
+    J) Test for independence to determine whether there's a significant relationship/association between 2 categorical variables. (Sample size greater than 30)
+    K) The absolute difference in cumulative incidence between an exposed population and an unexposed population
+    L) Used with a small population size, to test difference between the samples when variances of 2 normal distributions aren't known and when dependent variable is numeric.
+
+
+=== Section 2: Write the epidemiological term best described by the definitions below. ===
+
+P2-1. [frq, 1 pt] Minor changes in antigens. Hosts previously infected have some immunity.
+
+P2-2. [frq, 1 pt] Virus transmitted by a mosquito
+
+P2-3. [frq, 1 pt] The ability of an intervention or program to produce the intended or expected results under ideal conditions
+
+P2-4. [frq, 1 pt] The time elapsed between exposure to a pathogen, chemical, or radiation, and when symptoms and signs were first apparent
+
+P2-5. [frq, 1 pt] The degree to which the info collected accurately answers the research question
+
+P2-6. [frq, 1 pt] The proportion of exposed persons who become infected
+
+P2-7. [frq, 1 pt] The proportion of persons infected, after exposure to a causative agent, who then develop clinical disease
+
+P2-8. [frq, 1 pt] Separation of potentially exposed but well people
+
+P2-9. [frq, 1 pt] Trend that hangs over a long period of time, generally years or decades
+
+P2-10. [frq, 1 pt] Organization based in Geneva Switzerland that coordinates and sets up programs to improve health in over 100 member countries
+
+
+=== Section 3: Name the type of epi curve shown in each picture below along with an example of a scenario that could be represented by each curve. ===
+
+P3-a. [frq, 2 pt] Name the type of epi curve shown in the picture and give an example of a scenario that could be represented by this curve.
+    [IMAGE: ../images/2019_captain_s_exchange_c__p3_4f6f24-1d027e66.webp]
+
+P3-b. [frq, 2 pt] Name the type of epi curve shown in the picture and give an example of a scenario that could be represented by this curve.
+    [IMAGE: ../images/2019_captain_s_exchange_c__p3_35cba4-ccbf62a2.webp]
+
+P3-c. [frq, 2 pt] Name the type of epi curve shown in the picture and give an example of a scenario that could be represented by this curve.
+    [IMAGE: ../images/2019_captain_s_exchange_c__p3_cbd4e1-a1e9730e.webp]
+
+
+=== Section 4: Name the type of prevention (primary, secondary, tertiary or quaternary) for each phrase below. ===
+
+P4-1. [frq, 1 pt] Immunization
+
+P4-2. [frq, 1 pt] Rehabilitation programs
+
+P4-3. [frq, 1 pt] Disease screening tests
+
+P4-4. [frq, 1 pt] Paid leave while recovering from a disease
+
+P4-5. [frq, 1 pt] Education programs
+
+P4-6. [frq, 1 pt] Avoiding overtreatment of patients
+
+P4-7. [frq, 1 pt] Chronic disease management programs
+
+
+=== Section 5: Name type of bias best displayed by each of the following descriptions. ===
+
+P5-1. [frq, 2 pt] A situation in which the effect or association between an exposure and outcome is distorted by the presence of another variable from the study.
+
+P5-2. [frq, 2 pt] Controls selected for a case control study are more likely to be exposed to pathogen than study population from which they arose.
+
+P5-3. [frq, 2 pt] Error in the selection, division, or sampling of the study population.
+
+P5-4. [frq, 2 pt] A form of selection bias that causes hospital cases and controls in a case control study to be systematically different from one another because the combination of exposure to risk and occurrence of disease increases the likelihood of being admitted to the hospital.
+
+P5-5. [frq, 2 pt] In the clinical research trial industry, lost to follow-up refers to patients who at one point in time were actively participating in a clinical research trial, but have become lost (either by error in a computer tracking system or by being unreachable) at the point of follow-up in the trial.
+
+P5-6. [frq, 2 pt] Error due to the inaccurate categorization of the study population into demographic groups.
+
+P5-7. [frq, 2 pt] Researcher conveys high expectations to subjects, subjects then produce those results.
+
+P5-8. [frq, 2 pt] People act different when they're aware they're being observed.
+
+
+=== Section 6: Bradford Hill Criteria ===
+
+[STIMULUS] List and briefly describe ALL of the Bradford Hill Criteria.
+
+P6-1. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 1.
+
+P6-2. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 2.
+
+P6-3. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 3.
+
+P6-4. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 4.
+
+P6-5. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 5.
+
+P6-6. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 6.
+
+P6-7. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 7.
+
+P6-8. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 8.
+
+P6-9. [frq, 2 pt] List and briefly describe Bradford Hill Criterion 9.
+
+[STIMULUS] Now, write the name of one of the 9 criteria best described by the situation below
+
+P6-10. [frq, 1 pt] Rats were found to have similar gut receptors as humans
+
+P6-11. [frq, 1 pt] Cows became ill after eating grass, but not after eating any other foods
+
+P6-12. [frq, 1 pt] An experiment at Site B produced the same results as an experiment at Site E
+
+P6-13. [frq, 1 pt] A person who ate a larger portion of chicken became more ill than a person who ate less
+
+P6-14. [frq, 1 pt] Similarities between two outbreaks of Salmonella
+
+P6-15. [frq, 1 pt] The tourists became ill after eating the infected food
+
+P6-16. [frq, 1 pt] Pseudomonas should produce a similar effect on 2 antibiotics of the same class.
+
+
+=== Section 7: Open ended ===
+
+P7-1. [frq, 3 pt] What is the difference between classical, descriptive and analytical epidemiology?
+
+P7-2. [frq, 8 pt] List the Hierarchy Of Evidence of epidemiological studies.
+
+P7-3. [frq, 2 pt] Explain the difference between bias and a confounding factor.
+
+P7-4. [frq, 3 pt] List 3 disadvantages of using an Area Map.
+
+P7-5. [frq, 2 pt] Why are antigen tests more accurate than antibody tests? Also, list an example of an antigen test.
+
+P7-6. [frq, 5 pt] List 5 reasons why outlier cases occur.
+
+P7-7. [frq, 3 pt] Why is the number of people with a specific illness never exact?
+
+P7-8. [frq, 1 pt] What does it mean for a risk factor to be greater than 1?
+
+
+=== Section 8: Types of Studies ===
+
+P8-1. [frq, 1 pt] Why is matching not ideal in case control studies?
+
+P8-2. [frq, 3 pt] Define a single, double and triple blind study.
+
+P8-3. [frq, 3 pt] Name the type of study used to measure disease rates at a population/community level and an advantage and disadvantage of this type of study.
+
+P8-4. [frq, 2 pt] Describe the difference between a case report and a case series.
+
+P8-5. [frq, 2 pt] Why can't the incident rate be determined in a case control study?
+
+P8-6. [frq, 6 pt] List 3 advantages and 3 disadvantages of a cohort study.
+
+P8-7. [frq, 1 pt] Define a case-crossover study.
+
+
+=== Section 9: Case Study ===
+
+[STIMULUS] On August 23rd, you and your team of epidemiologists get a call from the coach of the World Cup winning soccer team. You learn that 5 of the 60 players on the team have been diagnosed by their doctors with MRSA (methicillin resistant staphylococcus aureus) within the last month. The coach has also informed you that the players have constantly shared towels & washcloths lately & have unfortunately not consistently showered before using the hot tub. It is your job to investigate further!
+
+P9-1. [frq, 3 pt] Construct a case definition for this potential outbreak.
+
+P9-2. [frq, 2 pt] Do you believe this constitutes as an outbreak? Explain why.
+
+P9-3. [frq, 2 pt] The team doctor wants to check if any players not diagnosed with MRSA are actually ill. Name two areas on their bodies that the doctor should swab.
+
+P9-4. [frq, 2 pt] A player from a basketball team from a nearby area is also complaining of symptoms similar to those on the soccer team also diagnosed with MRSA. However, investigators excluded him from the investigation. Why?
+
+P9-5. [frq, 1 pt] Which type of study should be used in this investigation?
+
+P9-6. [frq, 2 pt] Would you ask the players if they had any surgeries or hospitalizations in the past year? Explain.
+
+P9-7. [frq, 3 pt] List 3 factors that could have increased a players chance of contracting MRSA while at soccer practice.
+
+P9-8. [frq, 4 pt] List 4 prevention measures the soccer team should implement.

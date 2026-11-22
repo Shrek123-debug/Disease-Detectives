@@ -1,0 +1,521 @@
+BEARSO — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  63 questions, 100.0 pts
+Source: scio.ly test archive id f9bdac5b-ad29-43cc-9393-bc11f567caa9  |  original files: https://drive.google.com/drive/folders/1xrfWhH9m23Z3D4me0WZqNawfFVp6gP_p
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: This is the Disease Detectives C exam for BEARSO 2020. There are three sections to this event:
+1. Background and Surveillance
+2. Outbreak Investigation
+3. Patterns, Control and Prevention
+Good luck on your investigation!
+
+[STIMULUS] You're a time-traveling public health trainee, hoping to help those suffering from outbreaks in the past with the knowledge of the future! It's the day of your final exam to become an official Public Health Time-Wizard. To calm your nerves, you run through a possible test scenario in your head.
+
+Consider a hypothetical disease (Cherry-Pox) that is somehow spread through cherry ice cream and person-to-person contact with the infected. For the following interventions, write **C** if the approach is clinical, **PH** if the approach is related to public health, and **B** if the intervention could be considered both.
+
+1a. [frq, 1 pt] Banning inclusion of cherries in ice cream until the disease is contained.
+
+1b. [frq, 1 pt] Implementing strict hygiene guidelines for ice cream workers.
+
+1c. [frq, 1 pt] Development of free diagnostic tests for those that consumed cherry ice cream.
+
+2. [frq, 2 pt] If the disease could not be spread from person-to-person, what answer(s), if any, would you change from the previous question? Explain.
+
+3. [multi, 6 pt] Which of the following objective(s) would you hire an epidemiologist to help with?
+    A) Seeing if smoking puts people at higher risk for Cherry-Pox.
+    B) Discerning whether pink food coloring or cherries themselves cause Cherry-Pox.
+    C) Testing the effects of the Cherry-Pox agent on different kinds of cells in the body.
+    D) Noting differences btwn those that recover fully and those who develop permanent disabilities.
+    E) Determining whether social distancing is helpful for preventing spread of Cherry-Pox.
+    F) Development of a vaccine to prevent Cherry-Pox in children.
+
+4. [frq, 2 pt] If you wanted to solve objective (b) from the previous question, fill in the missing step:
+    1. Collect data on Cherry-Pox rates for consumers of strawberry ice cream using the same pink food coloring. Collect the same type of data for the general population as well.
+    2. Based on the data, consumers of strawberry ice cream do not have statistically higher rates of Cherry-Pox than the general population. You infer that it must be the cherries themselves causing Cherry-Pox.
+    3. ____
+    4. To intervene, the government bans cherries from being included in ice cream.
+
+5. [frq, 1 pt] Order the following steps chronologically by listing the letter of each step in order from first to last (e.g. abcde):
+    a. The ice cream consumer is diagnosed with Cherry-Pox disease.
+    b. The cherries induce build up of particulates in the urinary and renal tracts.
+    c. An ice cream enthusiast attends a spring cherry blossom festival and ingests contaminated ice cream.
+    d. The ice cream consumer feels pain in their back and during urination.
+    e. The ice-cream consumer recovers with chronic kidney complications.
+
+6. [frq, 1 pt] The incubation period is between which two statements from the previous question?
+
+7. [tf, 1 pt] True or False: The incubation period is typically consistent within a given disease, but can vary widely between diseases.
+    A) True
+    B) False
+
+[STIMULUS] Answer the questions regarding the following facts about Cherry-Pox:
+A cherry aphid is a pest that feeds on cherry juices. Due to climate change, their natural environment has shifted North to a region including Lake Cerise. A virus naturally found in Lake Cerise has been transmitted from the lake water into cherries by the cherry aphids. It has been found that sharing items such as straws or eating utensils with the infected leads to transmission of Cherry-Pox person-to-person.
+
+8b. [frq, 1 pt] List the fomite(s).
+
+8c. [frq, 1 pt] If the virus is ingested by the host but does not invade the tissue, what is this condition called?
+
+9. [frq, 1 pt] It was found that while exposure to the Cherry-Pox virus infected a high proportion of people, only a small amount of the infected developed clinical disease. However, only a small number of those with clinical disease did not become severely ill. How would you describe the level of infectivity, pathogenicity, and virulence for Cherry-Pox (**high** vs. **low**)?
+    ____ infectivity, ____ pathogenicity, ____ virulence
+
+10. [frq, 8 pt] Put the following steps in chronological order along with the name of each step in the public health approach (e.g. a - name, b - name, c - name, d - name):
+    a. Tracing the disease to a virus living in a specific species of cherry that lay dormant in the cold temperatures of ice cream.
+    b. Recording high numbers of ice cream enthusiasts falling ill during cherry season.
+    c. Banning inclusion of cherries in all cold desserts.
+    d. Preventing consumption of contaminated cherries and analysis of Cherry-Pox rates.
+
+11. [mcq, 1 pt] What is the first step of the five steps of public surveillance?
+    A) Data analysis
+    B) Data collection
+    C) Data dissemination
+    D) Link to action
+    E) Data interpretation
+
+12. [mcq, 1 pt] "Data dissemination" would be which step of the five steps of public surveillance?
+    A) First
+    B) Second
+    C) Third
+    D) Fourth
+    E) Fifth
+
+13. [mcq, 1 pt] Every month, all health facilities are required to report certain diseases so that outbreaks can quickly be identified. What is this an example of?
+    A) Active surveillance
+    B) Passive surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+
+14. [mcq, 1 pt] A specific group of people who may have been exposed to Cherry-Pox is being monitored for the development of symptoms. What is this an example of?
+    A) Active surveillance
+    B) Passive surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+
+[STIMULUS] Fill in the three blanks by matching the following terms to their definitions/properties. The first blank should contain the letter (eg. A, B, C, D...) for "host," the second blank should contain the letter for "fomite," and the third blank should contain the letter for "nosocomial." Please note that the following questions will also use this format.
+
+a. An organism's ability to cause disease.
+b. Can spread between humans and animals.
+c. Proportion of population affected by a disease.
+d. Location in which an agent lives and multiplies.
+e. Disease due to exposure at a hospital.
+f. Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+g. An organism's ability to cause infection.
+h. Causative agent of a disease.
+i. Inanimate objects with the capacity to cause disease transmission.
+j. Measure of the severity of the disease caused by an organism.
+k. Shows joint probabilities based on exposure and presence of disease.
+l. An organism that can be infected by an agent.
+m. A disease is trying to be associated to exposure factors that are already known.
+n. Shows distribution of cases over time.
+o. Occurrences of new cases of a disease.
+
+15i. [mcq, 1 pt] Host: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+15ii. [mcq, 1 pt] Fomite: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+15iii. [mcq, 1 pt] Nosocomial: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+[STIMULUS] Fill in the three blanks by matching the following terms to their definitions/properties.
+
+a. An organism's ability to cause disease.
+b. Can spread between humans and animals.
+c. Proportion of population affected by a disease.
+d. Location in which an agent lives and multiplies.
+e. Disease due to exposure at a hospital.
+f. Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+g. An organism's ability to cause infection.
+h. Causative agent of a disease.
+i. Inanimate objects with the capacity to cause disease transmission.
+j. Measure of the severity of the disease caused by an organism.
+k. Shows joint probabilities based on exposure and presence of disease.
+l. An organism that can be infected by an agent.
+m. A disease is trying to be associated to exposure factors that are already known.
+n. Shows distribution of cases over time.
+o. Occurrences of new cases of a disease.
+
+16i. [mcq, 1 pt] Contingency table: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+16ii. [mcq, 1 pt] Agent: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+16iii. [mcq, 1 pt] Epicurve: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+17i. [mcq, 1 pt] Case-control: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+17ii. [mcq, 1 pt] Reservoir: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+17iii. [mcq, 1 pt] Incidence: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+18i. [mcq, 1 pt] Zoonotic: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+18iii. [mcq, 1 pt] Prevalence: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+19i. [mcq, 1 pt] Virulence: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+19ii. [mcq, 1 pt] Infectivity: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+19iii. [mcq, 1 pt] Pathogenicity: ____
+    A) An organism's ability to cause disease.
+    B) Can spread between humans and animals.
+    C) Proportion of population affected by a disease.
+    D) Location in which an agent lives and multiplies.
+    E) Disease due to exposure at a hospital.
+    F) Possible exposure factors are being associated to a known disease after an outbreak has occurred.
+    G) An organism's ability to cause infection.
+    H) Causative agent of a disease.
+    I) Inanimate objects with the capacity to cause disease transmission.
+    J) Measure of the severity of the disease caused by an organism.
+    K) Shows joint probabilities based on exposure and presence of disease.
+    L) An organism that can be infected by an agent.
+    M) A disease is trying to be associated to exposure factors that are already known.
+    N) Shows distribution of cases over time.
+    O) Occurrences of new cases of a disease.
+
+[STIMULUS] You passed your exam! For your first assignment, you travel to the year 541, the beginning of a 200-year-long pandemic: the Plague of Justinian. You have been sent back in time to Constantinople to try and aid the ailing European population with your knowledge of modern-day approaches to health care.
+
+As outlined by the CDC, you prepare for fieldwork by gathering the supplies and accommodations you need around the empire. At first, Emperor Justinian does not believe that there is an outbreak occurring even though there is a rise in the number of recorded sick citizens.
+
+20. [multi, 5 pt] Which of the following would support your claim that an outbreak is occurring?
+    A) There has been an improvement in reporting rates recently in the empire
+    B) The population of the empire has remained constant for the past decade
+    C) The increase in sick citizens does not seem to vary with seasonal changes
+    D) The number of sick citizens is well predicted by the health and death records from the previous year
+    E) After interviewing patients, it seems there is a variety of different exposures pre-illness
+
+21. [frq, 2 pt] For the previous question, if the claim did not support the existence of an outbreak, explain why not (e.g. a - reason, b - reason, c - reason).
+
+22. [frq, 3 pt] The Emperor relents and admits that there might be an outbreak occurring. He sends his advisors to gather information on the sick citizens. Given the following report, construct a complete case definition:
+    
+    The physician's report notes that many patients have had a fever during the last two months and worked at the trading port in Constantinople. They also note the presence of several swollen lymph nodes nearly the size of chicken eggs under the skin. The physician also noted that there may be some link between fleas or rats and the spread of the disease.
+
+23. [frq, 6 pt] Write a list of variables you would collect for a line listing for this specific outbreak given the information presented in the physician's report in the previous question.
+
+[STIMULUS] After several weeks of collecting data systematically on each case, you receive the following data:
+
+**Figure 1**
+
+**Figure 2**
+    [IMAGE: ../images/2021_bearso_c__p8_348355-fbad39b3.webp]
+    [IMAGE: ../images/2021_bearso_c__p8_8eec4e-d9a06d15.webp]
+
+24. [frq, 1 pt] What is the name of the data shown in the figures?
+
+25. [frq, 1 pt] What do the circular red symbols mean in Figure 1?
+    [IMAGE: ../images/2021_bearso_c__p8_348355-fbad39b3.webp]
+
+27. [frq, 2 pt] Do the clusters of cases in Figure 1 necessarily indicate that the rate of infection is higher in those areas? Why or why not?
+    [IMAGE: ../images/2021_bearso_c__p8_348355-fbad39b3.webp]
+
+28. [frq, 2 pt] If you wanted to determine which regions had the highest rates of plague cases, would you prefer to use the map above or an area map? Explain.
+
+30. [frq, 1 pt] Has your investigation so far been an experimental or observational epidemiology study?
+
+33. [mcq, 1 pt] We are now trying to determine whether the plague disease can be associated with exposure to fleas. What type of study would this be?
+    A) Retrospective cohort
+    B) Prospective cohort
+    C) Case-control
+    D) Cross-sectional
+    E) None of the above
+
+35. [mcq, 1 pt] To determine the strength of the association between flea bites and the plague, what metric should you use?
+    A) Attack rate
+    B) Mortality rate
+    C) Odds ratio
+    D) Relative risk
+    E) None of the above
+
+[STIMULUS] Suppose that an imperfect diagnosis test for the plague disease has been developed, and you want to assess the usability of this test. The test will either return positive or negative for a person; HOWEVER, this test will wrongly return some results (ie. there will be false positives and false negatives in addition to true positives and true negatives). Fill out the following table with the following: TP, TN, FP, FN. Please only use the abbreviations when filling the blanks. Note that they stand for “true positive,” “true negative,” “false positive,” and “false negative,” respectively.
+
+|  | Positive test result | Negative test result |
+|---|---|---|
+| Disease present | (a) | (b) |
+| Disease absent | (c) | TN |
+
+39a. [frq, 0.67 pt] Fill in blank (a) of the table: Disease present, Positive test result.
+
+39b. [frq, 0.67 pt] Fill in blank (b) of the table: Disease present, Negative test result.
+
+39c. [frq, 0.66 pt] Fill in blank (c) of the table: Disease absent, Positive test result.
+
+40. [mcq, 1 pt] One of the measures that is used to evaluate diagnostic tests is the positive predictive value. Which of the following best describes the PPV?
+    A) The ability of a test to detect whether a person has the disease.
+    B) The ability of a test to determine whether a person does NOT have the disease.
+    C) The probability that a subject with a positive test result truly has the disease.
+    D) The probability that a subject with a negative test result truly does not have the disease.
+
+41. [mcq, 1 pt] One of the measures that is used to evaluate diagnostic tests is the sensitivity. Which of the following best describes the PPV?
+    A) The ability of a test to detect whether a person has the disease.
+    B) The ability of a test to determine whether a person does NOT have the disease.
+    C) The probability that a subject with a positive test result truly has the disease.
+    D) The probability that a subject with a negative test result truly does not have the disease.
+
+[STIMULUS] The table has now been filled with the following values. Calculate the following **to two decimal places**, and express decimal values less than 1 with a preceding "0." (eg. 0.25, not .25).
+
+First blank: sensitivity
+Second blank: specificity
+Third blank: positive predictive value
+
+|  | Positive test result | Negative test result |
+|---|---|---|
+| Disease present | 25 | 3 |
+| Disease absent | 9 | 50 |
+
+43a. [numeric, 3 pt] Calculate the sensitivity to two decimal places.
+
+43b. [numeric, 3 pt] Calculate the specificity to two decimal places.
+
+43c. [numeric, 3 pt] Calculate the positive predictive value to two decimal places.
+
+[STIMULUS] The Emperor’s assistants return with even more data and insist you must begin to control the spread of the disease! It is a graph of the distribution of plague cases in the southern district of Constantinople.
+
+**Green** = healthy population, **red** = pre-existing plague cases prior to start of observation time, **blue** = new plague cases since the start of the observation time
+    [IMAGE: ../images/2021_bearso_c__p13_e16f6d-1ed6dc50.webp]
+
+44. [frq, 2 pt] According to the graph, what is the prevalence of plague at the point of observation for both men and women (round to the nearest 0.01)?
+
+45. [frq, 2 pt] What is the incidence rate of plague at the point of observation for both men and women (round to the nearest 0.01)?
+
+47. [frq, 1 pt] What is the ratio of males with the plague to healthy males? Round to the nearest 0.1 if expressing your answer as a decimal.
+
+48. [frq, 2 pt] If the number of deaths attributed to plague during the observation period is 15 and 40 for women and men, respectively, calculate the death to case ratio from the point of observation (round to the nearest 0.01).
+
+49. [frq, 2 pt] What can you say about the severity of the disease given the death to case ratio? Explain.
+
+[STIMULUS] | **Cause** | **Number of Deaths** |
+|---|---|
+| Bubonic plague | 65 |
+| Heart disease | 4 |
+| Pneumonia | 2 |
+| Accidents | 2 |
+| Septicemia | 1 |
+| Cancer | 6 |
+| All other | 70 |
+
+50. [numeric, 1 pt] Given the table below, calculate the proportionate mortality for the plague (round to the nearest 0.01).
+
+51. [frq, 1 pt] Why is the value calculated in the previous question not considered a rate?
+
+52. [frq, 1 pt] Propose a set of three prevention strategies for the plague given the previously identified cause.
+
+53. [mcq, 1 pt] Consider a person who has been diagnosed with the plague disease after developing symptoms. Doctors at the time immediately treat him with a mixture of spices in an effort to prevent further worsening of the disease. Regardless of whether this treatment is effective, what stage of disease prevention would this action be considered?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+54. [mcq, 1 pt] Which of the following scenarios would be an example of secondary prevention?
+    A) Giving treatment to prevent the disease from becoming symptomatic.
+    B) Giving treatment to slow the progression of disease after symptoms have already appeared.
+    C) Implementing control measures to prevent the disease from being contracted in the first place.
+    D) Educating the public about the dangers of the disease.
+
+55. [mcq, 1 pt] An epidemiologist investigates the plague disease by visiting a farm. He notices that almost none of the working farmers show any symptoms of the disease, and concludes that the prevalence of the plague disease is not as common as he originally anticipated. However, his conclusion is flawed due to…
+    A) Indication bias
+    B) Attrition bias
+    C) Information bias
+    D) Healthy worker effect
+    E) None of the above
+
+56. [mcq, 1 pt] The same epidemiologist continues his investigation by counting the number of plague cases he observes in the surrounding villages. Upon entering a new village, he counts the total number of cases using an abacus (aka counting frame). However, he fails to realize that his abacus is missing a bead, causing the total count for each village to be off by one. This is an example of…
+    A) Random error
+    B) Systematic error
+    C) Type I error
+    D) Type II error
+    E) None of the above
+
+57. [mcq, 1 pt] After visiting all the villages, the epidemiologist finally realizes that his abacus was broken. In an attempt to reduce the effect of the counting errors, he decides to average all his counts. Considering your response to the previous question, was this an effective way to reduce the error in his investigation?
+    A) Yes
+    B) No
+    C) Not enough information

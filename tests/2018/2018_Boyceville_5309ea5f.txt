@@ -1,0 +1,466 @@
+Boyceville — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  57 questions, 63.0 pts
+Source: scio.ly test archive id 5309ea5f-abf2-4064-b438-1661f1837bc5  |  original files: https://drive.google.com/drive/folders/1vQBev5QMHwRlP670jlSLl-yEnMfoo9iO
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== Page 2 ===
+
+1. [mcq, 1 pt] In 1854 a cholera epidemic occurred in Soho, England. The cause of the outbreak was tracked by using maps to compare the distribution of ill and non-ill residents, and the findings were correlated with information on different exposures such as air, food, and water at the time of the outbreak (person, place, time). Once determined that the public water supply was the most likely cause of the outbreak, the Broad Street pump handle to prevent new cases of illness. **Who is the father of epidemiology?**
+    A) Jonas Salk
+    B) Edward Jenner
+    C) John Snow
+    D) Roaslind Franklin
+
+2. [mcq, 1 pt] After eating canned corn, Diana suffered severe gastrointestinal illness and muscle paralysis. While being treated at the hospital doctors told Diana that her acute symptoms were likely due to bacterial contamination of the canned corn she had consumed. **Which of the following organisms is the most likely culprit for Diana's illness?**
+    A) Campylobacter jejuni
+    B) Salmonella
+    C) Clostridium botulinum
+    D) Cryptosporidium parvum
+
+3. [mcq, 1 pt] Which of the following pathogens is protozoan rather than bacterial or viral?
+    A) Salmonella
+    B) Escherichia coli O157:H7
+    C) Clostridium botulinum
+    D) Cryptosporidium parvum
+
+4. [mcq, 1 pt] Which of the following can be used to inhibit bacterial growth?
+    A) high levels of sugar
+    B) high levels of salt
+    C) dehydration
+    D) low pH
+    E) all of the choices are correct
+
+5. [mcq, 1 pt] Which type of bacteria enters our bodies through the ingestion of food contaminated with fecal matter?
+    A) Escherichia coli O157:H7
+    B) Campylobacter jejuni
+    C) Caliciviruses
+    D) Salmonella
+
+6. [mcq, 1 pt] Thirty seven cases of campylobacteriosis were identified among children attending a summer camp. Based on the epi curve, **what is the most likely means of spread** (average incubation period 3-5 days)?
+    [IMAGE: ../images/2018_boyceville_c__p2_c1238f-e1471b2d.webp]
+    A) point source
+    B) continuous common source
+    C) propagated
+
+
+=== Page 3 ===
+
+[STIMULUS] Based on the following case characteristics in Questions 7-9, **match the mode of transmission with each outbreak:**
+a. Public water supply
+b. Person to person contact
+c. Food
+
+7. [mcq, 1 pt] Cases live in one community; most <3 years of age; attend same child care center; onset of cases in waves
+    A) Public water supply
+    B) Person to person contact
+    C) Food
+
+8. [mcq, 1 pt] Majority of cases live in city limits, age range 1-75 years; 52% female
+    A) Public water supply
+    B) Person to person contact
+    C) Food
+
+9. [mcq, 1 pt] Cases live in two states; high proportion 20-29 years; 65% male
+    A) Public water supply
+    B) Person to person contact
+    C) Food
+
+10. [mcq, 1 pt] A case definition might include all of the following EXCEPT:
+    A) Symptoms of the illness
+    B) Laboratory test results
+    C) Food that is the suspected source of the outbreak
+    D) Date of illness onset
+
+11. [tf, 1 pt] Development of a hypothesis early in an outbreak helps direct subsequent steps of an outbreak investigation and should involve all investigation team members.
+    A) True
+    B) False
+
+[STIMULUS] Use the following epidemic curve for Question 12.
+    [IMAGE: ../images/2018_boyceville_c__p3_055832-b9af15ae.webp]
+
+12. [mcq, 1 pt] A group of tourists on a weeklong bus tour of a European country experienced an outbreak of norovirus. The group had followed a consistent meal time pattern: each morning they had breakfast together in whichever hotel they had stayed from 6:00 a.m. to 7:00 a.m., stopped for lunch from 1:00 p.m. to 2:00 p.m., then had dinner together either at the next hotel or at a restaurant at about 7:00 p.m. The incubation period for norovirus is about 24-48 hours, with a median of about 33 hours. **On which day and at which meal was exposure most likely?**
+    A) April 19 Dinner
+    B) April 20 Breakfast
+    C) April 20 Lunch
+    D) April 20 Dinner
+    E) April 21 Breakfast
+
+13. [mcq, 1 pt] One hundred persons with Hepatitis A and 100 healthy neighbors were questioned regarding their eating of raw clams or oysters in the preceding 3 months. **What type of study is this?**
+    A) Experimental
+    B) Observational
+
+
+=== Page 4 ===
+
+14. [mcq, 1 pt] **Study of a person who has already contacted the disease is called**:
+    A) Case control
+    B) Cohort
+    C) Control cohort
+    D) Longitudinal
+
+15. [mcq, 1 pt] All are true about case control studies, except:
+    A) Relative risk can be calculated
+    B) Less expensive
+    C) Suitable for rare diseases
+    D) Backward study
+
+16. [mcq, 1 pt] Over eight months, a Listeria outbreak affected 142 residents of Los Angeles County. This lead to the deaths of 10 newborns and 18 adults. **What is the case-fatality rate of this outbreak?**
+    A) 20%
+    B) 40%
+    C) 7%
+    D) 13%
+
+17. [mcq, 1 pt] An outbreak of acute gastrointestinal illness followed a Thanksgiving buffet served to approximately 855 people at a New Mexico country club on March 30, 1986. Of the 162 persons interviewed, 67 (35%) were ill with diarrhea, nausea, or vomiting. Twenty-four required emergency medical treatment or hospitalization. Of the 67 patients, 59 (88%) reported diarrhea; 52 (78%), nausea; 52 (78%), vomiting; 44 (66%), abdominal cramps; 30 (45%), headaches; 16 (34%), fever; and three (4%), bloody stool. Incubation periods ranged from 1.5 hours to 27.5 hours with a mean of 5.5 hours and a median of 4 hours. Duration of illness ranged from 1 to 88 hours with a mean of 26.3 hours and a median of 16 hours. **According to the steps in an outbreak investigation, what might they do next?**
+    A) Construct a case definition and look for additional cases
+    B) Develop a hypothesis, confirm laboratory cases, and prepare for fieldwork
+    C) Report findings to public, shut down the local farms, and confirm laboratory cases
+    D) Perform analytic epidemiology and confirm laboratory cases
+
+18. [mcq, 1 pt] A key feature of a cross-sectional study is that:
+    A) It usually provides information on prevalence rather than incidence
+    B) It is limited to health exposures and behaviors rather than health outcomes
+    C) It is more useful for descriptive epidemiology than it is for analytic epidemiology
+    D) It is synonymous with survey
+
+[STIMULUS] **Which term best describes the pattern of occurrence of the three cases noted below?**
+a. Epidemic
+b. Outbreak
+c. Pandemic
+
+19. [mcq, 1 pt] Over 200 million people affected per year in Africa, Asia and parts of the Americas
+    A) Epidemic
+    B) Outbreak
+    C) Pandemic
+
+20. [mcq, 1 pt] On average, 2-6 people died per day in the US between 1832 and 1866
+    A) Epidemic
+    B) Outbreak
+    C) Pandemic
+
+21. [mcq, 1 pt] In one city, 70 people showed symptoms of infection within 5 days of each other
+    A) Epidemic
+    B) Outbreak
+    C) Pandemic
+
+22. [mcq, 1 pt] A reservoir of an infectious agent can be:
+    A) An asymptomatic human
+    B) A symptomatic human
+    C) An animal
+    D) The environment
+    E) All of the above
+
+
+=== Page 5 ===
+
+23. [mcq, 1 pt] Nancy is a 25-year-old previously well graduate student who presents to the emergency department with a 12-hour history of nausea, diarrhea, abdominal cramping, and vomiting (about 6 episodes), malaise, and a low-grade fever. She describes her onset of symptoms as sudden. Physical examination shows that Nancy has a diffusely tender abdomen and is dehydrated. Stool examination is negative for occult blood. **If the suspected illness is norovirus, what control measure should be implemented?**
+    A) Antibiotics should be prescribed to reduce the patient's symptoms and fight the infection
+    B) Instruct the patient to follow proper handwashing guidelines and avoid contact with others until symptoms improve
+    C) Instruct the patient to cook food thoroughly, wash utensils before and after use on the food, and purchase pasteurized food products to reduce exposure
+    D) Contact the local media and publicly announce a potential outbreak so that individuals in a wide area can take precautions
+
+[STIMULUS] Questions 24-30: **For each example given classify if it is or caused by a(n)**
+a. Bacteria
+b. Virus
+c. Protozoan
+d. Natural toxin
+e. Prion
+
+24. [mcq, 1 pt] Salmonella
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+25. [mcq, 1 pt] Malaria
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+26. [mcq, 1 pt] Listeria
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+28. [mcq, 1 pt] Trypanosoma
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+29. [mcq, 1 pt] Plasmodium falciparum
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+30. [mcq, 1 pt] Chronic Wasting Syndrome
+    A) Bacteria
+    B) Virus
+    C) Protozoan
+    D) Natural toxin
+    E) Prion
+
+[STIMULUS] **Match the correct description with the term:**
+A. Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+B. The interval from receipt of infection to the time of the onset of clinical illness
+C. Transmissible disease via animals to humans.
+D. Community widespread of an infectious disease.
+E. Refers to gathering info about the occurrence of disease
+F. Disease prevalent over country/world
+G. Occurrence of new disease or mortality within a defined period of observation
+H. An aggregation of cases over a particular period of time
+I. Organism (insect/tick) that transmits disease from one animal/plant to another
+J. Severity of disease in a host
+K. More cases of a particular disease than expected in a given area, at a given time
+
+31. [mcq, 1 pt] Surveillance
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+32. [mcq, 1 pt] Epidemic
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+33. [mcq, 1 pt] Outbreak
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+34. [mcq, 1 pt] Pandemic
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+35. [mcq, 1 pt] Cluster
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+36. [mcq, 1 pt] Vector
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+37. [mcq, 1 pt] Zoonoses
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+38. [mcq, 1 pt] Incubation period
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+39. [mcq, 1 pt] Virulence
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+40. [mcq, 1 pt] Incidence
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+41. [mcq, 1 pt] Confounding
+    A) Inaccurately attributing a single exposure to a health effect when it could be due to other factors
+    B) The interval from receipt of infection to the time of the onset of clinical illness
+    C) Transmissible disease via animals to humans.
+    D) Community widespread of an infectious disease.
+    E) Refers to gathering info about the occurrence of disease
+    F) Disease prevalent over country/world
+    G) Occurrence of new disease or mortality within a defined period of observation
+    H) An aggregation of cases over a particular period of time
+    I) Organism (insect/tick) that transmits disease from one animal/plant to another
+    J) Severity of disease in a host
+    K) More cases of a particular disease than expected in a given area, at a given time
+
+[STIMULUS] **Review the following descriptions and decide if each study can be best categorized as experimental, descriptive, cohort, case control or cross-sectional**.
+
+42. [frq, 1 pt] A researcher divides a population of teenagers who are 16–18 years old into those who have asthma and those who don’t. He also collects data on the same teenagers about suspected risk factors, such as air quality, smoking in the home, levels of stress, flu and colds, and diet. He compares the two groups in terms of how the risk factors relate to the presence or absence of asthma.
+
+43. [frq, 1 pt] Researchers identify a random sample of U.S. 16-year-olds and survey them on dietary habits. Then researchers track this group of adolescents for the next 40 years and gather data about who develops targeted cancers. Researchers statistically analyze the early-in-life data and the later-in-life data, looking for relationships between exposure to risk factors and development of the targeted cancers.
+
+44. [frq, 1 pt] The school choir attends a local service club’s luncheon, and several members of the choir (and the service club) develop food poisoning. To figure out which food caused the illness, health officials survey all people who attended the luncheon, collecting data on who ate which food and who got sick. They use statistics to determine attack rate and compare rates for different foods.
+
+45. [frq, 2 pt] What conclusions can be drawn from the line listing below?
+    [IMAGE: ../images/2018_boyceville_c__p6_976f95-e579c15a.webp]
+
+46. [frq, 2 pt] Given the following data, **calculate the odds ratio of illness associated with eating watermelon**.
+    
+    | **Became Ill** | **Ate Watermelon** | **Did Not Eat Watermelon** | **Total** |
+    |---|---|---|---|
+    | Yes | 72 | 115 | 187 |
+    | No | 5 | 112 | 127 |
+    | Total | 77 | 237 | 314 |
+
+[STIMULUS] Use the following information and images for Questions 47-50:
+
+From March until June 2015, 53 ill people infected with the outbreak strain of Salmonella Paratyphi B variant have been identified. CDC and state and local public health partners are continuing laboratory surveillance through PulseNet to identify additional ill people and to interview them about foods they ate before they became ill.
+    [IMAGE: ../images/2018_boyceville_c__p7_af5e10-842e55c6.webp]
+
+47. [frq, 1 pt] **What two states were the most affected?** ____
+
+48. [numeric, 1 pt] **How many states were unaffected?** ____
+
+[STIMULUS] As a result of the ongoing investigation, the Maricopa County Environmental Services Department working with the Arizona State Public Health Laboratory tested unopened frozen ground tuna products. Arizona identified Salmonella Newport in one sample and Salmonella Weltevreden in another sample. The unopened frozen ground tuna products represented two different lots of product imported from Indonesia by Osamu Corporation of Gardena, California. On May 27, Osamu Corporation recalled the two lots of ground frozen yellowfin tuna imported from Indonesia due to possible Salmonella contamination.
+    [IMAGE: ../images/2018_boyceville_c__p7_9c6b6d-53720026.webp]
+
+49. [mcq, 1 pt] When was the first illness onset?
+    A) March 18th, 2015
+    B) March 5th, 2015
+    C) April 3rd, 2015
+    D) April 18th, 2015
+
+50. [frq, 1 pt] What factors account for the gaps in the data in the 2 months prior to the recall of the tuna products?
+
+[STIMULUS] Use the information below to answer questions 51-52:
+
+On January 23, 2002 the Minnesota Department of Health (MDH) foodborne illness hotline received a complaint. Ten construction workers became ill after eating lunch at a Mexican restaurant. Food eaten included taco salad, chicken dishes, chips, rice, beans, pop and water with ice. Six of the 10 construction employees were interviewed by MDH. All report watery diarrhea in addition to abdominal cramping and became ill within 7 to 16.5 hours after eating with symptoms lasting 17 to 26.5 hours.
+
+The local health inspector visited the establishment. The owner stated that all food is served on the day it is cooked. The health inspector found rice and beans stored in the walk-in cooler. The items in the cooler were kept in pans of various sizes, with depths ranging from 3 inches to 6 inches. A tub of rice, which had been cooked the day before, was found at an internal temperature of 50°F. The hot rice had been put in the cooler the previous night at closing time. The on-site food thermometer was not calibrated and was not being used.
+
+51. [frq, 1 pt] Identify contributing factors that led to the outbreak.
+
+52. [frq, 1 pt] What bacteria are the likely culprit(s) in this case?
+
+[STIMULUS] Use the information below to answer questions 53-54:
+
+On January 13, 1998, an infectious diseases physician at a Buenos Aires hospital telephoned the Directorate of Epidemiology of the Argentine Ministry of Health (MOH) to report two possible cases of botulism. The patients, both men, presented with drooping eyelids, double vision, difficulty swallowing, and respiratory problems. One patient had onset of symptoms on January 5 and the other on January 6. The physician had drawn sera and collected stool specimens from the men to test for botulinum toxin but no results were available.
+
+The Directors of the National Laboratory and the Environmental Health and Sanitation Program were notified of the possible cases of botulism. The two patients, still in the hospital, were interviewed by an MOH epidemiologist. Upon questioning, it was learned that both patients were drivers for the same bus company and drove the same route and shift. The patients knew each other but worked on different days of the week. They had not eaten together in more than a month.
+
+Seven additional patients with neurologic signs consistent with botulism were identified. Five of the patients had sought medical attention and four were hospitalized. Working diagnoses for these patients at the time the initial two cases were discovered included myasthenia gravis (1), Guillain-Barré syndrome (2), stroke (1), and diabetic complications (1). Botulinum toxin was identified in sera and/or stool from three patients, including one of the original cases reported on January 13. All patients were drivers from the same bus company as the original cases and drove the same route. From initial reports, all had eaten at a home located at the terminal stop of the bus route where the drivers stopped during their breaks. Approximately 58 bus drivers worked this route; 27 in the morning shift, 16 in the afternoon shift, and 15 in the evening shift.
+
+Table 2. Foods eaten by ill and well bus drivers at the home at the terminal bus stop, January 3-7, 1998. (N=21)
+
+| Food | Ate Item (Ill, Well, Attack Rate) | Did Not Eat Item (Ill, Well, Attack Rate) | Relative Risk |
+|---|---|---|---|
+| Bologna | 1, 0, 100 | 8, 12, 40 | 2.5 |
+| Hot Dog | 1, 1, 50 | 8, 11, 42 | 1.2 |
+| Matambre* | 9, 2, 82 | 0, 10, 0 |  |
+| Mate** | 4, 4, 50 | 5, 3, 63 | 0.8 |
+| Processed Ham | 2, 3, 40 | 7, 9, 44 |  |
+| Sauce | 7, 2, 78 | 2, 10, 17 | 4.6 |
+| Salami | 1, 1, 50 | 8, 11, 42 | 1.2 |
+| Solid Ham | 2, 3, 40 | 7, 9, 44 |  |
+
+*Matambre is a traditional meat roll in Argentina.
+**Mate is green tea.
+
+53. [frq, 3 pt] Calculate the attack rate and relative risk for these exposures. Show your work below and fill in the data table above with your final answers.
+
+54. [frq, 1 pt] Interpret the results.
+
+55. [frq, 1 pt] What further data analysis/information might help?
+
+[STIMULUS] TDH staff were skeptical of the student’s report but felt that a minimal amount of exploration was necessary. They began by making a few telephone calls to establish the facts and determine if other persons were similarly affected. The pizzeria, where the student and his roommate had eaten, was closed until 11:00 A.M. There was no answer at the University Student Health Center, so a message was left on its answering machine.
+
+A call to the emergency room at a local hospital (Hospital A) revealed that 23 university students had been seen for acute gastroenteritis in the last 24 hours. In contrast, only three patients had been seen at the emergency room for similar symptoms from March 5-9, none of whom were associated with the university.
+
+At 10:30 A.M., the physician from the University Student Health Center returned the call from TDH and reported that 20 students with vomiting and diarrhea had been seen the previous day. He believed only 1-2 students typically would have been seen for these symptoms in a week. The Health Center had not collected stool specimens from any of the ill students.
+
+58. [frq, 1 pt] Do you think these cases of gastroenteritis represent an outbreak at the university? Why or why not?
+
+[STIMULUS] By March 12, seventy-five persons with vomiting or diarrhea had been reported to TDH. All were students who lived on the university campus. No cases were identified among university faculty or staff or from the local community. Except for one case, the dates of illness onset were March 9-12. (Figure 1) The median age of patients was 19 years (range: 18-22 years), 69% were freshman, and 62% were female.
+
+TDH and City Health Department staff gathered the following information: The university is located in a small Texas town with a population of 27,354. For the spring semester, the university had an enrollment of approximately 12,000 students; 2,386 students live on campus at one of the 36 residential halls scattered across the 200+ acres of the main campus. About 75% of the students are Texas residents. The university uses municipal water and sewage services. There have been no breaks or work on water or sewage lines in the past year. There has been no recent road work or digging around campus.
+
+The campus dining service includes two cafeterias managed by the same company and about half a dozen fast food establishments; about 2,000 students belong to the university meal plan which is limited to persons living on campus. Most on-campus students dine at the main cafeteria which serves hot entrees, as well as items from the grill, deli bar, and a salad bar. A second smaller cafeteria on campus offers menu selections with a per item cost and is also accessible to meal plan members. In contrast to the main cafeteria, the smaller cafeteria tends to be used by students who live off campus and university staff. The smaller cafeteria also offers hot entrees, grilled foods, and a salad bar, but has no deli bar.
+
+Spring break is to begin on March 13 at which time all dining services will cease until March 23. Although many students will leave town during the break, it is anticipated that about a quarter of those living on campus will remain. Hypothesis generating interviews were undertaken with seven of the earliest cases reported by the emergency rooms and the Student Health Center; all of the cases had onset of illness on March 10. Four were male and three were female; all but one was a freshman. Two students were psychology majors; one each was majoring in English and animal husbandry. Three students were undecided about their major.
+
+The students were from five different residential halls and all reported eating most of their meals at the university’s main cafeteria. During the past week, all but one student had eaten food from the deli bar; two had eaten food from the salad bar, and three from the grill. Seven-day food histories revealed no particular food item that was common to all or most of the students. Except for the psychology majors, none of the other students shared any classes; only one student had a roommate with a similar illness. Five students belonged to a sorority or a fraternity. Three students had attended an all school mixer on March 6, the Friday before the outbreak began; two students went to an all night science fiction film festival at one of the dorms on March 7. Students reported attendance at no other special events; most had been studying for midterm exams for most of the weekend.
+    [IMAGE: ../images/2018_boyceville_c__p11_8ed3d4-3a34dfcf.webp]
+
+59. [frq, 3 pt] Using information available to you at this point, identify the mode of transmission, source of the outbreak, and period of interest.
+
+60. [frq, 1 pt] State your leading hypothesis(es) on the pathogen.

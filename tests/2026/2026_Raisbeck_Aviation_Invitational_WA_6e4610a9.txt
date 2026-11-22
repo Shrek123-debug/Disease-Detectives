@@ -1,0 +1,375 @@
+Raisbeck Aviation Invitational - WA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  59 questions, 73.0 pts
+Source: scio.ly test archive id 6e4610a9-70b5-4c87-ac36-c117d378966b
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: This event has three parts: a) Background & Surveillance, b) Outbreak Investigation, and c) Patterns, Control, and Prevention which contribute approximately equally to your total score.
+
+
+=== Part i. Background and Surveillance ===
+
+[STIMULUS] For the following mechanisms to prevent disease, put CA if they are a clinical approach and PH if they are a public health approach. If they are both, write Both.
+
+P1-1. [mcq, 1 pt] As a surgeon-apothecary apprentice, John Snow worked in the coal-mining town of Killingworth and treated many victims of the cholera epidemic.
+    A) CA
+    B) PH
+    C) Both
+
+P1-2. [frq, 1 pt] Investigating cholera cases in areas of London served by different water companies, Snow hypothesized cholera was spread via contaminated drinking water rather than through “bad air,” as suggested by the prevailing miasma theory.
+
+P1-4. [frq, 1 pt] King County offered free COVID-19 vaccine clinics at schools across the county.
+
+P1-5. [mcq, 1 pt] A physician prescribes an antibiotic for a patient with bronchitis.
+    A) CA
+    B) PH
+    C) Both
+
+P1-6. [mcq, 1 pt] ____ The term vaccine comes from “vacca,” which means cow. Figure 1 is an image of the hide of Bessie the cow, on display in a museum since 1857. How were cows involved in the development of the first vaccine (which was against smallpox) by Edward Jenner?
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_cc2a87-c439f6f6.webp]
+    A) Jenner injected cowpox-infected cells from Bessie the cow into a human.
+    B) Jenner injected cowpox-infected pus from Bessie the cow into a human.
+    C) Jenner injected pus from a milkmaid infected with cowpox into another human.
+    D) Jenner injected smallpox into Bessie the cow and then extracted antibodies which were injected into a human.
+
+[STIMULUS] Match each of the following with an individual from the bank below.
+
+A. Florence Nightingale
+B. Bradford Hill
+C. Ibn al-Nafis
+
+D. Alice Hamilton  E. John Graunt  F. Robert Koch
+
+G. James Lind  H. Ignaz Semmelweis
+
+P1-8. [mcq, 1 pt] Proposed that doctors wash hands to reduce incidence of postpartum infection.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-9. [mcq, 1 pt] Demonstrated the link between smoking and lung cancer alongside Richard Doll.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-10. [mcq, 1 pt] A statistician who developed quantitative ways to analyze mortality data.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-11. [mcq, 1 pt] Discovered that eating citrus fruit cures scurvy.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-12. [mcq, 1 pt] Discovered the causative agents of anthrax and tuberculosis.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-13. [mcq, 1 pt] A statistician who was heavily involved in social reforms and the founder of modern nursing.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-14. [mcq, 1 pt] A polymath who studied a malnutrition outbreak by creating an outbreak map and compared it to Hippocrates’ work.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+P1-15. [mcq, 1 pt] Studied industrial toxicology, lead poisoning, and occupational health.
+    A) Florence Nightingale
+    B) Bradford Hill
+    C) Ibn al-Nafis
+    D) Alice Hamilton
+    E) John Graunt
+    F) Robert Koch
+    G) James Lind
+    H) Ignaz Semmelweis
+
+[STIMULUS] John Snow was able to determine cholera was being spread from the well pump in England shown in Figure 3. Place the following epidemiological steps of Snow’s process in numerical order.
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_1ab340-ce17a77c.webp]
+
+P1-16. [mcq, 1 pt] ____ He analyzed his data and found cholera deaths were higher in houses served by a particular water pump.
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+P1-17. [mcq, 1 pt] ____ He collected data on where cholera deaths were happening.
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+P1-18. [mcq, 1 pt] ____ He compared cholera death rates in houses served by 2 rival water companies and determined one of these companies obtained their water from a portion of the Thames river that was polluted by sewage while the other was not.
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+P1-19. [mcq, 1 pt] ____ He concluded that cholera was spread by a fecal-oral route rather than “miasmas” and verified cases of cholera.
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+P1-20. [frq, 1 pt] Lyme disease is usually caused by the bacterium *Borrelia burgdorferi*. It can be passed on to humans through the bite of an infected tick. What term BEST describes the role of the tick?
+
+[STIMULUS] Match each scenario to a step in the public health surveillance process.
+
+A. Data Dissemination
+B. Action / Intervention
+C. Data Interpretation
+
+D. Data Collection  E. Data Analysis
+
+P1-22. [mcq, 1 pt] Expanded fitness programs are implemented in metropolitan schools identified to have high rates of childhood obesity.
+    A) Data Dissemination
+    B) Action / Intervention
+    C) Data Interpretation
+    D) Data Collection
+    E) Data Analysis
+
+P1-23. [mcq, 1 pt] The CDC posts a newsletter summarizing the current childhood vaccination recommendations.
+    A) Data Dissemination
+    B) Action / Intervention
+    C) Data Interpretation
+    D) Data Collection
+    E) Data Analysis
+
+P1-24. [mcq, 1 pt] An observed increase in COVID cases at the University of Washington over the course of a month prompts further investigation into possible sources.
+    A) Data Dissemination
+    B) Action / Intervention
+    C) Data Interpretation
+    D) Data Collection
+    E) Data Analysis
+
+P1-25. [mcq, 1 pt] When a patient is discharged from the hospital, an electronic health record (like MyChart) is made of the visit.
+    A) Data Dissemination
+    B) Action / Intervention
+    C) Data Interpretation
+    D) Data Collection
+    E) Data Analysis
+
+P1-26. [mcq, 1 pt] A bar graph is used to display the frequencies of reported measles cases across several WA counties over several weeks.
+    A) Data Dissemination
+    B) Action / Intervention
+    C) Data Interpretation
+    D) Data Collection
+    E) Data Analysis
+
+[STIMULUS] The following are definitions of epidemiology terms used to describe disease frequency over an area. Identify each term.
+
+P1-27. [frq, 1 pt] A disease that occurs infrequently and irregularly.
+
+P1-28. [frq, 1 pt] Disease or condition present among a population at all times.
+
+P1-29. [frq, 1 pt] Identify the disease frequency term illustrated by this map.
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_70d1f6-fcf4cf48.webp]
+
+P1-30. [frq, 1 pt] Identify the disease frequency term illustrated by this map.
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_01444b-c0ec8174.webp]
+
+[STIMULUS] Identify what type of surveillance each of the following scenarios best represents.
+
+P1-31. [frq, 1 pt] The California Department of Public Health asks one primary care provider in each county of the state for information on measles cases.
+
+P1-32. [frq, 1 pt] The Washington State Department of Health asks all primary care providers in the state for information on gonorrhea cases.
+
+P1-33. [frq, 1 pt] All hospitals in the US report all cases of malaria to the CDC.
+
+P1-34. [frq, 1 pt] The Washington State Department of Health asks each school in King County for all data relating to illness-related reasons for absence.
+
+[STIMULUS] For each of the following examples, state whether they are active (A), passive (P), or sentinel (S) surveillance.
+
+P1-35. [mcq, 1 pt] ____ Doctors can submit cases of sexually transmitted infections to the health department.
+    A) A
+    B) P
+    C) S
+
+P1-36. [mcq, 1 pt] ____ A county’s restaurant inspector performs regular inspections.
+    A) A
+    B) P
+    C) S
+
+P1-37. [mcq, 1 pt] ____ The CDC and FDA maintain the Vaccine Adverse Events Reporting System.
+    A) A
+    B) P
+    C) S
+
+P1-38. [mcq, 1 pt] ____ Scientists annually collect positive influenza specimens from a variety of selected sites each year for genotyping to predict next year’s flu strains for making a vaccine.
+    A) A
+    B) P
+    C) S
+
+
+=== Part ii. Outbreak Investigation ===
+
+[STIMULUS] Kanishka Cuisine of India in Seattle offered a “Fusion Thanksgiving Feast” for pickup by customers or delivery for 11/27/2025. (This was a real case). 43 people reported being sick after eating this meal between 11/27 and 11/28. These people reported having diarrhea, stomach pains, vomiting, nausea, headaches, and fatigue.
+
+The King County Public Health interviewed 21 people to see what they had eaten. King County was unable to link this illness to one particular food item. Four people were tested for norovirus, Shiga toxin-producing E. coli, and Salmonella. These tests came back negative, but the tests didn’t check for bacteria that cause toxins. Bacteria that create toxins tend to have a quick onset and by the time a patient gets to the doctor it is too late to test.
+
+King County conducted an on-site inspection on December 2 and found the following issues:
+
+- The cooling methods most likely didn’t bring the food down to a safe temperature.
+- Some foods weren’t kept cold enough to prevent bacterial toxin growth.
+- There was inadequate equipment and space for the preparation of the “Feast” and their regular food service.
+
+Additional employee training was provided.
+
+King County revisited on December 4 and found the same issues with cooling and keeping foods at room temperature that were supposed to be refrigerated. They closed the restaurant and threw away unsafe foods. Retraining was held.
+
+After an inspection on December 10, Kanishka was allowed to reopen.
+
+P2-1. [frq, 4 pt] Create a case definition for this outbreak based on the information above.
+
+P2-3. [mcq, 1 pt] ____ Which type of outbreak is this?
+    A) intermittent
+    B) point source
+    C) continuous
+    D) pseudo-outbreak
+
+P2-9. [mcq, 1 pt] ____ King County Public Health retrained Kanishka’s employees about food safety measures. Which step is this?
+    A) Verify the outbreak and diagnosis
+    B) Systematically find cases
+    C) Perform descriptive epidemiology
+    D) Implement control measures
+    E) Communicate findings
+
+P2-10. [mcq, 1 pt] ____ King County Public Health updated their website to show an “At-A-Glance” summary of the outbreak. What step is this?
+    A) Verify the outbreak and diagnosis
+    B) Systematically find cases
+    C) Perform descriptive epidemiology
+    D) Implement control measures
+    E) Communicate findings
+
+P2-14. [frq, 3 pt] Not all the Bradford Hill criteria must be met to determine causation. Of the nine criteria, name 3 criteria that are strong for this outbreak.
+
+P2-15. [frq, 2 pt] Name 2 criteria that aren’t as evident in this case
+
+P2-16. [frq, 2 pt] While this incident was NOT found to be Shiga toxin-producing E. coli (STEC), PFGE can be performed to determine whether an outbreak is due to STEC. PFGE can be used to separate very large bacterial DNA fragments. How is the PFGE procedure different from that of typical gel electrophoresis?
+
+P2-17. [frq, 1 pt] PFGE reports often mention SNPs. What does SNP stand for?
+
+P2-19. [mcq, 1 pt] ____ CDC now uses PulseNet, which contains which type of data used to investigate outbreaks of foodborne illnesses?
+    A) whole genome sequencing
+    B) PFGE
+    C) 3D protein structure
+    D) Southern blots
+
+P2-20. [frq, 2 pt] Another suspected cause was norovirus. Norovirus has a median value of R₀ of 2.75 in the United States but can go as high as 3.35 in long-term care facilities and cruise ships. What does R₀ stand for and what does it mean?
+
+P2-21. [frq, 2 pt] In reality, determining herd immunity for norovirus is quite complicated. Using an R₀ value of 2.75 for norovirus, calculate the theoretical herd immunity threshold for norovirus.
+
+
+=== Part iii. Patterns, Control, and Prevention ===
+
+[STIMULUS] Many people decided to travel post-COVID. This resulted in an abnormally high number of norovirus outbreaks on cruise ships in 2023. One of these was the Viking Neptune, which had 110 of the ship’s 838 passengers become infected. In addition, nine of the 455 crew members also had norovirus.
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_e9b353-cc45ba11.webp]
+
+P3-1. [frq, 2 pt] Given this information, calculate the attack rate for the passengers.
+
+P3-2. [frq, 2 pt] What was the incidence proportion for the entire ship?
+
+[STIMULUS] Below is a map of norovirus outbreaks in the United States.
+    [IMAGE: ../images/2026_raisbeck_aviation_invitational_wa_c__d_eb97b7-2720ba25.webp]
+
+P3-8. [frq, 1 pt] What is the most likely reason Idaho (the state to the right of Washington and Oregon) has a lower number of norovirus outbreaks than Washington state?
+
+P3-9. [mcq, 1 pt] ____ Which of the following prevention methods would most likely be the most effective way of stopping the spread of norovirus?
+    A) hand washing with soap and water
+    B) hand sanitizer
+    C) covering coughs & sneezes
+    D) preventative antibiotic
+
+P3-10. [mcq, 1 pt] ____ What is the definition of morbidity rate?
+    A) the number of people who die from the disease in a given amount of time
+    B) the number of people who are sick from the disease in a given amount of time
+    C) the number of new cases only in a given amount of time
+
+[STIMULUS] Classify each of the disease prevention levels listed below.
+
+**A. Primordial**
+**B. Primary**
+**C. Secondary**
+**D. Tertiary**
+**E. Quaternary**
+
+
+
+P3-11. [mcq, 1 pt] A patient with an increased risk of breast cancer has a mammogram.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-12. [mcq, 1 pt] A patient is known to have an increased risk of breast cancer. Her doctor recommends regular exercise and decreased alcohol consumption.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-13. [mcq, 1 pt] A patient with breast cancer is given hormone therapy to reduce the risk of a recurrence.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-15. [mcq, 1 pt] WA state put a tax on soft drinks to prevent obesity.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-16. [mcq, 1 pt] A Pap smear to detect cervical cancer is performed on a patient.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-17. [frq, 2 pt] What is the difference between incidence and prevalence rates?
+
+[STIMULUS] A train carrying hazardous materials derails on the outskirts of a city with a population of 7,248 residents. Two days after the incident, 8 people have died, 3 of whom were children. By a year later, 14 additional people have died, 7 of whom were children.
+
+P3-18. [frq, 2 pt] What was the **primary** mortality rate?
+
+P3-19. [frq, 2 pt] What was the mortality rate a year later?

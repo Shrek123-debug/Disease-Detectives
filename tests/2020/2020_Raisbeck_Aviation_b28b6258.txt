@@ -1,0 +1,229 @@
+Raisbeck-Aviation — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  40 questions, 63.0 pts
+Source: scio.ly test archive id b28b6258-3d89-4422-9b43-52c2c6029332  |  original files: https://drive.google.com/drive/folders/15WO-IrrMP1_NUTe1jylVbHFJNy6GaOFC
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Choose the best answer for each question. Write ALL answers on the blank answer sheet. All questions worth 1 point unless stated otherwise.
+
+
+=== Part I: Flying Spaghetti Restaurant Investigation ===
+
+[STIMULUS] The manager of the Flying Spaghetti Monster restaurant reported receiving 18 complaints of gastrointestinal illness, characterized by diarrhea and vomiting, from patrons who ate at the restaurant on November 23, 2019. The State Department of Health started an investigation to confirm the outbreak, assess exposures and recommend measures to prevent continued spread. Samples from the affected patrons tested positive for norovirus using PCR. The manager provided contact information, seating times and seating location for all patrons with reservations. All patrons with contact information were interviewed, and a questionnaire was used to assess illness and exposures. The manager mentioned that there was a sick patron who vomited that day in a private dining area in the restaurant, and the vomitus was cleaned up by staff who later served pecan pie.
+
+1. [mcq, 1 pt] What would be the right term to describe this event?
+    A) Outbreak
+    B) Endemic
+    C) Pandemic
+    D) Cluster
+
+2. [frq, 3 pt] Provide a probable case definition for the event detailed above.
+
+[STIMULUS] Interviewing the patrons at that day identified the number of case patients, both confirmed and probable. The interviewers also identified 101 additional individuals who ate at the restaurant, but did not fall ill, and interviewed them about what they ate and where they sat in order to identify the likely source of the outbreak.
+
+3. [mcq, 1 pt] What study design did the investigators use based on the above description?
+    A) Randomized control trial
+    B) Cohort study
+    C) Cross-sectional study
+    D) Case-control study
+
+[STIMULUS] Here are the results of their investigation in terms of who ate pecan pie:
+    | Ate Pecan Pie | Cases | Controls | Totals |
+    | Yes | 22 | 15 | 37 |
+    | No | 18 | 85 | 103 |
+    | Totals | 40 | 100 | 140 |
+
+4. [frq, 4 pt] What is the odds of eating pecan pie in the case-patient group? What is the odds of eating pecan pie in the control group? Calculate the odds ratio for eating pecan pie in the case-patient vs. the control group. Does the odds ratio suggest an association between disease status and eating pecan pie?
+
+[STIMULUS] Here are the results of their investigation in terms of who sat in the private dining area:
+    | Did they sit in the private dining area | Cases | Controls | Totals |
+    | Yes | 12 | 30 | 42 |
+    | No | 28 | 70 | 98 |
+    | Totals | 40 | 100 | 140 |
+
+5. [frq, 4 pt] What is the odds of sitting in the private dining area in the case-patient group? What is the odds of sitting in the private dining area in the control group? Calculate the odds ratio for sitting in the private dining area in the case-patient vs. the control group. Does the odds ratio suggest an association between disease status and sitting in the private dining area?
+
+6. [frq, 4 pt] What is the attack rate of this infection among the individuals that were exposed to the pecan pie? What is the attack rate of this infection among the individuals that were not exposed to the pecan pie? Calculate the relative risk ratio for this infection in the group that were exposed to the pecan pie relative to the group that was not exposed. Does the relative risk ratio suggest an association between disease status and exposure to the pecan pie?
+
+7. [frq, 4 pt] What is the attack rate of this infection among the individuals that were sitting in the private dining room? What is the attack rate of this infection among the individuals that were not sitting in the private dining room? Calculate the relative risk ratio for this infection in the group that were exposed to the private dining room relative to the group that was not exposed. Does the relative risk ratio suggest an association between disease status and where they were sitting?
+
+8. [frq, 2 pt] What is the reason for the discrepancy between the relative risk measures and the odds ratios? Which one should we trust, and why?
+
+9. [mcq, 1 pt] What was the most likely mode of the transmission in this particular outbreak, based on these numbers:
+    A) Foodborne transmission via the contaminated pecan pie
+    B) Airborne transmission from the vomitus in the private dining room
+    C) Both
+    D) Neither
+
+10. [mcq, 1 pt] If we would conclude that eating the pecan pie was responsible for the outbreak, which of the below Bradford-Hill Criteria could we satisfy?
+    A) Strength of the association
+    B) Consistency of findings
+    C) Specificity of association
+    D) Biological gradient
+    E) All of the above
+
+11. [frq, 1 pt] If we decide that the pecan pie is the main factor in causing infection in people, what is your hypothesis about how the pecan pie got contaminated in the first place?
+
+12. [frq, 1 pt] If we decide that sitting in the main dining room is the main factor in causing infection in people, what is your hypothesis about how the room became contaminated in the first place?
+
+13. [frq, 1 pt] Recommend methods and interventions to avoid a recurrence of this event, and indicate the mechanism by which they work:
+
+14. [mcq, 1 pt] What kind of bias would occur if the pecan pie would have been only served to a select group of people who were all family members of the person who vomited in the private dining room?
+    A) Random error
+    B) Information Bias
+    C) Confounding
+    D) Selection bias
+
+
+=== Part II General Questions ===
+
+15. [frq, 1 pt] What are the 10 steps of an outbreak investigation in order?
+
+16. [mcq, 1 pt] What was John Snow’s major contribution to public health?
+    A) Developed the smallpox vaccine
+    B) Discovered the water-borne transmission of cholera in London
+    C) Recognized bacterial cause of anthrax
+    D) Published the first epidemiological text
+
+17. [mcq, 1 pt] In 1954, which scientist was responsible for the largest formal human trial examining the polio vaccine?
+    A) Edward Jenner
+    B) William Farr
+    C) Louis Pasteur
+    D) Jonas Salk
+    E) John Snow
+
+18. [mcq, 1 pt] Risk factors for what disease were investigated in the Framingham Study?
+    A) Cholera
+    B) Ebola
+    C) Cardiovascular
+    D) Polio
+    E) Salmonella
+
+19. [mcq, 1 pt] Which of the below determinants of health has the largest impact?
+    A) Genes and biology
+    B) Health behaviors
+    C) Social and societal characteristics
+    D) Medical care
+
+20. [mcq, 1 pt] Which of the following public health problems makes the top 10 according to the CDC’s Prevention Status Report:
+    A) Heart disease and stroke
+    B) Zoonotic diseases
+    C) Teen pregnancy
+    D) Early-onset dementia
+    E) More than one of the above
+
+21. [mcq, 1 pt] Why would a clear Case Definition be especially useful in settings with limited diagnostic resources?
+    A) A clear case definition reduces the need for further diagnostic testing.
+    B) A clear case definition allows healthcare workers to quickly target at risk groups.
+    C) A clear case definition helps establish the clinical signs of a disease.
+    D) A clear case definition allows public health officials to easily determine who should receive further diagnostic testing.
+
+22. [mcq, 1 pt] Which of the following is/are used to help describe the health status of a population?
+    A) Mortality rate
+    B) Infant mortality rate
+    C) Health adjusted life expectancy
+    D) Disability adjusted life year
+    E) All of the above
+
+23. [mcq, 1 pt] Individuals who do not get vaccinated for a highly communicable disease and never get sick from the disease may be benefitting from:
+    A) natural selection
+    B) herd immunity
+    C) passive immunity
+    D) cell-mediated immunity
+    E) all of the above
+
+24. [mcq, 1 pt] Why would a disease with unusually strong asymptomatic transmission capabilities be likely to cause an epidemic?
+    A) Because the disease is extremely virulent
+    B) Because epidemics require asymptomatic transmission
+    C) Because the disease would be capable of multiple routes of transmission
+    D) Because multiple people may be infected before any health professional are aware of cases
+
+25. [mcq, 1 pt] Which of the below statements about epidemiology are true?
+    A) The diagnosis and treatment of illnesses is an important part of epidemiology.
+    B) Epidemiologic methods are targeted at populations, communities and groups of individuals.
+    C) Epidemiologists are primarily concerned with individuals.
+    D) A goal of epidemiology is to prevent and control illness and injuries.
+    E) Both b and d are true
+
+26. [mcq, 1 pt] Public health surveillance is a key activity in monitoring health trends and disease patterns in the face of population growth. Which of the following definitions applies to public health surveillance?
+    A) Monitoring of a person who might have been exposed to an infectious, chemical, radiologic, or other potentially causal agent, for the purpose of detecting early symptoms.
+    B) The ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those responsible for prevention and control.
+    C) The study of the distribution and determinants of health conditions or events among populations and the application of that study to control health problems
+    D) None of the above.
+
+27. [frq, 3 pt] There are two major triads or three-word concepts in epidemiology. One of these is Person/Place/Time. What is the other triad?
+
+28. [mcq, 1 pt] Person-to-person transmission of a communicable disease such as the recent measles outbreak in California associated with Disneyland generally results in which of the below epidemic patterns?
+    A) Propagated outbreak
+    B) Mixed outbreak
+    C) Common source outbreak
+
+29. [mcq, 1 pt] Although West Nile virus infections in humans are usually mild and often have no symptoms, some people develop a serious neurologic illness such as encephalitis or meningitis (inflammation of the brain or surrounding tissues). About 10% of those with severe symptoms die. Birds serve as a reservoir for this virus and it is spread to humans through the bite of female mosquitoes. This represents which of the below modes of transmission?
+    A) Droplet spread
+    B) Vehicle borne
+    C) Vector borne
+    D) Airborne
+
+30. [mcq, 1 pt] Meningococcal meningitis is a severe bacterial infection of the meninges – the membranes that cover the brain. The causative agent, Neisseria meningitidis, is normally found in the upper respiratory tract (e.g., nose and nasopharynx) of humans and is spread from person to person by relatively large, short-range aerosols produced by sneezing, coughing, or even talking. This represents which of the below modes of transmission?
+    A) Vehicle borne
+    B) Vector borne
+    C) Direct contact
+    D) Droplet spread
+
+31. [mcq, 1 pt] Rabies is a viral central nervous system infection that almost always results in death. It is spread by the bite of infected mammals. Worldwide, more than 50,000 people die from rabies each year. Only 1 or 2 die each year in the United States – mostly from bites of wild animals such as bats, skunks, raccoons and foxes. Rabies utilizes which of the below modes of transmission?
+    A) Vehicle borne
+    B) Vector borne
+    C) Direct contact
+    D) Droplet spread
+
+[STIMULUS] A. Endemic
+B. Outbreak
+C. Pandemic
+D. Sporadic
+E. Epidemic
+
+32. [frq, 5 pt] Put the letter of the below pattern of disease occurrence in the box next to the scenario that matches it.
+    [IMAGE: ../images/2020_raisbeck_aviation_c__p6_9258ae-6a4b45cf.webp]
+
+
+=== Part III: Data Interpretation ===
+
+[STIMULUS] 
+    [IMAGE: ../images/2020_raisbeck_aviation_c__p7_d7c29a-3d67d19c.webp]
+
+33. [frq, 1 pt] What term do epidemiologists normally use to refer to type of graph in Figure 1?
+
+34. [frq, 2 pt] The outbreak shown in Figure 1 was the result of food eaten at a party on the evening of Feb 13th. Assume the food was served at 7 pm, the first person became ill at 2 pm on the date indicated and the last person became ill at 9 am on the date indicated. What is the range of incubation periods for this outbreak?
+
+[STIMULUS] 
+    [IMAGE: ../images/2020_raisbeck_aviation_c__p7_7073ae-6b0ed37c.webp]
+
+35. [mcq, 1 pt] Which of the following statements about the population of Zambia is NOT supported by the information in Figure 2?
+    A) Men in Zambia are likely to die at a much younger age than women.
+    B) Compared to the United States, the likelihood of dying in Zambia appears to be relatively constant across all age groups.
+    C) The birth rate in Zambia appears to be much greater than that in the United States.
+    D) Zambia is primarily a country of young people.
+
+36. [frq, 1 pt] If one estimates the population in Zambia in 2000 to have been approximately 10,000,000 what would be the modal age group?
+
+37. [frq, 2 pt] If one estimates the population in Zambia in 2000 to have been approximately 10,000,000 what would be the median age group?
+
+38. [frq, 1 pt] Population growth tends to force people into environments that were previously unsettled and bring them into closer contact with wild animals. Infectious diseases such as Ebola and Human Immunodeficiency virus (HIV) infections are believed to be spread from animals to man through these sorts of interactions. What term do epidemiologists use for an infectious disease that is transmissible from animals to humans?
+
+[STIMULUS] Use the 2x2 Table below for the next 2 questions.
+
+**Table 1. Mammography Screening Results**
+    |  | Brest Cancer Present | Brest Cancer Absent | Totals |
+    | Mammography(+) | 25 | 15 | 40 |
+    | Mammography (-) | 9 | 95 | 104 |
+    |  | 34 | 110 |  |
+
+39. [mcq, 1 pt] If one relied only on the results of the mammography screening (only the positive and negative results) above to determine the prevalence of breast cancer, the presence of false negatives would cause this calculated prevalence above to be ____ the actual prevalence of breast cancer.
+    A) Greater than
+    B) Less than
+    C) the same as
+    D) have no affect
+
+40. [mcq, 1 pt] What is the actual prevalence of breast cancer in the cohort of women above?
+    A) 23.6%
+    B) 76.3%
+    C) 73.5%
+    D) 17.4%

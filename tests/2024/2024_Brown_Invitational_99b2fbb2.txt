@@ -1,0 +1,914 @@
+Brown Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  94 questions, 124.5 pts
+Source: scio.ly test archive id 99b2fbb2-4294-444d-b021-fa0f48a8b34e  |  original files: https://drive.google.com/drive/folders/1WjEGUQ1v0pwkxuvAoPuWFaWk_m9Atqjx
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== SECTION #1: General Knowledge ===
+
+[STIMULUS] Match the terms in the word bank with their corresponding descriptions. Not all terms will be used.
+
+a. Reportable Disease
+b. Endemic
+c. Source Case
+d. Incidence
+e. Arbovirus
+f. Prophylaxis
+g. Hawthorne Effect
+h. Passive Surveillance
+i. CDC
+j. Serotype
+k. Efficiency
+l. Association
+m. Inoculum
+n. Chemotaxis
+o. NIAID
+p. Outbreak
+q. Prevalence
+r. Etiology
+s. Immunogenicity
+t. Hyperendemic
+u. Berkson's Bias
+v. Epidemic
+w. Notifiable Disease
+x. Efficacy
+y. NIH
+z. Syndrome
+aa. Anthroponosis
+ab. Sampling Bias
+ac. Sentinel Surveillance
+ad. Health Information Systems
+
+1. [mcq, 1 pt] Groups within a single species of microorganisms, which share distinctive surface structures.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+3. [mcq, 1 pt] The ability of a foreign substance to provoke an immune response in the body.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+4. [mcq, 1 pt] Recognizable complex of symptoms and physical findings that indicate a specific condition for which a direct cause is not necessarily understood.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+5. [mcq, 1 pt] Action taken to prevent disease, especially by specified means or against a specified disease.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+7. [mcq, 1 pt] It can arise when the sample is taken not from the general population, but from a subpopulation.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+8. [mcq, 1 pt] Conducts and supports basic and applied research to better understand, treat, and ultimately prevent infectious, immunologic, and allergic diseases.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+9. [mcq, 1 pt] The number of cases of disease having their onset during a prescribed period of time.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+11. [mcq, 1 pt] Occurs when people behave differently because they know they are being watched.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+12. [mcq, 1 pt] Statistical relationship between two or more events, characteristics, or other variables.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+13. [mcq, 1 pt] Doing things in the most economical way. It is the ratio of the output to the inputs of any system.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+14. [mcq, 1 pt] Responsible for controlling the introduction and spread of infectious diseases, and provides consultation and assistance to other nations and international agencies.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+16. [mcq, 1 pt] A disease that is constantly present at a high incidence and/or prevalence rate.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+17. [mcq, 1 pt] The number or proportion of cases, events, or conditions in a given population.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+18. [mcq, 1 pt] Infections caused by a group of viruses spread to people by infected arthropods.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+19. [mcq, 1 pt] A person with an infectious disease who transmits infection to one or more other individuals.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+20. [mcq, 1 pt] States voluntarily inform the CDC about these when a person meets certain criteria to become a case.
+    A) Reportable Disease
+    B) Endemic
+    C) Source Case
+    D) Incidence
+    E) Arbovirus
+    F) Prophylaxis
+    G) Hawthorne Effect
+    H) Passive Surveillance
+    I) CDC
+    J) Serotype
+    K) Efficiency
+    L) Association
+    M) Inoculum
+    N) Chemotaxis
+    O) NIAID
+    P) Outbreak
+    Q) Prevalence
+    R) Etiology
+    S) Immunogenicity
+    T) Hyperendemic
+    U) Berkson's Bias
+    V) Epidemic
+    W) Notifiable Disease
+    X) Efficacy
+    Y) NIH
+    Z) Syndrome
+    [) Anthroponosis
+    \) Sampling Bias
+    ]) Sentinel Surveillance
+    ^) Health Information Systems
+
+[STIMULUS] Determine whether each of the statements below is true or false. If a statement is false, write the correct term(s) that should replace the bolded words.
+
+21. [tf, 1 pt] The current director of the CDC is **Rochelle Walensky**.
+    A) True
+    B) False
+
+22a. [tf, 1 pt] **Exhaustion bias** refers to fatigue that sets in after rounds of interviewing, leading to the process of dropping out from a panel study.
+    A) True
+    B) False
+
+22b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "**Exhaustion bias** refers to fatigue that sets in after rounds of interviewing, leading to the process of dropping out from a panel study."
+
+23. [tf, 1 pt] Chemotherapy is an example of **tertiary prevention**.
+    A) True
+    B) False
+
+23b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "Chemotherapy is an example of **tertiary prevention**."
+
+24a. [tf, 1 pt] **Intermittent source** epi-curves do not have a common source but instead are caused by the spread of pathogens from one susceptible person to another.
+    A) True
+    B) False
+
+24b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "**Intermittent source** epi-curves do not have a common source but instead are caused by the spread of pathogens from one susceptible person to another."
+
+25a. [tf, 1 pt] John Snow used **shoe-leather epidemiology** in his investigations of cholera.
+    A) True
+    B) False
+
+25b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "John Snow used **shoe-leather epidemiology** in his investigations of cholera."
+
+26a. [tf, 1 pt] A pregnant woman receiving a negative pregnancy test is an example of a **Type II Error**.
+    A) True
+    B) False
+
+26b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "A pregnant woman receiving a negative pregnancy test is an example of a **Type II Error**."
+
+27a. [tf, 1 pt] A **comparative analysis chart** is a graph that displays the point estimates and confidence intervals of individual studies in a meta-analysis or systematic review as a series of parallel lines.
+    A) True
+    B) False
+
+27b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "A **comparative analysis chart** is a graph that displays the point estimates and confidence intervals of individual studies in a meta-analysis or systematic review as a series of parallel lines."
+
+28a. [tf, 1 pt] **Fastigium** refers to the period of disease when symptoms first appear.
+    A) True
+    B) False
+
+28b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "**Fastigium** refers to the period of disease when symptoms first appear."
+
+29a. [tf, 1 pt] The word **"quarantine"** originates from the forty-day period of isolation for ships during the Black Plague.
+    A) True
+    B) False
+
+29b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "The word **"quarantine"** originates from the forty-day period of isolation for ships during the Black Plague."
+
+30a. [tf, 1 pt] The leading cause of disability-adjusted life years in the United States is **unipolar major depression**.
+    A) True
+    B) False
+
+30b. [frq, 1 pt] If the statement is false, write the correct term(s) that should replace the bolded words: "The leading cause of disability-adjusted life years in the United States is **unipolar major depression**."
+
+[STIMULUS] Choose the correct option(s).
+
+31. [mcq, 1 pt] PulseNet helps to identify potential clusters of illness by:
+    A) Testing for common SNPs in patients' genomes
+    B) Tracking patients' symptoms
+    C) Analyzing DNA fingerprints in patient bacteria samples
+    D) Identifying common patient family histories
+
+32. [mcq, 1 pt] Which of the following is the most accurate about single nucleotide polymorphisms (SNPs)?
+    A) SNPs can often lead to severe illnesses
+    B) SNPs are single-base differences between organisms that occur in more than 1% of the population
+    C) SNPs only occur in males
+    D) SNPs always occur in coding regions and affect the function of the gene that it occurs within
+
+34. [mcq, 1 pt] Which scientist is credited with developing the first successful vaccine?
+    A) Jonas Salk
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Alexander Fleming
+
+35. [multi, 1 pt] Which of the following diseases have been declared eradicated?
+    A) Polio
+    B) Smallpox
+    C) Rubella
+    D) Rinderpest
+
+36. [mcq, 1 pt] Who was the first to describe the 'epidemiologic transition,' the shift from infectious to chronic diseases as the primary cause of death?
+    A) Richard Doll
+    B) Abdel Omran
+    C) Ernst Wynder
+    D) Ancel Keys
+
+37. [multi, 1 pt] Which of the following are examples of quaternary prevention?
+    A) A patient with a common cold—which is likely viral—is advised against taking antibiotics.
+    B) A physician recommends a low glycemic index diet to a patient with diabetes to prevent disease progression.
+    C) A psychiatrist recommends cognitive-behavioral therapy and lifestyle changes rather than medication for a patient with mild anxiety.
+    D) Public health campaigns encourage an hour of moderate physical activity each day to reduce the risk of chronic illness.
+
+38. [mcq, 1 pt] Which of the following most accurately describes a sentinel surveillance system?
+    A) During an outbreak of measles, the New York City Department of Health contacts all schools, hospitals, and clinics in the area every week to identify new cases.
+    B) In California, a statewide system exists where healthcare providers are legally required to report cases of Lyme disease to the state health department.
+    C) During the flu season, an automated system is used by hospitals in London to track the number of patients presenting with flu-like symptoms, such as fever and cough.
+    D) A pre-selected group of healthcare facilities across South Africa routinely collects sputum samples from tuberculosis patients to monitor drug resistance trends and reports their data to the national health department.
+
+
+=== SECTION #2: Unknown Foodborne Illness ===
+
+[STIMULUS] After coming back to school for the spring semester, numerous students at Brown University fell ill with a mysterious illness. Between January 20th, 2024, and February 3rd, 2024, students reported symptoms of diarrhea, vomiting, and stomach pain 12-48 hours after eating at a dining hall. Some students also reported symptoms of fever, headache, and muscle pain. Thankfully, however, most students recovered within two days and could continue attending classes during the shopping period.
+
+39. [frq, 2 pt] Based on the information above, which foodborne illness were the students most likely experiencing?
+
+40. [frq, 5 pt] Establish a case definition for this investigation.
+
+41a. [mcq, 1 pt] Identify the following case as "confirmed," "probable," "possible," or "not a case": A student who ate at a dining hall reported symptoms of diarrhea one day later. A laboratory test for the unknown illness is yet to be done.
+    A) confirmed
+    B) probable
+    C) possible
+    D) not a case
+
+41b. [mcq, 1 pt] Identify the following case as "confirmed," "probable," "possible," or "not a case": A student who ate breakfast at a dining hall reported symptoms of diarrhea and stomach pain later that evening. A laboratory test for the unknown illness was negative.
+    A) confirmed
+    B) probable
+    C) possible
+    D) not a case
+
+41c. [mcq, 1 pt] Identify the following case as "confirmed," "probable," "possible," or "not a case": A student who ate off-campus reported symptoms of vomiting within 13 hours. A laboratory test is yet to be done.
+    A) confirmed
+    B) probable
+    C) possible
+    D) not a case
+
+41d. [mcq, 1 pt] Identify the following case as "confirmed," "probable," "possible," or "not a case": A student reported no symptoms for over 48 hours after eating at a dining hall, yet a laboratory test for the unknown illness was positive.
+    A) confirmed
+    B) probable
+    C) possible
+    D) not a case
+
+41e. [mcq, 1 pt] Identify the following case as "confirmed," "probable," "possible," or "not a case": A student who ate dinner at a dining hall reported symptoms of diarrhea, vomiting, stomach pain, fever, and headache the next morning. Laboratory test results for the unknown illness are pending.
+    A) confirmed
+    B) probable
+    C) possible
+    D) not a case
+
+[STIMULUS] After thoroughly investigating all of the dining halls, you narrow down the list of contaminated food to five possibilities. These five foods are listed below with the number of people who ate them and the number of people who got sick from each. 400 students were interviewed in all and 317 students fell ill during the aforementioned period.
+    | Food | Eaten? | Sick? |
+    | Apples | 381 | 301 |
+    | Grapes | 294 | 217 |
+    | Honeydew | 112 | 84 |
+    | Lettuce | 317 | 293 |
+    | Spinach | 140 | 57 |
+
+45. [frq, 2 pt] What type of epidemiological study did your team conduct based on the information given?
+
+46a. [frq, 2 pt] Give one advantage and one disadvantage of Experimental Studies.
+
+46b. [frq, 2 pt] Give one advantage and one disadvantage of Cross-Sectional Study.
+
+46c. [frq, 2 pt] Give one advantage and one disadvantage of Case-Control Study.
+
+46d. [frq, 2 pt] Give one advantage and one disadvantage of Cohort Study.
+
+48. [frq, 2 pt] What is the appropriate measure of association to analyze this data?
+
+
+=== SECTION #3: HIV/AIDS ===
+
+[STIMULUS] Human Immunodeficiency Virus (HIV) affects more than forty million individuals worldwide, and has remained a major public health concern since 1981, when the first cases of Acquired Immunodeficiency Syndrome (AIDS) were identified and eventually linked to HIV. The virus is most commonly transferred via blood, breast milk, and secretions of the reproductive system, and is known for its ability to debilitate the immune system over the course of chronic illness. There is no cure.
+
+51. [multi, 2 pt] Which of the following statements about HIV/AIDS are accurate? Select all that apply.
+    A) HIV was introduced to humans via a spillover event.
+    B) HIV can be transmitted horizontally but not vertically.
+    C) HIV frequently infects hosts via fomites and vectors.
+    D) HIV cannot be transmitted via the airborne route.
+
+52. [frq, 3 pt] Name the links of the chain of infection. Identify a specific example for each within the context of HIV/AIDS.
+
+[STIMULUS] 
+
+Match the following events associated with HIV with specific time(s) (indicated by arrows) or time period(s) in the unlabeled Natural History of Disease shown below.
+    [IMAGE: ../images/2024_brown_invitational_c__p10_e173d5-fc78967b.webp]
+
+54a. [mcq, 0.5 pt] Your primary care physician confirms that you have HIV.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54b. [mcq, 0.5 pt] You experience symptomatic disease, and your immune system is being depleted.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54c. [mcq, 0.5 pt] You unknowingly share a needle with someone who has late-stage HIV.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54d. [mcq, 0.5 pt] You die from an opportunistic infection.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54e. [mcq, 0.5 pt] You begin to experience symptoms, including a fever, headache, and sore throat.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54f. [mcq, 0.5 pt] You are susceptible to being infected by HIV.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54g. [mcq, 0.5 pt] Your HIV progresses to AIDS.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+54h. [mcq, 0.5 pt] You are experiencing asymptomatic disease; the incubation period for HIV.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+    F) F
+    G) G
+    H) H
+
+55. [frq, 2 pt] What are Koch's Postulates used for in epidemiology? Are all of Koch's Postulates fulfilled by HIV/AIDS? Explain.
+
+56. [frq, 1 pt] **Bonus!** Which specific cell type is the main target of HIV?
+
+[STIMULUS] You have been contacted by the Rhode Island Department of Health (RIDOH), which suspects an outbreak of HIV in the state. Normally, the incidence of HIV in Rhode Island is 6 cases per 100,000 people per year. There were 73 cases diagnosed in 2023.
+
+57. [frq, 2 pt] Given that the population of Rhode Island is 1,100,000, is Rhode Island experiencing an outbreak of HIV? Explain your answer by calculating a statistic.
+
+[STIMULUS] The development of a vaccine to prevent HIV has been a central goal in efforts to stem the global AIDS epidemic. However, vaccine development has proven to be exceedingly challenging. Suppose that a company has a breakthrough in designing a vaccine against HIV using the technology employed by companies like Moderna and Pfizer in producing the vaccine for SARS-CoV-2.
+
+58. [frq, 2 pt] Provide two specific reasons that it is challenging to develop a vaccine to protect against HIV/AIDS.
+
+59. [frq, 1 pt] Name the technology used by this vaccine.
+
+60. [frq, 1 pt] Vaccination is an example of the ____ level of prevention.
+
+61. [mcq, 1 pt] Vaccination produces ____ ____ immunity.
+    A) Passive; natural
+    B) Passive; artificial
+    C) Active; natural
+    D) Active; artificial
+
+62. [frq, 1 pt] **Bonus!** Which specific type of immune cell is most important to vaccine-mediated immunity?
+
+63. [frq, 2 pt] Why is vaccination important? Make sure to use the term "herd immunity" in your response.
+
+[STIMULUS] |  | Contracted HIV | Did Not Contract HIV |
+|---|---|---|
+| Received Vaccine | 230 | 850 |
+| Did Not Receive Vaccine | 1350 | 300 |
+
+64. [frq, 3 pt] Using the experimental data given above, calculate the efficacy of this vaccine as a percentage. Please show your work and provide an interpretation of your result.
+
+65. [frq, 2 pt] Suppose that a given city has a population of 650,000 susceptible hosts for HIV. Assuming that each individual infected with the virus will go on to infect an average of 5.5 other people, calculate how many people need to be vaccinated to achieve herd immunity in this city.
+
+[STIMULUS] Rapid and widespread diagnostic tools are another essential component of successful disease control efforts. Currently, rapid antigen tests for HIV are only reliable for patients that are chronically infected with the disease, and struggle to detect infection in those who have recently been exposed. Suppose that a biotechnology company has designed a new point-of-care diagnostic test that uses blood to diagnose acute HIV infection. The company has tasked you with using the data they have collected (shown below) to assure that their product is truly more effective than the existing test.
+
+|  | Has HIV | No HIV |
+|---|---|---|
+| Positive Test Result | 25 | 1 |
+| Negative Test Result | 18 | 23 |
+
+66a. [frq, 1 pt] Using the data above, calculate and interpret: Specificity
+
+66b. [frq, 1 pt] Using the data above, calculate and interpret: Sensitivity
+
+66c. [frq, 1 pt] Using the data above, calculate and interpret: Positive Predictive Value
+
+66d. [frq, 1 pt] Using the data above, calculate and interpret: Negative Predictive Value
+
+67. [frq, 2 pt] Which of the four statistics is most important to consider in a diagnostic test that will be used to prevent outbreaks? Explain your reasoning.
+
+68. [frq, 1 pt] The existing rapid antigen test has a specificity of 98.1%, a sensitivity of 45.7%, a positive predictive value of 95%, and a negative predictive value of 50%. Based on these data, is the new blood test more useful from the perspective of outbreak prevention? Briefly explain your answer.
+
+
+=== SECTION #4: Antibiotic-Resistant Bacteria ===
+
+[STIMULUS] Antibiotic resistance occurs when bacteria evolve mechanisms that cause antibiotics to become less effective in controlling bacterial infections. Antibiotic-resistant strains of bacteria are responsible for millions of deaths each year.
+
+69. [frq, 1 pt] Explain the process by which antibiotic resistance develops.
+
+70. [frq, 2 pt] Why are antibiotic-resistant bacteria a significant public health concern? Are the challenges presented by antibiotic resistance expected to improve or worsen in the coming decades? Explain.
+
+71. [frq, 1 pt] Infections by antibiotic-resistant bacteria often occur in nosocomial settings. What does this mean?
+
+[STIMULUS] Establishing effective surveillance systems is especially important for control of antibiotic-resistant bacteria. The CDC has tasked you with developing a surveillance system to monitor Methicillin-Resistant S. aureus (MRSA)—a particularly troublesome bacterial strain—and quickly contain any outbreaks that occur.
+
+72. [frq, 2 pt] Which type of surveillance system would be most appropriate for this use case? Explain.
+
+73. [frq, 2.5 pt] List the five steps of public health surveillance.
+
+74. [frq, 3 pt] Identify and explain three of the criteria used to evaluate the quality of a surveillance system.
+
+75. [frq, 2 pt] What genetic method could be used to identify different strains of S. aureus? How?
+
+[STIMULUS] The CDC has also asked you to complete a study to better understand the public health burden of MRSA in the United States. The results of your analysis by geographic region are shown below (all values per 100,000 people).
+
+| Region | Incidence | Hospitalizations | Mortality |
+|---|---|---|---|
+| Northeast | 27.2 | 6.1 | 2.8 |
+| South | 35.8 | 8.9 | 4.1 |
+| Midwest | 31.3 | 6.7 | 3.3 |
+| West | 29.5 | 6.3 | 3.0 |
+
+76. [frq, 2 pt] What type of study is this? Describe an advantage and a disadvantage of this study type.
+
+77. [frq, 1 pt] Propose an explanation for the overall trend seen in this data.
+
+[STIMULUS] Carbapenem-resistant P. aeruginosa (CRPA) is an especially concerning pathogen, as it is often resistant to most—if not all—available antibiotics. As such, the WHO has determined the development of new antibiotics to treat CRPA a critical priority. In 2019, the FDA approved cefiderocol, a novel antibiotic for use in cases of extreme multidrug resistant infections. You decide to conduct a study to determine if cefiderocol is effective in treating CRPA infections.
+
+78. [mcq, 2 pt] Which type of study would be best suited to identifying a causal relationship between cefiderocol and reduced mortality from CRPA?
+    A) Randomized-controlled trial
+    B) Prospective cohort
+    C) Retrospective cohort
+    D) Case-control
+    E) Case-series
+    F) Cross-sectional
+
+79. [frq, 4 pt] Based on your answer above, describe (with specific details pertaining to the study design chosen) a high-quality epidemiological study that you could conduct to determine that cefiderocol leads to reduced mortality from CRPA.
+
+80. [frq, 2 pt] After conducting your study, you calculate the relative risk reduction (RRR) associated with cefiderocol to be 12.8% (95% CI: -1.7-27.3) when compared to the current standard of care. Do these data support an advantage for cefiderocol in treating CRPA infection? Explain.

@@ -1,0 +1,480 @@
+Westlake Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  85 questions, 85.0 pts
+Source: scio.ly test archive id 3dce7227-d042-4848-93a1-127de61e0e7f  |  original files: https://drive.google.com/drive/folders/15QaImPeZZ8DQqF0mJdDo7j81jpCgQGdD
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+DIRECTIONS: Round to the nearest tenth place when necessary. Complete the test to the best of your ability. Good luck!
+
+
+=== Part I: Multiple Choice Questions ===
+
+2. [mcq, 1 pt] The mode of transport of an infectious agent through the environment to a susceptible host is called a:
+    A) carrier
+    B) reservoir
+    C) vector
+    D) vehicle
+
+3. [mcq, 1 pt] A longitudinal or prospective study is also referred to as a(n
+    A) ecological study
+    B) cross-sectional study
+    C) cohort study
+    D) observational study
+
+4. [mcq, 1 pt] A disease that is maintained in a population at a steady, low-level frequency is
+    A) sporadic
+    B) endemic
+    C) epidemic
+    D) pandemic
+
+5. [mcq, 1 pt] Describe the disadvantages of the case control study
+    A) A cohort is different because an entire cohort of exposed individuals is examined. A case study makes use of limited number of cases and controls who usually do not represent an entire cohort of exposed individuals.
+    B) The measurement of exposure may be inaccurate. Representativeness of cases and controls may be unknown and may provide indirect estimates of risk. The temporal relationship between exposure factor and outcome cannot always be determined.
+    C) For an observational designed study, the observer does not have control over the exposure factor. Mostly, cannot assign subjects by random to certain study conditions. For an experimentally designed study the observer can control who is exposed to certain factors and is able to assign subjects by random to certain study groups.
+
+6. [mcq, 1 pt] Describe the uses of analytic studies
+    A) They help lead to the prevention of disease, create quantitative evaluations of intervention programs as well as determine safe and effective new drugs, and other procedures.
+    B) This is something that describes the negative because you cannot always take the findings from group data and apply it to individuals.
+    C) The units of analysis are groups. This can be referred to as an Ecological Comparison Study.
+
+7. [mcq, 1 pt] Identify an example of a case control study
+    A) Used very commonly in environmental epidemiologic research. An example may be possible health effects of exposure to electromagnetic fields.
+    B) Allowance of the direct observation of risk. The exposure factor is well defined and can study exposures that are uncommon in the population. The temporal relationship between factor and outcome is known.
+    C) The units of analysis are groups. This can be referred to as an Ecological Comparison Study.
+
+8. [mcq, 1 pt] Describe the advantages of the case control study
+    A) The ecologic fallacy and imprecise measurement of exposure.
+    B) It can be used to study conditions of low prevalence. The procedure is mostly quick and easy to complete, and is inexpensive. Lastly, the number subjects needed are smaller.
+    C) Refers to the difference between the incidence rate of a disease in the exposed group and the incidence rate in the non-exposed group. Attributable risk is the difference between two incidence rates.
+
+9. [mcq, 1 pt] The science that studies the distribution, occurrence, and control of health and disease in a defined population is
+    A) Bioinformatics
+    B) Epidemiology
+    C) Immunology
+    D) Clinical laboratory science
+
+10. [mcq, 1 pt] The national agency for developing and carrying out disease prevention and control is called the
+    A) Department of Homeland Security
+    B) National Institutes of Health
+    C) Center for Disease Control and Prevention
+    D) World Health Organization
+
+11. [mcq, 1 pt] The first epidemiologist who studied the cholera outbreak in London was
+    A) Robert Koch
+    B) Jonas Salk
+    C) Alexander Fleming
+    D) John Snow
+
+12. [mcq, 1 pt] Which of the following methods can be used for to obtain health surveillance information?
+    A) Controlled experiments and clinical trials
+    B) Double-blind experiments and case studies
+    C) Case studies and direct observations
+    D) Population surveys and case reporting
+
+13. [mcq, 1 pt] The morbidity rate is calculated as
+    A) The number of deaths divided by the number of individuals in the population
+    B) The number of total cases of a disease divided by the number of individuals in the population
+    C) The number of new cases of a disease divided by the number of individuals in the population
+    D) The number of new cases of a disease in a specified period divided by the number of individuals in the population
+
+14. [mcq, 1 pt] The prevalence of disease depends upon
+    A) The incidence rate
+    B) The duration of the illness
+    C) Both the incidence rate and the duration of the illness
+    D) Neither the incidence rate and the duration of the illness
+
+15. [mcq, 1 pt] An infectious disease that can be transmitted from person to person is known as a
+    A) Systemic infection
+    B) Communicable disease
+    C) Transferred disease
+    D) Environmental disease
+
+17. [mcq, 1 pt] The resistance of a population to infection and pathogen spread due to the immunity of a large presence of the population is known as
+    A) Resistance effect
+    B) Vicarious immunity
+    C) Threshold immunity
+    D) Herd immunity
+
+18. [mcq, 1 pt] Which of the following factors contribute to the spread of microorganisms and their diseases?
+    A) Climate change
+    B) Habitat destruction
+    C) Increased global travel
+    D) All of the above
+
+19. [mcq, 1 pt] Infections resulting from pathogens acquired by patients while in a hospital or nursing facility are known as
+    A) Social infections
+    B) Community infections
+    C) Nosocomial infections
+    D) Vector-borne infections
+
+21. [mcq, 1 pt] What type of epidemic is characterized by reaching a peak level within a short period of time (1-2 weeks), followed by a rapid decline in infected patients?
+    A) Common-source epidemic
+    B) A rapid epidemic
+    C) A propagated epidemic
+    D) A static epidemic
+
+22. [mcq, 1 pt] The key factor responsible for the rise in drug-resistant pathogens is
+    A) The use of synthetic antibiotics
+    B) Excessive or inappropriate use of antimicrobial therapy
+    C) General decline of sanitation habits
+    D) All of the above
+
+23. [mcq, 1 pt] In terms of foodborne illness, what is the “danger zone”?
+    A) The temperature at which foodborne pathogens can most easily reproduce.
+    B) An area where cross-contamination can easily occur.
+    C) The time period in which the most severe symptoms of an illness can begin to appear.
+    D) The area within the US where most foodborne illnesses occur.
+
+24. [mcq, 1 pt] Which of the following diseases appeared as public health concerns in the last quarter of the 20th Century?
+    A) Escherichia coli O157:H7
+    B) Ebola Virus
+    C) H1N1
+    D) All of the above
+
+25. [mcq, 1 pt] What is the main difference between HACCP and HARPC?
+    A) HARPC emphasizes prevention rather than elimination of pathogens.
+    B) HARPC can be used at any stages of a food transport chain (in fact, HARPC recommends that testing be done at multiple stages).
+    C) HARPC relies on the establishment of certain control points—points at which control can be applied to reduce the risk of foodborne hazards.
+    D) No difference; the name was changed to better reflect modern food-safety methods.
+
+26. [mcq, 1 pt] The mortality rate is calculated as
+    A) The number of new cases of a disease divided by the number of individuals in the population
+    B) The number of deaths due to a given disease divided by the size of the total population with the same disease
+    C) The number of deaths due to a given disease divided by the size of the total population
+    D) The number of deaths due to a given disease divided by the number of deaths due to any cause in the total population
+
+28. [mcq, 1 pt] Which of the following is a surveillance method used by epidemiologists?
+    A) Morbidity and mortality reports
+    B) Reviews of laboratory results
+    C) Demographic data on populations
+    D) All of the above
+
+29. [mcq, 1 pt] How does a cold chain affect food safety?
+    A) Prevents investigators from determining the exact source of a foodborne outbreak.
+    B) Prevents the growth of bacteria while food products are transported.
+    C) Foodborne illnesses are more common in areas with cooler mean temperatures.
+    D) Stops growth of bacteria by pasteurizing or heat-killing food products before ("at the beginning of the chain") they are shipped to distribution centers
+
+30. [mcq, 1 pt] In the course of an epidemic, the number of susceptible individuals
+    A) Increases
+    B) Decreases
+    C) Remains the same
+    D) None of the above
+
+31. [mcq, 1 pt] Nosocomial infections are usually caused by
+    A) Fungi
+    B) Protists
+    C) Bacteria
+    D) Viruses
+
+32. [mcq, 1 pt] The first widespread vaccination was used against
+    A) Influenza
+    B) Measles, mumps, rubella
+    C) Polio
+    D) Smallpox
+
+33. [mcq, 1 pt] Epidemiologists define disease occurrence in terms of
+    A) Agent
+    B) Host
+    C) Environment
+    D) All of the above
+
+34. [mcq, 1 pt] The incubation period is the interval between
+    A) The time of infection and death
+    B) Appearance of clinical symptoms and death
+    C) The time of infection and appearance of clinical symptoms
+    D) The time of infection and appearance of antibodies
+
+35. [mcq, 1 pt] Which three parameters does the Reed-Frost Model use?
+    A) Time, place, and person
+    B) Agent, host, and environment
+    C) Susceptibles, infected, and immune
+    D) Resistant, infected, and immune
+
+36. [mcq, 1 pt] A reduction in which of the following factors will reduce the rate of spread of an epidemic?
+    A) Transmission probability per contact
+    B) Contact Rate
+    C) Duration of infectiousness
+    D) A and C
+    E) All of the Above
+
+37. [mcq, 1 pt] The persistence of an epidemic depends upon
+    A) Births
+    B) In migration
+    C) The conversion of susceptibles to immunes
+    D) All of the Above
+    E) A and B
+
+38. [mcq, 1 pt] Diseases with animal reservoirs are called
+    A) Outbreaks
+    B) Portals
+    C) Nosocomial infections
+    D) Zoonoses
+
+39. [mcq, 1 pt] Submicroscopic infectious agents that contain their own genetic material but are incapable of multiplying outside of the host are?
+    A) Protozoans
+    B) Bacteria
+    C) Viruses
+    D) Prions
+
+40. [mcq, 1 pt] The "epidemiological triad" includes all of the following except:
+    A) Behavioral Factors
+    B) Host
+    C) Agent
+    D) Environment
+
+
+=== Part II: Types of Studies Questions ===
+
+[STIMULUS] Mark the appropriate letter of the type of study.
+
+*Determine whether the following examples of studies are:*
+
+**(A)** Cross-sectional **(B)** Cohort **(C)** Case-control **(D)** A clinical trial
+
+41. [mcq, 1 pt] A study in which children are randomly assigned to receive either a newly formed vaccine or the vaccine currently available. The children were followed to monitor for side effects and effectiveness of each vaccine.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+42. [mcq, 1 pt] Researchers enrolled 49,657 women in a study to collect exposure and lifestyle information to assess the relationship between these factors and subsequent occurrence of cancer.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+43. [mcq, 1 pt] People with new onset Lyme's disease were asked how often the walk in the woods, use insect repellant, wear short sleeves and pants. Twice as many patients without Lyme's disease from the same physician's office were asked the same questions, then the two groups were compared.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+44. [mcq, 1 pt] Residents of a community were telephoned and asked how much they exercise each week and whether they currently have (or ever been diagnosed) with heart disease.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+45. [mcq, 1 pt] Investigators conducted a study to compare MMR vaccine history to children with autism and children without autism (no link was found).
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+46. [mcq, 1 pt] This study is based upon exposure status.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+47. [mcq, 1 pt] This study is used with a small, well-defined population.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+48. [mcq, 1 pt] This study uses the odds ratio to calculate relevant data.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+49. [mcq, 1 pt] This type of study is also known as a survey.
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+50. [mcq, 1 pt] This study compares groups of people to determine a cause of a disease
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) A clinical trial
+
+
+=== Part III: True/False Questions ===
+
+51. [tf, 1 pt] Incidence can only be measured in case-control and cohort studies.
+    A) True
+    B) False
+
+52. [tf, 1 pt] Prevalence is the measure of choice within cross-sectional studies.
+    A) True
+    B) False
+
+53. [tf, 1 pt] One disadvantage of case-control studies is that incidence can't be determined when patients are chosen based on disease status.
+    A) True
+    B) False
+
+54. [tf, 1 pt] One of the main advantages of cross-sectional studies is that it allows investigators to efficiently determine levels of rare diseases in a population.
+    A) True
+    B) False
+
+55. [tf, 1 pt] A retrospective cohort study is basically the same as a case-control study.
+    A) True
+    B) False
+
+56. [tf, 1 pt] Indirect age-adjustment is commonly used when there are too few cases to stratify by age groups.
+    A) True
+    B) False
+
+57. [tf, 1 pt] An ecological study specifically determines the relationship between the health of an environment and the populations that live within.
+    A) True
+    B) False
+
+58. [tf, 1 pt] If the basic reproductive number (R₀) is less than 1, then a pathogen will spread exponentially.
+    A) True
+    B) False
+
+59. [tf, 1 pt] Vaccination levels and the basic reproductive number are widely considered to be the two main factors affecting herd immunity.
+    A) True
+    B) False
+
+60. [tf, 1 pt] A nested case-control study is a case-control study that focuses only on specific members of another case-control study.
+    A) True
+    B) False
+
+61. [tf, 1 pt] An epidemic is a disease occurring over a wide geographic area and affecting a high proportion of the population.
+    A) True
+    B) False
+
+62. [tf, 1 pt] An endemic is an occurrence of disease clearly in excess of normal expectancy.
+    A) True
+    B) False
+
+63. [tf, 1 pt] Primary prevention is intended to reduce the duration and severity of the disease.
+    A) True
+    B) False
+
+64. [tf, 1 pt] The word "epidemiology" is based on the same root as the word democracy.
+    A) True
+    B) False
+
+65. [tf, 1 pt] Modified live vaccines represent non-virulent strains of the agents that are capable of causing infection.
+    A) True
+    B) False
+
+66. [tf, 1 pt] Infectious disease outbreak investigations include both and epidemiological and laboratory component.
+    A) True
+    B) False
+
+67. [tf, 1 pt] Cholera is the most common food borne illness associated with eggs and poultry.
+    A) True
+    B) False
+
+68. [tf, 1 pt] The norovirus causes the most cases of food borne illness annually.
+    A) True
+    B) False
+
+69. [tf, 1 pt] An example of a fomite is a desk.
+    A) True
+    B) False
+
+71. [tf, 1 pt] When a large number of people are affected by a disease over several continents this is considered an epidemic.
+    A) True
+    B) False
+
+72. [tf, 1 pt] An example of contact transmission would be getting sneezed on.
+    A) True
+    B) False
+
+73. [tf, 1 pt] A cohort study compared people with and without exposures.
+    A) True
+    B) False
+
+74. [tf, 1 pt] When someone has trouble recalling past events, this is called confounding bias.
+    A) True
+    B) False
+
+75. [tf, 1 pt] Defining and identifying cases of an outbreak comes after generating hypotheses when investigating an outbreak.
+    A) True
+    B) False
+
+76. [tf, 1 pt] Lyme's disease is caused by a parasite.
+    A) True
+    B) False
+
+77. [tf, 1 pt] Socioeconomic status (SES) in society has nothing to do with the availability of health care.
+    A) True
+    B) False
+
+78. [tf, 1 pt] A case-control study is an example of an experimental study.
+    A) True
+    B) False
+
+79. [tf, 1 pt] In order the curb the spread of diseases, quarantine orders may be implemented.
+    A) True
+    B) False
+
+81. [tf, 1 pt] Tuberculosis is caused by a virus.
+    A) True
+    B) False
+
+
+=== Part IV: Case Studies ===
+
+[STIMULUS] Within 10 days of a wedding in June, an outbreak of cyclosporiasis occurred among guests. Of the 83 guests that attended, 79 were interviewed; 54 of the 79 guests became sick. Below is a two-by-two table of guests who ingested the wedding cake and their illness status.
+    [IMAGE: ../images/westlake_invitational__d_40ff74-57c02d38.webp]
+
+82. [mcq, 1 pt] What is the attack rate for the ill?
+    A) 33%
+    B) 63%
+    C) 67%
+    D) 68%
+
+83. [mcq, 1 pt] What is the relative risk (risk ratio) of someone getting ill after eating wedding cake?
+    A) 3
+    B) 4
+    C) 5
+    D) 6
+
+84. [mcq, 1 pt] What type of study was conducted to determine the cause of the outbreak?
+    A) Cross-sectional
+    B) Cohort
+    C) Case-control
+    D) Clinical Trial
+
+85. [mcq, 1 pt] What is the mode of transmission for cyclosporiasis (contact, vehicle, or vector)?
+    A) Contact
+    B) Vehicle
+    C) Vector
+
+91. [mcq, 1 pt] What type of study of Epicurve is shown to the right?
+    [IMAGE: ../images/westlake_invitational__d_76038e-7ce19083.webp]
+    A) Common Point Source
+    B) Common Persistant Source
+    C) Propagated Source
+    D) Common Intermittent Source
+
+92. [mcq, 1 pt] What type of study of Epicurve is shown to the right?
+    [IMAGE: ../images/westlake_invitational__d_ed1d17-214f34f5.webp]
+    A) Common Point Source
+    B) Common Persistant Source
+    C) Propagated Source
+    D) Common Intermittent Source
+
+93. [mcq, 1 pt] What type of study of Epicurve is shown to the right?
+    [IMAGE: ../images/westlake_invitational__d_c26f40-5986fd46.webp]
+    A) Common Point Source
+    B) Common Persistant Source
+    C) Propagated Source
+    D) Common Intermittent Source
+
+94. [mcq, 1 pt] What type of study of Epicurve is shown to the right?
+    [IMAGE: ../images/westlake_invitational__d_9cc059-b67bb5c2.webp]
+    A) Common Point Source
+    B) Common Persistant Source
+    C) Propagated Source
+    D) Common Intermittent Source
+
+
+=== Part V: Bonus! (Tiebreakers) ===
+
+TB4. [frq, 1 pt] When was the FDA founded? ____.
+
+TB5. [frq, 1 pt] Name the top five germs that cause foodborne illnesses in the United States.
+    
+    1. ____.
+    2. ____.
+    3. ____.
+    4. ____.
+    5. ____.

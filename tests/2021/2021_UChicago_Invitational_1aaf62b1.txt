@@ -1,0 +1,461 @@
+UChicago Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  78 questions, 110.0 pts
+Source: scio.ly test archive id 1aaf62b1-8d7c-41dd-8d08-f936433f10c9  |  original files: https://drive.google.com/drive/folders/1I4FvwKo5BIyIabiegfhhcLCtQCHabqP3
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: All questions are worth 1 point unless noted otherwise. Please give all numerical answers to three (3) significant digits.
+
+
+=== Part 1: (Mostly) Multiple Choice and General Knowledge ===
+
+[STIMULUS] Use the following case definition for influenza.
+
+*A case of influenza-like illness is defined as a person with a fever of 37.8 °F or greater orally, body aches, and often with a cough, sore throat, congestion, headaches or fatigue during flu season.*
+
+Identify the following individuals as suspected, probable, confirmed, or non-cases.
+
+2. [mcq, 1 pt] Patient 2 presents with a temperature of 37.0 °F, fatigue, and a sore throat.
+    A) Suspected
+    B) Confirmed
+    C) Probable
+    D) Not a case
+
+3. [mcq, 1 pt] Patient 3 presents with severe body aches, a cough, congestion, and fatigue. No temperature was taken.
+    A) Suspected
+    B) Confirmed
+    C) Probable
+    D) Not a case
+
+4. [mcq, 1 pt] Patient 4 receives a positive test for Influenza, in addition to having a fever of 38.2 °F and severe body aches.
+    A) Suspected
+    B) Confirmed
+    C) Probable
+    D) Not a case
+
+5. [mcq, 1 pt] Rank the following identifications of cases in order of surety, from lowest to highest.
+    A) Probable, suspected, confirmed.
+    B) Suspected, confirmed, probable.
+    C) Probable, confirmed, suspected.
+    D) Suspected, probable, confirmed.
+
+6. [mcq, 1 pt] Which of the following information would **not** be included in a line listing?
+    A) Family history.
+    B) Risk factors.
+    C) Name.
+    D) Symptoms.
+    E) Address.
+
+7. [mcq, 1 pt] Which of the following are ways to classify cases for the place in the time/place/person triad?
+    A) Hospital room.
+    B) Place of residence.
+    C) Place of work.
+    D) City.
+    E) All of the above.
+
+8. [mcq, 1 pt] John Snow identified the source of a cholera outbreak by mapping the location of cholera cases in London, identifying them as surrounding the Broad Street pump. What is this map called?
+    A) Case map.
+    B) Case chart.
+    C) Disease plot.
+    D) Spot map.
+
+9. [mcq, 1 pt] What is the main difference between a cluster and an outbreak?
+    A) An outbreak is of greater size.
+    B) A cluster is not necessarily more cases than normal levels.
+    C) An outbreak requires public health investigation, while a cluster does not.
+    D) A cluster is only used for chronic diseases, while an outbreak refers to infectious diseases.
+
+10. [mcq, 1 pt] An epi curve can tell you what information?
+    A) The progress of an outbreak.
+    B) The start of an outbreak.
+    C) Ideas about how the cause of the outbreak.
+    D) How many people were affected.
+    E) All of the above.
+
+11. [mcq, 1 pt] The agent/host/environment triad is used to try to establish what?
+    A) Causation.
+    B) Correlation.
+    C) Suspicion.
+    D) Victim.
+
+12. [mcq, 1 pt] A proposed alternative to the agent/host/environment triad is what model?
+    A) Picture Frame Hypothesis.
+    B) Causal Pies.
+    C) History Book Theorem.
+    D) WHO Causation Model.
+
+13. [frq, 3 pt] What are some advantages of the alternative you identified above? Please give one or two sentences.
+
+14. [mcq, 1 pt] Implementing control and prevention measures is Step 11 in the steps to solve an outbreak. Is it acceptable to start this step before all previous steps have been identified? Why?
+    A) Yes, all measures should be taken to protect the populace, especially when a likely, if not proven, cause has been identified.
+    B) Yes, by starting to implement these control measures, the health department shows that it’s doing something and retains public trust.
+    C) No, all evidence must be found and analyzed first to avoid any possible side effects and inconvenience that may accompany control measures.
+    D) No, the scientific process must be respected, just as with any study.
+
+16. [mcq, 1 pt] Which of the following is **not** one of Koch’s Postulates?
+    A) The pathogen/microbe must be present in all cases of the disease.
+    B) The pathogen must be able to be isolated and grown in pure culture.
+    C) The pathogen must cause disease when introduced to a pure, undiseased laboratory animal.
+    D) The pathogen must be found in other hosts.
+
+[STIMULUS] For questions 17 – 20, identify the type of bias described in each scenario.
+
+17. [mcq, 1 pt] You are conducting a study and are interviewing both cases and controls for a disease that is known to be associated with coffee drinking. Those who are cases know of this association, and therefore they may be more likely to report drinking coffee.
+    A) Selection bias.
+    B) Interviewer’s bias.
+    C) Confounding bias.
+    D) Recall bias.
+    E) Berkson’s Bias.
+
+18. [mcq, 1 pt] You are conducting a study to determine the effect of vaping on high school performance. However, you only sample students in public high schools, not from private high schools or homeschoolers. (Assume that going to a public high school is not necessarily more associated with vaping than other school types.)
+    A) Selection bias.
+    B) Interviewer’s bias.
+    C) Confounding bias.
+    D) Recall bias.
+    E) Berkson’s bias.
+
+19. [mcq, 1 pt] You are conducting a study investigating the source of a foodborne outbreak. However, the questionnaire has many leading questions.
+    A) Selection bias.
+    B) Interviewer’s bias.
+    C) Confounding bias.
+    D) Recall bias.
+    E) Berkson’s bias.
+
+20. [mcq, 1 pt] You are conducting a study on smoking. However, it turns out that coffee drinking and smoking are correlated, even if there isn’t causation. Coffee drinking ends up altering your results.
+    A) Selection bias.
+    B) Interviewer’s bias.
+    C) Confounding bias.
+    D) Recall bias.
+    E) Berkson’s bias.
+
+21. [mcq, 1 pt] Which of the following should not be included in a case definition?
+    A) Risk factors.
+    B) Time window.
+    C) Place restrictions.
+    D) Person characteristics.
+
+[STIMULUS] For the following, please fill in the blank with the appropriate epidemiological term.
+
+22. [frq, 1 pt] Influenza is ____ in North America because there is always a continuous level in this area.
+
+23. [frq, 1 pt] If influenza were to be at consistently high levels, it would be ____ .
+
+24. [frq, 1 pt] ____ infections are of particular concern during the age of COVID, prompting some people to try to triage their injuries and avoid the hospital if possible in order to avoid exposure to any diseases.
+
+25. [frq, 1 pt] The ____ of a disease is the temporal course of a disease from its inception to its resolution.
+
+26. [frq, 1 pt] Margaret was the first case of Typhoid in the outbreak. She was the ____.
+
+28. [mcq, 1 pt] What is etiology?
+    A) The study of the effects of a disease.
+    B) The study of the transmission of a disease.
+    C) The study of the development of a disease.
+    D) The study of the causes of a disease.
+
+[STIMULUS] Match the following situations with the types of surveillance they correspond to.
+
+37. [mcq, 1 pt] The Health Department calls and then visits in person a hospital to determine if there have been more cases of Disease A than normal.
+    A) Passive surveillance.
+    B) Active surveillance.
+    C) Sentinel surveillance.
+    D) Syndromic surveillance.
+
+38. [mcq, 1 pt] Hospitals report cases of influenza to their local Health Department as part of protocol.
+    A) Passive surveillance.
+    B) Active surveillance.
+    C) Sentinel surveillance.
+    D) Syndromic surveillance.
+
+39. [mcq, 1 pt] The Health Department surveils for fever and chills, chest discomfort, cough, extreme tiredness, body aches, drenching sweats, and swelling of the abdomen.
+    A) Passive surveillance.
+    B) Active surveillance.
+    C) Sentinel surveillance.
+    D) Syndromic surveillance.
+
+40. [mcq, 1 pt] You are conducting an outbreak investigation and reach out to local clinics to determine whether there have been cases of Salmonella.
+    A) Passive surveillance.
+    B) Active surveillance.
+    C) Sentinel surveillance.
+    D) Syndromic surveillance.
+
+41. [mcq, 1 pt] The Health Department asks a specific hospital system to report cases of certain diseases for an area, rather than having cases reported for all hospitals in the area.
+    A) Passive surveillance.
+    B) Active surveillance.
+    C) Sentinel surveillance.
+    D) Syndromic surveillance.
+
+42. [frq, 5 pt] Give 5 uses of surveillance.
+
+43. [mcq, 1 pt] Strength of association, consistency, specificity, temporality, biological gradient/dose-response relationship, biological plausibility, coherence, experimental evidence, and analogy are the elements of what?
+    A) Koch’s postulates.
+    B) CDC methods of determining pathogen.
+    C) Hill’s criteria for causation.
+    D) Snow’s factors of finding root cause.
+
+44. [mcq, 1 pt] What belongs on the x axis of an epi curve?
+    A) Date.
+    B) Number of cases.
+    C) Location.
+    D) Disease type.
+
+[STIMULUS] For the following, match the epi curve with the appropriate type of outbreak.
+
+45. [mcq, 1 pt] A peak which then plateaus before subsiding.
+    A) Point source.
+    B) Continuous common source.
+    C) Intermittent source.
+    D) Propagated.
+
+46. [mcq, 1 pt] A series of peaks, each higher than the last.
+    A) Point source.
+    B) Continuous common source.
+    C) Intermittent source.
+    D) Propagated.
+
+47. [mcq, 1 pt] A series of peaks whose troughs in between reach zero or almost zero.
+    A) Point source.
+    B) Continuous common source.
+    C) Intermittent source.
+    D) Propagated.
+
+48. [mcq, 1 pt] A single peak.
+    A) Point source.
+    B) Continuous common source.
+    C) Intermittent source.
+    D) Propagated.
+
+[STIMULUS] Identify the following modes of transmission by category. Your options are:
+
+1. Vector.
+2. Vehicle.
+3. Fomite.
+
+49. [mcq, 1 pt] Light switch ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+50. [mcq, 1 pt] Flea ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+51. [mcq, 1 pt] Water ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+52. [mcq, 1 pt] *Ixodes scapularis* ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+53. [mcq, 1 pt] Door handle ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+54. [mcq, 1 pt] Blood ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+55. [mcq, 1 pt] Toothbrush ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+56. [mcq, 1 pt] Air ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+57. [mcq, 1 pt] *Aedes aegypti* ____
+    A) Vector.
+    B) Vehicle.
+    C) Fomite.
+
+[STIMULUS] For the following situations, identify them as vertical, horizontal, indirect, direct, droplet, direct contact, indirect contact, vehicle, airborne, food-borne, or water-borne transmission. Please list each that applies.
+
+58. [frq, 1 pt] Measles.
+
+59. [frq, 1 pt] The water downstream is contaminated with cholera, and people who drink it get sick.
+
+61. [frq, 1 pt] A chef does not wash his/her hands after using the bathroom, and then contaminates the dishes he/she is preparing.
+
+62. [frq, 1 pt] A couple on their wedding day kiss, spreading rotavirus.
+
+63. [frq, 1 pt] Sneezing or coughing.
+
+[STIMULUS] For the following situations, please match each policy with the corresponding level of prevention.
+
+64. [mcq, 1 pt] A patient with an unexplained condition is not given a test because it may cause more harm than good.
+    A) Primordial.
+    B) Primary.
+    C) Secondary.
+    D) Tertiary.
+    E) Quaternary.
+
+65. [mcq, 1 pt] Mammograms are regular exams used to try to detect breast cancer in its earliest stages.
+    A) Primordial.
+    B) Primary.
+    C) Secondary.
+    D) Tertiary.
+    E) Quaternary.
+
+66. [mcq, 1 pt] Laws are passed mandating the use of seatbelts and banning the sale of lead paint.
+    A) Primordial.
+    B) Primary.
+    C) Secondary.
+    D) Tertiary.
+    E) Quaternary.
+
+67. [mcq, 1 pt] Social advocacy is initiated in order to generally prevent risk factors in the first place, such as a national social advocacy program to increase physical activity.
+    A) Primordial.
+    B) Primary.
+    C) Secondary.
+    D) Tertiary.
+    E) Quaternary.
+
+[STIMULUS] Based on the following situations or descriptions, match the description with the appropriate study type. Your options are:
+
+1. Randomized controlled trial.
+2. Case-control study.
+3. Cohort study.
+4. Ecological study.
+5. Cross-sectional study.
+
+68. [mcq, 1 pt] This study is most appropriate for rare diseases.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+69. [mcq, 1 pt] This study is most appropriate for rare exposures.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+70. [mcq, 1 pt] This study is often called a “snapshot.” ____
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+71. [mcq, 1 pt] You perform a survey of your community to determine who has been exposed to the risk factors for tetanus and to determine who has it. ____
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+72. [mcq, 1 pt] This study is difficult to establish causation with due to its lack of temporality.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+73. [mcq, 1 pt] Of the observational studies, this study is the most expensive and time intensive.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+74. [mcq, 1 pt] This study compares populations rather than individuals.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+75. [mcq, 1 pt] You are called to investigate an outbreak of Hepatitis A at a convention. You first ask everyone what their exposures were, and then check each exposure for how many people ended up coming down with the disease.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+76. [mcq, 1 pt] There is an outbreak of cholera, and you are called to investigate. You quickly interview the patients and then interview a random sample of the community, comparing the exposures afterwards.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+77. [mcq, 1 pt] You have developed a new drug to treat stroke patients, and so you divide people up into two groups in a random fashion, giving half the drug and half a placebo.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+
+=== Part 2: Let’s do some Math! ===
+
+[STIMULUS] Welcome to Middle Earth! Unfortunately, each town described below is having an outbreak of some sort! Help them calculate the rates needed to help solve and respond to the outbreaks.
+
+Minas Tirith is having an outbreak of giardiasis. The population is 316578. The number of new positive cases on Monday is 412. The number of new positive cases on Tuesday is 564.
+
+78a. [frq, 3 pt] Calculate the incidence on Monday. Please answer in cases/person-day.
+
+78b. [frq, 3 pt] Calculate the incidence on Tuesday. Please answer in cases/person-day.
+
+78c. [frq, 3 pt] Calculate the prevalence at the end of Tuesday, assuming there were zero cases before Monday. Please give this answer as a percentage.
+
+[STIMULUS] The Prancing Pony in Brie did not follow proper food handling procedures and are now having an outbreak of Salmonella. You conduct a study where you track each food that was served, how many people ate it, and what the outcomes were. The data is located below. There were a total of 200 customers on the day identified, with 80 becoming sick.
+
+| Brie Outbreak | Number of people who ate | Number of People who ate and got sick | Measure of association |
+|----|----|----|----|
+| Food A | 41 | 15 |  |
+| Food B | 89 | 54 |  |
+| Food C | 67 | 21 |  |
+| Food D | 73 | 62 |  |
+
+79a. [frq, 3 pt] Identify the type of study performed.
+
+79b. [frq, 4 pt] Fill in the measure of association column with the measure of association most appropriate for the type of study you identified.
+
+[STIMULUS] Dale is also having an outbreak! You interview each case-patient before choosing a sample of other members of the community who are not cases to compare their exposures. Here are the results of your investigation:
+
+| Dale Outbreak | Number of Cases who Partook (n=94) | Non-Cases who Partook (n=278) | Measure of Association |
+|----|----|----|----|
+| Exposure A | 65 | 174 |  |
+| Exposure B | 52 | 198 |  |
+| Exposure C | 79 | 224 |  |
+| Exposure D | 61 | 210 |  |
+| Exposure E | 59 | 187 |  |
+| Exposure F | 72 | 189 |  |
+
+80a. [frq, 3 pt] Identify the type of study that was performed here.
+
+80b. [frq, 6 pt] Fill in the measure of association column with the measure of association most appropriate for the type of study you identified.
+
+[STIMULUS] You have just developed a new rapid test for Ent-Disease! You have conducted a study to determine how well the test works by comparing your test against Gandalf’s magical test (we will treat Gandalf’s assessment as fact). Below is some data from the trial, in which you had 978 participants.
+
+| COVID Test Trial | Positive Rapid Test | Negative Rapid Test |
+|----|----|----|
+| Positive from Gandalf’s Test | 312 | 37 |
+| Negative from Gandalf’s Test | 24 | 605 |
+
+81a. [frq, 3 pt] Calculate the sensitivity of the rapid test.
+
+81b. [frq, 3 pt] Calculate the specificity of the rapid test.
+
+81c. [frq, 3 pt] Calculate the positive predictive value of the rapid test.
+
+81d. [frq, 3 pt] Calculate the negative predictive value of the rapid test.
+
+81e. [frq, 1 pt] What factors would make a less accurate test more attractive than a more accurate one?
+
+
+=== Part 3: Case Studies ===
+
+86. [mcq, 1 pt] What is it called when analysis is broken down by subgroups?
+    A) Line listing.
+    B) Stratified analysis.
+    C) Batch testing.
+    D) Grouping.

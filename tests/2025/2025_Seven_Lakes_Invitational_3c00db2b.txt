@@ -1,0 +1,992 @@
+Seven Lakes Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  107 questions, 172.0 pts
+Source: scio.ly test archive id 3c00db2b-7836-41e3-8181-f625359c82d6  |  original files: https://drive.google.com/drive/folders/1z-15Pu6jZeryJbhiV7QVkAuzbKir1CFm
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: • No penalties for wrong answers so answer as much as possible. Make sure you have a calculator, as it will be needed for some questions.
+• Unless stated otherwise all MCQ have ONE answer and are worth ONE point
+• Round all answers to the nearest hundredth or thousandth
+• Good luck on the test!
+
+
+=== Matching ===
+
+[STIMULUS] A. Antigenic Drift
+B. Hyperendemic
+C. Etiology
+D. Exogenous
+E. Endogenous
+F. Period of Communicability
+G. Mesoendemic
+H. In vitro
+I. Infectiousness
+J. Teratogen
+K. Holoendemic
+L. Serial Interval
+M. Point Prevalence
+N. Prophylaxis
+O. In vivo
+P. Infectivity
+Q. Proportion
+R. Antigenic Shift
+S. Demography
+T. Inoculation
+U. Zoonotic
+V. Illness Cluster
+W. Pathogenicity
+X. Enzootic
+Y. Idiopathic
+
+P1-1. [mcq, 1 pt] Action taken to prevent disease, especially by specified means or against a specified disease
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-2. [mcq, 1 pt] Occurs when a virus undergoes a gradual change in genetic makeup from an accumulation of mutations
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-3. [mcq, 1 pt] The property of originating or developing from within an organism, tissue, or cell
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-4. [mcq, 1 pt] Affecting almost every individual in a population, but does not appear equally across age groups
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-5. [mcq, 1 pt] Any disease with an unknown cause or mechanism of apparent spontaneous origin
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-6. [mcq, 1 pt] An agent or factor which causes malformation of an embryo
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-7. [mcq, 1 pt] Scientific study of human population, including its size, distribution, and composition
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-9. [mcq, 1 pt] The study of a cause or causes of a disease
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-10. [mcq, 1 pt] “In glass” cells or specific biological phenomena without whole organism
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-11. [mcq, 1 pt] Of a disease, extremely common in a particular area or amongst a particular group of people
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-12. [mcq, 1 pt] The proportion of exposed individuals who become infected
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-13. [mcq, 1 pt] Time between onset of primary case and onset of secondary case
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-14. [mcq, 1 pt] Aggregation of cases over a particular period, closely grouped, regardless of whether the number of cases is more than expected
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-15. [mcq, 1 pt] Time during which an infectious agent may be transferred directly or indirectly from an infected person to another person, from an infected animal to humans, or from an infected person to animals
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-16. [mcq, 1 pt] Portion of population that has a condition at a specific time
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-17. [mcq, 1 pt] Disease that can be transmitted from animals to humans
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-18. [mcq, 1 pt] Introduction of a pathogen or antigen into a living organism to stimulate the production of antibodies
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-19. [mcq, 1 pt] A comparison of a part to the whole as number of cases divided by total population
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+P1-20. [mcq, 1 pt] A disease that regularly affects an animal population
+    A) Antigenic Drift
+    B) Hyperendemic
+    C) Etiology
+    D) Exogenous
+    E) Endogenous
+    F) Period of Communicability
+    G) Mesoendemic
+    H) In vitro
+    I) Infectiousness
+    J) Teratogen
+    K) Holoendemic
+    L) Serial Interval
+    M) Point Prevalence
+    N) Prophylaxis
+    O) In vivo
+    P) Infectivity
+    Q) Proportion
+    R) Antigenic Shift
+    S) Demography
+    T) Inoculation
+    U) Zoonotic
+    V) Illness Cluster
+    W) Pathogenicity
+    X) Enzootic
+    Y) Idiopathic
+
+
+=== History ===
+
+P2-1. [mcq, 1 pt] Who is considered the father of modern vital statistics?
+    A) Ignaz Semmelweis
+    B) John Graunt
+    C) William Farr
+    D) Joseph Lister
+
+P2-2. [mcq, 1 pt] Stanley Prusiner was investigating spongiform encephalopathies in 1982 when he discovered which of the following?
+    A) A new strand of gram-negative bacteria
+    B) A new component of a virus
+    C) A new type of infectious agent
+    D) A new treatment for spongiform encephalopathies
+
+P2-3. [mcq, 1 pt] Who is considered the person who pioneered hand washing and is nicknamed the “savior of mothers”?
+    A) Florence Nightingale
+    B) Richard Doll
+    C) John Snow
+    D) Ignaz Semmelweis
+
+P2-4. [mcq, 1 pt] The British Doctors Study established how
+    A) Obesity increases risk of cardiovascular illnesses
+    B) Smoking increases risk of lung cancer
+    C) Oranges decreases risk of scurvy
+    D) High cholesterol increases risk of diabetes
+
+P2-5. [mcq, 1 pt] Which of the following has not reached pandemic status?
+    A) The Asian Flu
+    B) HIV/AIDS
+    C) The Avian Flu
+    D) The Spanish Flu
+
+P2-6. [mcq, 1 pt] Which of the following is not true about the Black Death?
+    A) It was caused by the bacterium Yersinia pestis
+    B) It led to the deaths of approximately one-third of Europe’s population
+    C) It spread primarily through respiratory droplets
+    D) It was named the black death because of the black boils that formed on many of its victims
+
+P2-7. [mcq, 1 pt] Which of the following was the most recently developed PCR technique?
+    A) Reverse Transcription PCR (RT-PCR)
+    B) Next Generation Sequencing (NGS)
+    C) LAMP (Loop-mediated Isothermal Amplification)
+    D) Digital PCR (dPCR)
+
+
+=== Surveillance ===
+
+P3-8. [tf, 1 pt] True or False: Two advantages of passive surveillance are its characteristically more complete data combined with its simple and inexpensive nature.
+    A) True
+    B) False
+
+P3-9. [mcq, 1 pt] During flu season, what kind of surveillance is recommended by the WHO in order to accurately predict large-scale outbreaks before they occur?
+    A) Passive and active surveillance
+    B) Risk-factor and syndromic surveillance
+    C) Active-laboratory based and risk-factor surveillance
+    D) Sentinel and syndromic surveillance
+
+P3-10. [mcq, 1 pt] The BRFSS is a surveillance system that monitors the public’s use of early screening, chronic health conditions, alcohol consumption, etc. Which of these surveillance methods are they using?
+    A) Passive surveillance
+    B) Risk factor surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+
+P3-11. [mcq, 1 pt] What surveillance system would be best suited for a novel outbreak with only 3 cases?
+    A) Isolation Surveillance
+    B) Syndromic surveillance
+    C) Case Study surveillance
+    D) Active surveillance
+
+P3-12. [mcq, 1 pt] The FDA wants to initiate surveillance to collect data on cases of botulism. Which of these would be the best if they want to focus on certain geographic areas that have had the most cases in the past?
+    A) Sentinel surveillance
+    B) Active surveillance
+    C) Geographical surveillance
+    D) Syndromic surveillance
+
+P3-13. [mcq, 1 pt] Case reporting in passive surveillance is characterized by all of the following except?
+    A) Typically submitted on a regular periodic basis
+    B) Voluntary participation
+    C) Standardized case definitions set by health authorities
+    D) Access to reporting is restricted to healthcare providers and professionals
+
+P3-14. [mcq, 1 pt] Which of the following correctly identifies a connection between two methods of surveillance?
+    A) Sentinel surveillance is used when the quality of passive surveillance drops below a certain threshold
+    B) Active surveillance steps in when anomalies are detected in passive surveillance
+    C) Risk factor surveillance and syndromic surveillance are often conducted at the same time
+    D) Passive surveillance is used whenever active surveillance is deemed too labor intensive
+
+
+=== Immunity and Vaccines ===
+
+P4-15. [mcq, 1 pt] Nancy was recently infected by a novel strain of COVID-19 due to not wearing her mask like a responsible citizen. His body started producing antibodies to combat the entry of the virus. What type of immunity is this?
+    A) Innate Immunity
+    B) Natural Active Immunity
+    C) Natural Passive Immunity
+    D) Artificial Passive Immunity
+
+P4-16. [mcq, 1 pt] When Joyce was pregnant, tetanus antibodies were passed through her placenta to her son, Will. What type of immunity is this?
+    A) Innate Immunity
+    B) Natural Active Immunity
+    C) Natural Passive Immunity
+    D) Artificial Active Immunity
+
+P4-17. [mcq, 1 pt] Last weekend, Dustin and Steve went to their local clinic to get their yearly flu vaccines which contained inactivated influenza viruses. What type of immunity is this?
+    A) Innate Immunity
+    B) Natural Active Immunity
+    C) Artificial Passive Immunity
+    D) Artificial Active Immunity
+
+P4-18. [mcq, 1 pt] Mike accidentally cut himself on his hand. Later, he noticed inflammation around the area that sustained the injury. What type of immunity is this?
+    A) Innate Immunity
+    B) Natural Active Immunity
+    C) Natural Passive Immunity
+    D) Artificial Active Immunity
+
+P4-19. [mcq, 1 pt] Which of the following does NOT correctly pair a disease with the type of vaccine used to prevent it?
+    A) Measles; live attenuated vaccine
+    B) Tuberculosis; inactivated vaccine
+    C) Tetanus; toxoid vaccine
+    D) HPV; subunit vaccine
+
+P4-20. [mcq, 1 pt] Which of the following does NOT correctly match the vaccine to a common obstacle faced in its creation or storage?
+    A) Inactivated vaccines; require sophisticated technologies to inactivate the virus
+    B) mRNA vaccines; requires constant thermoregulation in ultra-cold storage
+    C) Viral vector vaccines; hard to mass produce
+    D) Toxoid vaccines; mediating the level of toxin inactivation
+
+P4-21. [mcq, 1 pt] Which of the following matches a vaccine’s technical name to the diseases that it’s used to prevent?
+    A) DTaP - Diphtheria, Tetanus, and Acellular Pertussis
+    B) MMR - Measles, Mumps, and Rubella
+    C) BCG - Botulism, Clostridium, Giardia
+    D) PCV - Pneumonia, Bacterial meningitis
+
+
+=== Bias and Error ===
+
+P5-22. [mcq, 1 pt] When investigating the effectiveness of a new treatment compared to the standard treatment, researchers separate the sample into 2 groups based on gender. In the female group, when using treatment A: 80 out of 100 subjects improved, and when using treatment B: 20 out of 100 subjects improved. In the male group when using Treatment A: 10 out of 50 subjects improved, and when using Treatment B: 30 out of 50 subjects improved. When the results were compared together, however, Treatment A exhibited a 60% improvement and Treatment B exhibited a 33.3% improvement rate. Which of the following best describes this phenomenon?
+    A) Measurement bias
+    B) Confounding variable
+    C) Effect modifier
+    D) Simpson’s paradox
+
+P5-23. [mcq, 1 pt] When investigating the relation of car crashes and car type, you implicitly believe that pickup trucks are more aggressive than smaller cars like sedans. Because of this, you focus more on accidents involving pickup trucks in your observational data. Which of the following best describes this bias?
+    A) Confirmation bias
+    B) Misattribution bias
+    C) Allocation bias
+    D) Framing effect
+
+P5-24. [mcq, 1 pt] In a prospective cohort study examining the effect of a newly developed antibiotic, one group was given the antibiotic, while the other was not. When interviewing the participants of the study in a follow-up, researchers were aware of the patient's status and did not standardize interview questions. What type of bias might this lead to?
+    A) Response Bias
+    B) Information Bias
+    C) Interviewer Bias
+    D) Question Bias
+
+P5-25. [mcq, 1 pt] In a study examining the relationship between smoking and lung cancer, researchers find that among hospital patients, smokers are more likely to be diagnosed with lung cancer than non-smokers. What type of bias might be affecting this study's conclusions?
+    A) Selection bias
+    B) Recall bias
+    C) Berkson's bias
+    D) Confirmation bias
+
+P5-26. [mcq, 1 pt] You and John both are studying an outbreak which occurred at your High School 3 years ago. John wasn't able to find the cause and you automatically assumed it's because of his awful investigation skills. Later you give up on finding the cause too, but attribute this to your busy schedule. What bias are you displaying?
+    A) Actor-observer bias
+    B) Cognitive bias
+    C) Framing effect
+    D) Dunning-Kruger effect
+
+P5-27. [mcq, 1 pt] A study is conducted to evaluate the effectiveness of a new drug for treating heart disease. The drug is administered to patients six months after they are diagnosed with the disease, but this disparity between detection and observation time means that the ability to produce the study outcome during this period is fundamentally flawed. Which bias does this best represent?
+    A) Length time bias
+    B) Immortal time bias
+    C) Lead time bias
+    D) Late look bias
+
+
+=== Disease Control and Prevention ===
+
+[STIMULUS] Identify the correct level of prevention for each of the following scenarios. Answers may be used once, more than once, or not at all.
+
+**Possible Answers:**
+(A) Primordial Prevention
+(B) Primary Prevention
+(C) Secondary Prevention
+(D) Tertiary Prevention
+(E) Quaternary Prevention
+
+P6-29. [mcq, 1 pt] One hospital has biannual mandatory blood sugar tests for all of their patients above the age of 40 in order to check for diabetes.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-30. [mcq, 1 pt] In one county where drunk driving has become a major problem, lawmakers voted to outlaw alcohol altogether.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-31. [mcq, 1 pt] After his quadruple heart bypass was completed, Bob's doctors urged him to eat healthy foods and to manage his cholesterol levels.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-32. [mcq, 1 pt] Since it could potentially further deteriorate Ted's cardiac issues, Ted's doctors refrained from giving him a controlled stress test.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-33. [mcq, 1 pt] Screening for high blood pressure (hypertension) followed by lifestyle changes or medication.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-34. [mcq, 1 pt] In elementary school, district policy mandates that kids receive at least 30 minutes of physical education every day.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+P6-35. [mcq, 1 pt] Wearing a seatbelt.
+    A) Primordial Prevention
+    B) Primary Prevention
+    C) Secondary Prevention
+    D) Tertiary Prevention
+    E) Quaternary Prevention
+
+[STIMULUS] Match the level of disease control or spread that each of the scenarios below correspond to. Answers may be used once, more than once, or not at all.
+
+**Possible Answers:**
+(A) Control
+(B) Elimination
+(C) Eradication
+(D) Extinction
+
+P6-36. [mcq, 1 pt] After many years of effort through methods such as the invention of an oral polio vaccine, wild poliovirus type 1 is only endemic to 2 countries: Afghanistan and Pakistan.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+P6-37. [mcq, 1 pt] After cases of E. coli were reported from McDonald's, FDA and CDC instructed recalls of Big Macs and inspected facilities in charge of storing and distributing raw white onions.
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+P6-38. [mcq, 1 pt] Famous epidemiologist Benjamin Jesty was one of the earliest contributors to this effort with regards to a disease caused by a variola virus which decreased the worldwide incidence to 0
+    A) Control
+    B) Elimination
+    C) Eradication
+    D) Extinction
+
+
+=== Disease-specific questions ===
+
+P7-40. [mcq, 1 pt] Toxoplasmosis gondii is a parasitic protozoan capable of infecting virtually all warm-blooded animals, but felids are the only known definitive hosts in which the parasite may undergo sexual reproduction. Which of the following is not true concerning its transmission?
+    A) It manipulates its rodent intermediaries to become attracted to cat urine
+    B) It is often expressed asymptomatically in healthy individuals, making it hard to detect
+    C) An infected mother can pass the parasite to her unborn child, which can result in serious birth defects
+    D) Its direct transmission during organ transplant or blood transfusions is a common issue of concern during these procedures
+
+P7-41. [mcq, 1 pt] Which of the following statements about wild-type polio and its types is correct?
+    A) Wild-type poliovirus has been eradicated globally through vaccination efforts, and no further cases occur
+    B) Wild-type polio is caused by the introduction of a non-polio strain of enterovirus
+    C) There are three types of wild poliovirus: Type 1, Type 2, and Type 3, with Type 2 and 3 having been declared eradicated
+    D) Type 1 wild poliovirus is the most common cause of poliomyelitis in humans today
+
+P7-42. [mcq, 1 pt] Which statement below concerning Giardia lamblia is true?
+    A) Giardia larvae (trophozoites) can be seen with the naked eye
+    B) The disease impairs the small intestine's ability to digest glucose
+    C) Its protective cysts allow it to survive external conditions and disinfectants
+    D) Around 1/3 of the population in developing countries have had giardiasis
+
+P7-43. [mcq, 1 pt] Which of the following incorrectly matches the disease to its agent?
+    A) Dengue Fever; Viral
+    B) Malaria; Protozoan
+    C) Cyclosporiasis; Fungal
+    D) Strep Throat; Bacterial
+
+P7-44. [mcq, 1 pt] Which of the following best explains why dura mater grafts are associated with the transmission of prion diseases?
+    A) Dura mater grafts, if obtained from cadavers infected with prion diseases, are resistant to typical sterilization methods, potentially leading to unintended transmission.
+    B) Dura mater grafts cause prion diseases because they are typically harvested from animals who unknowingly carry prions in their tissues, leading to contamination during the harvesting process.
+    C) Dura mater grafts are frequently contaminated with environmental prions that are absorbed from air or surfaces during the graft preparation and sterilization procedures.
+    D) Dura mater grafts have a unique hormonal composition that, in some cases, sets off the genetic development of prion diseases when implanted in human tissue.
+
+
+=== Disease Investigation ===
+
+[STIMULUS] Last summer, in a small town called Les Angolos with a population of 6,000 people, there was a deadly outbreak of the norovirus stomach bug. Assume all of the population is susceptible. The apparent source of the outbreak was food served to all 800 attendees of a Dudley party. Out of the 800 people that attended the party, 540 of them had been diagnosed with norovirus, and 27 had died.
+
+Make sure to show your work and calculations.
+
+P8-45. [frq, 2 pt] Calculate the Infectivity
+
+P8-48. [frq, 2 pt] Calculate the Case Fatality Rate(CFR)
+
+P8-49. [frq, 2 pt] Using a plaque assay, we determine the TCID50 of this norovirus variant is particularly high. Define what TCID50 is and explain what a high TCID50 means for the infectiousness of this virus.
+
+[STIMULUS] For the following questions, identify the number and name of the step of investigation using the following scenarios
+
+P8-50. [frq, 2 pt] After identifying that your case control study resulted in a risk calculation of 3.44 for certain food, you decide to analyze the food samples you sent to your local lab, BacLab, to confirm the possibility of Campylobacter in the sample.
+
+P8-51. [frq, 2 pt] You and your team of epidemiologists acquire 10 stool samples and allow a team of pathologists to culture microbes from the samples from various people claiming they consumed the homemade garlic oil from the farmer's market and now have botulism.
+
+P8-52. [frq, 2 pt] You acquire a payment log of people who visited Typhoon Texas Water Park and call to see if they experienced any nausea, diarrhea, or abdominal cramps after visiting from June 9-21st.
+
+P8-53. [frq, 2 pt] You believe that asbestos in the old retirement home was a possible cause of the spike in lung cancer cases among elderly residents. Local health administrators don't believe you, so you plan to ask the residents about their stay at the retirement community before or after the recent renovation.
+
+P8-54. [frq, 2 pt] As soon as you close the milk packaging facility, you require local clinics and hospitals to contact you every week or so regarding the presence, or lack thereof, of Brucella.
+
+P8-55. [frq, 2 pt] The head epidemiologist has assigned you to an investigation of malaria in an African village, but you are unsure of whether it is notable, considering malaria is endemic in many parts of Africa.
+
+P8-56. [frq, 2 pt] After you did not complete this step in your last investigation, multiple anxious parents contacted your institution regarding the exact cause of illness in the high school and what they should do to keep their children healthy and safe from RSV.
+
+[STIMULUS] For the following questions, answer each component of the scenario
+
+P8-57. [frq, 2 pt] Epidemiologists want to learn more about the exposure of a recent bacterial meningitis outbreak by tracing back the exposures of people with and without the disease. What study design is being utilized, and why is this method most likely to be the most effective study type for this particular disease?
+
+P8-58. [frq, 2 pt] Epidemiologists want to conduct a survey on a wide scope of the population. Which study type is often considered a survey? Additionally, name another study type whose distinguishing feature from this one is that it examines correlations between variables at the group level, rather than individual.
+
+P8-59. [frq, 2 pt] In terms of Hill's criteria for causation, why do case-control studies have the potential to become unreliable when establishing causation?
+
+P8-60. [frq, 3 pt] What study type is usually the most ideal and provides the best source of causative data? Why is it not always implemented, and what is a potential solution to work around these cons?
+
+
+=== Case Study 1: BrucePac Meat Recall ===
+
+[STIMULUS] On October 9th, 2024, (redacted) issued the recall of approximately 11,765,285 pounds of ready-to-eat (RTE) meat and poultry products from the company BrucePac after 59 individuals (ages 6-78, mean 34) reported diarrhea, fever, muscle aches, headache, stiff neck, and confusion. 4 pregnant women who had consumed certain BrucePac products experienced sudden miscarriages and several unsuspected stillbirths. Recalled products include those produced from May 31, 2024 to October 8th, 2024 which were shipped to restaurants, schools, and institutions around the USA (particularly in New York and Maryland).
+
+P9-61. [frq, 3 pt] Would this be considered an outbreak? Explain how epidemiologists can confirm it is or isn't one.
+
+P9-62. [frq, 2 pt] Would this recall fall under the jurisdiction of the United States Department of Agriculture (USDA) or the Food and Drug Association (FDA)? Why?
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p12_5de485-0ffddc64.webp]
+
+P9-63. [frq, 2 pt] Explain what type of epi curve is shown in the figure above and why it would be an accurate representation of the BrucePac illness outbreak.
+
+P9-64. [frq, 3 pt] Based on the epi curve provided in the figure above, calculate the average incubation period for the disease.
+
+[STIMULUS] Using PulseNet, epidemiologists decide to trace the exact infectious agent associated with the outbreak. After extracting DNA samples from a microorganism discovered in various RTE facilities, the PFGE below was provided as comparison to determine what species it was.
+
+RTE sample given on the left
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p13_c4f0991-d859f726.webp]
+
+P9-65. [frq, 1 pt] What type of surveillance is PulseNet?
+
+P9-66. [frq, 3 pt] This disease is most likely caused by what type of infectious agent? Explain why at least 2 other types of agents are unlikely to be the cause.
+
+P9-67. [frq, 3 pt] What does PFGE stand for? List at least 2 differences between this method and other methods of electrophoresis.
+
+P9-68. [frq, 2 pt] Would this method of DNA fingerprinting be used in PulseNet? Why or why not?
+
+[STIMULUS] After testing samples from various BrucePac facilities and BrucePac products, epidemiologists have narrowed the possible causes to a few select products containing various RTE meats and poultry. Epidemiologists question 256 individuals which specific products they consumed containing BrucePac RTE meats. The table below shows collected data from 178 total responses (including all of the cases within the outbreak).
+
+| Food Source | Exposed | Ill |
+|---|---|---|
+| Stouffer's Lasagna | 44 | 32 |
+| Red Baron Deep Dish Cheese Pizza | 67 | 33 |
+| Marie Callender's Beef and Broccoli Bowl | 72 | 44 |
+| Trader Joe's Pesto Chicken Wrap | 69 | 47 |
+| Campbell's Cream of Shrimp | 36 | 21 |
+
+P9-72. [frq, 4 pt] Identify the type of case study conducted above and identify 3 advantages and 3 disadvantages of this study type
+
+[STIMULUS] Epidemiologists are in the process of creating a novel diagnostic test for this disease. Assume the MiniGene real-time PCR kit is the gold standard for this illness currently, and the novel diagnostic test undergoing testing is called LT-42.
+
+P9-78. [frq, 3 pt] Explain if a higher sensitivity or specificity would be weighted more if this disease needed long periods of costly treatments and often took a toll on family members and the individual.
+
+P9-79. [frq, 2 pt] When disease prevalence changes, why would measures of sensitivity and specificity be affected less than PPV and NPV?
+
+P9-80. [frq, 6 pt] List 5 ways that epidemiologists can use to decrease further cases for this outbreak and prevent additional outbreaks of this disease. What step of the 13 steps of outbreak investigation is this?
+
+P9-81. [frq, 2 pt] Is it acceptable for epidemiologists if they conducted their outbreak out of order of the 13 steps? Should they have followed the listed procedure?
+
+
+=== Case Study: Marburg Virus (MVD) in Rwanda ===
+
+[STIMULUS] On September 27, 2024 an outbreak of the Marburg Virus (MVD) was declared caused by the viral species Orthomarburgvirus marburgense in Rwanda. MVD is highly virulent and after infection symptoms begin abruptly with a high fever, severe headache, and malaise. Severe cramping, nausea and vomiting can begin as soon as 3 days of symptoms onset. Not all cases have hemorrhagic signs, however, in fatal cases, patients usually have some sort of bleeding, often severe. Death can occur usually between 8-9 days after symptoms onset in fatal cases by blood loss and shock. There have been 66 confirmed cases.
+
+P10-82. [frq, 2 pt] Write a case definition for the MVD outbreak in Rwanda.
+
+P10-83. [frq, 1 pt] What kind of disease is MVD classified as based on its mode of transmission?
+
+P10-84. [frq, 1 pt] If MVD spreads with direct contact of blood, secretions, or other bodily fluids, what kind of transmission does MVD utilize?
+
+P10-85. [frq, 1 pt] MVD and another disease caused by a virus share the same family, making both MVD and the other clinically similar. Name the disease and the family they both share.
+
+P10-86. [frq, 3 pt] WHO has implemented multiple methods in order to study and control the MVD outbreak in Rwanda. Which kind of surveillance is most utilized for an outbreak investigation and what are 2 characteristics of it?
+
+P10-87. [frq, 1 pt] Almost 80 percent of cases are reported among healthcare from hospitals treating MVD patients. What type of infection did the healthcare workers experience?
+
+[STIMULUS] Investigators have discovered that fruit bats are often the culprit of MVD transmission to humans. Perform a chi-square analysis to determine whether Rwandan miners are statistically more likely to work in caves inhabited by fruit bats compared to non-miners. Round each number to the nearest hundredths.
+
+**Observed Table**
+
+| | MVD | No MVD |
+|---|---|---|
+| Miners | 30 | 20 |
+| Non-Miners | 36 | 87 |
+
+P10-89. [frq, 6 pt] Find the Chi-Square value. (Show work and round to the nearest hundredths)
+
+P10-90. [frq, 5 pt] Given the significance level of 0.01, is there a statistical significance in getting MVD as a Rwandan miner? Substantiate your findings using the statistics chart above and specify degrees of freedom.
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p17_703632-9c2c4422.webp]
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p17_37a69b-c945af11.webp]
+
+P10-91. [frq, 2 pt] Which of the following represents a confounder between Mining Occupation and MVD? What specifically makes it a confounder according to the Directed Acyclic Graph?
+
+P10-92. [frq, 2 pt] Which variables should be controlled to assess the causal effect on mining occupation to MVD?
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p18_c3d6d0-16e489f9.webp]
+
+P10-93. [frq, 2 pt] In the context of MVD, what does the "γ" represent? (Make sure to incorporate MVD Context)
+
+P10-94. [frq, 2 pt] According to the SEIR derivatives, which SEIR category represents a function where it can only decrease or stay constant? Explain.
+
+P10-95. [frq, 2 pt] Experts think Egyptian rousettes (fruit bats) typically carry Marburg Virus. People usually get infected through contact with body fluids or tissues from infected bats or nonhuman primates, like monkeys. Then, it can spread to other humans, usually close family members or healthcare providers caring for them. Why might one's occupation affect their chances of getting Marburg Virus?
+
+P10-96. [frq, 2 pt] MVD, as seen above, is a disease that crossed over from animals into humans. The instances of animal disease crossover in humans is called what? Additionally, list two reasons why these diseases might be more virulent than other diseases?
+
+P10-97. [frq, 3 pt] Marburg virus is considered so potently dangerous that it can only be studied in a select few BSL-4 labs across the world. Who sets the guidelines for the BSL (Biosafety Level) classification system. Additionally, what are two precautionary/preventative requirements that are unique to BSL-4 laboratories?
+
+P10-99. [frq, 3 pt] ELISA is a gold-standard method of assay that is known for being able to detect the presence of antigens at very low concentrations. Compared to less precise antigen-capture detection tests, what are the distinguishing factors in the methodology that contributes to this difference?
+
+P10-100. [frq, 4 pt] John is testing on A31336, a human MVD ELISA kit. When preparing the wells on his plate, how would John incorporate positive and negative controls and why are both necessary for a proper test?
+
+P10-101. [frq, 2 pt] After running the test, John uses the standard curve below to determine the analyte concentration. According to the figure, a darker color in the unknown analyte indicates a higher or lower concentration of MVD (justify)?
+    [IMAGE: ../images/2024_seven_lakes_invitational_c__p19_773f49-edae3005.webp]
+
+P10-102. [frq, 2 pt] If he measured an absorbance of 675 nm, what is the concentration in (ng/ml) of MVD? What is the name of the law (A=abc) that relates these two factors?

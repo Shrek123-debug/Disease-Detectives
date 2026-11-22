@@ -1,0 +1,313 @@
+Camas — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  48 questions, 108.0 pts
+Source: scio.ly test archive id 85da400f-0a71-43e5-acaf-a2fc7590da16  |  original files: https://drive.google.com/drive/folders/1K_TUzs842aV-p7cMJK-mve-VYniul5gP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: Unless otherwise indicated, there is only one correct answer for each question. Select the best answer. For multiple choice questions noted "select all that apply", the number of possible points is the same as the number of correct answers. For full credit on questions involving calculations, show the formula (1 point), all values you plug into the formula (1 point each), the correct answer circled (1 point) and appropriate units (1 point). Good luck!
+
+
+=== General questions ===
+
+1. [mcq, 1 pt] Public health surveillance is a key activity in monitoring health trends and disease patterns in the face of population growth. Which of the following definitions applies to public health surveillance?
+    A) Monitoring of a person who might have been exposed to an infectious, chemical, radiologic, or other potentially causal agent, for the purpose of detecting early symptoms.
+    B) The ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice, closely integrated with the timely dissemination of these data to those responsible for prevention and control.
+    C) The study of the distribution and determinants of health conditions or events among populations and the application of that study to control health problems
+    D) None of the above.
+
+2. [multi, 2 pt] Which of the below statements about epidemiology are true?
+    A) The diagnosis and treatment of illnesses is an important part of epidemiology.
+    B) Epidemiologic methods are targeted at populations, communities and groups of individuals.
+    C) Epidemiologists are primarily concerned with individuals.
+    D) A goal of epidemiology is to prevent and control illness and injuries.
+
+3. [frq, 3 pt] There are two major triads or three-word concepts in epidemiology. One of these is Agent/Host/Environment. What is the other?
+
+4. [mcq, 1 pt] Person-to-person transmission of a communicable disease such as the recent measles outbreak in California associated with Disneyland generally results in which of the below epidemic patterns?
+    A) Propagated outbreak
+    B) Mixed outbreak
+    C) Common source outbreak
+
+[STIMULUS] Figure 1. Number of Cases of Salmonella Enteritidis among Party Attendees by Date and Time of Onset — Chicago, Illinois, February 2000
+
+Source: Cortese M, Gerber S, Jones E, Fernandez J. A Salmonella Enteritidis outbreak in Chicago. Presented at the Eastern Regional Epidemic Intelligence Service Conference, March 23, 2000, Boston, Massachusetts.
+    [IMAGE: ../images/2016_camas_c__p3_ve2d120-ec8e238a.webp]
+
+5. [frq, 2 pt] What term do epidemiologists normally use to refer to type of graph in Figure 1?
+
+6. [frq, 4 pt] The outbreak shown in Figure 1 was the result of food eaten at a party on the evening of Feb 13th. Assume the food was served at 7 pm, the first person became ill at 2 pm on the date indicated and the last person became ill at 9 am on the date indicated. What is the range of incubation periods for this outbreak?
+
+8. [multi, 2 pt] A drug manufacturer wants to demonstrate that their new drug is more effective in reducing hypertension than the most commonly used medication. The company recruits of volunteers with hypertension and randomly assigns them to two groups. The first group is given the commonly used antihypertensive while the second is given new drug. This is an example of which of the below study types?
+    A) Experimental
+    B) Observational
+    C) Cohort
+    D) Case-control
+    E) Clinical trial
+
+9. [mcq, 1 pt] Although West Nile virus infections in humans are usually mild and often have no symptoms, some people develop a serious neurologic illness such as encephalitis or meningitis (inflammation of the brain or surrounding tissues). About 10% of those with severe symptoms die. Birds serve as a reservoir for this virus and it is spread to humans through the bite of female mosquitoes. This represents which of the below modes of transmission?
+    A) Droplet spread
+    B) Vehicle borne
+    C) Vector borne
+    D) Airborne
+
+10. [mcq, 1 pt] Meningococcal meningitis is a severe bacterial infection of the meninges – the membranes that cover the brain. The causative agent, Neisseria meningitidis, is normally found in the upper respiratory tract (e.g., nose and nasopharynx) of humans and is spread from person to person by relatively large, short-range aerosols produced by sneezing, coughing, or even talking. This represents which of the below modes of transmission?
+    A) Droplet spread
+    B) Vehicle borne
+    C) Vector borne
+    D) Airborne
+
+11. [mcq, 1 pt] Rabies is a viral central nervous system infection that almost always results in death. It is spread by the bite of infected mammals. Worldwide, more than 50,000 people die from rabies each year. Only 1 or 2 die each year in the United States – mostly from bites of wild animals such as bats, skunks, raccoons and foxes. Rabies utilizes which of the below modes of transmission?
+    A) Direct contact
+    B) Droplet spread
+    C) Vehicle borne
+    D) Vector borne
+    E) Airborne
+
+12. [frq, 4 pt] Immunizations have dramatically reduced death rates in young children in both developed and developing countries and contributed to population growth. List 4 immunizations that are routinely recommended for children less than 5 years of age.
+
+13. [multi, 6 pt] Although there have been significant reductions in cigarette smoking in the United States, it is still a major problem in many parts of the world. Which of the below diseases are linked with cigarette smoking?
+    A) Lung cancer
+    B) Ebola
+    C) Asthma
+    D) Whooping cough
+    E) Hemophilia
+    F) Type 2 diabetes
+    G) Periodontal disease
+    H) Skin cancer
+    I) Esophageal cancer
+    J) Stroke
+
+14. [frq, 4 pt] While more than 54,000 people (e.g., drivers, passengers and pedestrians) died in motor vehicle-related incidents in the U.S. in 1972, the number has decreased over the years and 33,561 died in 2012. Give 2 specific changes in automobile design that have contributed to this (note – safer cars is not a specific change).
+
+[STIMULUS] Figure 1: 2010 population pyramids for the United States and metropolitan Atlanta
+
+Source: (from http://www.census.gov/population/metro/data/pop_pyramid.html)
+    [IMAGE: ../images/2016_camas_c__p3_ve2d120-ec8e238a.webp]
+
+15. [mcq, 1 pt] According to Figure 1, which of the below statements is true?
+    A) In 2010, the population of metro Atlanta tended to be a bit older than that of the United States in general.
+    B) In 2010, the proportion of 15-19 year olds in metro Atlanta was about the same as that in the United States in general.
+    C) There are a lot more males than females in the metro Atlanta area.
+    D) There is strong evidence for an increase in birth rates in both the United States and metro Atlanta areas.
+    E) Childhood mortality appears to be a major problem in the United States.
+
+16. [numeric, 2 pt] What percent of metro Atlantans were between 10-14 years of age in 2010?
+
+17. [frq, 4 pt] The population of the United States at the beginning of 2010 was approximately 308.4 million people. Approximately how many were between 15 and 19 years of age? (Note: use the nearest 0.5 % and )
+
+[STIMULUS] Figure 2. A population pyramid for Zambia in the year 2000.
+
+Source: Centers for Disease Control and Prevention, Principles of Epidemiology in Public Health Practice, 3rd edition
+    [IMAGE: ../images/2016_camas_c__p8_v2769a9-edf50e26.webp]
+
+18. [mcq, 1 pt] Which of the following statements about the population of Zambia is NOT supported by the information in Figure 2?
+    A) Men in Zambia are likely to die at a much younger age than women.
+    B) Compared to the United States, the likelihood of dying in Zambia appears to be relatively constant across all age groups.
+    C) The birth rate in Zambia appears to be much greater than that in the United States.
+    D) Zambia is primarily a country of young people.
+
+19. [frq, 2 pt] If one estimates the population in Zambia in 2000 to have been approximately 10,000,000 what would be the modal age group?
+
+20. [frq, 2 pt] If one estimates the population in Zambia in 2000 to have been approximately 10,000,000 what would be the median age group?
+
+21. [frq, 2 pt] Population growth tends to force people into environments that were previously unsettled and bring them into closer contact with wild animals. Infectious diseases such as Ebola and Human Immunodeficiency virus (HIV) infections are believed to be spread from animals to man through these sorts of interactions. What term do epidemiologists use for an infectious disease that is transmissible from animals to humans?
+
+[STIMULUS] Movement into forested areas also brings man into contact with vectorborne infections. Infection is the result of being bitten by arthropods such as ticks and mosquitoes.
+
+22a. [frq, 2 pt] Name two infectious diseases that are acquired from mosquito bites.
+
+22b. [frq, 2 pt] Name two infectious diseases that are acquired from tick bites.
+
+23a. [frq, 2 pt] Fresh water is necessary for life and population growth puts increases the demand for potable water. At the same time, waste disposal becomes more difficult. Fecal contamination of drinking water supplies has caused widespread outbreaks of infectious diseases. Name two infectious diseases that are spread by contaminated water.
+
+23b. [frq, 2 pt] Boiling can make water safe for drinking. Name two other general methods to make coliform-containing water safe to drink.
+
+[STIMULUS] A university is piloting a mandatory health education course for incoming freshmen. In the first year, half of the students take the course and the university decides to compare their health outcomes with those of the students who did not take the course. A small sample agrees to take a follow up survey four years later. One outcome studied is the rate of obesity in the two groups. Use the data below to calculate relative risk for obesity based on taking a health education course.
+
+Relative Risk Table
+
+| | Obese | Not Obese |
+|---|---|---|
+| Did not take Health education course | a= 35 | b= 122 |
+| Took Health Education course | c= 21 | d= 137 =164 |
+
+24. [frq, 1 pt] Calculate the incidence of obesity for the risk factor group (those who did not take a health education course).
+
+25. [frq, 1 pt] Calculate the incidence of obesity for the non-risk group (those who took the health education course).
+
+26. [frq, 2 pt] Calculate the relative risk show your work for full credit including formula.
+
+27. [frq, 1 pt] Write the relative risk in the form of a statement.
+
+
+=== Scenario 2 ===
+
+[STIMULUS] The recent outbreak of Ebola in northwest Africa is, in part, a result of population growth. The three most heavily involved countries were Guinea, Liberia and Sierra Leone (Figure 3).
+
+Figure 3: Cumulative reported cases of Ebola infection in Guinea, Liberia and Sierra Leone, by week from March 25, 2014 through January 14, 2015.
+
+Source: Centers for Disease Control and Prevention
+http://www.cdc.gov/vhf/ebola/outbreaks/2014-west-africa/cumulative-cases-graphs.html
+
+28. [frq, 1 pt] Infectious diseases are commonly caused by prions, viruses, bacteria, protistans, fungi and Animalia. Which of these groups is responsible for Ebola?
+
+[STIMULUS] Table 2: Cumulative cases, cases in past 21 days and cumulative deaths due to Ebola virus infection in Guinea, Liberia and Sierra Leone.
+
+| Country | Case definition | Cumulative cases | Cases in past 21 days | Cumulative deaths |
+|---|---|---|---|---|
+| Guinea | Confirmed | 2539 | 136 | 1557 |
+| | Probable | 319 | * | 319 |
+| | Suspected | 13 | * | ‡ |
+| | Total | 2871 | 136 | 1876 |
+| Liberia | Confirmed | 3135 | 25 | ‡ |
+| | Probable | 1854 | * | ‡ |
+| | Suspected | 3489 | * | ‡ |
+| | Total | 8478 | 25 | 3605 |
+| Sierra Leone | Confirmed | 7903 | 549 | 2779 |
+| | Probable | 287 | * | 208 |
+| | Suspected | 2150 | * | 158 |
+| | Total | 10 340 | 549 | 3145 |
+| Total | | 21 689 | 710 | 8626 |
+
+Data are based on official information reported by ministries of health. These numbers are subject to change due to ongoing reclassification retrospective investigation and availability of laboratory results. *Not reported due to the high proportion of probable and suspected cases that are reclassified. ‡Data not available.
+
+Source: WHO Situation Report
+http://apps.who.int/iris/bitstream/10665/149314/1/roadmapsitrep_21Jan2015_eng.pdf?ua=1&ua=1)
+
+31a. [frq, 2 pt] In 2014, what was the incidence rate per 10,000 people for Guinea? Hint: In 2014 the population of Guinea was 12,043,898 people.
+
+31b. [frq, 2 pt] In 2014, what was the incidence rate per 10,000 people for Liberia? Hint: In 2014 the population of Liberia was 4,396,873 people.
+
+31c. [frq, 2 pt] In 2014, what was the incidence rate per 10,000 people for Sierra Leone? Hint: In 2014 the population of Sierra Leone was 6,205,382 people.
+
+32. [frq, 5 pt] What is the overall case-fatality rate in this outbreak?
+
+34. [frq, 1 pt] Cases were classified as suspect, probable and confirmed. Which definition is usually based only on symptoms?
+
+35. [frq, 5 pt] What was the weekly incidence of Ebola infection in the 21 days before this Table was developed?
+
+36. [frq, 10 pt] List the 10 steps of an outbreak and briefly explain each step. One point for each step.
+
+[STIMULUS] Use the following for questions 37-39
+
+A. Cluster
+B. Epidemic
+C. Outbreak
+
+37. [mcq, 1 pt] 200 cases of Marburg virus infection in several districts in Angola over several months
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+38. [mcq, 1 pt] 40 cases of Salmonella Enteritidis in 1 week traced to a single meal served at a cafeteria
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+39. [mcq, 1 pt] 10 cases of cancer diagnosed over two years among residents of a single neighborhood.
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+40. [mcq, 1 pt] Why should an investigator who has no clinical background nonetheless talk to a patient or two as an early step in the outbreak investigation?
+    A) to advise the patient about common risk factors and the usual course of the illness, after reviewing such information in appropriate reference material.
+    B) To develop hypotheses about the cause of the outbreak
+    C) To learn more about the clinical manifestations of the disease.
+    D) To verify the laboratory findings as part of the verifying the diagnosis.
+
+41. [multi, 1 pt] Disease control measures can be directed at the:
+    A) Agent
+    B) Source
+    C) Mode of transmission
+    D) Portal of entry
+    E) Host of susceptibility
+
+42. [multi, 1 pt] Which of the following are frequency measures?
+    A) Birth rate
+    B) Incidence
+    C) Mortality rate
+    D) prevalence
+
+[STIMULUS] Table 2.9 Line Listing for 12 Patients with Human Monocytotropic Ehrlichiosis, Missouri, 1998-1999
+
+| Patient ID | Year of Diagnosis | Age (years) | Sex | Highest IFA* Titer | Platelets x 10^6/L | White Blood Cell Count x 10^9/L |
+|---|---|---|---|---|---|---|
+| 01 | 1999 | 44 | M | 1:1024 | 90 | 1.9 |
+| 02 | 1999 | 42 | M | 1:512 | 114 | 3.5 |
+| 03 | 1999 | 63 | M | 1:2048 | 83 | 6.4 |
+| 04 | 1999 | 53 | F | 1:512 | 180 | 4.5 |
+| 05 | 1999 | 77 | M | 1:1024 | 44 | 3.5 |
+| 06 | 1999 | 43 | F | 1:512 | 89 | 1.9 |
+| 10 | 1998 | 22 | F | 1:128 | 142 | 2.1 |
+| 11 | 1998 | 59 | M | 1:256 | 229 | 8.8 |
+| 12 | 1998 | 67 | M | 1:512 | 36 | 4.2 |
+| 14 | 1998 | 49 | F | 1:4096 | 271 | 2.6 |
+| 15 | 1998 | 65 | M | 1:1024 | 207 | 4.3 |
+| 18 | 1998 | 27 | M | 1:64 | 246 | 8.5 |
+| Mean: | 1998.5 | 50.92 | na | 1:976.00 | 144.25 | 4.35 |
+| Median: | 1998.5 | 51 | na | 1:512 | 128 | 3.85 |
+| Geometric Mean: | 1998.5 | 48.08 | na | 1:574.70 | 120.84 | 3.81 |
+| Mode: | none | none | M | 1:512 | none | 1.9, 3.5 |
+
+*Immunofluorescence assay
+
+Data Source: Olano JP, Masters E, Hogrefe W, Walker DH. Human monocytotropic ehrlichiosis, Missouri. Emerg Infect Dis 2003;9:1579-86.
+
+Please examine table 2.9 and answer the following questions on the next page.
+
+43. [mcq, 1 pt] For each of the variables listed below from the line listing in Table 2.9, identify which measure of central location is best for representing the data.
+    
+    Year of diagnosis
+    A) Mode
+    B) Median
+    C) Mean
+    D) Geometric mean
+    E) No measure of central location is appropriate
+
+43c. [mcq, 1 pt] For each of the variables listed below from the line listing in Table 2.9, identify which measure of central location is best for representing the data.
+    
+    Sex
+    A) Mode
+    B) Median
+    C) Mean
+    D) Geometric mean
+    E) No measure of central location is appropriate
+
+43d. [mcq, 1 pt] For each of the variables listed below from the line listing in Table 2.9, identify which measure of central location is best for representing the data.
+    
+    Highest IFA titer
+    A) Mode
+    B) Median
+    C) Mean
+    D) Geometric mean
+    E) No measure of central location is appropriate
+
+
+=== Scenario 3 ===
+
+[STIMULUS] To obtain information about the outbreak source, a 72-hour food and drinking water history questionnaire, which included questions on surface water exposure, was used to interview the ill persons. An analysis of the questionnaire data indicated that muddy surface water was a possible source of infection.
+
+The following study was conducted to identify the source of infection. Twenty-four healthy individuals consisting of both military personnel and civilians who had been race participants were identified through contact investigation of the 22 case-patients. Nellis Public Health developed a new questionnaire for this investigation and administered it by telephone. The questionnaire asked the 46 persons about water consumption, food consumption, and environmental water exposure during the October 6–7 obstacle race.
+
+46. [multi, 2 pt] What type of study was this?
+    A) Experimental
+    B) Observational
+    C) Cohort
+    D) Case-control
+    E) Clinical trial
+
+47. [frq, 2 pt] What is the appropriate measure of risk for this study design?
+
+[STIMULUS] The results of this investigation are shown in Table 4.
+
+Table 4. Comparison of case-patients with *Campylobacter coli* infection and control subjects among participants in a long-distance obstacle adventure race, by food and water exposures — Nevada, October 2012*
+
+| Exposure | Case-patients (n = 22) | Controls (n = 24) |
+|---|---|---|
+| Inadvertent swallowing of muddy water while competing | 89 | 30 |
+| Consumption of potable drinking water provided by race organizers | 100 | 100 |
+| Consumption of food provided by race organizers | 93 | 74 |
+| Full body submersion in surface water | 94 | 96 |
+| Exposure of eyes or mouth to surface water or mud | 100 | 74 |
+
+* Denominator values varied as a result of nonreporting by some participants.
+
+49. [frq, 8 pt] Calculate the appropriate measure of risk for this study design.

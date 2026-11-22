@@ -1,0 +1,1110 @@
+Cypress Falls — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  113 questions, 252.0 pts
+Source: scio.ly test archive id df817879-0e2a-4025-b6cc-e655922c9bf8  |  original files: https://drive.google.com/drive/folders/1Fg9offyb4lmptjmz6ykz8bq2_ik43B9d
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Part 1: Vocabulary ===
+
+[STIMULUS] Word Bank:
+a. Mortality Rate
+b. Procedure bias
+c. Fomite
+d. Hyperendemic
+e. Cochran Mantel-Haenszel Odds Ratio
+f. Latency
+g. Index case
+h. Efficacy
+i. Portal of entry
+j. Vector-borne transmission
+k. Endemic
+l. Teratogen
+m. Attrition bias
+n. Host factor
+o. Attack rate
+p. Crude birth rate
+q. Crude birth rate (Change to surveillance)
+r. Pandemic
+s. Period prevalence
+t. Incidence rate
+u. Delayed Health Effect
+v. Incubation period
+w. Case control study
+x. Cohort study
+y. Epidemic
+
+P1-1. [mcq, 1 pt] Match the definition: the null hypothesis of this test is that the odds ratios within each repetition are equal to 1
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-2. [mcq, 1 pt] Match the definition: persistent, high levels of disease occurrence
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-3. [mcq, 1 pt] Match the definition: the first identified case in a group of related cases of a particular communicable or heritable disease
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-4. [mcq, 1 pt] Match the definition: the rate at which a new event occurs over a specified period of time
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-5. [mcq, 1 pt] Match the definition: The time that passes between being exposed to something that can cause disease
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-6. [mcq, 1 pt] Match the definition: The ongoing systematic collection and analysis of data and the provision of information which leads to action being taken to prevent and control a disease, usually one of an infectious nature
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-7. [mcq, 1 pt] Match the definition: Infections transmitted by the bite of infected arthropod species
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-8. [mcq, 1 pt] Match the definition: the number of deaths due to a disease divided by the total population
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-9. [mcq, 1 pt] Match the definition: the manner in which a pathogen enters a susceptible host
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-10. [mcq, 1 pt] Match the definition: a type of observational study in which two existing groups differing in outcome are identified and compared on the basis of some supposed causal attribute
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-11. [mcq, 1 pt] Match the definition: a type of selection bias due to systematic differences between study groups in the number and the way participants are lost from a study
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-12. [mcq, 1 pt] Match the definition: where an unfair amount of pressure is applied to the subjects, forcing them to complete their responses quickly
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-13. [mcq, 1 pt] Match the definition: The proportion of exposed population which is infected
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-14. [mcq, 1 pt] Match the definition: Number of current cases (new and preexisting) over a specified timeframe
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-15. [mcq, 1 pt] Match the definition: Cholera in Zimbabwe is an example of an
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-16. [mcq, 1 pt] Match the definition: The common cold in the US is an example of an
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-17. [mcq, 1 pt] Match the definition: A disease or an injury that happens as a result of exposures that might have occurred in the past
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-18. [mcq, 1 pt] Match the definition: The ability of an intervention or program to produce the intended or expected results under ideal conditions
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-19. [mcq, 1 pt] Match the definition: Refers to the traits of an individual person or animal that affect susceptibility to disease, especially in comparison to other individuals
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-20. [mcq, 1 pt] Match the definition: A substance that causes defects in development between conception and birth
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-21. [mcq, 1 pt] Match the definition: An epidemic of infectious disease that has spread through human populations across a large region
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-22. [mcq, 1 pt] Match the definition: The ratio between the number of live births in a population during a given year and the total mid-year population for the same year, usually multiplied by 1,000
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-23. [mcq, 1 pt] Match the definition: A study that samples a group of people who share a defining characteristic, typically who experienced a common event in a selected period
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-24. [mcq, 1 pt] Match the definition: Any nonliving object or substance capable of carrying infectious organisms, such as germs or parasites, and hence transferring them from one individual to another
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+P1-25. [mcq, 1 pt] Match the definition: The period between exposure and onset of clinical symptoms
+    A) Mortality Rate
+    B) Procedure bias
+    C) Fomite
+    D) Hyperendemic
+    E) Cochran Mantel-Haenszel Odds Ratio
+    F) Latency
+    G) Index case
+    H) Efficacy
+    I) Portal of entry
+    J) Vector-borne transmission
+    K) Endemic
+    L) Teratogen
+    M) Attrition bias
+    N) Host factor
+    O) Attack rate
+    P) Crude birth rate
+    Q) Crude birth rate (Change to surveillance)
+    R) Pandemic
+    S) Period prevalence
+    T) Incidence rate
+    U) Delayed Health Effect
+    V) Incubation period
+    W) Case control study
+    X) Cohort study
+    Y) Epidemic
+
+
+=== Part 2: Multiple Choice ===
+
+P2-1. [mcq, 2 pt] Which of these is the leading cause of foodborne illness in the US?
+    A) Salmonella
+    B) Norovirus
+    C) Clostridium perfringens
+    D) Staphylococcus aureus
+
+P2-2. [multi, 2 pt] Of the following, which 3 are the main categories of measurements in epidemiology? (select 3) (all or nothing)
+    A) Measure of risk
+    B) Measure of association
+    C) Measure of disease frequency
+    D) Measure of direct standardization
+    E) Measure of potential impact
+
+P2-3. [mcq, 2 pt] Hill's Criterion is used to help establish causation among pathogens. What is considered the "useless" criterion?
+    A) Temporality
+    B) Biological plausibility
+    C) Specificity
+    D) Coherence
+
+P2-4. [mcq, 2 pt] Which food-contaminating bacteria is found in the intestine of animals and soil?
+    A) Clostridium
+    B) Salmonella
+    C) Staphylococcus
+    D) Campylobacter
+
+P2-5. [mcq, 2 pt] The transmission of disease occurs most in:
+    A) Sub-Urban areas
+    B) Rural areas
+    C) Urban areas
+    D) Equally in all areas
+
+P2-6. [mcq, 2 pt] When investigating the epicenter of an outbreak check:
+    A) The potability of bottled water in the area
+    B) Sewage treatment plants
+    C) Number of houses with plumbing
+    D) High-income housing
+
+P2-7. [mcq, 2 pt] Tainted water affects humans when the pathogen enters the body via:
+    A) Mouth
+    B) Closed Skin
+    C) Neck
+    D) B & C
+
+P2-8. [mcq, 2 pt] Who is the current director of the CDC?
+    A) Robert R. Redfield
+    B) Rochelle P. Walensky
+    C) Anthony Fauci
+    D) Tom Frieden
+
+P2-9. [mcq, 2 pt] Which is the most scientifically sound study design?
+    A) Case Control
+    B) Trial
+    C) Cohort
+    D) CrossSectional
+
+P2-10. [mcq, 2 pt] Which of the following is one of the basic studies of epidemiology?
+    A) Viroidal
+    B) Cross Sectional
+    C) Cluster
+    D) DoseResponse
+
+P2-11. [mcq, 2 pt] What is the relationship between incidence (I), prevalence (P), and duration (D)?
+    A) I = P x D
+    B) P = I x D
+    C) D = P x I
+    D) P = I^D
+
+P2-12. [mcq, 2 pt] Which of the following is the most important of Hill's criteria?
+    A) coherence
+    B) specificity
+    C) temporal relationship
+    D) dose-response relationship
+
+P2-13. [mcq, 2 pt] Which is not one of the four components of a case definition?
+    A) Number of people infected
+    B) Characteristics of those infected
+    C) Time sequence of when the condition occurred
+    D) Location of the where the condition occurred
+
+P2-14. [mcq, 2 pt] An outbreak occurs at a town because of the use of a single delivery of unpasteurized milk in their ice cream. What type of epicurve would this outbreak generate?
+    A) Point source
+    B) Continuous common source
+    C) Intermittent common source
+    D) Propagated source
+
+P2-15. [mcq, 2 pt] A musical festival occurs in Townsville once a week for all the weeks of October 2021. A taco food truck that has regularly been serving there has been found harboring campylobacter jejuni in their chicken. What type of epicurve would this outbreak generate?
+    A) Point source
+    B) Continuous common source
+    C) Intermittent common source
+    D) Propagated source
+
+P2-16. [mcq, 2 pt] Which of the following would be least effective against a viral disease?
+    A) Vaccinations
+    B) Bed rest
+    C) Wide-spectrum antibiotics
+    D) Good personal hygiene
+
+P2-17. [mcq, 2 pt] Which of the following steps is usually done prior to conducting analytical studies?
+    A) Verifying any diagnosis.
+    B) Coordinating with local officials.
+    C) Defining all cases in terms of person, place and time.
+    D) All of the above
+
+P2-18. [mcq, 2 pt] What agent/vector is associated with Scarlet fever?
+    A) Streptococcal bacteria
+    B) Filoviridae virus
+    C) Tsetse fly
+    D) Anopheles mosquito
+
+P2-19. [mcq, 2 pt] The three guiding principles of ethical research involving humans are:
+    A) Empathy, caution and truthfulness
+    B) Respect for persons, beneficence and justice
+    C) Respect for human dignity, compensation and integrity
+    D) Beneficence, legal recourse and reimbursement
+
+P2-20. [mcq, 2 pt] Disease popular in literature characterized by abdominal pain, vomit, watery diarrhea, dehydration, and death from contaminated food or water
+    A) Ebola
+    B) Cholera
+    C) Influenza
+    D) E. Coli
+
+P2-21. [mcq, 2 pt] Which of the following countries is an example of a country with a high population density?
+    A) Canada
+    B) Bangladesh
+    C) Australia
+    D) USA
+
+P2-22. [mcq, 2 pt] Disease associated with human expansion of cities
+    A) Lyme Disease
+    B) Cholera
+    C) Kuru
+    D) Flesh Eating Disease
+
+P2-23. [mcq, 2 pt] Which of the following is not a natural toxin
+    A) Alfatoxin
+    B) Ochratoxin A
+    C) Water
+    D) None of the Above
+
+P2-24. [mcq, 2 pt] Which of the following are potential types of errors in data collection?
+    A) computer-generated error
+    B) random error
+    C) domain error
+    D) causal error
+
+P2-25. [mcq, 2 pt] Toxoplasmosis is caused by a:
+    A) Bacteria
+    B) Fungus
+    C) Protozoa
+    D) Virus
+
+[STIMULUS] Circle "true" or "false" for the following statements. (no partial credit)
+
+P3-T1. [tf, 2 pt] True or False: Increasing the sensitivity of a test increases its specificity.
+    A) True
+    B) False
+
+P3-T3. [tf, 2 pt] True or False: Recall bias is not a problem in case-control studies.
+    A) True
+    B) False
+
+P3-T4. [tf, 2 pt] True or False: A valid test is a test lacking random error.
+    A) True
+    B) False
+
+P3-T5. [tf, 2 pt] True or False: When you falsely reject a null hypothesis, it is a Type I error.
+    A) True
+    B) False
+
+P3-T6. [tf, 2 pt] True or False: Screening for a disease is considered secondary prevention.
+    A) True
+    B) False
+
+P3-T7. [tf, 2 pt] True or False: The general population is the best type of comparison group in cohort studies.
+    A) True
+    B) False
+
+P3-T8. [tf, 2 pt] True or False: Prevalence is often preferred over incidence in observational studies.
+    A) True
+    B) False
+
+P3-T9. [tf, 2 pt] True or False: The HIV Virus is a retrovirus that attacks Helper T cells in the host.
+    A) True
+    B) False
+
+P3-T10. [tf, 2 pt] True or False: The terms "subclinical" and "asymptomatic" can be used interchangeably.
+    A) True
+    B) False
+
+[STIMULUS] State if each of the following diseases/disease-causing agents are bacterial (B), viral (V), fungal (F), protozoan/algal (P), or other (O). (no partial credit)
+
+P4-D1. [mcq, 1 pt] Malaria
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D2. [mcq, 1 pt] Campylobacter jejuni
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D3. [mcq, 1 pt] AIDS
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D4. [mcq, 1 pt] Giardiasis
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D6. [mcq, 1 pt] Dengue Fever
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D7. [mcq, 1 pt] Ebola
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D8. [mcq, 1 pt] Q Fever
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D10. [mcq, 1 pt] MRSA
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D12. [mcq, 1 pt] Thrush
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D13. [mcq, 1 pt] Estuary associated syndrome
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D14. [mcq, 1 pt] Measles
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+P4-D15. [mcq, 1 pt] Paralytic Shellfish Poisoning
+    A) Bacterial (B)
+    B) Viral (V)
+    C) Fungal (F)
+    D) Protozoan/algal (P)
+    E) Other (O)
+
+
+=== Part 3: Free-Response ===
+
+P5-FR1. [frq, 4 pt] Describe the difference between horizontal and vertical transmission.
+
+P5-FR2. [frq, 6 pt] What components are in the Chain of Transmission? Write the Chain of Transmission for COVID-19.
+
+P5-FR3. [frq, 3 pt] What is the difference between cumulative incidence and incidence rate? How is each calculated?
+
+P5-FR4. [frq, 4 pt] In clinical trials, what type of design includes a washout period? What is it used for?
+
+P5-FR5. [frq, 4 pt] What is the difference between a retrospective and a prospective study? When would one prefer a retrospective study? A prospective study?
+
+[STIMULUS] Researchers notice that study subjects tend to consciously live a healthier lifestyle after enrolling in a research study on the efficacy of a new weight-loss pill. At the end of the week, interviewers ask subjects to list all of the meals that they had throughout the week. Interviewers know who was given the weight-loss pill and who was given the placebo. Explain how the following biases affect the results of this study:
+
+P5-FR6a. [frq, 2 pt] Explain how the Hawthorne effect affects the results of this study.
+
+P5-FR6b. [frq, 2 pt] Explain how interviewer bias affects the results of this study.
+
+P5-FR6c. [frq, 2 pt] Explain how recall bias affects the results of this study.
+
+P5-FR6d. [frq, 2 pt] Explain how attrition bias affects the results of this study.
+
+P5-FR7. [frq, 4 pt] What is the difference between droplet spread and airborne transmission? Give an example of a disease for each type of transmission.
+
+P5-FR8. [frq, 2 pt] What is a carrier and what types are there?
+
+P5-FR9. [frq, 1 pt] What is considered the most "transmissible" disease?
+
+P5-FR10. [frq, 2 pt] What measurement is used to indicate the ease of a disease's "spread/transmissibility"?
+
+P5-FR11. [frq, 2 pt] What are the contributions of John Snow to modern day epidemiology?
+
+P5-FR12. [frq, 5 pt] What are the CDC's 5 recommended ways to prevent foodborne illness?
+
+[STIMULUS] For 13-27, use the following information.
+
+A new diagnosis test is created for Listeria that is compared against the gold standard for Listeria testing. The following data is obtained regarding the test:
+    |  | Gold Standard + | Gold Standard - |
+    | New Test + | 123 | 45 |
+    | New Test - | 37 | 91 |
+
+P5-FR13. [frq, 8 pt] Calculate the sensitivity of the new test.
+
+P5-FR14. [frq, 4 pt] Interpret the sensitivity that you just calculated.
+
+P5-FR15. [frq, 8 pt] Calculate the specificity of the new test.
+
+P5-FR16. [frq, 4 pt] Interpret the specificity that you just calculated.
+
+P5-FR17. [frq, 6 pt] Calculate the positive predictive value.
+
+P5-FR18. [frq, 4 pt] Interpret the positive predictive value.
+
+P5-FR19. [frq, 6 pt] Calculate the negative predictive value.
+
+P5-FR20. [numeric, 1 pt] How many false positives are there?
+
+P5-FR21. [numeric, 1 pt] How many false negatives are there?
+
+P5-FR22. [numeric, 1 pt] How many true positives are there?
+
+P5-FR23. [numeric, 1 pt] How many true negatives are there?
+
+P5-FR24. [frq, 4 pt] If the number of cases of listeria suddenly increase, how will the positive predictive value and negative predictive value be impacted?
+
+P5-FR25. [frq, 4 pt] If the number of cases of listeria suddenly decrease, how will the sensitivity and specificity be impacted?
+
+P5-FR26. [frq, 2 pt] What is a gold standard test?
+
+P5-FR27. [frq, 2 pt] What is the gold standard test for listeria?
+
+
+=== Part 4: Case Study ===
+
+[STIMULUS] It's another day at the office with clear blue skies and fluffy clouds. A bit too picturesque and a bit too ordinary, to be honest. And as it always goes, with all too picturesque and all too ordinary days, you get a phone call.
+
+"Hello?"
+
+"It's Dr. Wagner. We need you over here in Florida, pronto."
+
+You hear a click, and the line goes dead.
+
+"Well, hope this isn't the work of a Florida Man," you mutter, grabbing your already lukewarm coffee and your briefcase.
+
+When you arrive at the Miami airport, nothing immediately seems out of the ordinary. Dr. Wagner meets you at the arrival area, and he starts driving toward Pensacola.
+
+After making small talk about regular people things, he eventually starts talking about the subject you're here for. "Things aren't looking too great right now. We've got a rise in people experiencing fever, stomach cramps, and diarrhea."
+
+P6-CS1. [frq, 2 pt] Why is it important to establish the existence of an outbreak before investigating? Give 2 reasons.
+
+P6-CS2. [frq, 4 pt] At this stage, is this an outbreak? Why or why not?
+
+[STIMULUS] Dr. Wagner continues on. "Over this past week, we had 83 people present with these symptoms to 3 hospitals in Pensacola, and one thing they have in common is that they all attended a recent conference on biotechnology in Miami. The conference was on October 30, 2021. Some of the cases are still in the hospital, and some of the cases have been discharged."
+
+P6-CS3. [frq, 5 pt] Write a case definition for this outbreak.
+
+P6-CS4. [frq, 3 pt] Given the circumstances posed to you, is this disease spread through vertical transmission? Why or why not?
+
+[STIMULUS] Dr. Wagner then explains his plan for interviewing all of the people affected. "Thankfully, they're all living, so we can go interview affected patients in the hospital. Then, I'll go ask them for a list of all the stuff that they ate."
+
+P6-CS5. [frq, 2 pt] What steps of outbreak investigation have already occured up to this point?
+
+P6-CS6. [frq, 4 pt] What potential flaws do you see with this plan?
+
+P6-CS7. [frq, 2 pt] If all cases were reported by the hospitals to larger disease control centers without prompting, which type of surveillance would this be?
+
+[STIMULUS] You both go to interview patients, and you find out what all of them ate at the conference. You also find out that most of them started experiencing symptoms 6 hours to 6 days after the conference.
+    |  | Infected | Not Infected |
+    | Sushi | 34 | 28 |
+    | Rotisserie Chicken | 61 | 29 |
+    | Egg Salad | 11 | 64 |
+    | Tres Leche | 8 | 15 |
+
+P6-CS8. [frq, 2 pt] What measure of association should you use?
+
+P6-CS9. [frq, 12 pt] Use the measure you chose in #8 and show your work. Calculate that measure for all of the foods.
+
+P6-CS10. [frq, 4 pt] Which food was the culprit of the sickness?
+
+P6-CS11. [frq, 4 pt] Given all the information you've had thus far, which disease has struck the conference attendees?
+
+P6-CS12. [frq, 2 pt] What pathogen causes this disease?

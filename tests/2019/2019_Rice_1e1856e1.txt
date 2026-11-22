@@ -1,0 +1,369 @@
+Rice — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  41 questions, 185.0 pts
+Source: scio.ly test archive id 1e1856e1-52cd-420b-9ce8-a2c40d3a8163  |  original files: https://drive.google.com/drive/folders/1sRYUWtz6wPKG44z7CzNCErSIdScvJ4WQ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Answer all questions to the best of your ability. Show all of your work. Round all final answers to 3 decimal points. Certain questions will be used as tiebreakers in the case of equal scores.
+
+
+=== Phase 1: Background and Surveillance ===
+
+[STIMULUS] Before conducting any kind of field work or investigation, it is important to have an understanding of the basic elements of epidemiology and disease surveillance. This section will test your knowledge on those topics.
+
+1. [frq, 10 pt] Describe an epidemic (real or fictional) and state why it is an epidemic.
+
+2. [frq, 10 pt] Describe a pandemic (real or fictional) and state why it is a pandemic.
+
+3. [frq, 10 pt] Outline the 5 of the steps in the chain of infection and give an example of each.
+
+[STIMULUS] a. Disease causing entity and its source
+b. an aggregation of cases over a particular period grouped closely in time and space
+c. amount of agent that must be present to give rise to symptoms
+d. a disease that is constantly present at a high prevalence/incidence rate.
+e. separation of infected persons to prevent transmission to susceptible persons
+f. prevention of disease by studying it and providing preventative measures
+g. ability of intervention to achieve desired results under usual conditions
+h. Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+i. surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+j. an inanimate object that can transmit a disease
+k. separation of well but exposed persons
+l. person who brings an illness to a group of people, starting outbreak
+m. ability of intervention to achieve desired results under ideal conditions
+n. first case identified in outbreak
+
+4a. [mcq, 2 pt] Match the epidemiological term with its definition: Infectious dose
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4b. [mcq, 2 pt] Match the epidemiological term with its definition: Quarantine
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4c. [mcq, 2 pt] Match the epidemiological term with its definition: Isolation
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4d. [mcq, 2 pt] Match the epidemiological term with its definition: Agent
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4e. [mcq, 2 pt] Match the epidemiological term with its definition: Prophylaxis
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4f. [mcq, 2 pt] Match the epidemiological term with its definition: Index Case
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4g. [mcq, 2 pt] Match the epidemiological term with its definition: Efficacy
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4h. [mcq, 2 pt] Match the epidemiological term with its definition: Effectiveness
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4i. [mcq, 2 pt] Match the epidemiological term with its definition: Fomite
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4j. [mcq, 2 pt] Match the epidemiological term with its definition: Hyperendemic
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4k. [mcq, 2 pt] Match the epidemiological term with its definition: Primary Case
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4l. [mcq, 2 pt] Match the epidemiological term with its definition: Sentinel Surveillance
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4m. [mcq, 2 pt] Match the epidemiological term with its definition: Cluster
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+4n. [mcq, 2 pt] Match the epidemiological term with its definition: Syndromic Surveillance
+    A) Disease causing entity and its source
+    B) an aggregation of cases over a particular period grouped closely in time and space
+    C) amount of agent that must be present to give rise to symptoms
+    D) a disease that is constantly present at a high prevalence/incidence rate.
+    E) separation of infected persons to prevent transmission to susceptible persons
+    F) prevention of disease by studying it and providing preventative measures
+    G) ability of intervention to achieve desired results under usual conditions
+    H) Surveillance through selected reporting units, w/ high probability of seeing cases of the disease
+    I) surveillance using less specific criteria than laboratory diagnostic criteria, which includes constellations of signs and symptoms
+    J) an inanimate object that can transmit a disease
+    K) separation of well but exposed persons
+    L) person who brings an illness to a group of people, starting outbreak
+    M) ability of intervention to achieve desired results under ideal conditions
+    N) first case identified in outbreak
+
+[STIMULUS] a. Discovered maternal childbed fever could be prevented through disinfection and handwashing
+b. Developed first vaccine
+c. Developed vaccine for anthrax and rabies
+d. Current director of CDC
+e. Father of modern vital stats and surveillance
+
+5a. [mcq, 2 pt] Match the individual with his/her contribution to public health: William Farr
+    A) Discovered maternal childbed fever could be prevented through disinfection and handwashing
+    B) Developed first vaccine
+    C) Developed vaccine for anthrax and rabies
+    D) Current director of CDC
+    E) Father of modern vital stats and surveillance
+
+5b. [mcq, 2 pt] Match the individual with his/her contribution to public health: Louis Pasteur
+    A) Discovered maternal childbed fever could be prevented through disinfection and handwashing
+    B) Developed first vaccine
+    C) Developed vaccine for anthrax and rabies
+    D) Current director of CDC
+    E) Father of modern vital stats and surveillance
+
+5c. [mcq, 2 pt] Match the individual with his/her contribution to public health: Edward Jenner
+    A) Discovered maternal childbed fever could be prevented through disinfection and handwashing
+    B) Developed first vaccine
+    C) Developed vaccine for anthrax and rabies
+    D) Current director of CDC
+    E) Father of modern vital stats and surveillance
+
+5d. [mcq, 2 pt] Match the individual with his/her contribution to public health: Robert R. Redfield
+    A) Discovered maternal childbed fever could be prevented through disinfection and handwashing
+    B) Developed first vaccine
+    C) Developed vaccine for anthrax and rabies
+    D) Current director of CDC
+    E) Father of modern vital stats and surveillance
+
+5e. [mcq, 2 pt] Match the individual with his/her contribution to public health: Ignaz Seimmelweiss
+    A) Discovered maternal childbed fever could be prevented through disinfection and handwashing
+    B) Developed first vaccine
+    C) Developed vaccine for anthrax and rabies
+    D) Current director of CDC
+    E) Father of modern vital stats and surveillance
+
+6. [frq, 5 pt] What is the environmental transition in public health?
+
+7. [frq, 4 pt] What is the difference between exposure and dose in environmental epidemiology?
+
+8. [frq, 5 pt] Give 2 specific examples of how human impacts on the environment will impact health in the future.
+
+
+=== Phase 2: Outbreak Investigation ===
+
+[STIMULUS] Case Study #1: Lyme Disease
+
+During 2017, a large number of individuals in Austin, Texas were hospitalized with fever, joint pains, and rashes.
+
+Based upon the symptoms, one candidate agent is lyme disease carried by ticks. To check the possibility of this, the CDC collected the record of the 203 lyme disease cases in Travis County in 2016. The following graph was generated:
+    [IMAGE: ../images/2019_rice_c__d_2233df-0837af7f.webp]
+
+9. [frq, 5 pt] What is the technical name of this graph? What is it used to track?
+
+10. [frq, 5 pt] During what season(s) do most infections occur?
+
+11. [frq, 10 pt] In 2017, there were 25 new cases in September (Month 9). What are two possible reasons for the change in the number of cases from 2016 to 2017?
+
+12. [frq, 10 pt] A number of cases were tracked to a subdivision of Austin, which contains two parks. Of the 243 residents who live within 300 meters of Park 1, 39 were treated for fever, joint pain, and/or severe rashes during 2017. Of the 178 residents that live within 300 meters of Park 2, 15 were treated for fever, joint pain, and/or severe rashes. What is the relative risk of having these symptoms of residents near Park 1 versus the residents of Park 2? What conclusion can you derive from this?
+
+13. [frq, 15 pt] Residents who lived within 300 meters of Park 2 were surveyed to determine if they had visited the park in the past 6 months. Of the 243 residents, 178 has visited the park in the past 6 months. Of the 39 residents who were treated for lyme disease-like symptoms, 31 had visited the park. What was the attributable proportion for visiting Park 2?
+
+14. [frq, 5 pt] The parks in this subdivision are maintained by the local homeowners associations. Park 1 is located in a neighborhood with an average household income of $35,000, while Park 2 is located in a neighborhood with an average household income of $100,000. Describe two ways in which this socio-economic factor may influence the relative risk between the two parks.
+
+15. [frq, 5 pt] Describe one public policy changes that could reduce the risk of tick-borne diseases?
+
+
+=== Phase 3: Patterns, Controls, and Prevention ===
+
+[STIMULUS] Case Study #1: Lyme Disease
+
+In order to track the spread of lyme disease across Texas, individuals that visited certain parks were surveyed to determine if they developed symptoms of Lyme disease. This was combined with ecological surveys to determine the presence of ticks that carried Lyme disease at this parks. The results were shown in the following table:
+
+| Month | Population Surveyed | Number of Exposed Individuals | Number of Diagnosed Individuals | Number of Lethal Cases (Deaths) |
+|-------|---------------------|-------------------------------|---------------------------------|---------------------------------|
+| 1     | 627                 | 315                           | 36                              | 1                               |
+| 2     | 541                 | 128                           | 79                              | 10                              |
+| 3     | 753                 | 441                           | 99                              | 22                              |
+| 4     | 595                 | 231                           | 61                              | 17                              |
+
+Individuals that visited parks that were found to have ticks that carried Lyme disease were all considered to have been “exposed” to Lyme disease for the purpose of this study.
+
+16. [frq, 5 pt] What is the attack rate for the population surveyed for Month 1?
+
+17. [frq, 5 pt] What is the attack rate the population surveyed for Month 3?
+
+18. [frq, 5 pt] Assuming there was no overlap in individuals surveyed from month to month, what is the per person incidence rate from Month 2 to Month 4?
+
+19. [frq, 5 pt] What was the mortality rate for Month 2?
+
+20. [frq, 5 pt] What was the percentage of the surveyed population was exposed to the pathogen over the four month period that was studied?
+
+21. [frq, 5 pt] Name one kind of primary prevention method that could be used in preventing the spread of Lyme disease:
+
+[STIMULUS] Case Study #2: Lead Poisoning
+
+A group of children in a nearby city has begun to display symptoms such as damage to the brain and nervous system, slowed growth and development, and learning and behavior problems. Because the homes in the city have not been renovated since the mid-20th century, epidemiologist suspect lead poisoning.
+
+22. [frq, 4 pt] What relation do the old homes of the town have with the suspicion of lead poisoning?
+
+23. [frq, 10 pt] Epidemiologists use the Blood Lead Level test to determine the occurrence of a case of lead poisoning. Given the following data from a previous use of this test, calculate the sensitivity, specificity, positive predictive value, and negative predictive value of this test.
+    
+    | | Positive BLL | Negative BLL |
+    |-------------------|--------------|--------------|
+    | Lead Poisoning | 13 | 40 |
+    | No Lead Poisoning | 15 | 50 |
+
+24. [frq, 4 pt] According to these measures, what is the major flaw of this test, and what are the consequences?

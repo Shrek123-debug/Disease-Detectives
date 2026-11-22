@@ -1,0 +1,340 @@
+Crown Point Invitational - IN — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  59 questions, 59.0 pts
+Source: scio.ly test archive id 27309f3e-0098-4468-932a-12d4c113f715
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Disease Detectives — 60 Questions, 50 Minutes ===
+
+1. [numeric, 1 pt] In a cohort study of 800 people, 120 of 300 exposed individuals become ill, while 80 of 500 unexposed individuals become ill. The relative risk of disease associated with the exposure is ____.
+
+2. [mcq, 1 pt] Which characteristic most clearly distinguishes an epidemic from an outbreak?
+    A) Case fatality rate
+    B) Geographic spread
+    C) Incubation period
+    D) Mode of transmission
+
+3. [mcq, 1 pt] The index case in an outbreak investigation is defined as:
+    A) The first person infected
+    B) The most severe case
+    C) The first identified case
+    D) The primary reservoir
+
+4. [mcq, 1 pt] A continuous common-source outbreak is most likely represented by which epidemic curve shape?
+    A) Sharp peak with rapid decline
+    B) Plateau over time
+    C) Multiple successive peaks
+    D) Slowly rising curve
+
+5. [frq, 1 pt] The study design that begins with individuals who already have a disease and looks backward to assess prior exposures is called a ____ study.
+
+6. [mcq, 1 pt] Which mode of transmission is most affected by ventilation and airflow?
+    A) Fecal-oral
+    B) Vector-borne
+    C) Airborne
+    D) Contact
+
+7. [mcq, 1 pt] Which pair of diseases share the same primary mode of transmission?
+    A) Cholera and malaria
+    B) Influenza and measles
+    C) Lyme disease and tuberculosis
+    D) Rabies and norovirus
+
+8. [mcq, 1 pt] Which type of pathogen typically has the highest mutation rate?
+    A) Bacteria
+    B) Protozoa
+    C) RNA viruses
+    D) Helminths
+
+9. [mcq, 1 pt] Fomites play the greatest role in transmission of which disease?
+    A) HIV
+    B) Norovirus
+    C) Malaria
+    D) Rabies
+
+10. [mcq, 1 pt] Zoonotic spillover events are most likely when:
+    A) Human population density decreases
+    B) Human–animal contact increases
+    C) Pathogens lose virulence
+    D) Vaccination rates increase
+
+11. [mcq, 1 pt] A long incubation period primarily increases the risk of:
+    A) Severe symptoms
+    B) Asymptomatic transmission
+    C) Lower attack rate
+    D) Faster recovery
+
+12. [frq, 1 pt] A disease outbreak in which cases rise slowly, remain elevated for an extended period, and then gradually decline is most consistent with a ____ source outbreak.
+
+13. [mcq, 1 pt] A disease with a short incubation period and short infectious period is most likely to result in:
+    A) Widespread transmission
+    B) High prevalence
+    C) Rapid outbreak containment
+    D) Chronic infection
+
+14. [mcq, 1 pt] Which factor most complicates contact tracing efforts?
+    A) High CFR
+    B) Asymptomatic carriers
+    C) Long recovery period
+    D) Environmental reservoirs
+
+15. [mcq, 1 pt] Which scenario would most likely produce the highest attack rate?
+    A) Open population
+    B) Vaccinated population
+    C) Closed population with exposure
+    D) Low pathogen virulence
+
+16. [mcq, 1 pt] Incidence is best used to measure:
+    A) Disease severity
+    B) Risk of developing disease
+    C) Disease duration
+    D) Case fatality
+
+17. [mcq, 1 pt] Low incidence but high prevalence suggests a disease is:
+    A) Acute and lethal
+    B) Chronic and long-lasting
+    C) Recently eradicated
+    D) Highly contagious
+
+18. [mcq, 1 pt] A population of 10,000 has 400 existing cases of disease. What is the prevalence?
+    A) 0.4%
+    B) 4%
+    C) 40%
+    D) 400%
+
+19. [mcq, 1 pt] A case fatality rate (CFR) of 5% indicates that:
+    A) 5% of the population is infected
+    B) 5% of infected individuals die
+    C) 5% of cases recover
+    D) 5% of exposed individuals become ill
+
+20. [mcq, 1 pt] Which metric is best for comparing disease occurrence between populations of different sizes?
+    A) Raw case count
+    B) Prevalence
+    C) Rate per population
+    D) CFR
+
+21. [mcq, 1 pt] The basic reproductive number (R₀) represents:
+    A) Disease severity
+    B) Average secondary infections
+    C) Duration of illness
+    D) Probability of death
+
+22. [mcq, 1 pt] If R₀ = 5, the herd immunity threshold is approximately:
+    A) 20%
+    B) 50%
+    C) 80%
+    D) 95%
+
+23. [numeric, 1 pt] If a screening test has a specificity of 95%, the proportion of healthy individuals who will test positive is ____%.
+
+24. [mcq, 1 pt] If R₀ < 1, the disease will:
+    A) Become endemic
+    B) Become pandemic
+    C) Decline over time
+    D) Increase exponentially
+
+25. [mcq, 1 pt] Which factor does NOT directly affect R₀?
+    A) Contact rate
+    B) Transmission probability
+    C) Duration of infectiousness
+    D) Case fatality rate
+
+26. [mcq, 1 pt] A cohort study is least efficient when studying:
+    A) Rare exposures
+    B) Common diseases
+    C) Long-term outcomes
+    D) Multiple outcomes
+
+27. [mcq, 1 pt] Case-control studies are particularly vulnerable to:
+    A) Selection bias
+    B) Recall bias
+    C) Confounding by age
+    D) Loss to follow-up
+
+28. [mcq, 1 pt] Which study design is best for estimating incidence?
+    A) Case-control
+    B) Cross-sectional
+    C) Cohort
+    D) Ecological
+
+29. [mcq, 1 pt] Cross-sectional studies cannot determine:
+    A) Prevalence
+    B) Exposure status
+    C) Outcome status
+    D) Temporal sequence
+
+30. [frq, 1 pt] The epidemiologic triangle describes disease causation as the interaction between the agent, host, and the ____.
+
+31. [mcq, 1 pt] Selection bias is most likely to occur when:
+    A) Samples are randomized
+    B) Volunteers self-select
+    C) Blinding is used
+    D) Sample size is large
+
+32. [mcq, 1 pt] A confounder must be associated with:
+    A) Only the exposure
+    B) Only the outcome
+    C) Both exposure and outcome
+    D) Neither exposure nor outcome
+
+33. [mcq, 1 pt] The best method to control confounding is:
+    A) Matching
+    B) Randomization
+    C) Stratification
+    D) Increasing sample size
+
+34. [mcq, 1 pt] Recall bias most commonly affects:
+    A) Cohort studies
+    B) Case-control studies
+    C) Randomized trials
+    D) Ecological studies
+
+35. [mcq, 1 pt] External validity is improved when:
+    A) Sample size is small
+    B) Sample is representative
+    C) Study duration is short
+    D) Exposure is rare
+
+36. [mcq, 1 pt] In a right-skewed distribution, the mean is typically:
+    A) Equal to the median
+    B) Less than the median
+    C) Greater than the median
+    D) Zero
+
+37. [mcq, 1 pt] Which graph best displays incidence over time?
+    A) Bar graph
+    B) Pie chart
+    C) Line graph
+    D) Histogram
+
+39. [mcq, 1 pt] Which measure of spread is most sensitive to extreme values?
+    A) Interquartile range
+    B) Range
+    C) Variance
+    D) Standard deviation
+
+40. [mcq, 1 pt] A sudden rise in reported cases after expanded testing most likely indicates:
+    A) Increased transmission
+    B) Increased detection
+    C) Increased virulence
+    D) Laboratory error
+
+41. [mcq, 1 pt] Primary prevention focuses on:
+    A) Early diagnosis
+    B) Preventing exposure
+    C) Reducing complications
+    D) Rehabilitation
+
+42. [mcq, 1 pt] Screening programs are an example of:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+    D) Quaternary prevention
+
+43. [mcq, 1 pt] Quarantine applies to individuals who are:
+    A) Symptomatic
+    B) Exposed but asymptomatic
+    C) Chronically infected
+    D) Recovered
+
+44. [mcq, 1 pt] Contact tracing is least effective when a disease has:
+    A) Short incubation
+    B) Asymptomatic spread
+    C) High CFR
+    D) Environmental reservoirs
+
+45. [mcq, 1 pt] The most effective long-term prevention of waterborne disease is:
+    A) Antibiotic use
+    B) Vaccination
+    C) Water sanitation
+    D) Vector control
+
+46. [mcq, 1 pt] Which disease is caused by a bacterium?
+    A) Influenza
+    B) Tuberculosis
+    C) Measles
+    D) Ebola
+
+47. [mcq, 1 pt] Which disease spreads primarily via the fecal–oral route?
+    A) HIV
+    B) Norovirus
+    C) Influenza
+    D) Malaria
+
+48. [mcq, 1 pt] Transmission of Lyme disease requires:
+    A) Direct human contact
+    B) A tick vector
+    C) Contaminated food
+    D) Airborne particles
+
+49. [mcq, 1 pt] Which disease has been eradicated worldwide?
+    A) Polio
+    B) Measles
+    C) Smallpox
+    D) Tuberculosis
+
+50. [mcq, 1 pt] Opportunistic infections pose the greatest risk to individuals who are:
+    A) Elderly
+    B) Unvaccinated
+    C) Immunocompromised
+    D) Malnourished
+
+51. [mcq, 1 pt] Super-spreader events primarily increase:
+    A) Case fatality rate
+    B) Transmission rate
+    C) Incubation period
+    D) Disease duration
+
+52. [mcq, 1 pt] Which factor does NOT increase disease emergence?
+    A) Urbanization
+    B) Global travel
+    C) Climate change
+    D) Herd immunity
+
+53. [mcq, 1 pt] Zoonotic diseases are difficult to eradicate because they:
+    A) Mutate rapidly
+    B) Have animal reservoirs
+    C) Spread asymptomatically
+    D) Are drug resistant
+
+54. [mcq, 1 pt] A declining case fatality rate over time most likely indicates:
+    A) Increased transmission
+    B) Improved treatment
+    C) Increased virulence
+    D) Poor surveillance
+
+55. [mcq, 1 pt] Surveillance data is MOST useful for:
+    A) Diagnosing individuals
+    B) Tracking disease trends
+    C) Determining causation
+    D) Estimating incubation period
+
+56. [mcq, 1 pt] High incidence but low prevalence suggests a disease is:
+    A) Chronic
+    B) Acute and short-lived
+    C) Endemic
+    D) Eradicated
+
+57. [mcq, 1 pt] In epidemiology, the independent variable is typically the:
+    A) Outcome
+    B) Exposure
+    C) Confounder
+    D) Effect modifier
+
+58. [mcq, 1 pt] Which of the following is NOT a pathogen?
+    A) Virus
+    B) Bacterium
+    C) Antibody
+    D) Protozoan
+
+59. [mcq, 1 pt] The most cost-effective public health intervention is usually:
+    A) Mass treatment
+    B) Vaccination
+    C) Hospitalization
+    D) Isolation
+
+60. [mcq, 1 pt] Morbidity refers to:
+    A) Death rate
+    B) Disease occurrence
+    C) Transmission rate
+    D) Recovery time

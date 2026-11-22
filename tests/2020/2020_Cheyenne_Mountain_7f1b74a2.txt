@@ -1,0 +1,377 @@
+Cheyenne Mountain — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  91 questions, 122.0 pts
+Source: scio.ly test archive id 7f1b74a2-55b9-406a-8d48-a572ac1dbe80  |  original files: https://drive.google.com/drive/folders/1Qrfrd9Qx6SvRbcRwKqQ81GR25AlqBgHA
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: DO NOT WRITE ON THIS TEST – RECORD ANSWERS ON YOUR ANSWER SHEET. Correct significant figures are required for full credit for computational problems on this test.
+
+
+=== Section I: Background and Surveillance ===
+
+1. [frq, 2 pt] Disease Detectives is an event focused on epidemiology which is the study of the ____ (frequency and pattern) and ____ (causes and other factors that influence the occurrence of disease) of health-related states or events in specific populations, and the application of this study to the control of health problems. (Provide correct terms.)
+
+2. [frq, 2 pt] The ____ approach to health care is focused on the health of the individual while the ____ approach to health care focuses on the health of the population.
+
+[STIMULUS] For questions 3-5, fill in the century with an ordinal (such as 21st) number, name and disease.
+
+3. [frq, 3 pt] In the late ____ century, ____ developed a vaccine for smallpox based on the disease ____.
+
+4. [frq, 3 pt] In the late ____ century, ____ developed a vaccine for ____, a bacterial disease that affects wild and domesticated animals often causing sudden death, and can infect people with gastrointestinal, black sores on skin, and lung symptoms.
+
+5. [frq, 3 pt] In the mid-____ century, ____ removed the pump handle of the Broad Street (London) water pump, stopping the spread of a ____ epidemic.
+
+6. [frq, 1 pt] The diagram below question 7 shows the ____ of a communicable condition in a patient.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p1_rc1ab2f9-c8f072c0.webp]
+
+[STIMULUS] Label the phases and events that occur in this progression of a disease (a through e), assuming that the person does not die from the disease. The vertical blue line represents when the person first feels ill. Choose from these words (not all words are used): agent, confidence interval, diagnosis, droplet spread, medical care sought, onset, signs and symptoms, surveillance, transmission, treatment.
+
+**Preclinical Phase Clinical Phase**
+
+**Time moves left to right**
+
+7a. [frq, 1 pt] Label phase/event a.
+
+7b. [frq, 1 pt] Label phase/event b.
+
+7c. [frq, 1 pt] Label phase/event c.
+
+7d. [frq, 1 pt] Label phase/event d.
+
+7e. [frq, 1 pt] Label phase/event e.
+
+[STIMULUS] What are the four steps in solving health problems? Each correct answer is one or two words.
+
+8a. [frq, 1 pt] Step 1:
+
+8b. [frq, 1 pt] Step 2:
+
+8c. [frq, 1 pt] Step 3:
+
+8d. [frq, 1 pt] Step 4:
+
+9. [frq, 1 pt] ____ is the systematic collection, analysis, and dissemination of disease data about groups of people and is designed to detect early signs of disease. Its primary purpose is the prevention of disease and injury.
+
+[STIMULUS] For questions 10 through 14, consider these terms. You may use a term once, more than once or not at all. **Analytical, classical, clinical, descriptive**
+
+10. [mcq, 1 pt] ____ epidemiology leads to the development of hypotheses of health-related events.
+    A) Analytical
+    B) Classical
+    C) Clinical
+    D) Descriptive
+
+11. [mcq, 1 pt] ____ epidemiology requires a control group that lacks either the exposure or the outcome.
+    A) Analytical
+    B) Classical
+    C) Clinical
+    D) Descriptive
+
+12. [mcq, 1 pt] ____ epidemiology studies patients in health care settings to develop better techniques for diagnosing and treating both chronic conditions and infectious diseases.
+    A) Analytical
+    B) Classical
+    C) Clinical
+    D) Descriptive
+
+13. [mcq, 1 pt] ____ epidemiology identifies the timeframe of an outbreak, but does not determine the cause.
+    A) Analytical
+    B) Classical
+    C) Clinical
+    D) Descriptive
+
+14. [mcq, 1 pt] ____ epidemiology focuses on origins of health problems related to nutrition, human behavior, and the environment.
+    A) Analytical
+    B) Classical
+    C) Clinical
+    D) Descriptive
+
+15. [tf, 1 pt] True or False: A person's health behavior is much more likely to affect his/her overall health than his/her genetics.
+    A) True
+    B) False
+
+[STIMULUS] Identify these infectious agents. Choose from: algae, bacteria, fungi, prions, protozoa, virus, worms for each of the six photos below.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_d096e4-3726988f.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_bdee80-6a148e03.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_109149-117361aa.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_e75e5f-33f3e70b.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_24fcf2-68100136.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p2_da939d-421b6aeb.webp]
+
+16a. [mcq, 1 pt] Identify the infectious agent in photo a.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+16b. [mcq, 1 pt] Identify the infectious agent in photo b.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+16c. [mcq, 1 pt] Identify the infectious agent in photo c.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+16d. [mcq, 1 pt] Identify the infectious agent in photo d.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+16e. [mcq, 1 pt] Identify the infectious agent in photo e.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+16f. [mcq, 1 pt] Identify the infectious agent in photo f.
+    A) algae
+    B) bacteria
+    C) fungi
+    D) prions
+    E) protozoa
+    F) virus
+    G) worms
+
+17. [frq, 1 pt] What do we call the concept illustrated below?
+
+19. [frq, 1 pt] A/an ____ is an aggregation of cases in a geographic area over a limited period of time.
+
+20. [frq, 1 pt] A/an ____ is an inanimate object that serves to transfer an infectious agent from one host to another.
+
+21. [frq, 1 pt] A/an ____ individual is at risk of developing a particular outcome.
+
+22. [frq, 1 pt] When a person develops clinical disease from an infectious agent, which comes first: contamination or infection?
+
+23. [frq, 1 pt] ____ refers to the proportion of infected people who develop clinical disease.
+
+
+=== Section II: Outbreak Investigation ===
+
+24. [frq, 2 pt] What does a negative relative risk tell you?
+
+25. [numeric, 1 pt] A study starts with 50,000 people. Of these, 1250 are determined to have the outcome being studied. What is the prevalence rate of the outcome expressed in cases per thousand?
+
+[STIMULUS] Researchers believed that vitamin usage might be a confounder in this study. They collected data from the men in the study to create the following two contingency tables.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p4_58feb7-c7f0c93a.webp]
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p4_39d0ac-f09ceb7c.webp]
+
+27. [numeric, 2 pt] What percent of the men eating a low-fat diet took vitamins?
+
+28. [numeric, 2 pt] What percent of all study participants took vitamins?
+
+29. [frq, 3 pt] Is vitamin usage an independent risk factor or a protective factor for colon cancer? Explain your answer.
+
+30. [frq, 6 pt] Is vitamin usage a confounder for colon cancer? Support your answer.
+
+[STIMULUS] The chart above gives numbers of people suffering gastrointestinal symptoms soon after a community Thanksgiving dinner.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p5_23c22d-0156de8c.webp]
+
+31. [mcq, 1 pt] Epidemiologists noticed that sandwich eaters had fewer reported illnesses than those who did not eat sandwiches. Sandwiches were said to have a/an ____ effect.
+    A) Attributable
+    B) Indirect
+    C) Inverse
+    D) Predictive
+    E) Protective
+
+32. [numeric, 2 pt] What is the relative risk for eating rolls?
+
+[STIMULUS] Epidemiologists collected data about the set of foods each person at the dinner ate as it is rare for a person to eat just one food at a meal. They constructed the following table. Questions on next page.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p5_bd5717-c94ff785.webp]
+
+33. [mcq, 1 pt] Which food(s) was/were most likely to have been contaminated?
+    A) Turkey only
+    B) Potatoes and gravy only
+    C) Both turkey and potatoes with gravy were equally correlated with the symptoms
+    D) Neither turkey nor potatoes and gravy; another food is more strongly correlated with the symptoms
+    E) Not enough data is given in the above chart to draw a conclusion
+
+[STIMULUS] The chart above compares lung cancer death rates among current cigarette (tobacco) smokers, ex-smokers who quit smoking, and non-smokers who have never smoked.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p6_56a0ea-8bf686b8.webp]
+
+34. [numeric, 2 pt] Find the relative risk of lung cancer deaths comparing current smokers and non-smokers using the above data.
+
+35. [numeric, 2 pt] Find the relative risk of lung cancer deaths comparing current smokers with ex-smokers who have not smoked in at least 20 years using the above data.
+
+36. [frq, 2 pt] In one sentence, give the public health implications of the answers you found in the previous two questions.
+
+[STIMULUS] In a different study of smoking and lung cancer, the lung cancer mortality rate among nonsmokers was 0.07 per 1000 persons per year. The lung cancer mortality rate among smokers (1-14 cigarettes per day) was 0.57 per 1000 persons per year.
+
+37. [numeric, 2 pt] Calculate the attributable proportion to show what percentage of lung cancer cases are attributed to cigarette smoking.
+
+38. [frq, 2 pt] Write one or two sentences that explains the meaning of the calculation you just performed (or attempted to perform).
+
+[STIMULUS] For questions 39 - 42, complete each sentence with a study design type.
+
+39. [frq, 1 pt] A/an ____ study is good for researching rare outcomes and allows researchers to study more than one exposure simultaneously.
+
+40. [frq, 1 pt] A/an ____ study assesses both exposure and outcome at a certain point of time.
+
+41. [frq, 1 pt] A/an ____ compares the exposure or outcome status of two different groups of people (geographically or temporally different) and is useful for generating hypotheses.
+
+42. [frq, 1 pt] A/an ____ study compares an exposed group of people to an unexposed group of people and can be either prospective or retrospective.
+
+43. [mcq, 1 pt] Bradford-Hill criteria are used to:
+    A) Creating a framework for lab confirmation of localized outbreaks
+    B) Confirming the statistical strength of an analytical study
+    C) Eliminating the amount of bias in an observational study
+    D) Establishing evidence of a causal relationship between a presumed cause and an observed outcome
+
+44. [mcq, 1 pt] When writing a case definition for an outbreak, epidemiologists often start with a more ____ case definition and later create one that is more ____.
+    A) sensitive, specific
+    B) specific, sensitive
+
+
+=== Section III: Patterns, Control and Prevention ===
+
+[STIMULUS] What type of prevention (primordial, primary, secondary, tertiary) is each example below?
+
+45a. [frq, 1 pt] Colonoscopy for cancer detection
+
+45b. [frq, 1 pt] Tetanus immunization
+
+45c. [frq, 1 pt] Rehabilitation program after knee surgery
+
+45d. [frq, 1 pt] Educating children to prevent tobacco use
+
+45e. [frq, 1 pt] Starting to exercise in someone who has been sedentary but otherwise healthy
+
+45f. [frq, 1 pt] Screening for high blood pressure
+
+45g. [frq, 1 pt] Physical education to prevent obesity
+
+45h. [frq, 1 pt] Getting fitted for a prosthetic leg
+
+45i. [frq, 1 pt] Going to the doctor to figure out why you have a fever
+
+46. [frq, 1 pt] ____ is the probability that an individual will be affected by, or die from, an illness or injury within a stated age span or time span.
+
+47. [frq, 2 pt] Name two diseases that have been eradicated.
+
+48a. [frq, 1 pt] Give the four levels of disease control: ____ includes individual safety and health habits as well as vector reduction.
+
+48b. [frq, 1 pt] Give the four levels of disease control: ____ is accomplished through deliberate efforts to reduce incidence to zero in a specific, defined geographic area.
+
+48c. [frq, 1 pt] Give the four levels of disease control: ____ is termination of all transmission of the infectious agent.
+
+48d. [frq, 1 pt] Give the four levels of disease control: ____ occurs when the agent no longer exists in nature or in any lab.
+
+49. [frq, 2 pt] ____ is restricting the movement of an ill person while ____ is restricting the movement of exposed individuals who may or may not be infected.
+
+[STIMULUS] Use the graph below to answer questions about the outbreak it represents:
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p8_b4b925-923ca24a.webp]
+
+50. [numeric, 1 pt] How many cases of this disease occurred during the outbreak?
+
+51. [frq, 1 pt] What do epidemiologists call this type of graph?
+
+52. [mcq, 1 pt] The shape of this graph suggests:
+    A) Common continuous source epidemic
+    B) Intermittent continuous source epidemic
+    C) Point source epidemic
+    D) Propagated epidemic
+
+53. [frq, 2 pt] Not knowing the pathogen of this outbreak, what do you think the average incubation period is and why?
+
+54. [mcq, 1 pt] What do we call the person whose illness began the week of 6/23 if we assume that this graph represents all the affected people in the population of interest and that the individual who became ill on 6/23 was the first noticed by health authorities?
+    A) Index case but not primary case
+    B) Both index case and primary case
+    C) Primary case but not index case
+
+[STIMULUS] In a certain city, melanoma rates have remained constant for three decade, as has the city's population. A new treatment prolongs the life of those with melanoma has been released to the public and some melanoma patients in the city will be receiving the new treatment.
+
+55. [mcq, 1 pt] What will likely happen to the incidence rate of melanoma in this city in the coming years?
+    A) Increase
+    B) Decrease
+    C) Remain the same
+
+56. [mcq, 1 pt] What will likely happen to the prevalence rate of melanoma in this city in the coming years?
+    A) Increase
+    B) Decrease
+    C) Remain the same
+
+[STIMULUS] A decade after the new treatment was introduced, new preventative measures were introduced to the people in the city reducing the risk of developing melanoma in the first place.
+
+57. [mcq, 1 pt] What now will likely happen to the incidence rate of melanoma in this city?
+    A) Increase
+    B) Decrease
+    C) Stay the same
+
+58. [mcq, 1 pt] What now will likely happen to the prevalence rate of melanoma in this city?
+    A) Increase
+    B) Decrease
+    C) Stay the same
+
+59. [frq, 1 pt] ____ is any systematic error in an epidemiological study that results in an incorrect estimate of the true effect of an exposure on the outcome of interest.
+
+60. [tf, 1 pt] When using interviewers in a study, be sure they understand the hypothesis in question so that they do not unintentionally introduce interviewer bias.
+    A) True
+    B) False
+
+61. [tf, 1 pt] Recall bias may occur when the information provided on the exposure in question varies between the controls and the cases.
+    A) True
+    B) False
+
+62. [tf, 1 pt] Loss to follow-up is more likely to occur in case-control studies than in cohort studies, making cohort studies statistically stronger than case-control.
+    A) True
+    B) False
+
+63. [tf, 1 pt] Selection bias is more likely to occur in case-control studies than in cohort studies due to the methods used in selecting participants for the study.
+    A) True
+    B) False
+
+64. [tf, 1 pt] The Healthy Worker effect is more likely to skew data in descriptive studies than in analytic studies.
+    A) True
+    B) False
+
+65. [tf, 1 pt] For a factor to be a confounder, it must be present in equal proportions in both the group with the outcome and the group without the outcome.
+    A) True
+    B) False
+
+66. [tf, 1 pt] In a population-based primary prevention approach, preventative measures are applied to a small segment of the population, resulting in small, but measurable, improvements in the segment's overall health.
+    A) True
+    B) False
+
+67. [frq, 1 pt] The first step in the control of a disease is ____.
+
+[STIMULUS] The following data is from Cancer Statistics, 2017 by Siegel, Miller, and Jemal.
+    [IMAGE: ../images/2020_cheyenne_mountain_c__p10_576a76-6c2d3545.webp]
+
+68. [frq, 3 pt] If the USA has equal amounts of males and females, how much more likely is a male to die of colorectal cancer than a female? State your answer in the form of a sentence.
+
+[STIMULUS] According to USA Census estimations, the USA population in 2014 can be broken down as follows:
+    | Age in Years | 0 – 19/82.136 | 20 – 39/86.350 | 40 – 59/85.562 | 60 – 79/52.887 | 80 and up/11.923 |
+    | 2014 Population in millions |  |  |  |  |  |
+
+69. [numeric, 3 pt] What is the risk of death by cancer of a child, through age 19, in the USA in 2014, expressed in deaths per 100,000?
+
+[STIMULUS] CDC data on the ten leading causes of 2016 USA child and adolescent death is below, except that cancer deaths, which should be on the table, are omitted. (Assume 2014 rates are equal to 2016 rates.)
+    |  | Cause of Death, in order of number | Annual death rate, ages 0 – 19, USA, per 100,000 |
+    |  | 1 All causes (including those not in top 10) | 26.06 |
+    |  | 2 Injuries besides those listed below | 6.56 |
+    |  | 3 Motor vehicle crash | 5.21 |
+    |  | 4 Firearm-related (incl. suicide, accident) | 4.02 |
+    |  | 5 Suffocation (incl. suicide, bed-sharing) | 1.83 |
+    |  | 6 Drowning | 1.27 |
+    |  | 7 Drug overdose or poisoning (incl. suicide) | 1.26 |
+    |  | 8 Congenital abnormalities (birth defects) | 1.25 |
+    |  | 9 Heart disease | 0.99 |
+    |  | 10 Fire or burns | 0.44 |
+    |  | 11 Chronic lower respiratory disease | 0.35 |
+
+70. [frq, 1 pt] Between which two rows (use numbers on left of table) would cancer belong, to complete the table?

@@ -1,0 +1,645 @@
+North Pocono Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  58 questions, 109.0 pts
+Source: scio.ly test archive id 327560b3-7dfc-430f-a827-cccbc8bcdf1c  |  original files: https://drive.google.com/drive/folders/17vIUN2TB60Oh-6JSeQYsUoGhbGhyrTPs
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: Directions:
+● Questions consist of multiple choice, matching, and open-ended questions.
+
+
+=== Multiple Choice ===
+
+1. [mcq, 1 pt] Which of the following is **not** a characteristic of infectious agents?
+    A) Pathogenicity
+    B) Virulence
+    C) Prevalence
+
+2. [mcq, 1 pt] Which of the following correctly describes the relationship between a pandemic and an epidemic?
+    A) An epidemic is present globally or in multiple countries while a pandemic is present in a community
+    B) A pandemic is present globally or in multiple countries while an epidemic is present in a community
+    C) Both a pandemic and an epidemic are present globally; however, an epidemic involves a virus
+    D) Both a pandemic and an epidemic are present globally; however, a pandemic involves a virus
+
+3. [mcq, 1 pt] Kyle recently broke his leg and was staying at a hospital while he was recovering. Less than 48 hours after eating his first meal, he experienced symptoms of vomiting, diarrhea, and stomach cramping. Which type of disease is he experiencing?
+    A) Iatrogenic Disease
+    B) Nosocomial Disease
+    C) Both
+    D) Neither
+
+4. [mcq, 1 pt] What is the difference between morbidity and mortality?
+    A) Mortality refers to the rate of disease present in a population while Morbidity refers to the rate of death due to disease present in a population.
+    B) Morbidity refers to the rate of disease present in a population while Mortality refers to the rate of death due to disease present in a population.
+    C) Mortality and Morbidity both refer to rate of death due to disease in a population
+    D) Mortality and Morbidity both refer to rate of disease present in a population
+
+[STIMULUS] For questions 5-10, list the type of prevention described
+
+6. [mcq, 1 pt] Chemotherapy to treat patient diagnosed with cancer
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+9. [mcq, 1 pt] Receiving flu vaccines every year
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+10. [mcq, 1 pt] If a patient is displaying unexplained symptoms, health officials refrains from using potentially harmful medications or treatment
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+[STIMULUS] For questions 11-15, use the following table of Natural History and Spectrum of Disease to match the corresponding definitions to the letter - 1 point for each correct answer
+
+A. Stage of Recovery, Disability, or Death
+B. Pathologic Changes
+C. Stage of Susceptibility
+D. Stage of Subclinical Disease
+E. Usual Time of Diagnosis
+    [IMAGE: ../images/2023_north_pocono_invitational_c__p5_6a7000-05120fef.webp]
+
+11. [mcq, 1 pt] Match the corresponding definition to box 1 of the diagram
+    A) Stage of Recovery, Disability, or Death
+    B) Pathologic Changes
+    C) Stage of Susceptibility
+    D) Stage of Subclinical Disease
+    E) Usual Time of Diagnosis
+
+12. [mcq, 1 pt] Match the corresponding definition to box 2 of the diagram
+    A) Stage of Recovery, Disability, or Death
+    B) Pathologic Changes
+    C) Stage of Susceptibility
+    D) Stage of Subclinical Disease
+    E) Usual Time of Diagnosis
+
+13. [mcq, 1 pt] Match the corresponding definition to box 3 of the diagram
+    A) Stage of Recovery, Disability, or Death
+    B) Pathologic Changes
+    C) Stage of Susceptibility
+    D) Stage of Subclinical Disease
+    E) Usual Time of Diagnosis
+
+14. [mcq, 1 pt] Match the corresponding definition to box 4 of the diagram
+    A) Stage of Recovery, Disability, or Death
+    B) Pathologic Changes
+    C) Stage of Susceptibility
+    D) Stage of Subclinical Disease
+    E) Usual Time of Diagnosis
+
+15. [mcq, 1 pt] Match the corresponding definition to box 5 of the diagram
+    A) Stage of Recovery, Disability, or Death
+    B) Pathologic Changes
+    C) Stage of Susceptibility
+    D) Stage of Subclinical Disease
+    E) Usual Time of Diagnosis
+
+16. [mcq, 1 pt] From which stage of the Natural History and Spectrum of Disease would tertiary prevention begin?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery, Disability, or Death
+
+[STIMULUS] For questions 17-19, use the epidemic curve below to answer.
+    [IMAGE: ../images/2023_north_pocono_invitational_c__p6_f4d043-06942c66.webp]
+
+17. [mcq, 1 pt] What would the curve represent, based on its trends?
+    A) An outbreak of Covid-19 in Tianjin
+    B) An outbreak of the influenza virus during the holiday season
+    C) A cholera outbreak due to a chemical dump in a roadside spring.
+    D) An outbreak of RSV as several people return home from an oversea vacation
+    E) An outbreak of conjunctivitis during a wedding reception
+
+18. [mcq, 1 pt] What type of epidemic curve is shown in the graph?
+    A) Point source
+    B) Promulgated common source
+    C) Continuous common source
+    D) Intermittent common source
+    E) Propagated
+
+19. [mcq, 1 pt] What is the likely time of exposure?
+    A) Day 21
+    B) Day 27
+    C) Day 2
+    D) Day 11
+    E) None of the above
+
+[STIMULUS] For questions 20-39 match the definition with the term - 1 point for each correct answer
+
+A. Outbreak
+B. Index Case
+C. Nosocomial Disease
+D. Plague
+E. Cluster
+F. Attributable Proportion
+G. Fomite
+H. Virus
+I. Antigen
+J. Convalescent Carrier
+K. Determinant
+L. Vector
+M. Prion
+N. Iatrogenic Disease
+O. Fulminant Disease
+P. Bacteremia
+Q. Zoonosis
+R. Inoculation
+S. Idiopathic Disease
+T. Etiology
+
+20. [mcq, 1 pt] Match the definition with the term: infection that is acquired in a hospital
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+21. [mcq, 1 pt] Match the definition with the term: Study of the cause of a disease
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+22. [mcq, 1 pt] Match the definition with the term: Any factor that brings about change in a health condition or in other defined characteristics
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+23. [mcq, 1 pt] Match the definition with the term: Disease or condition which arises spontaneously
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+24. [mcq, 1 pt] Match the definition with the term: increase of immunity by introducing an infective agent as a vaccine
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+25. [mcq, 1 pt] Match the definition with the term: person that recovers from an illness, but is still contagious
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+26. [mcq, 1 pt] Match the definition with the term: Sudden rise in number of cases of disease
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+27. [mcq, 1 pt] Match the definition with the term: Small numbers of bacteria present in blood not necessarily multiplying
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+28. [mcq, 1 pt] Match the definition with the term: The first case or instance of a patient coming to the attention of health authorities
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+29. [mcq, 1 pt] Match the definition with the term: A physical object that serves to transmit an infectious agent from person to person
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+30. [mcq, 1 pt] Match the definition with the term: illness that is caused by a medication or physician
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+31. [mcq, 1 pt] Match the definition with the term: Sudden and severe onset
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+32. [mcq, 1 pt] Match the definition with the term: An infectious disease that is transmissible from animals to humans
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+33. [mcq, 1 pt] Match the definition with the term: An aggregation of cases over a particular period closely grouped in time and space
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+34. [mcq, 1 pt] Match the definition with the term: toxin or other foreign substance which induces an immune response in the body
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+35. [mcq, 1 pt] Match the definition with the term: small infectious agent that can only replicate inside the cells of other organisms
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+36. [mcq, 1 pt] Match the definition with the term: An animal that transmits disease but is not the cause of the disease itself
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+37. [mcq, 1 pt] Match the definition with the term: able to induce abnormal folding of specific normal cellular proteins
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+38. [mcq, 1 pt] Match the definition with the term: A measure of the impact of a causative factor on the public health
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+39. [mcq, 1 pt] Match the definition with the term: A serious, potentially life-threatening infectious disease that is usually transmitted to humans by the bites of rodent fleas
+    A) Outbreak
+    B) Index Case
+    C) Nosocomial Disease
+    D) Plague
+    E) Cluster
+    F) Attributable Proportion
+    G) Fomite
+    H) Virus
+    I) Antigen
+    J) Convalescent Carrier
+    K) Determinant
+    L) Vector
+    M) Prion
+    N) Iatrogenic Disease
+    O) Fulminant Disease
+    P) Bacteremia
+    Q) Zoonosis
+    R) Inoculation
+    S) Idiopathic Disease
+    T) Etiology
+
+
+=== Short Answer ===
+
+[STIMULUS] 302 people attended a party on August 16, 2022. Of those 302, 198 people ate hamburgers, 193 ate hotdogs, 164 ate salad, and 122 ate meatballs. 237 of these people were diagnosed with Norovirus. Of these 237, 184 people ate hamburgers, 159 ate hotdogs, 136 ate salad, and 92 ate meatballs.
+
+40. [frq, 4 pt] Create a two-by-two table for hamburger food variable
+
+41. [frq, 3 pt] Calculate the attack ratio of the exposed for the hamburger food variable (round to nearest tenth of a percent)
+
+42. [frq, 4 pt] Create a two-by-two table for hotdog food variable
+
+43. [frq, 3 pt] Calculate the attack ratio of the unexposed for the hotdog food variable (round to nearest tenth of a percent)
+
+45. [frq, 3 pt] Calculate the attack rate of the exposed for the salad food variable (round to nearest tenth percent)
+
+46. [frq, 4 pt] Create a two-by-two table for meatball food variable
+
+47. [frq, 3 pt] Calculate the attack rate of the unexposed for the salad food variable (round to nearest tenth)
+
+48. [frq, 3 pt] Salmonellosis is a bacterial infectious disease most commonly spread by the fecal-oral route. Propose a plausible chain of infection for salmonellosis, including all relevant components of a complete chain of infection.
+
+49. [frq, 4.5 pt] List Hill's 9 criteria for causation
+
+50. [frq, 3 pt] 3 days after eating food contaminated with salmonellosis, individuals display symptoms of salmonellosis. Which of Hill's criteria is satisfied by this information?
+
+51. [frq, 3 pt] In the five major cruise ship salmonellosis outbreaks of 2021, Salmonella bacteria could be isolated from stool samples of nearly all affected individuals. Which of Hill's criteria is satisfied by this information?
+
+53. [frq, 3 pt] What does the attack rate represent?
+
+54. [frq, 4.5 pt] What does the mnemonic device FAT TOM stand for? What does it explain?
+
+55. [frq, 3 pt] List 3 advantages and 3 disadvantages of a Cohort Study
+
+[STIMULUS] Use the following case
+
+On October 20, 2022 Nicole went to North Pocono High School infected with Covid-19; she talked to 17 out of 30 total people in her biology class. Afterwards, 15 of the people she talked to experienced symptoms of covid-19, and 1 person she did not talk to developed symptoms of covid-19.
+
+56. [frq, 4 pt] Use the case to make a two by two table for Covid-19
+
+57. [frq, 3 pt] What is the attack rate of the exposed? (to nearest tenth percent)
+
+58. [frq, 3 pt] What is the attack rate of the unexposed? (to nearest tenth percent)
+
+59. [frq, 3 pt] Calculate the relative risk (to nearest tenth)
+
+60. [frq, 3 pt] What does the relative risk you answered in the previous question mean in relation to the risk factor?
+
+61. [frq, 3 pt] How might North Pocono High School prevent the further spread of Covid-19 to other individuals? Provide 3 strategies of prevention.
+
+62. [frq, 3 pt] What type of prevention is being suggested in question 61?
+
+63. [frq, 3 pt] What is a long term method of preventing the spread of Covid-19?

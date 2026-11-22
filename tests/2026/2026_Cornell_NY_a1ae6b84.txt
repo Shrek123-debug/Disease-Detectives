@@ -1,0 +1,433 @@
+Cornell - NY — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  74 questions, 110.5 pts
+Source: scio.ly test archive id a1ae6b84-087f-4ce3-95f2-8fccfb76185a
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+
+=== Multiple Choice/fill in the blank /39.5 ===
+
+1. [mcq, 1 pt] Which of the following of Koch's postulates are not applicable to viral pathogens specifically? Choose the best answer.
+    A) The microorganism must be found in abundance in all organisms suffering from the disease but should not be found in healthy organisms.
+    B) The microorganism must be isolated from a diseased organism and grown in pure culture.
+    C) The cultured microorganism should cause disease when introduced into a healthy organism.
+    D) The microorganism must be re-isolated from the inoculated, diseased experimental host and identified as being identical to the original specific causative agent
+
+[STIMULUS] The hypothetical virus XF5U-1 was introduced into Cornell through imported metal. Described below is the path it takes in one person:
+
+While walking out of the library, George had a cut on his finger, and touched a metal railing. He then began showing signs of inflammation after several days at the site of his cut. Although it goes away, he periodically experiences symptoms such as joint pain, coughs, and a fever that start and stop. In periods where he is not experiencing symptoms, he gets his roommates sick with the same virus.
+
+3. [frq, 1 pt] The metal railing may best be described as a ____
+
+4. [frq, 1 pt] The time between his contact with the railing and signs of inflammation ____
+
+5. [frq, 1 pt] His infection may be best described as ____
+
+6. [frq, 1 pt] When he is asymptomatic and gets his roommates sick, this is best described as ____
+
+7. [frq, 1.5 pt] Identify all three parts of the epidemiological triad from this scenario, and include which part of the triad it is.
+
+8. [multi, 2 pt] Based on the following descriptions, which of the following correctly compares and contrasts the odds ratio and relative risk? Select all that apply.
+    A) The odds ratio is a measure of morbidity, while the relative risk is a measure of mortality
+    B) The relative risk is a measure of morbidity, while the odds ratio is a measure of mortality
+    C) The odds ratio is better suited for cohort studies
+    D) The relative risk is better suited for cohort studies
+    E) None of the above are true
+
+9. [mcq, 1 pt] Paralytic shellfish poisoning (PSP) is an event that can occur when saxitoxin, which is produced by dinoflagellates and accumulates in shellfish, is ingested. Which of the following experimental methods would be best for investigating the source of a PSP outbreak?
+    A) Culturing dinoflagellates local to the ecosystem
+    B) An experiment where rats are exposed to dinoflagellates to observe the effects the bacteria have on the rats
+    C) An experiment where shellfish are exposed to dinoflagellates for prolonged periods of time
+    D) Genetic analysis of dinoflagellates
+    E) Creating a cluster map of the seashore marketplace
+
+[STIMULUS] In the city of Ithaca, which has a population of about 34,000 people, influenza is an annual occurrence. However, not everyone is able to get an influenza vaccine. Thus, herd immunity is an important factor in protecting the entire population from illness. Assume that one person with influenza is able to infect (on average) 3.5 other people.
+
+10. [frq, 1.5 pt] There are a few different kinds of influenza vaccines that may be administered. List three.
+
+11. [numeric, 1 pt] Calculate the number of people in Ithaca who must be vaccinated to reach the herd immunity threshold.
+
+12. [frq, 1.5 pt] A few assumptions were made in the calculation in the previous question. List three assumptions that were made.
+
+13. [mcq, 2 pt] Which of the following about the pulsed-field gel electrophoresis pictured below is true?
+    
+    (Yeung&Gorn, 2021. https://doi.org/10.3390/idr13030056)
+    
+    i. It is likely that samples 1-6 come from different species
+    ii. The first band of samples 4-6 is a shorter fragment than the first band of samples 1-3
+    iii. The first band of samples 4-6 is a longer fragment than the first band of samples 1-3
+    iv. It is likely that samples 1-3 are from one patient, and samples 4-6 are from another patient
+    [IMAGE: ../images/2026_cornell_ny_c__p4_940c4c-c6185597.webp]
+    A) i and iii
+    B) iii and iv
+    C) ii, iii, and iv
+    D) None of the above are probable
+
+14. [mcq, 1 pt] PulseNet is NOT as effective of a tool for identifying which of the following sources of outbreaks?
+    
+    i. Viral
+    ii. Bacterial
+    iii. Prion
+    A) i and ii
+    B) i and iii
+    C) ii and iii
+    D) Only i
+    E) Only ii
+    F) Only iii
+
+[STIMULUS] The following map was developed by John Snow to visualize deaths from cholera in 1854.
+    [IMAGE: ../images/2026_cornell_ny_c__p5_34522f-2ea1431a.webp]
+
+15. [frq, 1 pt] This type of map is called what?
+
+16. [multi, 2 pt] This type of map is particularly useful for demonstrating what?
+    A) Geographic location of exposure of each case-patient
+    B) Residence of each case-patient
+    C) Incidence rate of disease by area
+    D) Prevalence rate of disease by area
+    E) None of the above
+
+17. [mcq, 1 pt] Which of the following series would most likely make use of a geometric mean?
+    
+    I. 2, 3, 4, 6, 7, 8, 9, 10
+    II. 2, 4, 8, 16, 32, 64, 128
+    III. 2, 4, 6, 8, 10, 12, 14
+    IV. 1, 2, 3, 4, 16, 17, 18, 19
+    A) I and II
+    B) I and III
+    C) II and IV
+    D) Only II
+    E) Only IV
+
+[STIMULUS] Confronted with the following epi curve:
+    [IMAGE: ../images/2026_cornell_ny_c__p6_38278b-412293f7.webp]
+
+19. [frq, 1 pt] What kind of epi-curve best describes the curve?
+
+20. [mcq, 1 pt] I enjoy keeping my windows open in 0 ℃ weather for a few reasons. It keeps the room well ventilated, and the dorms can smell a little funny here sometimes. My mother tells me that cold weather is the reason I get sick, and I disagree. Which of the following is an experiment that controls for as many variables as possible that I could run to determine the reason I got sick? Choose the best answer.
+    A) Keep 100 rats in my room and keep another 100 in a 0 ℃ fridge for a week (with food and water)
+    B) Run tests on the dining hall food
+    C) Take 100 rats and put them in a 0 ℃ fridge for a week, and take another 100 rats and keep them at room temperature for a week (with food and water)
+    D) Put 10 people outside in 0 ℃, and 10 people inside for a week (with food and water)
+    E) Do a standard sputum culture on mucus from my lungs
+
+[STIMULUS] Classify the following as either primordial, primary, secondary, tertiary, or quaternary prevention.
+    | Program | Classification |
+    | Programs promoting healthy eating | [[q:21a]] |
+    | Mandatory mammograms for breast cancer screening | [[q:21b]] |
+    | Receiving the flu shot yearly | [[q:21c]] |
+    | Educating about the dangers of the overuse of antibiotics | [[q:21d]] |
+    | Treating an infection with antibiotics | [[q:21e]] |
+
+21a. [mcq, 1 pt] Programs promoting healthy eating — Classification
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+    E) quaternary
+
+21b. [mcq, 1 pt] Mandatory mammograms for breast cancer screening — Classification
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+    E) quaternary
+
+21c. [mcq, 1 pt] Receiving the flu shot yearly — Classification
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+    E) quaternary
+
+21d. [mcq, 1 pt] Educating about the dangers of the overuse of antibiotics — Classification
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+    E) quaternary
+
+21e. [frq, 1 pt] Treating an infection with antibiotics — Classification
+
+[STIMULUS] Classify the following as either a clinical or public health approach.
+    | Program | Classification |
+    | A doctor prescribes insulin for a patient with diabetes | [[q:22a]] |
+    | Schools implement exercise programs to reduce childhood obesity | [[q:22b]] |
+    | A nurse gives a COVID vaccine to a patient | [[q:22c]] |
+    | A city bans smoking in indoor areas | [[q:22d]] |
+
+22a. [mcq, 1 pt] A doctor prescribes insulin for a patient with diabetes — Classification
+    A) clinical
+    B) public health
+
+22b. [mcq, 1 pt] Schools implement exercise programs to reduce childhood obesity — Classification
+    A) clinical
+    B) public health
+
+22c. [mcq, 1 pt] A nurse gives a COVID vaccine to a patient — Classification
+    A) clinical
+    B) public health
+
+22d. [mcq, 1 pt] A city bans smoking in indoor areas — Classification
+    A) clinical
+    B) public health
+
+24. [frq, 2 pt] What is the difference between case fatality rate and mortality rate?
+
+25. [mcq, 1 pt] The stage of the natural history of a disease between exposure and the onset of symptoms can be referred to as any of the following EXCEPT:
+    A) Latency period
+    B) Stage of subclinical disease
+    C) Prodromal period
+    D) Incubation period
+
+
+=== Case Studies — Case Study #1 /10 ===
+
+29. [frq, 2 pt] Explain the difference between prospective and retrospective case studies. Are case control studies retrospective or prospective?
+
+
+=== Case Study #2 /5 ===
+
+[STIMULUS] Problems 30-32 refer to the following scenario: Eric goes to Taco Bell and orders a seven layer burrito. The next day, he begins to feel symptoms, including muscle soreness, weakness, and drowsiness. Eventually, the symptoms spread from his face, and to the rest of his upper body.
+
+30. [frq, 2 pt] What is the mode of transmission?
+
+32. [mcq, 1 pt] Which of the following is a possible agent of the disease?
+    A) Poliovirus
+    B) Clostridium botulinum
+    C) Hepatitis virus B
+    D) Hepatitis virus D
+    E) Vibrio Cholerae
+
+
+=== Case Study #3 /6 ===
+
+[STIMULUS] Case Study #3 data table.
+    | Patient | Date of Confirmed Case |
+    | Q221 | July 11th |
+    | Z312 | July 11th |
+    | A382 | July 12th |
+    | O210 | July 12th |
+    | B022 | July 12th |
+    | F232 | July 12th |
+    | S012 | July 13th |
+    | M117 | July 13th |
+    | L902 | July 14th |
+    | W120 | July 16th |
+
+33. [frq, 5 pt] Using the information from the table above, what type of epi curve would this data produce?
+
+34. [frq, 1 pt] Which patient represents the index case?
+
+
+=== Case Study #4 /12 ===
+
+[STIMULUS] A new variant of the covid-19 virus has been found within the United States. Reports have shown that exposure to this virus infected a lot of people within a small amount of time. However, only a small amount of the infected developed the disease. Within the affected, very few people developed life-threatening symptoms.
+
+35. [mcq, 1 pt] Is the virulence of this variant high or low?
+    A) high
+    B) low
+
+36. [mcq, 1 pt] Is the infectivity of this variant high or low?
+    A) high
+    B) low
+
+37. [mcq, 1 pt] Is the pathogenicity of this variant high or low?
+    A) high
+    B) low
+
+38. [numeric, 1 pt] If the R0 value of this variant is 24, calculate the herd immunity threshold (round to 2 sig figs).
+
+39. [mcq, 1 pt] Health facilities are monitoring people infected with the new variant in case of a development of symptoms. A select few hospitals for each state were monitored. What type of surveillance is being used here?
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+
+[STIMULUS] A new test for COVID is being researched. The following results from clinical trials are displayed in the following table:
+    [IMAGE: ../images/2026_cornell_ny_c__p12_a0ac17-2ff47a28.webp]
+
+40. [frq, 7 pt] Calculate the sensitivity and PPV of this test (round to 3 decimal places). What is the difference between sensitivity and PPV? What does PPV stand for?
+
+
+=== Case Study #5 /4 ===
+
+[STIMULUS] A new disease caused by the bacteria Saltato aeternum has spread throughout the Town of X in which everyone who contracts it spontaneously dances. This disease is highly contagious. The basic reproductive number for this disease is 3.5.
+
+41. [numeric, 2 pt] A vaccine is developed to prevent the spread of this bacteria. To test the success of the vaccine, a randomized controlled trial is performed on 30 people who had never contracted the disease prior to nor at the start of the trial from the population of X. ½ the people were vaccinated. Both groups were tracked for 3 weeks. Based on the following information, what is the vaccine efficacy of this vaccine? (Answer as a percent; round to the nearest decimal)
+    - 5 of the vaccinated individuals contracted the disease over the course of 3 weeks
+    - 13 of the unvaccinated individuals contracted the disease over the course of 3 weeks
+
+
+=== Case Study #6 /18.5 ===
+
+[STIMULUS] Suppose that in a lab studying Epstein-Barr Virus (an oncovirus), some of the people in the lab get lymphoma over the course of a month. Tasked with creating an experiment to determine what went wrong, you decide to round up everyone who worked in the lab, and separate them into people who got lymphoma and people who did not get lymphoma. Most of the people who got lymphoma worked with ethidium bromide, a known carcinogenic agent. Knowing this information, you do a matched case-control study.
+
+43. [mcq, 1 pt] What is this occurrence of lymphoma in the population best described as?
+    A) Pandemic
+    B) Epidemic
+    C) Accident
+    D) Exposure
+    E) Outbreak
+
+[STIMULUS] Tabulated are the results for a matched case-control study about if they were exposed to Epstein-Barr Virus (EBV), and for Ethidium Bromide (EB):
+
+Table 1: Matched case-control study for exposure to EBV
+
+| **Lymphoma Cases** ↓ / **Controls** → | Exposed (EBV) | Unexposed (EBV) | Total |
+|---|---|---|---|
+| Exposed (EBV) | 12 | 14 | 26 |
+| Unexposed (EBV) | 11 | 13 | 24 |
+| Total | 23 | 27 | 50 |
+
+Table 2: Matched case-control study for exposure to EB
+
+| **Lymphoma Cases** ↓ / **Controls** → | Exposed (EB) | Unexposed (EB) | Total |
+|---|---|---|---|
+| Exposed (EB) | 5 | 27 | 32 |
+| Unexposed (EB) | 12 | 6 | 18 |
+| Total | 17 | 33 | 50 |
+
+44a. [frq, 1 pt] How is a matched case-control study distinct from a normal case-control study?
+
+[STIMULUS] Calculate the Matched Odds Ratios for Table 1 and Table 2, respectively using discordant pairs only. Round to 2 decimal places.
+    | Label | Answer |
+    | Table 1 Matched odds ratio for Table 1 | [[q:44b-a]] |
+    | Table 2 Matched odds ratio for Table 2 | [[q:44b-b]] |
+
+44b-a. [frq, 2 pt] Table 1 Matched odds ratio for Table 1
+
+44b-b. [frq, 2 pt] Table 2 Matched odds ratio for Table 2
+
+44c. [frq, 2 pt] Compare the two matched odds ratios. What do they tell you?
+
+44d. [frq, 2 pt] Based on the information presented, which of the two agents is more likely to be the result of the lymphoma? Write down the significance test you used, and the proper agent.
+
+44e. [numeric, 1 pt] How many people worked in the lab in total?
+
+44f. [frq, 0.5 pt] If you can tell me why the selected causative agent from part d is carcinogenic, I will award 0.5 points.
+
+45. [multi, 3 pt] You next decide to perform an experiment (without accident, this time!) to definitively determine which agent caused the instances of cancer in the lab. Described below is the experiment:
+    
+    300 mice were exposed to Epstein-Barr virus through injection (group A), and another 300 were exposed to Ethidium Bromide in their food (group B). Concurrently, 300 other mice were raised in the same conditions, but were not exposed to EBV or EB (group C). They were all kept in isolation on 12 hour day-night cycles, and were observed over the course of two weeks.
+    
+    To confirm that Epstein-Barr virus was present in the mice over the two weeks, which of the following experimental methods would most likely help? Select all that apply:
+    A) Culturing in a selective cell-free growth media
+    B) Pulsed-gel electrophoresis
+    C) Blood cultures
+    D) SNP Mapping
+    E) Gram staining
+
+
+=== Case Study #7 /8 ===
+
+[STIMULUS] Suppose I have a colony of bacteria that I’ve been keeping as a pet in my dorm. Suddenly, illness begins spreading throughout Cornell, starting with my macroscopic roommate, and baseless accusations are leveled against my microscopic roommates. To try and prove the innocence of my bacterial buddies, I must run an experiment.
+
+47. [frq, 2 pt] A sputum culture is done with the pathogenic bacteria spreading throughout Cornell. They are sequenced, and have 98% of their genome in common with my bacterial buddies. What could be the reason for the 2% difference? Additionally, what database might I consult to identify the population of bacteria this is? (looking for two specific terms here!)
+
+48. [frq, 2 pt] Things are looking pretty bleak for us. But not all is lost. Luckily, I can use Koch’s postulate that “The microorganism must be found in abundance in all organisms suffering from the disease, but should not be found in healthy organisms.” in defense of myself. What is the problem with this postulate?
+
+49. [frq, 3 pt] In spite of my defense, my Resident Advisor comes and destroys my colony. However, he doesn’t wear proper PPE, and his immunocompromised pet flamingo gets infected. If the flamingo goes and transmits a disease to my immunocompromised resident advisor, what is this disease considered? Why are diseases of this type often more dangerous than diseases that only infect humans?
+
+50. [frq, 1 pt] What type of graph is the following picture known as?
+    [IMAGE: ../images/2026_cornell_ny_c__p18_a0631c-53899e0a.webp]
+
+
+=== Case Study #8 /13 ===
+
+[STIMULUS] Let’s pretend that someone skinned a bear in one of the dorms here at Cornell. Let’s also pretend that they did this with the intention to eat the bear meat and stored it in the community fridge. Bear meat is known to contain roundworms, which can cause trichinosis.
+
+52a. [frq, 4 pt] To try and prove that there is an actual relationship between eating bear meat and developing trichinosis, you construct a 2x2 table, as seen below:
+    
+    | | Sick | Not sick |
+    |---|---|---|
+    | Ate bear meat | 54 | 7 |
+    | Didn’t eat bear meat | 14 | 32 |
+    
+    a. You want to use this data to conduct a chi-squared test. What are the null and alternative hypotheses?
+
+52b. [numeric, 5 pt] To try and prove that there is an actual relationship between eating bear meat and developing trichinosis, you construct a 2x2 table, as seen below:
+    
+    | | Sick | Not sick |
+    |---|---|---|
+    | Ate bear meat | 54 | 7 |
+    | Didn’t eat bear meat | 14 | 32 |
+    
+    b. Calculate the Chi-Squared test statistic for the table. Round to two decimal places.
+
+53. [frq, 1 pt] Concerned by the strength of this association, you send out a message to the study body warning about the dangers of consuming bear meat. What level of prevention is this?
+
+
+=== Case Study #9 /18.5 ===
+
+[STIMULUS] Clash Royale is a real-time multiplayer card battle game starring your favourite Clash® characters and more.
+    [IMAGE: ../images/2026_cornell_ny_c__p19_113bc4-ba870fcd.webp]
+
+54a. [frq, 0.5 pt] Here are some scenarios. Answers are usually short.
+    
+    a. Before beginning the game, the blue king gives all of his troops antibiotics to help prevent them from getting infections when interacting with the red team. What preventative method is this?
+
+54b. [frq, 0.5 pt] Here are some scenarios. Answers are usually short.
+    
+    b. Night witch summons bats, which go on to bite a barbarian. The barbarian then dies of histoplasmosis 2 days later. What is the bat in this scenario?
+
+54c. [frq, 0.5 pt] Here are some scenarios. Answers are usually short.
+    
+    c. Wizard compares the win rates of skeleton army decks before and after the update decreasing skeleton army spawns (minor ball knowledge). Which statistical test would best be used for this analysis?
+
+55a. [mcq, 1 pt] A new update has come to goblin curse. Now, it will affect skeletons only after they have returned home. Larry is the first to get sick out of Harry, Terry, Gerry, and Mary, but Harry is the first to report to the healer.
+    
+    a. Who is the index case?
+    A) Larry
+    B) Harry
+    C) Terry
+    D) Gerry
+    E) Mary
+
+55b. [frq, 1 pt] What is the incubation period for the goblin curse?
+
+56a. [numeric, 1 pt] Skeleton army spawns 15 skeletons. Terry, Larry, Mary, Harry, and Gerry get hit with goblin curse, but Gerry manages to tank it and does not display symptoms, leaving the effective radius of goblin curse. Later that night, all the skeletons go home to their families. Infected skeletons infect their spouses and two children.
+    
+    a. What is the point prevalence of goblin curse with respect to the skeletons at the moment they were hit? Calculate to 3 decimal places.
+
+56b. [numeric, 1 pt] Skeleton army spawns 15 skeletons. Terry, Larry, Mary, Harry, and Gerry get hit with goblin curse, but Gerry manages to tank it and does not display symptoms, leaving the effective radius of goblin curse. Later that night, all the skeletons go home to their families. Infected skeletons infect their spouses and two children.
+    
+    b. The original skeletons who got sick all turn into goblins (consider them dead) and kill one of their children the next morning. Calculate the mortality rate of the population once this has occurred. Calculate to 3 decimal places.
+
+[STIMULUS] It is believed that there may be a relationship between the kinds of decks people play and DBD (degenerative brain disease). Below is a table reflecting the results of a survey sent out to players of various decks:
+
+| Deck Played | Degenerative Brain Disease | Normal Brain |
+|---|---|---|
+| Hog 2.6 | 154 | 1 |
+| Megaknight | 143 | 5 |
+| Sparky | 1 | 20 |
+| Lavaloon | 19 | 8 |
+
+a. Calculate both the odds ratio and relative risk for each of these decks played to 3 decimal places
+    | Label | Answer |
+    | Hog 2.6 | [[q:57a-a]] |
+    | Megaknight | [[q:57a-b]] |
+    | Sparky | [[q:57a-c]] |
+    | Lavaloon | [[q:57a-d]] |
+
+57a-a. [frq, 0.5 pt] Hog 2.6
+
+57a-b. [frq, 0.5 pt] Megaknight
+
+57a-c. [frq, 0.5 pt] Sparky
+
+57a-d. [frq, 0.5 pt] Lavaloon
+
+57b. [frq, 1 pt] Based on the answers to part a, which deck is the worst to play for your brain?
+
+57c. [frq, 1 pt] What is a confounding factor that could have contributed to these results?
+
+[STIMULUS] Unsurprisingly, Hog and Megaknight players also have a screen time on clash royale of over 5 hours a day.
+
+58a. [frq, 1 pt] What kind of variable is screen time when studying DBD?
+
+58b. [frq, 1 pt] What’s a way they could control for it in experiments?
+
+59. [frq, 2 pt] You decide to run an experiment on studying similarities within a population of dart goblins. Would conventional gel electrophoresis or pulsed-field gel electrophoresis be better for this?
+
+60. [frq, 5 pt] Theobald Smith hypothesized that because it is NOT evolutionarily advantageous to kill their hosts, diseases will naturally evolve to become less dangerous to their hosts. If plotted according to the graphs below, the COVID-19 pandemic seems representative of this hypothesis. What are some reasons this may not be true?
+    [IMAGE: ../images/2026_cornell_ny_c__p21_bada96-ded04a6a.webp]
+    [IMAGE: ../images/2026_cornell_ny_c__p21_0ac4dc-f3046919.webp]

@@ -1,0 +1,783 @@
+Crystal Lake Central Invitational - IL — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  93 questions, 93.0 pts
+Source: scio.ly test archive id ae682bf9-cf94-4e7b-8b1b-b1c1c258cd12
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== Case Study 1 — I. The Scenario: The Oyster Bay Wedding Reception ===
+
+[STIMULUS] In late August, the local health department in Oyster Bay, Maryland, received several calls reporting severe gastrointestinal illness (vomiting, diarrhea, abdominal cramps) among guests who attended a large wedding reception on Saturday night. Approximately 150 guests were in attendance.
+
+**II. Background Data**
+
+- **Symptoms:** Illness onset was abrupt, typically 12–48 hours after the reception. The most common symptoms were vomiting (85%), diarrhea (92%), and fever (40%).
+- **Initial Line Listing Snippet (Partial Data):**
+
+| **Guest ID** | **Ate Shrimp Cocktail** | **Ate Prime Rib** | **Ate Oysters** | **Onset Date/Time** | **Illness (Yes/No)** |
+|---|---|---|---|---|---|
+| 001 | Yes | Yes | No | Sunday, 1:00 AM | Yes |
+| 002 | No | Yes | No | Sunday, 4:00 AM | Yes |
+| 003 | Yes | No | Yes | Sunday, 9:00 AM | Yes |
+| 004 | No | Yes | No | No onset | No |
+| 005 | Yes | Yes | Yes | Monday, 11:00 AM | Yes |
+
+- **Total Attendance:** 150
+- **Total Ill:** 75
+- **Symptoms:** Vomiting, diarrhea, cramps, fever.
+
+**Initial Data:** 150 guests attended. 75 guests became ill. Onset 12–48 hours after the reception.
+
+**Hypothetical 2 X 2 Table (Raw Oysters Exposure):**
+
+|  | **Ill (Yes)** | **Well (No)** | **Total** |
+|---|---|---|---|
+| **Ate Oysters (Exposed)** | 50 | 10 | **60** |
+| **Did Not Eat Oysters (Unexposed)** | 25 | 65 | **90** |
+| **Total** | **75** | **75** | **150** |
+
+1. [mcq, 1 pt] What basic epidemiological term best describes this rapid increase in cases localized to the wedding attendees?
+    A) Endemic
+    B) Pandemic
+    C) Outbreak
+    D) Hyperendemic
+    E) Secondary case
+    F) Surveillance
+
+2. [mcq, 1 pt] In the context of the 5-Step Process for Surveillance, what step does the initial reporting and receipt of calls by the health department fall under?
+    A) Analysis
+    B) Dissemination
+    C) Evaluation
+    D) Action
+    E) Data Collection
+    F) Case definition refinement
+
+3. [mcq, 1 pt] Formulate the most precise Case Definition for this outbreak using the Person, Place, and Time triad.
+    A) Any person who attended the reception in Oyster Bay in August.
+    B) Any person with diarrhea after eating raw oysters.
+    C) Any Oyster Bay resident with GI illness.
+    D) Any person with vomiting and diarrhea who attended the Oyster Bay wedding reception on August 24, 2025.
+    E) Any person with confirmed Norovirus infection.
+    F) Any person with GI symptoms within 7 days of the event.
+
+4. [mcq, 1 pt] Why is an active surveillance approach (calling all attendees) preferable to passive surveillance in the early stages of this investigation?
+    A) It is less expensive and requires fewer personnel.
+    B) It prevents media attention and panic.
+    C) It only captures severe cases requiring hospitalization.
+    D) It is more likely to yield complete, non-biased data and identify mild cases that might not seek medical care.
+    E) It is required by federal law for all foodborne outbreaks.
+    F) It helps calculate the Crude Death Rate accurately.
+
+5. [mcq, 1 pt] What type of epidemiological study is the comparison of food exposures between the 75 ill guests and the 75 well guests at the reception?
+    A) Case-Control
+    B) Ecological
+    C) Retrospective Cohort
+    D) Cross-Sectional
+    E) Experimental Trial
+    F) Randomized Clinical Trial
+
+6. [mcq, 1 pt] Draw a general sketch of the expected shape of the Epi Curve for this type of exposure (a single, common source).
+    A) Gradually increasing peaks and valleys over weeks (Propagated source).
+    B) A slowly rising and falling wave over a year (Secular trend).
+    C) A sharp decline followed by a slow rise (Intervention effect).
+    D) A steep, rapid rise followed by a more gradual decline, with cases clustered around the median incubation period (Point Source).
+    E) Multiple small, independent peaks with no clear time clustering.
+    F) A steady straight line (Endemic pattern).
+
+7. [mcq, 1 pt] Based on the time from the reception (Saturday night) to the typical onset time (12–48 hours later), what category of infectious agent is most likely responsible?
+    A) Prion disease
+    B) Protozoan
+    C) Bacterial or Viral
+    D) Fungal
+    E) Exposure to heavy metal toxicity
+    F) Non-infectious accident or injury.
+
+8. [mcq, 1 pt] How could a cluster map or line listing be used to check for evidence that the illness was NOT foodborne but perhaps due to Person-to-Person transmission?
+    A) Look for a high relative risk.
+    B) Calculate the crude mortality rate.
+    C) Look for spatial clustering of cases in non-attending households, or cases whose onset is outside the primary incubation window (secondary cases).
+    D) Look for a low attack rate among those who ate the suspected food.
+    E) Check the confidence interval for being less than 1.0.
+    F) Determine the median age of the sick guests.
+
+9. [mcq, 1 pt] Calculate the Incidence Proportion (Attack Rate) for those who ate the raw oysters.
+    A) 75%
+    B) 87%
+    C) 83.3%
+    D) 66.7%
+    E) 16.7%
+    F) 27.8%
+
+10. [mcq, 1 pt] Calculate the Incidence Proportion (Attack Rate) for those who did not eat the raw oysters.
+    A) 55.6%
+    B) 33.3%
+    C) 16.7%
+    D) 27.8%
+    E) 72.2%
+    F) 10.0%
+
+11. [mcq, 1 pt] Calculate the Relative Risk for consuming raw oysters.
+    A) 0.33
+    B) 1.00
+    C) 2.00
+    D) 3.00
+    E) 0.75
+    F) 1.50
+
+12. [mcq, 1 pt] Based on the calculated RR, does the data support the hypothesis that raw oysters are the source?
+    A) No, because the attack rate in the exposed is less than 50%.
+    B) No, because the RR is less than 5.0.
+    C) Yes, because the RR is significantly greater than 1.0, indicating an increased risk of illness in the exposed group.
+    D) Yes, because the Incidence Proportion is equal in both groups.
+    E) Cannot be determined without a p-value.
+    F) Only if the Odds Ratio is equal to the Relative Risk.
+
+13. [mcq, 1 pt] If the data were collected using a Case-Control study (retrospectively surveying ill people and controls not from the same single event), what measure of association would be calculated instead of RR?
+    A) Attack Rate
+    B) Odds Ratio
+    C) Incidence Rate
+    D) Prevalence
+    E) Crude Mortality Rate
+    F) Vaccine Effectiveness
+
+14. [mcq, 1 pt] Explain what an RR of 2.5 (not the answer to Q11) would mean in the context of this outbreak.
+    A) The risk of illness is 2.5% higher among exposed individuals.
+    B) The odds of exposure is 2.5 times higher among the ill.
+    C) Exposure is 2.5 times less likely to cause illness.
+    D) Individuals who ate the oysters were 2.5 times more likely to become ill than those who did not.
+    E) The exposure is a protective factor.
+    F) The confidence interval is $2.5 \pm 0.5$.
+
+15. [mcq, 1 pt] Identify the three components of the Agent, Host, and Environment Triad in this scenario, assuming the agent is a bacterium from the oysters.
+    A) Bacteria, Raw Oysters, Wedding Venue.
+    B) Bacteria, Ill Guests, Healthy Guests.
+    C) Bacteria , Wedding Guest , Raw Oysters/Venue.
+    D) Vomiting, Diarrhea, Abdominal Cramps.
+    E) Surveillance, Outbreak, Investigation.
+    F) Food Preparation, Consumption, Illness Onset.
+
+16. [mcq, 1 pt] If lab testing (e.g., PFGE/PulseNet) confirmed the outbreak strain in the oysters, which of the Bradford Hill Criteria would be most strongly satisfied by this evidence?
+    A) Consistency
+    B) Specificity
+    C) Biological Plausibility
+    D) Analogy
+    E) Coherence (or sometimes Experimental Evidence)
+    F) Dose-Response Relationship
+
+17. [mcq, 1 pt] Following the discovery of the source, the local government considers a ban on the supplier. This action is an example of what level of prevention?
+    A) Tertiary Prevention
+    B) Secondary Prevention
+    C) Primary Prevention
+    D) Pathogenesis
+    E) Rehabilitation
+    F) Endemic Control
+
+18. [mcq, 1 pt] What is the difference between a Clinical Approach (health of individuals) and a Public Health Approach (health of populations) when dealing with the 75 sick guests?
+    A) Clinical seeks the cause, Public Health seeks treatment.
+    B) Clinical focuses on diagnosing and treating the individual patient; Public Health focuses on identifying the source/cause to prevent further cases in the community.
+    C) Clinical is observational, Public Health is experimental.
+    D) Clinical uses passive surveillance, Public Health uses active surveillance.
+    E) Public Health is always quantitative, Clinical is always qualitative.
+    F) There is no difference in an outbreak setting.
+
+19. [mcq, 1 pt] Describe one potential Bias that could have influenced the accuracy of the exposure data collected from the guests.
+    A) Recall Bias: Ill people may be more likely than well people to accurately remember eating the suspected item (oysters).
+    B) Selection Bias: The study group does not represent the general population.
+    C) Confounding: Alcohol consumption might hide the effect of the oysters.
+    D) Temporality: The exposure did not precede the outcome.
+    E) Loss to Follow-Up: Guests left the reception early.
+    F) Specificity: The agent causes multiple symptoms.
+
+20. [mcq, 1 pt] Propose two different control strategies based on the Strategies of Disease Control that could be implemented immediately to prevent further spread (assuming the agent could be transmitted person-to-person).
+    A) Increase the R0 and monitor the endemic rate.
+    B) Source removal and Isolation/Quarantine of ill individuals.
+    C) Primary prevention and Tertiary prevention.
+    D) Only mass vaccination and public health education.
+    E) Calculating the Odds Ratio and a Chi-Square test.
+    F) Increasing surveillance sensitivity and increasing vaccine efficacy.
+
+
+=== Case Study 2 — The Scenario: The County X Overdose Surge ===
+
+[STIMULUS] The State Health Department noticed a concerning trend in County X, a major urban area. Over the past six months, reported drug overdoses involving synthetic opioids (primarily fentanyl) have increased by 120% compared to the previous six-month period. This pattern was initially flagged by the state's Syndromic Surveillance System, which monitors emergency room visits for specific chief complaints (e.g., "unresponsive," "respiratory distress"). The increase is concentrated in three adjacent zip codes.
+
+**II. Background Data**
+
+- County X Population (Adults 18+): 500,000
+- Reported Overdoses (Last 6 Months): 150 (Total)
+- Reported Overdoses (Previous 6 Months): 68 (Total)
+- Fatal Overdoses (Last 6 Months): 30
+- Syndromic Surveillance Source: Emergency Department visits.
+
+**III. The Challenge**
+
+Analyze the data to classify the event, evaluate the surveillance system, and propose initial public health responses based on prevention strategies and epidemiological terms.
+
+21. [mcq, 1 pt] How does the surge in overdoses in County X differ from a typical endemic pattern, and what is the best epidemiological term to describe the situation?
+    A) Differ: It's expected yearly variation; Term: Risk
+    B) Differ: It's geographically widespread; Term: Pandemic
+    C) Differ: It significantly exceeds the expected baseline or historical average; Term: Epidemic (or Outbreak)
+    D) Differ: It is caused by a non-infectious agent; Term: Vector-borne
+    E) Differ: It is stable over time; Term: Cluster
+    F) Differ: It only involves hospital data; Term: Case definition
+
+22. [mcq, 1 pt] According to the CDC Glossary, the three zip codes reporting the concentration of cases can be referred to as a:
+    A) Outbreak
+    B) Epidemic curve
+    C) Cluster
+    D) Pandemic
+    E) Chain of transmission
+    F) High-risk setting
+
+23. [mcq, 1 pt] The surveillance system is tracking ED visits rather than waiting for lab-confirmed drug test results. This is an example of what type of surveillance?
+    A) Passive Surveillance
+    B) Sentinel Surveillance
+    C) Syndromic Surveillance
+    D) Specific Surveillance
+    E) Cohort Surveillance
+    F) Enhanced Surveillance
+
+24. [mcq, 1 pt] Which of the following describes the relationship between a Clinical Approach (health of individuals) and the Public Health Approach (health of populations) in this scenario?
+    A) Clinical focuses on preventing the problem; Public Health focuses on treating the patient.
+    B) Clinical focuses on resuscitating the overdose patient; Public Health focuses on identifying common exposures and implementing prevention programs across the three zip codes.
+    C) Clinical uses relative risk; Public Health uses odds ratio.
+    D) Clinical uses passive reporting; Public Health uses active surveillance.
+    E) Public Health is concerned with herd immunity; Clinical is concerned with causality.
+    F) They are the same thing in a crisis
+
+25. [mcq, 1 pt] The surveillance data was reported within 24 hours of the ED visit. This directly relates to which desirable attribute of a surveillance system?
+    A) Simplicity
+    B) Representativeness
+    C) Flexibility
+    D) Acceptability
+    E) Timeliness
+    F) Predictive Value Positive
+
+26. [mcq, 1 pt] In the context of the 5-Step Process for Surveillance, the State Health Department's action of issuing a health alert to local pharmacies and first responders about the surge falls under which step?
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Dissemination of Data
+    E) Evaluation
+    F) Defining the problem
+
+27. [mcq, 1 pt] A key limitation of using Syndromic Surveillance in this case is that:
+    A) It requires complex statistical software (e.g., PFGE).
+    B) It cannot be used for non-infectious diseases.
+    C) It lacks specificity; some ED visits for "unresponsive" may be due to other causes, like stroke.
+    D) It only captures fatal cases.
+    E) It relies on the Basic Reproductive Number (R₀).
+    F) It is too expensive for local health departments.
+
+28. [mcq, 1 pt] The primary purpose of the surveillance system in this public health crisis is to:
+    A) Calculate the Relative Risk.
+    B) Monitor disease (or health event) trends to facilitate prevention and control measures.
+    C) Determine the etiology of the agent.
+    D) Calculate the Herd Immunity Threshold.
+    E) Conduct a Randomized Clinical Trial.
+    F) Establish causality using Koch's Postulates.
+
+31. [mcq, 1 pt] If the health department wanted to measure the Prevalence of Opioid Use Disorder (OUD) in County X, what type of study would be most appropriate?
+    A) Case-Control Study
+    B) Retrospective Cohort Study
+    C) Cross-Sectional Study
+    D) Experimental Study
+    E) Outbreak Investigation
+    F) Case Series
+
+32. [mcq, 1 pt] The percentage increase in reported overdoses from the previous six months (68 cases) to the last six months (150 cases) is approximately:
+    A) 54.7%
+    B) 82.0%
+    C) 100.0%
+    D) 120.6%
+    E) 220.6%
+    F) 150.0%
+
+33. [mcq, 1 pt] Providing widespread access to Naloxone (Narcan), which reverses an overdose and is given after the initial event but before death, is an example of what level of prevention?
+    A) Primary Prevention
+    B) Secondary Prevention
+    C) Tertiary Prevention
+    D) Pre-pathogenesis
+    E) Environmental Control
+    F) Source Removal
+
+34. [mcq, 1 pt] The State Health Department deciding to conduct an aggressive educational campaign aimed at discouraging drug use among teens is a measure of:
+    A) Secondary Prevention
+    B) Primary Prevention
+    C) Tertiary Prevention
+    D) Rehabilitation
+    E) Chain of Transmission disruption
+    F) Calculated Risk
+
+35. [mcq, 1 pt] Implementing long-term rehabilitation and pain management programs for individuals with Opioid Use Disorder (OUD) who have survived an overdose falls under:
+    A) Primary Prevention
+    B) Secondary Prevention
+    C) Tertiary Prevention
+    D) Herd Immunity
+    E) Analytical Epidemiology
+    F) Endemic Control
+
+36. [mcq, 1 pt] What strategy of disease control would be employed if the police successfully intercepted and removed the source of contaminated fentanyl from the three affected zip codes?
+    A) Mass Drug Administration
+    B) Source Reduction/Removal
+    C) Breaking the Chain of Transmission
+    D) Increasing Herd Immunity
+    E) Host Protection
+    F) Secondary Prevention
+
+38. [mcq, 1 pt] If researchers wanted to understand the risk factors (e.g., housing, employment, previous addiction) that led individuals in County X to use fentanyl, which observational study design would be most appropriate?
+    A) Randomized Controlled Trial
+    B) Case-Control Study
+    C) Ecological Study
+    D) Cross-Sectional Study
+    E) Case Series
+    F) Experimental Study
+
+39. [mcq, 1 pt] When investigating the cause of this epidemic, why are Koch's Postulates not an appropriate tool for establishing causality?
+    A) They are only used for Chronic Diseases.
+    B) They apply specifically to establishing an infectious microbial cause, not behavioral or non-infectious causes like drug use.
+    C) They only use the Relative Risk measure.
+    D) They are only applicable for calculating the Herd Immunity Threshold.
+    E) They are too complicated to use in a public health emergency.
+    F) They are replaced by the Directed Acyclic Graph (DAG).
+
+40. [mcq, 1 pt] What is one example of how confounding could affect a study looking at the link between poverty and overdose death in County X?
+    A) The sample size is too small to find an association.
+    B) A third variable, such as concurrent mental health issues, is linked to both poverty and the risk of overdose, obscuring the true effect of poverty alone.
+    C) Ill people recall their drug history better than well people (Recall Bias).
+    D) The study measures exposure and outcome at the same time.
+    E) The Relative Risk is close to 1.0.
+    F) The Odds Ratio is not an accurate measure of association.
+
+
+=== Case Study 3 ===
+
+[STIMULUS] **Scenario:**
+
+A major company in a small town has operated for 50 years. Local residents living near the plant have a statistically significant increase in a rare type of cancer compared to the rest of the state. The suspected cause is a **long-term environmental exposure** to a volatile organic compound (VOC) used in the plant's older processes.
+
+41. [mcq, 1 pt] Given the long latency period and rarity of the cancer mentioned, why is a Prospective Cohort Study often considered impractical compared to other designs?
+    A) It cannot establish a temporal relationship between exposure and outcome.
+    B) It is prone to recall bias regarding VOC exposure levels.
+    C) It requires a massive sample size and decades of follow-up to yield statistically significant results for rare outcomes.
+    D) It only allows for the calculation of an Odds Ratio rather than Relative Risk.
+    E) It is ineffective for investigating multiple outcomes from a single exposure.
+    F) It is ethically prohibited to follow individuals known to be exposed to VOCs.
+
+42. [mcq, 1 pt] If researchers conduct a Case-Control study to investigate this cancer, how should they select the "Control" group?
+    A) They should select people who work at the plant but do not have the cancer.
+    B) They should select people from the town who have a different type of common cancer.
+    C) They should select people from the same town who do not have the rare cancer, ideally matching for age and other confounders.
+    D) They should select people from a different state to ensure no exposure to the VOC.
+    E) They should select the family members of the cases.
+    F) They should select people who have recovered from the rare cancer.
+
+43. [mcq, 1 pt] In a retrospective study of this scenario, an Odds Ratio of 4.5 is calculated. What is the most accurate interpretation?
+    A) 4.5% of the town's population will develop the rare cancer.
+    B) The risk of developing cancer is 4.5 times higher for plant employees than for the general public.
+    C) The odds of having been exposed to the VOC were 4.5 times higher among those with the cancer than among those without.
+    D) The VOC exposure causes a 4.5% increase in cellular mutations.
+    E) The study is invalid because the OR is above 1.0.
+    F) 45 people per 100,000 are expected to be diagnosed annually.
+
+44. [mcq, 1 pt] A researcher suggests that "Smoking" might be a confounder in this study. For smoking to be a true confounder, what must be true?
+    A) It must be an intermediate step in the causal pathway between VOCs and cancer.
+    B) It must be associated with VOC exposure and independently associated with the cancer.
+    C) It must be the primary cause of the rare cancer.
+    D) It must be more prevalent in the town than in the rest of the state.
+    E) It must only affect the control group.
+    F) It must be a result of the psychological stress of living near the plant.
+
+45. [mcq, 1 pt] Which of the following is a specific disadvantage of a Retrospective Cohort Study in this industrial scenario?
+    A) It is significantly more expensive than a Prospective Cohort Study.
+    B) It cannot be used to study rare exposures.
+    C) It relies heavily on the quality and availability of past records (e.g., historical VOC levels).
+    D) It is impossible to calculate the Incidence Rate.
+    E) It requires waiting 50 years for the results to emerge.
+    F) Participants are likely to drop out of the study over time.
+
+46. [mcq, 1 pt] During the Natural History of this cancer, when does the "Pre-pathogenesis" period end?
+    A) When the individual is first exposed to the VOC.
+    B) When the first cellular changes occur due to VOC interaction.
+    C) When the patient experiences their first clinical symptom.
+    D) When the company first began operations 50 years ago.
+    E) When the doctor makes a definitive diagnosis.
+    F) When the patient begins chemotherapy.
+
+47. [mcq, 1 pt] Installing advanced filtration systems in the plant to eliminate VOC emissions today is an example of:
+    A) Primordial Prevention.
+    B) Primary Prevention.
+    C) Secondary Prevention.
+    D) Tertiary Prevention.
+    E) Quaternary Prevention.
+    F) Clinical Treatment.
+
+48. [mcq, 1 pt] Implementing a free annual screening program using specialized imaging for residents to catch the rare cancer in its earliest, asymptomatic stages is:
+    A) Primary Prevention.
+    B) Secondary Prevention.
+    C) Tertiary Prevention.
+    D) Environmental Control.
+    E) Source Reduction.
+    F) Health Promotion.
+
+49. [mcq, 1 pt] The "Latency Period" in this non-infectious disease scenario is analogous to which term in infectious disease epidemiology?
+    A) Generation time.
+    B) Incubation period.
+    C) Infectivity window.
+    D) Herd immunity threshold.
+    E) Virulence period.
+    F) Vector transmission time.
+
+50. [mcq, 1 pt] Why are Koch's Postulates insufficient to prove that the VOC causes this rare cancer?
+    A) The VOC is a chemical agent, not a live microorganism that can be cultured.
+    B) The cancer is too rare to provide enough samples for the postulates.
+    C) Koch's Postulates only apply to diseases with short incubation periods.
+    D) The postulates require the agent to be present in every case of any disease.
+    E) There is no animal model for cancer.
+    F) The VOC is found in the environment, not in the human body.
+
+51. [mcq, 1 pt] Using Hill's Criteria of Causality, if the risk of cancer increases steadily as the measured level of VOC exposure increases, which criterion is satisfied?
+    A) Consistency.
+    B) Specificity.
+    C) Biological Gradient (Dose-Response).
+    D) Coherence.
+    E) Plausibility.
+    F) Analogy.
+
+52. [mcq, 1 pt] What is the primary reason this is classified as a "non-infectious" disease outbreak?
+    A) It involves a large number of people.
+    B) The disease cannot be transmitted from one person to another.
+    C) It is caused by an environmental toxin rather than a biological pathogen.
+    D) It has a very long duration.
+    E) It is treated with surgery rather than antibiotics.
+    F) Both B and C are correct.
+
+53. [mcq, 1 pt] If the rare cancer is found only in people exposed to this specific VOC and no other factors, which of Hill's criteria is being met (though rarely seen in chronic disease)?
+    A) Strength of Association.
+    B) Temporality.
+    C) Specificity.
+    D) Experimental Evidence.
+    E) Reversibility.
+    F) Analogy.
+
+54. [mcq, 1 pt] Which "Component Cause" in the Rothman's Causal Pies model would the VOC exposure be if the cancer only develops in those exposed to VOCs who also have a specific genetic mutation?
+    A) Necessary Cause.
+    B) Sufficient Cause.
+    C) Component Cause.
+    D) Direct Cause.
+    E) Probabilistic Cause.
+    F) Proximal Cause.
+
+55. [mcq, 1 pt] To calculate the "Prevalence" of this cancer in the town on January 1, 2024, what data is needed?
+    A) Only the number of new cases diagnosed in 2024.
+    B) The total number of people living with the cancer on that date divided by the total population.
+    C) The number of deaths caused by the cancer in 2024.
+    D) The number of people who moved out of the town due to illness.
+    E) The ratio of male cases to female cases.
+    F) The average duration of the illness.
+
+56. [mcq, 1 pt] The town has 10,000 residents. Over 5 years, 50 residents develop the rare cancer. What is the cumulative incidence over 5 years?
+    A) 5 per 1,000.
+    B) 50 per 10,000.
+    C) 0.5%.
+    D) 1% per year.
+    E) A, B, and C are all correct.
+    F) None of the above.
+
+57. [mcq, 1 pt] If the VOC-related cancer has a very high mortality rate and patients die quickly after diagnosis, how will this affect the observed Prevalence?
+    A) Prevalence will be much higher than Incidence.
+    B) Prevalence will be approximately equal to the Incidence.
+    C) Prevalence will decrease relative to Incidence.
+    D) Prevalence will increase over time regardless of deaths.
+    E) Prevalence cannot be measured for fatal diseases.
+    F) Prevalence will become zero.
+
+58. [mcq, 1 pt] A "Statistically Significant" increase in cancer rates (p < 0.05) means:
+    A) The VOC definitely caused the cancer.
+    B) There is less than a 5% probability that the observed increase happened by random chance alone.
+    C) 95% of the town will eventually get cancer.
+    D) The company is legally liable for the cluster.
+    E) The increase is large enough to be seen without a microscope.
+    F) The study had no biases.
+
+59. [mcq, 1 pt] Which public health "Control" strategy is most unique to non-infectious environmental outbreaks compared to viral ones?
+    A) Quarantine and Isolation.
+    B) Remediation of soil and water (Source Removal).
+    C) Mass vaccination.
+    D) Contact tracing.
+    E) Hand-washing campaigns.
+    F) Personal Protective Equipment (PPE) for the general public.
+
+60. [mcq, 1 pt] In the "Spectrum of Disease" for this cancer, the "Point of Volition" refers to:
+    A) When the cells become malignant.
+    B) When the patient decides to seek medical help for symptoms.
+    C) When the company decides to use a different chemical.
+    D) When the VOC enters the lungs.
+    E) When the screening test becomes positive.
+    F) When the cancer metastasizes.
+
+61. [mcq, 1 pt] If a study finds that VOC exposure leads to cancer in the town, but later it's found the town also has high radiation levels that weren't measured, this is an example of:
+    A) Selection Bias.
+    B) Information Bias.
+    C) Confounding.
+    D) Effect Modification.
+    E) Berkson's Bias.
+    F) Measurement Error.
+
+62. [mcq, 1 pt] Which of the following best describes "Information Bias" in this scenario?
+    A) Using a control group from a different state.
+    B) Residents with cancer remembering their proximity to the plant more "accurately" (or intensely) than healthy residents.
+    C) The researcher knowing which participants were plant employees while interpreting their X-rays.
+    D) Healthy residents moving away from the town before the study began.
+    E) Both B and C.
+    F) All of the above.
+
+63. [mcq, 1 pt] The "Healthy Worker Effect" might bias a study here because:
+    A) Plant workers are more likely to have health insurance.
+    B) People healthy enough to be employed at the plant may have lower baseline mortality than the general population (including the disabled/unemployed).
+    C) Workers are exposed to more VOCs than residents.
+    D) Only healthy people move to small towns.
+    E) VOCs actually improve immune function in small doses.
+    F) The company only hires people with no family history of cancer.
+
+64. [mcq, 1 pt] If the town's cancer rate is 15 per 100,000 and the state rate is 3 per 100,000, what is the Attributable Risk (Risk Difference)?
+    A) 5.0 (Relative Risk).
+    B) 12 per 100,000.
+    C) 18 per 100,000.
+    D) 45 per 100,000.
+    E) 0.03%.
+    F) 80%.
+
+
+=== Case Study 4: Herd Immunity and Vaccination ===
+
+[STIMULUS] **Scenario**
+
+A highly contagious, vaccine-preventable viral disease (like Measles) is introduced into a high school. The disease has a **Basic Reproductive Number (R0) of 12**. The school population of 2,000 has a documented vaccination rate of 88%.
+
+65. [mcq, 1 pt] If the school's population was entirely susceptible and the $R_0$ is 12, what is the mathematical probability that an individual contact between an infectious student and a susceptible student results in transmission, assuming 24 effective contacts occur during the infectious period?
+    A) 12%
+    B) 25%
+    C) 50%
+    D) 75%
+    E) 88%
+    F) 100%
+
+66. [mcq, 1 pt] If the school implements a policy that successfully reduces the number of student contacts by 50%, what would be the new R0 for this specific environment?
+    A) 1.5
+    B) 3
+    C) 6
+    D) 12
+    E) 24
+    F) 0.5
+
+67. [mcq, 1 pt] To bring the Re from 1.5 down to 1.0 (equilibrium), what additional percentage of the total school population must become immune?
+    A) 4%
+    B) 8%
+    C) 12.5%
+    D) 33.3%
+    E) 50%
+    F) 2%
+
+68. [mcq, 1 pt] The calculated Herd Immunity Threshold (HIT) is ~91.7%. If the vaccine used in the school has only 90% clinical efficacy, how does this affect the required vaccination coverage?
+    A) The required coverage remains 91.7%.
+    B) The required coverage decreases because the vaccine is partially effective.
+    C) The required coverage must increase beyond 100% (making herd immunity impossible through vaccination alone).
+    D) The R0 automatically drops to 1.0.
+    E) Efficacy has no impact on the HIT calculation.
+    F) The school is already protected at 88%.
+
+69. [mcq, 1 pt] Which of the following best describes the "indirect protection" offered by herd immunity to the 12% of unvaccinated students?
+    A) The vaccine spreads from person to person through casual contact.
+    B) The high prevalence of immunity reduces the probability that a susceptible person will encounter an infectious person.
+    C) Unvaccinated students develop "sympathetic antibodies" by being near vaccinated ones.
+    D) The virus mutates to a less virulent form when it hits a vaccinated host.
+    E) The R0 of the virus is naturally lowered to zero.
+    F) It only applies if the unvaccinated students are in a different building.
+
+70. [mcq, 1 pt] If a "cluster" of the 240 unvaccinated students all attend the same choir class, why might an outbreak occur even if the school-wide vaccination rate was 95%?
+    A) The R0 of the virus increases in small rooms.
+    B) Viral shedding is higher in singers.
+    C) Herd immunity is not uniform; "pockets" of susceptibility allow for localized transmission.
+    D) The HIT formula only applies to outdoor environments.
+    E) The vaccine is less effective against choir students.
+    F) Choir masks are ineffective.
+
+71. [mcq, 1 pt] Which control measure specifically targets the "Portal of Exit" in the Chain of Transmission for a respiratory virus?
+    A) Handwashing with antibacterial soap.
+    B) Mandatory surgical masking for symptomatic students.
+    C) Increasing the distance between desks.
+    D) Mandatory 14-day quarantine for healthy students.
+    E) Administering a booster shot to teachers.
+    F) Sterilizing the school's water supply.
+
+72. [mcq, 1 pt] If the school transitions to remote learning, which link in the Chain of Transmission is being directly broken?
+    A) The Infectious Agent.
+    B) The Reservoir.
+    C) The Portal of Entry.
+    D) The Mode of Transmission.
+    E) The Susceptible Host.
+    F) The Incubation Period.
+
+73. [mcq, 1 pt] A student is infectious but asymptomatic. This student is considered a:
+    A) Passive carrier.
+    B) Incubatory carrier.
+    C) Convalescent carrier.
+    D) Chronic carrier.
+    E) Vector.
+    F) Fomite.
+
+74. [mcq, 1 pt] What is the difference between "Quarantine" and "Isolation" in this school scenario?
+    A) Quarantine is for the sick; Isolation is for the exposed.
+    B) Isolation is for the sick; Quarantine is for those who were exposed but are not yet symptomatic.
+    C) Isolation is voluntary; Quarantine is mandatory.
+    D) Quarantine only applies to animals.
+    E) Isolation is for the 88% vaccinated; Quarantine is for the 12% unvaccinated.
+    F) There is no difference in public health law.
+
+75. [mcq, 1 pt] Which of the following is an example of "Active Immunity" in the school population?
+    A) Antibodies passed from mother to baby.
+    B) Injection of pre-formed gamma globulins after exposure.
+    C) Production of antibodies by a student's own immune system following vaccination.
+    D) Using hand sanitizer to kill the virus on the skin.
+    E) Taking Vitamin C to boost general health.
+    F) Wearing a N95 respirator.
+
+76. [mcq, 1 pt] In a Case-Control study to evaluate Vaccine Effectiveness in this school, the "Cases" would be students with the disease. Who would be the "Controls"?
+    A) All students who received the vaccine.
+    B) A sample of students from the school who did not contract the disease during the outbreak.
+    C) Students from a different school that had no outbreak.
+    D) The parents of the sick students.
+    E) The students who were unvaccinated.
+    F) Only the teachers.
+
+77. [mcq, 1 pt] If a Cohort Study finds an Attack Rate of 2% in vaccinated students and 20% in unvaccinated students, what is the Vaccine Effectiveness (VE)?
+    A) 10%
+    B) 18%
+    C) 80%
+    D) 90%
+    E) 98%
+    F) 100%
+
+78. [mcq, 1 pt] Which bias is most likely to occur if the school only tests students who visit the nurse with high fevers, ignoring those with mild symptoms?
+    A) Recall Bias.
+    B) Selection Bias (specifically Detection Bias).
+    C) Confounding.
+    D) Healthy Worker Effect.
+    E) Non-response Bias.
+    F) Interviewer Bias.
+
+79. [mcq, 1 pt] What is a major disadvantage of using a Retrospective Cohort Study versus a Case-Control study in a very large population (e.g., an entire city instead of one school)?
+    A) It cannot calculate Relative Risk.
+    B) It is much more time-consuming and expensive to track the entire population's exposure and outcome status.
+    C) It is prone to recall bias.
+    D) It cannot be used for rare exposures.
+    E) It is ethically unsound to look at past records.
+    F) It requires a placebo group.
+
+
+=== Case Study 5 ===
+
+[STIMULUS] **Scenario**
+
+A new study suggests a strong link between consuming a popular artificial sweetener and a particular neurological disorder, based on an observational **Cross-Sectional Study** of 10,000 adults. The medical community is cautious about declaring causation.
+
+80. [mcq, 1 pt] Which Bradford Hill criterion is most difficult to establish in a cross-sectional study?
+    A) Strength of Association
+    B) Temporality
+    C) Biological Plausibility
+    D) Coherence
+
+81. [mcq, 1 pt] In the context of this study, what is a "Prevalence Ratio"?
+    A) The ratio of the risk of disease in the exposed group vs. unexposed group.
+    B) The proportion of new cases occurring over a specific time.
+    C) The ratio of the proportion of people with the disorder in the sweetener-consuming group vs. the non-consuming group.
+    D) The probability that the association occurred by chance.
+
+82. [mcq, 1 pt] Why is the medical community cautious about declaring causation based on this study?
+    A) The sample size of 10,000 is too small for statistical significance.
+    B) Observational studies cannot account for any variables.
+    C) Correlation does not automatically imply causation, especially without establishing a time sequence.
+    D) Cross-sectional studies are only used for infectious diseases.
+
+83. [mcq, 1 pt] Which of the following would be considered a potential confounding variable in this scenario?
+    A) The brand of artificial sweetener used.
+    B) The participants' underlying genetic predisposition to neurological disorders.
+    C) The specific neurological symptoms reported.
+    D) The number of researchers involved in the data collection.
+
+84. [mcq, 1 pt] What is the primary purpose of using a Directed Acyclic Graph (DAG) in this study?
+    A) To calculate the exact P-value of the association.
+    B) To visually map and identify potential biasing paths and confounders.
+    C) To replace the need for a control group.
+    D) To prove that the artificial sweetener is toxic.
+
+85. [mcq, 1 pt] How does "Stratification" help address confounding?
+    A) It increases the sample size to reduce random error.
+    B) It fixes the level of a confounder (e.g., age groups) to see if the association persists within those groups.
+    C) It ensures that the study is double-blinded.
+    D) It changes the study design from cross-sectional to a randomized controlled trial.
+
+86. [mcq, 1 pt] Why are Koch's Postulates less useful than Bradford Hill Criteria for this specific case?
+    A) Koch's Postulates are designed for chronic, non-infectious diseases.
+    B) Koch's Postulates require the isolation and re-introduction of a pathogen.
+    C) Bradford Hill Criteria only apply to laboratory experiments.
+    D) Koch's Postulates do not consider the strength of association.
+
+87. [mcq, 1 pt] If a 95% Confidence Interval for the Prevalence Ratio is (0.8, 4.5), what does this suggest?
+    A) The results are highly precise and statistically significant.
+    B) The association is likely causal.
+    C) The results are not statistically significant because the interval includes 1.0.
+    D) There is a 95% chance that the sweetener causes the disorder.
+
+88. [mcq, 1 pt] The Bradford Hill criterion of "Consistency" refers to:
+    A) Finding the same results across different studies, populations, and times.
+    B) Ensuring all 10,000 adults in the study have the same diet.
+    C) Making sure the sweetener is consumed at the same time every day.
+    D) Having a small standard deviation in the data.
+
+89. [mcq, 1 pt] Which of the following best defines "Temporality"?
+    A) The dose-response relationship of the sweetener.
+    B) The evidence that the exposure (sweetener) occurred before the outcome (disorder).
+    C) The duration of the neurological symptoms.
+    D) The speed at which the study was conducted.
+
+90. [mcq, 1 pt] A researcher finds that the more sweetener a person consumes, the higher their risk of the disorder. Which Bradford Hill criterion does this support?
+    A) Specificity
+    B) Analogy
+    C) Biological Gradient (Dose-Response)
+    D) Coherence
+
+91. [mcq, 1 pt] What is a major limitation of a Cross-Sectional study design?
+    A) It is very expensive and time-consuming.
+    B) It captures exposure and outcome at the same single point in time.
+    C) It cannot be used to study common conditions.
+    D) It requires a long follow-up period of many years.
+
+92. [mcq, 1 pt] If the "Strength of Association" is very high (e.g., PR = 8.0), it means:
+    A) Confounding is impossible.
+    B) Causality is guaranteed.
+    C) The association is less likely to be due entirely to unnoticed bias or confounding.
+    D) The study was a randomized controlled trial.
+
+93. [mcq, 1 pt] The Bradford Hill criterion of "Analogy" involves:
+    A) Comparing the association to a similar, well-established relationship.
+    B) Using a math equation to solve for causality.
+    C) Interviewing the participants about their family history.
+    D) Testing the sweetener on animals instead of humans.
+
+94. [mcq, 1 pt] A "Necessary Cause" is a component cause that:
+    A) Must be present for the disease to occur.
+    B) Is only found in cross-sectional studies.
+    C) Can be replaced by any other factor.
+    D) Is the same as a confounding variable.
+
+95. [mcq, 1 pt] Which method is used during the design phase to prevent confounding (unlike stratification which is used during analysis)?
+    A) Linear Regression
+    B) Matching
+    C) Calculating P-values
+    D) DAG creation
+
+96. [mcq, 1 pt] The "Sufficient Cause" in Rothman's model is:
+    A) A factor that must be present for the disease to occur.
+    B) A set of conditions that inevitably produces the disease.
+    C) A single component that is not necessary but helpful.
+    D) The most important confounding variable.

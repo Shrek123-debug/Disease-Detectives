@@ -1,0 +1,489 @@
+Athens (Twin Tiers) — Disease Detectives  |  Season 2014  |  Division C  |  Time limit 50 min  |  50 questions, 73.0 pts
+Source: scio.ly test archive id 1f07921b-20e2-4a9f-b3d6-33669039eb14  |  original files: https://drive.google.com/drive/folders/1z1h4W8AIferLiPHDylVeYrBVHi7A46i8
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Do not begin until time is called. You may use any portion of this booklet as scrap, but all final answers must be recorded on the answer sheet. You may separate this booklet or the answer sheet, but you must staple the latter when finished. All questions are worth one point unless otherwise noted.
+
+
+=== Part I: abstracted from Upson K, De Roos AJ, Thompson ML, Sathyanarayana S, Scholes D, Barr DB, Holt VL. 2013. Organochlorine pesticides and risk of endometriosis: findings from a population-based case–control study. Environ Health Perspect 121:1319–1324; http://dx.doi.org/10.1289/ehp.1306648 ===
+
+[STIMULUS] Endometriosis is associated with substantial morbidity in women, including chronic pain, bleeding and infertility. While its etiology is not fully understood, it is considered to be an estrogen-dependent disease. This suggests that environmental chemicals which mimic or alter estrogen activity may plausibly affect endometriosis risk. Organochlorine pesticides (OCPs) have exhibited estrogenic properties in animal and in vitro studies. While their use in the U.S. has been banned for some decades, they are still used in many other countries. Furthermore, they are fat-soluble, highly mobile and break down very slowly in the body. Presumably for these reasons, much of the US population has detectable serum concentrations of many OCPs.
+
+The National Institute of Child Health and Human Development funded a large study of the possible factors associated with between levels of select OCPs and endometriosis, which was analyzed by a group of researchers based at the University of Washington. 340 women aged 19-49 who were enrolled in a large health care system in Washington State and who had received a first-time diagnosis of endometriosis between 1 April 1996 and 31 March 2001 were invited to participate, as were 741 randomly selected other women in the same age group who were enrolled in the same health system and who had never been diagnosed with endometriosis. 89.7% of endometriosis patients and 85.1% of other members accepted the invitation. After exclusions, blood samples were collected from 283 patients and 585 other members. Blood lipids were measured, and serum levels of several OCPs for each participant were determined by gas chromatography – mass spectrometry. The median level of each OCP was calculated for the group of subjects who did not have an endometriosis diagnosis. Table 1 records the number of individuals in each group who were above and below the calculated median value; totals are not the same for each group because in many cases, the presence of another substance in the blood interfered with the ability to measure pesticide concentration. The median value of the pesticide Mirex was below the limit of the instrument to detect accurately, so any value above the limit of detection (LOD) was reported.
+
+1. [frq, 1 pt] What type of study is this?
+
+2. [frq, 1 pt] Why did researchers study people without an endometriosis diagnosis?
+
+3. [frq, 1 pt] What term is used to describe the subjects who did not have an endometriosis diagnosis?
+
+4. [frq, 1 pt] Why is it important to know the percentages of invited subjects who agree to participate?
+
+5. [frq, 1 pt] Direct measurement of blood chemicals as in this study is considered superior to survey methods, in which people are asked about their exposure history. Why?
+
+6. [frq, 1 pt] In survey responses, people with a disease are always likely to report more exposures that people without. Which specific form of bias is responsible for this?
+
+7. [frq, 1 pt] Which type of error does the bias referred to in question 6 tend to produce?
+
+8. [frq, 1 pt] Because they are members of an insurance plan and not patients, the group without endometriosis are considered population-based rather than hospital-based. Why is this preferable?
+
+9. [frq, 5 pt] Calculate the odds ratio for each of the four reported exposures.
+
+10. [frq, 1 pt] Which OCP shows the least evidence of association between exposure and endometriosis risk?
+
+11. [frq, 2 pt] Researchers reported adjusted odds ratios for these and other OCPs. Name two factors which they were likely to have adjusted for.
+
+12. [mcq, 1 pt] Which of the following would be an appropriate method of adjusting this data?
+    A) t test
+    B) chi square
+    C) direct age adjustment
+    D) Mantel-Haenszel odds ratio
+    E) Mantel-Haenszel relative risk
+    F) c and d only
+    G) all of the above
+
+13. [frq, 2 pt] Are OCPs likely to bioaccumulate and/or biomagnify? Why or why not?
+
+14. [frq, 2 pt] Explain the difference between bioaccumulation and biomagnification.
+
+15. [frq, 1 pt] What domestically produced food products would be most likely to contain OCPs? Why?
+
+16. [frq, 1 pt] If you were a public health official, what recommendations might you make?
+
+
+=== Part II: abstracted from N Engl J Med. 2002 Sep 19;347(12):869-77. Environmental exposure to endotoxin and its relation to asthma in school-age children. Braun-Fahrländer C, Riedler J, Herz U, Eder W, Waser M, Grize L, Maisch S, Carr D, Gerlach F, Bufe A, Lauener RP, Schierl R, Renz H, Nowak D, von Mutius E; Allergy and Endotoxin Study Team. ===
+
+[STIMULUS] Researchers from the Institute of Social and Preventative Medicine in Basel, Switzerland surveyed thousands of parents in defined rural areas of Switzerland, Germany and Austria for health, demographic and occupational information and asked for permission to sample of their children’s blood and dust from their mattresses. 812 children from farming and non-farm households with complete data and similar demographics were selected for the study, which was designed to investigate the link between exposure to bacteria during childhood and the development of allergic responses, especially atopic conditions such as asthma. Dust samples were analyzed for the presence of dust and storage mites and cat dander and also for bacterial endotoxin, which persists after the death of the bacteria which produced it. Blood samples were analyzed for the presence of IgE antibodies to common allergens, such as dust and storage mites, grass and birch pollen, and cat and cow dander. Tables 2 and 3 record some of their findings.
+
+17. [mcq, 1 pt] Which of the following would be most useful in determining the significance of the data above?
+    A) t test
+    B) chi square
+    C) Mantel-Haenszel odds ratio
+    D) Mantel-Haenszel relative risk
+
+18. [frq, 1 pt] Assuming the standard alpha level of 0.05, which of these exposures are significantly different for farm and nonfarm households?
+
+19. [frq, 2 pt] What type of study is this?
+
+20. [frq, 1 pt] What feature of the study makes it not simply an ecological analysis?
+
+21. [frq, 1 pt] What measure of risk is generally preferred for this type of study?
+
+22. [frq, 6 pt] Data on health outcomes is shown in table 3. Calculate the relative risk of each condition for farming children in comparison to nonfarm children.
+
+23. [frq, 1 pt] Which of the listed conditions seem to have a clear relationship with farming status?
+
+24. [frq, 1 pt] Which shows the strongest relationship?
+
+25. [frq, 2 pt] One of these relationships was shown not to be statistically significant. Which was it most likely to be and why?
+
+26. [frq, 1 pt] What does this data suggest about the relationship between atopic conditions and exposure to allergens?
+
+
+=== Part III: General Epidemiology ===
+
+[STIMULUS] Questions 27 and 28 rely on the following estimates:
+Population of the US: 300 million
+Americans with peanut allergy: 3.3 million
+Number of deaths from peanut allergy: about one every five years
+
+27. [frq, 1 pt] If all 300 million Americans were to be exposed to peanuts at the same time, what would the attack rate be?
+
+28. [frq, 1 pt] Calculate the Case Fatality Rate for peanut allergy.
+
+29. [frq, 10 pt] Use the data in tables 4 and 5 below to calculate the age-adjusted death rate for Diabetes Mellitus in the Davis Health District.
+
+30. [frq, 1 pt] Which method of age adjustment is appropriate for this data?
+
+[STIMULUS] Matching. Choose the letter of the term at right that best matches the description at left.
+
+31. [frq, 1 pt] Disease acquired from animals
+
+32. [frq, 1 pt] Habitat in which an infectious agent can multiply
+
+33. [frq, 1 pt] Inanimate object which can transmit infection
+
+34. [frq, 1 pt] Living organism which can transmit infection
+
+35. [frq, 1 pt] Number of cases at a particular moment
+
+36. [frq, 1 pt] Number of cases in a particular month
+
+37. [frq, 1 pt] Number of new cases in a particular month
+
+[STIMULUS] a. Berkson bias
+b. Contagious
+c. Epidemic
+d. Epidemic curve
+e. Fomite
+f. Host
+g. Incidence
+h. Infectious
+i. Mantel-Haenszel OR
+j. Mantel-Haenszel RR
+k. Morbidity
+l. Pandemic
+m. Pathogenicity
+n. Period prevalence
+o. Point prevalence
+p. Random error
+q. Reservoir
+r. Standardized Mortality Ratio
+s. Surveillance bias
+t. Systematic error
+u. Type I error
+v. Type II error
+w. Vector
+x. Virulence
+y. Zoonosis
+
+38. [mcq, 1 pt] Higher than normal number of cases in a population
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+39. [mcq, 1 pt] Higher than normal number of cases in across several populations
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+40. [mcq, 1 pt] Can result from using hospital-based controls
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+41. [mcq, 1 pt] Results when some groups receive more medical attention
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+42. [mcq, 1 pt] Likelihood decreases with increased sample size
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+43. [mcq, 1 pt] Incorrectly accepting the null hypothesis
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+44. [mcq, 1 pt] Observed deaths over expected deaths
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+46. [mcq, 1 pt] Becoming sick or sicker
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+47. [mcq, 1 pt] Disease caused by a biological agent
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+48. [mcq, 1 pt] Capable of being transmitted from one person to another
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+49. [mcq, 1 pt] Ability of a pathogen to cause disease
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+50. [mcq, 1 pt] Measure of disease severity caused by a pathogen
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis
+
+51. [mcq, 1 pt] Histogram showing number of cases by date or time
+    A) Berkson bias
+    B) Contagious
+    C) Epidemic
+    D) Epidemic curve
+    E) Fomite
+    F) Host
+    G) Incidence
+    H) Infectious
+    I) Mantel-Haenszel OR
+    J) Mantel-Haenszel RR
+    K) Morbidity
+    L) Pandemic
+    M) Pathogenicity
+    N) Period prevalence
+    O) Point prevalence
+    P) Random error
+    Q) Reservoir
+    R) Standardized Mortality Ratio
+    S) Surveillance bias
+    T) Systematic error
+    U) Type I error
+    V) Type II error
+    W) Vector
+    X) Virulence
+    Y) Zoonosis

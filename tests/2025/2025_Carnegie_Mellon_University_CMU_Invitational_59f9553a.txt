@@ -1,0 +1,256 @@
+Carnegie Mellon University (CMU) Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  49 questions, 49.0 pts
+Source: scio.ly test archive id 59f9553a-91b7-4ea4-bf65-b6cdaae353bd  |  original files: https://drive.google.com/drive/folders/1rbMt2ccqi6P3pGNOBBqm0shcshxcFibw
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Disease Detectives Exam ===
+
+1. [mcq, 1 pt] Which of the following best differentiates the Clinical Approach from the Public Health Approach?
+    A) The Clinical Approach focuses on the prevention of disease within populations.
+    B) The Public Health Approach focuses on treating diseases in individual patients.
+    C) The Clinical Approach prioritizes individual diagnosis and treatment.
+    D) The Public Health Approach relies exclusively on curative interventions.
+
+2. [mcq, 1 pt] In the Natural History and Spectrum of Disease, the period between exposure to a pathogen and the appearance of symptoms is known as:
+    A) The preclinical phase
+    B) The incubation period
+    C) The symptomatic phase
+    D) The recovery period
+
+3. [mcq, 1 pt] Which of the following is an example of a noninfectious cause of disease?
+    A) Influenza virus causing the flu
+    B) Escherichia coli causing a foodborne illness
+    C) Prolonged exposure to asbestos causing mesothelioma
+    D) Candida albicans causing a fungal infection
+
+4. [mcq, 1 pt] The 5-Step Process for Surveillance includes:
+    A) Diagnosis, treatment, prevention, reporting, and follow-up
+    B) Data collection, data analysis, interpretation, dissemination, and action
+    C) Surveillance planning, outbreak response, vaccination, case identification, and recovery
+    D) Risk assessment, surveillance design, implementation, evaluation, and publication
+
+5. [mcq, 1 pt] Which of the following is a key attribute of a surveillance system?
+    A) Cost-effectiveness
+    B) Accuracy of clinical treatment
+    C) Inclusion of only infectious diseases
+    D) Ability to eliminate all health risks
+
+6. [mcq, 1 pt] In an outbreak scenario, the person, place, and time triad helps to:
+    A) Identify potential sources of exposure and guide prevention efforts
+    B) Determine the genetic sequence of the pathogen causing the outbreak
+    C) Conduct laboratory testing to identify the causative agent
+    D) Provide a definitive cure for the disease
+
+7. [mcq, 1 pt] An epidemic curve (epi curve) is most useful for:
+    A) Calculating the genetic similarity of pathogens in an outbreak
+    B) Identifying patterns of disease spread over time
+    C) Assessing the effectiveness of clinical treatments
+    D) Determining specific individual cases affected by the outbreak
+
+8. [mcq, 1 pt] Which of the following Bradford Hill Criteria is most relevant when examining whether exposure to a chemical caused a disease outbreak?
+    A) Consistency – observing the same association across multiple studies
+    B) Temporality – ensuring exposure precedes disease onset
+    C) Plausibility – determining whether the relationship makes biological sense
+    D) Specificity – associating one cause with one effect
+
+9. [mcq, 1 pt] Which causality model is most appropriate for analyzing complex multifactorial causes of disease in an outbreak scenario?
+    A) Koch’s postulates
+    B) Directed acyclic graphs (DAGs)
+    C) Bradford Hill criteria
+    D) PulseNet
+
+10. [mcq, 1 pt] The PulseNet concept is primarily used to:
+    A) Develop vaccines for specific pathogens in outbreaks
+    B) Compare the molecular fingerprints of pathogens across different outbreaks
+    C) Construct epidemiological models for predicting outbreak dynamics
+    D) Analyze sufficient/component causes of disease in a population
+
+11. [mcq, 1 pt] In the context of an outbreak investigation, which study design is most appropriate for identifying risk factors associated with a rare disease?
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Ecological study
+
+12. [mcq, 1 pt] In an outbreak scenario, calculating the attack rate involves:
+    A) Determining the proportion of exposed individuals who developed the disease
+    B) Assessing the basic reproductive number (R₀) of the pathogen
+    C) Comparing disease incidence across populations with different exposure levels
+    D) Estimating the number of cases prevented by herd immunity
+
+13. [mcq, 1 pt] Which of the following steps in an outbreak investigation is critical for generating hypotheses about the potential cause of the outbreak?
+    A) Define the problem using person, place, and time
+    B) Perform laboratory testing to confirm the diagnosis
+    C) Implement control and prevention measures
+    D) Conduct a literature review on similar outbreaks
+
+14. [mcq, 1 pt] Which epidemiological measure would you use to assess the strength of the association between an exposure and an outcome in a cohort study?
+    A) Odds ratio
+    B) Attack rate
+    C) Relative risk
+    D) Incidence proportion
+
+15. [mcq, 1 pt] When evaluating causality for an outbreak, which causality framework is most robust for analyzing multifactorial interactions between agent, host, and environment?
+    A) Bradford Hill Criteria
+    B) Koch’s Postulates
+    C) Sufficient/Component Cause Model
+    D) Evan’s Postulates
+
+16. [mcq, 1 pt] In an outbreak, if the basic reproductive number (R₀) of a pathogen is 3, what percentage of the population must be immune to achieve herd immunity?
+    A) 50%
+    B) 75%
+    C) 33%
+    D) 67%
+
+17. [mcq, 1 pt] What type of epi curve suggests a continuous common source of exposure in an outbreak?
+    A) A curve with a steep rise followed by a gradual decline
+    B) A curve with multiple peaks over time
+    C) A flat, sustained curve over a longer period
+    D) A single peak with no secondary cases
+
+18. [mcq, 1 pt] What is the primary purpose of PulseNet in outbreak investigations?
+    A) To predict outbreak patterns using statistical models
+    B) To sequence entire genomes of pathogens
+    C) To compare genetic fingerprints of pathogens across outbreaks
+    D) To measure herd immunity levels in affected populations
+
+19. [mcq, 1 pt] Which measure is most appropriate to calculate the likelihood of disease in exposed vs. non-exposed populations during an outbreak?
+    A) Odds ratio
+    B) Attack rate
+    C) Herd immunity threshold
+    D) Relative risk
+
+20. [mcq, 1 pt] When using the agent, host, and environment triad, which of the following would classify as an environmental factor?
+    A) Overcrowding in a community
+    B) Genetic predisposition of the host
+    C) Virulence of the pathogen
+    D) Immune response of an individual
+
+21. [mcq, 1 pt] In a study evaluating the effectiveness of a new vaccine, which of the following would be an appropriate control group?
+    A) Individuals with a confirmed history of infection
+    B) Individuals who did not receive the vaccine
+    C) Individuals with a different vaccination history
+    D) Individuals receiving an unrelated medical treatment
+
+22. [mcq, 1 pt] Which of the following is an example of confounding in a study on disease risk factors?
+    A) Errors in data collection lead to inaccurate exposure assessments.
+    B) Smoking is associated with lung cancer, but smoking also correlates with alcohol consumption.
+    C) The sample size is too small to detect a statistically significant association.
+    D) There is misclassification of cases and controls in the study population.
+
+23. [mcq, 1 pt] A confidence interval for a relative risk of 3.5 is given as (2.5, 4.5). How should this CI be interpreted?
+    A) The true RR is 3.5.
+    B) The true RR is more likely to be 2.5 than 4.5.
+    C) There is a 95% chance the true RR lies between 2.5 and 4.5.
+    D) The association is not statistically significant.
+
+24. [mcq, 1 pt] In a study design, stratification is primarily used to:
+    A) Minimize selection bias in the sample population.
+    B) Control for confounding variables by analyzing subgroups separately.
+    C) Randomly assign participants to experimental and control groups.
+    D) Ensure that all potential outcomes are measured uniformly.
+
+25. [mcq, 1 pt] What measure is most commonly used to assess vaccine effectiveness in the field?
+    A) Relative risk of disease in vaccinated versus unvaccinated individuals
+    B) Proportion of adverse events reported after vaccination
+    C) Reduction in disease severity among vaccinated individuals
+    D) The percentage of the population that achieves herd immunity
+
+26. [mcq, 1 pt] When designing control and prevention measures for an infectious disease outbreak, which of the following is an example of primary prevention?
+    A) Quarantine of exposed individuals
+    B) Vaccination campaigns to prevent initial infections
+    C) Antibiotic treatment of confirmed cases
+    D) Surveillance to monitor new cases
+
+27. [mcq, 1 pt] Which of the following is a limitation of observational studies in outbreak investigations?
+    A) They cannot establish causal relationships due to lack of randomization.
+    B) They are limited to small sample sizes.
+    C) They require laboratory confirmation of every case.
+    D) They cannot measure rates of disease in exposed populations.
+
+28. [mcq, 1 pt] When considering adjusted rates in epidemiological studies, the main goal is to:
+    A) Standardize rates to account for differences in population characteristics.
+    B) Minimize sampling error in the study.
+    C) Ensure rates are accurate for small populations.
+    D) Compare unstratified data to adjusted outcomes.
+
+29. [mcq, 1 pt] Which public health intervention represents secondary prevention in outbreak control?
+    A) Mass distribution of insecticide-treated bed nets to prevent malaria transmission
+    B) Screening programs to identify and treat early cases of tuberculosis
+    C) Educational campaigns about the dangers of smoking
+    D) Rehabilitation programs for individuals recovering from poliomyelitis
+
+30. [mcq, 1 pt] What is the main distinction between vaccine efficacy and vaccine effectiveness?
+    A) Efficacy measures reduction of disease in ideal conditions; effectiveness measures it in real-world settings.
+    B) Efficacy accounts for herd immunity; effectiveness does not.
+    C) Effectiveness is calculated in clinical trials, whereas efficacy is used in post-marketing studies.
+    D) Efficacy focuses on the individual, while effectiveness considers population-wide effects.
+
+31. [mcq, 1 pt] Who is often referred to as the ”father of modern epidemiology” for his work on tracing the source of a cholera outbreak in London in 1854?
+    A) John Snow
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Robert Koch
+
+32. [mcq, 1 pt] What is the first step in solving a public health problem using epidemiology?
+    A) Developing and testing a hypothesis
+    B) Collecting and analyzing data
+    C) Defining the health problem
+    D) Implementing and evaluating interventions
+
+33. [mcq, 1 pt] The Natural History of Disease model includes which stages?
+    A) Exposure, incubation, treatment, and recovery
+    B) Pre-pathogenesis, pathogenesis, clinical disease, and resolution
+    C) Infection, immunity, outbreak, and eradication
+    D) Introduction, transmission, outbreak, and elimination
+
+34. [mcq, 1 pt] Which of the following is an infectious cause of disease?
+    A) Prions causing Creutzfeldt-Jakob Disease
+    B) Exposure to asbestos causing mesothelioma
+    C) Radiation exposure causing thyroid cancer
+    D) High levels of lead causing neurotoxicity
+
+35. [mcq, 1 pt] Which public health term refers to ongoing systematic collection, analysis, and interpretation of health data?
+    A) Surveillance
+    B) Monitoring
+    C) Research
+    D) Experimentation
+
+36. [mcq, 1 pt] What does the term ”vector” refer to in public health?
+    A) A microorganism causing disease
+    B) A living organism that transmits a pathogen to a host
+    C) The direct cause of a noninfectious disease
+    D) A specific location where outbreaks occur
+
+37. [mcq, 1 pt] What is an important attribute of a surveillance system that ensures data is available quickly enough to inform public health decisions?
+    A) Representativeness
+    B) Simplicity
+    C) Timeliness
+    D) Flexibility
+
+38. [mcq, 1 pt] Which type of surveillance involves actively seeking out cases, often by contacting healthcare providers or facilities?
+    A) Passive surveillance
+    B) Syndromic surveillance
+    C) Active surveillance
+    D) Sentinel surveillance
+
+39. [frq, 1 pt] The ____ of a disease is the number of new cases that occur during a specified period in a defined population.
+
+40. [frq, 1 pt] The ____ is the proportion of a population that has a specific disease at a given time, combining new and existing cases.
+
+41. [frq, 1 pt] The ____ strategy focuses on reducing the impact of a disease that has already occurred through treatment and rehabilitation.
+
+42. [frq, 1 pt] To calculate the ____ for a specific outbreak, divide the number of new cases by the number of individuals at risk and multiply by 100 to express as a percentage.
+
+43. [frq, 1 pt] In analyzing mortality data, the ____ rate is the number of deaths in a given population during a specific period divided by the total population at risk.
+
+44. [frq, 1 pt] A graph showing a single peak with rapid rise and fall in cases over time is indicative of a ____ exposure outbreak.
+
+45. [frq, 1 pt] ____ is the process of identifying patterns and trends in epidemiologic data to determine the burden of disease or the effectiveness of interventions.
+
+47. [frq, 1 pt] One strength of ____ prevention strategies is their ability to address risk factors before disease develops, but a potential weakness is the difficulty in achieving widespread compliance.
+
+48. [frq, 1 pt] The effectiveness of an intervention can be evaluated by comparing ____ data, which measure health outcomes before and after the intervention is implemented.
+
+49. [frq, 1 pt] To determine the proportion of individuals who died from a disease compared to all those diagnosed with the disease, calculate the ____ rate.
+
+50. [frq, 1 pt] In disease control, measures like quarantine and isolation focus on breaking the ____ within the agent-host-environment triad.

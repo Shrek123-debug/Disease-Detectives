@@ -1,0 +1,189 @@
+CSE (Captains Summer Exchange) — Disease Detectives (Davis Senior High School)  |  Season 2026  |  Division C  |  Time limit 50 min  |  65 questions, 102.0 pts
+Source: scio.ly test archive id 881d1fb3-e9de-4b63-ae70-8ed551661103  |  original files: https://drive.google.com/drive/folders/10PveYovCgCFrvqiCZswZkDJZoRfIyCb7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+
+=== Part 1: Vocabulary ===
+
+P1-1. [frq, 1 pt] Define: Pandemic
+
+P1-2. [frq, 1 pt] Define: Iatrogenic
+
+P1-3. [frq, 1 pt] Define: Zoonosis
+
+P1-4. [frq, 1 pt] Define: Prevalence
+
+P1-5. [frq, 1 pt] Define: Index Case
+
+P1-6. [frq, 1 pt] Define: Nosocomial Disease
+
+P1-7. [frq, 1 pt] Define: Etiology
+
+P1-8. [frq, 1 pt] Define: Surveillance
+
+P1-9. [frq, 1 pt] Define: Epidemiology
+
+P1-10. [frq, 1 pt] Define: Incidence
+
+P1-11. [frq, 1 pt] Define: Incubatory carrier/vector
+
+P1-12. [frq, 1 pt] Define: Quasi Experiments
+
+P1-13. [frq, 1 pt] Define: Active Immunity
+
+P1-14. [frq, 1 pt] Define: Endemic
+
+P1-15. [frq, 1 pt] Define: Virus
+
+
+=== Part 2: Diseases ===
+
+P2-1. [frq, 1 pt] Identify the pathogen type for: Psittacosis
+
+P2-2. [frq, 1 pt] Identify the pathogen type for: Kuru
+
+P2-3. [frq, 1 pt] Identify the pathogen type for: Botulism
+
+P2-4. [frq, 1 pt] Identify the pathogen type for: Celiac Disease
+
+P2-5. [frq, 1 pt] Identify the pathogen type for: Mad Cow Disease
+
+P2-6. [frq, 1 pt] Identify the pathogen type for: Scrapie
+
+P2-7. [frq, 1 pt] Identify the pathogen type for: Rickettsiosis
+
+P2-8. [frq, 1 pt] Identify the pathogen type for: Impetigo
+
+P2-9. [frq, 1 pt] Identify the pathogen type for: Bolivian hemorrhagic fever
+
+P2-10. [frq, 1 pt] Identify the pathogen type for: Paracoccidioidomycosis
+
+P2-11. [frq, 1 pt] Identify the pathogen type for: Strep Throat
+
+P2-12. [frq, 1 pt] Identify the pathogen type for: Tularemia
+
+P2-13. [frq, 1 pt] Identify the pathogen type for: Malaria
+
+P2-14. [frq, 1 pt] Identify the pathogen type for: Shingles
+
+P2-15. [frq, 1 pt] Identify the pathogen type for: Influenza
+
+
+=== Part 3: Surveillance ===
+
+[STIMULUS] What are the five phases of the public health surveillance process?
+
+3-1a. [frq, 1 pt] Phase a of the public health surveillance process.
+
+3-1b. [frq, 1 pt] Phase b of the public health surveillance process.
+
+3-1c. [frq, 1 pt] Phase c of the public health surveillance process.
+
+3-1d. [frq, 1 pt] Phase d of the public health surveillance process.
+
+3-1e. [frq, 1 pt] Phase e of the public health surveillance process.
+
+[STIMULUS] Define these types of surveillance:
+
+3-2a. [frq, 2 pt] Define Active surveillance.
+
+3-2b. [frq, 2 pt] Define Passive surveillance.
+
+3-2c. [frq, 2 pt] Define Sentinel surveillance.
+
+
+=== Part 4: Short Answer ===
+
+[STIMULUS] List the definitions, intent, and an example of each level of prevention.
+
+4-1a. [frq, 2 pt] Primordial prevention: definition/intervention.
+
+4-1c. [frq, 2 pt] Primordial prevention: example.
+
+4-1d. [frq, 2 pt] Primary prevention: definition/intervention.
+
+4-1f. [frq, 2 pt] Primary prevention: example.
+
+4-1g. [frq, 2 pt] Secondary prevention: definition/intervention.
+
+4-1i. [frq, 2 pt] Secondary prevention: example.
+
+4-1j. [frq, 2 pt] Tertiary prevention: definition/intervention.
+
+4-1l. [frq, 2 pt] Tertiary prevention: example.
+
+[STIMULUS] Identify the type of error or bias that is affecting the studies described below, and suggest a method to eliminate the bias
+
+4-2a. [frq, 2 pt] **You** (this is crucial to how you can eliminate the bias) published in the DHS Scientific Journal a study that stated that participating in Science Olympiad would increase a students grades and likelihood of getting into a Top 20 college by 80% (in comparison to the school average), using data collected by the 2025 graduates. However, it failed to report the possible lurking variable of the amount each student studied in comparison to other students, which was about 4x as much.
+
+4-2b. [frq, 2 pt] Being a Gnarly fan of Boba Tea, Lara Raj believed that drinking it daily was very healthy. However, her Google search was “Can boba tea be healthy?”, leading all the Google results to answer her question affirmatively, further proving her hypothesis.
+
+4-2c. [frq, 2 pt] While measuring heights for a study, I accidentally read my height as 58 feet instead of 5 ft 8 inches. Because of this, my graph was very skewed, and lead my results to completely change.
+
+[STIMULUS] Identify the type of study used in the situations below
+
+4-3a. [frq, 2 pt] In order to see if yesterday’s chicken noodle soup at Safeway was the cause of explosive diarrhea around the store, the underpaid employee split the customers into those that had eaten the chicken noodle soup and those who had not & calculated the frequency of disease in each.
+
+4-3b. [frq, 2 pt] After prom, many students fell ill with Badatdancing syndrome. To figure out the cause, the principal surveyed those who fell sick and those who did not, while also asking if they were on the dance floor during Watch me (Whip/Nae Nae). Later, the student organizes their data in a 2x2 table and calculates an odds ratio to see if there was an association between attempting dancing during that song and getting the disease.
+
+4-3c. [frq, 2 pt] A drug-developing company tested the effectiveness of their new drug in treating Alzheimer’s Disease. To do this, the researchers randomized the patients into a treatment group and a group who receives no treatment everyday and assessed the outcome.
+
+4-3d. [frq, 2 pt] I have a pet worm that loves digging through other people’s dirt. However, if someone’s dirt has chemical fertilizer, he will die. In order to protect him, I send out a survey to everyone in my neighborhood in order to ask if they use chemical fertilizer.
+
+4-5. [frq, 9 pt] List the Bradford Hill Criteria.
+
+
+=== Part 5: Case Analysis ===
+
+[STIMULUS] On March 5th, Davis Senior High School held a special lunch event. A total of 1060 students participated in the lunch, which included several new menu items. Within 72 hours, the local health department received reports of gastrointestinal illness among students who ate the lunch. Students reported symptoms including nausea, stomach pain, vomiting, diarrhea, and fever.
+
+5-1. [frq, 4 pt] Create a case definition for this outbreak.
+
+5-2. [matching, 3 pt] Classify each case below in the rightmost column (½ points each, 3 points total).
+    - A: Nausea, vomiting, diarrhea; Ate at DSHS Lunch: Yes; Lab Test Confirmation: Positive  <->  Confirmed
+    - B: Stomach pain, nausea, fever; Ate at DSHS Lunch: Yes; Lab Test Confirmation: Pending  <->  Confirmed
+    - C: Nausea, fever, vomiting; Ate at DSHS Lunch: Unknown; Lab Test Confirmation: Pending  <->  Not a case
+    - D: Headache; Ate at DSHS Lunch: No; Lab Test Confirmation: Negative  <->  Not a case
+    - E: Fever, nausea, vomiting; Ate at DSHS Lunch: Yes; Lab Test Confirmation: Positive  <->  Probable
+    - F: Fever, nausea; Ate at DSHS Lunch: Unknown; Lab Test Confirmation: Negative  <->  Suspect
+
+[STIMULUS] Below is a table of the foods served at DSHS on March 5th, and how many students became ill from each food (assume each student only ate one of the foods in this table)
+
+Total who dined = 1060
+
+| Food | Sick (572) | Not Sick (488) |
+|---|---|---|
+| Fries (180) | 80 | 100 |
+| Salad (207) | 146 | 61 |
+| Pepperoni Pizza (220) | 108 | 112 |
+| Burgers (200) | 113 | 87 |
+| Cheese Pizza (253) | 125 | 128 |
+
+5-5. [frq, 2 pt] Which food is most likely the cause of the food poisoning outbreak? Why?
+
+[STIMULUS] After more investigation, it is determined that norovirus was the reason for the illnesses
+
+5-6a. [frq, 1 pt] What is the primary mode of transmission of norovirus?
+
+5-6b. [mcq, 1 pt] In this scenario, was it direct or indirect transmission?
+    A) Direct
+    B) Indirect
+
+5-6c. [frq, 1 pt] Suggest a method of primary disease prevention for this norovirus outbreak
+
+[STIMULUS] A local pharmaceutical company is currently developing a new rapid test for Norovirus infections. To evaluate the test's effectiveness, they used samples from students affected in the recent norovirus outbreak at Davis Senior High School. Researchers gathered the following data comparing the test results to confirmed cases of infection. Using the provided data, calculate the values below (round to the nearest thousandth) and interpret what each measurement means.
+
+True Positives: 304
+True Negatives: 885
+False Positives: 80
+False Negatives: 243
+
+5-8a. [frq, 2 pt] Sensitivity
+
+5-8b. [frq, 2 pt] Specificity
+
+5-8c. [frq, 2 pt] Positive Predictive Value
+
+5-8d. [frq, 2 pt] Negative Predictive Value
+
+5-8e. [frq, 2 pt] In this context, is it better for a test to have a higher sensitivity or a higher specificity? Explain why.

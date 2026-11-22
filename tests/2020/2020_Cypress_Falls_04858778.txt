@@ -1,0 +1,45 @@
+Cypress Falls — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  16 questions, 47.0 pts
+Source: scio.ly test archive id 04858778-b733-41b9-8604-4ada33bbeb95  |  original files: https://drive.google.com/drive/folders/1lxxG3aJf1Kvhfo4q1q7tVuwnRDaT1NWP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Part 1. ===
+
+1a. [frq, 2 pt] From the graph below, how much more likely is a British male doctor to die at age 80 if the doctor is a smoker vs. a doctor who is a non-smoker.
+    [IMAGE: ../images/2020_cypress_falls_c__d_1205d2-e3c6cd6d.webp]
+
+1b. [frq, 2 pt] From the Table 1.2 below, determine about how many times more likely is a person to die from lung cancer if the person smoked and also had exposure to asbestos vs. a person who had exposure to asbestos but did not smoke
+    [IMAGE: ../images/2020_cypress_falls_c__d_a486c4-c2eb00cc.webp]
+
+2. [frq, 3 pt] What are clinical health approaches. And what are the factors involved?
+
+3. [frq, 4 pt] What are public health approaches. And what are the factors involved?
+
+4. [frq, 3 pt] What is the largest group of malignant neoplasm?
+
+5. [frq, 3 pt] What is the difference between keloid and an adhesion?
+
+6. [frq, 3 pt] What are “three possible (perhaps coexistent) adverse outcomes of manifestations?
+
+7. [frq, 4 pt] What is the stage between the exposure and onset of symptoms in a disease called?
+
+8. [frq, 3 pt] Describe the difference between infectivity, Pathogenicity and Virulence
+
+
+=== Part 2. ===
+
+[STIMULUS] On the morning of March 11, the Texas Department of Health (TDH) in Austin received a telephone call from a student at a university in south-central Texas. The student reported that he and his roommate, a fraternity brother, were suffering from nausea, vomiting, and diarrhea. Both had become ill during the night. The roommate had taken an over-the-counter medication with some relief of his symptoms. Neither the student nor his roommate had seen a physician or gone to the emergency room. The students believed their illness was due to food they had eaten at a local pizzeria the previous night. They asked if they should attend classes and take a biology midterm exam that was scheduled that afternoon. A call to the emergency room at a local hospital (Hospital A) revealed that 23 university students had been seen for acute gastroenteritis in the last 24 hours. In contrast, only three patients had been seen at the emergency room for similar symptoms from March 5-9, none of whom were associated with the university. At 10:30 A.M., the physician from the University Student Health Center returned the call from TDH and reported that 20 students with vomiting and diarrhea had been seen the previous day. He believed only 1-2 students typically would have been seen for these symptoms in a week. The Health Center had not collected stool specimens from any of the ill students.
+
+9. [frq, 4 pt] Explain why you might consider this problem important enough to investigate. Give at least three reasons for investigating.
+
+10. [frq, 3 pt] What information may help shorten the list of possible causes? Give two possible agents.
+
+11. [frq, 2 pt] Develop and specify probable hypotheses to explain the source of the outbreak.
+
+12. [frq, 2 pt] Develop and specify probable hypotheses to explain the spread of the outbreak.
+
+13. [frq, 2 pt] What is the most important piece of information to collect from the student in order to investigate the issue further?
+
+14. [frq, 3 pt] What would you advise the student about attending classes that day?
+
+15. [frq, 4 pt] Do you think these cases of gastroenteritis represent an outbreak at the university? Why or why not? Is there enough information to know?

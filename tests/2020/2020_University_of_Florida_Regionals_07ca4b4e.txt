@@ -1,0 +1,242 @@
+University of Florida Regionals — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  43 questions, 46.0 pts
+Source: scio.ly test archive id 07ca4b4e-0088-4e9b-b949-203264e34d0d  |  original files: https://drive.google.com/drive/folders/11CZXD86x0qCNl5P1qkKso7qQ_lqUTjSJ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Bacteria ===
+
+1. [tf, 1 pt] True or False: If a bacteria forms colonies in your body, you will always get a disease.
+    A) True
+    B) False
+
+2. [tf, 1 pt] True or False: Bacteria are alive.
+    A) True
+    B) False
+
+3. [mcq, 1 pt] How would a scientist at the CDC likely determine which strain of E. coli was involved in an outbreak?
+    A) Culture a patient sample and a sample from contaminated food on an agar plate and compare the colonies
+    B) Infect lab animals with patient samples and samples from infected food and compare the symptoms
+    C) Infect cultured human cells with patient samples and samples from infected food and compare the effects on the cells
+    D) Sequence the genome of patient samples and samples from infected food and compare the genomes
+
+4. [mcq, 1 pt] The toxin responsible for producing symptoms in E. coli infections commonly associated with food-borne outbreaks is:
+    A) Colitoxin
+    B) Toxin E
+    C) Shiga toxin
+    D) Escherichia toxin
+
+5. [tf, 1 pt] True or false: the presence of E. coli in water is an indicator of contamination by feces.
+    A) True
+    B) False
+
+6. [mcq, 1 pt] Why might it be a bad idea to give antibiotics to patients suffering from an intestinal E. coli infection?
+    A) The infecting strain may develop antibiotic resistance
+    B) The antibiotics will kill off all of the patient’s microbiome and allow the infecting strain to overrun the body
+    C) The patient may develop hemolytic uremic syndrome, a type of kidney failure
+    D) The patient may rapidly become dehydrated
+
+7. [mcq, 1 pt] An E. coli infection typically originates from which of the following food sources?
+    A) Produce
+    B) Ground beef
+    C) Fruit juice
+    D) All of the above
+
+8. [tf, 1 pt] True or false: it is possible to have E. coli in your body without getting sick.
+    A) True
+    B) False
+
+9. [mcq, 1 pt] How many Salmonella infections are estimated to occur in the United States every year?
+    A) Around 10,000
+    B) Around 100,000
+    C) Around 500,000
+    D) Around 1,000,000
+
+10. [mcq, 1 pt] Which age group is most likely to contract a Salmonella infection?
+    A) Children and infants
+    B) Teenagers
+    C) Adults
+    D) Elderly patients
+
+11. [mcq, 1 pt] All of the following are usually sources of a Salmonella infection except:
+    A) Pets
+    B) People
+    C) Wild animals
+    D) Spiders
+
+12. [mcq, 1 pt] Salmonella samples collected from patients are usually from the patient’s:
+    A) Mucus
+    B) Blood
+    C) Stool
+    D) Urine
+
+13. [mcq, 1 pt] People with a Bordetella pertussis (whooping cough) infection are most contagious:
+    A) 0-3 days after coughing is observed
+    B) 4-7 days after the bacteria is contracted
+    C) 7-10 days after fever is observed
+    D) 2 weeks after coughing is observed
+
+14. [mcq, 1 pt] Whooping cough in infants can result in apneas. An apnea is:
+    A) Uncontrolled vomiting
+    B) A pause in regular breathing pattern
+    C) A severe sore throat
+    D) Nightmares
+
+15. [mcq, 1 pt] Whooping cough is usually treated with:
+    A) Hospitalization
+    B) Vacuuming out nasal passages
+    C) Antibiotics
+    D) There is no treatment for whooping cough
+
+16. [mcq, 1 pt] Worldwide, how many cases of whooping cough are estimated to occur yearly?
+    A) 1-2 million
+    B) 5-10 million
+    C) 15-25 million
+    D) Over 50 million
+
+
+=== Viruses ===
+
+17. [tf, 1 pt] True or False: A person who has a virus will always show disease symptoms.
+    A) True
+    B) False
+
+18. [tf, 1 pt] True or False: Viruses are alive.
+    A) True
+    B) False
+
+19. [mcq, 1 pt] What percentage of the US population gets an influenza infection every year?
+    A) 1-3%
+    B) 3-11%
+    C) 15-20%
+    D) 20-30%
+
+20. [mcq, 1 pt] Who is recommended to get the flu vaccine?
+    A) Infants, at birth
+    B) Patients 6 months and older
+    C) Patients 1 year and older
+    D) Patients 4 years and older
+
+21. [mcq, 1 pt] What type of medication is typically prescribed for flu patients?
+    A) Vitamins
+    B) Antibiotics
+    C) Probiotics
+    D) Antivirals
+
+22. [mcq, 1 pt] How do rapid influenza diagnostic tests (RIDTs) work?
+    A) They provide samples of the virus which can be cultured in the lab
+    B) They identify the presence of flu virus antigens
+    C) They test the patient for symptoms which are common to the flu
+    D) They compare patient vital signs with other flu patients
+
+23. [tf, 1 pt] True or False: Every flu patient will have a fever.
+    A) True
+    B) False
+
+24. [mcq, 1 pt] What is an influenza pandemic?
+    A) A rapid local outbreak of flu
+    B) A global outbreak of a new strain of flu
+    C) The rapid spread of an old strain of flu
+    D) The spreading of an outbreak of flu from one country to another
+
+25. [mcq, 1 pt] The primary symptom of a norovirus infection in most individuals is:
+    A) Diarrhea and vomiting
+    B) Inability to swallow
+    C) Severe fever
+    D) Most people will not show symptoms
+
+26. [mcq, 1 pt] Which of the following viruses is not related to the other three?
+    A) Swine flu
+    B) Avian flu
+    C) Spanish flu
+    D) Stomach flu
+
+27. [mcq, 1 pt] Norovirus outbreaks in the United States occur most commonly from:
+    A) November to April
+    B) April to June
+    C) July to August
+    D) September to November
+
+28. [mcq, 1 pt] Norovirus samples collected from patients are usually samples of the patient’s:
+    A) Mucus
+    B) Blood
+    C) Stool
+    D) Urine
+
+29. [mcq, 1 pt] The primary reservoir for the zika virus is:
+    A) Birds
+    B) Mosquitos
+    C) Ticks
+    D) Cows
+
+30. [mcq, 1 pt] The primary symptom of a zika virus infection in most individuals is:
+    A) Diarrhea and vomiting
+    B) Severe fatigue
+    C) Heavy respiratory congestion
+    D) Most people will not show symptoms
+
+31. [mcq, 1 pt] The last reported case of zika virus transmitted from mosquitos in the United States was in:
+    A) 2020
+    B) 2019
+    C) 2018
+    D) 2017
+
+32. [tf, 1 pt] True or False: A vaccine exists for the zika virus.
+    A) True
+    B) False
+
+
+=== Diseases and Prevention ===
+
+33. [mcq, 1 pt] What is a zoonotic disease?
+    A) A disease which is spread only between animals
+    B) A disease which is spread at zoos
+    C) A disease which is spread from humans to animals
+    D) A disease which is spread from animals to humans
+
+34. [mcq, 1 pt] A toxoid is:
+    A) A weaker version of a toxin
+    B) The form a toxin takes once processed by the body
+    C) A compound that causes disease but does not originate in a microbe
+    D) A modified form of a toxin which does not cause disease
+
+35. [mcq, 1 pt] When enough members of a population have gained immunity to block the transfer of a disease to the population’s susceptible members, this is known as:
+    A) Group protection
+    B) Population vaccination
+    C) Herd immunity
+    D) Vaccine effect
+
+36. [mcq, 1 pt] You are presented with a patient exhibiting exhaustion and a recurring cough that has lasted for several weeks. The pathogen most likely responsible for this is:
+    A) Zika virus
+    B) Influenzavirus
+    C) Bordetella pertussis
+    D) Norovirus
+
+37. [mcq, 1 pt] You are presented with a patient exhibiting severe stomach pains, vomiting, and bloody diarrhea. The patient reports eating at a salad bar four days ago. The pathogen most likely responsible for this is:
+    A) Norovirus
+    B) E. coli
+    C) Bordetella pertussis
+    D) Influenzavirus
+
+38. [mcq, 1 pt] You are presented with a patient exhibiting mild aches, a fever, and intense stomach cramps which developed overnight. The patient works at a day care center and is frequently in contact with young children. The pathogen most likely responsible for this is:
+    A) Salmonella
+    B) Norovirus
+    C) E. coli
+    D) Influenzavirus
+
+39. [mcq, 1 pt] You are presented with a patient exhibiting nausea, vomiting, and a headache. The patient works on a farm and is regularly in contact with animals. The patient reports seeing blood in their stool recently. The pathogen most likely responsible for this is:
+    A) Norovirus
+    B) Salmonella
+    C) Influenzavirus
+    D) Bordetella pertussis
+
+40. [mcq, 1 pt] You are presented with a patient exhibiting aches, a fever, and a runny nose. The patient has had a sore throat for two days and is reporting heavy sinus congestion. The patient has received the flu vaccine. The pathogen most likely responsible for this is:
+    A) Zika virus
+    B) Bordetella pertussis
+    C) Influenzavirus
+    D) Norovirus
+
+41. [frq, 1 pt] Would it be easier to eradicate a disease with obvious, more dangerous symptoms, or a disease with weaker, less-dangerous symptoms? Why?
+
+42. [frq, 3 pt] You are presented with a patient severe respiratory distress caused by a strain of bacteria. Explain how you would experimentally decide whether or not treatment with antibiotics would be successful.
+
+43. [frq, 2 pt] You are tasked with developing a vaccine for the CDC against a bacterial toxin. What would you use as the primary component of your vaccine, and what outcome would you consider successful upon vaccination of a patient?

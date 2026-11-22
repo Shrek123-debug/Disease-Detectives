@@ -1,0 +1,877 @@
+Tiger Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  82 questions, 78.6 pts
+Source: scio.ly test archive id 603727b1-e45e-42bf-a342-df4dd335a71c  |  original files: https://drive.google.com/drive/folders/1SfRGTD4hto_3QMKW9kc4J6fQ4sJNfCQV
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== PART I. Matching. Match the definition with the correct term. Answers are only used once. ===
+
+[STIMULUS] a. Pandemic
+b. Attack Rate
+c. Inoculum
+d. Endemic
+e. Surveillance
+f. Fomite
+g. Nosocomial infection
+h. Endotoxin
+i. Aerosol Transmission
+j. Confounding
+k. Cluster
+l. Outbreak
+m. Zoonosis
+n. Risk
+o. Listeriosis
+p. Lactoferrin
+q. Vector
+r. Epi curve
+s. Jaundice
+t. Epidemic
+
+1. [mcq, 1 pt] A histogram showing the course of the disease or outbreak to identify the source of the exposure.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+2. [mcq, 1 pt] A substance present on the surface of a gram-negative bacteria that is released when cells are destroyed by infection.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+3. [mcq, 1 pt] A substance that is introduced into the body to produce of increase immunity to a particular disease.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+4. [mcq, 1 pt] A yellowish tinge to the skin and tissues caused by bile pigments; a common symptom of liver disease.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+5. [mcq, 1 pt] An aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+6. [mcq, 1 pt] An inanimate object that may be contaminated with infectious organisms and serve in transmission.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+7. [mcq, 1 pt] An infection acquired in a hospital setting.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+8. [mcq, 1 pt] An infection with a bacteria that could be found in vegetables, milk, cheese, meat, or seafood.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+9. [mcq, 1 pt] An insect or other organism that transmits a pathogenic fungus, virus, bacterium, etc.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+10. [mcq, 1 pt] Any disease of animals communicable to humans.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+11. [mcq, 1 pt] Large numbers of people over a wide geographic area affected.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+12. [mcq, 1 pt] More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+13. [mcq, 1 pt] Occurs when the effects of two risk factors are mixed in the occurrence of the health-related event under study - when an extraneous factor is related to both disease and exposure.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+14. [mcq, 1 pt] One of the compounds of the immune system of the body; it has antimicrobial activity and is part of the innate defense.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+15. [mcq, 1 pt] Prevalent throughout an entire country, continent, or the whole world; epidemic over a large area.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+16. [mcq, 1 pt] The probability that an individual will be affected by, or die from, an illness or injury within a stated time or age span.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+17. [mcq, 1 pt] The rate that a group experienced an outcome or illness.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+18. [mcq, 1 pt] The systematic, ongoing collection, analysis, interpretation, and dissemination of health data.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+19. [mcq, 1 pt] When a mist of infectious particles released from one person via coughing or sneezing is transmitted to another person.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+20. [mcq, 1 pt] When an infectious agent or disease is constantly present in a given population at a specific level.
+    A) Pandemic
+    B) Attack Rate
+    C) Inoculum
+    D) Endemic
+    E) Surveillance
+    F) Fomite
+    G) Nosocomial infection
+    H) Endotoxin
+    I) Aerosol Transmission
+    J) Confounding
+    K) Cluster
+    L) Outbreak
+    M) Zoonosis
+    N) Risk
+    O) Listeriosis
+    P) Lactoferrin
+    Q) Vector
+    R) Epi curve
+    S) Jaundice
+    T) Epidemic
+
+
+=== PART II. Matching. Identify each study characteristic below with one of the study types. (Answers are used more than once). ===
+
+[STIMULUS] a. Cross-sectional
+b. Case Control
+c. Cohort
+d. Experimental
+
+21. [mcq, 1 pt] Can use a prospective (forward in time) or retrospective (backward in time) approach.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+22. [mcq, 1 pt] Investigator determines through a controlled process the exposure for each individual (clinical trial) or community (community trial), and then tracks the individuals or communities over time to detect the effect of the exposure.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+23. [mcq, 1 pt] Investigator records whether each study participant is exposed or not, and then tracks the participants to see if they develop the disease of interest.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+24. [mcq, 1 pt] Investigators identify a group of people with a disease and a group of persons without disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+25. [mcq, 1 pt] Investigators measure the exposure and health outcomes of a sample of persons in a population simultaneously.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+26. [mcq, 1 pt] Selection of the appropriate comparison group is key to the strength of this design.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+27. [mcq, 1 pt] Uses odds ratio to quantify the relationship between exposure and disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+28. [mcq, 1 pt] Uses relative risk to quantify the relationship between exposure and disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Cohort
+    D) Experimental
+
+
+=== PART III. Matching. Match each disease with its likely cause. Choose the best answer. Answers are NOT used more than once. ===
+
+[STIMULUS] A. Home-canned vegetables
+B. Ready to eat deli meats
+C. Gravies/vanilla sauce
+D. Potato and egg salads
+E. Shellfish such as oysters
+F. Various types of fresh produce
+G. Undercooked hamburger
+H. Unpasteurized milk
+I. Eggs, poultry
+J. Dried or pre-cooked foods
+
+29. [mcq, 1 pt] B. cereus food poisoning
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+30. [mcq, 1 pt] Campylobacteriosis
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+31. [mcq, 1 pt] Botulism
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+32. [mcq, 1 pt] E. coli O157:H7
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+33. [mcq, 1 pt] Listeriosis
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+34. [mcq, 1 pt] Salmonellosis
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+35. [mcq, 1 pt] Staphylococcal food poisoning
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+36. [mcq, 1 pt] V. vulnificus poisoning
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+38. [mcq, 1 pt] Cyclosporiasis
+    A) Home-canned vegetables
+    B) Ready to eat deli meats
+    C) Gravies/vanilla sauce
+    D) Potato and egg salads
+    E) Shellfish such as oysters
+    F) Various types of fresh produce
+    G) Undercooked hamburger
+    H) Unpasteurized milk
+    I) Eggs, poultry
+    J) Dried or pre-cooked foods
+
+
+=== PART V. Multiple choice. Choose the best answer to each question. ===
+
+44. [mcq, 1 pt] Of the following, which has the longest onset time after ingesting?
+    A) norovirus
+    B) hepatitis
+    C) Salmonellosis
+    D) E. coli
+
+45. [mcq, 1 pt] Of the following, which disease can lead to difficulty in swallowing, muscle weakness, and can result in respiratory failure and death?
+    A) norovirus
+    B) hepatitis
+    C) botulism
+    D) Salmonellosis
+
+46. [mcq, 1 pt] Antibodies bind to proteins called?
+    A) DNA
+    B) Antigens
+    C) Antidotes
+    D) Viroids
+
+47. [mcq, 1 pt] Multicullular parasites are most likely to cause disease in humans if they are ingested in which life stage?
+    A) Spore
+    B) Egg
+    C) Larva
+    D) Nymph
+
+48. [mcq, 1 pt] Which of the following is least likely to reproduce outside of its host?
+    A) Bacteria
+    B) Fungi
+    C) Virus
+    D) Worms
+
+49. [mcq, 1 pt] Which of the following historical figures disproved the idea known as “spontaneous generation?”
+    A) Robert Koch
+    B) Louis Pasteur
+    C) John Snow
+    D) Jakob Henle
+
+50. [mcq, 1 pt] Specificity is the proportion of
+    A) True negatives to true positives
+    B) True negatives to clinical negatives
+    C) True positives to false negatives
+    D) False negatives to false positives
+
+51. [mcq, 1 pt] What is the leading cause of adult death in the US?
+    A) Cardiovascular disease
+    B) Cancer
+    C) HIV/AIDS
+    D) Influenza
+
+52. [mcq, 1 pt] Which of the following is NOT a recommendation to prevent foodborne illness?
+    A) clean
+    B) separate
+    C) sterilize
+    D) cook
+
+53. [mcq, 1 pt] Cohort studies differ from case-control studies in that they:
+    A) Can both be concurrent and retrospective
+    B) Are cheaper and more time efficient
+    C) Give more accurate results
+    D) Can be suitable for rare diseases
+
+54. [mcq, 1 pt] A confounding variable is one that:
+    A) Is directly related to the independent variable
+    B) Affects the independent variable
+    C) Correlates with both the independent and dependent variables
+    D) Causes the outcome to be inconclusive
+
+55. [mcq, 1 pt] Relative risk is the primary statistical analysis used in:
+    A) Cohort studies
+    B) Retrospective studies
+    C) Case-control studies
+    D) Randomized control trials
+
+56. [mcq, 1 pt] Odds ratio is the primary statistical analysis used in:
+    A) Cohort studies
+    B) Retrospective studies
+    C) Case-control studies
+    D) Randomized control trials
+
+57. [mcq, 1 pt] Incidence is the number of:
+    A) New cases per time period
+    B) Total cases per population
+    C) Undiagnosed cases
+    D) Potential hosts per population
+
+
+=== PART VI. Match each disease with its causative agent. Answers may be used more than once. ===
+
+[STIMULUS] A. Viral
+B. Bacterial
+C. Protist
+D. Fungal
+
+59. [mcq, 1 pt] Anthrax
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+60. [mcq, 1 pt] Giardiasis
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+61. [mcq, 1 pt] Hepatitis
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+62. [mcq, 1 pt] Lyme Disease
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+63. [mcq, 1 pt] Malaria
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+64. [mcq, 1 pt] Measles
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+65. [mcq, 1 pt] Mononucleosis
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+66. [mcq, 1 pt] Pertussis
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+67. [mcq, 1 pt] Polio
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+68. [mcq, 1 pt] Rabies
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+69. [mcq, 1 pt] Ringworm
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+70. [mcq, 1 pt] Shingles
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+71. [mcq, 1 pt] Tetanus
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+72. [mcq, 1 pt] Thrush
+    A) Viral
+    B) Bacterial
+    C) Protist
+    D) Fungal
+
+
+=== PART VIII. Short answer. ===
+
+[STIMULUS] Name the ten steps to investigate an outbreak.
+    | Label | Answer |
+    | 1 | [[q:81-1]] |
+    | 2 | [[q:81-2]] |
+    | 3 | [[q:81-3]] |
+    | 4 | [[q:81-4]] |
+    | 5 | [[q:81-5]] |
+    | 6 | [[q:81-6]] |
+    | 7 | [[q:81-7]] |
+    | 8 | [[q:81-8]] |
+    | 9 | [[q:81-9]] |
+    | 10 | [[q:81-10]] |
+
+81-1. [frq, 1 pt] Label 1
+
+81-2. [frq, 1 pt] Label 2
+
+81-3. [frq, 1 pt] Label 3
+
+81-4. [frq, 1 pt] Label 4
+
+81-5. [frq, 1 pt] Label 5
+
+81-6. [frq, 1 pt] Label 6
+
+81-7. [frq, 1 pt] Label 7
+
+81-8. [frq, 1 pt] Label 8
+
+81-9. [frq, 1 pt] Label 9
+
+81-10. [frq, 1 pt] Label 10
+
+83. [frq, 3 pt] Name three elements of the epidemiological triad.
+
+
+=== Tie breakers: Give the scientific name of the organism that causes the following diseases. Spelling and capitalization count. ===
+
+TB1. [frq, 0.1 pt] Give the scientific name of the organism that causes Botulism.
+
+TB2. [frq, 0.1 pt] Give the scientific name of the organism that causes Hemorrhagic colitis.
+
+TB3. [frq, 0.1 pt] Give the scientific name of the organism that causes Listeriosis.
+
+TB4. [frq, 0.1 pt] Give the scientific name of the organism that causes Malaria.
+
+TB5. [frq, 0.1 pt] Give the scientific name of the organism that causes MRSA.
+
+TB6. [frq, 0.1 pt] Give the scientific name of the organism that causes Camplobacteriosis.

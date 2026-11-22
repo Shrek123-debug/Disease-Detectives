@@ -1,0 +1,172 @@
+University of Michigan (UMSO) Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  55 questions, 118.0 pts
+Source: scio.ly test archive id 9a1ddabf-ca3a-44b0-9ca9-0ab3bc171321  |  original files: https://drive.google.com/drive/folders/1qA75580QHXEzt14oXi37niBbWnz4h6qt
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+
+=== Background and Surveillance ===
+
+1. [mcq, 2 pt] Which of the following best describes the difference between the clinical approach and the public health approach?
+    A) The clinical approach focuses on individual patients, while the public health approach focuses on populations.
+    B) The clinical approach focuses on prevention, while the public health approach focuses on treatment.
+    C) The clinical approach is concerned with infectious diseases, while the public health approach is concerned with chronic diseases.
+    D) The clinical approach uses epidemiological methods, while the public health approach does not.
+
+2. [frq, 2 pt] Which step of the surveillance process does passive surveillance best represent?
+
+3. [mcq, 2 pt] During which stage of the Natural History and Spectrum of Disease of COVID do patients typically become infectious?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery, Disability, or Death
+
+4. [mcq, 2 pt] Which of the following figures is considered a pioneer in occupational health, investigating the health effects of industrial exposures?
+    A) Alice Hamilton
+    B) Wade Hampton Frost
+    C) Alfred G. Knudson
+    D) John Graunt
+
+5. [mcq, 2 pt] Which of the following historical figures played a key role in developing the germ theory of disease?
+    A) John Snow
+    B) Ignaz Semmelweis
+    C) Florence Nightingale
+    D) Louis Pasteur
+
+[STIMULUS] 
+
+The graph below represents the 2024 Listeria outbreak that was connected to deli meats
+    [IMAGE: ../images/2025_university_of_michigan_umso_invitational_c__p3_68a51c-055141c9.webp]
+
+6. [frq, 2 pt] What is the name of this type of graph?
+
+7. [frq, 4 pt] Even though the above graph looks like it represents a propagated outbreak, this is unlikely to be the case. Use your background knowledge of Listeria to explain why
+
+9. [frq, 2 pt] What is the primary purpose of the National Notifiable Disease Surveillance System?
+
+10a. [frq, 1 pt] Write the term that matches the given definition: The state of being diseased or unhealthy within a population.
+
+10b. [frq, 1 pt] Write the term that matches the given definition: The state of being dead, often measured as a rate (e.g., deaths per 100,000 population).
+
+10c. [frq, 1 pt] Write the term that matches the given definition: Separating and restricting the movement of people exposed to a contagious disease to see if they become sick.
+
+10d. [frq, 1 pt] Write the term that matches the given definition: Separating people who are known to be infected with a contagious disease from those who are not infected.
+
+10e. [frq, 1 pt] Write the term that matches the given definition: Any characteristic or behavior that increases the likelihood of developing a disease or injury.
+
+10f. [frq, 1 pt] Write the term that matches the given definition: The habitat in which an infectious agent normally lives, grows, and multiplies.
+
+10g. [frq, 1 pt] Write the term that matches the given definition: A distortion in the measurement of an association due to a third variable influencing both the exposure and outcome.
+
+10h. [frq, 1 pt] Write the term that matches the given definition: A systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure's effect on an outcome.
+
+10i. [frq, 1 pt] Write the term that matches the given definition: The proportion of individuals who die from a specific disease among all individuals diagnosed with that disease.
+
+10j. [frq, 1 pt] Write the term that matches the given definition: The ongoing, systematic collection, analysis, and interpretation of health-related data essential for planning, implementation, and evaluation of public health practice.
+
+10k. [frq, 1 pt] Write the term that matches the given definition: The number of new cases of a disease in a specific population during a specific time period.
+
+10l. [frq, 1 pt] Write the term that matches the given definition: The proportion of people who develop a disease after being exposed to a source of infection.
+
+11. [frq, 2 pt] According to Koch's Postulates, if a bacterial sample from an infected host is inoculated into a healthy host, causing disease, and then re-cultured from the second host, what should we be able to say about the two cultures.
+
+[STIMULUS] For each of the following scenarios, list the Bradford-Hill Criteria best applied to it:
+
+12a. [frq, 1 pt] When determining what caused your stomach ache you narrow it down to the pineapple or pizza. It couldn't possibly be the toast you ate a couple minutes after your stomach ache started
+
+12b. [frq, 1 pt] You're lactose intolerant. Drinking milk makes you feel bad, but you notice the pain is much worse after consuming larger quantities of milk
+
+12c. [frq, 1 pt] Your friend cleans their bathroom using a smelly chemical and ends up with a headache. This chemical is known for causing headaches if inhaled for too long
+
+12d. [frq, 1 pt] You then use this chemical to clean your bathroom and also develop a headache
+
+13. [mcq, 2 pt] Which of the following is not a characteristic of public health surveillance?
+    A) Systematic data collection, sorting, and analysis
+    B) Identify patterns in population health
+    C) Determines resource allocation
+    D) Identifies causation between outcomes and risk factors
+    E) Used to determine scale of response needed for a public health issue
+
+14. [frq, 3 pt] What is the difference between an incidence proportion and incidence rate? How do you calculate each?
+
+
+=== Case Study 1 ===
+
+[STIMULUS] As of March 31, 2023, more than 30,000 monkeypox (mpox) cases had been reported in the United States in an outbreak that has disproportionately affected gay, bisexual, and other men who have sex with men (MSM) and transgender persons (1). JYNNEOS vaccine (Modified Vaccinia Ankara vaccine, Bavarian Nordic) was approved by the Food and Drug Administration (FDA) in 2019 for the prevention of smallpox and mpox via subcutaneous injection as a 2-dose series (0.5 mL per dose, administered 4 weeks apart) (2). To expand vaccine access, an Emergency Use Authorization was issued by FDA on August 9, 2022, for dose-sparing intradermal injection of JYNNEOS as a 2-dose series (0.1 mL per dose, administered 4 weeks apart) (3). Vaccination was available to persons with known or presumed exposure to a person with mpox (postexposure prophylaxis [PEP]), as well as persons at increased risk for mpox or who might benefit from vaccination (preexposure mpox prophylaxis [PrEP]) (4). Because information on JYNNEOS vaccine effectiveness is limited, a matched (x) study was conducted in 12 U.S. jurisdictions,† including nine Emerging Infections Program sites and three Epidemiology and Laboratory Capacity sites,§ to evaluate VE against mpox among MSM and transgender adults aged 18–49 years. During August 19, 2022–March 31, 2023, a total of 309 case-patients were matched to 608 control patients. JYNNEOS is effective at reducing the risk for mpox. Because duration of protection of 1 versus 2 doses remains unknown, persons at increased risk for mpox exposure should receive the 2-dose series as recommended by the Advisory Committee on Immunization Practices (ACIP),¶ regardless of administration route or immunocompromise status.
+
+A matched **(x)** study was conducted in 12 U.S. jurisdictions. Case-patients had a confirmed or probable Monkeypox virus or Orthopoxvirus diagnosis on or after August 19, 2022; they were identified or verified through jurisdiction health departments’ case registries. Control patients had visited a sexual health, HIV care, or HIV PrEP clinic on or after August 19, 2022, and did not receive an mpox diagnosis; they were identified through active and passive recruitment approaches at local clinics in each jurisdiction.** Participation was restricted to sexually active†† persons aged 18–49 years who self-identified as MSM or transgender. Eligible participants were invited to complete a survey administered online or by telephone in English or Spanish. The survey included questions about demographic characteristics, mpox vaccination, mpox diagnosis, immunocompromising conditions, and exposure history anchored to an index date, defined as date of positive test result (case-patients) or clinic visit (control patients). Survey responses were recorded in REDCap (version 13.1.26; Vanderbilt University). Participants’ vaccination status was verified using state vaccination registries, where available. Participants were categorized as fully vaccinated, partially vaccinated, or unvaccinated based on the number of JYNNEOS doses they received relative to their index date.§§
+
+Each case-patient was matched with up to four control patients based on state or region¶¶ and index date (within 4 weeks). Conditional logistic regression models were used to estimate crude and adjusted odds ratios evaluating the association between vaccination status and case- or control patient status. The adjusted model accounted for covariates identified a priori, including age, race and ethnicity, immunocompromising conditions,*** and close contact with a person with known mpox.††† VE was calculated as (1 – odds ratio) x 100%. VE estimates were stratified a priori by immunocompromise status and route of vaccine administration (subcutaneous, intradermal, or heterologous [i.e., a different route for each dose]). Analyses were conducted using the survival package in R statistical software (version 4.2.2; The R Foundation). This activity was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.§§§
+
+Among 1,414 respondents, 1,127 (86.1%) met the minimum data element requirements¶¶¶ for inclusion in the analysis, and 309 (89.6%) of 345 case-patients and 608 (77.7%) of 782 control patients were matched. A larger proportion of case- than control patients identified as non-Hispanic Black or African American (27.2% versus 16.9%) or Hispanic or Latino (32.4% versus 23.4%) (Table 1). Larger proportions of case- than control patients reported experiencing recent homelessness (7.9% versus 2.7%), engaging in transactional sex (9.1% versus 3.3%), and living with HIV (48.1% versus 24.0%).
+    [IMAGE: ../images/2025_university_of_michigan_umso_invitational_c__p7_9ff832-a170ef5f.webp]
+    [IMAGE: ../images/2025_university_of_michigan_umso_invitational_c__p7_c2cd18-55acc5d0.webp]
+
+15. [frq, 2 pt] Selection bias was a major concern for the organizers. Explain why this might be the case.
+
+16. [frq, 2 pt] What study design was used in this investigation?
+
+17. [frq, 2 pt] For fully vaccinated individuals, which of the administration routes provides the best vaccine effectiveness compared to unvaccinated individuals?
+
+18. [frq, 3 pt] Calculate the vaccine effectiveness for the group identified in problem 17
+
+19. [frq, 4 pt] Estimates for the R₀ of m-pox are highly varied, ranging from as low as 1.4 to as high as 3.1. Based on these estimates, are any of the vaccination administration protocols listed in the data enough to achieve herd immunity in a 75% vaccinated population (assume an R0 of 3)? Show your work or explain your reasoning
+
+20. [frq, 4 pt] What statistical model focuses on R₀? Write the formula, define the terms, and explain how this model shows the tradeoff between damaging hosts and the benefits of rapid growth and fast transmission.
+
+21. [frq, 2 pt] What parameter would vaccination change in the formula and how does this affect R₀?
+
+22. [frq, 2 pt] What is the benefit of a matched study in evaluating vaccine effectiveness?
+
+23. [frq, 4 pt] What are two potential reasons for the racial disparities seen in this investigation?
+
+24. [frq, 2 pt] What are pre and post exposure prophylaxis in the context of the Mpox vaccine
+
+25. [frq, 3 pt] Using the data, explain why the recommendation for mpox (and various other diseases) is to receive a sequence of two administrations rather than just a single dose.
+
+26. [frq, 3 pt] A colleague of yours determines that there is no association between transactional sex and mpox. Does the data support this conclusion? If not, what type of error has your colleague made?
+
+27. [frq, 2 pt] What is the difference between vaccine effectiveness and vaccine efficacy?
+
+
+=== Case study 2 ===
+
+[STIMULUS] Lyme Disease is a disease endemic to the northeast and upper midwest of the United States. It is caused by Borrelia burgdorferi, a species of spirochete bacteria. Typical symptoms include flu-like symptoms and its trademark bullseye rash. It’s a vector-borne illness heavily correlated with deer populations. Recently, due to a variety of factors, the incidence of Lyme Disease has been rising in Michigan (as well as other parts of the country).
+
+28. [frq, 2 pt] What type of vector transmits Lyme Disease? How does that relate to deer populations?
+
+29. [frq, 3 pt] How do environmental factors relate to the spread of Lyme Disease?
+
+[STIMULUS] While looking at Michigan Lyme Disease surveillance data, you take an interest in the 2021 data. You would like to start an investigation into how different outdoor activities impacted contracting Lyme Disease. You do some research on how Lyme Disease spreads, its reservoirs, and determine activities of interest. You determined that of the 862 Lyme Disease cases, 498 hunted deer, 612 had been on at least one hike, 317 had been on at least 5 hikes, and 596 lived within 1 mile of a forested area. You also determine that 615,948 of the 10 million Michigan residents obtained a deer hunting license in 2021, 37% had been on at least one hike, and 24% had been on more than 5. You could not find any state data on living near a forested area.
+
+31. [frq, 5 pt] Write a case definition for a confirmed case of Lyme Disease for your investigation
+
+32. [frq, 5 pt] Which steps of an outbreak investigation have you completed so far? What activities have you done to complete them?
+
+34. [frq, 4 pt] You notice that there is a high density of cases in northern Michigan and Washtenaw county. What are two control/prevention measures you could recommend to reduce the incidence of Lyme Disease in these areas?
+
+
+=== Patterns, Control, and Prevention ===
+
+35. [frq, 3 pt] A new Disease A has been detected in Ann Arbor. You are worried about it spreading to neighboring communities. You have access to two different tests manufactured by different companies: a highly specific test or a highly sensitive test. You only have the funds to purchase an order of one. Which should you pick and why?
+
+36. [frq, 3 pt] Disease B has been endemic to the Ann Arbor community for decades. It isn’t communicable and has a widely available treatment that is administered almost immediately upon diagnosis. However, this treatment is very taxing on the body and has side effects such as nausea, malaise, and potential kidney failure. The local health system currently employs a highly specific test for Disease B, but has been offered the opportunity to switch to a highly sensitive test. Should they make the switch and why?
+
+37a. [frq, 1 pt] Match the prevention (primary, secondary, tertiary, quaternary, primordial) to the correct scenario: Biannual dental check-up
+
+37b. [frq, 1 pt] Match the prevention (primary, secondary, tertiary, quaternary, primordial) to the correct scenario: Right to Refuse Treatment Laws
+
+37c. [frq, 1 pt] Match the prevention (primary, secondary, tertiary, quaternary, primordial) to the correct scenario: A two week course of Ceftazimide to treat P. aeruginosa
+
+37d. [frq, 1 pt] Match the prevention (primary, secondary, tertiary, quaternary, primordial) to the correct scenario: Child locks on car doors
+
+[STIMULUS] Use the following graph for questions 38-39
+    [IMAGE: ../images/2025_university_of_michigan_umso_invitational_c__p13_b95ce9-ea7e9f8c.webp]
+
+38. [frq, 3 pt] Does the graph above represent data regarding a measure of disease burden or measure of disease association? Which measure is it representing?
+
+39. [frq, 3 pt] Are we able to determine any causal relationships from this graph? Why or why not?
+
+[STIMULUS] Antibiotic and antimicrobial resistance is a growing public health concern across the globe. This in turn has put increased strain on health systems as they struggle to treat drug resistant infections, forcing a diversion of funds to research and development of new treatments. It is believed that the overuse and misuse of antibiotics is largely to blame for the rapid increase in antibiotic resistant bacteria.
+
+40. [frq, 3 pt] Explain how usage of antibiotics in the agriculture industry has led to increased antibiotic resistance
+
+41. [frq, 4 pt] Provide two potential public health strategies to help reduce antibiotic resistance

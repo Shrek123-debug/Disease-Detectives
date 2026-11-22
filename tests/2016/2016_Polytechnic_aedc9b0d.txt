@@ -1,0 +1,249 @@
+Polytechnic — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  55 questions, 66.0 pts
+Source: scio.ly test archive id aedc9b0d-a3c2-4ea7-96a9-a9f49e757e25  |  original files: https://drive.google.com/drive/folders/1rmvlh_oCo4yDGNqnycLr8dtqWbvKCXjZ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: ON A SEPARATE ANSWER SHEET write the answers the the following questions. Fifty minutes will be given to complete the examination and marked questions will be tie breakers.
+
+
+=== I. Order the ten steps of investigating outbreak: (Tiebreak #1) ===
+
+I-1. [frq, 5 pt] Order the ten steps of investigating an outbreak.
+
+
+=== II. Write the definition for each of the following key terms ===
+
+II-1. [frq, 1 pt] Write the definition for the following key term: Zoonosis
+
+II-2. [frq, 1 pt] Write the definition for the following key term: Fomite
+
+II-3. [frq, 1 pt] Write the definition for the following key term: Attributable Risk
+
+II-4. [frq, 1 pt] Write the definition for the following key term: Case Control Study
+
+II-5. [frq, 1 pt] Write the definition for the following key term: Vector
+
+II-6. [frq, 1 pt] Write the definition for the following key term: Bias
+
+II-7. [frq, 1 pt] Write the definition for the following key term: Cluster
+
+II-8. [frq, 1 pt] Write the definition for the following key term: Hyperendemic Disease
+
+II-9. [frq, 1 pt] Write the definition for the following key term: Host factor
+
+II-10. [frq, 1 pt] Write the definition for the following key term: Latency Period
+
+II-11. [frq, 1 pt] Write the definition for the following key term: Virulence
+
+II-12. [frq, 1 pt] Write the definition for the following key term: Morbidity
+
+II-13. [frq, 1 pt] Write the definition for the following key term: Point Prevalence
+
+
+=== III. Multiple Choice ===
+
+III-1. [multi, 1 pt] John Snow’s investigation of cholera is considered a model for epidemiologic field investigations because it included a (You must choose ALL correct answers):
+    A) Biologically plausible hypothesis
+    B) Comparison of a health outcome among exposed and unexposed groups
+    C) Multivariate statistical model
+    D) Spot map
+    E) Recommendation for public health action
+
+III-2. [mcq, 1 pt] A number of passengers on a cruise ship from Puerto Rico to the Panama Canal have recently developed a gastrointestinal illness compatible with norovirus (formerly called Norwalklike virus). Testing for norovirus is not readily available in any nearby island, and the test takes several days even where available. Assuming you are the epidemiologist called on to board the ship and investigate this possible outbreak, your case definition should include, at a minimum:
+    A) Clinical criteria, plus specification of time, place, and person
+    B) Clinical features, plus the exposure(s) you most suspect
+    C) Suspect cases
+    D) The nationally agreed standard case definition for disease reporting
+
+III-3. [mcq, 1 pt] Comparing numbers and rates of illness in a community, rates are preferred for:
+    A) Conducting surveillance for communicable diseases
+    B) Deciding how many doses of immune globulin are needed
+    C) Estimating subgroups at highest risk
+    D) Telling physicians which strain of influenza is most prevalent
+
+III-5. [mcq, 1 pt] Direct transmission includes which of the following?
+    A) Droplet spread
+    B) Mosquitoborne
+    C) Foodborne
+    D) Doorknobs or toilet seats
+
+[STIMULUS] Which term best describes the pattern of occurrence of the three diseases noted below in a single area?
+A. Endemic
+B. Outbreak
+C. Pandemic
+D. Sporadic
+
+III-6. [mcq, 1 pt] Disease 1: usually 40–50 cases per week; last week, 48 cases
+    A) Endemic
+    B) Outbreak
+    C) Pandemic
+    D) Sporadic
+
+III-7. [mcq, 1 pt] Disease 2: fewer than 10 cases per year; last week, 1 case
+    A) Endemic
+    B) Outbreak
+    C) Pandemic
+    D) Sporadic
+
+III-8. [mcq, 1 pt] Disease 3: usually no more than 2–4 cases per week; last week, 13 cases
+    A) Endemic
+    B) Outbreak
+    C) Pandemic
+    D) Sporadic
+
+
+=== IV. Determine whether the following diseases are viral, bacterial, fungal, or parasitic in origin ===
+
+IV-2. [mcq, 1 pt] Middle East Respiratory Syndrome (MERS)
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-3. [mcq, 1 pt] Zika Virus
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-4. [mcq, 1 pt] Genital Herpes
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-5. [mcq, 1 pt] Avian Influenza
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-6. [mcq, 1 pt] Trichomonas Infection (Trichomoniasis)
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-7. [mcq, 1 pt] Candidiasis
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-8. [mcq, 1 pt] Yersinia
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-9. [mcq, 1 pt] Botulism
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-10. [mcq, 1 pt] Toxoplasmosis
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-11. [mcq, 1 pt] Typhoid fever
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-12. [mcq, 1 pt] Listeriosis
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-13. [mcq, 1 pt] West Nile
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-14. [mcq, 1 pt] Giardiasis
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-15. [mcq, 1 pt] Trichinellosis
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+IV-16. [mcq, 1 pt] Cholera
+    A) Viral
+    B) Bacterial
+    C) Fungal
+    D) Parasitic
+
+
+=== V. Short answer section: respond to each question in full sentences. ===
+
+V-1. [frq, 2 pt] If an outbreak is regional and is exposed for a couple weeks, what kind of outbreak is this?
+
+V-2. [frq, 2 pt] What are the six criterion to draw conclusions to your investigative hypotheses?
+
+V-3. [frq, 3 pt] Name and describe the two types of immunity and their unique characteristics.
+
+V-4. [frq, 4 pt] There are two main strains of bacillus anthracis. Describe to difference in infection mechanism and disease development between them.
+
+
+=== VI. Scenario problems ===
+
+[STIMULUS] Alex hosts a dinner party for his colleagues at the penitentiary. 200 people attend the celebration at his house. Afterwards 95 people fall ill. It’s suspected that the source of the foodborne illness is a suspicious pumpkin pie. Of the people who attended 130 ate the pie, of those that ate the pie 80 fell sick. (Tiebreak #2)
+
+VI-1a. [frq, 1 pt] Calculate the attack rate for the exposed.
+
+VI-1b. [frq, 1 pt] Calculate the attack rate for the unexposed.
+
+VI-1c. [frq, 1 pt] Calculate the relative risk.
+
+[STIMULUS] Answer the following regarding world human population using the table above.
+    [IMAGE: ../images/2016_polytechnic_c__p3_6f7ffc-54edfcc1.webp]
+
+VI-2b. [frq, 1 pt] Identify and discuss TWO of the causes of the trend in world wide TFR in the graph.
+
+[STIMULUS] Table: Mortality by Selected Age Groups, Males and Females
+
+| Age | Males Population | Males # of Deaths | Females Population | Females # of Deaths | Total Population | Total # of Deaths |
+|---|---|---|---|---|---|---|
+| 15-19 | 8,337,640 | 7,441 | 8,568,136 | 4,937 | 16,905,776 | 12,378 |
+| 20-24 | 8,766,804 | 11,596 | 8,691,956 | 7,035 | 17,458,760 | 18,631 |
+| 25-34 | 14,211,650 | 27,816 | 12,651,455 | 11,468 | 26,863,105 | 39,284 |
+
+VI-3Aa. [frq, 1 pt] Using Table 3, calculate the age-specific death rate for the 15-19 age group.
+
+VI-3Ab. [frq, 1 pt] Using Table 3, calculate the age-specific death rate for the 20-24 age group.
+
+VI-3Ac. [frq, 1 pt] Using Table 3, calculate the age-specific death rate for the 25-34 age group.
+
+VI-3Ba. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for males aged 15-19.
+
+VI-3Bb. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for males aged 20-24.
+
+VI-3Bc. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for males aged 25-34.
+
+VI-3Bd. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for females aged 15-19.
+
+VI-3Be. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for females aged 20-24.
+
+VI-3Bf. [frq, 1 pt] Using Table 3, calculate the age and sex specific death rate for females aged 25-34.
+
+VI-3C. [mcq, 1 pt] What can you infer from the age-specific death rates (calculated above)?
+    A) Death rates decrease with age
+    B) Death rates increase with age
+    C) Death rates are based on population
+    D) Death rates are affected by smoking not age.
+    E) Death rates are not associated with age
+
+VI-3D. [mcq, 1 pt] For which gender group is the death rate highest?
+    A) Male
+    B) Female
+    C) Male and Female are equal

@@ -1,0 +1,657 @@
+Rickards Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  100 questions, 177.0 pts
+Source: scio.ly test archive id 1038eedf-9184-42b1-866e-3c90483d664c  |  original files: https://drive.google.com/drive/folders/1hq-CiT3Qu3gCxDqV2aHzZeKzSTrv7402
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: Please show your work for all calculations unless indicated otherwise.
+
+
+=== For questions 1-15, fill in the blank with the appropriate term from the table. Each term will be used exactly once. ===
+
+[STIMULUS] | Term |
+|---|
+| Antigenic Shift |
+| Nosocomial |
+| Biological Vector |
+| Pathogenicity |
+| Agent |
+| Pathogen |
+| Case Control Study |
+| Surveillance |
+| Cohort Study |
+| Antigenic Drift |
+| Synergistic Effect |
+| Infectivity |
+| Mechanical Vector |
+| Iatrogenic |
+| Ecological Study |
+
+1. [mcq, 1 pt] The phenomenon that describes when the combined effect of two pathogens is greater than the sum of the individual pathogens' effects.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+2. [mcq, 1 pt] A study in which participants are first grouped based on exposure status and then retroactively or proactively analyzed for disease status.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+3. [mcq, 1 pt] An illness or disease that is unintentionally caused by medical treatment.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+4. [mcq, 1 pt] An entity that can carry pathogens that can multiply within its body.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+5. [mcq, 1 pt] Major changes in the genetic makeup of a virus that lead to the emergence of a new, typically more infectious, strain.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+6. [mcq, 1 pt] The proportion of exposed individuals who become infected.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+7. [mcq, 1 pt] A study that analyzes the health of a group of people rather than the individual.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+8. [mcq, 1 pt] The ongoing, systematic collection, analysis, and interpretation of health-related data essential to planning, implementation, and evaluation of public health practice.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+9. [mcq, 1 pt] Any biological or chemical factor that can cause disease.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+10. [mcq, 1 pt] An entity that carries pathogen on the outside of its body.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+11. [mcq, 1 pt] A disease or illness that is acquired in a hospital setting,
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+12. [mcq, 1 pt] Microorganism that can cause disease.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+13. [mcq, 1 pt] A study in which you start with a group of sick people and not sick people and try to figure out the most likely exposure.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+14. [mcq, 1 pt] The proportion of infected people who develop clinical illness.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+15. [mcq, 1 pt] Minor genetic changes in the makeup of a virus that results in slightly different strains of the same virus.
+    A) Antigenic Shift
+    B) Nosocomial
+    C) Biological Vector
+    D) Pathogenicity
+    E) Agent
+    F) Pathogen
+    G) Case Control Study
+    H) Surveillance
+    I) Cohort Study
+    J) Antigenic Drift
+    K) Synergistic Effect
+    L) Infectivity
+    M) Mechanical Vector
+    N) Iatrogenic
+    O) Ecological Study
+
+16. [frq, 1 pt] How do you determine if a group of cases is an outbreak?
+
+17. [frq, 2 pt] Give two ways to obtain data about numbers of cases in past years.
+
+18. [frq, 3 pt] What are the three types of endemic disease?
+
+19. [frq, 3 pt] Name three of the APHA-recognized modes of transmission.
+
+20. [frq, 2 pt] What is a risk factor of disease?
+
+21. [mcq, 1 pt] In what state was the Framingham study conducted?
+    A) Maryland
+    B) Florida
+    C) Wisconsin
+    D) Massachusetts
+
+22. [frq, 1 pt] What were the results of the Framingham study?
+
+23. [frq, 5 pt] What are the five steps of disease surveillance?
+
+24. [frq, 4 pt] Give one advantage and one disadvantage of passive surveillance.
+
+
+=== Classify each of the following scenarios as a Clinical Approach, Public Health Approach, or Both. ===
+
+25. [mcq, 1 pt] You get a yearly physical exam at the doctor.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+27. [mcq, 1 pt] The FDA recalls a shipment of contaminated lettuce.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+[STIMULUS] The next two questions are based on this scenario: Lorelai has the common cold. She comes in direct contact with Rory and infects her. Rory also gets the common cold. Rory is distressed because she has to miss her obscure Russian poetry class.
+
+28. [frq, 1 pt] After Rory was exposed to Lorelai, but when Rory did not yet have any symptoms, what period of disease progression was Rory in?
+
+29. [mcq, 1 pt] If Rory had never shown symptoms after being infected, what type of nonclinical disease would she have had?
+    A) Preclinical
+    B) Subclinical
+    C) Chronic
+    D) Latent
+
+[STIMULUS] For the next four questions, use the image below. Match the step in the natural history of disease to the letter that represents it.
+    [IMAGE: ../images/2023_rickards_invitational_b_c__p5_679dc9-fb642fe5.webp]
+
+30. [mcq, 1 pt] Pathologic Changes
+    A) A
+    B) B
+    C) C
+    D) D
+
+31. [mcq, 1 pt] Stage of Susceptibility
+    A) A
+    B) B
+    C) C
+    D) D
+
+32. [mcq, 1 pt] Exposure
+    A) A
+    B) B
+    C) C
+    D) D
+
+33. [mcq, 1 pt] Stage of Clinical Disease
+    A) A
+    B) B
+    C) C
+    D) D
+
+34. [mcq, 1 pt] Yoda has never been exposed to Lyme disease. What stage of disease is he in?
+    A) Susceptibility
+    B) Subclinical disease
+    C) Clinical disease
+    D) Recovery, disability, or death
+
+35. [frq, 3 pt] What is primary prevention? Give two examples of it.
+
+[STIMULUS] In meta-analysis, what does PICO stand for?
+    | Label | Answer |
+    | P | [[q:36-P]] |
+    | I | [[q:36-I]] |
+    | C | [[q:36-C]] |
+    | O | [[q:36-O]] |
+
+36-P. [frq, 0.5 pt] Label P
+
+36-I. [frq, 0.5 pt] Label I
+
+36-C. [frq, 0.5 pt] Label C
+
+36-O. [frq, 0.5 pt] Label O
+
+[STIMULUS] For the next four questions, use the following scenario: Two physicians look over the same X-rays, and determine whether or not each patient has a broken bone. The table below displays the two examiner’s judgements (yes means positive diagnosis, no means negative diagnosis).
+
+| | Yes | No |
+|---|---|---|
+| Yes | 24 | 12 |
+| No | 14 | 50 |
+
+37. [frq, 4 pt] Calculate the percent agreement (unweighted) of these two examiners.
+
+38. [frq, 6 pt] Calculate the kappa statistic for this agreement. Show your work and round to the nearest hundredth.
+
+39. [frq, 2 pt] What does this kappa statistic tell you about the strength of the agreement?
+
+40. [mcq, 2 pt] Why is inter-observer agreement important for a diagnostic test? Choose the best answer.
+    A) High agreement improves accuracy
+    B) Agreement helps prevent conflict
+    C) High agreement improves reliability
+    D) Diagnostic tests are always subjective
+
+41. [mcq, 1 pt] A physician diagnoses patients (who really have strep throat) with the flu more often than she diagnoses patients (who really have the flu) with strep throat. What type of bias is this?
+    A) Differential misclassification bias
+    B) Neyman's bias
+    C) Experimenter bias
+    D) Media bias
+
+43. [frq, 2 pt] What is surrogate interview bias?
+
+
+=== Answer true or false for the following questions. ===
+
+44. [tf, 1 pt] Prevalence is a measure of risk.
+    A) True
+    B) False
+
+45. [tf, 1 pt] Case-fatality ratio is a rate.
+    A) True
+    B) False
+
+46. [tf, 1 pt] Cross-sectional studies assess temporality.
+    A) True
+    B) False
+
+47. [tf, 1 pt] Mortality rate is a measure of risk.
+    A) True
+    B) False
+
+48. [frq, 4 pt] When is mortality rate a good approximation of incidence?
+
+49. [frq, 1 pt] What disease is five-year survival rate most used for?
+
+50. [frq, 3 pt] Why might two treatments of a disease have the same five-year survival rate but still have different consequences for the patient?
+
+51. [mcq, 1 pt] Which person was famously immune to typhoid disease, but spread it to over 50 people due to his/her lack of hygiene practices?
+    A) Mary Mallon
+    B) Jonas Salk
+    C) Ignaz Semmelweis
+    D) Paul Farmer
+
+52. [mcq, 1 pt] Who conducted the largest vaccine trial recorded in history for his Polio vaccination?
+    A) Albert Sabin
+    B) James Lind
+    C) Edward Jenner
+    D) Jonas Salk
+
+53. [frq, 1 pt] Who is considered the father of vital statistics?
+
+54. [frq, 1 pt] Who conducted the first ever descriptive epidemiology study involving cholera in London?
+
+55. [frq, 1 pt] This epidemiologist is known for her study of radiation-induced illness among workers at the Hanford plutonium production plant.
+
+
+=== Case Study 1 ===
+
+[STIMULUS] With the start of the new school year, 10,000 students have arrived back on the campus of Universityville. However, within days, 950 students have fallen sick with a mystery illness. These students have developed symptoms of: vomiting, diarrhea, stomach cramps, chills, and headaches. As a star epidemiologist, you are hired to investigate the unfortunate spread of this disease.
+
+56. [frq, 4 pt] What are 3 factors that differentiate a cluster from an outbreak? With those criteria in mind, can this situation be considered an outbreak?
+
+57. [frq, 1 pt] Give 1 reason why case definitions are important.
+
+58. [frq, 3 pt] Propose a case definition for the outbreak. Include criteria for suspected, probable, and confirmed cases.
+
+59. [frq, 2 pt] By writing this case definition, what step in the 13th steps of outbreak investigation have you just performed? What step comes next?
+
+60. [frq, 5 pt] When conducting interviews, what are the 5 types of information you should collect? List and define them.
+
+61. [frq, 2 pt] You notice that one of your co-workers asks much more specific questions to those who are sick. Name and define this bias.
+
+62. [frq, 2 pt] List two ways to prevent the bias you answered in the previous question.
+
+[STIMULUS] After conducting all these interviews, you notice that a majority of the sick students ate at the main Dining Hall a few days ago, where dinner was served from 6pm-10pm. You put together this chart showing the times when students started experiencing symptoms.
+    [IMAGE: ../images/2023_rickards_invitational_b_c__p10_df20a1-1f4d11f5.webp]
+
+63. [frq, 1 pt] What is this chart called?
+
+64. [frq, 2 pt] What type of outbreak does this chart represent?
+
+[STIMULUS] Further lab testing of the sick students shows that the mystery disease is norovirus.
+
+Provide appropriate labels for the x-axis, y-axis, and title of this chart.
+    | Label | Answer |
+    | x-axis | [[q:65-a]] |
+    | y-axis | [[q:65-b]] |
+    | title | [[q:65-c]] |
+
+65-a. [frq, 1 pt] x-axis
+
+65-b. [frq, 1 pt] y-axis
+
+65-c. [frq, 1 pt] title
+
+66. [frq, 4 pt] After labeling the graph, there is still one more issue that needs to be fixed. Name this issue and describe why it's an issue.
+
+67. [frq, 2 pt] Estimate the incubation period of this outbreak.
+
+[STIMULUS] You now try to figure out what the culprit of this outbreak is. To do this, you gather all the students who ate at the dining hall that night and create the following table documenting the foods they ate and whether or not they were sick. Additionally, you are told that a total of 1000 students ate at the dining hall that night and 650 of them fell sick.
+
+| Food | Sick | Not Sick |
+|---|---|---|
+| Arctic Char | 237 | 173 |
+| Salmon Sashimi | 400 | 175 |
+| Ribeye Steak | 156 | 300 |
+| Glazed Carrots | 215 | 125 |
+| Cherry Cheesecake | 345 | 337 |
+
+68. [frq, 1 pt] What type of study is this?
+
+69. [frq, 4 pt] Name two advantages and disadvantages of this study.
+
+71. [frq, 3 pt] Give two possible reasons why there are multiple foods with a measure of association greater than 1.
+
+72. [frq, 2 pt] After identifying the culprit, it's time to finish off this investigation!
+    
+    What differentiates primordial and primary prevention?
+
+74. [frq, 4 pt] The final step in the 13 steps is to Communicate Findings. What are two categories of disseminating information and give two examples in the context of this problem.
+
+
+=== Case Study 2 ===
+
+[STIMULUS] You are a famous and successful epidemiologist employed at the CDC. One day while you are at your desk working hard on your latest research paper, you get a call from a small town somewhere between New Jersey and California – Notarealtown. It is from the town physician, Dr. Somebody. In a panicked tone, he says, "Help! We've got a new disease! It's uncontrollable!" You hear what sounds like dozens of people singing in the background…
+
+When you inquire about the symptoms of the disease, Dr. Somebody says that the afflicted have been singing "Never Gonna Give You Up" by Rick Astley 24 hours a day, and they cannot stop! Nobody in the town can sleep or function normally, and the disease is spreading rapidly.
+
+You tell Dr. Somebody to hold tight – you will be over there soon. You pack a suitcase with some vital materials and buy a plane ticket.
+    [IMAGE: ../images/2023_rickards_invitational_b_c__p12_bd588c-cc81315a.webp]
+
+75. [frq, 1 pt] What step of an outbreak investigation is this?
+
+76. [frq, 1 pt] Dr. Somebody sends over the hospital and physicians' records. You see that 500 people in town have contracted this mystery ailment. The records also show that there have never been any cases like this in the town before.
+    
+    Is this an outbreak? If so, why? If not, why not?
+
+77. [frq, 4 pt] When you land in the town, you quickly realize that you should have brought earplugs with you. There are even two newborn babies singing with perfect English! Dr. Somebody shows you the epi-curve of the spread. It shows a propagated spread with an incubation period from 4-7 days.
+    
+    Luckily, the disease has not yet spread to other towns. You order all the citizens to isolate or quarantine.
+    
+    Based on the information you have so far, make a case definition for this outbreak. You do not need criteria for suspected, probable, or confirmed cases.
+
+78. [mcq, 2 pt] What is the difference between a surveillance case definition and an outbreak case definition?
+    A) Inclusion of lab results
+    B) Inclusion of clinical criteria
+    C) Inclusion of person/place/time
+    D) Conditions for suspected, probable, confirmed cases
+    E) None of the above
+
+79. [multi, 2 pt] If the disease were to keep spreading to other towns, how would you have to change your case definition? Choose two correct answers.
+    A) Change place criteria
+    B) Change symptoms criteria
+    C) Change time criteria
+    D) Add lab results criteria
+    E) Add criteria for confirmed, suspected, or probable cases
+
+80. [frq, 3 pt] You take blood samples of everybody in town, and find out that everybody in the town who has the disease has a never-before-seen virus in their bloodstream. You hypothesize that this virus must be causing the disease, but you need to make sure that this theory satisfies the Bradford-Hill criteria.
+    
+    Does the information you have allow you to confirm the temporality of the supposed cause? Explain. If you answered no, what would you need to do to be able to confirm temporality?
+
+81. [mcq, 2 pt] There is only one level of severity of Rickrollitis: singing nonstop. People with a higher viral load had the same symptoms as those with a lower viral load. Which Bradford-Hill criteria is therefore not fulfilled?
+    A) Strength of association
+    B) Consistency
+    C) Biological Plausibility
+    D) Dose-response relationship
+
+82. [mcq, 2 pt] Since this is a new virus, there are no other studies confirming your hypothesis. Which Bradford-Hill criteria is therefore not fulfilled?
+    A) Strength of association
+    B) Coherence
+    C) Consistency
+    D) Specificity
+
+83. [mcq, 2 pt] If the virus that you think causes Rickrollitis were also associated with other health outcomes, which Bradford-Hill criteria would not be fulfilled?
+    A) Biological plausibility
+    B) Temporality
+    C) Specificity
+    D) Consistency
+
+84. [mcq, 1 pt] Does the absence of the criterion that you answered for the previous question necessarily undermine causality?
+    A) Yes
+    B) No
+
+85. [multi, 2 pt] Which of these Bradford-Hill criteria are directly considered by the GRADE system? Choose two.
+    A) Strength of association
+    B) Biological plausibility
+    C) Coherence
+    D) Dose-response relationship
+
+[STIMULUS] Since the virus you found does not fulfill many of the Bradford-Hill criteria for causation, you decide to keep investigating.
+
+SIX MONTHS LATER:
+
+Unfortunately, the disease you have been trying to prevent from spreading further (now named Rickrollitis) has become an epidemic. People all over the country are being infected, and there is a nationwide lockdown. You are sitting in your new office in Notarealtown weeping, when you see a social media post whose author is claiming to have found a diagnostic test for detecting Rickrollitis before its symptoms start to show. The author also claims that his new medicine, Llor Kcir 2.0, can cure the disease! You are a bit skeptical of this claim, so you reach out and ask this person to tell you the sensitivity and specificity of the diagnostic test.
+
+He tells you that his diagnostic test is actually a sequential test, comprising two parts:
+
+The first test determines whether or not the patient has Rickrollitis based on their hair length.
+
+The second test measures the patient's BMI and uses this to determine the presence of disease.
+
+You are told that these two tests were performed in sequence on 10,000 people. The prevalence of disease among these people was 600 per 1,000. The first test had a sensitivity of 80% and a specificity of 70%. The second test had a sensitivity of 60% and a specificity of 80%.
+
+For the next questions, give the appropriate numbers to fill in the tables for each test.
+
+First test:
+
+| | Has disease | Does not have disease |
+|---|---|---|
+| Positive Test Result | a | b |
+| Negative Test Result | c | d |
+    | Label | Answer |
+    | **86.** i. a
+ii. b |  |
+    | i a | [[q:86-i]] |
+    | ii b | [[q:86-ii]] |
+    | **87.** iii. c
+iv. d |  |
+    | iii c | [[q:87-iii]] |
+    | iv d | [[q:87-iv]] |
+
+86-i. [frq, 1 pt] Label i a
+
+86-ii. [frq, 1 pt] Label ii b
+
+87-iii. [frq, 1 pt] Label iii c
+
+87-iv. [frq, 1 pt] Label iv d
+
+[STIMULUS] Second Test:
+
+| | Has disease | Does not have disease |
+|---|---|---|
+| Positive test result | a | b |
+| Negative test result | c | d |
+
+i. a
+ii. b
+____ ____
+
+88-1. [numeric, 1 pt] Blank 1: ____ (…)
+
+88-2. [numeric, 1 pt] Blank 2: (…) ____
+
+90. [frq, 4 pt] Calculate the sensitivity and specificity of the sequential test.
+
+91. [frq, 4 pt] Which is worse for this disease, a false positive or a false negative? Give justification.
+
+92. [frq, 2 pt] You are pleasantly surprised by the accuracy of the diagnostic test, but still a bit skeptical about the supposed miracle pill. After all, you have not heard any rumors in the medical community about any working treatments for Rickrollitis, and the process for drug certification takes a long time.
+    
+    What is the best way to determine the efficacy of this miracle drug?
+
+93. [frq, 2 pt] How would you ensure external generalizability of the findings of this study?
+
+94. [frq, 2 pt] How would you ensure internal generalizability of the findings of this study?
+
+95. [mcq, 1 pt] Suppose you perform a hypothesis test for this experiment. Which p-value would result in the lowest probability of Type I error?
+    A) 0.05
+    B) 0.01
+    C) 0.1
+    D) 0.08
+
+96. [frq, 2 pt] What is the relationship between the probability of Type II error and the power of a study?
+
+97. [frq, 2 pt] Suppose that this study were performed, but it did not yield any conclusive findings. A research journal does not want to publish the study because of this outcome. What type of bias is this?

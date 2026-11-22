@@ -1,0 +1,371 @@
+Princeton — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  71 questions, 142.0 pts
+Source: scio.ly test archive id d1671cd8-f68e-4863-9a42-59d077960ec6  |  original files: https://drive.google.com/drive/folders/17NabGpQuCrwsesWOrp8Eip0b0FKacxf5
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: Complete all parts of the test and the tie breakers within the 50 minutes time limit. You are allowed one double-sided cheat sheet and a calculator. Write all answers on the answer sheet. Any answers written on the test will NOT be graded.
+
+[STIMULUS] Use the figure below and your knowledge on food-borne disease to answer questions 1-3.
+    [IMAGE: ../images/2018_princeton_c__p2_779b3e-9aaca9cf.webp]
+
+1. [mcq, 1 pt] What can be deduced from the figure above?
+    A) There were no infections with norovirus from 2008 to 2009.
+    B) The least number of hospitalizations occurred in the beginning of 1999.
+    C) Norovirus infection is a ‘’winter vomiting bug’’
+    D) The trend for the number of hospitalizations is not the same from year to year.
+
+2. [frq, 3 pt] What could have caused the increased incidence of disease during the highlighted periods?
+
+3. [frq, 2 pt] Choose the correct word for each gap. Write the chosen word at the respective position in the answer sheet.
+    
+    The trend in the peaks and throughs in the graph suggests that the burden of norovirus infection has overall (A) increased/decreased/no change during the period. This suggests that hospitals incur higher costs for treating patients, especially because they need to purchase expensive medications such as erythromycin and tetracycline that are usually used to effectively treat the infection (B) true/false.
+
+[STIMULUS] **Use the information below and your knowledge of food-borne illness to answer questions 4-11.**
+
+In the beginning of 2017, 4 outbreaks of Salmonella were registered in the United States. Altogether 251 people were infected and 2 died. The source was identified to be contaminated Maradol papayas imported from 4 farms in different regions of Mexico, which is the largest exporter of fresh papayas to the US (65% of imports). In 2011, the FDA (Food and Drug Administration) introduced Import Alert 21-17, according to which papaya shipments from Mexico are tested for Salmonella at the border, and pass into the country only if they test negative. Positive shipments are detained, but if a firm exporting to the US tests negative in 5 consecutive shipments, it can request to be moved to the ‘’Green List’’ of IA 21-17. This allows the shipment to enter the US without being tested.
+
+4. [frq, 2 pt] What is a possible reason for introducing IA 21-17?
+
+5. [frq, 2 pt] What is a possible source of contamination with Salmonella?
+
+6. [multi, 1 pt] How can a papaya buyer prevent infection with Salmonella if they suspect something is wrong with raw fruit? Select all that apply.
+    A) Make sure they eat only the ‘meat’ of the fruit
+    B) Wash the fruit thoroughly before consuming it.
+    C) Throw away the fruit
+
+7. [frq, 2 pt] IA 21-17 targets only raw fruit. Identify a reason why canned papaya would be safer to consume.
+
+8. [frq, 4 pt] Different strains of Salmonella were identified during the outbreaks. Isolates from patients in a hospital were subjected to a technique called whole genome sequencing. The isolates were found to be genetically very similar. What 2 things does this suggest about the papayas consumed by the patients?
+
+9. [frq, 2 pt] What risk does allowing exporting firms to be on the ‘’Green List’’ pose?
+
+10. [multi, 1 pt] A woman has bought and eaten a Maradol papaya. She is feeling sick. What symptoms indicate she could have salmonellosis? Select all that apply.
+    A) vomiting
+    B) fatigue
+    C) coughing
+    D) diarrhea
+
+11. [mcq, 1 pt] Many of the infected people during the outbreak identified as Hispanics. What does this statistic suggest?
+    A) Hispanic people are more likely to seek medical attention than other groups, because they value health more compared to the whole population.
+    B) Certain groups are more likely to get infected, perhaps pertaining to the fact that their cuisine involves disproportionate consumption of a certain foodstuff compared to the whole population.
+    C) The infected papayas were offered only in majority-Hispanic neighborhoods.
+    D) The only people that were willing to identify their ethnonym were Hispanics.
+
+12. [matching, 4 pt] Link the terms in the list below to the provided definitions.
+    - An obligate parasite  <->  
+    - The percentage of cases that die due to an infection  <->  
+    - The rate of disease incidence in a population  <->  Morbidity
+    - A genetic variant/subtype of an organism  <->  R₀
+    - An index giving how many individuals are infected by a certain infected individual, on average  <->  Strain
+    - Patient zero in an outbreak  <->  Virus
+
+[STIMULUS] **Use the information below and your knowledge of biology to answer questions 13-14.**
+
+**Minamata disease: ‘’the dancing cat fever’’**
+[Information adapted from Boston University Sustainability: Minamata Disease and Harada, M., 1995]
+
+In 1956, authorities in the fishing city of Minamata, Japan were alerted by an ‘epidemic’ of unusual behaviors and symptoms displayed by feral cats and patients admitted at the local hospital. Cats were staggering and tilting, while people would have difficulty moving, weak muscles and, in extreme cases, would fall into a coma. The cause was later recognized to be poisoning with methylmercury, a toxic byproduct released into the bay since 1932 by the local factory.
+
+13. [mcq, 1 pt] Based on the symptoms listed above, poisoning with methylmercury causes what type of disease?
+    A) Neurological
+    B) Cardiac
+    C) Respiratory
+    D) Gastro-intestinal
+
+14. [frq, 6 pt] The staple of food of locals was shellfish and fish caught in the Minamata bay. Sick people were found to have mercury levels as high as 705 ppm, yet levels in sea catch varied between 6 and 36 ppm. Explain how the mercury levels became so high in diseased patients. Don’t forget to explain the sequence of events that led to the exorbitantly high mercury levels with respect to nutrition!
+
+15. [multi, 2 pt] Infection with which of the following pathogens usually happens by the food-borne pathway? Select all that apply.
+    A) Lysteria monocytogenes
+    B) Escherichia coli
+    C) Herpes simplex virus
+    D) Clostridium botulinum
+    E) Shigella
+    F) Rotavirus
+    G) Yersinia pestis
+
+16. [frq, 2 pt] Staphylococci bacteria produce a toxin that can cause disease, even if the bacteria are killed by heat treatment. Would administering an antibiotic to a toxin-caused case be an effective treatment? Justify your answer.
+
+17. [mcq, 1 pt] Which of the following is NOT characteristic of a disease caused by a foodborne pathogen?
+    A) Non-life threatening
+    B) Dehydration
+    C) Sudden onset of diarrhea or vomiting
+    D) Long duration of the disease
+
+[STIMULUS] **Use the data in Figure 2 to answer questions 18-19.**
+[Graph based on data from CDC: Health, United States 2016. Table 33: Selected nationally notifiable disease rates and number of new cases: United States, selected years 1950–2015., p. 173]
+
+Figure 2 . Number of new non-typhoid Salmonella and Shigella cases in the US, selected years in the period 1960-2014
+    [IMAGE: ../images/2018_princeton_c__p6_492c28-1cba4a1a.webp]
+
+18. [mcq, 1 pt] Which of the following is suggested by the data in Figure 2?
+    A) The highest number of new Salmonella cases was registered in 1990
+    B) The peak in the number of cases for both pathogens was during 1990
+    C) There is an overall increase in the incidence of cases for both diseases since 1960
+    D) There was a decrease in the number of cases for both diseases in 2010 compared to 2000
+
+19. [mcq, 1 pt] Shigellosis is a disease transmitted by the fecal-oral route. What cannot be a possible reason for the increased incidence of Shigellosis?
+    A) Water quality has worsened
+    B) More children are attending daycare centers, facilitating the spread of the disease
+    C) People have stronger immune systems that are more efficient in fighting-off the disease due to healthy eating
+    D) Less people wash their hands prior to handling food items
+
+[STIMULUS] **Use the information below to answer question 20.**
+
+The tissue below is from the brain of a patient suffering from variant Creutzfeldt-Jakob disease (vCJD), a disease in humans that is closely associated with mad cow disease. Infection in humans occurs when bovine meat containing infectious agents called ‘prions’ is consumed (luckily, domestic vCJD has not been identified in the US). The disease is neurodegenerative and always lethal, and affects brain tissues.
+[Image credit: CDC, Public Health Image Library/Teresa Hammett]
+    [IMAGE: ../images/2018_princeton_c__p7_face16-5cedff6d.webp]
+
+20. [mcq, 1 pt] What does the area designated by the arrow in the image above suggest?
+    A) Prions cause a rapid division of brain cells that leads to a cancer-like disease
+    B) Prions destroy brain tissue, turning the brain into a sponge-like structure
+    C) Infection with prions causes neurons to be multi-nucleated
+    D) Infection with prions causes a change in the color of brain tissue
+
+[STIMULUS] Correctly identify the type of study based on the description below. Be specific!
+
+21a. [frq, 1 pt] A clinical trial – Human subjects randomly selected for testing
+
+21b. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific!
+    
+    Useful for rare diseases, subjects with the disease are studied for common exposures.
+
+21c. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific!
+    
+    One-time survey of a population, no follow-up.
+
+21d. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific!
+    
+    Studies a group based on a common exposure BEFORE the disease manifests.
+
+22. [mcq, 1 pt] Which of the following is NOT one of Koch's postulates?
+    A) The agent must cause disease when introduced to a healthy organism.
+    B) The agent must be found in all diseased organisms and no healthy ones.
+    C) The agent must be present in the diseased organism's environment.
+    D) The agent must be the same before and after introduction to an organism.
+
+23. [mcq, 1 pt] Which of the following is an example of passive natural immunity?
+    A) Antibodies are passed on from the mother to the fetus through the placenta.
+    B) An individual receives an injection of synthetic white blood cells.
+    C) The body mounts an immune response against an allergen, leading to anaphylaxis.
+    D) An individual receives an attenuated vaccine.
+
+24. [frq, 4 pt] You have been alerted to the outbreak of a new food-borne illness at a local hotel. After heading down to the hotel and interviewing subjects with and without the disease, you identify consumption of chicken as a potential cause of the outbreak. You create the following table:
+    
+    | | Disease | No Disease |
+    |---|---|---|
+    | Ate Chicken | 13 | 19 |
+    | Didn't Eat Chicken | 5 | 3 |
+    
+    What value would you use to determine whether or not the chicken is responsible? Calculate this value, and explain what the result means in terms of causation.
+
+25. [frq, 2 pt] What are the four components of a **case definition**?
+
+26. [frq, 6 pt] You develop a test for breast cancer and run clinical trials using it. You obtain the following data:
+    
+    | | Disease Present | Disease Not Present |
+    |---|---|---|
+    | Test Positive | 100 | 5 |
+    | Test Negative | 30 | 50 |
+    
+    What are the specificity and sensitivity of this test respectively? What do these two terms mean? If this disease is very deadly, which quantity should be maximized?
+
+[STIMULUS] A town with a population of 100,000 is hit by an outbreak of Hepatitis A. In one month, 20,000 people are infected, and 1,500 people develop the disease. Of these 1,500, 50 people die. Calculate the:
+
+27a. [frq, 1 pt] Calculate the Incidence Rate.
+
+27b. [frq, 1 pt] Calculate the Virulence.
+
+27c. [frq, 1 pt] Calculate the Pathogenicity.
+
+28. [mcq, 1 pt] What was determined to be the main cause of the bovine spongiform encephalopathy (BSE, or "mad cow disease") outbreak in Europe that occurred in the early 21st century?
+    A) Ingestion of cattle remains by live cattle
+    B) Widespread contamination of farm water supplies with mutation-inducing substances
+    C) Horizontal gene transfer of mutated "prion genes" throughout cattle populations
+    D) Unintended side effect of a new type of antibiotic used on livestock
+
+29. [frq, 3 pt] What is the difference between bacteriostatic agents, bactericides, and sterilants?
+
+30. [frq, 4 pt] Briefly define and provide an example of the four levels of disease prevention: primary, secondary, tertiary, quaternary.
+
+31. [frq, 6 pt] You want to determine whether not a disease affects people of different ages at different rates. To do this, you sample 100 people from 5 age groups for the presence of the disease. The data is shown below:
+    
+    | Age | People Infected |
+    |---|---|
+    | 0-19 | 30 |
+    | 20-39 | 27 |
+    | 40-59 | 28 |
+    | 60-79 | 34 |
+    | 80-99 | 38 |
+    | **Overall Average (100 random ages)** | **30** |
+    
+    Develop a null and alternative hypothesis, perform any relevant calculations, and use the chi-squared table included below to develop a conclusion.
+    [IMAGE: ../images/2018_princeton_c__p11_5b630a-47ed5cfc.webp]
+
+32. [mcq, 1 pt] Which of the following is NOT included in the definition of an "influenza-like illness"?
+    A) Fever
+    B) Nasal discharge
+    C) Cough
+    D) Occurs during influenza season (10/1-5/31)
+
+33. [frq, 3 pt] In general, successful diseases do not maximize their deadliness to their host as this would make transmission between hosts more difficult. Prion diseases, which have a near 100% fatality rate, are an exception to this case. What is the epidemiological term for "deadliness", and what unique aspect of prions allows them to maintain transmission despite having such a high fatality rate?
+
+[STIMULUS] **Match the disease with its description.**
+
+(A) Tuberculosis
+(B) Rinderpest
+(C) Influenza
+(D) Anthrax
+(E) Malaria
+
+1. Utilized in bioterrorism in 2001.
+2. Caused by Plasmodium protozoa.
+3. Besides smallpox, the only disease to be completely eradicated in nature.
+4. Totally drug resistant strains of this disease have been recently identified.
+5. Strains of this disease are named for the two types of surface proteins it contains.
+
+34-1. [mcq, 1 pt] Which disease is utilized in bioterrorism in 2001?
+    A) Tuberculosis
+    B) Rinderpest
+    C) Influenza
+    D) Anthrax
+    E) Malaria
+
+34-2. [mcq, 1 pt] Which disease is caused by Plasmodium protozoa?
+    A) Tuberculosis
+    B) Rinderpest
+    C) Influenza
+    D) Anthrax
+    E) Malaria
+
+34-3. [mcq, 1 pt] Besides smallpox, which is the only disease to be completely eradicated in nature?
+    A) Tuberculosis
+    B) Rinderpest
+    C) Influenza
+    D) Anthrax
+    E) Malaria
+
+34-4. [mcq, 1 pt] For which disease have totally drug resistant strains been recently identified?
+    A) Tuberculosis
+    B) Rinderpest
+    C) Influenza
+    D) Anthrax
+    E) Malaria
+
+34-5. [mcq, 1 pt] Which disease has strains named for the two types of surface proteins it contains?
+    A) Tuberculosis
+    B) Rinderpest
+    C) Influenza
+    D) Anthrax
+    E) Malaria
+
+[STIMULUS] McCosh Health Center registered a number of cases of Stomach Bug A, with 34 people calling in sick. The reported average number of days being sick was 6.5. Clinicians at the Center were worried that such a high number was unusual, because they knew the national average was 4 days.
+
+35a. [frq, 2 pt] What type of test should the clinicians perform to check whether there is a reason to worry? What does this test show?
+
+35b. [frq, 2 pt] State the null and alternative hypothesis for the test.
+
+35c. [frq, 2 pt] This test has one statistical parameter that can be calculated by the information given. Which is this parameter? Calculate it.
+
+35d. [frq, 1 pt] Does the value of this parameter affect the p-value you obtain from the test?
+
+35e. [frq, 2 pt] After the McCosh clinicians performed the test at significance level α =0.05, they obtained a p-value of 0.067. Interpret their result in terms the null hypothesis. Is there a reason to worry?
+
+35f. [frq, 1 pt] What if the significance level was α =0.01? Should they be worried that Stomach Bug A was especially virulent on campus?
+
+35g. [frq, 2 pt] Suggest a significance level α at which the obtained p-value would be worrisome, and one at which it would not be.
+
+35h. [frq, 1 pt] What is the significance level alpha?
+
+35i. [frq, 2 pt] Define and name the incorrect decision implicated in part (H).
+
+[STIMULUS] Bacterium tigricus is a novel pathogen that would be discovered by P. U. Tiger of the Great Class of 2037. Mr. Tiger would discover the pathogen after outbreaks in 4 different townships in New Jersey, each with different virulence. Mr. Tiger would measure the concentration of the protein TIGER-1 in several samples of the cytoplasm of Bacterium tigricus from each township to test his hypothesis that different concentrations of TIGER-1 correlate with the varying severity of the outbreaks.
+
+36a. [frq, 2 pt] What test would Mr. Tiger perform to determine whether there is a significant difference between the concentrations of TIGER-1 obtained from the samples from the 4 townships?
+
+36b. [frq, 2 pt] State the null and the alternative hypothesis for the test. Be specific!
+
+36c. [frq, 2 pt] What question is Mr. Tiger answering with this test? Relate this to his hypothesis.
+
+36d. [frq, 1 pt] How many p-values would Mr. Tiger obtain?
+
+36e. [frq, 4 pt] A p-value Mr. Tiger obtains is 0.0058, and he tests at α =0.01. If that was the only p-value that the test outputs, should Mr. Tiger be happy that he has found a correlation? Explain with reference to the null hypothesis.
+
+36f. [frq, 2 pt] If the samples were from 2 townships only, is there another test that might find the same conclusion and would be easier to perform? If yes, name it.
+
+[STIMULUS] NJ Health Center has been very busy after some high school seniors and their families had a barbeque. Since the health experts were a little bit worried if they would have enough of drug T, they decided to see whether there is a relationship between age and days sick, to try to estimate how many days each patient would spend in the clinic and how much of drug T they would need. Assume the dose administered per day is the same for every age.
+
+After the clinicians performed a linear regression, they obtained the following equation:
+
+**Days.sick = 3.63549161 + 0.01079137*Patient.age**
+
+The residuals plot below shows how much each of the 15 measurements the clinicians took after the model was established deviated from the predictions of the model given by the equation above:
+    [IMAGE: ../images/2018_princeton_c__p14_ee0b1c-48522bf1.webp]
+
+37a. [frq, 2 pt] Based on the graph above, is the model accurate? Justify your answer.
+
+37b. [frq, 3 pt] For a patient of what age the model gives the highest, most unwanted deviation? Think in terms of the sign of the deviation. It is okay to give a small range, since the exact numbers on the x-axis are not very discernable. Justify why this deviation is worrisome.
+
+37c. [frq, 2 pt] Do people aged 25-55 recover faster than expected? Justify your answer
+
+37d. [frq, 3 pt] Assuming all people who attended the event got sick, and that the age distribution is the one implied in the graph above, did a lot of elderly people attend the barbeque? How is this good or bad? Justify your answer.
+
+37e. [frq, 4 pt] Based on the information you have, can we determine a reasonable average of days sick? If yes, what is it? Justify your answer.
+
+[STIMULUS] **Match the following terms with their definitions.**
+
+(A) fomite
+(B) reservoir
+(C) case-control study
+(D) epidemic curve
+(E) necessary cause
+
+(1) A graphical representation of case distribution by time of onset
+(2) a host organism which usually only harbors a pathogen but remains asymptomatic
+(3) something that needs to be present for a condition to occur
+(4) an object that can serve as transmission vector
+(5) a study design which defines groups according to the outcome and looks forwards to determine the study factor
+(6) a study design which defines groups according to the outcome and looks backwards to determine the study factor
+(7) a reservoir which is usually a rodent
+
+38-C. [mcq, 1 pt] Which definition matches case-control study?
+    [IMAGE: ../images/2018_princeton_c__p14_ee0b1c-48522bf1.webp]
+    A) A graphical representation of case distribution by time of onset
+    B) a host organism which usually only harbors a pathogen but remains asymptomatic
+    C) something that needs to be present for a condition to occur
+    D) an object that can serve as transmission vector
+    E) a study design which defines groups according to the outcome and looks forwards to determine the study factor
+    F) a study design which defines groups according to the outcome and looks backwards to determine the study factor
+    G) a reservoir which is usually a rodent
+
+38-D. [mcq, 1 pt] Which definition matches epidemic curve?
+    [IMAGE: ../images/2018_princeton_c__p14_ee0b1c-48522bf1.webp]
+    A) A graphical representation of case distribution by time of onset
+    B) a host organism which usually only harbors a pathogen but remains asymptomatic
+    C) something that needs to be present for a condition to occur
+    D) an object that can serve as transmission vector
+    E) a study design which defines groups according to the outcome and looks forwards to determine the study factor
+    F) a study design which defines groups according to the outcome and looks backwards to determine the study factor
+    G) a reservoir which is usually a rodent
+
+38-E. [mcq, 1 pt] Which definition matches necessary cause?
+    [IMAGE: ../images/2018_princeton_c__p14_ee0b1c-48522bf1.webp]
+    A) A graphical representation of case distribution by time of onset
+    B) a host organism which usually only harbors a pathogen but remains asymptomatic
+    C) something that needs to be present for a condition to occur
+    D) an object that can serve as transmission vector
+    E) a study design which defines groups according to the outcome and looks forwards to determine the study factor
+    F) a study design which defines groups according to the outcome and looks backwards to determine the study factor
+    G) a reservoir which is usually a rodent
+
+39. [frq, 4 pt] There are 2349 people infected with Shigella in Point Imagination on February 10th. The population of Point Imagination is 203,672 people. From January 6th to February 10th 3676 people were infected. What two statistics can you calculate from this data? Name them and calculate them.
+
+[STIMULUS] **TIEBREAKER 3: Question 40.** Identify the elements the epidemiologic triad (also known as triangle), given the following information (match the element with its corresponding entity from the text below). Calculate the secondary attack rate. [9 points; secondary attack rate calculation is awarded all or nothing, and is worth 3 points]
+
+During an ebola epidemic in Mayibout 2 (a village of 245 people in Gabon), many people became infected with the virus by eating chimpanzees killed by local children and their dogs. Initially 3 people were sick and went to a hospital downriver. In less than a few weeks, 35 secondary cases appeared to a total of 38 infected, 34 of whom would eventually die. These 38 people were from 14 households, in which a total number of 64 people lived.
+
+40a. [frq, 2 pt] Identify the agent element of the epidemiologic triad from the information above.
+
+40b. [frq, 2 pt] Identify the host element of the epidemiologic triad from the information above.
+
+40c. [frq, 2 pt] Identify the environment element of the epidemiologic triad from the information above.
+
+40d. [numeric, 3 pt] Calculate the secondary attack rate.

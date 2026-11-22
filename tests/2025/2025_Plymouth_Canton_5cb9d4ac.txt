@@ -1,0 +1,475 @@
+Plymouth-Canton — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  78 questions, 114.0 pts
+Source: scio.ly test archive id 5cb9d4ac-6c24-4248-952f-c5533e238154  |  original files: https://drive.google.com/drive/folders/1tWAoypzya1TKucJsybmKDZ8gBS66gCEK
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Plymouth Canton Disease Detectives Test ===
+
+[STIMULUS] The incubation period is normally for ____ diseases, and the latency period is for ____ diseases.
+
+1-1. [frq, 1 pt] Blank 1: The incubation period is normally for ____ diseases, and the latency period is for (…) diseases.
+
+1-2. [frq, 1 pt] Blank 2: The incubation period is normally for (…) diseases, and the latency period is for ____ diseases.
+
+[STIMULUS] For each of the following examples, identify which Bradford Hill's Criteria the example by filling in the blank.
+
+P1-2. [frq, 1 pt] ____ - All of the people who contracted the recent COVID-19 outbreak in Faerie after attending the coronation of the High King.
+
+P1-3. [frq, 1 pt] ____ - The uncooked lasagna from Joe Biden's family gathering produced symptoms of diarrhea in most people who ate the food.
+
+P1-4. [frq, 1 pt] ____ - Scientists have developed a vaccine for COVID-19 in order to decrease the severity of symptoms.
+
+P1-5. [frq, 1 pt] ____ - Spongebob considers multiple hypotheses of which food item caused symptoms of fever and considers each of them, before deciding it was the uncooked meat that caused the fever.
+
+P1-6. [frq, 1 pt] ____ - The fact that the flu can be transmitted through droplets does not contradict biological processes nor past cases.
+
+P1-7. [frq, 1 pt] ____ - The association that foodborne illness usually is caused by undercooked foods has been present in many different populations.
+
+P1-8. [frq, 1 pt] ____ - The attack rate for the salmon served at Ronald Mcdonald's graduation party is 0.967, and many of the people who contracted the foodborne illness ate salmon.
+
+P1-9. [frq, 1 pt] What is the only disease that has been eradicated?
+
+P1-10. [frq, 1 pt] What is another name for Mad Cow Disease?
+
+P1-11. [frq, 1 pt] If an epidemiologist wants to identify the risk factors for a new disease, which measure of frequency should they use to help them accomplish this?
+
+P1-12. [frq, 4 pt] What are the stages in the natural history of disease in order?
+
+P1-13. [frq, 1 pt] Elizabeth wants to be a Disease Detective, so she signs up for the first Epidemiology course she sees without reading the name. On the first day of class they discuss the main topics that will be covered, such as passive vs. active surveillance and how to diagnose a case associated with a large-scale outbreak. Out of the two main epidemiological approaches, this class clearly focuses on the ____ approach.
+
+[STIMULUS] ____ used ____ epidemiology to investigate the 1854 cholera outbreak in London, England.
+
+P1-14-1. [frq, 1 pt] Blank 1: ____ used (…) epidemiology to investigate the 1854 cholera outbreak in London, England.
+
+P1-14-2. [frq, 1 pt] Blank 2: (…) used ____ epidemiology to investigate the 1854 cholera outbreak in London, England.
+
+P1-15. [frq, 1 pt] If public health agencies reach out to local health providers, it's an example of ____ surveillance.
+
+P1-16. [frq, 6 pt] After constructing a working case definition, what are the three next steps in outbreak investigation?
+
+[STIMULUS] Categorize the following diseases into viral, bacterial, fungal, protozoal, and prions.
+
+P1-17. [mcq, 1 pt] Hepatitis B
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-18. [mcq, 1 pt] Ringworm
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-19. [frq, 1 pt] Creutzfeldt-Jakob Disease
+
+P1-20. [mcq, 1 pt] Malaria
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-21. [mcq, 1 pt] Lyme Disease
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-22. [mcq, 1 pt] Mononucleosis
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-23. [mcq, 1 pt] Strep Throat
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+P1-24. [mcq, 1 pt] Athlete's Foot
+    A) viral
+    B) bacterial
+    C) fungal
+    D) protozoal
+    E) prions
+
+[STIMULUS] Match the words to their definitions.
+
+A. vector
+B. cluster
+C. etiology
+D. virulence
+E. holoendemic
+F. epidemic
+G. pathogenicity
+H. zoonosis
+I. hyperendemic
+J. reservoir
+K. fomite
+L. pandemic
+
+P1-25. [mcq, 1 pt] The constant presence at high incidence and prevalence of an agent or health condition within a given geographic area or popular.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-26. [mcq, 1 pt] An epidemic occurring over a widespread area (e.g. multiple countries) and usually affecting a substantial proportion of the population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-27. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-28. [mcq, 1 pt] The habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-29. [mcq, 1 pt] An inanimate object that can be the vehicle for transmission of an infectious agent.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-30. [mcq, 1 pt] An aggregation of cases of a disease, injury, or other health condition in a circumscribed area during a particular period without regard to whether the number of cases is more than expected.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-31. [mcq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-32. [mcq, 1 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of people during a particular period.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-33. [mcq, 1 pt] Characterized by the infection of essentially every individual in a defined population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-34. [mcq, 1 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-35. [mcq, 1 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-36. [mcq, 1 pt] The cause or causes of a disease or abnormal condition.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+[STIMULUS] Questions 37-40 are related the following graph:
+    [IMAGE: ../images/2026_plymouth_canton_c__p5_d19936-1484e0c0.webp]
+
+P1-37. [frq, 1 pt] What is the earliest date of onset?
+
+P1-38. [frq, 1 pt] What is the median date of onset?
+
+P1-39. [frq, 1 pt] When is the peak of the bell curve?
+
+P1-40. [frq, 1 pt] What is the name of this graph?
+
+P1-41. [frq, 1 pt] ____= capable of causing disease and its source
+
+P1-42. [frq, 1 pt] ____= persons susceptible to the blank above
+
+P1-43. [frq, 1 pt] ____= allows answers in blanks above to get together
+
+[STIMULUS] Identify if the following applies to a cohort study (a), a case-control study (b), or both (c).
+
+P1-44. [mcq, 1 pt] Based on exposure status
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-45. [mcq, 1 pt] Calculates relative risk
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-46. [mcq, 1 pt] Works backwards
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-47. [mcq, 1 pt] Based on effect or illness
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-48. [mcq, 1 pt] [a/(a+b)]/[c/(c+d)]
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-49. [mcq, 1 pt] Calculates Attack rate
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-50. [mcq, 1 pt] Calculates Odds Ratio
+    A) cohort study
+    B) case-control study
+    C) both
+
+P1-51. [mcq, 1 pt] Either retrospective or prospective
+    A) cohort study
+    B) case-control study
+    C) both
+
+
+=== Short answer ===
+
+P2-52. [frq, 8 pt] Explain all stages of the Natural History of Disease and what it is.
+
+P2-53. [frq, 15 pt] List the types of prevention strategies and 2 examples for each
+
+P2-54. [frq, 2 pt] What is quaternary prevention and why do we use it?
+
+P2-55. [frq, 3 pt] What is the difference between infectivity, pathogenicity, and virulence?
+
+P2-56. [frq, 2 pt] Veronica goes to her doctor's appointment to check on her progress after her liver surgery. Her doctor tells her he needs to change her prescription. Veronica adheres to her prescription for two days and on the third day falls severely ill. She is sent to the emergency room. She is told this is the result of an overdosis. Veronica visits her doctor again. The doctor confesses that he made an error when placing her prescription. What term can be used to describe what Veronica has experienced and why?
+
+P2-57. [frq, 4 pt] The staple food of locals was shellfish and fish caught in the Minamata bay. Sick people were found to have mercury levels as high as 705 ppm, yet levels in sea catch varied between 6 and 36 ppm. Explain how the mercury levels became so high in diseased patients. Don't forget to explain the sequence of events that led to the exorbitantly high mercury levels with respect to nutrition!
+
+
+=== Multiple Choice ===
+
+P3-1. [mcq, 1 pt] Which of the following best describes the incubation period for infectious diseases?
+    A) The period when symptoms first appear.
+    B) The stage when disease is asymptomatic.
+    C) The time between exposure and the onset of symptoms.
+    D) The time when the disease becomes clinically apparent.
+
+P3-2. [mcq, 1 pt] What is the term for the stage of disease where the individual experiences no symptoms, but pathological changes are occurring?
+    A) Clinical disease
+    B) Incubation period
+    C) Latency period
+    D) Subclinical disease
+
+P3-3. [mcq, 1 pt] Which of the following is NOT a common portal of exit for pathogens?
+    A) Skin
+    B) Respiratory tract
+    C) Lymphatic system
+    D) Gastrointestinal tract
+
+P3-4. [mcq, 1 pt] What is the primary mode of transmission for respiratory diseases like the flu?
+    A) Airborne transmission
+    B) Droplet transmission
+    C) Contact transmission
+    D) Vector transmission
+
+P3-5. [mcq, 1 pt] Which of the following is a characteristic of a vector in disease transmission?
+    A) It only carries the pathogen passively.
+    B) It is always an arthropod, like a mosquito or tick.
+    C) It multiplies the pathogen inside itself before transmitting.
+    D) It is never involved in the transmission of infectious diseases.
+
+P3-6. [mcq, 1 pt] What is the primary goal of primary prevention in disease prevention?
+    A) To treat the disease after it has been diagnosed.
+    B) To avoid initial exposure to a disease agent.
+    C) To screen and treat individuals during the latent stage.
+    D) To prevent unnecessary medical interventions.
+
+P3-7. [mcq, 1 pt] Which of the following is an example of passive immunity?
+    A) Getting vaccinated against flu.
+    B) A mother passing antibodies to her baby through breast milk.
+    C) Becoming immune after recovering from an infection.
+    D) The body naturally fighting off pathogens through innate immunity.
+
+P3-8. [mcq, 1 pt] What is the minimum pH range required for foodborne pathogens to thrive?
+    A) Below 4.6
+    B) Between 4.6 and 7.5
+    C) Between 7.5 and 10.0
+    D) Above 7.5
+
+P3-10. [mcq, 1 pt] Air pollution, particularly ground-level ozone, is most closely linked to which of the following health issues?
+    A) Skin cancer
+    B) Asthma and worsened lung function
+    C) Diarrheal diseases
+    D) Gastrointestinal infections
+
+P3-11. [mcq, 1 pt] What is the term used to describe a situation where enough people are immunized to prevent the spread of disease within a community?
+    A) Active immunity
+    B) Herd immunity
+    C) Passive immunity
+    D) Quaternary prevention
+
+P3-12. [mcq, 1 pt] Which of the following is the most likely result of rapid urbanization and population growth?
+    A) Decreased transmission of infectious diseases.
+    B) Increased spread of infectious diseases.
+    C) Improved access to healthcare.
+    D) A reduction in zoonotic diseases.
+
+P3-13. [mcq, 1 pt] What does the acronym FAT TOM stand for in relation to foodborne illnesses?
+    A) Factors that promote bacterial growth
+    B) Food and time limitations in refrigeration
+    C) Frequent air temperature regulations for cooking
+    D) Food and tools for optimal microbes
+
+P3-14. [mcq, 1 pt] What is considered a vector in disease transmission?
+    A) A fomite like a doorknob
+    B) A mosquito carrying malaria
+    C) A person with tuberculosis
+    D) Contaminated water
+
+P3-15. [mcq, 1 pt] Which of the following is an example of quaternary prevention?
+    A) Screening individuals for early stages of disease.
+    B) Promoting lifestyle changes to prevent heart disease.
+    C) Avoiding unnecessary medical treatments and interventions.
+    D) Vaccinating a population against a disease.
+
+P3-16. [mcq, 1 pt] Which of the following best describes a positive correlation between two variables in epidemiology?
+    A) As one variable increases, the other decreases.
+    B) Both variables increase together.
+    C) Both variables are independent of each other.
+    D) One variable does not affect the other.
+
+P3-17. [mcq, 1 pt] What is the role of the p-value in statistical inference during hypothesis testing?
+    A) It tells us the strength of the correlation between two variables.
+    B) It provides the probability that the null hypothesis is true.
+    C) It determines if the test results are due to chance.
+    D) It calculates the sample size needed for the test.
+
+P3-18. [mcq, 1 pt] What is the standard deviation a measure of in a data set?
+    A) The average value of the data points.
+    B) The degree to which the data values differ from the mean.
+    C) The central tendency of the data.
+    D) The highest value in the data set.
+
+P3-19. [mcq, 1 pt] In epidemiology, which statistical test would be used to compare the means of more than two groups?
+    A) T-Test
+    B) Chi-Square Test
+    C) ANOVA
+    D) Z-Test
+
+P3-20. [mcq, 1 pt] A study finds that 95% of a population falls within 2 standard deviations of the mean. This scenario follows which of the following rules?
+    A) The Central Limit Theorem
+    B) The 68-95-99.7 Rule
+    C) The Law of Large Numbers
+    D) The Bell Curve Hypothesis

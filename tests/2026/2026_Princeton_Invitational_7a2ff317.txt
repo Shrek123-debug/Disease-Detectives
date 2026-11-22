@@ -1,0 +1,361 @@
+Princeton Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  96 questions, 156.0 pts
+Source: scio.ly test archive id 7a2ff317-7846-4855-bcab-f356ef960396  |  original files: https://drive.google.com/drive/folders/1_Eq1W3KQ-o1WKK6Ifhav2fpn4TLJzryw
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 17
+
+DIRECTIONS: • Show your work for all calculation questions to receive full or partial credit.
+• Problems are a mix of multiple choice, short answer, and calculations.
+
+
+=== Case 1 – Legionnaires’ Disease in a City Hotel ===
+
+[STIMULUS] In August 2026, the city health department notices an unusual increase in severe pneumonia cases among adults living or staying within a 4-block radius of the Grand Orion Hotel, a 35-story building with a rooftop cooling tower and indoor fountain in the lobby. Emergency department data show clusters of patients presenting with cough, fever, shortness of breath, and chest pain. Several patients are diagnosed with Legionnaires’ disease, a severe pneumonia caused by *Legionella* bacteria, which commonly spread through inhalation of contaminated aerosolized water (e.g., from cooling towers, fountains, or showers).
+
+P1-1a. [frq, 1 pt] The health department first noticed the increase from near real-time ED chief complaint data (e.g., “fever + cough + shortness of breath”). What type of surveillance is this most consistent with?
+
+P1-1b. [frq, 1 pt] Give one advantage of this type of surveillance for detecting outbreaks.
+
+[STIMULUS] Over the next 2 weeks, 48 confirmed cases of Legionnaires’ disease are identified. A preliminary case definition is proposed:
+
+“Any person with radiographically confirmed pneumonia who lives, works, or stayed overnight within 4 blocks of the Grand Orion Hotel between August 1–15, 2026, and has onset of symptoms during that period.”
+
+Name four required components of a good case definition and match them to the parts of the definition above (e.g., person, place, time, clinical criteria). (You do not need to rewrite the definition.)
+    | Label | Answer |
+    | Person | [[q:P1-2-a]] |
+    | Place | [[q:P1-2-b]] |
+    | Time | [[q:P1-2-c]] |
+    | Clinical criteria | [[q:P1-2-d]] |
+
+P1-2-a. [frq, 1 pt] Person
+
+P1-2-b. [frq, 1 pt] Place
+
+P1-2-c. [frq, 1 pt] Time
+
+P1-2-d. [frq, 1 pt] Clinical criteria
+
+P1-3a. [numeric, 1.5 pt] Investigators focus on hotel guests during August 1–15. Among 300 total guests who stayed at the hotel for at least one night:
+    • 90 used the indoor lobby fountain area frequently (sat nearby for ≥ 30 min per day)
+    • 210 did not spend time near the fountain
+    
+    Of the 90 fountain-exposed guests, 27 later developed Legionnaires’ disease. Of the 210 non-fountain guests, 9 developed disease.
+    
+    Among guests who spent time near the fountain, calculate the attack rate of Legionnaires’ disease. Express your answer as a percentage.
+
+P1-3b. [numeric, 1.5 pt] Investigators focus on hotel guests during August 1–15. Among 300 total guests who stayed at the hotel for at least one night: • 90 used the indoor lobby fountain area frequently (sat nearby for ≥ 30 min per day) • 210 did not spend time near the fountain Of the 90 fountain-exposed guests, 27 later developed Legionnaires’ disease. Of the 210 non-fountain guests, 9 developed disease.
+    
+    Among guests who did not spend time near the fountain, calculate the attack rate of Legionnaires’ disease. Express your answer as a percentage.
+
+P1-4a. [frq, 2 pt] Using your answers above, calculate the risk ratio for Legionnaires’ disease comparing guests who spent time near the fountain to those who did not. Show the formula and plug in the numbers.
+
+P1-4b. [frq, 2 pt] Interpret the RR in one sentence in plain language.
+
+P1-5. [numeric, 4 pt] To compare exposures, you construct the following 2 × 2 table for fountain exposure among hotel guests only:
+    
+    | | Case | Non-case | Total |
+    |---|---|---|---|
+    | Exposed to fountain | 27 | 63 | 90 |
+    | Not exposed to fountain | 9 | 201 | 210 |
+    
+    Using the table above, calculate the odds ratio of disease for fountain exposure using the formula:
+    
+    OR = (a · d) / (b · c)
+    
+    where a = exposed cases, b = exposed non-cases, c = unexposed cases, d = unexposed non-cases. Show your work and give a numerical answer (rounded to two decimal places).
+
+P1-6. [frq, 2 pt] In an outbreak like this, why might the risk ratio be preferred over the odds ratio when you have information on the entire at-risk population (all hotel guests)? Answer in 1–2 sentences.
+
+P1-7a. [frq, 2 pt] The health department also identifies local residents (not hotel guests) who live within 4 blocks of the hotel. Among these 800 residents, 12 develop confirmed Legionnaires’ disease during August 1–31. Investigators estimate that, on average, each resident contributed 31 person-days of observation in August.
+    
+    Calculate the incidence rate of Legionnaires’ disease among local residents.
+
+P1-7b. [frq, 2 pt] Briefly explain the difference between an attack rate and an incidence rate in this context.
+
+P1-8b. [frq, 1 pt] An environmental investigation is conducted. *Legionella* is detected in: • The rooftop cooling tower water samples • The indoor fountain water samples • But not in the municipal tap water feeding the hotel
+    
+    Describe the agent–host–environment triad for this outbreak by naming one relevant host factor.
+
+P1-8c. [frq, 1 pt] An environmental investigation is conducted. *Legionella* is detected in: • The rooftop cooling tower water samples • The indoor fountain water samples • But not in the municipal tap water feeding the hotel
+    
+    Describe the agent–host–environment triad for this outbreak by naming one environmental factor that likely contributed to transmission.
+
+P1-9a. [numeric, 2 pt] A later case-control study compares cases (hotel guests with Legionnaires’ disease) and controls (hotel guests without disease) on whether they used the rooftop spa:
+    
+    | | Cases | Controls | Total |
+    |---|---|---|---|
+    | Used rooftop spa | 10 | 20 | 30 |
+    | Did not use rooftop spa | 26 | 244 | 270 |
+    
+    Calculate the odds ratio for Legionnaires’ disease associated with using the rooftop spa.
+
+P1-10a. [frq, 1.5 pt] The city uses a computer program to generate a 95% confidence interval for the risk ratio for fountain exposure and obtains:
+    
+    RR = 7.0, 95% CI: 3.5–14.0
+    
+    (Concept – confidence intervals) What does the “95%” mean in terms of repeated sampling?
+
+P1-10b. [frq, 1.5 pt] The city uses a computer program to generate a 95% confidence interval for the risk ratio for fountain exposure and obtains: RR = 7.0, 95% CI: 3.5–14.0
+    
+    What does the CI indicate about the statistical significance at α = 0.05?
+
+P1-11. [frq, 2 pt] Why are herd immunity and R₀ less relevant concepts for Legionnaires’ disease than for, say, measles or influenza?
+
+P1-12. [frq, 3 pt] The health department orders immediate control measures at the hotel. List three specific control or prevention measures that should be implemented to reduce further risk from *Legionella* in this setting.
+
+P1-13. [frq, 2 pt] Later review reveals mild selection bias: healthier travelers were more likely to respond to the follow-up survey about exposures, and very ill individuals were under-represented. Explain how this type of selection bias could affect your estimates of association (e.g., RR or OR). Would it more likely underestimate or overestimate the true association? Justify in 1–2 sentences.
+
+P1-14. [frq, 3 pt] Investigators notice that age is also associated with disease: among guests ≥ 65 years old, the attack rate was much higher than among guests < 65. Define confounding. Propose how age could act as a confounder in the relationship between fountain exposure and Legionnaires’ disease.
+
+P1-15. [frq, 1 pt] Name one other plausible source of confounding between fountain exposure and Legionnaires’ disease.
+
+P1-16. [mcq, 2 pt] Name the study design that best describes your initial investigation of all hotel guests over a defined time period (comparing exposed vs unexposed). Choose one.
+    A) Case–control
+    B) Retrospective cohort
+    C) Prospective cohort
+    D) Cross-sectional
+
+
+=== Case 2 – “67 Disease” Brainrot Syndrome ===
+
+[STIMULUS] In spring 2027, the health department of Riverstone County receives reports from several high schools about students with unusual symptoms: difficulty focusing, persistent headaches, sleep disturbance, and episodes of “zoning out” during class after spending long hours at a local 24-hour gaming café called Level 67.
+
+Students joke online about having “67 brainrot,” and the name catches on. A school nurse notices that many affected students report:
+• Spending ≥ 3 evenings per week at Level 67
+• Sharing headsets and controllers
+• Drinking a new energy drink marketed only at Level 67
+
+No single infectious agent has yet been identified. The county is not sure whether this is:
+• A new infectious disease
+• A toxic exposure (e.g., solvent, CO, stimulant)
+• A cluster of stress/sleep-deprivation–related symptoms
+
+2-1a. [frq, 1.5 pt] (Surveillance & signals) The earliest clues about “67 disease” came from:
+    • School nurses’ notes
+    • Increased visits for “headache + difficulty concentrating”
+    • Social media posts using the hashtag #67Brainrot
+    
+    (a) Name one type of surveillance this situation represents.
+
+2-1b. [frq, 1.5 pt] (Surveillance & signals) The earliest clues about “67 disease” came from:
+    • School nurses’ notes
+    • Increased visits for “headache + difficulty concentrating”
+    • Social media posts using the hashtag #67Brainrot
+    
+    (b) Give one advantage and one limitation of using that type of surveillance for early detection.
+
+[STIMULUS] You define a preliminary case definition:
+
+“Any student aged 13–18 who attends a Riverstone County high school and, between March 1 and April 30, 2027, has at least 3 episodes per week of headache, difficulty concentrating, and daytime sleepiness not explained by another known medical condition.”
+
+Identify which parts of this definition correspond to:
+
+2-2a. [frq, 1 pt] Person
+
+2-2b. [frq, 1 pt] Place
+
+2-2c. [frq, 1 pt] Time
+
+2-2d. [frq, 1 pt] Clinical criteria
+
+2-6. [mcq, 2 pt] The school district wants to know if this is likely due to sleep-deprivation and lifestyle rather than a single agent. You collect data on average hours of sleep per night. (Study design – choosing) Which study design would best allow you to follow students over time to see whether future symptoms of “67 disease” develop after exposure to Level 67 and/or the energy drink? Choose one.
+    A) Cross-sectional
+    B) Case–control
+    C) Prospective cohort
+    D) Ecological
+
+2-7a. [frq, 1.5 pt] If instead you conducted a case–control study at the county level: (a) Who would be your cases?
+
+2-7b. [frq, 1.5 pt] If instead you conducted a case–control study at the county level: (b) Who would be your controls? Explain in 1–2 sentences how you would select them.
+
+[STIMULUS] In a follow-up prospective cohort of 400 students with no symptoms at baseline, you classify them by energy drink use at Level 67 (≥ 1 can/week vs 0 cans/week). Over 3 months:
+• Among 160 energy drink users, 64 develop “67 disease” symptoms.
+• Among 240 non-users, 48 develop symptoms.
+
+2-8a. [numeric, 2 pt] Calculate the cumulative incidence of “67 disease” symptoms among energy drink users. Express as a percentage.
+
+2-8b. [numeric, 2 pt] Calculate the cumulative incidence among non-users. Express as a percentage.
+
+2-9. [numeric, 3 pt] Using your answers above, calculate the risk ratio of “67 disease” symptoms for energy drink users vs non-users. Show your formula and your final answer.
+
+2-10. [frq, 2 pt] The RR from the previous question is greater than 1. Does this prove that the energy drink causes “67 disease”? In 2–3 sentences, explain why or why not.
+
+P2-11. [frq, 4 pt] Further investigation finds that students who use the energy drink are also more likely to:
+    • Stay at the café past midnight
+    • Have < 6 hours of sleep on school nights
+    
+    Define confounding and effect modification. Then briefly state:
+    (a) How sleep duration might act as a confounder in the relationship between energy drink use and symptoms (what pattern would you see in the stratum-specific associations?).
+    (b) How sleep duration could instead be an effect modifier (what pattern would you see in the stratum-specific associations?).
+
+[STIMULUS] The health department is unsure whether “67 disease” is infectious. You consider the agent–host–environment triad.
+
+P2-12a. [frq, 1 pt] Propose one plausible hypothesis for the agent (could be infectious, chemical, or other).
+
+P2-12b. [frq, 1 pt] Propose one plausible hypothesis for the host factor.
+
+P2-12c. [frq, 1 pt] Propose one plausible hypothesis for the environmental factor.
+
+[STIMULUS] You plot an epi curve of onset of “67 disease” symptoms among heavy Level 67 users. The curve shows ongoing cases over several weeks, without a sharp single peak but with ups and downs corresponding to weekends and exam weeks.
+
+P2-13a. [mcq, 1.5 pt] Which type of epi curve does this most closely resemble?
+    A) Point source
+    B) Continuous common source
+    C) Propagated (progressive)
+    D) Mixed outbreak
+
+P2-13b. [frq, 1.5 pt] Explain in 1–2 sentences why you chose that type of epi curve.
+
+P2-14. [frq, 3 pt] Name three realistic prevention strategies that do not require knowing the exact agent but still address the public health problem of “67 brainrot” among students.
+
+[STIMULUS] A tech company offers a new “67Shield” headset sanitizer that claims to reduce risk of “67 disease” by using UV light. A randomized controlled trial is done in which frequent Level 67 users are randomly assigned to either use the 67Shield on headsets every time or not use it. After 2 months: • Incidence in 67Shield group = 10% (20/200) • Incidence in no-67Shield group = 20% (40/200)
+
+P2-15a. [numeric, 2 pt] Calculate the effectiveness of the 67Shield in reducing “67 disease” incidence. Express as a percentage.
+
+P2-15b. [frq, 2 pt] Name two advantages and two disadvantages of this randomized controlled trial design in the Level 67 setting.
+
+P2-16. [frq, 2 pt] Some parents argue that the media is exaggerating the issue and that these cases could just be background stress among students. In 2–3 sentences, explain how you would determine whether “67 disease” represents a true outbreak/epidemic versus expected background levels of stress and headache in this population. What data or comparisons would you need?
+
+[STIMULUS] Later, you observe that case rates differ strongly between schools with “no device” policies and schools that allow phones and gaming during lunch. You perform an ecological study comparing school-level policies with school-level rates of “67 disease.”
+
+P2-17a. [frq, 1 pt] What is one strength of this approach?
+
+P2-17b. [frq, 1 pt] What is one key limitation of any ecological study?
+
+P2-18. [frq, 2 pt] A clinician wants to diagnose and treat each individual with suspected “67 disease.” The health department wants to reduce the overall burden among all students in the county. In 2–3 sentences, contrast the clinical approach vs the public health approach in this scenario.
+
+P2-19. [frq, 2 pt] Assume that after extensive investigation, no single pathogen is found, but strong evidence points to a combination of sleep deprivation, stimulant overuse, and poor indoor air quality at Level 67. Explain how this example shows that “disease” in epidemiology can include noninfectious, multi-factor conditions, and why epidemiologic methods are still crucial even when the cause is not a single microbe.
+
+
+=== Case 3 – mRNA Vaccines for HIV ===
+
+[STIMULUS] An mRNA vaccine delivers a synthetic piece of messenger RNA which instructs cells to create an antigen protein. This protein stimulates an immune response, leading to the production of antibodies which target the antigen. When an infectious agent which expresses this antigen appears, the antibodies will recognize the antigen and mark the invasive agent for the immune system to attack.
+
+3-1. [mcq, 1 pt] mRNA vaccines’ recent ascent to stardom can be largely attributed to its role in suppressing which of the following diseases?
+    A) Influenza A virus subtype H5N1
+    B) Severe acute respiratory syndrome coronavirus 2
+    C) Clostridium botulinum
+    D) Salmonella enterica
+
+3-3. [frq, 2 pt] Researchers are currently working on developing an mRNA vaccine for HIV. HIV does not satisfy Koch’s postulates. Name one postulate it does not satisfy and explain why this is the case.
+
+P3-4. [frq, 3 pt] What pathological characteristics of the HIV vaccine makes it so difficult to design a vaccine for? List three reasons.
+
+[STIMULUS] In 2030, the hypothetical pharmaceutical company “Princederna” conducts a phase II clinical trial of its novel mRNA HIV vaccine. The trial population consists of 4000 high-risk individuals, half of which are given the experimental vaccine and half of which are given a placebo. The two groups are assigned randomly, and neither the subjects nor the researchers know who received the vaccine and who didn’t. The study participants are then tracked for five years to determine whether or not they develop HIV.
+
+P3-5. [frq, 2 pt] Name two groups which are considered “high-risk” for HIV?
+
+P3-6a. [frq, 2 pt] This clinical trial is an example of a double-blind randomized controlled trial. (a) Why is this study design considered the “gold standard” of clinical research?
+
+P3-6b. [frq, 2 pt] This clinical trial is an example of a double-blind randomized controlled trial. (b) What are two disadvantages of this study design?
+
+P3-7. [frq, 1 pt] A standard phase II clinical trial (for an influenza vaccine, for example) consists of only 100-300 participants. Why does this clinical trial have a population of 4000? (Hint: Think about the ethical limitations of vaccine trials.)
+
+[STIMULUS] After five years of followup, 958 study participants contracted HIV. Exactly 1.15% of the participants who did not receive the vaccine left the study early and 13 participants who did receive the vaccine left the study early.
+
+P3-8a. [frq, 1 pt] Many of the participants who exited the study early cited health reasons related to non-HIV STIs. (a) What potential study bias is related to the participants which left the study early?
+
+P3-9a. [mcq, 1 pt] There are a number of different metrics which can be used to evaluate a vaccine. (a) Which metric can be calculated based on the provided data?
+    A) vaccine efficacy
+    B) vaccine effectiveness
+    C) vaccine efficiency
+
+P3-9b. [frq, 2 pt] There are a number of different metrics which can be used to evaluate a vaccine. (b) Explain why the other two metrics are not applicable in this situation.
+
+P3-14a. [frq, 1 pt] All statistical tests are susceptible to error. (a) What is a Type I error?
+
+P3-15. [frq, 1 pt] The chi-squared test for homogeneity is one of two commonly used types of chi-squared tests. What is the other?
+
+P3-16. [frq, 1 pt] Fisher’s exact test is, as its name suggests, an exact test. The chi-squared test, on the other hand, is not exact. Knowing this, why is the chi-squared test still a better choice in this scenario?
+
+
+=== Case 4 – Retroviral Recollection ===
+
+[STIMULUS] A retrovirus is a type of virus which inserts a copy of its own genome into the DNA of its host cell, thereby altering the genome of that cell. Sometimes, if a retrovirus targets germ line DNA, these genetic altercations can be passed down from parent to child. In fact, there are numerous examples of ancient retrovirus RNA which have been passed down multiple generations and are still a part of the modern human genome.
+
+4-1. [frq, 1 pt] What is the difference between an exogenous disease and an endogenous disease?
+
+4-2. [frq, 1 pt] More specifically, what is the difference between an exogenous retrovirus and an endogenous retrovirus?
+
+4-3. [multi, 2 pt] Which of the following diseases can be caused by retroviruses? Select all that apply.
+    A) AIDS
+    B) Cystic fibrosis
+    C) Leukemia
+    D) Huntington’s disease
+    E) Sarcoidosis
+
+4-4. [frq, 1 pt] Retroviruses are generally unable to be spread through airborne transmission. Why might this be the case?
+
+4-5. [frq, 1 pt] What is the most common mode of transmission for retroviruses?
+
+[STIMULUS] “Koala retrovirus (KoRV) is a retrovirus that is present in many populations of koalas. It has been implicated as the agent of koala immune deficiency syndrome (KIDS), an AIDS-like immunodeficiency that leaves infected koalas more susceptible to infectious disease and cancers. The virus is thought to be a recently introduced exogenous virus that is also integrating into the koala germline genome (becoming endogenous). Thus the virus can transmit both horizontally (from animal to animal in the classic sense) and vertically (from parent to offspring as a gene). The horizontal modes of transmission are not well defined but are thought to require close contact... Prevalence of KoRV (and KIDS) in Australian koala populations suggests a trend spreading from the north down to the south of Australia.”
+
+4-6a. [frq, 1 pt] A team of researchers from Princeton University are specifically interested in a possible causal link between KoRV and leukemia in Koalas. Determine which of Bradford Hill’s criteria is most significant in each of the following scenarios and indicate whether the information given supports or rejects the causal link. (a) Researchers have shown that KoRV is closely related to the gibbon ape leukemia virus, which is known to cause leukemia in gibbons.
+
+4-6b. [frq, 1 pt] A team of researchers from Princeton University are specifically interested in a possible causal link between KoRV and leukemia in Koalas. Determine which of Bradford Hill’s criteria is most significant in each of the following scenarios and indicate whether the information given supports or rejects the causal link. (b) Researchers have shown that KoRV causes other forms of cancer as well.
+
+4-6c. [frq, 1 pt] A team of researchers from Princeton University are specifically interested in a possible causal link between KoRV and leukemia in Koalas. Determine which of Bradford Hill’s criteria is most significant in each of the following scenarios and indicate whether the information given supports or rejects the causal link. (c) Researchers have shown that the incidence rate of leukemia is far lower among koalas without KoRV compared to koalas with KoRV.
+
+4-6d. [frq, 1 pt] A team of researchers from Princeton University are specifically interested in a possible causal link between KoRV and leukemia in Koalas. Determine which of Bradford Hill’s criteria is most significant in each of the following scenarios and indicate whether the information given supports or rejects the causal link. (d) Researchers have shown that some koalas contract KoRV only after developing leukemia.
+
+[STIMULUS] We can model the spread of KoRV through a Koala population using a compartmental model. This model is defined by the following system of differential equations. The notation d𝑥/d𝑡 denotes the change in 𝑥 per change in 𝑡, which in our case is time.
+
+d𝑆/d𝑡 = − ρ · α · 𝑆𝐼/𝑁
+
+d𝐼/d𝑡 = ρ · α · 𝑆𝐼/𝑁 − γ𝐼
+
+Here, 𝑆 denotes the susceptible koala population, 𝐼 denotes the infected koala population, and 𝑁 = 𝑆 + 𝐼 is the total koala population. The parameter α denotes the average number of contacts per person per unit of time. Finally, the parameter γ is equal to 1/𝐷, where 𝐷 is the average amount of time a koala survives with KoRV.
+
+P4-10. [frq, 1 pt] What does the parameter ρ denote?
+
+P4-11. [frq, 2 pt] Compared to the usual SIR model, this model is missing one compartment. What is the name of the compartment and why is it missing in this scenario?
+
+P4-12. [frq, 2 pt] What is the basic reproductive number, denoted R₀, of KoRV according to this model? Express your answer in terms of the parameters α, ρ, and γ as necessary.
+
+P4-13. [mcq, 1 pt] A vaccination campaign immunizes 100k% of the koala population. Which of the parameters (α, ρ, and γ) does this change affect?
+    A) α
+    B) ρ
+    C) γ
+
+P4-14. [frq, 2 pt] Rewrite the two differential equations of our compartmental model to reflect this change.
+
+P4-15. [frq, 3 pt] Assuming that 𝑆 is much larger than 𝐼, compute the minimum value of k such that d𝐼/d𝑡 ≤ 0.
+
+P4-16. [frq, 2 pt] Write this minimum value of k in terms of R₀. What is this quantity more commonly known as?
+
+P4-17. [frq, 3 pt] Calculate the value of d𝑁/d𝑡. What assumptions underlie the result of this calculation?
+
+[STIMULUS] In order to rectify the previous assumptions, we develop the following, slightly more complex compartmental model.
+
+d𝑆/d𝑡 = µ𝑆 − ρ · α · 𝑆𝐼/𝑁 − ν𝑆
+
+d𝐼/d𝑡 = µ𝐼 + ρ · α · 𝑆𝐼/𝑁 − γ𝐼
+
+P4-18. [frq, 1 pt] What does the parameter µ denote?
+
+P4-19. [frq, 1 pt] What does the parameter ν denote?
+
+P4-20. [frq, 4 pt] What is the basic reproductive number, denoted R₀, of KoRV according to this model? Express your answer in terms of the parameters α, ρ, µ, γ, and ν as necessary.
+
+P4-21. [frq, 2 pt] A sterilization campaign renders 100ℓ% of koalas with KoRV sterile. Rewrite the two differential equations of our compartmental model to reflect this change.
+
+P4-23. [frq, 4 pt] Under what conditions (if any) is sterilization alone enough to make d𝐼/d𝑡 < 0? Under what conditions (if any) is vaccination alone enough to make d𝐼/d𝑡 ≤ 0? Support your answers mathematically. Assume that 𝑆 is much greater than 𝐼.
+
+
+=== Bonus - Trivia ===
+
+P5-B1. [frq, 1 pt] The Black Death, which occurred from 1346 to 1353, is widely considered to be the deadliest plague in history. How many deaths did it cause? Estimates in the right range will be given credit.
+
+P5-B2. [frq, 1 pt] What was the full name of the asymptomatic carrier of Salmonella Typhi known as "Typhoid Mary?"
+
+P5-B3. [frq, 1 pt] In 1982, seven deaths in Chicago were attributed to an over-the-counter medication that had been laced with potassium cyanide. Which over-the-counter medication was implicated in the poisonings?
+
+P5-B4. [frq, 1 pt] Which law, passed by Theodore Roosevelt, founded the Food and Drug Administration?
+
+P5-B5. [frq, 1 pt] The term "vaccine" comes from the name of an animal. Which animal?
+
+P5-B6. [frq, 1 pt] What U.S. government agency, part of the Department of Health and Human Services, "leads public health efforts to advance the behavioral health of the nation?"
+
+P5-B7. [frq, 1 pt] What country is the Alexander Fleming Biomedical Sciences Research Center located in?
+
+P5-B9. [frq, 1 pt] What is the third leading cause of death in the United States?
+
+P5-B10. [frq, 1 pt] In what year did the event Disease Detectives first feature in the Science Olympiad National Tournament?

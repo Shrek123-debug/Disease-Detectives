@@ -1,0 +1,173 @@
+Cornell — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  51 questions, 88.0 pts
+Source: scio.ly test archive id ef88b0fc-57dc-41f2-b649-ee10b0f02df9  |  original files: https://drive.google.com/drive/folders/1rrCrNb5PyEI6DZj89sxV3wYsTQnsvWb4
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== Part 1: Short answer/vocab ===
+
+P1-1. [frq, 3 pt] Name the three components of the epidemiological triad.
+
+P1-2. [frq, 2 pt] What are the four elements of the chain of transmission?
+
+P1-3. [frq, 1 pt] What does a case definition determine?
+
+P1-4. [frq, 2 pt] What are the four parts of a case definition?
+
+P1-5. [frq, 3 pt] What are three types of descriptive studies?
+
+P1-6. [frq, 1 pt] What is the difference between a retrospective study and a prospective study?
+
+P1-7. [frq, 1 pt] What term would you use to describe an event if it was an “aggregation of cases,” possibly but not necessarily related?
+
+P1-8. [frq, 2 pt] What would be required to classify an event as an outbreak?
+
+P1-9. [frq, 2 pt] As a pandemic?
+
+P1-10. [frq, 1 pt] What is the difference between a vector and a vehicle?
+
+P1-11. [frq, 1 pt] What is the difference between a vehicle and a fomite?
+
+P1-12. [frq, 1 pt] Define dose-response.
+
+P1-13. [frq, 1 pt] The above term is frequently used as one of six judges to determine ____.
+
+P1-14. [frq, 2 pt] What are the two types of “common source” transmission spreads that could be found in an epi curve?
+
+P1-16. [frq, 2 pt] What is the definition of a “true negative?”
+
+P1-17. [frq, 1 pt] Using the symbol “TP” for true positive, “FP” for false positive, “TN” for true negative, and “FN” for false negative, write the formula for negative predictive value
+
+P1-18. [frq, 1 pt] What does negative predictive value mean?
+
+P1-20. [frq, 2 pt] What is the specificity for the study in 19?
+
+
+=== Part 2: Case studies ===
+
+[STIMULUS] Zoonotic Disease
+
+Images 1 and 2 are to be used to answer questions 1-7. Please see slide in front of room.
+
+Image 1 shows the relative risk of contracting a zoonotic disease around the world, with red areas representing the highest relative risk and green areas representing the lowest. Source: Nature.
+
+Image 2 shows the annual percent change in population around the world, with yellow indicating a relatively high percent change and purple indicating a zero percent change. Source: CIA World Factbook
+    [IMAGE: ../images/2015_cornell_c__p1_dbb44e-9f7b0471.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_60e651-6409163c.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_4ef861-62e60183.webp]
+
+P2-1. [frq, 3 pt] In which areas does there appear to be the highest relative risk of contracting a zoonotic disease (name at least 3)?
+
+P2-2. [frq, 2 pt] What do both images indicate about the relationship between high relative risk of contracting a zoonotic disease and high percent changes in population?
+
+P2-3. [frq, 2 pt] Are the images presented above sufficient to determine whether or not there is a statistically significant correlation between percent change in population and relative risk of contracting a zoonotic disease? If not, what additional information or analyses would be needed?
+
+P2-4. [frq, 1 pt] What is a zoonotic disease?
+
+P2-5. [frq, 3 pt] Name three ways to prevent the spread of a zoonotic disease.
+
+P2-6. [frq, 2 pt] What type of study was performed to obtain the data presented in Image 1? How do you know?
+
+P2-7. [frq, 2 pt] How would you determine if there is a statistically significant difference between the relative risk in a green area and the relative risk in a red area of Image 1?
+
+[STIMULUS] **West Nile**
+
+Image 3 is to be used to answer questions 8-X. Please see slide in front of room.
+    [IMAGE: ../images/2015_cornell_c__p1_dbb44e-9f7b0471.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_60e651-6409163c.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_4ef861-62e60183.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_b0d2ba-1cf0cfbb.webp]
+
+P2-8. [frq, 1 pt] What type of outbreak is shown by this epi curve?
+
+P2-9. [frq, 1 pt] On what date did the peak of the outbreak occur?
+
+P2-10. [frq, 2 pt] What can you conclude about the nature of the outbreak based on this curve?
+
+P2-11. [frq, 1 pt] How is West Nile Virus transmitted?
+
+P2-12. [frq, 2 pt] Based only on the epi curve, is it likely that West Nile Virus transmission is amplified by increased population density? Why or why not?
+
+[STIMULUS] **Melanoma**
+
+Image 4 is to be used to answer questions X-X and shows age-adjusted incidence rates of melanoma by age and gender. Please see slide in front of room.
+    [IMAGE: ../images/2015_cornell_c__p1_dbb44e-9f7b0471.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_60e651-6409163c.webp]
+    [IMAGE: ../images/2015_cornell_c__p1_4ef861-62e60183.webp]
+
+P3-1. [frq, 1 pt] Define “incidence rate”.
+
+P3-2. [frq, 1 pt] What can you conclude based only on this data?
+
+P3-3. [frq, 2 pt] Give two reasons why the incidence rates for some of the subgroups appear to have increased in the past 20 years.
+
+P3-4. [frq, 2 pt] Provide two possible explanations for the observed difference in incidence rates of melanoma between races.
+
+P3-5. [frq, 3 pt] This data is age-adjusted. What is age-adjustment and when should it be used? What kinds of error can occur if data is not age adjusted?
+
+[STIMULUS] **Ecoli Outbreak**
+
+Below follows an excerpt regarding a 2011 outbreak of E.coli:
+
+**“Recipe-based restaurant cohort study**
+
+To ascertain the consumption of raw fruit and vegetables by patients and controls more objectively and less dependently on memory, RKI used the following approach in the “recipe-based restaurant cohort study”: Five groups (travel groups, clubs, etc) that comprised a total of 112 participants and included 19 individuals who acquired EHEC infection were questioned regarding the foods they consumed after eating in a common restaurant….The data thus gathered was analyzed in a cohort approach that permits the retrospective estimation of the threat of infection for the restaurant customers. Results of this analysis showed that customers who ate sprouts had an 8.6-fold increased threat (95% confidence interval 1.5- ␣ ) of EHEC/HUS illness compared to those who did not.
+
+**Insights from case-control-studies**
+
+Patients were questioned on the consumption of a large number of animal and plant origin food products, including sprouts, in the initial intensive exploratory interviews in Hamburg on May 20 and 21. In these, only 3 of 12 patients reported having eaten sprouts. Moreover, a relevant under-ascertainment of sprout consumption seemed unlikely since the participants of this survey demonstrated an exceptionally high dietary awareness. Overall, 16 (30%) of 54 patients who could answer questions on the consumption of sprouts in the context of these extensive interviews stated having eaten sprouts within the time frame consistent with the period of acquisition of the infection.”
+
+P4-2. [multi, 1 pt] Both case control and cohort studies were mentioned. From the following list, select the benefits of a cohort study.
+    A) Provides a direct relationship between infected individuals and risk factor
+    B) Not subject to bias
+    C) Has potential for “lost to follow-up”
+    D) Costly in time and resources
+    E) Relatively cheap
+    F) Relatively quick to complete
+
+P4-3. [multi, 1 pt] From the previous list, select the benefits of a case-control study.
+    A) Provides a direct relationship between infected individuals and risk factor
+    B) Not subject to bias
+    C) Has potential for “lost to follow-up”
+    D) Costly in time and resources
+    E) Relatively cheap
+    F) Relatively quick to complete
+
+P4-4. [frq, 1 pt] What distinguishing fact must be true in regarding the individuals to be studied in order to be able to conduct a cohort study instead of a case-control study?
+
+P4-5. [frq, 1 pt] What is the term for the measure of risk referred to by the "8.6 fold threat" in the article?
+
+P4-6. [frq, 5 pt] Create and properly label a 2 X 2 table in the answer document using a group totaling 100 individuals, ten of whom are sick, **where the specific numbers are of your invention**. When solved for the measure in question 5, your fabricated data should provide a value between 8 and 9.
+
+P4-7. [frq, 1 pt] Had any individual become infected in the hospital, what term would have been used to describe his or her illness?
+
+[STIMULUS] **Whooping Cough**
+
+Below follows an excerpt from WebMD:
+
+“When a new whooping cough vaccine was introduced in the late 1990s, there were hopes for a lower infection rate. But there's been a puzzling trend: a spike in new cases. More than 48,000 Americans had whooping cough in 2012 -- a 50-year high. The disease, also known as pertussis, brings on fits of coughing that can last for weeks in adults and older kids. For babies, especially very young ones, the symptoms can be life-threatening.
+
+What's behind the increase in whooping cough? Experts aren't sure, but they have some theories:
+
+- The newer pertussis vaccine does not protect against disease for as long as the previous version.
+- Parents who don't let their kids get vaccines may be creating more opportunities for whooping cough outbreaks.
+- Even vaccinated people may still be carriers and spread whooping cough without realizing it.”
+
+P5-1. [frq, 2 pt] Does the “spike in new cases” mean there definitely have been many new cases of whooping cough? What is another reason epidemiologists may see a spike in cases?
+
+P5-2. [frq, 2 pt] Give a quantitative hypothesis based around the first theory from “experts” stated above.
+
+P5-3. [frq, 2 pt] Briefly, how could you test that hypothesis using a case-control study?
+
+P5-4. [frq, 2 pt] Briefly, how could you test that theory using a prospective cohort study ethically?
+
+P5-5. [frq, 2 pt] What are two ethical issues can surround doing an epidemiological study?
+
+P5-6. [frq, 1 pt] The second theory refers to “creating more opportunities” for outbreaks. What concept refers to enough people being vaccinated to make outbreaks unlikely?
+
+P5-7. [frq, 2 pt] The above concept depends on the proportion of the population vaccinated. In your opinion, does it become more or less likely to achieve a safe level of vaccination as population growth occurs? Explain your answer.
+
+P5-8. [frq, 2 pt] Is pertussis “communicable?” Define communicable.
+
+P5-9. [frq, 2 pt] List two issues that could make communicable diseases more likely in a growing population.
+
+P5-10. [frq, 1 pt] What is a “carrier,” as referred to in the third theory?

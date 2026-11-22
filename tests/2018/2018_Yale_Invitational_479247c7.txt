@@ -1,0 +1,297 @@
+Yale Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  43 questions, 110.0 pts
+Source: scio.ly test archive id 479247c7-2ac9-4ab9-84df-ed4235d585b8  |  original files: https://drive.google.com/drive/folders/1NvgiSGFHW0VjA7WcAre-O0JYl2n6CoJH
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: This exam is composed of several multiple-choice questions, case studies, and free response questions.
+
+ Partial credit is not awarded for multiple choice questions, but may be awarded for open-ended questions.
+
+ Good luck!
+
+
+=== The following questions are worth 2 points each. ===
+
+1. [mcq, 2 pt] Activity taken in preventing a disease is:
+    A) anaphylaxis
+    B) epistaxis
+    C) prophylaxis
+    D) metastatics
+    E) chemotaxis
+
+2. [mcq, 2 pt] Latency period is defined as the time between:
+    A) exposure and incubation
+    B) incubation and communicability
+    C) exposure and appearance of symptoms
+    D) exposure and infectiousness
+    E) appearance of symptoms and communicability
+
+3. [mcq, 2 pt] Staphylococcus bacteria are found on most surfaces and are generally harmless. The organism is said to be:
+    A) endemic
+    B) localized
+    C) epidemic
+    D) pandemic
+    E) oogenic
+
+4. [mcq, 2 pt] In one experiment, anonymous test subjects were randomly assigned to different researchers. Researchers gave the test subjects a task to perform, then reported the raw data to the analysis team without disclosing details of the task performed. This study was:
+    A) one-sided
+    B) single-blind
+    C) double-blind
+    D) triple-blind
+    E) totally masked
+
+5. [mcq, 2 pt] Based on Koch's postulates, which would not be a criterion for establishing causation of an illness?
+    A) microbe found in all infected individuals, but not in healthy individuals
+    B) microbe able to be isolated and cultured
+    C) individual is asymptomatic after some treatment
+    D) cultured microbe is identical to the original microbe causing infection
+    E) microbe able to infect a healthy individual when cultured
+
+6. [mcq, 2 pt] The statistic that describes the risk of contracting a disease is:
+    A) prevalence
+    B) morbidity
+    C) incidence
+    D) chi square
+    E) risk ratio
+
+7. [mcq, 2 pt] Late-stage botulism poisoning is characterized by:
+    A) chills
+    B) paralysis
+    C) diarrhea
+    D) delirium
+    E) tonic-clonic seizures
+
+8. [mcq, 2 pt] Symptoms of bacterial foodborne illness may appear in a patient, even though there is no bacterial agent present in their body. This phenomenon is most often caused by:
+    A) mycotoxins
+    B) anaerobic growth
+    C) dehydration
+    D) enterotoxins
+    E) opportunistic infections
+
+9. [mcq, 2 pt] Norovirus is most effectively transmitted by:
+    A) droplet contact
+    B) direct transmission
+    C) fecal-oral transmission
+    D) oral transmission
+    E) a fomite
+
+10. [mcq, 2 pt] Taenia solium is most often found in:
+    A) public pools
+    B) unwashed vegetables
+    C) dairy products
+    D) undercooked seafood
+    E) undercooked pork
+
+11. [mcq, 2 pt] The epidemiological triad consists of:
+    A) time, host, symptoms
+    B) agent, host, fomite
+    C) agent, host, environment
+    D) person, place, pathogen
+    E) pathogen, symptoms, agent
+
+12. [mcq, 2 pt] John Snow (1813-1858) was an epidemiologist known for tracing an outbreak of ____ to a public well in London.
+    A) cholera
+    B) shigella
+    C) colitis
+    D) campylobacteria
+    E) schistosomiasis
+
+13. [mcq, 2 pt] Tom Frieden (1960- ) served as Commissioner of Health of:
+    A) Los Angeles
+    B) Seattle
+    C) New York City
+    D) Atlanta
+    E) Washington, DC
+
+14. [mcq, 2 pt] The largest pandemic in recorded history was:
+    A) the Spanish Flu (1918)
+    B) Plague of Justinian
+    C) HIV/AIDS (20th century)
+    D) Antonine Plague
+    E) Black Death
+
+15. [mcq, 2 pt] Which of the following is not a continuous variable?
+    A) height of a person
+    B) number of pregnancies
+    C) body mass index
+    D) time spent at a restaurant
+    E) duration of illness
+
+16. [mcq, 2 pt] What type of pathogen is Vibrio vulnificus?
+    A) bacillus
+    B) spirochete
+    C) cytotoxin
+    D) protozoan
+    E) trematode
+
+17. [mcq, 2 pt] The ongoing collection, analysis, and interpretation of health data is known as:
+    A) watchfulness
+    B) being careful
+    C) acquisitivity
+    D) surveillance
+    E) none of the above
+
+18. [mcq, 2 pt] National regulations on the cooking of commercially sold meat is an example of:
+    A) primary prevention
+    B) secondary prevention
+    C) tertiary prevention
+    D) quaternary prevention
+    E) common sense
+
+19. [mcq, 2 pt] Vibriosis is most commonly contracted by:
+    A) eating contaminated fruit
+    B) eating raw shellfish
+    C) swimming in public pools
+    D) eating undercooked pork
+    E) person-to-person contact
+
+20. [mcq, 2 pt] Why is norovirus particularly difficult to control?
+    A) it is highly specific
+    B) it has no cure
+    C) it has low infectivity
+    D) it is stable in the environment
+    E) it is unstable in the environment
+
+21. [mcq, 2 pt] Which of the following is not true about Cyclospora cayetanensis?
+    A) it is transmitted the fecal-oral route
+    B) it is associated with “traveler’s diarrhea”
+    C) it is a protozoan
+    D) it is often associated with other foodborne illnesses
+    E) late-stage infections are characterized by seizures
+
+22. [mcq, 2 pt] Which characteristic should not be considered part of a “person” when investigating the person-place-time triad?
+    A) date of birth
+    B) diet
+    C) sex
+    D) time of onset of illness
+    E) occupation
+
+23. [mcq, 2 pt] Natality is defined as:
+    A) the portion of infants who die shortly after birth
+    B) the portion of live births that occur outside of hospitals and develop complications
+    C) the total live births of a population during a specific period
+    D) the mortality of a population during a specific period
+    E) primigravida of a population during a specific period
+
+
+=== The following questions are worth 3 points each. ===
+
+24. [frq, 3 pt] Define risk ratio. What does it mean if risk ratio = 2?
+
+25. [frq, 3 pt] List 3 factors that may increase the risk of contracting listeriosis.
+
+26. [frq, 3 pt] Compare relative risk to attributable risk.
+
+27. [frq, 3 pt] The test results and pathology of a certain test are given below. Calculate the false positive rate for this test.
+    
+    | | Test is positive | Test is negative |
+    |---|---|---|
+    | Patient is infected | 30 | 1 |
+    | Patient is not infected | 5 | 95 |
+
+28. [frq, 3 pt] Define the difference between morbidity and mortality. Explain how to calculate each.
+
+[STIMULUS] The following fictional case study refers to the information given below.
+
+In February of 2005, several individuals in Houghton, Michigan reported to the hospital with abdominal cramping and flu-like symptoms. The number of patients is reported below.
+
+Several laboratory tests concluded that the patients were infected with norovirus. Interviews with the patients and their families reveal the following information:
+
+Out of 21 patients, 8 had eaten at Restaurant A in the past week. Of the 40 uninfected family members of the 21 patients, 10 people had eaten at Restaurant A and 30 people had not eaten at Restaurant A.
+
+Out of 21 patients, 17 had eaten at Restaurant B in the past week. Of the 40 uninfected family members, 3 had eaten at Restaurant B, and 37 had not.
+    [IMAGE: ../images/yale_invitational__p11_va349f2-acdaa55f.webp]
+
+30. [frq, 3 pt] List 3 methods of preventing the transmission of norovirus.
+
+31. [frq, 6 pt] Calculate the odds ratios for contracting norovirus from Restaurant A and Restaurant B. Based on odds ratios, determine which establishment is likely responsible for the outbreak.
+
+32. [frq, 6 pt] Give two case definitions to differentiate how the ill patients were exposed.
+
+[STIMULUS] The following fictional case study refers to the information given below.
+
+The following graph represents the trend of patient admissions reporting with nonspecific gastroenteritis to a hospital in northern Florida.
+    [IMAGE: ../images/yale_invitational__p14_v7d6758-6afd35d4.webp]
+
+33. [frq, 6 pt] Define “artificial increase,” and give 3 reasons why artificial increase could occur.
+
+34. [frq, 6 pt] Classify the shape of this epidemic curve, and give a plausible explanation for its occurrence.
+
+35. [frq, 6 pt] Laboratory analysis reveals that their illness was caused by E. coli. Your investigative team decides to conduct interviews with every known patient. Define "stratified analysis." Describe an investigative procedure that uses this analysis.
+
+36. [frq, 6 pt] Identify up to 3 foods that can become contaminated with E. coli.
+
+37. [frq, 3 pt] Name 3 other bacterial pathogens that could cause gastroenteritis.
+
+
+=== The following questions are worth 1 point each. Match each word with its associated phrase. ===
+
+[STIMULUS] A. due to a lack of subjects responding to “follow-up” question
+B. refers to fungal infections
+C. occurs when patients are systematically segregated from the study
+D. “4-inch law” implemented against
+E. involves reliance on subjects to collect data
+F. causes bacillary dysentery
+G. responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+38. [mcq, 1 pt] Match the word with its associated phrase: Salmonella
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+39. [mcq, 1 pt] Match the word with its associated phrase: Shigella flexneri
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+40. [mcq, 1 pt] Match the word with its associated phrase: E. coli
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+41. [mcq, 1 pt] Match the word with its associated phrase: mycosis
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+42. [mcq, 1 pt] Match the word with its associated phrase: response bias
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+43. [mcq, 1 pt] Match the word with its associated phrase: attrition bias
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak
+
+44. [mcq, 1 pt] Match the word with its associated phrase: exclusion bias
+    A) due to a lack of subjects responding to “follow-up” question
+    B) refers to fungal infections
+    C) occurs when patients are systematically segregated from the study
+    D) “4-inch law” implemented against
+    E) involves reliance on subjects to collect data
+    F) causes bacillary dysentery
+    G) responsible for nationwide 1993 Jack-in-the-Box outbreak

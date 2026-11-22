@@ -1,0 +1,723 @@
+Sylvania-Northview — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  97 questions, 97.0 pts
+Source: scio.ly test archive id fed8618a-e24c-451a-bcfb-27582f300c0a  |  original files: https://drive.google.com/drive/folders/1DqoNG-xaSL_OhwoGEHSja64GNUrzgXLf
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== SECTION 1 ===
+
+[STIMULUS] **Directions:** The following lists several definitions of basic epidemiology terms. Match the definition with the terms at the bottom of the page.
+
+a. outbreak
+b. epidemic
+c. cluster
+d. cohort
+e. pandemic
+f. risk
+g. vector
+h. fomite
+i. zoonosis
+j. surveillance
+
+1. [mcq, 1 pt] A physical object that serves to transmit an infectious agent from person to person, such as a comb, door handle, or dust particles.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+2. [mcq, 1 pt] An aggregation of cases (especially cancers or birth defects) over a particular period that is closely grouped in time and space.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+3. [mcq, 1 pt] The systematic, ongoing collection, analysis, interpretation, and dissemination of health data.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+4. [mcq, 1 pt] The probability that an individual will be affected by, or die from, an illness or injury within a stated time or age span.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+5. [mcq, 1 pt] A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+6. [mcq, 1 pt] Also known as a localized epidemic. Name for a situation in which there are more cases of a particular disease than expected in a given area or among a specialized group of people over particular period of time.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+7. [mcq, 1 pt] An epidemic occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+8. [mcq, 1 pt] An animate intermediary in the indirected transmission of an agent that carries the agent from a reservoir to a susceptible host.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+9. [mcq, 1 pt] Name for a situation in which there are large numbers of people over a wide geographic area affected by a particular disease.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+10. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) outbreak
+    B) epidemic
+    C) cluster
+    D) cohort
+    E) pandemic
+    F) risk
+    G) vector
+    H) fomite
+    I) zoonosis
+    J) surveillance
+
+
+=== SECTION 2 ===
+
+[STIMULUS] **Directions:** Read the section below and answer the questions on this page.
+
+The Epidemiological Triangle/Triad is a model that scientists have developed for studying health problems and diseases. The triangle has three corners, representing the interaction and interdependence of three factors.
+
+11. [frq, 1 pt] What do the three corners of the Epidemiological Triangle represent?
+
+12. [frq, 1 pt] In addition to the three factors of the Epidemiological Triangle, what is another factor that is important in studying disease?
+
+
+=== SECTION 3 ===
+
+[STIMULUS] Directions: Match the foodborne disease to its most likely cause (listed at the bottom of the page). Each choice is used once. (Tie Breaker Question #3)
+
+a. eating raw or undercooked poultry
+b. eating food contaminated with the urine of infected animals
+c. eating raw or undercooked eggs
+d. eating raw or undercooked pork
+e. eating food or drinking water contaminated with feces
+f. eating raw or undercooked seafood
+g. eating soft cheeses, hot dogs or deli meats
+h. improper canning methods
+i. eating undercooked hamburger
+
+13. [mcq, 1 pt] botulism
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+14. [mcq, 1 pt] campylobacteriosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+15. [mcq, 1 pt] vibriosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+16. [mcq, 1 pt] cyclosporiasis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+17. [mcq, 1 pt] E. coli 0157
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+18. [mcq, 1 pt] listeriosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+19. [mcq, 1 pt] salmonelosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+20. [mcq, 1 pt] trichinellosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+21. [mcq, 1 pt] leptospirosis
+    A) eating raw or undercooked poultry
+    B) eating food contaminated with the urine of infected animals
+    C) eating raw or undercooked eggs
+    D) eating raw or undercooked pork
+    E) eating food or drinking water contaminated with feces
+    F) eating raw or undercooked seafood
+    G) eating soft cheeses, hot dogs or deli meats
+    H) improper canning methods
+    I) eating undercooked hamburger
+
+
+=== SECTION 4 ===
+
+[STIMULUS] **Directions:** Match each type of agent (listed on the left) with its type of classification (listed to the right). Classification types may be used more than once.
+
+a. biological
+b. chemical
+c. physical
+
+22. [mcq, 1 pt] bacteria
+    A) biological
+    B) chemical
+    C) physical
+
+23. [mcq, 1 pt] noise
+    A) biological
+    B) chemical
+    C) physical
+
+24. [mcq, 1 pt] car fumes
+    A) biological
+    B) chemical
+    C) physical
+
+25. [mcq, 1 pt] drugs
+    A) biological
+    B) chemical
+    C) physical
+
+26. [mcq, 1 pt] light
+    A) biological
+    B) chemical
+    C) physical
+
+27. [mcq, 1 pt] hazardous waste
+    A) biological
+    B) chemical
+    C) physical
+
+28. [mcq, 1 pt] radiation
+    A) biological
+    B) chemical
+    C) physical
+
+29. [mcq, 1 pt] fungus
+    A) biological
+    B) chemical
+    C) physical
+
+30. [mcq, 1 pt] vibration
+    A) biological
+    B) chemical
+    C) physical
+
+31. [mcq, 1 pt] food additives
+    A) biological
+    B) chemical
+    C) physical
+
+32. [mcq, 1 pt] parasites
+    A) biological
+    B) chemical
+    C) physical
+
+33. [mcq, 1 pt] viruses
+    A) biological
+    B) chemical
+    C) physical
+
+34. [frq, 1 pt] List three individual characteristics that may modify the effects of environmental exposures (biological, chemical, and physical) that disease detectives need to think of in planning investigations.
+
+
+=== SECTION 5 ===
+
+[STIMULUS] **Directions:** Read the paragraph and then answer the following questions.
+
+Environmental epidemiology studies often deal with different types of pollution which can be measured quantitatively as either an exposure or a dose. The response to different levels of pollution can be graphed as shown in the below diagram.
+    [IMAGE: ../images/2017_sylvania_northview_c__p6_67be24-10f8ca39.webp]
+
+35. [frq, 1 pt] What is the name of this relationship?
+
+36. [frq, 1 pt] What is located on the x-axis?
+
+37. [frq, 1 pt] What is located on the y-axis?
+
+
+=== SECTION 6 ===
+
+[STIMULUS] **Directions:** Examine the graph below and answer the questions.
+
+Figure 1. Hepatitis A from Sub Shop — Massachusetts, 2001
+    [IMAGE: ../images/2017_sylvania_northview_c__p7_a1f290-c10d5a43.webp]
+
+38. [mcq, 1 pt] What type of epidemic curve is shown above?
+    A) common persistent source
+    B) common point-source
+    C) common intermittent source
+    D) propagated source
+
+39. [mcq, 1 pt] When is the beginning of the outbreak?
+    A) Sept. 9
+    B) Oct. 28
+    C) Nov. 4
+    D) Nov. 18
+
+40. [mcq, 1 pt] Using the minimum incubation period of 15 days for hepatitis A, when is the likely date of exposure?
+    A) week of Sept. 16
+    B) week of Sept. 30
+    C) week of Oct. 14
+    D) week of Oct. 28
+
+
+=== SECTION 7 ===
+
+[STIMULUS] **Directions:** Examine the graph below and answer the questions.
+
+People infected with the outbreak strains of Salmonella Reading or Salmonella Abony, by date of illness onset (n=36 for whom information was reported as of September 30, 2016.
+    [IMAGE: ../images/2017_sylvania_northview_c__p8_2a39af-b6f049a9.webp]
+
+41. [mcq, 1 pt] What is the typical incubation period of Salmonella bacteria?
+    A) 10 to 20 minutes
+    B) 2 to 10 hours
+    C) 12 to 72 hours
+    D) 1 week
+
+42. [mcq, 1 pt] Examine the graph above. When was the first person who became ill likely exposed to the salmonella bacteria?
+    A) May 22
+    B) May 19
+    C) May 11
+    D) May 3
+
+43. [multi, 1 pt] This outbreak of salmonella was the result of eating raw alfalfa sprouts. What are some precautions that should be taken to prevent this? List all that apply.
+    A) thoroughly cook sprouts
+    B) wash sprouts with soapy water
+    C) people with weakened immune systems should not eat sprouts
+    D) let the sprouts sit in the freezer for 10 minutes
+    E) pregnant women should not eat sprouts
+
+
+=== SECTION 8 ===
+
+[STIMULUS] **Directions:** Read the below paragraph
+
+The table below shows the results of a study that examined people with lung cancer and two possible risk factors. Examine the table below and answer the questions.
+    [IMAGE: ../images/2017_sylvania_northview_c__p9_47e30b-2c50aa5c.webp]
+
+44. [frq, 1 pt] What type of study is shown in the table?
+
+45. [frq, 1 pt] What two risk factors are examined in this study?
+
+46. [frq, 1 pt] How many times more likely are people who smoked 41-60 pack-years and had a relative who had any cancer to develop lung cancer compared with a non-smoker with no relative with lung cancer?
+
+47. [frq, 1 pt] In the “21-40 pack-years” group, was having a relative with any cancer a risk factor for lung cancer?
+
+48. [frq, 1 pt] Which smoking category showed the largest increase in cancer when there was a relative with any cancer?
+
+
+=== SECTION 9 ===
+
+[STIMULUS] **Directions:** Read the paragraphs below and then answer the questions on the following page.
+
+On November 20, 2002, cruise ship X recorded an elevated number of persons with acute gastroenteritis symptoms reporting to the ship’s infirmary (84 [4%] of 2,318 passengers) during a 7-day vacation cruise from Florida to the Caribbean. The outbreak continued on the subsequent cruise (cruise 2), after which the vessel was removed from service for 1 week of aggressive sanitization. Despite cleaning, gastroenteritis also developed in 192 (8%) of 2,456 passengers and 23 (2.3%) of 999 crew on the following cruise (cruise 3). Stool samples confirmed that the outbreak was due to several norovirus strains.
+
+49. [mcq, 1 pt] What is the average incubation period for norovirus infection?
+    A) 3 - 6 hours
+    B) 12 to 48 hours
+    C) 72 hours to 5 days
+    D) 1 to 3 weeks
+
+50. [mcq, 1 pt] What is the mostly likely cause of the outbreak?
+    A) contaminated bag of salad
+    B) ill food preparer
+    C) passengers not washing their hands after using the toilet
+    D) contaminated air
+    E) sick captain
+
+51. [mcq, 1 pt] Which of the following is TRUE about norovirus?
+    A) you are most contagious before you develop symptoms
+    B) norovirus can lead to a condition called hemolytic uremic syndrome
+    C) norovirus illness usually lasts from 5 to 10 days
+    D) norovirus can stay in your stool for 2 weeks after you feel better
+
+52. [frq, 1 pt] List one preventive measure people on a cruise ship can take to reduce their exposure to norovirus.
+
+53. [frq, 1 pt] To establish the link between norovirus infection and the possible source, the Centers for Disease Control and Prevention (CDC) first had to establish a case definition. One component of a case definition includes the characteristics of the person, such as sex, ages, and race. What are the three other components or pieces of information needed for a good case definition?
+
+54. [mcq, 1 pt] To find out where the norovirus infection came from, the CDC conducted study with all passengers in whom illness developed early in the cruise. Controls were systematically selected among passengers who reported no symptoms of gastroenteritis throughout the entire cruise. What type of study is this?
+    A) cohort study
+    B) case-control study
+    C) prospective study
+    D) cross-sectional study
+
+
+=== SECTION 10 ===
+
+[STIMULUS] **Directions:** Read the below paragraph.
+
+The increase in the human population over the years has in many ways increased our exposure to chemical, biological, and physical agents that can cause diseases or health problems. At the bottom of this page are several conditions that are attributed to an increase in population growth. Match each disease or health problem with one of the conditions at the bottom of the page that most likely is the reason for its increase. (Tie Breaker Question #2)
+
+55. [frq, 1 pt] Amoebiasis
+
+56. [frq, 1 pt] Dengue fever
+
+57. [frq, 1 pt] MERS (Middle East Respiratory Syndrome)
+
+58. [frq, 1 pt] Lung cancer
+
+59. [frq, 1 pt] Cholera
+
+60. [frq, 1 pt] Asthma
+
+61. [frq, 1 pt] Ebola
+
+62. [frq, 1 pt] Type 2 Diabetes
+
+63. [frq, 1 pt] SARS (sever acute respiratory syndrome)
+
+64. [frq, 1 pt] Childhood Obesity
+
+65. [frq, 1 pt] Lyme Disease
+
+66. [frq, 1 pt] Emphysema
+
+67. [frq, 1 pt] Typhoid Fever
+
+68. [mcq, 1 pt] Rocky Mounty Spotted Fever
+    A) Increased in Contaminated Water Conditions
+    B) People Moving into Uninhabited Places
+    C) Increase in Air Pollution
+    D) Availability to Public Transportation/Air Travel
+    E) Unhealthy Fast Food
+
+
+=== SECTION 11 ===
+
+[STIMULUS] **Directions:** Read the paragraph below and then answer the questions.
+
+A company had a holiday party with a total of 45 people. Over the course of the next few days, 32 people became sick with vomiting and diarrhea. The items eaten at the party are listed in table 2.
+
+Table 1
+
+| **Number Sick** | **Number Well** | **Total People** |
+|---|---|---|
+| 32 | 13 | 45 |
+
+Table 2
+
+| **Food** | **Number Sick** | **Number Well** | **Total People** | **Attack Rate** |
+|---|---|---|---|---|
+| Meatloaf | 27 | 8 | 35 |  |
+| Macaroni | 11 | 9 | 20 |  |
+| Egg Salad | 31 | 3 | 34 |  |
+| Coleslaw | 16 | 12 | 28 |  |
+| Ice Cream | 18 | 13 | 31 |  |
+
+69. [numeric, 1 pt] Using the information above, what percentage of people who attended the event got sick?
+
+70. [frq, 1 pt] Calculate the attack rates for each food item in table 2.
+
+72. [frq, 1 pt] Some of the people who said they ate the food with the highest attack rate did not get sick. What is one possible explanation for this?
+
+
+=== SECTION 12 ===
+
+[STIMULUS] **Directions:** The following statements represent the 10 steps of an outbreak investigation. Place these steps in sequential order from the first step (1) to the last step (10).
+
+73. [numeric, 1 pt] ____Construct a Case Definition
+
+74. [numeric, 1 pt] ____Perform Descriptive Epidemiology and Develop Hypotheses
+
+75. [numeric, 1 pt] ____Communicate Findings of Your Investigation
+
+76. [numeric, 1 pt] ____Establish the Existence of an Outbreak
+
+77. [numeric, 1 pt] ____Evaluate Hypotheses & Perform Additional Studies as needed
+
+78. [numeric, 1 pt] ____Find cases and develop a line listing
+
+79. [numeric, 1 pt] ____Preparation for Field Work (identify investigation team & resources)
+
+80. [numeric, 1 pt] ____Continue/Maintain Surveillance
+
+81. [numeric, 1 pt] ____Verify the Diagnosis
+
+82. [numeric, 1 pt] ____Implement Control and Preventive Measures
+
+
+=== Section 13 ===
+
+[STIMULUS] **Directions:** Listed below is a table showing the results of an epidemiological study that examined salsa as possible source of hepatitis A infection.
+
+|  | Hepatitis A | No Hepatitis A | Total |
+|---|---|---|---|
+| Ate Salsa | 218 | 45 | 263 |
+| Did Not Eat Salsa | 21 | 85 | 106 |
+| Total | 239 | 130 | 369 |
+
+83. [numeric, 1 pt] Calculate the odds ratio for the data in the above table.
+
+84. [numeric, 1 pt] Calculate the risk ratio (relative risk) for the data in the above table.
+
+85. [mcq, 1 pt] If the risk ratio is greater than 1, then
+    A) there is no difference or little difference in risk
+    B) there is an increased risk of the outcome in the exposed group
+    C) there is a reduced risk of the outcome in the exposed group
+
+86. [mcq, 1 pt] Exposure to which of the following from an infected person can spread hepatitis A?
+    A) blood
+    B) urine
+    C) respiratory secretions
+    D) feces
+
+
+=== SECTION 14 ===
+
+[STIMULUS] **Directions:** Match the disease to its major control measure (listed at the bottom of the page). A control measure may be used more than once. (Tie Breaker Question #1)
+
+a. Filter Water
+b. Isolation & Quarantine
+c. Prevent Cross-Contamination of Food with Raw Chicken
+d. Immunization
+e. Cook Ground Beef Thoroughly
+f. Use Mosquito Netting When Sleeping
+g. Proper & Careful Canning Techniques
+h. Boil Water Advisory
+i. Ban on Feeding Cattle Meat to Other Cattle
+
+87. [mcq, 1 pt] Campylobacteriosis
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+88. [mcq, 1 pt] Bovine Spongiform Encephalopathy
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+89. [mcq, 1 pt] SARS
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+90. [mcq, 1 pt] Botulism
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+91. [mcq, 1 pt] Ebola
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+92. [mcq, 1 pt] Dengue Fever
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+93. [mcq, 1 pt] Dracunculiasis
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+94. [mcq, 1 pt] Poliomyelitis
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+95. [mcq, 1 pt] Cryptosporidiosis
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+96. [mcq, 1 pt] E. Coli 0157
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+97. [mcq, 1 pt] Malaria
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle
+
+98. [mcq, 1 pt] Measles (Rubeola)
+    A) Filter Water
+    B) Isolation & Quarantine
+    C) Prevent Cross-Contamination of Food with Raw Chicken
+    D) Immunization
+    E) Cook Ground Beef Thoroughly
+    F) Use Mosquito Netting When Sleeping
+    G) Proper & Careful Canning Techniques
+    H) Boil Water Advisory
+    I) Ban on Feeding Cattle Meat to Other Cattle

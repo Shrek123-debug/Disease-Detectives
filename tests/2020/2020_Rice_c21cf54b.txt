@@ -1,0 +1,455 @@
+Rice — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  51 questions, 51.0 pts
+Source: scio.ly test archive id c21cf54b-d5c6-496d-af27-0ac856bd5017  |  original files: https://drive.google.com/drive/folders/1FnoP0QQLMOYCgvjGimiWgpNReaLi5vJL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Match each term with its correct definition. ===
+
+[STIMULUS] a. a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+b. Detailed report of a single subject from one or more sources
+c. A person or other living organism that can be infected by an infectious agent under natural conditions.
+d. A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+e. The first instance of disease in an outbreak.
+f. A selected subset of a population.
+g. The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+h. Systematic deviation of results or inferences from the truth
+i. A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+j. A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+k. A bell-shaped curve that results when a normal distribution is graphed
+l. A sample derived by selecting individuals such that each individual has the same probability of selection
+m. National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+n. A disease with constant presence within a population or geographic area.
+o. The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-1. [mcq, 1 pt] Host
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-2. [mcq, 1 pt] Pulsenet
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-3. [mcq, 1 pt] Sample
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-4. [mcq, 1 pt] Endemic Disease
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-5. [mcq, 1 pt] Bias
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-6. [mcq, 1 pt] Case
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-7. [mcq, 1 pt] Case definition
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-8. [mcq, 1 pt] Cohort
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-9. [mcq, 1 pt] Case report
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-10. [mcq, 1 pt] Random Sample
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-11. [mcq, 1 pt] Virulence
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-12. [mcq, 1 pt] Normal curve
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-13. [mcq, 1 pt] Random error
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-14. [mcq, 1 pt] Incubation period
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+P1-15. [mcq, 1 pt] Index Case
+    A) a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation
+    B) Detailed report of a single subject from one or more sources
+    C) A person or other living organism that can be infected by an infectious agent under natural conditions.
+    D) A well-defined group of people who have had a common experience or exposure, who are then followed up for the incidence of new diseases or events
+    E) The first instance of disease in an outbreak.
+    F) A selected subset of a population.
+    G) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    H) Systematic deviation of results or inferences from the truth
+    I) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    J) A set of standard criteria for deciding whether a person has a particular disease or health-related condition
+    K) A bell-shaped curve that results when a normal distribution is graphed
+    L) A sample derived by selecting individuals such that each individual has the same probability of selection
+    M) National laboratory network that connects foodborne illness cases to detect outbreaks, use pulsed-field gel electrophoresis (PFGE) & whole genome sequencing (WGS) to detect DNA fingerprints.
+    N) A disease with constant presence within a population or geographic area.
+    O) The divergence due to chance alone, of an observation or sample from the true population value, leading to lack of precision in measurement of association
+
+
+=== Scenario #1 ===
+
+[STIMULUS] In September, an outbreak of Ebola occurred in North Kivu, DRC. Out of a population of 5,000 otherwise healthy individuals, 156 got sick. Later, it was revealed that 127 of those who had gotten sick had recently consumed bush meat. Epidemiologists then randomly chose 50 people from the population who had not gotten sick. They found that 18% of these had consumed bush meat.
+
+P2-1. [frq, 1 pt] Which type of study is being conducted? List 2 pros and 2 cons for this type of study.
+
+P2-3. [frq, 1 pt] What quantity should be used to determine the relationship between having eating bush meat and actually getting infected? Calculate and interpret this quantity.
+
+P2-4. [frq, 1 pt] What are three ways to prevent further ebola cases?
+
+
+=== Scenario #2 ===
+
+[STIMULUS] Dr. Schwarz Eigenwitz is testing a new method for HIV testing which is significantly cheaper and easier to produce than standard diagnostic tools. He decides to test his product in the population of Town, USA. He collects the following data:
+
+Town population: 10,000 people
+True positives: 110 people
+True negatives: 9000
+False positives: 870
+False negatives: 20
+
+P3-1a. [frq, 1 pt] Calculate Sensitivity
+
+P3-1b. [frq, 1 pt] Calculate Specificity
+
+P3-1c. [frq, 1 pt] Calculate Predictive Value Positive
+
+P3-1d. [frq, 1 pt] Calculate Predictive Value Negative
+
+P3-2. [frq, 1 pt] If Dr. Eigenwitz were to take his test to Sub Saharan Africa, with a much greater prevalence of HIV, which of the above calculated quantity/quantities could be expected to increase? Explain briefly why this is true.
+
+P3-3. [frq, 1 pt] In Sub Saharan Africa, which quantity/quantities would remain the same? Explain briefly why this is true.
+
+P3-4. [frq, 1 pt] Dr. Eigenwitz decides that anyone who tests positive for HIV should go through another round of testing. The results of this second round will then be accepted. Would overall specificity decrease or increase or remain the same? Explain briefly why this is true.
+
+
+=== Scenario #3 ===
+
+[STIMULUS] Measles Cases by Date of Onset in Aberdeen, South Dakota, October 15, 1970 – January 16, 1971
+
+(Graphic taken from https://www.cdc.gov/training/QuickLearns/epimode/)
+    [IMAGE: ../images/2020_rice_c__d_203379-259b1ae4.webp]
+
+P4-1. [frq, 1 pt] Construct a case definition for the cases in the outbreak.
+
+P4-2. [frq, 1 pt] What type of epicurve is this? Give 2 reasons for choosing your answer.
+
+P4-3. [frq, 1 pt] When was the index case for this outbreak?
+
+P4-4. [frq, 1 pt] Estimate the incubation period of measles by using the epicurve above. Explain your answer.
+
+P4-5. [frq, 1 pt] What organism causes measles? How is measles spread?
+
+P4-6. [frq, 1 pt] Measles was declared eliminated in the United States in 2000; however, there have still been outbreaks since then. Why is this?
+
+
+=== Multiple Choice ===
+
+P5-1. [mcq, 1 pt] Which of the following is not one of the CDC's 13 steps to investigating an outbreak?
+    A) Constrict a Working Case Definition
+    B) Perform Descriptive Epidemiology
+    C) Quarantine Suspected Diseased Individuals Until Diagnosis
+    D) Communicate Findings
+
+P5-2. [mcq, 1 pt] Which of the following reasons is justification for your answer in Question 1?
+    A) A; A case definition is not needed in cases where the symptoms might be obvious
+    B) B; This step is not important to the diagnosis or treatment of individuals
+    C) C; Not every disease necessitates use of quarantine before diagnosis
+    D) D; It is not the role of the CDC to communicate findings to the public
+
+P5-3. [mcq, 1 pt] Infectious diseases are more likely to be distributed to others in a denser population.
+    A) True
+    B) False
+
+P5-4. [mcq, 1 pt] Who discovered the existence of prions was awarded the 1997 Nobel Prize in Medicine?
+    A) Richard Koch
+    B) Stanley Pruisner
+    C) John Snow
+    D) Jonas Salk
+
+P5-5. [mcq, 1 pt] Ecological fallacy refers to:
+    A) Assessing exposure in large groups rather than in many groups
+    B) Assessing outcome in large groups rather than in small groups
+    C) Ascribing the characteristics of a group to every individual in that group
+    D) Examining correlations of exposure and outcomes rather than time periods
+
+P5-6. [mcq, 1 pt] In which of the following types of study designs does a subject serve as their own control
+    A) Prospective cohort study
+    B) Retrospective cohort study
+    C) Case-control study
+    D) Case-crossover study
+
+P5-7. [mcq, 1 pt] What is the leading risk factor in the onset of neurodegenerative diseases?
+    A) Aging
+    B) Genetic Predispositions or Polymorphisms
+    C) Endocrine Conditions
+    D) Oxidative Stress
+
+P5-8. [mcq, 1 pt] This is an extremely contagious virus that can cause gastroenteritis (inflammation of the stomach and intestines). Infants and young children are most likely to contract it and nearly every child in the world is infected with it at least once by the age of five. A vaccine for it was released in 2006 and a photo of it is shown on the left. What is it?
+    [IMAGE: ../images/2020_rice_c__d_0c5262-72057c9f.webp]
+    A) E.coli
+    B) Ciguatoxin
+    C) Salmonella
+    D) Rotavirus
+
+P5-9. [mcq, 1 pt] How is the Age-Specific Mortality rate calculated?
+    A) Total number of deaths from all cases in a year divided by the number of people in a population at midyear
+    B) Number of deaths among an age group divided by the number of people in that age group in the population, at midyear
+    C) Number of deaths due to a specific cause divided by the number of people in a population at midyear
+    D) Number of deaths from disease X in community Y in year Z divided by the total number of deaths in community Y in year Z
+
+P5-10. [mcq, 1 pt] Which of the following food items is not likely to carry a food borne illness?
+    A) Raw Eggs
+    B) Unpasteurized Fruit Juice
+    C) Raw Flour
+    D) All items above may carry food borne illnesses.
+
+P5-11. [mcq, 1 pt] In the herd immunity threshold equation (H=1-1/R0), what does R0 indicate?
+    A) number of cases one case produces, on average, in the population of interest
+    B) number of cases one case produces, ideally, in a completely susceptible population
+    C) number of immune individuals in the population, at outset of outbreak
+    D) proportion of population susceptible, at outset of outbreak, to infection
+
+P5-12. [mcq, 1 pt] Which of the following constitutes syndromic surveillance?
+    A) A public health system tracks seasonal influenza severity by asking doctors for case counts
+    B) A hospital regularly monitors its facilities for MRSA by sampling surgical equipment, scrubs, and surfaces.
+    C) Following the Amerithrax attacks, authorities looked for unexplained cases of high fever, pleural effusion, altered mental status, and other troubling symptoms
+    D) After an outbreak of foodborne illness, sick people were asked what they ate at a local picnic just prior to the outbreak.
+
+P5-13. [mcq, 1 pt] In a standard case control study with 2 health outcomes and 2 exposure states, what is the degrees of freedom for calculation of a chi-square value?
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+P5-14. [mcq, 1 pt] Which of these groups is known as the epidemiological triad?
+    A) Mode of transmission, portal of entry, and portal of exit
+    B) Person, place, and time
+    C) Agent, host, and environment
+    D) Propagated, common source, and point source
+
+P5-15. [mcq, 1 pt] Which of these is not one of the 9 Bradford-Hill criteria?
+    A) Biological gradient
+    B) Temporal
+    C) Symptomatic
+    D) Experiment
+
+P5-16. [mcq, 1 pt] Which stage of the natural history of disease do pathologic changes first occur in?
+    A) Stage of susceptibility
+    B) Stage of subclinical disease
+    C) Stage of clinical disease
+    D) Stage of recovery, disability, or death
+
+P5-17. [mcq, 1 pt] What level of prevention are mammograms?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+P5-18. [mcq, 1 pt] What type of study is known as a "snapshot in time?"
+    A) Case report
+    B) Longitudinal
+    C) Ecological
+    D) Cross-sectional
+
+P5-19. [mcq, 1 pt] What is it called when a large proportion of individuals within a given population is consistently infected with a disease?
+    A) Macroendemic
+    B) Holoendemic
+    C) Panendemic
+    D) Omniendemic
+
+P5-20. [mcq, 1 pt] What is an inanimate mode of transmission known as?
+    A) Fomite
+    B) Vector
+    C) Agent
+    D) Stationite

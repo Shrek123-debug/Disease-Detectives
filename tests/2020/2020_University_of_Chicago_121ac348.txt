@@ -1,0 +1,118 @@
+University of Chicago — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  33 questions, 33.0 pts
+Source: scio.ly test archive id 121ac348-088e-4e76-95b5-a0b3fb23cd82  |  original files: https://drive.google.com/drive/folders/1OwPerJAXC1KBS969QppIBeviRAloS2OC
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+
+=== Part 1 ===
+
+1. [frq, 1 pt] Who is considered the “father of Epidemiology” and what outbreak did he work to stop?
+
+2. [frq, 1 pt] What are 4 types of biological agents that can cause infectious disease?
+
+3. [frq, 1 pt] What are the 8 criteria of the Bradford hill criteria for verifying a cause of a health problem?
+
+5. [frq, 1 pt] What are the 3 parts of the epidemiological triad?
+
+[STIMULUS] Fill in the pattern of disease, as sporadic, endemic, epidemic, pandemic and outbreak.
+    | Pattern of disease |  |
+    | [[q:6-1]] | In Chicago there has been 10-20 cases of Measles per year. In 2019 there were 50 cases. |
+    | [[q:6-2]] | In Chicago over the past 20 years there have been 15 cases of bubonic plague. In 2019 there was a single case reported |
+    | [[q:6-3]] | Chicago area hospitals have reported 20-30 cases of antibiotic resistant Enterococcus a month. Last month Chicago and hospitals across the state reported an increase in the number of cases. |
+    | [[q:6-4]] | Each year a hospital in Chicago reports 400-600 cases of influenza infections. In 2019, 460 cases were reported |
+    | [[q:6-5]] | There have been 50-75 cases of mumps reported in the US over the last 10 years. In 2019 there have been 120 cases. This increase in number of cases has been seen in other countries as well |
+
+6-1. [frq, 1 pt] Row: In Chicago there has been 10-20 cases of Measles per year. In 2019 there were 50 cases. - Pattern of disease
+
+6-2. [frq, 1 pt] Row: In Chicago over the past 20 years there have been 15 cases of bubonic plague. In 2019 there was a single case reported - Pattern of disease
+
+6-3. [frq, 1 pt] Row: Chicago area hospitals have reported 20-30 cases of antibiotic resistant Enterococcus a month. Last month Chicago and hospitals across the state reported an increase in the number of cases. - Pattern of disease
+
+6-4. [frq, 1 pt] Row: Each year a hospital in Chicago reports 400-600 cases of influenza infections. In 2019, 460 cases were reported - Pattern of disease
+
+6-5. [frq, 1 pt] Row: There have been 50-75 cases of mumps reported in the US over the last 10 years. In 2019 there have been 120 cases. This increase in number of cases has been seen in other countries as well - Pattern of disease
+
+
+=== Part 2 ===
+
+7. [frq, 1 pt] What is the main difference between a cohort study and a case control study?
+
+[STIMULUS] Influenza is a virus that infects the respiratory system. It is easily spread from person to person through close contact. When a person with an active influenza infection coughs, viral particles are then released into the air in droplets. These droplets can then infect others close by. Influenza virus can survive short periods of time on hard surfaces but is less likely to spread this way. Symptoms begin 1-4 days after infection with the virus.
+
+Emily is a student at the University of Chicago. One day she wakes up feeling kind of achy and coughing but decides to attend class anyway. She attends her chemistry lab and begins an experiment with her lab partner. Throughout the class, she coughs, covering her mouth with varying efficiency. At the beginning of class, she realizes she does not have a pencil and borrows one from George, a classmate. At the end of class, she goes to his lab bench, cross the room, to return the pencil. Throughout the class she works closely with her lab partner and the TA frequently comes over to assist. One Tuesday she is feeling worse and goes to the health center and is diagnosed with influenza.
+
+8. [frq, 1 pt] If the pencil were to cause an infection, this would be an example of a:
+
+9. [frq, 1 pt] George begins showing symptoms 3 days after class. How was he most likely infected?
+
+10. [frq, 1 pt] Based only on the information above, rank the people in order of who is most likely to be infected:
+
+[STIMULUS] Attendance in class for the week:
+    |  | Monday | Wednesday | Friday | Monday (next week) |
+    | TA | yes | yes | No | no |
+    | Sarah | yes | no | No |  |
+    | George | yes | yes | yes | no |
+    | Lab partner | yes | yes | no | yes |
+    | George’s partner | yes | yes | yes | no |
+
+11. [frq, 1 pt] George’s partner starts feeling sick on Sunday and does not attend class on Monday. What is the most likely way he became sick.
+
+12. [frq, 1 pt] Describe the chain of infection for Influenza virus:
+
+13. [frq, 1 pt] A retrospective cohort study is an example of what type of epidemiological study?
+
+14. [frq, 1 pt] A cross-sectional study is an example of what type of epidemiological study?
+
+15. [frq, 1 pt] Define an ecological study, ie how does it differ from other study types?
+
+16. [frq, 1 pt] What are the 4 components for making a case definition?
+
+18. [frq, 1 pt] The case in March is the?
+
+19. [frq, 1 pt] When was the peak of the epidemic?
+
+20. [frq, 1 pt] Do epidemiolocal curves show incidence or prevalence of a disease during a given time frame and location?
+
+21. [frq, 1 pt] The chart below is an example of a ____?
+    [IMAGE: ../images/2020_university_of_chicago_c__d_80e9c1-a44a4696.webp]
+
+
+=== Part 3 ===
+
+22. [tf, 1 pt] True or False: Eradication means the disease incidence has reached zero in a defined geographical area.
+    A) True
+    B) False
+
+[STIMULUS] A group of epidemiologists are doing a study to determine the effect of using a certain preventative medicine and cancer risks. They compare a group that takes a medication and another that does not over 5 years. Each group contains 600 people. Make a 2x2 chart with the information that 450 got sick who took the medicine and 200 people who did not take the drug got sick.
+    |  | Developed cancer | healthy |
+    | Took medicine | 450 | 150 |
+    | No medicine | 200 | 400 |
+
+23. [frq, 1 pt] This is an example of what type of study?
+
+24. [frq, 1 pt] What is the attack rate of cancer in each group?
+
+25. [frq, 1 pt] What is the relative risk of getting cancer in this study?
+
+26. [frq, 1 pt] List 9 types of epidemiological measures, listing three of each type, rate ratio and proportion.
+
+[STIMULUS] Rates are per 100,00
+    | Cause of Death | Total | Male | Female |
+    | Heart disease | 540 | 340 | 200 |
+    | cancer | 528 | 250 | 278 |
+    | stroke | 370 | 210 | 160 |
+    | Accidents | 350 | 230 | 120 |
+    | Respiratory disease | 300 | 140 | 160 |
+    | Diabetes | 230 | 100 | 130 |
+    | Kidney disease | 180 | 80 | 100 |
+    | Septicemia | 155 | 75 | 80 |
+    | total | 2653 | 1425 | 1228 |
+
+27. [frq, 1 pt] What was the third leading cause of death?
+
+28. [frq, 1 pt] What percent of the deaths were from a Kidney disease?
+
+29. [frq, 1 pt] What percent of the male deaths in 2001 were due to heart disease?
+
+30. [frq, 1 pt] What percent of total deaths were female accidents?
+
+31. [frq, 1 pt] Give an example of each level of prevention of a foodborne illness.

@@ -1,0 +1,655 @@
+Science Olympiad at Penn State Invitational - PA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  65 questions, 100.0 pts
+Source: scio.ly test archive id 190d81b9-20bf-46d9-8060-152613c6930e  |  original files: https://drive.google.com/drive/folders/10_7pLF1JHrNqxfQJD7YVcVZTVd8gMwVt
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Section 1: History Table ===
+
+[STIMULUS] In this section, please select the scientist/historical figure corresponding to each description.
+
+Word Bank:
+Ignaz Semmelweis
+Alexander Langmuir
+D.A. Henderson
+Florence Nightingale
+John Snow
+Edward Jenner
+Austin Bradford Hill
+Janet Lane-Claypon
+Alice Hamilton
+Joseph Goldberger
+
+1-1. [mcq, 2 pt] An American epidemiologist who led the WHO's global smallpox eradication campaign, culminating in the disease's official eradication in 1980.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-2. [mcq, 2 pt] Often called the "father of modern epidemiology," he traced a London cholera outbreak to a contaminated water pump in 1854 using mapping and case investigation.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-3. [mcq, 2 pt] A physician and researcher who documented occupational diseases in workers, helping to found industrial toxicology and occupational epidemiology.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-4. [mcq, 2 pt] A public health physician who used careful field studies and diet interventions to prove that pellagra was caused by nutritional deficiency, not infection.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-5. [mcq, 2 pt] A Hungarian physician who showed that handwashing with antiseptic solution drastically reduced puerperal (childbed) fever in maternity wards.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-6. [mcq, 2 pt] An early 20th-century epidemiologist who conducted pioneering case-control and cohort studies, especially on breast cancer and maternal health.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-7. [mcq, 2 pt] The first chief epidemiologist at the U.S. CDC, he founded the Epidemic Intelligence Service and advanced modern disease surveillance systems.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-8. [mcq, 2 pt] An English physician who developed the first successful smallpox vaccine using cowpox, launching the field of vaccination.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-9. [mcq, 2 pt] A British statistician who helped establish the link between smoking and lung cancer and proposed the famous criteria for assessing causation in epidemiology.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+1-10. [mcq, 2 pt] A nurse and statistician who used meticulous data collection and visual charts to show how sanitation reforms dramatically reduced mortality in military hospitals.
+    A) Ignaz Semmelweis
+    B) Alexander Langmuir
+    C) D.A. Henderson
+    D) Florence Nightingale
+    E) John Snow
+    F) Edward Jenner
+    G) Austin Bradford Hill
+    H) Janet Lane-Claypon
+    I) Alice Hamilton
+    J) Joseph Goldberger
+
+
+=== Section 2: Study Identification ===
+
+[STIMULUS] In this section, please identify the study design corresponding to each scenario.
+
+2-1. [frq, 2 pt] Researchers randomly assign half of 200 students to receive a new flu vaccine and the other half to receive the current vaccine, then compare flu cases over the winter.
+
+2-2. [frq, 2 pt] A team gives one neighborhood a new safe-drinking-water system while a similar neighborhood keeps the old system, then compares diarrhea rates over the next year.
+
+2-3. [frq, 2 pt] Scientists follow 5,000 nonsmoking teenagers for 20 years to see who starts smoking and who later develops lung disease.
+
+2-4. [frq, 2 pt] Investigators use old medical records from a factory to compare cancer rates in workers exposed to a specific chemical vs workers who were not exposed.
+
+2-5. [frq, 2 pt] To study a rare brain infection, researchers identify people who already have the disease and compare their past food exposures with similar people who do not have it.
+
+2-6. [frq, 2 pt] Public health workers survey a random sample of adults one time to see who currently has high blood pressure and what their salt intake is like.
+
+2-7. [frq, 2 pt] An epidemiologist compares country-level average sugar consumption with country-level obesity rates using existing national data.
+
+2-8. [frq, 2 pt] During a school norovirus outbreak, investigators interview sick and healthy students to figure out which cafeteria food item is associated with illness.
+
+2-9. [frq, 2 pt] Doctors describe all the clinical signs, lab results, and outcomes of the first 20 patients infected with a brand-new virus.
+
+2-10. [frq, 2 pt] A hospital alternates weeks in which surgical patients receive either the standard antibiotic or a new antibiotic before surgery and then compares post-surgery infection rates.
+
+
+=== Section 3: Vocab Table ===
+
+[STIMULUS] In this section, please select the word corresponding to each definition.
+
+Word Bank:
+Sensitivity
+Specificity
+Bias
+Relative Risk
+Confounding
+Effect Modification
+Selection Bias
+Information Bias
+Attributable Risk
+Population Attributable Fraction
+Standardized Mortality Ratio
+Confidence Interval
+Vaccine Effectiveness
+Herd Immunity Threshold
+Bradford Hill Criteria
+
+3-1. [mcq, 2 pt] A set of guidelines (such as strength, consistency, temporality, dose–response, plausibility, etc.) used to assess whether an observed association is likely to be causal, not just a coincidence.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-2. [mcq, 2 pt] Distortion of the exposure–disease relationship caused by a third variable that is associated with both the exposure and the outcome, but is not on the causal pathway.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-3. [mcq, 2 pt] Bias that arises when the way participants are selected or remain in a study is related to both exposure and outcome, so the study population is not representative of the target population.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-4. [mcq, 2 pt] When the effect of an exposure on an outcome changes depending on the level of another variable.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-5. [mcq, 2 pt] The ratio of the risk of disease in the exposed group to the risk in the unexposed group. It measures the strength of association between exposure and outcome.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-6. [mcq, 2 pt] Systematic error that occurs when exposure or outcome data are measured inaccurately, often differently between comparison groups (e.g., cases remember past exposures better than controls).
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-7. [mcq, 2 pt] The proportion of all cases in the population that can be attributed to a specific exposure, assuming the relationship is causal. It answers, "How much disease in this population is due to this exposure?"
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-8. [mcq, 2 pt] A range of values, calculated from study data, that likely contains the true value of a measure (like RR or OR) with a given level of confidence (often 95%).
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-9. [mcq, 2 pt] The difference in risk of disease between the exposed and unexposed groups. It estimates how much disease could be prevented in the exposed group if the exposure were removed.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-10. [mcq, 2 pt] The minimum proportion of a population that must be immune (by vaccination or infection) to prevent sustained person-to-person spread of a disease.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-11. [mcq, 2 pt] A real-world measure of how well a vaccine reduces disease in the population, usually calculated by comparing disease risk in vaccinated vs unvaccinated groups.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-12. [mcq, 2 pt] The ability of a test (or case definition) to correctly identify people who truly have the disease.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-13. [mcq, 2 pt] A systematic error in the design, conduct, or analysis of a study that leads to an incorrect estimate of the association between exposure and outcome.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-14. [mcq, 2 pt] The ratio of observed deaths in a study population to the number of deaths expected based on a standard population, often used to compare mortality risk between different groups.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+3-15. [mcq, 2 pt] The ability of a test (or case definition) to correctly identify people who truly do not have the disease.
+    A) Sensitivity
+    B) Specificity
+    C) Bias
+    D) Relative Risk
+    E) Confounding
+    F) Effect Modification
+    G) Selection Bias
+    H) Information Bias
+    I) Attributable Risk
+    J) Population Attributable Fraction
+    K) Standardized Mortality Ratio
+    L) Confidence Interval
+    M) Vaccine Effectiveness
+    N) Herd Immunity Threshold
+    O) Bradford Hill Criteria
+
+
+=== Section 4: Multiple Choice Questions ===
+
+4-1. [mcq, 1 pt] In a large cohort study, which measure would most appropriately quantify the speed at which new cases occur in a population over time?
+    A) Cumulative incidence proportion
+    B) Prevalence ratio
+    C) Incidence rate (incidence density)
+    D) Population attributable fraction
+    E) Case-fatality ratio
+
+4-2. [mcq, 1 pt] An investigation begins by enrolling individuals based on whether they already have a rare outcome, then reconstructs past exposures using interviews and records. Which design is being used?
+    A) Nested cohort study
+    B) Cross-sectional survey
+    C) Case-control study
+    D) Ecologic time-trend study
+    E) Randomized field trial
+
+4-3. [mcq, 1 pt] In a diagnostic accuracy study, which parameter would increase if a new test correctly identifies a higher proportion of people who truly have the disease, without changing the false-positive rate?
+    A) Specificity
+    B) Positive predictive value
+    C) Sensitivity
+    D) Negative predictive value
+    E) Likelihood ratio for a negative test
+
+4-4. [mcq, 1 pt] During an outbreak, investigators calculate separate attack rates for those who ate each menu item and those who did not. The food item with the highest risk ratio is most important for which step of the investigation?
+    A) Communicating findings to the media
+    B) Choosing an appropriate sampling strategy
+    C) Constructing an epi curve
+    D) Developing and refining the hypothesis about the source
+    E) Performing active surveillance in other regions
+
+4-5. [mcq, 1 pt] An epi curve from a community outbreak shows multiple progressively taller peaks, each separated by roughly one incubation period, followed by gradually declining peaks. What is the most likely pattern of spread?
+    A) Common point-source outbreak
+    B) Common continuous-source outbreak
+    C) Mixed point-source and continuous outbreak
+    D) Propagated person-to-person outbreak
+    E) Laboratory contamination cluster
+
+4-6. [mcq, 1 pt] A randomized clinical trial is halted early because interim analysis shows that the new treatment significantly reduces mortality compared with standard care. Which principle is most directly guiding this decision?
+    A) Clinical equipoise
+    B) Detection bias
+    C) Intention-to-treat analysis
+    D) Regression to the mean
+    E) Non-differential misclassification
+
+4-7. [mcq, 1 pt] An association between exposure and disease is observed only among individuals with a particular genotype, and not among those without it. What is the best term for the genotype in this context?
+    A) Confounder
+    B) Mediator
+    C) Effect modifier
+    D) Surrogate endpoint
+    E) Competing risk
+
+4-8. [mcq, 1 pt] In a case-control study on a rare cancer, controls are selected from hospitalized patients with unrelated conditions, but their likelihood of past exposure differs from that of the underlying population that produced the cases. What type of bias does this most clearly represent?
+    A) Recall bias
+    B) Information bias due to misclassification
+    C) Selection bias
+    D) Confounding by indication
+    E) Observer bias
+
+4-9. [mcq, 1 pt] A screening test has high sensitivity but only moderate specificity in a population with very low disease prevalence. Which consequence is most important from a public health standpoint?
+    A) Many false negatives and few false positives
+    B) Underestimation of true disease incidence
+    C) A narrow confidence interval around sensitivity
+    D) A large number of false positives relative to true positives
+    E) A case-fatality rate that appears artificially low
+
+4-10. [mcq, 1 pt] Which of the following best describes the basic reproductive number (R₀) of an infectious disease?
+    A) The number of secondary cases in a partially immune population
+    B) The number of infectious particles required to cause infection in 50% of exposed hosts
+    C) The average number of secondary cases generated by a typical infectious individual in a completely susceptible population
+    D) The average number of contacts per infectious person per day
+    E) The proportion of the population that must be vaccinated to interrupt transmission
+
+4-11. [mcq, 1 pt] In a cohort study, the crude relative risk for smoking and cardiovascular disease is 2.0, but after adjusting for age, the relative risk becomes 1.1. Age is most accurately described as:
+    A) An effect modifier that strengthens the association
+    B) A mediator on the causal pathway
+    C) A competing risk factor
+    D) A confounder that inflated the crude association
+    E) A source of non-differential misclassification
+
+4-12. [mcq, 1 pt] A disease is endemic in a region with a relatively stable incidence but gradually decreasing prevalence. Which explanation is the most consistent with this observation, assuming no major change in case detection?
+    A) Incidence has fallen while mortality has remained constant
+    B) Both incidence and mortality have increased
+    C) Duration of disease has decreased, for example due to improved cure rates
+    D) The population size has sharply decreased
+    E) Case-fatality has decreased without changing duration
+
+4-13. [mcq, 1 pt] A public health department implements an aggressive vaccination campaign that reduces the effective reproductive number (Rₑ) below 1.0. What is the most likely long-term outcome if conditions remain the same?
+    A) The disease becomes hyperendemic
+    B) The disease remains stable at a constant level
+    C) Transmission gradually dies out in that population
+    D) R₀ increases to match Rₑ
+    E) Prevalence rises before eventually stabilizing at a higher level
+
+4-14. [mcq, 1 pt] In an outbreak, a case definition that includes very broad clinical criteria and minimal lab confirmation will mainly have which effect on test characteristics for identifying true cases?
+    A) High specificity and low sensitivity
+    B) High positive predictive value and low sensitivity
+    C) High sensitivity and lower specificity
+    D) Low sensitivity and low negative predictive value
+    E) High specificity and high negative predictive value
+
+4-15. [mcq, 1 pt] An ecologic study finds that countries with higher per-capita sugar consumption tend to have higher obesity rates, but individual-level data show weak or no association. Which term best describes the error in interpreting the ecologic results as applying to individuals?
+    A) Information bias
+    B) Detection bias
+    C) Berkson's bias
+    D) Ecologic fallacy
+    E) Recall bias
+
+4-16. [mcq, 1 pt] After controlling for confounding in a multivariable model, researchers find that the association between an exposure and disease is significant only among females, but not males, and the interaction term is statistically significant. Which conclusion is most appropriate?
+    A) The exposure is not causally related to disease in any group
+    B) Sex is a classic confounder that must always be adjusted away
+    C) Selection bias is the most likely explanation
+    D) There is effect modification by sex
+    E) The study suffers from severe non-differential misclassification
+
+4-17. [mcq, 1 pt] Which of the following designs is best suited for estimating the incidence of a chronic disease and studying multiple outcomes of a single exposure over time?
+    A) Prospective cohort study
+    B) Case-control study
+    C) Cross-sectional study
+    D) Ecologic correlation study
+    E) Case series
+
+4-18. [mcq, 1 pt] A researcher measures blood pressure multiple times in a clinic using a sphygmomanometer that is not regularly calibrated, leading to systematically higher readings than the true values. Which type of error does this best represent?
+    A) Random error
+    B) Confounding
+    C) Non-differential misclassification
+    D) Systematic measurement bias
+    E) Effect modification
+
+4-19. [mcq, 1 pt] In a case-control study of a stigmatized behavior, cases are more motivated and able to recall their prior exposures than controls. Which type of bias is of greatest concern?
+    A) Selection bias
+    B) Recall bias
+    C) Ecologic fallacy
+    D) Survivor bias
+    E) Lead-time bias
+
+4-20. [mcq, 1 pt] Which of the following best describes incubation period for an infectious disease?
+    A) Time from infection to peak infectiousness
+    B) Time from infection to end of infectious period
+    C) Time from infection to onset of symptoms
+    D) Time from exposure to exposure for secondary cases
+    E) Time from onset of symptoms to diagnosis
+
+4-21. [mcq, 1 pt] A new screening program detects many cases of a slow-growing cancer earlier, making survival time from diagnosis to death appear longer, even though there is no change in time of death. What kind of bias is this most consistent with?
+    A) Overdiagnosis bias
+    B) Selection bias
+    C) Confounding by indication
+    D) Lead-time bias
+    E) Healthy worker effect
+
+4-22. [mcq, 1 pt] During a foodborne illness outbreak, investigators initially define a case as "any person with vomiting within 24 hours after the banquet." Later, they refine the definition to include lab-confirmed infection with a specific pathogen. This change will most likely:
+    A) Increase sensitivity and decrease specificity
+    B) Decrease both sensitivity and specificity
+    C) Decrease sensitivity and increase specificity
+    D) Leave sensitivity and specificity unchanged
+    E) Increase sensitivity without affecting specificity
+
+4-23. [mcq, 1 pt] In a randomized trial, participants assigned to the intervention group are more likely to drop out if they experience side effects, while those in the control group rarely drop out. Which bias is most likely introduced?
+    A) Recall bias
+    B) Attrition (loss to follow-up) bias
+    C) Detection bias
+    D) Ecologic bias
+    E) Length-biased sampling
+
+4-24. [mcq, 1 pt] A disease cluster is suspected near an industrial plant, and investigators compare the observed number of cancer deaths in that small town to the number of deaths expected based on national age-specific rates. Which measure are they most likely using?
+    A) Crude mortality rate
+    B) Population attributable fraction
+    C) Case-fatality ratio
+    D) Standardized Mortality Ratio (SMR)
+    E) Prevalence ratio
+
+4-25. [mcq, 1 pt] Which of the following most clearly represents primary prevention in the context of infectious disease?
+    A) Providing early antiviral treatment after diagnosis of influenza
+    B) Rehabilitating patients with long-term complications from polio
+    C) Vaccinating schoolchildren against measles
+    D) Screening adults for chronic hepatitis B
+    E) Monitoring viral load in HIV-positive patients
+
+4-26. [mcq, 1 pt] A public health official is studying the proportion of all deaths in a region that are due to cardiovascular disease in a given year. Which measure is being calculated?
+    A) Cause-specific mortality rate
+    B) Case-fatality rate
+    C) Proportionate mortality
+    D) Incidence proportion
+    E) Prevalence proportion
+
+4-27. [mcq, 1 pt] Which of the following Bradford Hill considerations specifically addresses whether greater exposure levels are associated with higher disease risk, all else equal?
+    A) Temporality
+    B) Consistency
+    C) Plausibility
+    D) Biological gradient (dose–response)
+    E) Analogy
+
+4-28. [mcq, 1 pt] In a study, the true relationship between exposure and disease is null, but due to random sampling variation, the observed relative risk is 1.5 and statistically significant at p < 0.05. This result is an example of:
+    A) Confounding
+    B) Type I error (false positive)
+    C) Type II error (false negative)
+    D) Measurement bias
+    E) Ecologic fallacy
+
+4-29. [mcq, 1 pt] Which study design is usually fastest and least expensive for generating hypotheses about risk factors for a very rare, long-latency disease?
+    A) Case-control study
+    B) Prospective cohort study
+    C) Randomized controlled trial
+    D) Ecologic intervention study
+    E) Large cross-sectional census survey
+
+4-30. [mcq, 1 pt] A region's herd immunity threshold for a particular disease is estimated at 80%. Which statement is most accurate?
+    A) Once 80% of cases have recovered, the outbreak will stop
+    B) If 80% of the population is infected in one wave, the disease is eradicated
+    C) If at least 80% of the population is immune, sustained person-to-person transmission is unlikely
+    D) If fewer than 80% of the population is susceptible, the basic reproductive number (R₀) must be less than 1
+    E) Eradication of the disease is guaranteed once this threshold is exceeded

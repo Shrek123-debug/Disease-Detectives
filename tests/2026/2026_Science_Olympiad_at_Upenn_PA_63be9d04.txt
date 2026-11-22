@@ -1,0 +1,580 @@
+Science Olympiad at Upenn - PA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  56 questions, 65.0 pts
+Source: scio.ly test archive id 63be9d04-e70c-4379-a1ac-93056e4ef581
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 84
+
+
+=== Part 1: Background and Surveillance ===
+
+[STIMULUS] For question 1-12 use the word bank to match each scenario with the best definition.
+
+airborne transmission
+biologic transmission
+cluster
+cohort
+common source
+isolation
+mechanical transmission
+point source
+propagated
+quarantine
+sensitivity
+specificity
+
+P1-1. [mcq, 1 pt] During a winter Penn Symphony Orchestra event held in Irvine Auditorium, several violinists complain that the heating system has been blowing unusually hard, stirring up dust from the old ceiling beams. Midway through rehearsal, one violinist leaves early because of a mild cough she thought was just allergies. She never touched anyone and kept her own water bottle. Three days later, nearly half the choir develops the same illness.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-2. [mcq, 1 pt] Over eight days, people from several dorms in Gregory College House develop similar gastrointestinal symptoms. Although their onset dates vary, all of them report filling water bottles at the same water fountain within the building.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-3. [mcq, 1 pt] Another diagnostic tool was made which reported that 56 out of 100 people have the soup-obsession disease. Later analysis showed that 16 of those positive results were actually healthy people who were incorrectly labeled as sick, while nearly all 44 people labeled negative truly did not have the disease. This second tool is low in …
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-4. [mcq, 1 pt] Public health researchers follow a group of 2,000 factory workers for ten years to compare how chemical exposure influences lung cancer risk. This grouping of cases is a …
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-5. [mcq, 1 pt] Nearly everyone who ate at the Football match during Homecoming became ill. Most cases appear almost at once, but a few show up a bit later because not all attendees remember exactly when they started feeling sick.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-6. [mcq, 1 pt] The hospital of UPenn (HUP) admits three students who all report waking up with the same unusual symptoms after attending Spring Fling. The clinic staff initially treat them identically because all three appear equally ill. After laboratory results, the student with a positive test result is placed into a room with airflow controls and limited access, leaving the other two in the regular ward.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-8. [mcq, 1 pt] In a tropical farming village, several workers fall ill with a high fever after spending long hours repairing irrigation pipes near stagnant water. At first, investigators suspected the water source or contaminated soil. But interviews revealed that all the sick workers reported being bitten repeatedly by a particular species of mosquito that’s common near the fields during that season. Blood samples taken from both workers and trapped mosquitoes reveal that the pathogen must undergo development inside the mosquito before becoming infectious to humans—explaining why illness appears only after a predictable delay following mosquito exposure.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-9. [mcq, 1 pt] A slow rise in cases of a rash begins among nursing students in anatomy classroom. A week later, new cases appear among the students’ roommates, and a couple days later among other friends.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-10. [mcq, 1 pt] A research team contacts a group of volunteers who helped with the SOUP invitational. The volunteers report feeling completely normal, but the researchers explain that the president of the club received a positive diagnostic test result after the competition. The volunteers are instructed to stay away from the public for the same length of time used to track symptom development.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-11. [mcq, 1 pt] At a busy street market, a vendor preparing ready-to-eat fruit keeps swatting away flies that have been landing on the cutting board, the knife handle, and occasionally on the peeled fruit itself. Later that afternoon, several customers who purchased fruit from the vendor become ill. The vendor insists that the fruit was washed and no animals or insects bit anyone. Environmental tests show no bacterial growth on the water used to wash the fruit and no contamination in nearby food stalls. However, lab results show the same organism on the vendor’s fruit and on flies caught in the stall, despite the flies being unable to support any replication or development of the pathogen.
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-12. [mcq, 1 pt] In a small lakeside town, health workers notice that several neighbors living on the same street all develop a rare skin rash within the same week. This unusual grouping of cases is a …
+    A) airborne transmission
+    B) biologic transmission
+    C) cluster
+    D) cohort
+    E) common source
+    F) isolation
+    G) mechanical transmission
+    H) point source
+    I) propagated
+    J) quarantine
+    K) sensitivity
+    L) specificity
+
+P1-13. [mcq, 1 pt] Which of the following is not true about John Snow?
+    A) He performed descriptive epidemiologic investigation of cholera in London
+    B) He used mapping techniques to identify clusters of cholera cases around a contaminated water pump
+    C) He performed analytic epidemiologic investigation comparing death rates from cholera to where those people got their water
+    D) Snow was able to identify the mode of transmission, the length of time from infection to death but not incubation times
+
+P1-14. [mcq, 1 pt] Which of the following pairs is incorrect regarding the core epidemiologic functions?
+    A) Field investigation - Designing and conducting studies to determine associations between risk factors and disease.
+    B) Evaluation - Determining the effectiveness and efficiency of a vaccination campaign in meeting its target outcomes.
+    C) Linkages - Coordinating with Philadelphia Health Department, University of Pennsylvania Medical Center, and state laboratory officials to share data and response plans after an increase in Legionnaires’ disease cases in student dormitories.
+    D) Public health surveillance - Continuously reviewing weekly flu reports from nearby clinics to detect trends in infection rates.
+
+P1-15. [mcq, 1 pt] Which scenario best reflects the paradigm difference between public health and clinical medicine?
+    A) A cardiologist treating hypertension
+    B) A radiologist interpreting chest X-rays
+    C) A policy team redesigning urban spaces to increase physical activity
+    D) A pediatrician vaccinating children
+
+[STIMULUS] For questions 16-25, identify the characteristic of a well conducted surveillance represented by each of the following scenarios.
+
+P1-17. [frq, 1 pt] When public health authorities detect new neurological and renal symptoms, they expand the reporting criteria mid-outbreak, without losing previously collected data.
+
+P1-19. [frq, 1 pt] Hospitals continue to submit detailed reports even though the paperwork adds extra steps to their workflow, because participation is supported and encouraged by leadership.
+
+P1-20. [frq, 1 pt] Investigators are able to identify nearly all patients with SMIS, including those with mild, atypical, or non-specific symptoms that could have been overlooked.
+
+P1-21. [frq, 1 pt] Data collection forms are designed with checkboxes and short fields, allowing staff across multiple facilities to report consistently without needing extensive training.
+
+P1-22. [frq, 1 pt] Laboratory and reporting equipment, as well as trained personnel, are consistently available across all reporting sites.
+
+P1-23. [frq, 1 pt] Each patient report is reviewed for missing or inconsistent values, and the percentage of unknowns is calculated to assess completeness.
+
+P1-25. [frq, 1 pt] Reports are collected from emergency departments, outpatient clinics, and eldercare facilities across all city neighborhoods, reflecting the population distribution.
+
+P1-26. [mcq, 1 pt] Which pairing of stage and prevention strategy is incorrect?
+    A) Clinical – Rehabilitation therapy
+    B) Outcome – Lifestyle modification to reduce risk
+    C) Subclinical – Screening tests
+    D) Susceptibility – Vaccination
+
+P1-27. [mcq, 1 pt] A researcher who compared mortality records across seasons, noticed higher infant deaths in winter, and inferred population-level patterns without identifying a specific pathogen.
+    A) Hippocrates
+    B) John Graunt
+    C) William Farr
+    D) Pierre Charles Alexandre Louis
+
+P1-28. [mcq, 1 pt] Epidemiology is used for the following reasons except
+    A) Passing laws
+    B) Making individual decisions about health
+    C) Assessing community’s health
+    D) Finding causes and effects of diseases
+    E) Predicting which treatments will work best for a specific patient
+
+P1-29. [mcq, 1 pt] Which scenario would most likely be led by public health professionals rather than clinicians?
+    A) Determining chemotherapy protocols for patients with leukemia
+    B) Investigating why a specific neighborhood has higher asthma rates
+    C) Developing clinical guidelines for prescribing inhaled corticosteroids to children with asthma
+    D) Coordinating tuberculosis treatment for multiple patients identified through contact tracing
+
+P1-31. [mcq, 1 pt] Which pairing of specialization and discipline is most consistent with the organizational lines?
+    A) Occupational health → Public health
+    B) Cardiology → Public health
+    C) Epidemiology → Clinical medicine
+    D) Radiology → Public health
+
+P1-32. [mcq, 1 pt] Which disease-stage pairing best explains why lead poisoning in children is often diagnosed late?
+    A) Long incubation period during susceptibility
+    B) Rapid progression from clinical to outcome
+    C) Prolonged subclinical stage with subtle symptoms
+    D) Immediate onset of severe clinical symptoms
+
+P1-34. [mcq, 1 pt] Which statement best explains why diagnosing tuberculosis during an outbreak is classified as a public health activity, even though diagnosis is traditionally associated with clinical medicine?
+    A) Tuberculosis requires laboratory confirmation before any intervention can occur
+    B) The diagnostic process uses standardized protocols applied to large numbers of patients
+    C) Tuberculosis disproportionately affects vulnerable populations and requires equitable access to care
+    D) Diagnosis enables implementation of control measures such as isolation and contact tracing to prevent spread
+
+P1-35. [mcq, 1 pt] Which historical example best illustrates environmental exposure as a causal agent, rather than infection?
+    A) Pellagra and diet (Goldberger)
+    B) Cholera and water pumps (Snow)
+    C) Scrotal cancer in chimney sweeps (Pott)
+    D) Malaria transmission (Ross)
+
+[STIMULUS] Match the scenario with the one stage of natural history of disease or level of prevention that it best represents.
+
+Stage of susceptibility
+Clinical stage
+Subclinical stage
+Primary prevention
+Tertiary prevention
+Secondary prevention
+
+P1-37. [mcq, 1 pt] A patient presents with persistent cough, fever, and night sweats; a chest X-ray confirms active tuberculosis.
+    A) Stage of susceptibility
+    B) Clinical stage
+    C) Subclinical stage
+    D) Primary prevention
+    E) Tertiary prevention
+    F) Secondary prevention
+
+[STIMULUS] Questions 39 - 42 are related to the case study below
+
+In mid-January, a metropolitan health department observed a statistically significant increase in emergency department visits for fatigue, nausea, low-grade fever, and transient cognitive slowing. Most cases resolve within 48–72 hours without treatment. However, a small subset of patients, primarily older adults and immunocompromised individuals, develop progressive neurologic symptoms, severe dehydration, and organ inflammation, occasionally requiring ICU admission.
+
+Initial interviews revealed that many affected individuals consumed ready-to-eat packaged "Hearty Winter Soup" sold at grocery stores. Laboratory testing failed to identify a consistent pathogen. Later, heat-resistant protein aggregates in unopened soup containers were detected, along with trace levels of a cleaning solvent used at the manufacturing facility.
+
+Public health officials defined the illness as Soupborne Multisystem Inflammatory Syndrome (SMIS). Over the next two months, reported cases declined after a product recall and changes in manufacturing oversight.
+
+P1-39. [mcq, 1 pt] What type of surveillance is the early reporting of SIMS classified as?
+    A) Syndromic surveillance
+    B) Passive surveillance
+    C) Active surveillance
+    D) Sentinel surveillance
+
+P1-41. [mcq, 1 pt] Based on available evidence, SMIS is most likely attributable to which category of causative agent?
+    A) Prion
+    B) Bacterial
+    C) Viral
+    D) Noninfectious
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] Identify the type of bias represented in each of the scenarios below.
+
+P2-8. [frq, 1 pt] A workplace offers periodic blood pressure screenings. Slowly developing hypertension is more likely to be identified during these screenings, while rapidly worsening cases are more likely to be diagnosed between screening periods. The screened group appears to have better long-term outcomes than those diagnosed outside of the screened group.
+
+
+=== GENERAL OUTBREAK INVESTIGATION ===
+
+[STIMULUS] Directions: Match the scenarios to the steps in outbreak investigation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P3-1. [mcq, 1 pt] Prepare for field work ____
+    
+    Prepare for field work
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-3. [mcq, 1 pt] Verify the diagnosis ____
+    
+    Verify the diagnosis
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-4. [mcq, 1 pt] Construct a working case definition ____
+    
+    Construct a working case definition
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-5. [mcq, 1 pt] Find cases systemically and record information ____
+    
+    Find cases systemically and record information
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-7. [mcq, 1 pt] Develop hypotheses ____
+    
+    Develop hypotheses
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-8. [mcq, 1 pt] Evaluate hypotheses epidemiologically ____
+    
+    Evaluate hypotheses epidemiologically
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-9. [mcq, 1 pt] Reconsider, refine, and re-evaluate hypotheses ____
+    
+    Reconsider, refine, and re-evaluate hypotheses
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-11. [mcq, 1 pt] Implement control and prevention measures ____
+    
+    Implement control and prevention measures
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-12. [mcq, 1 pt] Initiate or maintain surveillance ____
+    
+    Initiate or maintain surveillance
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-13. [mcq, 1 pt] Communicate findings ____
+    
+    Communicate findings
+    A) Sarah and her team prepare personal protective equipment needed to conduct the investigation.
+    B) Sarah and her team work with local hospitals and public health agencies to keep track of outbreaks.
+    C) Sarah and her team get a message from a laboratory saying they have found the agent that has caused the disease.
+    D) Sarah and her team work together to create a standard criteria to classify the disease.
+    E) Sarah and her team work on compiling information for each case, including information like demographic, clinical information, and risk factors.
+    F) Sarah and her team creates a spot map to note places that had increased exposure of outbreaks
+    G) Sarah and her team collected data regarding the disease and formed a hypothesis on what might have started the outbreak of the disease.
+    H) Sarah and her team calculate the odds ratio for all of the people who have been exposed and those who haven't been exposed.
+    I) After Sarah and her team gather data from the experiment, they narrow their hypothesis.
+    J) Sarah and her team analyze the data to see if there is a severity in outbreak cases.
+    K) Sarah and her team promote the importance of washing hands and getting vaccinations.
+    L) Sarah and her team share the information they learned about the disease with reporters.
+
+P3-14. [tf, 1 pt] True or False: These words have the same definition: Signs and Symptoms.
+    A) True
+    B) False
+
+[STIMULUS] Correctly match the following definitions to the term:
+
+
+
+
+
+
+P3-16. [mcq, 1 pt] Case-Control ____
+    
+    Case-Control
+    A) A study that compares people with the disease and without the disease to find similar//common exposures.
+    B) A study that compares people with exposure and without exposure to see what happens to each group.
+    C) A study that includes a survey or health questionnaire to get a look at the disease in a specific timeframe.
+    D) A study that forms groups of people with shared characteristics to compare them to look for differences between the groups.
+
+P3-18. [mcq, 1 pt] Cross Sectional ____
+    
+    Cross Sectional
+    A) A study that compares people with the disease and without the disease to find similar//common exposures.
+    B) A study that compares people with exposure and without exposure to see what happens to each group.
+    C) A study that includes a survey or health questionnaire to get a look at the disease in a specific timeframe.
+    D) A study that forms groups of people with shared characteristics to compare them to look for differences between the groups.
+
+P3-19. [mcq, 1 pt] Ecological ____
+    
+    Ecological
+    A) A study that compares people with the disease and without the disease to find similar//common exposures.
+    B) A study that compares people with exposure and without exposure to see what happens to each group.
+    C) A study that includes a survey or health questionnaire to get a look at the disease in a specific timeframe.
+    D) A study that forms groups of people with shared characteristics to compare them to look for differences between the groups.
+
+[STIMULUS] For questions 24 - 28, classify the following cases as either Active Immunity, Passive Immunity, Innate Immunity, or Herd Immunity.
+
+P3-24. [mcq, 1 pt] Angela was recently exposed to pertussis, which helped her to develop antibodies to enhance her immunity against pertussis.
+    A) Active Immunity
+    B) Passive Immunity
+    C) Innate Immunity
+    D) Herd Immunity
+
+P3-25. [mcq, 1 pt] The majority of the city of Philadelphia was able to get vaccinated against measles, increasing immunity and reducing the chain of transmission of the virus.
+    A) Active Immunity
+    B) Passive Immunity
+    C) Innate Immunity
+    D) Herd Immunity
+
+P3-26. [mcq, 1 pt] Sally was hanging out with her friend who was sick with strep throat. Her friend suddenly coughed in front of Sally, allowing the bacteria to enter Sally's body, but the bacteria is stopped by Sally's nasal hair.
+    A) Active Immunity
+    B) Passive Immunity
+    C) Innate Immunity
+    D) Herd Immunity
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+[STIMULUS] Below is the list of steps taken by local health authorities to control a norovirus outbreak at a camp. Using the word bank, classify each step of the control and prevention process.
+
+**Word Bank:** Isolation | Diagnosis | Disinfection | Immunization | Blocking of Transmission | Health Education | Treatment | Investigation | Notification | Quarantine
+
+P4-6. [matching, 10 pt] Classify each step of the control and prevention process.
+    - Campers and staff are taught proper handwashing, food safety, and other hygiene practices to prevent future outbreaks  <->  Blocking of Transmission
+    - Local healthcare officials interview camp staff, campers, and the camp doctor as well as conduct tests to determine the source of the outbreak  <->  Diagnosis
+    - The camp stops serving the soup, closes off all public areas, and introduces new health standards to ensure the stoppage of the virus  <->  Disinfection
+    - The camp doctor tends to the patients and confirms with testing that the sick campers have norovirus  <->  Health Education
+    - Campers who were confirmed to have norovirus are kept in separate cabins  <->  Immunization
+    - Everyone that came into contact with the sick campers is instructed to stay in their cabin and stay away from healthy campers  <->  Investigation
+    - While there is no current vaccine for norovirus, if one existed everyone present at the camp would be vaccinated to prevent any future outbreaks  <->  Isolation
+    - The camp doctor informs the campers' parents and local healthcare authorities of the ongoing outbreak  <->  Notification
+    - Bathrooms, cabins, kitchen surfaces, utensils, and any contaminated areas are thoroughly cleaned  <->  Quarantine
+    - Sick campers are given oral rehydration, fluids, rest, and monitoring  <->  Treatment
+
+[STIMULUS] A company town of 5,000 people relies on a single factory. A new, inexpensive screening test for "Z-Disease" (a chronic, non-fatal lung disease caused by industrial dust) is offered to all workers. Z-Disease has a 10-year latency period (it takes 10 years to develop) and, until this test, was only diagnosed when severe symptoms appeared. On January 1, 2024, the company offers a one-day, free screening to all 2,000 factory workers. 1,800 workers accept the screening. 200 workers decline. Of the 1,800 screened, **90 workers test positive** for Z-Disease. Follow-up biopsies confirm that **60** of these 90 were **true positives** (they have the disease). The other **30** were **false positives**. On January 1 (before the screening), there were **10 known cases** of symptomatic Z-Disease in the town, all among retired workers.
+
+P4-8a. [frq, 1 pt] What was the **point of prevalence** of Z-Disease (per 1,000 people) in the entire town (pop. 5,000) on **January 2, 2024** (the day after the screening)?
+
+[STIMULUS] An outbreak of Gastroenteritis X occurred at a summer camp with 500 campers. Preliminary data shows that 120 campers fell ill. Of those who fell ill, 80 ate the chicken salad. Total chicken salad consumption was 150 campers.
+
+P4-10a. [frq, 1 pt] Calculate the attack rate for those who ate the chicken salad.
+
+[STIMULUS] Match the following interventions for a local **Type 2 Diabetes** initiative to their correct level of prevention (Primary, Secondary, or Tertiary): A- primary B- secondary C- Tertiary
+
+P4-12a. [mcq, 1 pt] Hosting a "glucose screening" booth at a local health fair.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+
+P4-12b. [mcq, 1 pt] Implementing a mandatory "Daily Physical Education" policy in all primary schools.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+
+P4-12c. [mcq, 1 pt] Providing subsidized podiatry clinics for patients with advanced diabetic neuropathy to prevent amputation.
+    A) Primary
+    B) Secondary
+    C) Tertiary

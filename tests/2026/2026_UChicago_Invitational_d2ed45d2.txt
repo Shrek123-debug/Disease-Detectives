@@ -1,0 +1,361 @@
+UChicago Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  65 questions, 87.0 pts
+Source: scio.ly test archive id d2ed45d2-4d5b-432a-9529-e80236e919e1  |  original files: https://drive.google.com/drive/folders/1qtDRWZn-9pV57ditCQI1fJjg3b-tJ-gI
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Show all work for math and free response questions. Partial credit will be awarded. Point values are noted on each question.
+
+
+=== Section 1: Multiple Choice & Matching ===
+
+P1-1. [mcq, 1 pt] Which of the following individuals was a Scottish physician who carried out one of the first controlled clinical trials, which established citrus fruits as a cure for scurvy?
+    A) James Lind
+    B) William Farr
+    C) William Withering
+    D) John Gaunt
+
+P1-2. [mcq, 1 pt] Based on the following scenario, identify which type of outbreak is occurring:
+    
+    The city of Chicago reports repeated increases in cases of gastrointestinal illness over 7 weeks. Investigation reveals that all affected individuals consumed food from the same distributor, and that contamination only occurs when a specific processing machine occasionally malfunctions.
+    A) Intermittent common source outbreak
+    B) Point source outbreak
+    C) Propagated outbreak
+    D) Continuous common source outbreak
+
+P1-3. [mcq, 1 pt] PulseNet is most analogous to which of the following mechanisms:
+    A) A plagiarism-detection algorithm that identifies identical text across independent papers
+    B) A census that counts individuals to estimate population trends
+    C) A weather model that forecasts storms based on atmospheric conditions
+    D) A pharmacologist systematically testing a drug’s effects across multiple patient groups
+
+P1-4. [mcq, 1 pt] Participants in a study changing their behavior because they know they are being watched constitutes which of the following types of biases?
+    A) Harper effect
+    B) Pygmalion effect
+    C) Hawthorne effect
+    D) Lauderdale effect
+
+P1-5. [mcq, 1 pt] A vaccine substantially reduces the probability that infected individuals develop clinically apparent disease, but does not prevent infection or viral replication. After widespread vaccination, a diagnostic test for the disease shows a lower sensitivity when evaluated in the general population, while its specific remains unchanged. Which of the following best explains this observation?
+    A) Vaccinated individuals are more likely to delay testing until symptoms worsen
+    B) Vaccination leads to milder infections with pathogen levels below the test’s detection limit
+    C) Vaccine-induced antibodies interfere with the test’s ability to bind its target
+    D) Vaccinated individuals clear the infection before mounting a detectable immune response
+
+P1-6. [multi, 1 pt] After exposure to a risk factor, what distribution should a disease’s incubation period follow?
+    A) Uniform distribution
+    B) Normal distribution
+    C) Log-normal distribution
+    D) Exponential distribution
+
+P1-7. [mcq, 1 pt] The image below is an example of a:
+    [IMAGE: ../images/2026_uchicago_invitational_b_c__p3_339f9a-24958d92.webp]
+    A) Sufficient/component cause model
+    B) Graph model
+    C) Bipartite graph
+    D) Directed Acyclic graph
+
+P1-8. [mcq, 1 pt] Which of the following did John Snow use during the cholera epidemic?
+    A) Line listing
+    B) Spot map
+    C) Subdivided table
+    D) SNP mapping
+
+P1-9. [mcq, 1 pt] Which of the following scenarios would increase the herd immunity threshold for a contagious disease in a population?
+    A) A lower R₀
+    B) Partial immunity in population due to cross-reactive vaccines
+    C) A higher R₀
+    D) A lower R_e/R
+
+P1-10. [mcq, 1 pt] An individual who has fully recovered from Hepatitis B but is still able to transmit the illness to others for a long period of time can be referred to as what epidemiological term?
+    A) Convalescent Carrier
+    B) Incubatory Carrier
+    C) Transient Carrier
+    D) Sequela Carrier
+
+P1-11. [mcq, 1 pt] What is one way you can effectively and directly control the mode of transmission in the chain of infection?
+    A) Wound care
+    B) Screening
+    C) Sanitization
+    D) Chemoprophylaxis
+
+P1-12. [mcq, 1 pt] What sort of bias causes hospital cases/controls in a case-control study to be systematically different because there is a greater chance of exposure to risk and disease in the hospitalized population?
+    A) Berkson’s Bias
+    B) Lead Time Bias
+    C) Attrition Bias
+    D) Overdiagnosis Bias
+
+P1-13. [mcq, 1 pt] In the midst of an outbreak or epidemic, epidemiologists often track seasonal trends in the number of people searching for symptoms (ex. cough, cold, fever) online. What sort of surveillance is this?
+    A) Sentinel surveillance
+    B) Syndromic surveillance
+    C) Active surveillance
+    D) Passive surveillance
+
+P1-14. [mcq, 1 pt] Which of the following is NOT an assumption of the SIR Model for the Spread of Disease?
+    A) Constant population growth
+    B) Constant rate of transmission
+    C) Constant rate of removal
+    D) Well-mixed population
+
+P1-15. [mcq, 1 pt] In the Rothman Casual Pie Model, what are all the individual factors referred to?
+    A) Pathway Causes
+    B) Necessary Causes
+    C) Sufficient Causes
+    D) Component Causes
+
+P1-17. [mcq, 1 pt] What disease is the top cause of all foodborne illnesses in the U.S. annually?
+    A) Campylobactor
+    B) Norovirus
+    C) Salmonella
+    D) E. Coli
+
+P1-18. [mcq, 1 pt] What type of immunity can be developed from antibodies received from the mother during pregnancy?
+    A) Artificial active immunity
+    B) Natural active immunity
+    C) Innate immunity
+    D) Passive natural immunity
+    E) Passive artificial immunity
+    F) Herd immunity
+
+[STIMULUS] For questions 19-25, write the letter of the definition that corresponds to each term.
+
+A. An experiment used to evaluate interventions without randomization
+B. Monitoring potentially exposed people to detect early symptoms of disease
+C. Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+D. Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+E. Proportion of people with clinical disease who become severely ill or die after becoming infected
+F. Proportion of people with disease that are correctly identified by screening test/case definition
+G. Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-19. [mcq, 1 pt] Pathogenicity
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-20. [mcq, 1 pt] Quasi-experiment
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-21. [mcq, 1 pt] Sensitivity
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-22. [mcq, 1 pt] Specificity
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-23. [mcq, 1 pt] Public Health Surveillance
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-24. [mcq, 1 pt] Medical Surveillance
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+P1-25. [mcq, 1 pt] Virulence
+    A) An experiment used to evaluate interventions without randomization
+    B) Monitoring potentially exposed people to detect early symptoms of disease
+    C) Proportion of people without disease that are correctly identified by screening test/case definition as not having disease
+    D) Proportion of people who are infected and develop clinical disease after exposure to to causative agent
+    E) Proportion of people with clinical disease who become severely ill or die after becoming infected
+    F) Proportion of people with disease that are correctly identified by screening test/case definition
+    G) Systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis to control and prevent disease in the community
+
+[STIMULUS] For questions 26-35, classify the pathogenic agent causing the following diseases as either a Bacteria (B), Virus (V), Helminth (H), or Parasite (P)
+
+P1-26. [mcq, 1 pt] Giardia
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-27. [mcq, 1 pt] Measles
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-28. [mcq, 1 pt] Shigella
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-29. [mcq, 1 pt] Cryptosporidiosis
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-30. [mcq, 1 pt] Legionella
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-31. [mcq, 1 pt] Tapeworm
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-32. [mcq, 1 pt] Bronchitis
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-33. [mcq, 1 pt] Dengue Fever
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-34. [mcq, 1 pt] African Sleeping Sickness
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+P1-35. [mcq, 1 pt] Botulism
+    A) Bacteria (B)
+    B) Virus (V)
+    C) Helminth (H)
+    D) Parasite (P)
+
+
+=== Section 2: Calculations and Interpretation ===
+
+[STIMULUS] This question and the Mediterranean diet questions that follow in this section use data adapted from:
+
+Nicole Mamelle. 1999. “Mediterranean Diet, Traditional Risk Factors, and the Rate of Cardiovascular Complications After Myocardial Infarction.” Circulation 99 (6): 779–85. https://doi.org/10.1161/01.CIR.99.6.779.
+
+The “Mediterranean Diet” has received much attention in the medical literature and the lay press for its benefits regarding cardiovascular disease outcomes. In this section, we will be using data drawn from the seminal 1999 randomized controlled trial published in Circulation that first epidemiologically demonstrated the benefits of this diet on cardiovascular disease.
+
+P2-2. [frq, 2 pt] What measure of association - odds ratio or relative risk - is most appropriate for this type of study? Why?
+
+[STIMULUS] 204 individuals were included in the control group (Western diet), and 219 people were included in the experimental group (Mediterranean diet). One outcome of interest was a cardiac Composite Outcome (all-cause mortality, heart failure, stroke, pulmonary or peripheral embolism). 90 people in the control group had this Composite Outcome, and 27 people in the experimental group had this Composite Outcome. Using this information, fill out the below 2x2 table appropriately.
+    |  | Composite Outcome | No Composite Outcome | Total |
+    | Western Diet (control) | 90 | [[q:P2-3-1]] | [[q:P2-3-2]] |
+    | Mediterranean Diet (experimental) | 27 | [[q:P2-3-3]] | [[q:P2-3-4]] |
+    | Total | [[q:P2-3-5]] | [[q:P2-3-6]] | [[q:P2-3-7]] |
+
+P2-3-1. [numeric, 1 pt] Row: Western Diet (control) - No Composite Outcome
+
+P2-3-2. [numeric, 1 pt] Row: Western Diet (control) - Total
+
+P2-3-3. [numeric, 1 pt] Row: Mediterranean Diet (experimental) - No Composite Outcome
+
+P2-3-4. [numeric, 1 pt] Row: Mediterranean Diet (experimental) - Total
+
+P2-3-5. [numeric, 1 pt] Row: Total - Composite Outcome
+
+P2-3-6. [numeric, 1 pt] Row: Total - No Composite Outcome
+
+P2-3-7. [numeric, 1 pt] Row: Total - Total
+
+[STIMULUS] Calculate the attack rate of the Outcome for the Western Diet and Mediterranean Diet groups.
+    | Label | Answer |
+    | Western Diet | [[q:P2-4-a]] |
+    | Mediterranean Diet | [[q:P2-4-b]] |
+
+P2-4-a. [frq, 2 pt] Western Diet
+
+P2-4-b. [frq, 2 pt] Mediterranean Diet
+
+P2-5. [frq, 2 pt] Calculate the appropriate measure of association that you identified in Question 2.2. Interpret this value.
+
+P2-6. [frq, 1 pt] This study was a randomized controlled trial. Does this mean that causality can be inferred?
+
+[STIMULUS] You are a lead epidemiologist in the CDC, and a recent outbreak of the UChicago Virus is terrorizing your community. As your team frantically works to perfect a diagnostic test to diagnose the disease, they enlist your help to interpret some of the key results. They have already conducted a preliminary trial to test the accuracy of the test with 800 total volunteers, a sensitivity of 63.71%, a specificity of 93.46%, and 237 true positives. Given this information, fill in the table below. Round values to the nearest whole number (hint: the total number of participants should add up to 800)
+    |  | Diseased | Not Diseased |
+    | Positive Test Result | [[q:P2-7-1]] | [[q:P2-7-2]] |
+    | Negative Test Result | [[q:P2-7-3]] | [[q:P2-7-4]] |
+    | Total | [[q:P2-7-5]] | [[q:P2-7-6]] |
+
+P2-7-1. [numeric, 1 pt] Row: Positive Test Result - Diseased
+
+P2-7-2. [numeric, 1 pt] Row: Positive Test Result - Not Diseased
+
+P2-7-3. [numeric, 1 pt] Row: Negative Test Result - Diseased
+
+P2-7-4. [numeric, 1 pt] Row: Negative Test Result - Not Diseased
+
+P2-7-5. [numeric, 1 pt] Row: Total - Diseased
+
+P2-7-6. [numeric, 1 pt] Row: Total - Not Diseased
+
+P2-8. [frq, 2 pt] Calculate the Negative Predictive Value of the test to the nearest tenth of a percentage and show your work:
+
+P2-9. [frq, 2 pt] Calculate the Positive Predictive Value of the test to the nearest tenth of a percentage and show your work:
+
+[STIMULUS] Your team is also working on developing a vaccine to prevent people from getting the disease (ambitious at this stage, I know) and has just completed their first trial with a different group of volunteers (shown below)
+    |  | Sick (Acquired UChicago Virus) | Healthy | Total |
+    | Vaccine | 7 | 187 | 194 |
+    | Placebo | 147 | 13 | 160 |
+    | Total | 154 | 200 | 354 |
+
+P2-11. [frq, 3 pt] What is the difference between effectiveness and efficacy, and how is it applicable here?
+
+
+=== Section 3: Case Study ===
+
+[STIMULUS] The following questions concern the study "Risk Factors for Transmission of Measles during an Outbreak: Matched Case–Control Study."
+
+Hungerford, D., P. Cleary, S. Ghebrehewet, A. Keenan, and R. Vivancos. 2014. "Risk Factors for Transmission of Measles during an Outbreak: Matched Case–Control Study." Journal of Hospital Infection 86 (2): 138–43. https://doi.org/10.1016/j.jhin.2013.11.008.
+
+3-1. [mcq, 1 pt] What type of study is this?
+    A) Prospective
+    B) Case control
+    C) Cohort
+    D) Ecological
+    E) Cross-sectional
+
+3-2. [mcq, 1 pt] In the introduction, the authors discuss the changing vaccination rate in England. What form of prevention is vaccination?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+3-3. [frq, 2 pt] The American Academy of Pediatrics estimates that the vaccination level required for herd immunity is 92% for measles. What does herd immunity mean, and why does it work? Who is protected in herd immunity - the immunized, the not immunized, both, or neither?
+
+3-4. [frq, 3 pt] Calculate and interpret the R₀ value for measles based on a 92% herd immunity threshold. What does R₀ mean? Interpret this R₀ value you calculated.
+
+3-5. [frq, 4 pt] Name two advantages and two disadvantages of a case control study.
+
+3-6. [frq, 2 pt] Why was a case control study appropriate here?
+
+3-9. [frq, 4 pt] There were 42 cases and 42 controls. 22 cases were not vaccinated, and 6 controls were not appropriately vaccinated for their age. Construct and fill out a 2x2 table for these data.
+
+3-10. [frq, 2 pt] Calculate the odds ratio for vaccination.
+
+3-11. [frq, 2 pt] Interpret this odds ratio.
+
+3-13. [frq, 3 pt] What public health strategies could be implemented to prevent an outbreak like this again? Name three

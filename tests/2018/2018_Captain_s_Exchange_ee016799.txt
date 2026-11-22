@@ -1,0 +1,165 @@
+Captain's Exchange — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  52 questions, 146.0 pts
+Source: scio.ly test archive id ee016799-80a4-49a9-8c63-dfd17965ca2f  |  original files: https://drive.google.com/drive/folders/1m__TSBxu62Yf7hHGFvKdcqdUgU5xfPnT
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+
+=== Problem 1: Wash yo damn hands (norovirus outbreak) ===
+
+[STIMULUS] You’re sitting in your cozy office in the PA state health department when you get a call. Automated analysis has noticed that there has been an unexpected number of absences at a local school, with a surge in doctor calls and visits for fever, diarrhea, and coughing. This was confirmed by your assistant.
+
+P1-1. [frq, 3 pt] What type of the three major types of surveillance is this?
+
+P1-2. [frq, 11 pt] List the eleven steps for outbreak investigation.
+
+P1-3. [frq, 3 pt] What is an index case? What is a primary case?
+
+[STIMULUS] Following the steps of outbreak investigation, you call each case-patient and ask them to detail their symptoms and history, and match it to a case definition you have crafted. You proceed to list this patient data in a line listing, and craft an epi curve, displayed below.
+    [IMAGE: ../images/2018_captain_s_exchange_c__p1_3ce386-4b054977.webp]
+
+P1-4. [frq, 4 pt] What step(s) of outbreak investigation just occurred?
+
+P1-5. [frq, 4 pt] What four components go into a case definition?
+
+[STIMULUS] You have obtained some stool samples from these patients and have sent them off for analysis. The analysis results show no sign of bacteria.
+
+P1-7. [frq, 2 pt] If this is not a bacterial illness, what could this illness potentially be?
+
+P1-8. [frq, 2 pt] With better knowledge of what this illness is, estimate the exposure period of this outbreak using the initial peak from the epidemic curve.
+
+[STIMULUS] You gather your staff and interview the school’s staff about the outbreak.
+
+P1-9. [frq, 9 pt] Provide three reasonable questions that could be used to ascertain the source of this outbreak.
+
+[STIMULUS] You have managed to compile data about the food consumed in the school cafeteria by both cases and non-cases. That information is compiled in the table below.
+
+Hahahahahahahahaha just kidding. Don’t use this stupid chart that is on literally every disease test ever. (THE ICE CREAM DID IT)
+
+Here is the actual table:
+    [IMAGE: ../images/2018_captain_s_exchange_c__p3_64a45c-740ab527.webp]
+    | Food Item | # of people who ate - Sick | # of people who ate - Total | # of people who ate - Attack Rate (%) | # of people who did not eat - Sick | # of people who did not eat - Total | # of people who did not eat - Attack Rate (%) |
+    | Chicken Tenders | 22 | 54 | [[q:P1-10-1]] | 24 | 79 | [[q:P1-10-2]] |
+    | Mashed Potatoes | 17 | 52 | [[q:P1-10-3]] | 29 | 81 | [[q:P1-10-4]] |
+    | Hot Dogs | 35 | 99 | [[q:P1-10-5]] | 11 | 34 | [[q:P1-10-6]] |
+    | Cheeseburgers | 42 | 75 | [[q:P1-10-7]] | 4 | 58 | [[q:P1-10-8]] |
+    | Quesadillas | 43 | 122 | [[q:P1-10-9]] | 3 | 11 | [[q:P1-10-10]] |
+    | Salad | 20 | 100 | [[q:P1-10-11]] | 26 | 33 | [[q:P1-10-12]] |
+    | Pasta | 28 | 80 | [[q:P1-10-13]] | 18 | 53 | [[q:P1-10-14]] |
+
+P1-10-1. [numeric, 1 pt] Row: Chicken Tenders - Attack Rate (%) for those who ate
+
+P1-10-2. [numeric, 1 pt] Row: Chicken Tenders - Attack Rate (%) for those who did not eat
+
+P1-10-3. [numeric, 1 pt] Row: Mashed Potatoes - Attack Rate (%) for those who ate
+
+P1-10-4. [numeric, 1 pt] Row: Mashed Potatoes - Attack Rate (%) for those who did not eat
+
+P1-10-5. [numeric, 1 pt] Row: Hot Dogs - Attack Rate (%) for those who ate
+
+P1-10-6. [numeric, 1 pt] Row: Hot Dogs - Attack Rate (%) for those who did not eat
+
+P1-10-7. [numeric, 1 pt] Row: Cheeseburgers - Attack Rate (%) for those who ate
+
+P1-10-8. [numeric, 1 pt] Row: Cheeseburgers - Attack Rate (%) for those who did not eat
+
+P1-10-9. [numeric, 1 pt] Row: Quesadillas - Attack Rate (%) for those who ate
+
+P1-10-10. [numeric, 1 pt] Row: Quesadillas - Attack Rate (%) for those who did not eat
+
+P1-10-11. [numeric, 1 pt] Row: Salad - Attack Rate (%) for those who ate
+
+P1-10-12. [numeric, 1 pt] Row: Salad - Attack Rate (%) for those who did not eat
+
+P1-10-13. [numeric, 1 pt] Row: Pasta - Attack Rate (%) for those who ate
+
+P1-10-14. [numeric, 1 pt] Row: Pasta - Attack Rate (%) for those who did not eat
+
+P1-10. [frq, 14 pt] Calculate the attack rate for each food and record the value in the table. Show calculations once below. Use two significant figures (max one pt off for all sig figs).
+
+P1-11. [frq, 6 pt] Which food item has the highest relative risk? What is it? Show your work below.
+
+P1-12. [frq, 5 pt] Name one food that has a relative risk less than one, and calculate the relative risk. Explain the name of this effect, what it means, and why it might exist.
+
+[STIMULUS] You have informed the local health offices and the school of your findings so they can address this outbreak. They ask you for methods on how to avoid further outbreaks.
+
+P1-13. [frq, 1 pt] Provide five protocols to follow when preparing food to allow for safe and cleanly prepared food.
+
+P1-14. [frq, 1 pt] Provide five protocols not related to food preparation that could help stop the outbreak.
+
+
+=== Problem 2: Getting some PCP ===
+
+[STIMULUS] As you are reading the current issue of MMWR, the phone rings. The physicians at the parasitic disease division of the CDC center for infectious disease are on the line. They noticed that several doctors in New York and California had requested the drug pentamidine isethionate, a new and rare drug used to treat PCP, or pneumocystis carinii pneumonia (no not the illegal drug phencyclidine/angel dust), a rare and deadly type of pneumonia. Previously this pneumonia only occurred in those with advanced cancer or states of extreme immunodeficiency. However these patients had no history of cancer or genetic or drug-induced immunodeficiency.
+
+P2-1. [frq, 3 pt] What type of surveillance occurred in the scene above?
+
+P2-2. [frq, 1 pt] What does MMWR stand for?
+
+[STIMULUS] You set out with Dr. Gottlieb to investigate. After numerous doctor calls and patient conversations, you find there have been five inexplicable PCP patients in Los Angeles (three dead), infected after October 1980. They are all homosexual men, and all have co-infection with cytomegalovirus (which gives you mono) and another fungus called candidia. None of the patients knew each other, or had been to the same places at the same times. On June 5, 1981, you publish your findings in MMWR in the now infamous report “Pneumocystis Pneumonia --- Los Angeles”. Over the course of the next couple months, more case reports accumulate of homosexual men with severe cases of rare deadly diseases, which were previously only seen in immunocompromised patients. These diseases especially included PCP, invasive candidia, severe cytomegalovirus infection, and Kaposi’s sarcoma (KS), a cancer usually extremely rare in caucasians and when present usually seen in transplant recipients on immunosuppressive therapy. Except for in transplant patients, it previously was never seen in patients under 60.
+
+Hence it was inferred that these patients had some kind of immunodeficiency. Studies showed 50% had only KS, 40% had only PCP. 75% were in California or New York.
+
+P2-3. [frq, 2 pt] What are diseases like PCP, KS, and invasive candidia called which usually occur only in patients with immunodeficiency or late-stage cancer?
+
+P2-4. [frq, 6 pt] Differentiate between a case study, a case series, a retrospective cohort study, a case control study, a cross-sectional study, and a meta-analysis.
+
+P2-5. [frq, 4 pt] CDC director Dr. Foege orders you to set up a task force to investigate these outbreaks of rare infections. Create a working likely case definition for a suspected case of this immunodeficiency using the above information.
+
+P2-6. [frq, 3 pt] Reviewing findings, all but one case are in men, almost all homosexual. When applying the case definition to assorted cases and dating them back to the onset of symptoms (which go as early as 1978), a group publishes the epi curve below. What type of epi curve does it appear to be, and what does that suggest? (yes that’s the actual epi curve)
+    [IMAGE: ../images/2018_captain_s_exchange_c__p6_fa9db5-6cbe28be.webp]
+
+[STIMULUS] As the investigation progresses, doctors note that the case definition had a significant lack of sensitivity. While the deadly infections like KS and PCP were included in the case definition, doctors also noted a seemingly related rise of certain types of other cancers and conditions among men who had sex with men. One prominent finding was generalized swollen lymph nodes (swollen glands), which suddenly began presenting in many gay men. It had previously been noted that one third of men with KS had previously had swollen lymph nodes for years prior. Hence the case definition might include only the tip of the iceberg for patients with this unknown disease.
+
+In 1982 there was a massive study to determine the route of transmission of KS and PCP in homosexual men.
+
+P2-7. [frq, 2 pt] Given the table to the right, mathematically define sensitivity, specificity, positive predictive value, and negative predictive value.
+    [IMAGE: ../images/2018_captain_s_exchange_c__p7_b6f7a0-30496a99.webp]
+
+P2-8. [frq, 1 pt] With constant specificity and sensitivity, will an increase in the positive rate (increased prevalence) result in an increase, decrease, or have no effect on positive predictive value?
+
+P2-9. [frq, 4 pt] Differentiate the key difference between a case control study and a retrospective cohort study, and give a pro and a con for each.
+
+[STIMULUS] 50 men with KS and/or PCP were found, along with 120 matched homosexual men without illness (grouped into either clinic or private controls based on how they were matched). Based on questioning, the tables (on the next page) were established. These are the real tables. For all calculations, note that the values are percentages, and that due to differences between the two types of controls you are permitted to do calculations based on only clinic rather than private controls.
+
+P2-10. [frq, 2 pt] Is this a case control or cohort study? Why was this study type chosen?
+
+P2-11. [frq, 3 pt] There are several determinants in the tables with a significant impact on contracting the KS and PCP. Name one previous illness based on the table that is much more common among patients with KS and PCP compared to both clinic and private controls. Also name one street drug much more common among the KS and PCP patients than the controls, and additionally one sexual activity.
+
+P2-12. [frq, 1 pt] For each of your responses in question 11, calculate the appropriate measure of risk for this study. Also calculate the risk for median male sex partners per year if not already included. Interpret the results, and use this to explain why PCP and KS is likely spread by sexual transmission (but mention potential confounds). In your explanation, it may help to calculate the risk measure for feces exposure score to show that the disease is transmitted by semen, not feces.
+    [IMAGE: ../images/2018_captain_s_exchange_c__p9_c4b368-18c8ef9d.webp]
+    [IMAGE: ../images/2018_captain_s_exchange_c__p9_bbc8bb-b91911b7.webp]
+
+P2-13. [frq, 2 pt] In a couple sentences design a simple epidemiological study to collect further evidence that the disease is sexually transmitted. Think about the pattern of who infection spreads to in an STI.
+
+P2-14. [frq, 1 pt] Give the formula for prevalence in terms of incidence and average disease duration, and explain why it would be difficult in this case to use the formula to estimate the duration of the disease.
+
+[STIMULUS] There’s a new panic. Dr. Lawrence is on the phone. Three otherwise healthy male hemophiliacs (those with insufficient clotting factors, leading to bleeding disorders… they need to frequently transfer blood from other people into their own body) who do not report having sex with men have died of PCP with evidence of immunosuppression.
+
+P2-15. [frq, 3 pt] What new route of transmission does this suggest for the mysterious immunodeficiency disease? Is this consistent with the disease also being sexually transmitted?
+
+[STIMULUS] Over the next months of the 1982 summer, more cases of KS and PCP with an unidentifiable cause of immunosuppression were seen in hemophiliacs, female sex partners of homosexual men, intravenous (injection) drug users who shared needles, and infants. The public, who previously dismissed the disease as a 'gay plague' now has become terrified. The disease officially adopts the name AIDS, and through patterns of infection it is now clear that AIDS is caused by some form of infectious agent. In fear and due to hateful beliefs people had (and have) about gay men and injection drug users, and because the full scope of how the disease could be spread had not been elucidated (people thought that touching could spread disease), a massive stigma (prejudice) developed against people who had or were at risk for AIDS. Furthermore, Haitian immigrants with no known AIDS risk factors had a high prevalence of AIDS. Four high risk groups for AIDS were labeled as the four Hs (homosexual men, heroin addicts, hemophiliacs, and Haitians). The resulting stigma against Haitians would cause diplomacy problems a decade later. Note that in 1983, the virus responsible for AIDS was isolated, and a test was rapidly developed. The test showed that usually those infected with the AIDS virus took around 8 years to progress to AIDS, and that by the time of the first case reports of AIDS, around 200,000 gay men had already been infected.
+
+P2-17. [frq, 1 pt] What does AIDS stand for? What virus was isolated as the causative agent of AIDS? For a bonus point, give one or both of the names the virus was originally called before it adopted its current name.
+
+[STIMULUS] In 1986, investigators set out to prove that the AIDS virus could not be spread by casual household contact. They recruited 101 household nonsexual contacts of AIDS infected patients, and compared the rate of AIDS (established by testing) among the contacts to the rate of AIDS among the general population. They found that the rate of AIDS was the same between the two groups.
+
+P2-18. [frq, 1 pt] What type of study is this? Be as specific as possible.
+
+P2-19. [frq, 2 pt] 45% of households declined to take part in the study, creating potential bias. What specific type of bias is this called?
+
+[STIMULUS] Further studies show that kissing does not spread AIDS, although casual blood exposure in extremely rare cases might, but this was uncertain because AIDS could have been transmitted to the child at birth by breast milk. Also AIDS was shown to transmit only extremely rarely when condoms were adhered to between sexual partners. You are tasked with slowing the spreading epidemic.
+
+P2-20. [frq, 1 pt] What is transmission of disease from a mother to a child around birth called?
+
+P2-21. [frq, 4 pt] Create a new case definition for both a confirmed and a suspected AIDS patient.
+
+P2-22. [frq, 6 pt] What are the six components of the chain of infection, and what is one example of each for AIDS?
+
+P2-23. [frq, 4 pt] Propose two links of the chain of infection where you could limit the spread of the disease, and explain how you would do so for each.
+
+[STIMULUS] In 1987 a community in southern Florida noticed it had a significantly higher than expected rate of AIDS for its population size. This outbreak/cluster of cases was suggested by some physicians to be linked to arthropods (like mosquitoes). This linkage was eventually disproven.
+
+P2-24. [frq, 2 pt] Differentiate between an outbreak and a cluster.
+
+P2-25. [frq, 2 pt] What is an arthropod called if it transmits a pathogen between humans but is not infected in itself?
+
+P2-26. [frq, 6 pt] Construct one or a group of analytic epidemiological study(ies) with a type and design of your choosing to show that it is unlikely that arthropods were responsible for the outbreak of AIDS in the Florida community. Remember that to convince people, you must show both that the current pattern of AIDS infection in the community is consistent with the expected distribution of AIDS in the absence of arthropods, and also that there is no evidence of arthropods spreading AIDS. It may (but not necessarily… there are other ways of doing this) be helpful to use in the design of your study that arthropods in Florida were known to transmit other diseases like Dengue fever, and also that arthropod bites generally temporarily leave visible, itchy bites.

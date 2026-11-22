@@ -1,0 +1,331 @@
+MIT — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  79 questions, 233.0 pts
+Source: scio.ly test archive id 9fa108b6-c7af-482d-b0f9-becbcf8ca747  |  original files: https://drive.google.com/drive/folders/1nQbWC0877Konsazplk7FLqisjTxXlNyW
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Please remember to record all answers on your answer sheet. No penalty for guessing. Significant figures are not required. Units and work are required for all calculation questions. One 8.5x11" resource sheet is permitted per team. 2 non-programmable, non-graphing calculators are permitted. You may take the test packet apart to work on sections separately. Please make sure to get the exam in the correct order and stapled when the time ends.
+
+1. [frq, 3 pt] To start things off, identify the three components of the traditional “epidemiological triad” in the following sentence:
+    
+    *The unfortunate Calvin contracted gastroenteritis after consuming undercooked beef contaminated with E.coli.*
+
+[STIMULUS] Researchers have noticed that the prevalence of the deadly Panda Hemorrhagic Fever (PHF) is lower in the town of Croston, Texas (population: 32,000) than in other similarly sized towns in the state in 2016. PHF is known to cause flu-like symptoms when the patient is first infected. It then exists as a latent infection for up to 6 years before becoming reactivated and causing acute illness, hemorrhagic shock, and even death within 2 weeks. The average disease course (from time of suspected exposure to disease end point) has been reported as 2.5 years.
+
+3a. [frq, 5 pt] Suggest FIVE (5) factors which may decrease the prevalence of PHF in Croston.
+
+3b. [frq, 3 pt] Suppose the incidence of PHF in Croston is found to be 100 cases/year, with the highest incidence of new cases occurring in the months of December-March. What is the best estimate of prevalence of PHF per 10,000 people in Croston?
+
+3c. [frq, 2 pt] The public health department of Croston would like to identify asymptomatic individuals who are infected with PHF and treat them with Bamboolazine, a drug shown to reduce the severity of the reactivated acute phase of PHF. What level of prevention does this intervention represent?
+
+3d. [frq, 4 pt] Identify TWO (2) challenges to identifying patients infected with PHF.
+
+3e. [frq, 6 pt] Bamboolazine is a medication which must be taken by the patient for the rest of their lives to prevent reactivation of PHF. Unfortunately, it can have a side effect of causing painful muscle aches. Identify THREE (3) challenges treatment with Bamboolazine presents to the public health department and health providers of Croston.
+
+[STIMULUS] The following graphic was included in a meta-analysis investigating the relative risk of cleft palate in the children of mothers who smoked during pregnancy compared with the children of mothers who did not smoke during pregnancy:
+    [IMAGE: ../images/2017_mit_c__d_b996c2-d52e0008.webp]
+
+4a. [frq, 3 pt] What is the purpose of a meta-analysis in epidemiology?
+
+4b. [frq, 2 pt] Are all studies in the graphic above considered to be of equal contribution to the conclusions of this meta-analysis?
+
+4c. [frq, 2 pt] What did the authors of the “Shiono 1986 (a)” study likely conclude about the risk of having a child born with cleft palate based on the mother’s smoking status during pregnancy?
+
+4d. [frq, 2 pt] What did the authors of the “Kallen 1997” study likely conclude about the risk of having a child born with cleft palate based on the mother’s smoking status during pregnancy?
+
+4e. [frq, 2 pt] Based on the meta-analysis data, what can you conclude about the risk of having a child born with cleft palate based on the mother’s smoking status during pregnancy?
+
+4f. [frq, 2 pt] Based on the meta-analysis data, what can you conclude about the risk of having a child born with cleft palate if the mother stopped smoking at least several years before becoming pregnant?
+
+[STIMULUS] Indicate whether the following statement is TRUE or FALSE. If you believe the statement to be false, provide corrections or an explanation to the statement.
+
+5a. [tf, 2 pt] Prospective cohort studies can establish causation if performed with sufficient sample size and risk stratification because the disease outcome is unknown at the start of the study.
+    A) True
+    B) False
+
+5b. [tf, 2 pt] True or False: Matching of patients in a case-control study is used to reduce the likelihood of having cofounding variables which could affect the conclusions of the study.
+    A) True
+    B) False
+
+5c. [tf, 2 pt] True or False: In a normal distribution, 95% of the population are assumed to fall within 1 standard deviation of the population mean – the basis of 95% confidence intervals.
+    A) True
+    B) False
+
+5d. [tf, 2 pt] True or False: The denominator for the calculation of incidence is the population at risk, while the denominator for the calculation of prevalence is the entire population.
+    A) True
+    B) False
+
+5e. [tf, 2 pt] True or False: The power of a study does not increase when the sample size is increased.
+    A) True
+    B) False
+
+5f. [tf, 2 pt] True or False: The infective dose of an agent represents the amount required to cause infection in susceptible hosts.
+    A) True
+    B) False
+
+5g. [tf, 2 pt] True or False: The incubation time represents the lag between exposure and onset of symptoms.
+    A) True
+    B) False
+
+5h. [tf, 2 pt] True or False: Short-distance droplet spread of pathogens (such as via coughing, sneezing) represents a form of indirect transmission.
+    A) True
+    B) False
+
+5i. [tf, 2 pt] True or False: Attenuation of an infectious agent for use in a vaccine (such as passing the agent through a succession of non-human hosts) reduces the virulence of the agent.
+    A) True
+    B) False
+
+6. [frq, 3 pt] What kind of relationship is illustrated by the chart below?
+    [IMAGE: ../images/2017_mit_c__d_455889-f52cadc4.webp]
+
+[STIMULUS] Please reference article A, “*Campylobacter jejuni* Infections Associated with Raw Milk Consumption – Utah, 2014” to answer the following questions:
+
+7a. [frq, 3 pt] What was the likely “Probable” case definition used by the investigators of this outbreak?
+
+7b. [frq, 6 pt] Provide THREE (3) reasons for the inclusion of patients who did not directly report raw milk consumption in this study.
+
+7c. [frq, 3 pt] How does a diagram such as Figure 1 aid in a foodborne illness outbreak investigation?
+    [IMAGE: ../images/2017_mit_c__d_fbf7e7-b184e195.webp]
+    [IMAGE: ../images/2017_mit_c__d_700a96-b2660f2d.webp]
+
+7d. [frq, 8 pt] List FOUR (4) reasons which may have caused a case of Campylobacter infection related to consumption of milk products from Dairy A to be missed in this outbreak investigation.
+
+7e. [frq, 1 pt] What common method was used to display data of the outbreak in Figure 2?
+    [IMAGE: ../images/2017_mit_c__d_fbf7e7-b184e195.webp]
+    [IMAGE: ../images/2017_mit_c__d_700a96-b2660f2d.webp]
+
+7f. [frq, 2 pt] What type of outbreak pattern is suggested by the display of data in Figure 2?
+    [IMAGE: ../images/2017_mit_c__d_fbf7e7-b184e195.webp]
+    [IMAGE: ../images/2017_mit_c__d_700a96-b2660f2d.webp]
+
+7g. [frq, 3 pt] Why were there additional cases reported in August following the suspension of Dairy A’s permit to sell raw milk?
+
+7h. [frq, 2 pt] What was the hospitalization rate among cases in this outbreak? (Hint: use the information from paragraph 3!)
+
+7i. [frq, 3 pt] From a public health standpoint, what does a high hospitalization rate from an outbreak suggest?
+
+8a. [frq, 3 pt] For EACH of the following categories of disease-causing agents, provide THREE (3) examples.
+    
+    Biological
+
+8b. [frq, 3 pt] For EACH of the following categories of disease-causing agents, provide THREE (3) examples.
+    
+    Chemical
+
+8c. [frq, 3 pt] For EACH of the following categories of disease-causing agents, provide THREE (3) examples.
+    
+    Physical
+
+8d. [frq, 3 pt] For EACH of the following categories of disease-causing agents, provide THREE (3) examples.
+    
+    Nutritional
+
+[STIMULUS] Please reference article B, “Infection with Pathogens Transmitted Commonly Through Food…” to answer the following questions:
+
+9a. [frq, 3 pt] What is the purpose of programs such as FoodNet?
+
+9b. [frq, 2 pt] What kinds of things does a CIDT detect in a stool specimen in order to confirm the presence of an infectious organism?
+
+9c. [numeric, 3 pt] Suppose the city of Walker, Texas (population: 565,000) has similar incidence of infection as reported by FoodNet for 2015. FoodNet identified 7728 “confirmed” infections overall of *Salmonella* in 2015, with an incidence of 15.89 per 100,000 population. How many cases of *Salmonella* infection are expected in Walker, Texas for 2015?
+
+9d. [frq, 6 pt] Suggest THREE (3) reasons the calculation performed in part (c) could be an inaccurate prediction of total cases of *Salmonella* infection in Walker, Texas for 2015.
+
+9e. [frq, 3 pt] The article reports that “Compared with incidence in 2012–2014, the 2015 incidence of confirmed infections was significantly higher for STEC non-O157 (40% increase; CI = 21%–62%).”
+    
+    Suppose the true incidence of STEC non-O157 infections in 2015 was actually unchanged compared to the 2012-2014 period. How might the increased use of CIDTs have led to the increase in reported incidence of STEC?
+
+9f. [frq, 3 pt] Suppose the CIDT being used for *Shigella* has a high rate of false positives. If the use of this CIDT for *Shigella* continues to increase, how might the incidence of confirmed cases of ALL foodborne illnesses change?
+
+[STIMULUS] Prentice Pharmaceuticals has recently developed Orcastatin, a new LDL cholesterol-lowering drug. The company wishes to determine whether Orcastatin is superior to other cholesterol-lowering drugs on the market. Researchers at the company perform a double-blinded, randomized controlled trial (RCT) of 1000 patients with atherosclerosis, 500 are given daily Orcastatin and 500 are given daily atorvastatin (Lipitor). The group receiving atorvastatin is designated the control group and represents standard clinical practice (atorvastatin is known to lower LDL and thus risk of cardiovascular disease). The patients’ LDL cholesterol is measured at the beginning of the clinical trial and then one year later to determine the change in LDL cholesterol.
+
+10a. [frq, 4 pt] Which groups are blinded regarding the treatment groups in this double-blinded RCT?
+
+10b. [frq, 5 pt] Suggest FIVE (5) patient characteristics which could be matched across the two treatment groups in order to enhance validity of the study.
+
+10c. [frq, 3 pt] Why did the control group in this study still received a known cholesterol-lowering drug instead of placebo treatment?
+
+10d. [frq, 2 pt] State the null hypothesis regarding the superior effectiveness of Orcastatin in lowering LDL cholesterol compared to atorvastatin.
+
+10e. [frq, 2 pt] State the alternative hypothesis regarding the superior effectiveness of Orcastatin in lowering LDL cholesterol.
+
+[STIMULUS] The following table indicates the number of cases that were reported every 2 days during an outbreak of an unknown disease in a small community. No cases were reported before 2/1 or after 2/28.
+    | Date | 2/1 | 2/3 | 2/5 | 2/7 | 2/9 | 2/11 | 2/13 | 2/15 | 2/17 | 2/19 | 2/21 |
+    | # new cases | 0 | 4 | 5 | 0 | 0 | 0 | 10 | 14 | 0 | 0 | 0 |
+
+11b. [frq, 2 pt] What type of outbreak do these data most likely represent?
+
+11c. [frq, 2 pt] What kind of agent is implicated in this type of outbreak?
+
+11f. [frq, 2 pt] Suggest an explanation as to why no cases were reported after 2/28.
+
+[STIMULUS] Match the following possible sources of error with their descriptions below. Choices will be used once or not at all.
+
+a. Attrition bias
+b. Late-look bias
+c. Confounding
+d. Selection bias
+e. Recall bias
+f. Healthy worker effect
+g. Lead time bias
+h. Self-selection bias
+i. Procedure bias
+
+12a. [mcq, 2 pt] Which source of error matches this description? Mothers of children born with congenital defects report risky behavior during pregnancy at a greater rate than mothers of healthy children.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12b. [mcq, 2 pt] Which source of error matches this description? Many patients in a 10-year cohort study investigating smoking and systemic lupus erythematosus are lost to follow-up after 6 years.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12c. [mcq, 2 pt] Which source of error matches this description? A case-control study is performed on a disease where half of those affected die within 2 weeks, while the other half have an average survival of 8 years. Most patients included in the study are those who survive beyond 2 weeks.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12d. [mcq, 2 pt] Which source of error matches this description? The patients who sign up for a study on Irritable Bowel Syndrome (IBS) have more severe IBS and are more motivated about seeking new treatment.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12e. [mcq, 2 pt] Which source of error matches this description? A surgeon is convinced that technique A is superior for repairing carpal tunnel syndrome compared to technique B. He participates in a study comparing techniques A and B, but is more meticulous about performing surgeries using technique A during the study.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12f. [mcq, 2 pt] Which source of error matches this description? The youngest children in families with more children are found to have greater prevalence of Edward’s syndrome, and researchers report this link between multiparity (multiple pregnancies) with Edward’s syndrome. In truth, advanced maternal age (older mothers) is what increases the risk of having a child with Edward’s syndrome.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12g. [mcq, 2 pt] Which source of error matches this description? Patients whose prostate cancer is detected via routine screening seem to have longer survival compared to patients whose prostate cancer is detected when they begin having symptoms. In fact, survival is similar regardless of detection method, but screening allows earlier detection (but without improved overall survival).
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+12h. [mcq, 2 pt] Which source of error matches this description? Workers at a dog shelter are found to have better cardiovascular fitness than those who are not working due to disability. Researchers conclude that that everyone should work at the dog shelter to improve cardiovascular outcomes.
+    A) Attrition bias
+    B) Late-look bias
+    C) Confounding
+    D) Selection bias
+    E) Recall bias
+    F) Healthy worker effect
+    G) Lead time bias
+    H) Self-selection bias
+    I) Procedure bias
+
+[STIMULUS] Please reference article C, “Description of 13 Infants Born During October 2015–January 2016 With Congenital Zika Virus Infection Without Microcephaly at Birth — Brazil” to answer the following questions:
+
+13a. [frq, 2 pt] What type of epidemiological study was performed?
+
+13b. [frq, 4 pt] Give TWO (2) advantages of this type of study.
+
+13c. [frq, 4 pt] Give TWO (2) disadvantages of this type of study.
+
+13d. [frq, 2 pt] What mode of transmission causes congenital Zika infection?
+
+13e. [frq, 3 pt] The babies included in this study were not classified as having microcephaly at birth. How were they identified for further testing regarding congenital Zika infection?
+
+13f. [frq, 9 pt] Based on this report, recommend THREE (3) public health interventions that may reduce the morbidity and mortality in babies whose mothers with suspected exposure to Zika virus.
+
+13g. [frq, 1 pt] Suppose the definition of microcephaly were expanded to include infants who were 1.5 or more standard deviations below the mean for head size. Would the incidence of microcephaly increase, decrease, or remain unchanged?
+
+13h. [frq, 3 pt] Why is it likely that the most severe effects of an emerging disease are identified first, such as microcephaly and Zika?
+
+[STIMULUS] A medical student identifies 60 patients with peripheral arterial disease (PAD) and 120 patients without PAD in the hospital. He interviews the patients and consults their medical records regarding some common exposures. Assume all patients answered questions about all the exposures. He reports the following data:
+    | Exposure | Patients with PAD | Patients without PAD |
+    | Family history of cardiovascular disease | 40 | 70 |
+    | Coronary artery disease | 55 | 70 |
+    | Smoking | 45 | 35 |
+    | Metabolic syndrome | 15 | 20 |
+    | Diabetes Mellitus | 20 | 30 |
+    | Female | 20 | 80 |
+
+14a. [frq, 2 pt] What kind of study did the medical student perform?
+
+14b. [frq, 2 pt] Can incidence and/or prevalence be determined in this kind of study? Why?
+
+14c. [frq, 2 pt] What is the most appropriate measure of disease risk to calculate for the exposures investigated in this study?
+
+14d. [frq, 12 pt] Calculate the measure of disease risk you identified in (c) for each of the listed exposures. Please show work for an example calculation.
+
+14e. [frq, 3 pt] Interpret your results. Which of the exposures has the strongest association with patients who have PAD?
+
+14f. [frq, 3 pt] Name ONE (1) disadvantage of including only hospitalized patients in this study.
+
+14g. [numeric, 5 pt] How many male patients in this study have PAD?
+
+[STIMULUS] A researcher develops the OST, a new screening test for osteoporosis. He compares his new test in patients who also were screened for osteoporosis using the "gold standard" test, the DEXA scan. The data is shown below.
+
+| | Positive OST | Negative OST |
+|---|---|---|
+| Positive DEXA | 100 | 20 |
+| Negative DEXA | 10 | 500 |
+
+15a-i. [frq, 3 pt] Calculate the sensitivity for OST. Don't forget to show work!
+
+15a-ii. [frq, 3 pt] Calculate the specificity for OST. Don't forget to show work!
+
+15b-i. [mcq, 2 pt] Suppose the researcher now tries out the OST in patients at high risk for osteoporosis due to family history. How will the sensitivity be affected?
+    A) Increase
+    B) Decrease
+    C) Remain unchanged
+
+15b-ii. [mcq, 2 pt] Suppose the researcher now tries out the OST in patients at high risk for osteoporosis due to family history. How will the specificity be affected?
+    A) Increase
+    B) Decrease
+    C) Remain unchanged
+
+15b-iii. [mcq, 2 pt] Suppose the researcher now tries out the OST in patients at high risk for osteoporosis due to family history. How will the Positive Predictive Value (PPV) be affected?
+    A) Increase
+    B) Decrease
+    C) Remain unchanged
+
+15b-iv. [mcq, 2 pt] Suppose the researcher now tries out the OST in patients at high risk for osteoporosis due to family history. How will the Negative Predictive Value (NPV) be affected?
+    A) Increase
+    B) Decrease
+    C) Remain unchanged
+
+15c. [frq, 4 pt] Suppose DEXA is significantly more expensive than OST. Identify ONE reason to start screening people with OST instead of DEXA, and ONE reason to continue using DEXA.

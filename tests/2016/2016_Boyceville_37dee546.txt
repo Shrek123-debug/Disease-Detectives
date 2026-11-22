@@ -1,0 +1,283 @@
+Boyceville — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  46 questions, 70.0 pts
+Source: scio.ly test archive id 37dee546-6407-4325-b432-90156e31a68f  |  original files: https://drive.google.com/drive/folders/1NXzk2TkLbz6jXlEnySD_Wj8GIeSonN2N
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Part 1: Matching ===
+
+[STIMULUS] **Please match each word with its correct definition (Use capital letters)**
+
+a. invasion of the body by pathogenic agents
+b. a sudden occurrence of disease in two or more people during a specified period of time
+c. sign or evidence of infection or disease
+d. to come in contact with an infectious agent in a way that promotes the transmission of the disease
+e. time of the appearance of the first symptoms of an illness
+f. an organism that transmits a pathogen
+g. a disease causing agent
+h. a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+i. a widespread outbreak of an infectious disease in a specific community
+j. a substance that causes an effect
+
+1. [mcq, 2 pt] Match the term to its correct definition: Epidemic
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+2. [mcq, 2 pt] Match the term to its correct definition: Incubation
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+3. [mcq, 2 pt] Match the term to its correct definition: Exposure
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+4. [mcq, 2 pt] Match the term to its correct definition: Pathogen
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+5. [mcq, 2 pt] Match the term to its correct definition: Infection
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+6. [mcq, 2 pt] Match the term to its correct definition: Pandemic
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+7. [mcq, 2 pt] Match the term to its correct definition: Outbreak
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+8. [mcq, 2 pt] Match the term to its correct definition: Agent
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+9. [mcq, 2 pt] Match the term to its correct definition: Vector
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+10. [mcq, 2 pt] Match the term to its correct definition: Symptom
+    A) invasion of the body by pathogenic agents
+    B) a sudden occurrence of disease in two or more people during a specified period of time
+    C) sign or evidence of infection or disease
+    D) to come in contact with an infectious agent in a way that promotes the transmission of the disease
+    E) time of the appearance of the first symptoms of an illness
+    F) an organism that transmits a pathogen
+    G) a disease causing agent
+    H) a disease that occurs over a wide geographic area and affects an exceptionally high number of people
+    I) a widespread outbreak of an infectious disease in a specific community
+    J) a substance that causes an effect
+
+[STIMULUS] Indicate if the following diseases are caused by a Bacterium (B), Fungus (F), Protozoan (P) or Virus (V)
+
+11. [mcq, 1 pt] Cholera
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+12. [mcq, 1 pt] Polio
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+13. [mcq, 1 pt] Small Pox
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+14. [mcq, 1 pt] Ringworm
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+15. [mcq, 1 pt] Tuberculosis
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+16. [mcq, 1 pt] Ebola
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+17. [mcq, 1 pt] Malaria
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+18. [mcq, 1 pt] Toxoplasmosis
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+19. [mcq, 1 pt] Candidiasis
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+20. [mcq, 1 pt] Measles
+    A) Bacterium
+    B) Fungus
+    C) Protozoan
+    D) Virus
+
+
+=== Part 2: Fill in the Blank or Short Answer ===
+
+21. [frq, 3 pt] Name the **3** types of outbreaks characterized by using Epidemic (Epi) curves?
+    a. ____
+    b. ____
+    c. ____
+
+22. [frq, 1 pt] A ____ is a person or animal without apparent symptoms of a disease but harbors and infectious agent and can transmit it to others.
+
+23. [frq, 1 pt] What is required for both a cohort and a case – control study?
+
+24. [frq, 3 pt] What are the **3** types of case definitions which help in identifying specific cases?
+    a. ____
+    b. ____
+    c. ____
+
+25. [frq, 3 pt] What are the **3** pieces of data used to characterize the outbreak of a disease?
+    a. ____
+    b. ____
+    c. ____
+
+26. [frq, 1 pt] Define the term “indirect transmission.”
+
+27. [frq, 3 pt] What are the **3** components of the Epidemiological Triad?
+    a. ____
+    b. ____
+    c. ____
+
+28. [frq, 1 pt] A ____ is a nonliving object that can be used in the transmission of disease.
+
+29. [frq, 1 pt] Any disease of animals that is communicable to humans is called ____.
+
+30. [frq, 1 pt] The systematic, collection, analysis and interpretation of health data by doctors and health officials to gain knowledge of disease occurrence in communities is called ____ ____.
+
+31. [frq, 4 pt] Name the 4 components of the components/criteria of a case definition?
+    a. ____
+    b. ____
+    c. ____
+    d. ____
+
+32. [frq, 1 pt] Explain what the formula for “relative risk” is used for.
+
+33. [frq, 1 pt] Explain what the formula for “odds ratio” is used for.
+
+34. [frq, 1 pt] A ____ is an aggregation of cases over a particular period. Often the expected number of cases is not known?
+
+35. [frq, 1 pt] A ____ ____ is a chart of specific cases including information about each case.
+
+36. [numeric, 1 pt] How many steps are there in Outbreak Investigation? ____.
+
+
+=== Part 3: Statistical Analysis ===
+
+[STIMULUS] *Examine the following list of numbers:* **10, 18, 54, 28, 72, 86, 34, 14, 46, 60**
+
+37. [numeric, 1 pt] Calculate the **mean** from the list of numbers above.
+
+38. [numeric, 1 pt] Calculate the **median** from the list of numbers above.
+
+39. [numeric, 1 pt] Calculate the **mode** from the list of numbers above.
+
+
+=== Part 4: Case Study: Analyze the given Epi curve and answer the questions ===
+
+[STIMULUS] Analyze the given Epi curve and answer the questions.
+    [IMAGE: ../images/2016_boyceville_c__d_e1e84e-3e65af3a.webp]
+
+40. [frq, 2 pt] What type of Epi curve is this and why?
+
+41. [frq, 1 pt] What is the date of onset for the first case?
+
+42. [frq, 1 pt] Using the Epi curve, estimate the first incubation period?
+
+43. [numeric, 1 pt] What is the peak number of cases for this outbreak?
+
+44. [numeric, 1 pt] What is the peak number of cases for the first wave of this outbreak?
+
+45. [frq, 2 pt] Explain why there were more cases in the second wave of this outbreak than the first?
+
+46. [frq, 2 pt] Explain why the number of cases decreased drastically in the third wave of this outbreak?

@@ -1,0 +1,49 @@
+Rice — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  8 questions, 68.0 pts
+Source: scio.ly test archive id 47a39789-a64d-44b4-bf90-5b77e7eaba83  |  original files: https://drive.google.com/drive/folders/1NUBjwjO4NpwRqHwFeLBkoccBl10WyDdM
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Answer all questions to the best of your ability. Show all of your work. Round all numbers to 3 decimal points. Certain questions will be used as tiebreakers in the case of equal scores.
+
+
+=== Outbreak 1 ===
+
+[STIMULUS] A 3 day convention with 1000 attendees reported 254 incidents of people with digestion issues, with some attendees reporting bloody diarrhea, abdominal cramps, and fever. These symptoms were reported to occur at various points up to, but not after, the week after the beginning of the conference. The symptoms lasted as short as a few hours to as long as 48 hours. Many of these incidents were self-reported, and only 10 attendees were confirmed as being admitted to the hospital for their symptoms after the conference. Of the 1000, roughly half attendees ate food provided by restaurants in the conference hall, including the 10 hospitalized attendees. Table 1 lists the self-reported dates of when any digestion issues first appeared.
+
+| Day | Reported number of illnesses |
+|---|---|
+| 1 (start of conference) | 0 |
+| 2 | 0 |
+| 3 (end of conference) | 3 |
+| 4 | 20 |
+| 5 | 76 |
+| 6 | 90 |
+| 7 | 60 |
+| 8 | 5 |
+| 9 | 0 |
+
+P1-1. [frq, 10 pt] Calculate the overall incidence rate for the attendees that self-reported symptoms at the convention, and the incidence rate of those that self-reported symptoms and ate food provided in the conference hall.
+
+P1-2. [frq, 5 pt] Does this indicate that the incidence of stomach issues is correlated to attendees having eaten at the conference hall?
+
+P1-3. [frq, 5 pt] Does this report indicate an epidemic?
+
+P1-5. [frq, 8 pt] Based upon your EPI curve and the symptoms listed, name one foodborne pathogen that could be expected to cause this kind of outbreak. Name one foodborne pathogen that could not cause this kind of EPI curve. Provide one sentence of reasoning for each.
+
+P1-6. [frq, 10 pt] Could this data have any kind of bias based upon the way it was collected or analyzed? If a bias is present, how could you account for it?
+
+
+=== Outbreak 2 ===
+
+[STIMULUS] A food distributor undergoing standard food screening found evidence of a new pathogenic strain of *E. coli* contamination in their products. They distribute 3 kinds of products, chicken, ground beef, and mushrooms to 3 restaurants in the area. These restaurants do not have high health inspection ratings, and they all use each ingredient in dishes separate of the other (i.e. any chicken dish does not have ground beef or mushrooms). They all reported complaints of severe diarrhea and abdominal pain. Table 2 breaks down the number of dishes served by each restaurant during the period they would be serving possibly contaminated food, what was the main ingredient of that dish, the number of the dish that were consumed with no reported digestive issues (No illness column), and the number of people who self-reported **any** digestive issues, ranging from discomfort and cramps to diarrhea and vomiting. Assume a 100% exposure rate if a restaurant or food type is contaminated with *E. coli*.
+
+| Type of dish | Restaurant A No illness | Restaurant A Sick | Restaurant B No illness | Restaurant B Sick | Restaurant C No illness | Restaurant C Sick |
+|---|---|---|---|---|---|---|
+| Chicken | 164 | 4 | 102 | 13 | 152 | 1 |
+| Ground Beef | 190 | 97 | 87 | 66 | 23 | 18 |
+| Mushroom | 56 | 3 | 172 | 22 | 98 | 6 |
+
+P2-1. [frq, 5 pt] First you plan to investigate certain populations, such as everyone who consumed food from the mushroom source. Calculate the attack rate of illnesses across the 3 restaurants of customers who ate mushroom dishes.
+
+P2-2. [frq, 10 pt] It is also possible that one restaurant may be harboring the bacteria, instead of the distributor. What is the relative risk of eating at restaurant B vs. restaurant C?
+
+P2-4. [frq, 15 pt] List 3 ways a food distributor, restaurant, or any other relevant group can reduce the risk of possible food contamination by foodborne pathogens.

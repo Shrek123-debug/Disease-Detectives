@@ -1,0 +1,168 @@
+Aviation — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  37 questions, 100.0 pts
+Source: scio.ly test archive id 7820e75d-f16f-40d1-a3b8-a7dd96fa5547  |  original files: https://drive.google.com/drive/folders/1HsG4X4BC16ysV2BvP6sbMXIhy2_3aVyf
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: The only acceptable mathematical answers are decimals. No percents or fractions will be graded. Round all answers to the thousandths, unless otherwise indicated. Restaple your test if you unstaple it. A scratch page/box is given at the back of the test. Be sure to your mathematical answers. Ties will be broken by the sum of questions marked [TB], followed by the score on the following sections: Vocab, Multiple Choice.
+
+
+=== Basic Topics: Multiple Choice ===
+
+1. [mcq, 1 pt] Which of the following are one of the top 10 leading causes of death? (CDC)
+    A) Diabetes
+    B) Alzheimer’s disease
+    C) A and B
+    D) None of the above
+
+2. [mcq, 1 pt] Which is the closest to the average life expectancy in years in the United States? (CDC)
+    A) 70
+    B) 75
+    C) 80
+    D) 85
+
+3. [mcq, 1 pt] Approximately how many infant deaths were there in the United States in 2013? (CDC)
+    A) 4,750
+    B) 3,800
+    C) 2,250
+    D) 5,125
+
+4. [mcq, 1 pt] Malaria is caused by which of the following?
+    A) Virus
+    B) Protozoan
+    C) Prion
+    D) Parasite
+
+5. [mcq, 1 pt] “Whooping cough” is caused by which species?
+    A) Bronchiseptica pertussis
+    B) Varicella zoster
+    C) Bordetella pertussis
+    D) Variola major
+
+6. [mcq, 1 pt] Approximately what percent of men 18 years and over currently smoke cigarettes?
+    A) 25%
+    B) 20%
+    C) 15%
+    D) 10%
+
+7. [mcq, 1 pt] Which is Step 3 of the 10 Steps of an Outbreak Investigation?
+    A) Verify the Diagnosis
+    B) Define and Identify Cases
+    C) Develop Hypothesis
+    D) Prepare for Fieldwork
+
+9. [mcq, 1 pt] Which of the following is the smallest public health event?
+    A) Outbreak
+    B) Epidemic
+    C) Cluster
+    D) Pandemic
+
+10. [mcq, 1 pt] Which definition best describes a confirmed case?
+    A) Have diagnosis with case definition and lab verification.
+    B) Many factors point to diagnosis, but no lab verification.
+    C) Some factors point to diagnosis.
+    D) The child’s mom thinks they are sick.
+
+
+=== Vocabulary ===
+
+[STIMULUS] Use the following word bank to answer the questions below.
+Not all terms listed may be used, but no word is used twice.
+
+a. case
+b. null hypothesis
+c. specificity
+d. case definition
+e. herd immunity
+f. sensitivity
+g. demographic information
+h. passive immunity
+i. selectivity
+j. direct transmission
+k. outbreak
+l. vital statistics
+m. epidemic
+n. pandemic
+o. zoonoses
+
+11. [frq, 2 pt] A measure of people who are correctly identified as true negative.
+
+12. [frq, 2 pt] A measure of people who are correctly identified as true positive.
+
+13. [frq, 2 pt] Systematically collected information about, births, deaths, marriages, and divorces in a population.
+
+14. [frq, 2 pt] The occurrence of a disease within a small population.
+
+15. [frq, 2 pt] Animal diseases that can transmit to humans
+
+16. [frq, 2 pt] A population’s resistance to infection due to a high proportion of individuals who are resistant to the disease.
+
+17. [frq, 2 pt] Information such as age, sex, and race collected around single subjects in a study.
+
+18. [frq, 2 pt] A large outbreak.
+
+19. [frq, 2 pt] Immunity conferred on a child from the mother while in the womb.
+
+20. [frq, 2 pt] A public health event crossing countries or continents.
+
+[STIMULUS] Define the following terms in the context of epidemiology.
+
+21. [frq, 6 pt] Case-control study.
+
+22. [frq, 6 pt] Cohort study.
+
+23. [frq, 6 pt] Epidemiological triad (Define term and give the elements of the triad.)
+
+24. [frq, 6 pt] Association (statistics)
+
+25. [frq, 6 pt] Endemic
+
+
+=== Advanced Topics: Statistics ===
+
+[STIMULUS] For the following questions use this set of numbers:
+133 120 116 235 107 183 216 200 268 283
+
+26. [numeric, 2 pt] Calculate the mean of this dataset. Report using the correct number of significant figures.
+
+27. [numeric, 4 pt] Calculate the standard deviation. Report using the correct number of significant figures.
+
+28. [frq, 4 pt] What is the formula for sample standard deviation?
+
+29. [frq, 2 pt] You hypothesize that an outbreak of measles in California was caused by people not vaccinating their children. The p-value for your analysis is 0.002. Is this a significant result?
+
+30. [frq, 4 pt] What is the null hypothesis?
+
+
+=== Data Analysis ===
+
+[STIMULUS] The following scenarios concern teen pregnancy and associated physical and psychological risk factors.
+The questions here were inspired by data collected from:
+Fedorowicz, A. R., Hellerstedt, W. L., Schreiner, P. J., & Bolland, J. M. (2014). Associations of adolescent hopelessness and self-worth with pregnancy attempts and pregnancy desire. American Journal of Public Health, 104(8), e133-40.
+The data have been embellished.
+
+32. [frq, 4 pt] Interpret this value in context.
+
+33. [numeric, 4 pt] Participants were assessed if they were at or below the grade appropriate for their age. Calculate the risk ratio for being below age-appropriate grade level (G.L.) using the data presented below.
+    
+    | | Pregnancy attempt | No pregnancy attempt |
+    |---|---|---|
+    | Below G.L. | 112 | 928 |
+    | At G.L. | 97 | 1148 |
+
+35. [frq, 5 pt] Carefully read the following descriptions and give the formula for odds ratio using the symbols provided.
+    π Exposed, diseased
+    ρ Exposed, healthy
+    σ Not exposed, diseased
+    κ Not exposed, healthy
+
+
+=== History and Other Topics ===
+
+36. [frq, 2 pt] What disease did Dr. John Snow study?
+
+37. [frq, 2 pt] In what city did Dr. Snow do his groundbreaking epidemiological research?
+
+38. [frq, 2 pt] Which disease was used in the first smallpox vaccines?
+
+39. [frq, 4 pt] What two scientists are well-known for their early advances in inoculation?
+
+40. [frq, 2 pt] What agent was linked to the Chipotle outbreak last year?

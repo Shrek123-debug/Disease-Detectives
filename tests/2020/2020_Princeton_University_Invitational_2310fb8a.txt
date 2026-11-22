@@ -1,0 +1,141 @@
+Princeton University Invitational — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  33 questions, 74.0 pts
+Source: scio.ly test archive id 2310fb8a-d019-4c10-922a-9cec42d3bdc9  |  original files: http://bit.ly/PUSO2020TestsKeys
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+[STIMULUS] **Use the graph below to answer questions 1-6.**
+
+People infected with the outbreak strain of Salmonella Carrau, by date of illness onset
+    [IMAGE: ../images/2020_princeton_university_invitational__p1_26e421-c5afe465.webp]
+
+1. [frq, 1 pt] The graph represents what type of outbreak?
+
+2. [frq, 2 pt] How do we know that it is this kind? Give two specific reasons relating to the information presented by the graph.
+
+3. [frq, 1 pt] What does this type of graph reveal about the source of the outbreak?
+
+4. [frq, 2 pt] What is the estimated minimum incubation period and the maximum incubation period in days?
+
+5. [frq, 1 pt] Epidemiologic and traceback evidence indicated that pre-cut melon supplied by Caito Food LLC of Indianapolis, Ind. was the likely source of this multistate outbreak. What does the arrow on the graph represent?
+
+6. [frq, 1 pt] What is the network coordinated by the CDC that the public health investigators most likely used to identify the illnesses that may have been part of this outbreak? Hint: This network connects foodborne illness cases to detect outbreaks.
+
+[STIMULUS] Rank the following health determinants from the greatest influence to the least influence on population health. Rank from 1 (greatest influence) to 4 (least influence).
+    | Label | Answer |
+    | Health Behaviors Health Behaviors | [[q:7-a]] |
+    | Genes and Biology Genes and Biology | [[q:7-b]] |
+    | Medical Care Medical Care | [[q:7-c]] |
+    | Social and Societal Characteristics Social and Societal Characteristics | [[q:7-d]] |
+
+7-a. [frq, 0.5 pt] Health Behaviors
+
+7-b. [frq, 0.5 pt] Genes and Biology
+
+7-c. [frq, 0.5 pt] Medical Care
+
+7-d. [frq, 0.5 pt] Social and Societal Characteristics
+
+9. [frq, 8 pt] List Bradford Hill Criteria for verifying the cause of the health problem.
+
+[STIMULUS] Use the graph below to answer questions 10-11.
+    [IMAGE: ../images/2020_princeton_university_invitational__p3_aea5be-0a65b176.webp]
+
+10. [frq, 1 pt] The graph represents what type of outbreak?
+
+11. [frq, 1 pt] What does this kind of outbreak tell us about the type of transmission of disease?
+
+12. [frq, 2 pt] What is the primary focus AND the emphasis of the public health approach and the clinical approach?
+
+[STIMULUS] Endemic — a) epidemic that has spread over several countries and continents
+Outbreak — b) cases grouped in place and time that are suspected to be greater than the number expected (expected number may not be known)
+Epidemic — c) constant presence or usual prevalence of a disease in a population within a geographic area
+Pandemic — d) an increase in the number of cases of a disease above what is normally expected in that population in that area
+Cluster — e) increase in the number of cases of a disease but in a more limited geographic area
+
+13. [matching, 5 pt] Write the letter that corresponds the best definition for each vocabulary word.
+    - Endemic  <->  a) epidemic that has spread over several countries and continents
+    - Outbreak  <->  b) cases grouped in place and time that are suspected to be greater than the number expected (expected number may not be known)
+    - Epidemic  <->  c) constant presence or usual prevalence of a disease in a population within a geographic area
+    - Pandemic  <->  d) an increase in the number of cases of a disease above what is normally expected in that population in that area
+    - Cluster  <->  e) increase in the number of cases of a disease but in a more limited geographic area
+
+[STIMULUS] **Use the information below to answer questions 14-18.**
+
+On October 18, 2020, a conference was held at Princeton University to discuss recent discoveries and conducted research on the treatment of Malaria. The conference involved 300 professors, researchers, and experts who worked on studies related Malaria. After the conference, poke bowls were served for lunch, and each poke bowl was self-made using the ingredients that were available.
+
+A week after the conference, there were 213 reports cases of diarrhea, fever, cramps, chills, and vomiting from those who attended the conference. After surveying the patients, a conclusion was made that it is probably a food-borne epidemic. The following data was collected:
+
+| Ingredient | Disease Yes | Disease No |
+|---|---|---|
+| Salmon Exposed | 115 | 71 |
+| Salmon Unexposed | 84 | 30 |
+| Tuna Exposed | 73 | 86 |
+| Tuna Unexposed | 138 | 13 |
+| Lettuce Exposed | 198 | 24 |
+| Lettuce Unexposed | 15 | 63 |
+| Tomato Exposed | 124 | 49 |
+| Tomato Unexposed | 113 | 14 |
+| Onion Exposed | 141 | 28 |
+| Onion Unexposed | 128 | 3 |
+| Cucumber Exposed | 82 | 34 |
+| Cucumber Unexposed | 175 | 9 |
+| Sliced Mangoes Exposed | 43 | 69 |
+| Sliced Mangoes Unexposed | 177 | 11 |
+| Tofu Exposed | 51 | 48 |
+| Tofu Unexposed | 187 | 14 |
+| Soy Sauce Exposed | 134 | 39 |
+| Soy Sauce Unexposed | 120 | 7 |
+| Red Pepper Sauce Exposed | 37 | 58 |
+| Red Pepper Sauce Unexposed | 197 | 8 |
+
+14. [frq, 2 pt] Create a working case definition for this outbreak.
+
+15. [frq, 1 pt] Calculate the incidence rate. Note: decimals only accepted (no fractions).
+
+16. [frq, 20 pt] Calculate the relative risk for each ingredient. Show all work when calculating the relative risk. Note: decimals only accepted up to hundredth (no fractions).
+
+17. [frq, 2 pt] Which ingredient is most likely the cause of this disease outbreak? Explain why by supporting your answer with evidence and explanation.
+
+18. [frq, 2 pt] Based on the symptoms given in the information provided, what is most likely the disease? Give the general and scientific name.
+
+[STIMULUS] **Use the information below to answer question 21.**
+
+On October 21, 2015, the Hawaii Department of Health (HDOH) was notified of a confirmed case of dengue fever. The patient had no history of travel outside Hawaii Island (also known as the Big Island), and other family members reported having similar signs and symptoms. These consisted of sudden onset of fever, severe headaches, eye, joint, and muscle pain, and rash. On October 24, HDOH received a surveillance report of multiple persons with similar, dengue-like symptoms among a group of visitors from mainland U.S. who had traveled together on Hawaii Island. On October 27, HDOH was also notified of a person who was on Hawaii Island, without any connection to the group of visitors from mainland U.S., and had a positive dengue immunoglobulin M (IgM) test. An IgM is a type of antibody that usually appears for a limited time after infection. Detection of dengue IgM antibody test tells us that the person may have had a recent dengue virus infection.
+
+19. [frq, 1 pt] What is the definition of surveillance?
+
+20. [frq, 1 pt] What is a use of surveillance?
+
+21. [frq, 1 pt] What type of surveillance is used for dengue fever in this example?
+
+[STIMULUS] **Use the information below to answer question 22-23.**
+
+As of January 20, 2016, a total of 979 RDT tests were ordered, but only 227 were laboratory positive cases of dengue fever. HDOH was concerned about false negatives (i.e., persons who were infected, but had a negative laboratory test). HDOH asked CDC disease detectives to determine RDT validity, against the standard test used to diagnose dengue. The standard test during the first five days after onset of symptoms is a polymerase chain reaction (PCR) test. The standard test after five or more days is an enzyme-linked immunosorbent assay (ELISA) test. For the activity, please note that we will use the term "standard test" to represent the appropriate test according to onset of symptoms. HDOH sent samples from all 979 cases to CDC's Dengue Branch for testing. Results were as follows.
+
+| | Standard Test Positive | Standard Test Negative |
+|---|---|---|
+| RDT Positive | 207 | 20 |
+| RDT Negative | 13 | 739 |
+
+22. [frq, 2 pt] Calculate RDT sensitivity. Give in percentage, and round to hundredth.
+
+23. [frq, 2 pt] Calculate RDT specificity. Give in percentage, and round to hundredth.
+
+24. [frq, 1 pt] Hospital admittance records and monitoring school absences are examples of what type of surveillance?
+
+25. [frq, 1 pt] What are the two most common symptoms of food-borne illnesses?
+
+26. [mcq, 1 pt] The problem of confounding variables can be solved by:
+    A) Choosing a prospective design
+    B) Increasing the precision of measurements
+    C) Stratification during data analysis
+    D) Unable to be solved
+
+28. [frq, 5 pt] Smallpox was a deadly infectious disease that caused the death of hundreds of millions of people, but now it is the first eradicated disease. It was declared to be eradicated in 1980. World health efforts is working towards eradicating a second infectious disease. What is the name of this disease? This disease remains endemic in how many countries as of 2019? What are the names of these three countries?
+
+29. [frq, 1 pt] What is the first step to controlling a disease?
+
+31. [frq, 1 pt] Interviews and surveys are at risk for what kind of bias when the participants do not answer truthfully?
+
+32. [frq, 1 pt] What is needed to validate the hypothesis created during an outbreak investigation?
+
+33. [frq, 2 pt] What is the difference between mortality and morbidity? Explain how to calculate mortality and morbidity.

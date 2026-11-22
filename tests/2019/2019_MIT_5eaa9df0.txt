@@ -1,0 +1,344 @@
+MIT — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  70 questions, 181.0 pts
+Source: scio.ly test archive id 5eaa9df0-54b6-4e84-915e-f39341e91358  |  original files: https://drive.google.com/drive/folders/1FEfVko9pfT9P4o29DdKbiVlnFzU54kjo
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: You have 50 minutes to take this test.
+You may use one sheet of notes and two non-programmable, non-graphing calculators.
+Each question has its point values indicated in parentheses at the end of the question.
+For “select all that apply” multiple choice questions, point values do not correspond to the number of correct answers. There is no partial credit for these questions.
+There is no guessing penalty.
+Unless otherwise stated, don’t worry about having an exact number of significant figures in your answers.
+Your team number must be written at the top of each page!
+Be respectful of other competitors at all times during the event.
+Refrain from jokes or nonsense answers that might prolong the grading process.
+If you have questions, stay at your seat and raise your hand. Good luck!
+
+
+=== Part I: Background and Surveillance — Basic Concepts ===
+
+1. [mcq, 1 pt] A large number of cases of the cold occurs in Sapzurro, a small town on the border between Colombia and Panama. This is an example of a(n):
+    A) Cluster
+    B) Outbreak
+    C) Epidemic
+    D) Pandemic
+
+2. [mcq, 1 pt] A mosquito picks up Plasmodium falciparum from a pool of standing water and transfers it to an unfortunate victim. Plasmodium falciparum is a(n):
+    A) Vector
+    B) Fomite
+    C) Vehicle
+    D) Agent
+
+3. [multi, 3 pt] In mice, carriers of the sickle cell anemia mutation are resistant to malaria in part because heme oxygenase 1 (HO-1), an enzyme whose expression is strongly induced by sickle hemoglobin, produces carbon monoxide gas that protects the host from succumbing to malaria without interfering with the life cycle of the parasite inside its red blood cells. In this case, HO-1 reduces the ____ of the parasite. Select all that apply.
+    A) Pathogenicity
+    B) Virulence
+    C) Infectivity
+    D) Transmissibility
+
+4. [mcq, 3 pt] In many communities, adults contract malaria far less commonly than do children, presumably due to acquired immunity. In these instances, malaria is said to be:
+    A) Hypoendemic
+    B) Mesoendemic
+    C) Holoendemic
+    D) Hyperendemic
+
+5. [multi, 2 pt] An antibiotic-resistant form of staph caught in a hospital despite following a doctor’s instructions regarding the admission-causing illness is an example of a(n) ____ infection. Select all that apply.
+    A) Iatrogenic
+    B) Nosocomial
+    C) Opportunistic
+    D) Ambidirectional
+
+6. [mcq, 1 pt] In the aftermath of the Hiroshima atomic bomb blast, leukemia developed in many of the victims over a period of 2 to 12 years after the attack. This delay of onset is an example of a(n):
+    A) Incubation period
+    B) Latency period
+    C) Dormancy period
+    D) Communicability period
+
+7. [frq, 2 pt] Explain why the answer to the above question cannot be considered part of the stage of susceptibility.
+
+8. [frq, 3 pt] Name three factors that affect the subclinical period length for a given illness.
+
+9. [mcq, 2 pt] Which of the following pairs are least likely to coincide?
+    A) Exposure and the beginning of the subclinical disease
+    B) Onset of symptoms and the beginning of the clinical disease
+    C) Time of diagnosis and the beginning of the clinical disease
+    D) Latency period and stage of subclinical disease
+
+10. [frq, 1 pt] What is the term for individuals in the stage of susceptibility?
+
+11. [multi, 3 pt] The broad spectrum of disease for a given genetic disorder can be a result of:
+    A) Penetrance of the gene
+    B) Expressivity of the gene
+    C) Recessive lethal alleles
+    D) Environmental factors
+    E) Different mutations resulting in the same disease
+
+12. [frq, 2 pt] The clinical approach to healthcare concerns (individuals/populations) while the public health approach concerns (individuals/populations).
+
+13. [frq, 5 pt] Below are several phrases describing healthcare goals for the citizens of Cambridge, Massachusetts. You, an epidemiologist (EP), are splitting up these goals between your boss who is a public health professional (PHP) and your colleague who works primarily in etiology (ET). You will collaborate on all of the goals, but want to assign a leader for each goal based on whose job description most closely matches that goal. Indicate which goals fall under which job description using the abbreviations in parentheses.
+    a. Diagnosing health hazards and health problems that affect Cambridge as a whole
+    b. Determining quantitatively if certain illnesses occur disproportionately in minority-heavy zip codes
+    c. Empowering residents of Cambridge to take positive action for their personal health and well-being through education and information
+    d. Finding out the cause of a new mystery polio-like illness
+    e. Predicting when seasonal spikes of a certain illness will occur in Cambridge
+
+
+=== Surveillance ===
+
+14. [frq, 3 pt] According to the World Health Organization, is it ever ethical for doctors to provide individually identifiable data to health officials who request that data in order to monitor outbreaks? List one reason to support your answer.
+
+15. [frq, 1 pt] In the previous question, what general type of surveillance would the health officials be performing?
+
+16. [frq, 3 pt] Is it the norm to ask participants in public health surveillance for their informed consent in the surveillance? List one reason to support your answer.
+
+17. [frq, 1 pt] Above is one of the earliest attempts at organizing geographical data for epidemiology. What type of map is this?
+    [IMAGE: ../images/2019_mit_c__p5_c1846a-4dcbb981.webp]
+
+18. [frq, 4 pt] What type of map is the above figure provided by the National Cancer Institute? Name two of its drawbacks.
+    [IMAGE: ../images/2019_mit_c__p5_55da17-119ab551.webp]
+
+19. [frq, 2 pt] Above is what a modern health map looks like. What system do epidemiologists use to produce maps like these?
+    [IMAGE: ../images/2019_mit_c__p6_6f9384-43cf5ba1.webp]
+
+20. [multi, 2 pt] Which of the following entities would not be involved in performing public health surveillance? Select all that apply.
+    A) Medical professionals
+    B) Pharmacies
+    C) Health insurance providers
+    D) Law enforcement
+    E) Emergency responders (911 centers, emergency management technicians)
+    F) Epidemiologists
+    G) None of the above
+
+[STIMULUS] **One of the most important roles of epidemiology is its ability to provide both qualitative and mathematical models of illness progression and spread. The following questions aim to test your understanding of a few of these models.**
+
+In 1971, Abdel Omran proposed the first three of the contemporary five stages of the epidemiological transition model. Pictured above, it depicts the progression of certain metrics over distinct stages of a society as it becomes more educated and technology-oriented.
+    [IMAGE: ../images/2019_mit_c__p7_731a78-70a1303b.webp]
+
+21. [mcq, 2 pt] From an epidemiological perspective, which of the following changes is most likely to accompany this theorized progression?
+    A) The gradual replacement of infectious diseases with chronic diseases
+    B) The gradual replacement of chronic diseases with infectious diseases
+    C) A gradual increase in man-made ‘diseases’ (violence, accidents, substance abuse)
+    D) A decrease in degenerative diseases like Alzheimer’s disease
+    E) None of the above
+
+22. [frq, 3 pt] In 1998, Barrett et al. proposed two more stages beyond Omran’s initial three. The first of these new stages is characterized by aging, increased emerging disease lethality, and decreased cardiovascular disease mortality. Why are emerging diseases associated with technologically advanced societies more than with developing societies?
+
+23. [frq, 2 pt] Barrett’s final proposed stage is called “The Age of Aspired Quality of Life with Persistent Inequalities.” How might what is viewed as a fully developed society have inherent inequalities with regards to who is contracting diseases?
+
+[STIMULUS] **A compartmental model is a model that is used to simplify the mathematical modeling of the spread of an infectious disease. It is called a compartmental model because the population is divided into components with the assumption that everyone in a compartment has the same characteristics. Read the following about a simple compartmental model and answer the questions that follow.**
+
+The SIR (susceptible → infected → removed) model depicts that in an infection scenario, the proportions of susceptible, infected, and recovered individuals change with time. Accordingly, the SIR model involves the interaction of three functions: , , and .
+
+The model has the following parameters and assumptions:
+● The removed population is the percentage of the population which has either recovered, become immune, or died from the illness, and thus
+● The constant represents the rate of disease-transmitting contact between susceptible and infected individuals
+● The constant represents the removal rate of infected individuals
+● The rate of change of over time is equal to
+● The rate of change of over time is equal to
+
+24. [frq, 2 pt] In what way is the use of the constant an oversimplification of how susceptible and infected individuals come into contact?
+    [IMAGE: ../images/2019_mit_c__p8_18d14f-069c18b5.webp]
+
+[STIMULUS] The basic reproduction number is the number of cases one case generates on average over the course of its infectious period.
+    [IMAGE: ../images/2019_mit_c__p9_b2228c-4bc9d55d.webp]
+
+25. [frq, 6 pt] In the above plots of (horizontal axis) versus (vertical axis), the initial state of the population is the rightmost point on the curved line, and the final state of the population is the leftmost point on the curved line. Let the top graph be called Graph 1, and the bottom graph be called Graph 2. Which one of the above graphs shows a scenario with , and which one shows a scenario with ? Explain your reasoning.
+
+26. [frq, 6 pt] The basic reproduction number is derived from the SIR model, and is equal to ____ for any given infection scenario (this is why it is also called the basic reproductive ratio). Briefly show (with words, simple math, or both) how this ratio meets our definition of the basic reproduction number stated above.
+
+
+=== Part II: Investigations of Public Health Events ===
+
+[STIMULUS] **The following scenario is from a short pamphlet released by the CDC that summed up an outbreak at an Army training center.**
+
+In February 2009, two fatal cases of bacterial meningitis (a rare illness causing inflammation of membranes surrounding the brain and spinal cord that can usually be remedied with treatment) occurred at Fort Leonard Wood (FLW), an Army training center. During February 6th to February 14th, the number of cases of pneumonia also increased.
+
+The epidemiologists proceeded to collect data to pinpoint a starting point for their inquiry.
+
+27. [frq, 3 pt] Name three reasons that the CDC saw fit to send disease detectives to FLW.
+
+28. [frq, 4 pt] Epidemiologists are used to treating a higher number of severe infectious diseases in the winter months. Name two reasons we are more susceptible to severe infectious diseases in the winter.
+
+29. [multi, 3 pt] Which of the following would it be prudent to ask the FLW staff for? Select all that apply.
+    A) A list of trainees who were too ill to participate in routine training
+    B) Medical charts and treatment history of patients with pneumonia in the troop companies
+    C) A list of symptoms of the patients
+    D) Flu vaccination status
+    E) A list of activities/duties that each soldier was involved with on a day-to-day basis
+
+31. [multi, 3 pt] In the event that PFGE is not sensitive enough to distinguish strains, which technique might investigators turn to? Select all that apply.
+    A) Whole genome sequencing
+    B) Ribotyping
+    C) Multi-locus sequence typing
+    D) Multi-locus variable tandem repeat analysis
+    E) Two-dimensional gel electrophoresis
+
+32. [frq, 1 pt] What does the fact that the epidemiologists enforced a campaign of both vaccinations and antibiotics tell you about meningitis?
+
+[STIMULUS] **The following scenario is an abridged version of a 2018 CDC Morbidity and Mortality Weekly Report:**
+
+On January 15, 2017, a hospital physician notified the Alameda County Public Health Department (ACPHD) in California of a patient with a suspected diagnosis of trichinellosis, a roundworm disease transmitted by the consumption of Trichinella spp. larvae. A family member of the initial patient reported that at least three other friends and family members had been evaluated at area hospitals for fever, myalgia, abdominal pain, diarrhea, and vomiting as early as three days after the event (the patients had attended a Laotian celebration in Northern California on December 28, 2016). Although the event hosts did not know the exact number of attendees, ACPHD identified 29 persons who attended the event and seven persons who did not attend the event, but consumed food taken home from the event by attendees.
+
+33. [mcq, 1 pt] At this point, this illness appears to be:
+    A) Foodborne infection
+    B) Foodborne intoxication
+    C) Neither infection nor intoxication
+    D) Not enough information given
+
+34. [frq, 2 pt] In the early stages of a severe outbreak, is it better to have a more sensitive or more specific case definition? Explain your reasoning.
+
+35. [frq, 3 pt] Write a suspected case definition for this scenario.
+
+36. [frq, 2 pt] Attendees noted feeling sick after consuming food at the event, so foodborne illness was suspected. Which two of the Bradford Hill criteria does this fact satisfy?
+
+37. [frq, 2 pt] The investigators did not interview people beyond those who were likely to have consumed the food from the celebration. This is because of which Bradford Hill criterion being satisfied?
+
+[STIMULUS] Contact information for additional attendees and exposed persons was obtained during several interviews with confirmed attendees. Reports of suspected diagnoses of trichinellosis among event attendees were requested from hospital infection prevention specialists, outpatient clinic providers, and local health jurisdictions where event attendees lived.
+
+Thirty-six potentially exposed persons were identified, including twenty-nine who attended the event and seven who consumed food taken home from the event by attendees. Among the potentially exposed persons, 20 (56%) were interviewed, 16 for whom professional language interpreters were used. Fourteen potentially exposed persons were not interviewed because contact information was unavailable, and two persons could not be reached. Clinical and exposure information from all persons who were interviewed was collected using a structured questionnaire administered by telephone 28–92 days after the December 28th event. Medical records for patients with a suspected diagnosis of trichinellosis were requested from hospitals and outpatient providers and abstracted. In consultation with the California Department of Public Health and CDC, ACPHD recommended serologic testing for Trichinella for all persons with a suspected diagnosis of trichinellosis using a commercial laboratory’s enzyme-linked immunosorbent assay (ELISA) to detect immunoglobulin G (IgG) directed against a Trichinella excretory-secretory antigen. Twelve cases were confirmed.
+
+Partial results from the interviews are as follows.
+    | Food | Case Consumers | Non-Case Consumers | Measure of Risk |
+    | Baguettes | 11 | 5 |  |
+    | Green Papaya Salad | 5 | 8 |  |
+    | Lao Beef Jerky | 9 | 4 |  |
+    | Fresh Spring Rolls | 7 | 8 |  |
+    | Larb | 8 | 2 |  |
+
+38. [frq, 4 pt] State the two types of bias that likely had the strongest effect on the results, and explain how they might affect the results.
+
+39. [frq, 6 pt] What overall study design is being used in this investigation? Name two advantages and two disadvantages of this study design.
+
+40. [frq, 6 pt] Name the appropriate measure of risk, and calculate that measure of risk for each food above. Give the number to three decimal places if needed.
+
+41. [frq, 3 pt] Fully interpret the lowest measure of risk that you calculated in the previous question.
+
+42. [frq, 5 pt] Name your top two food suspects based on the measure of risk, and describe which one is the most likely culprit based on what you know about Trichinosis.
+
+[STIMULUS] The above table shows the results of the laboratory analysis, including the ELISA test mentioned earlier. The numbers in the right column are the numbers of true positives for a given test. Answer the questions below. If there is not enough information to answer a question, write “N/A”.
+    [IMAGE: ../images/2019_mit_c__p14_320ef8-d6408e30.webp]
+
+43a. [frq, 2 pt] What is the sensitivity (hit rate) of the ELISA test?
+
+43c. [frq, 2 pt] If there were five false positives for elevated lactic acid, what is the accuracy of the test? Hint: accuracy is a ratio that takes both sensitivity and specificity into account.
+
+43d. [frq, 2 pt] What is the miss rate of elevated troponins?
+
+44. [frq, 3 pt] Immunoassays for IgG directed against the Trichinella excretory-secretory antigen often return a high rate of false negatives when performed on samples taken at an early stage of an outbreak. Why is this?
+
+45. [frq, 2 pt] Why is there no cutoff percentage for the ELISA test?
+
+
+=== Part III: Patterns, Control, and Prevention ===
+
+[STIMULUS] The 2013-2016 West African Ebola virus epidemic was the most severe outbreak of Ebola disease in history. Health officials are still battling Ebola today, as evidenced by the recent outbreak in the Democratic Republic of Congo’s northeastern region. A crucial part of this fight is the development of formalized prevention strategies.
+
+47a. [frq, 3 pt] Define primary prevention, and provide an example specific to Ebola.
+
+47b. [frq, 3 pt] Define secondary prevention, and provide an example specific to Ebola.
+
+47c. [frq, 3 pt] Define tertiary prevention, and provide an example specific to Ebola.
+
+48a. [frq, 2 pt] What is the epidemiological term for infectious people who have recovered from an illness?
+
+48b. [frq, 2 pt] Describe the logic behind the above strategy: how would such a transfusion theoretically improve the condition of someone suffering from Ebola?
+
+48c. [frq, 2 pt] Despite the unconfirmed efficacy of this intervention, the WHO considers it ethical to use because the ____ outweigh the ____.
+
+48d. [frq, 2 pt] Name two methods, restrictions, or selection criteria by which to maintain the health of the donor in this process.
+
+48e. [frq, 1 pt] Name one method by which to protect the identity of the donors (maintain confidentiality) in this process.
+
+48f. [frq, 4 pt] Name another ethical concern regarding donors in this process and explain how to mitigate its effects.
+
+[STIMULUS] **Read the following introduction to a Morbidity and Mortality Weekly Report from 2003 and answer the questions that follow.**
+
+The 2003-04 influenza season in the Denver metropolitan area began earlier, was more severe than in recent years, and included reports of pediatric mortality. Influenza outbreaks occur each year, but uncertainty exists with respect to the timing and severity of these outbreaks. Effective surveillance is critical for tracking the spread and severity of disease and for determining the types and subtypes of viruses that circulate during the influenza season.
+
+Most public health organizations that monitor influenza use the U.S. Influenza Sentinel Provider Surveillance Network, a collaborative effort between CDC, state and local health departments, and health-care providers. This system monitors influenza activity in the general population. Traditionally, the sentinel provider surveillance system operates from October to mid-May each year. Each week, sentinel providers report the total number of patient visits during the preceding week and the total number of patient visits for influenza-like illness (ILI), stratified by age categories.
+
+In recent years, substantial investments have been made in syndromic surveillance systems. These systems allow rapid detection of natural infectious disease clusters and of intentional acts of terrorism. Previous studies have demonstrated that syndromic surveillance can be useful in detecting ILI. Investment in these systems might enhance public health organizations' ability to identify and react to infectious disease outbreaks. This report compares the dates on which a syndromic surveillance system and a Sentinel Provider Network, both in a single health-care delivery system, identified unusual ILI activity associated with the onset of the Fall 2003 influenza outbreak in Denver, as determined by reported laboratory-confirmed cases of influenza.
+
+49. [mcq, 3 pt] Which of the following tests would likely be the least reliable sample collection/laboratory confirmation method for influenza?
+    A) Nasopharyngeal swab
+    B) Stool sample analysis
+    C) Direct/indirect fluorescent antibody assay (DFA/IFA)
+    D) Reverse transcription-polymerase chain reaction (RT-PCR)
+    E) Rapid influenza diagnostic test (RIDT)
+
+50. [mcq, 1 pt] Which technique does the sentinel surveillance network use to improve the validity of any conclusions drawn from its data?
+    A) Blocking
+    B) Stratification
+    C) Cluster sampling
+    D) Allocation concealment
+
+51. [frq, 2 pt] Above is a figure summarizing the findings of the surveillance networks. What type of outbreak pattern is depicted in the figure?
+    [IMAGE: ../images/2019_mit_c__p18_e90c2b-90ab1e53.webp]
+
+52. [frq, 1 pt] Which data source had the highest sensitivity in the early stages of the flu season?
+
+53. [frq, 4 pt] Propose an explanation for the different levels of syndromic and sentinel surveillance seen at the beginning and end of the flu season. The explanation should be in terms of inherent differences between the two systems.
+
+54. [mcq, 2 pt] Which of the following probably caused sentinel surveillance to report more cases than syndromic surveillance during the peak of the outbreak?
+    A) People suspecting they had the flu more readily went to their healthcare provider to see if they could be diagnosed
+    B) The Infectious Disease Department instructed providers to adhere to a more stringent case definition when diagnosing influenza
+    C) With the knowledge an outbreak was going on, clinicians were more likely to assign a flu diagnosis even if a symptom was missing upon presentation
+    D) The threshold for laboratory confirmation became more specific as the outbreak progressed
+
+[STIMULUS] **Read the following about Lyme disease and answer the questions that follow.**
+
+Lyme disease is an illness caused by the bacterium Borrelia burgdorferi. It is transmitted to humans via the bite of infected ticks. Examine the table below, which shows the occurrence of Lyme disease over the course of several years in the U.S., and answer the questions that follow. Assume the population of the U.S. was 253 million in 1991, and each new year the population magically increased by 3 million and stayed constant for that year. Adapted from CDC.
+
+| Year | Reported Cases of Lyme Disease |
+|---|---|
+| 1991/1992 | 9,541 |
+|  | 10,102 |
+| 1993/1994 | 8,042 |
+|  | 13,136 |
+| 1995/1996 | 12,190 |
+|  | 16,565 |
+| 1997/1998 | 12,577 |
+|  | 17,010 |
+| 1999/2000 | 16,883 |
+|  | 17,571 |
+| 2001/2002 | 17,498 |
+|  | 24,453 |
+
+58. [mcq, 2 pt] The CDC classified this spike as an epidemic. Which outbreak pattern does it exhibit?
+    A) Common-source
+    B) Point-source
+    C) Propagated
+    D) Mixed
+    E) None of the above
+
+59a. [frq, 3 pt] Calculate the following. Write “N/A” and explain if you believe a measure cannot be calculated because there is not enough information.
+    
+    Incidence rate from 1993 to 1995, expressed as a rate per 10000 people. Give your answer to 3 decimal places.
+
+59b. [frq, 3 pt] Calculate the following. Write “N/A” and explain if you believe a measure cannot be calculated because there is not enough information.
+    
+    Incidence proportion from 1996 to 1998, expressed as a rate per 10000 people. Give your answer to 3 decimal places.
+
+59c. [frq, 3 pt] Calculate the following. Write “N/A” and explain if you believe a measure cannot be calculated because there is not enough information.
+    
+    Period prevalence from 2001 to 2002, expressed as a decimal to 3 places.
+
+60. [mcq, 3 pt] Suppose a form of Lyme disease is found to be transmitted transovarially. This means that public health prevention measures should also focus on ____.
+    A) Several different types of antibiotics being recommended to healthcare providers
+    B) Efforts to prevent horizontal transmission of the disease between reproducing ticks
+    C) Preventing Rocky Mountain spotted fever, which is also transmitted by ticks
+    D) Concerted efforts to kill tick eggs
+
+61. [frq, 2 pt] Carefully study the figure above. Name two distinct factors that could be contributing to the spike near the middle of the graph.
+    [IMAGE: ../images/2019_mit_c__p22_6edc8b-9edfa69b.webp]
+
+62. [frq, 1 pt] Above is the number of Lyme disease cases in states with high incidence from 2008 to 2015. The shape of the distribution can be characterized as ____.
+    [IMAGE: ../images/2019_mit_c__p22_b7a619-e9578f9b.webp]
+
+63. [frq, 2 pt] Explain the location of the two peaks of the above graph in no more than one to two sentences.
+    [IMAGE: ../images/2019_mit_c__p22_b7a619-e9578f9b.webp]
+
+64. [multi, 2 pt] Figure 5 tracks the reporting of certain Lyme disease effects over different age groups. Peaks in this graph correspond to those in the previous figure, but the clinical manifestations do not rise as uniformly for the left peak as they do for the right peak. Which of the following could explain why? Select all that apply.
+    [IMAGE: ../images/2019_mit_c__p23_9ee569-18648447.webp]
+    A) Children may have trouble articulating conditions as well as adults
+    B) Arthritis worsens with age and would manifest more in adults
+    C) Children are more likely to be immunocompromised than adults
+    D) Neurologic manifestations are more likely to appear in a more mature brain

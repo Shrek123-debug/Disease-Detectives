@@ -1,0 +1,222 @@
+Conestoga (BAVF) — Disease Detectives  |  Season 2014  |  Division C  |  Time limit 50 min  |  47 questions, 116.0 pts
+Source: scio.ly test archive id 1a62d3f1-8a29-40bb-80b9-0991f51b3550  |  original files: https://drive.google.com/drive/folders/1DbMJ5_RDmrbH3HCLcNJqHRwAFbbX-wxc
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: You will have fifty minutes to complete the test. Selected questions, which are clearly identified, will serve as tie breakers. As such, answer all questions as thoroughly as possible, but maintain brevity and clarity.
+
+[STIMULUS] | Question | Points | Question | Points |
+|---|---|---|---|
+| 1 | /21 | 12 | /5 |
+| 2 | /5 | 13 | /15 |
+| 3 | /4 | 14 | /3 |
+| 4 | /9 | 15 | /5 |
+| 5 | /5 | Tiebreakers | |
+| 6 | /3 | Total | /117 |
+| 7 | TB | | |
+| 8 | /6 | | |
+| 9 | /25 | | |
+| 10 | /6 | | |
+| 11 | /5 | | |
+
+[STIMULUS] At the University of Chicago, a larger than usual number of students and faculty members have been complaining of muscle weakness, suicidal thoughts, loss of coordination, and vision impairment. Residents in the surrounding South Side communities seem to not have the same problems. Interestingly, the university has its own centralized water system only for the biological sciences buildings. Water tests are conducted and there are high concentrations of mercury in the water of the biology buildings which can cause these symptoms.
+
+The university asked all students and faculty members who take classes in the biology buildings to report to one of the health clinics to be checked for mercury poisoning in the blood. Of those students and faculty members that went to the clinics, 78 complained of symptoms and did drink water from the biology buildings, 14 did not drink water from the biology buildings and complained of the symptoms, 32 did drink water from the biology buildings but did not have any of the symptoms, and 44 did not drink water from the biology buildings and did not have any of the symptoms.
+
+1a. [frq, 4 pt] For the above scenario, list both the null and alternative hypothesis for the Chi-Square test.
+
+1b. [frq, 4 pt] Develop a 2 by 2 table with the above results presented.
+    [IMAGE: ../images/2014_conestoga_bavf_c__p2_v947b89-8412d140.webp]
+
+1c. [numeric, 2 pt] If a Chi-square test were to be conducted, how many degrees of freedom would be needed?
+
+1d. [frq, 4 pt] On the assumption that there is no association between exposure to water from the biology buildings and mercury-like symptoms, what would be the expected counts? Produce a table with the expected counts.
+    [IMAGE: ../images/2014_conestoga_bavf_c__p3_v5333b6-3ad6e05d.webp]
+
+1e. [frq, 4 pt] Calculate the Chi-square test statistic, show all work for full credit.
+
+[STIMULUS] Consider the following X² test statistics:
+
+Probability of .005:
+1 df: 7.879
+2 df: 10.597
+3 df: 12.838
+
+Probability of .001:
+1 df: 10.8257
+2 df: 13.815
+3 df: 16.268
+
+1f. [frq, 3 pt] What does the test statistic reveal about the relationship between mercury poisoning-like symptoms and drinking water from the biology buildings? Please take statistically significant as P < 0.05 and statistically highly significant as P < 0.001 (less than one in a thousand chance of being wrong).
+
+2. [frq, 5 pt] Provide the term associated with each of the following definitions.
+    
+    1. Some specific diseases must be reported by law to health departments and ultimately to the CDC, these are known as ____
+    2. More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time. ____
+    3. A physical object that serves to transmit an infectious agent from person to person. ____
+    4. An infectious disease that is transmissible by animals. ____
+    5. A person at risk for disease that gets infected or ill. ____
+    6. An epidemic occurring over a very wide area and usually affecting a large proportion of the population. ____
+    7. The systematic, ongoing collection, analysis, interpretation, and dissemination of health data. ____
+    8. The ____ ____ compares the risk of a health event (disease, injury, risk factor, or death) among one group with the risk among another group.
+    9. When transmission of infections occurs at a single point and over a short period of time it is classified as what type of source? ____
+    10. A form of incidence that measures the proportion of persons in a population who experience an acute health event during a limited period.
+
+3a. [frq, 2 pt] The comparison of (a type of rate) is used to establish if an outbreak has occurred. What is the rate typically used?
+
+3b. [multi, 2 pt] Select from the factors below that would change the rate in 3a, such that changes in the rate are not due to change in transmissibility.
+    A) An increase in awareness about a disease which leads to increased attention by health professionals and patients
+    B) Changes in population structure such as the return of students to school, a migration
+    C) Change in the disease course such as a higher symptom rate due to a change in the pathogen or host
+    D) Changes in diagnostics such as a new cheaper, easier to use test.
+    E) Change in infectivity such as the capacity to cause a disease in a host
+
+4. [frq, 9 pt] Hill's Criteria for Causation are nine criteria that must be met to establish a cause-and-effect relationship. List and briefly describe the nine criteria.
+
+[STIMULUS] Determine whether the following diseases are bacterial, viral, fungal, or parasitic in origin. Mark B, V, P or F next to each disease.
+
+5a. [frq, 5 pt] Influenza
+    ii. Aspergillus
+    iii. Gonorrhea
+    iv. Ascaris
+    v. Tuberculosis
+    vi. Toxic shock syndrome
+    vii. Genital warts
+    viii. Strongyloides
+    ix. Chagas disease
+    x. Cholera
+
+5b. [frq, 1 pt] State the scientific name (i.e. Genus species) of the causative agent for Gonorrhea, Tuberculosis, Chagas disease, and Cholera in the space above.
+
+6. [frq, 3 pt] Define primary, secondary, and tertiary disease prevention.
+
+7. [frq, 1 pt] What are three methods of reducing the risk of hospital infections? Give explicit reasons as to why you choose your methods.
+
+8. [frq, 6 pt] List and describe three types of epidemic curves and the epidemic transmission types they describe.
+
+9ai. [frq, 6 pt] After meeting with hospital staff the epidemiologist in charge is convinced that these cases are an unusual cluster of cases and begins to evaluate them as an outbreak. When gathering information what does she want to know from the patient, the family, and the health care setting?
+
+[STIMULUS] The epidemiologist rapidly realizes that the patients all attended the picnic and were participants in the trip to France. The epidemiologist calls the other participants at the picnic and the other students who went to France. After hours of data collation, the epidemiologist has the following table.
+    [IMAGE: ../images/2014_conestoga_bavf_c__p9_v3d830c-5ffd4d72.webp]
+
+9aii. [frq, 2 pt] The epidemiologists suspects that this might be related to something eaten at the picnic. Why?
+
+[STIMULUS] The epidemiologist's assistant finally finishes the following tables.
+    [IMAGE: ../images/2014_conestoga_bavf_c__p9_vcd8898-a559f0d4.webp]
+    [IMAGE: ../images/2014_conestoga_bavf_c__p9_v69c1eb-5b02da31.webp]
+
+9b. [frq, 3 pt] Using all the data provided, answer the following questions and show work for full credit.
+    
+    What is the headache attack rate for those traveling to France, going to picnic and both going to France and picnic?
+
+9c. [frq, 2 pt] What is the odds ratio of fatigue given you ate potato salad?
+
+9d. [frq, 2 pt] What is the odds ratio of fatigue given you went to France?
+
+9e. [frq, 2 pt] Why does the epidemiologist shrug off the fatigue and France association?
+
+9f. [frq, 1 pt] The epidemiologist gets a call from the hospital. It is not a bacterial illness, but is viral. The doctor who handles the case is a retired military physician and he thinks it looks like dengue! The epidemiologist says that isn't very likely and the doctor agrees. Why?
+
+9g. [frq, 3 pt] The epidemiologist calls the health departments in Portland and Houston and finds out that there are cases of disease among students there as well. Two kids in Portland are sick and one in Houston is very ill and hospitalized. The epidemiologists agree to communicate. The doctor calls back at the end of the week to report that the students are positive for an arboviral infection. The cases remain sick, but no new cases are reported.
+    
+    Name three arboviral diseases that affect humans:
+
+9g-TB. [frq, 1 pt] State the scientific name (i.e. Genus species) of one representative vector for each of the three viruses that cause the disease in the space above.
+
+9h. [frq, 5 pt] On the following Wednesday two new cases of disease are reported to the hospital. The epidemiologist interviews the cases and their families. They were camping at the same park the students went to for the picnic. While at the hospital they also receive a call from the first doctor that Chikungunya virus is the cause of the illness. Why is the epidemiologist jumping up and demanding the phone number for Houston and the Arboviral unit at CDC?
+
+[STIMULUS] 
+    [IMAGE: ../images/2014_conestoga_bavf_c__p12_v564483-bd38a7dd.webp]
+
+10a. [frq, 2 pt] The following epidemic curve describes what kind of transmission?
+
+10b. [frq, 2 pt] Why does the number of cases increase over time?
+
+10c. [frq, 2 pt] Why do new cases stop appearing in this type of transmission?
+
+[STIMULUS] 
+    [IMAGE: ../images/2014_conestoga_bavf_c__p13_v29c916-24eed8f1.webp]
+
+11a. [tf, 1 pt] This graph shows that cholera was rare in Haiti from Oct. 2010 to Jan. 2012
+    A) True
+    B) False
+
+11b. [tf, 1 pt] The graph shows that cholera transmission is seasonal.
+    A) True
+    B) False
+
+11c. [tf, 1 pt] The graph shows that common factors are responsible for transmission in adults and children
+    A) True
+    B) False
+
+11d. [tf, 1 pt] Adults are more susceptible to cholera disease than children
+    A) True
+    B) False
+
+11e. [tf, 1 pt] The actual burden of disease from this pathogen cannot be estimated from this graph.
+    A) True
+    B) False
+
+[STIMULUS] The risk of a crash or near-crash among novice drivers increased significantly if they were dialing a cell phone (odds ratio, 8.32; 95% confidence interval [CI], 2.83 to 24.42). Among experienced drivers, dialing a cell phone was associated with a significantly increased risk of a crash or near-crash (odds ratio, 2.49; 95% CI, 1.38 to 4.54); 1 The study only assessed driving habits of experienced drivers for one year, and novice drivers for 18 months. Based on these data answer the following questions as True or False
+    [IMAGE: ../images/2014_conestoga_bavf_c__p14_v454672-8ae3461d.webp]
+
+12a. [tf, 1 pt] Experienced drivers were more likely to engage in distracted driving
+    A) True
+    B) False
+
+12b. [tf, 1 pt] Novice drivers were slightly less likely to have accidents when driving distracted
+    A) True
+    B) False
+
+12c. [tf, 1 pt] Over time novice drivers spent less time driving distracted
+    A) True
+    B) False
+
+12d. [frq, 1 pt] Experienced drivers spent about what percent of their driving time doing distracting tasks?
+
+12e. [tf, 1 pt] The graph shows that novice drivers increased their driving skills over time.
+    A) True
+    B) False
+
+13a. [frq, 10 pt] In 2009, a community survey of blood pressure was conducted in which residents were asked how many times they had their blood pressure tested in the past year. The answers from the first 20 participants are listed below. The study team thought that these data would be good to compare to data from post-ACA. Why is blood pressure used for the pre-post ACA comparison?
+    
+    The study team set up at the same county fair as they had in 2014 and again asked people how frequently they had their blood pressure measured in the past year. They also asked if person had changed their health care insurance, and if they had done it in response to ACA or for another reason (for example change in employment).
+    
+    2009 survey: 0, 2, 0, 0, 24, 1, 2, 0, 2, 2, 1, 1, 0, 0, 5, 1, 360, 10, 2, 3
+    2014 survey: 2, 1, 0, 0, 2, 1, 4, 3, 2, 1, 0, 4, 2, 52, 1, 9, 2, 7, 4, 5
+    
+    Organize these data into a table of frequency distribution. Find the mean, median, and mode of the data set.
+
+[STIMULUS] In 2009 an epidemic of Salmonella typhimurium was investigated by the Centers for Disease Control and Prevention. Cases were identified by molecular typing of the S. typhimurium which showed that the cases were linked. Investigation of the cases revealed that most of the cases were in contact with African dwarf frogs from a single breeder in California.
+
+Answer the following true/false questions:
+    [IMAGE: ../images/2014_conestoga_bavf_c__p17_v5d980c-5f60ddf7.webp]
+
+14a. [tf, 1 pt] The highest rates of disease were in California, Utah, Washington State and Illinois
+    A) True
+    B) False
+
+14b. [tf, 1 pt] The state with the highest number of reported cases is Utah
+    A) True
+    B) False
+
+14c. [tf, 1 pt] While the disease was widespread most states only reported one case
+    A) True
+    B) False
+
+[STIMULUS] The Global Burden of Disease project is funded by the Bill and Melinda Gates Foundation among others. This project is based at the University of Washington in Seattle. On the interactive website the following graphs can be downloaded. Here diarrheal disease rates are reported by age and by country per 100,000 person-years. The graphs for South Africa and for Brazil are shown.
+
+IHME | GHDx | Share | COD Visualization | W. South Africa, A.2.1 Diarrheal diseases, Pre-Adj Adjusted, Rate %, Male Female, Unlock Scale Lock Scale Zero Min. Graphs: 0-6 days old, 7-27 days old, 28-364 days old, 1-4 years old, 5-9 years old, 10-14 years old, 15-19 years old, 20-24 years old, 25-29 years old, 30-34 years old.
+
+IHME | GHDx | Share | COD Visualization | W. Brazil, A.2.1 Diarrheal diseases, Pre-Adj Adjusted, Rate %, Male Female, Unlock Scale Lock Scale Zero Min. Graphs: 0-6 days old, 7-27 days old, 28-364 days old, 1-4 years old, 5-9 years old, 10-14 years old, 15-19 years old, 20-24 years old, 25-29 years old, 30-34 years old.
+    [IMAGE: ../images/2014_conestoga_bavf_c__p18_vc2e9e5-2cc237d8.webp]
+    [IMAGE: ../images/2014_conestoga_bavf_c__p18_v25f8db-9c5fed66.webp]
+
+15a. [frq, 1 pt] There is a dramatic drop in the rate of diarrheal disease among persons in both countries between what two age groups.
+
+15b. [frq, 1 pt] Across all ages, the rates of diarrheal disease have ____ in South Africa.
+
+15c. [frq, 1 pt] Describe the burden of diarrheal disease deaths in Brazil as compared to South Africa:
+
+15d. [frq, 1 pt] The current rate of diarrheal disease deaths in Brazilian 5-9 year olds is about ____
+
+15e. [frq, 1 pt] In South Africans of the same age it is close to ____

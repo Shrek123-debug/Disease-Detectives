@@ -1,0 +1,223 @@
+Captain's Exchange — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  37 questions, 57.0 pts
+Source: scio.ly test archive id ee2da055-f184-4c58-b376-66233f955341  |  original files: https://drive.google.com/drive/folders/1L4HbEqCM46MFBc3k0oixjDkMpHhgxUsr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: TEAM INSTRUCTIONS:
+1. Don't open the test booklet until you are told to do so. You will have 50 minutes to complete the test. The questions consist of short-answer, some free response questions, and analysis/creation of a graph.
+2. You may use non-programmable calculators.
+3. Team members may speak quietly to each other during the exam (if this test is performed in pairs).
+4. You may disassemble the test pages as you wish. Please be sure to staple them back in order if you do so before end of the test.
+If you have any questions, comments, or concerns, feel free to send an email to ccchangchien@gmail.com
+GOOD LUCK! :)
+
+
+=== Part 1A: Approaches, General Knowledge, History ===
+
+[STIMULUS] In order to receive your certification as an official member of the Disease Detectives, you will need to be able to pass a short exam before you go out to solve some cases out there! This will encompass topics such as epidemiology history, epidemiology protocols, and other similar topics.
+
+P1-1a. [mcq, 1 pt] Label either C (Clinical Approach) or P (Public Health Approach) to the situation provided.
+    
+    A pediatrician attends to a patient with self-reported symptoms of bloody diarrhea, nausea, jaundice.
+    A) C (Clinical Approach)
+    B) P (Public Health Approach)
+
+P1-1b. [mcq, 1 pt] Label either C (Clinical Approach) or P (Public Health Approach) to the situation provided.
+    
+    A radiologist is called out into the field to study the MRIs of 60 year olds who have been living near a nuclear plant for more than 40 years. They are given the job of coming up with a report based on the results.
+    A) C (Clinical Approach)
+    B) P (Public Health Approach)
+
+P1-1c. [mcq, 1 pt] Label either C (Clinical Approach) or P (Public Health Approach) to the situation provided.
+    
+    A publication recommends the limitation of deforestation due to possible exposure to new diseases.
+    A) C (Clinical Approach)
+    B) P (Public Health Approach)
+
+P1-1d. [mcq, 1 pt] Label either C (Clinical Approach) or P (Public Health Approach) to the situation provided.
+    
+    The lab results of a fMRI from an epileptic patient are discussed with a chair of epileptologists at the weekly meeting.
+    A) C (Clinical Approach)
+    B) P (Public Health Approach)
+
+P1-1e. [mcq, 1 pt] Label either C (Clinical Approach) or P (Public Health Approach) to the situation provided.
+    
+    Multiple reports of people with symptoms of coughing, rashes, and diarrhea are reported at a hospital, prompting the start of a case-control study.
+    A) C (Clinical Approach)
+    B) P (Public Health Approach)
+
+P1-2. [frq, 4 pt] Robert Koch created a set of postulates for determining whether a microorganism truly is the agent of disease. What are the postulates, in order?
+
+P1-3. [frq, 1 pt] What technique creates analysis of stratified or matched categorical data?
+
+P1-4. [frq, 2 pt] What was the disease Edward Jenner first used to create an official vaccination? What disease vaccination was created from these clinical trials? (2 answers, 1 pt per correct answer in the correct order)
+
+P1-5. [frq, 1 pt] Hippocrates supposed started the beginning of epidemiological studies roughly how many years ago?
+
+
+=== Part 1B: Mechanisms of Disease ===
+
+P2-2a. [frq, 1 pt] For an outbreak of measles, what would be an example of primary prevention?
+
+P2-2b. [frq, 1 pt] For an outbreak of measles, what would be an example of secondary prevention?
+
+P2-2c. [frq, 2 pt] For an outbreak of measles, what would be an example of tertiary prevention?
+
+P2-3. [frq, 2 pt] Differentiate between latency period and incubation period.
+
+P2-4. [frq, 2 pt] What are 4 types of portals of exit?
+
+P2-5. [frq, 2 pt] Differentiate between droplet transmission and airborne transmission of diseases.
+
+P2-6. [frq, 1 pt] List the 5 Step Process for Surveillance (must be in the correct order).
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] After your certification, you're off to investigate an outbreak!
+
+Just in time for Halloween, you visit your friend Sal "Mo" Nella's house for her party in Placentia, California. But, just coincidentally, many of your friends who went to the party all become sick the following week!
+
+Here are some facts:
+- The party started at 7 PM on October 31st
+- 16 people become sick out of the 30 present
+- All had eaten food at the buffet
+- All showed symptoms of watery or bloody diarrhea, abdominal cramps, and were bedridden with or without fever
+
+Below is a table detailing the people who got sick:
+
+| ID # | Initials | Symptom Appearance | How Confirmed | Attended ? | Age | Sex |
+|---|---|---|---|---|---|---|
+| 1 | CO | 11/1, 7:00 PM | Not Done | Y | 16 | M |
+| 2 | EL | 11/4, 8:00 AM | Biopsy | Y | 17 | M |
+| 3 | EM | 10/31, 8:00 PM | Not Done | Y | 19 | F |
+| 4 | JE | 11/3, 9:00 PM | Serologia | Y | 18 | F |
+| 5 | NA | 11/1, 12:30 PM | Pending | Y | 15 | F |
+| 6 | DA | 11/3, 4:30 AM | Pending | Y | 17 | M |
+| 7 | TY | 11/6, 7:30 PM | Biopsy | Y | 18 | M |
+| 8 | CU | 11/5, 6:45 AM | Pending | Y | 19 | M |
+| 9 | KR | 11/3, 11:45 PM | Not Done | Y | 16 | F |
+| 10 | JM | 11/2, 6:00 PM | Not Done | Y | 18 | M |
+| 11 | PT | 11/5, 3:30 PM | Serologia | Y | 17 | F |
+| 12 | CR | 11/4, 10:00 PM | Biopsy | Y | 17 | M |
+| 13 | BL | 11/3, 2:00 AM | Biopsy | Y | 17 | M |
+| 14 | MG | 11/4, 7:00 AM | Pending | Y | 19 | F |
+| 15 | EE | 11/2, 4:00 AM | Serologia | Y | 15 | F |
+| 16 | CL | 11/4, 1:00 PM | Pending | Y | 16 | F |
+    [IMAGE: ../images/2019_captain_s_exchange_c__p4_7ae447-e94e0edd.webp]
+
+P3-1. [frq, 1 pt] What is the name of the chart above?
+
+P3-2. [frq, 4 pt] Create a case definition for this outbreak.
+
+P3-3. [frq, 1 pt] What step of investigating an outbreak involves creating a case definition?
+
+P3-6. [frq, 1 pt] What step of Investigating an Outbreak does creating a epicurve belong to?
+
+P3-7. [frq, 1 pt] What type of study should be used to investigate this outbreak?
+
+[STIMULUS] Your fellow epidemiologists have identified possible dishes and beverages as the source of the outbreak and are shown in the chart below:
+
+|  |  | Ate |  |  | Didn't eat |  |
+|---|---|---|---|---|---|---|
+| Food/ Beverage Served | Sick | Not Sick | Total | Sick | Not Sick | Total |
+| Iced Water | 5 | 8 | 13 | 10 | 7 | 17 |
+| Deviled Eggs | 7 | 5 | 12 | 11 | 7 | 18 |
+| Halloween Cake | 18 | 5 | 23 | 2 | 5 | 7 |
+| Crab Cakes | 4 | 11 | 15 | 6 | 11 | 15 |
+| Red Punch | 6 | 4 | 10 | 17 | 3 | 20 |
+| Potato Salad | 7 | 1 | 8 | 20 | 8 | 28 |
+| Creamed Corn | 12 | 3 | 15 | 9 | 6 | 15 |
+| Ice Cream | 14 | 13 | 27 | 2 | 1 | 3 |
+| Chicken Pasta | 15 | 4 | 19 | 8 | 4 | 11 |
+| Roast Beef | 16 | 11 | 27 | 2 | 1 | 3 |
+| Hamburgers | 10 | 8 | 18 | 7 | 5 | 12 |
+| Shrimp Gumbo | 6 | 5 | 11 | 12 | 7 | 19 |
+| Romaine Salad | 6 | 3 | 9 | 19 | 2 | 21 |
+
+P4-6. [frq, 3 pt] Looking at this data, figure out the mostly source of the outbreak. Along with your answer, provide work to support your answer.
+
+P4-7. [frq, 1 pt] What does this value tell us about the suspected source?
+
+P4-8. [frq, 1 pt] Using the evidence in the last few questions, what is the most likely cause of this outbreak?
+
+
+=== Part 3 ===
+
+P5-1. [frq, 5 pt] Based on the previous scenario, how could this outbreak have been prevented? What things could people have done not become infected? List up to 5 preventative actions.
+
+P5-2a. [frq, 2 pt] For each of the following modes of transmission, provide methods to avoid spreading disease.
+    
+    Droplet:
+
+P5-2b. [frq, 2 pt] For each of the following modes of transmission, provide methods to avoid spreading disease.
+    
+    Mosquito-borne:
+
+P5-2c. [frq, 2 pt] For each of the following modes of transmission, provide methods to avoid spreading disease.
+    
+    Food-borne:
+
+[STIMULUS] Assume that the horizontal lines in the diagram represent duration of illness in 8 different people, out of a community of 700.
+    [IMAGE: ../images/2019_captain_s_exchange_c__p10_c2a88c-86f62ad2.webp]
+
+P7-1. [multi, 1 pt] What is the prevalence of disease during July?
+    A) 3 ⁄ 700
+    B) 4 ⁄ 700
+    C) 5 ⁄ 700
+    D) 8 ⁄ 700
+
+P7-2. [multi, 1 pt] What is the incidence of disease during July?
+    A) 3 ⁄ 700
+    B) 4 ⁄ 700
+    C) 5 ⁄ 700
+    D) 8 ⁄ 700
+
+P7-3. [multi, 1 pt] What is the following fraction?
+    
+    Number of children < 365 days of age who died in Country A in 2004
+    Number of live births in Country A in 2004
+    A) Ratio
+    B) Proportion
+    C) Incidence proportion
+    D) Mortality rate
+
+P7-4. [multi, 1 pt] Using only the data shown below for deaths attributed to Alzheimer's disease and to pneumonia/influenza, which measure(s) can be calculated?
+    [IMAGE: ../images/2019_captain_s_exchange_c__p11_4af318-323b3bae.webp]
+    A) Proportionate mortality
+    B) Cause-specific mortality rate
+    C) Age-specific mortality rate
+    D) Mortality rate ratio
+    E) Years of potential life lost
+
+P7-5. [multi, 1 pt] Which of the following mortality rates use the estimated total mid-year population as its denominator?
+    A) Age-specific mortality rate
+    B) Sex-specific mortality rate
+    C) Crude mortality rate
+    D) Cause-specific mortality rate
+
+P7-6. [multi, 1 pt] What is the following fraction?
+    
+    Number of deaths due to septicemia among men aged 65–74 years in 2004
+    Estimated number of men aged 65–74 years alive on July 1, 2004
+    A) Age-specific mortality rate
+    B) Age-adjusted mortality rate
+    C) Cause-specific mortality rate
+    D) Sex-specific mortality rate
+
+P7-7. [multi, 1 pt] Vaccine efficacy measures are:
+    A) The proportion of vaccinees who do not get the disease
+    B) 1 − the attack rate among vaccinees
+    C) The proportionate reduction in disease among vaccinees
+    D) 1 − disease attributable to the vaccine
+
+P7-8. [multi, 1 pt] To study the causes of an outbreak of aflatoxin poisoning in Africa, investigators conducted a case-control study with 40 case-patients and 80 controls. Among the 40 poisoning victims, 32 reported storing their maize inside rather than outside. Among the 80 controls, 20 stored their maize inside. The resulting odds ratio for the association between inside storage of maize and illness is:
+    A) 3.2
+    B) 5.2
+    C) 12.0
+    D) 33.3
+
+P7-9. [multi, 1 pt] The crude mortality rate in Community A was higher than the crude mortality rate in Community B, but the age-adjusted mortality rate was higher in Community B than in Community A. This indicates that:
+    A) Investigators made a calculation error
+    B) No inferences can be made about the comparative age of the populations from these data
+    C) The population of Community A is, on average, older than that of Community B
+    D) The population of Community B is, on average, older than that of Community A

@@ -1,0 +1,866 @@
+Polytechnic Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  77 questions, 93.0 pts
+Source: scio.ly test archive id d04af3f8-1ee0-4f88-9e9d-0555fda9e625  |  original files: https://drive.google.com/drive/folders/1nxQcwJ80HB0tfZnIXroGUNeou_yJsKsm
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: Each question will be assigned point values and the high score wins.
+
+
+=== Matching ===
+
+[STIMULUS] 1. Plague
+2. Virulence
+3. Etiology
+4. Bias
+5. Fomite
+6. Pathogen
+7. Endemic
+8. Pandemic
+9. Outbreak
+10. Incubation period
+11. Zoonosis
+12. Infection
+13. Morbidity
+14. Vector
+15. Cluster
+16. Virus
+17. Epidemic
+
+P1-1. [mcq, 1 pt] An epidemic occurring over a wide area
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-2. [mcq, 1 pt] Infectious disease transmitted between species
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-3. [mcq, 1 pt] Study Cause of Disease
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-4. [mcq, 1 pt] Deviation of Data
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-5. [mcq, 1 pt] All cases fatal and nonfatal
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-6. [mcq, 1 pt] Infectious agent that replicates itself only within cells of living hosts
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-7. [mcq, 1 pt] Disease causing agent
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-8. [mcq, 1 pt] Aggregation of cases over particular period closely grouped in time and space
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-9. [mcq, 1 pt] Inanimate object capable of carrying infectious organisms
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-10. [mcq, 1 pt] Invasion of body by pathogenic agents
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-11. [mcq, 1 pt] Severity of disease agent causes in host
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-13. [mcq, 1 pt] A serious, potentially life threatening infectious disease that is usually transmitted by the bites of rodent fleas.
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-14. [mcq, 1 pt] Constant presence of disease in area
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-15. [mcq, 1 pt] Large numbers of people over wide geographic area affected
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-16. [mcq, 1 pt] Agent that carries and transmits pathogen into another living organism
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+P1-17. [mcq, 1 pt] Time between when a person comes into contact with a pathogen and when they show the first symptoms or signs of disease.
+    A) Plague
+    B) Virulence
+    C) Etiology
+    D) Bias
+    E) Fomite
+    F) Pathogen
+    G) Endemic
+    H) Pandemic
+    I) Outbreak
+    J) Incubation period
+    K) Zoonosis
+    L) Infection
+    M) Morbidity
+    N) Vector
+    O) Cluster
+    P) Virus
+    Q) Epidemic
+
+[STIMULUS] 1. Information Bias
+2. Healthy Worker Effect Bias
+3. Confounding Bias
+4. Berkson’s Bias
+5. Volunteer Bias
+6. Selection Bias
+7. Loss to Follow-up
+8. Observer Bias
+9. Measurement Bias
+10. Recall Bias
+11. Simpson’s Paradox
+
+P1-18. [mcq, 1 pt] An ex-prisoner was contacted months after he got norovirus in a prison outbreak. He seems unable to remember what his symptoms were.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-19. [mcq, 1 pt] 30 years ago, an epidemiologist gathered a group of smokers. He plans to see if they developed lung cancer in that time, but can’t seem to contact a few of them.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-20. [mcq, 1 pt] In a study of the effects of hypertension on heart disease, a nurse performs blood pressure measurements on the subjects using a faulty sphygmomanometer that always records blood pressures on the high side.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-21. [mcq, 1 pt] A study falsely concluded that alcoholism led to coronary heart disease. However, the real association lies in the fact that smokers are more likely to be alcoholics as well.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-22. [mcq, 1 pt] A case control study of pancreatic cancer and coffee drinking is conducted. Controls were selected from gastroenterologist’s patients in same hospital. However, GI patients are less likely to drink coffee than the rest of the population because of their disease. Hence the OR for coffee drinking was artificially increased due to the under-representation of coffee drinkers among controls.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-23. [mcq, 1 pt] An Asian man conducts a case-control study. The demographic of the cases reflect the general population, but all the controls selected are Asian men
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-24. [mcq, 1 pt] An epidemiologist seeks to find out whether working in a nuclear power plant increases the likelihood of dying from all causes. His findings, though, are underestimated. His cohorts are nuclear power plant workers, but he compares them to the general population who may or may not have jobs.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-25. [mcq, 1 pt] A study has a bunch of cases. A study put up fliers for those who wanted to participate in a study as controls. However, the researchers found that those who responded were much different demographically than the cases.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-26. [mcq, 1 pt] A group of women filed a lawsuit against Berkeley, claiming that their admission rates were unfairly lower than men’s overall. However, it turned out that their admission rates were higher than men in each of Berkeley’s colleges. They simply tended to apply to more selective programs.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-27. [mcq, 1 pt] A study uses different interviewers for cases and controls. One is much more knowledgeable than the other and asks better questions.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+P1-28. [mcq, 1 pt] Results from systematic differences in the way data on exposure or outcome are obtained from the various study groups
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+[STIMULUS] Match the organism with it MOST LIKELY source. Each is used once, so pick the choice that best fits each one
+
+1. Raw oysters, shellfish
+2. Fowl Intestines
+3. Cooked Tuna and barracuda
+4. Infected pork meat
+5. Recreational Water
+6. Pig Intestines
+7. Cattle
+8. Improperly canned food
+9. Fecal-oral
+10. Kitchen Equipment
+11. Raw fish
+
+P1-29. [mcq, 1 pt] Clostridium botulinium
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-30. [mcq, 1 pt] E. Coli (STEC) O157
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-31. [mcq, 1 pt] Ciguatoxin poisoning
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-32. [mcq, 1 pt] Staph aureus
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-33. [mcq, 1 pt] Campylobacter
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-34. [mcq, 1 pt] Diphyllobothrium latrium
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-35. [mcq, 1 pt] Shigella
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-36. [mcq, 1 pt] Yersinia Enterocolitica
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-37. [mcq, 1 pt] Giardia lamblia
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-38. [mcq, 1 pt] Vibrio vulnificus
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+P1-39. [mcq, 1 pt] Trichinella
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+[STIMULUS] Identify the type of pathogen (Bacteria, Virus, or Parasite) that cause each of the following.
+
+P1-40a. [mcq, 1 pt] Giardiasis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40b. [mcq, 1 pt] Hepatitis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40c. [mcq, 1 pt] Salmonella
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40d. [mcq, 1 pt] Yersinia
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40e. [mcq, 1 pt] E.coli
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40f. [mcq, 1 pt] Listeriosis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40g. [mcq, 1 pt] Cyclosporialis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40h. [mcq, 1 pt] Toxoplasmosis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40i. [mcq, 1 pt] Typhoid Fever
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+P1-40j. [mcq, 1 pt] Norovirus
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+
+=== Multiple Choice
+
+Identify the choice that best completes the statement or answers the question. ===
+
+P2-41. [mcq, 1 pt] Which is false about eggs and egg products?
+    A) None are false
+    B) Eggs should be cooked until both the white and yolk are firm
+    C) Eggs and eggshells can harbor many types of bacteria, especially salmonella
+    D) Salad dressings, mayonnaise, and ice cream can contain raw eggs.
+
+P2-42. [mcq, 1 pt] The spread of cyclosporiasis is preventable through
+    A) vaccination
+    B) sanitizing food surfaces
+    C) avoiding sharing personal items
+    D) practicing safe sex
+    E) avoiding outdoor sources of water
+
+P2-43. [mcq, 1 pt] Which of the following is an epidemiological triad?
+    A) pathogen/symptoms/agent
+    B) person/place/pathogen
+    C) agent/host/place
+    D) agent/host/environment
+    E) time/person/symptoms
+
+P2-44. [mcq, 1 pt] Cyclosporiasis is caused by a:
+    A) protozoan
+    B) virus
+    C) fungus
+    D) bacteria
+    E) chemical toxin
+
+P2-45. [mcq, 1 pt] An epidemic curve is shown above. Based on trends of the curve, this most likely represents:
+    [IMAGE: ../images/polytechnic_invitational__d_32b842-870a7afc.webp]
+    A) a shigella outbreak that infected several people at one time, then ended
+    B) the prevalence of the common cold in a high school
+    C) perfringens infections during the holiday season
+    D) staphylococcal infections after a company picnic
+    E) an E. coli outbreak that propagated as foreign travelers returned home
+
+P2-46. [mcq, 1 pt] Incubation period can be defined as the time between:
+    A) when symptoms appear and when symptoms are no longer evident
+    B) when initial contact with a pathogen is made and viral load is maximized
+    C) when initial contact with a pathogen is made and when symptoms appear
+    D) when initial contact with a pathogen is made and the patient is infectious
+    E) when the symptoms are not evident and the patient is infections
+
+P2-47. [mcq, 1 pt] Late-stage botulism poisoning is characterized by:
+    A) diarrhea
+    B) chills
+    C) paralysis
+    D) tonic-clonic seizures
+    E) delirium
+
+P2-48. [mcq, 1 pt] Deaths related to foodborne illnesses are primarily caused by:
+    A) lack of accessible care
+    B) central nervous system impairment
+    C) immunosuppression
+    D) dehydration
+    E) high core temperature
+
+P2-50. [mcq, 1 pt] Which experimental design is not retrospective?
+    A) cross-sectional study
+    B) longitudinal study
+    C) double-blind study
+    D) cohort study
+    E) case control
+
+P2-51. [mcq, 1 pt] The test results and pathology of a certain test are given below. Calculate the false negative rate.
+    [IMAGE: ../images/polytechnic_invitational__d_5b6716-a60a1f82.webp]
+    A) 7%
+    B) 42%
+    C) 23%
+    D) 0.07%
+    E) 1%
+
+P2-52. [mcq, 1 pt] What type of bias may be introduced when selecting patients for a study?
+    A) recall bias
+    B) reporting bias
+    C) confirmation bias
+    D) attrition bias
+    E) congruence bias
+
+P2-53. [mcq, 1 pt] Regarding handwashing, which of the following is not correct?
+    A) Food service workers should wash hands even if wearing gloves to handle food
+    B) Hands should be washed after using the restroom, handling live animals, pets or infants, and after sneezing or coughing.
+    C) Handwashing eliminates pathogenic bacterial contamination.
+    D) Hands should be washed with hot water and soap for at least 20 seconds.
+    E) Hands should be washed after handling raw meat and poultry
+
+P2-54. [mcq, 1 pt] An individual with travelers' diarrhea drank water out of a cup, then left it unattended. Another healthy individual became infected after drinking from the same cup. In this case, the cup is a
+    A) pathogen
+    B) contact initiator
+    C) point source
+    D) fomite
+    E) vector
+
+P2-55. [mcq, 1 pt] Which is False about the safety of produce?
+    A) Produce should be washed even if you intend to peel it
+    B) The FDA requires non-pasteurized juice products to have a warning label
+    C) Washing produce eliminates the risk of bacterial contamination
+    D) Fresh-squeezed cider and fruit juices must be pasteurized to be safe from germs
+    E) All produce should be washed before cooking or consuming
+
+P2-56. [mcq, 1 pt] Why should an investigator who has no clinical background nonetheless talk to a patient or two as an early step in the outbreak investigation?
+    A) To advise the patient about common risk factors and the usual course of the illness, after reviewing such information in appropriate reference material
+    B) To verify the laboratory findings as part of verifying the diagnosis
+    C) To develop hypotheses about the cause of the outbreak
+    D) To learn more about the clinical manifestations of the disease
+    E) To verify the clinical findings as part of verifying the diagnosis
+
+P2-57. [mcq, 1 pt] Based on Koch's postulates, which would not be a criterion for establishing causation of an illness?
+    A) microbe able to be isolated and cultured
+    B) cultured microbe is identical to the original microbe causing infection
+    C) individual is asymptomatic after some treatment
+    D) microbe able to infect a healthy individual when cultured
+    E) in healthy individuals microbe is absent, but present in all infected individuals
+
+P2-58. [mcq, 1 pt] Mode of transmission for Ebola
+    A) Vehicle
+    B) Food Borne
+    C) Direct Contact
+    D) Airborne
+    E) Waterborne
+
+P2-60. [mcq, 1 pt] Which is false about fresh produce?
+    A) All produce should be refrigerated to prevent bacterial growth
+    B) Salmonella E. Coli, listeria and toxoplasma can all be found in sprouts
+    C) Sprouts are usually contaminated by germs originating from the seeds
+    D) Fresh produce should never be prepared after meats or poultry without cleaning knives and cutting boards first, to prevent cross contamination
+
+P2-5. [tf, 1 pt] Bean and alfalfa sprouts are a frequent source of food poisoning
+    A) True
+    B) False
+
+[STIMULUS] Questions 61-66 refer to the following information
+
+Binalli Health Center is testing the effectiveness of Drug A as a potential cure for long-term nerve pain caused by the Clostridium Botulism pathogen from food poisoning. The result of Drug A against a placebo are summarized in the 2x2 table below:
+
+|         | Symptoms Relieved | Not Relieved |
+|---------|-------------------|--------------|
+| Placebo | 41                | 216          |
+| Drug A  | 64                | 180          |
+
+P2-61. [frq, 2 pt] What is an appropriate null hypothesis for this experimental study? What is the corresponding alternative hypothesis?
+
+P2-63. [frq, 3 pt] Describe any major differences between the table of expected values (calculated from the observed 2x2 table) and the observed data. Based on these values, can we conclude that Drug A causes a reduction in nerve pain?
+
+P2-64. [frq, 2 pt] A chi-square test is a statistical test that uses the X² distribution to decide if there is any difference between the observed (experimental) value and the expected (theoretical) value. In this experiment, a X² value was obtained of 7.979, corresponding to a p-value of 0.0047. Provide an interpretation for the null hypothesis below:
+
+P2-65. [frq, 2 pt] Based on the results of the chi-square test, can we reasonably reject the null hypothesis? Why or why not?
+
+P2-66. [frq, 2 pt] What is the difference between a Type I and Type 2 error in a statistical study?
+
+[STIMULUS] Questions 67-71 refer to the following case study.
+
+In early March, several cases of food poisoning were reported in and around Lakeside. In one given day, three patients reported to the emergency room with vomiting and diarrhea. Over the days following, the number of patients with these symptoms continued to grow. The patients answered several questions about their circumstances, with the following information:
+
+Out of 25 patients, 15 had eaten at Revelli's Pizza in the past week. Of the 40 uninfected family members of the 25 patients, 20 had eaten at Revelli's and 20 people had not eaten at Revelli's.
+
+Out of 25 patients, 5 had eaten at Tropicana in the past week. Of the 40 uninfected family members of the 25 patients, 12 had eaten at Tropicana, and 28 had not.
+
+P2-68. [frq, 3 pt] Calculate the odds ratios for getting food poisoning at Revelli's and at Tropicana. Determine which establishment is likely responsible for the outbreak.
+
+P2-69. [frq, 2 pt] Why may these odds ratios be inaccurate?
+
+P2-70. [frq, 5 pt] List five other pieces of information to obtain from the establishments to help determine the origin of the outbreak
+
+P2-71. [frq, 2 pt] Further examination of the patients concluded that the infections were caused by norovirus. Give two case definitions to differentiate how the ill patients were exposed.
+
+P2-TB. [frq, 3 pt] Describe one test for specific diagnosis of norovirus, and the process and methods behind the technique.

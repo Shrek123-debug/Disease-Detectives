@@ -1,0 +1,907 @@
+University of Georgia Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  80 questions, 140.0 pts
+Source: scio.ly test archive id 3fa1f0e6-dde1-479a-9ba4-6fa3b7198fa7  |  original files: https://drive.google.com/drive/folders/1XdYRVuOHAr05HZSuHLSgbNroFl-kWnBl
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+DIRECTIONS: 
+3. For numerical questions, answers within a reasonable range will be accepted.
+
+5. Points are based on accurately answering each part of the question.
+
+
+=== Section I: Multiple Choice ===
+
+[STIMULUS] Choose the best choice for each multiple choice question. All MCQs will have one correct answer unless stated otherwise and each MCQs is worth 2 pts.
+
+1. [mcq, 2 pt] Who was the discoverer of preventive measures for the disease, Puerperal Fever?
+    A) J. Lind
+    B) L. Rehn
+    C) P. Pott
+    D) E. Jenner
+    E) I. Semmelweis
+
+2. [mcq, 2 pt] Identify the type of experimental study: Beginning 1948, researchers collected health data of a group of 5, 209 residents from Framinhham, Massachusetts. Over the years, they followed these individuals to assess how factors such as smoking, diet, physical activity and medical history influenced heart disease over time.
+    A) Prospective cohort
+    B) Retrospective cohort
+    C) Case control
+    D) Experimental
+    E) Cross-sectional
+
+3. [mcq, 2 pt] Which of the following statements is true about the epi curve?
+    A) The curve only indicates the number of cases and doesn’t provide any information regarding the outbreak’s source or spread.
+    B) The shape of the curve can be used to predict future outbreaks but not past ones.
+    C) The curve only shows the incubation of the disease without revealing much about the point source.
+    D) The shape of the curve can be used to hypothesize the source of the outbreak and the mode of transmission.
+    E) None of the above.
+
+4. [mcq, 2 pt] The spread of cholera is best represented by which of the following illustrative models?
+    A) Spot maps
+    B) Area map
+    C) Histograms
+    D) Bar charts
+    E) Pie charts
+
+5. [mcq, 2 pt] Identify the type of surveillance: A public health agency designates certain hospitals across different regions to report cases of flu, allowing health authorities to monitor the spread intensity and seasonal patterns of flu outbreaks.
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+    E) Not enough information
+
+6. [mcq, 2 pt] Identify the type of experimental study: Erin is doing a research project about managing asthma in school. She sends out a survey to all the people in her classes to gather information about the prevalence and treatment methods of asthma.
+    A) Prospective cohort
+    B) Retrospective cohort
+    C) Case control
+    D) Experimental
+    E) Cross-secional
+
+7. [mcq, 2 pt] What of the determinants contributes the most in influencing the health of a population?
+    A) Social and societal characteristics
+    B) Genes and biology
+    C) Health behaviors
+    D) Medical Care
+    E) They all contribute evenly
+
+8. [mcq, 2 pt] The stage of subclinical disease is usually referred to as the ____ period for infectious disease and ____ for chronic disease.
+    A) Communicable; incubation
+    B) Latency; incubation
+    C) Incubation; latency
+    D) Incubation; communicable
+    E) Latency, inducible
+
+9. [mcq, 2 pt] An epidemic curve with a sharp upward slope and a gradual downward slope is most consistent with which manner of spread?
+    A) Continuous source
+    B) Point source
+    C) Propagated
+    D) Intermediate
+    E) Mixed
+
+10. [mcq, 2 pt] All of the following belong in the top 10 categories for the most important public health problems in the U.S. EXCEPT ____.
+    A) Motor vehicle injury
+    B) Teen pregnancy
+    C) HIV
+    D) Prescription drug overdose
+    E) Asthma
+
+11. [mcq, 2 pt] What was the first known outbreak for methyl mercury poisoning involving fish?*
+    A) Mad hatter diseases
+    B) Ciguatera
+    C) Salmonella
+    D) Minamata disease
+    E) Scombrotoxin
+
+12. [mcq, 2 pt] In a study in Asia, the incidence rate of stroke was measured in 123,456 women who were 30-55 years of age and free from coronary heart disease, stroke and cancer in 1997. A total of 789 stroke cases were identified in eight years of follow-up to 2005. What is the overall stroke incidence rate per 100,000 person-years of observation?
+    A) 54.7
+    B) 33.2
+    C) 79.9
+    D) 91.4
+    E) 63.9
+
+13. [mcq, 2 pt] What is the schema for assessing non-fatal health outcomes?
+    A) Impairment -> Disability -> Disease -> Handicap
+    B) Disease -> Impairment -> Disability -> Handicap
+    C) Impairment -> Disease -> Handicap -> Disability
+    D) Disease -> Disability -> Impairment -> Handicap
+    E) Impairment -> Handicap -> Disability -> Disease
+
+14. [mcq, 2 pt] Calculate the odds ratio from the table below:
+    
+    | | Exposure (Recent meat ingestion) | | |
+    |---|---|---|---|
+    | Disease (Enteritis Necroticans) | Yes | No | Total |
+    | Yes | 39 | 23 | 62 |
+    | No | 41 | 85 | 126 |
+    | Total | 80 | 108 | 188 |
+    
+    What is the likelyhood of the cases eating more meat than the control?
+    A) 0.284
+    B) 0.257
+    C) 1.22
+    D) 3.52
+    E) 1.11
+
+15. [mcq, 2 pt] Based on the following examples: climate, noise, radiation, ergonomics, and more. Which environmental factor would they fall into that may affect health?
+    A) Accidental
+    B) Physical
+    C) Biological
+    D) Chemical
+    E) Psychological
+
+16. [mcq, 2 pt] Based on the timeline below, identify what does the letter D represent in the natural history of disease.
+    [IMAGE: ../images/2024_university_of_georgia_invitational_c__p5_eb7a0a-5167c159.webp]
+    A) Pathologic Changes
+    B) Usual Time of Diagnosis
+    C) Onset of Symptoms
+    D) Exposure
+    E) Treatment of Symptoms
+
+17. [mcq, 2 pt] Which of the following is NOT emphasized in the clinical medicine approach?
+    A) Health Promotion
+    B) Treatment
+    C) Whole Patient
+    D) Diagnosis
+    E) All of the above are emphasized in the clinical medicine approach
+
+18. [mcq, 2 pt] Who published the first epidemiological text with a systematic focus on study design?
+    A) Joseph Goldberger
+    B) William Farr
+    C) Brian MacMahon
+    D) Edward Sydenstricker
+    E) Robert Koch
+
+19. [multi, 2 pt] Which of the following are examples of type II error? Select all that apply.
+    A) A fire alarm system does not go off when there is an actual fire.
+    B) A drug is found to have no effect in a clinical trial, but it actually works.
+    C) A security alarm goes off in a store, but there is no intruder.
+    D) A study concludes that a fertilizer improves plant growth, but in reality, it has no effect.
+    E) A test fails to detect a disease in a patient who actually has a disease.
+
+20. [mcq, 2 pt] Which of the following is NOT a component of a case definition?
+    A) Clinical information
+    B) Characteristics of affected people
+    C) Time sequence
+    D) Location or place
+    E) Possible treatment plan
+
+21. [mcq, 2 pt] Which of the Bradford-Hill Criteria states that more exposure leads to more outcome?
+    A) Strength
+    B) Biological Gradient
+    C) Coherence
+    D) Analogy
+    E) Specificity
+
+23. [multi, 2 pt] Identify the multiple forms of indirect transmission. Select all that apply.
+    A) Vector-borne
+    B) Transplacental
+    C) Vehicle-borne
+    D) Airborne, long-distance
+    E) Airborne, short distance
+
+
+=== Section II: Matching ===
+
+[STIMULUS] Given the word bank below, match the following statements with their respective terms. Note that not all terms will be used. Each matching question is worth 1pt.
+
+a. Active surveillance
+b. Arbovirus
+c. Attack rate
+d. Case-Control study
+e. Cohort study
+f. Frequency
+g. Herd immunity
+h. Incidence
+i. Incidence proportion
+j. Incidence rate
+k. Normal scale
+l. Ordinal scale
+m. Passive immunity
+n. Passive surveillance
+o. Prophylaxis
+p. Subclinical
+q. Transmission
+r. Vector
+s. Virulence
+t. Zoonosis
+u. Relative risk
+v. Odds ratio
+w. Confounding variable
+x. Systematic error
+y. Active immunity
+z. Epidemic
+
+24. [mcq, 1 pt] A form of incidence that measures the proportion of persons in a population who experience an acute health event during a limited period.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+25. [mcq, 1 pt] A condition without apparent symptoms.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+27. [mcq, 1 pt] An action taken to prevent disease.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+28. [mcq, 1 pt] Public health surveillance in which the health agency solicits reports.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+29. [mcq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+30. [mcq, 1 pt] Any of a group of viruses that are transmitted between hosts by mosquitos, ticks, and other arthropods.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+31. [mcq, 1 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+32. [mcq, 1 pt] Immunity conferred by an antibody produced in another host.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+33. [mcq, 1 pt] A fraction of persons with new cases of illness, injury, or other health condition during a specified period.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+34. [mcq, 1 pt] An observational analytic study in which enrollment is based on status of exposure to a certain factor or membership in a certain group.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+35. [mcq, 1 pt] A measure of the frequency with which new cases of illness, injury, or other health conditions occur.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+36. [mcq, 1 pt] Public health surveillance in which data are sent to the health agency without prompting.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+37. [mcq, 1 pt] A measurement scale consisting of qualitative categories whose values have a distinct order but not numerical distance between their possible values.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+38. [mcq, 1 pt] Amount or number of occurrences of an attribute or health outcome among a population.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+39. [mcq, 1 pt] Any mode or mechanism by which an infectious agent is spread to a susceptible host.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+40. [mcq, 1 pt] A measure of the frequency with which new cases of illness, injury, or other health conditions occur among a population during a specific period.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+41. [mcq, 1 pt] An observational analytic study that enrolls one group of persons with a certain disease, chronic condition, or type of injury and a group of persons without the health problem and compares differences in exposures, behaviors, and other characteristics.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+42. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+43. [mcq, 1 pt] The resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent.
+    A) Active surveillance
+    B) Arbovirus
+    C) Attack rate
+    D) Case-Control study
+    E) Cohort study
+    F) Frequency
+    G) Herd immunity
+    H) Incidence
+    I) Incidence proportion
+    J) Incidence rate
+    K) Normal scale
+    L) Ordinal scale
+    M) Passive immunity
+    N) Passive surveillance
+    O) Prophylaxis
+    P) Subclinical
+    Q) Transmission
+    R) Vector
+    S) Virulence
+    T) Zoonosis
+    U) Relative risk
+    V) Odds ratio
+    W) Confounding variable
+    X) Systematic error
+    Y) Active immunity
+    Z) Epidemic
+
+
+=== Section III: Short Answers ===
+
+[STIMULUS] List the 13 steps of Outbreak Investigation in order.
+    | Label | Answer |
+    | I | [[q:45-a]] |
+    | II | [[q:45-b]] |
+    | III | [[q:45-c]] |
+    | IV | [[q:45-d]] |
+    | V | [[q:45-e]] |
+    | VI | [[q:45-f]] |
+    | VII | [[q:45-g]] |
+    | VIII | [[q:45-h]] |
+    | IX | [[q:45-i]] |
+    | X | [[q:45-j]] |
+    | XI | [[q:45-k]] |
+    | XII | [[q:45-l]] |
+    | XIII | [[q:45-m]] |
+
+45-a. [frq, 1 pt] Label I
+
+45-b. [frq, 1 pt] Label II
+
+45-c. [frq, 1 pt] Label III
+
+45-d. [frq, 1 pt] Label IV
+
+45-e. [frq, 1 pt] Label V
+
+45-f. [frq, 1 pt] Label VI
+
+45-g. [frq, 1 pt] Label VII
+
+45-h. [frq, 1 pt] Label VIII
+
+45-i. [frq, 1 pt] Label IX
+
+45-j. [frq, 1 pt] Label X
+
+45-k. [frq, 1 pt] Label XI
+
+45-l. [frq, 1 pt] Label XII
+
+45-m. [frq, 1 pt] Label XIII
+
+[STIMULUS] Use the following diagram to solve the following two parts of this question. Assume that the horizontal lines in the diagram represent duration of illness in 10 different people, out of a community of 32.
+    [IMAGE: ../images/2024_university_of_georgia_invitational_c__p8_69ba5c-df23d2ea.webp]
+
+46a. [frq, 3 pt] Calculate the incidence rate from October 1, 2004 to September 30, 2005, using midpoint alive population as the denominator. Express the rate per 100 population.
+
+46b. [frq, 2 pt] Calculate the point prevalence on April 1, 2005. Express your answer as a percentage rounded to one decimal place.
+
+[STIMULUS] Based on the epidemic curve illustrating hepatitis A below. The incubation period for hepatitis A ranges from 15 to 50 days, with an average incubation period of 28-30 days. Answer the following questions using the epidemic curve.
+    [IMAGE: ../images/2024_university_of_georgia_invitational_c__p9_9905ec-68ae15d5.webp]
+
+47a. [frq, 1 pt] Is this epidemic curve consistent with a point-source epidemic?
+
+47b. [frq, 1 pt] What is the peak of the outbreak or the median date of onset?
+
+47c. [frq, 1 pt] When are the likely dates of exposure, based on the minimum incubation period before the first case?
+
+
+=== IV: Outbreak Investigations ===
+
+[STIMULUS] Case I: International Night Gone Wrong
+
+On January 26th, 2019, the DHS team hosted an international night to celebrate diversity at Duluth with food and performances from different cultural groups. It was estimated 790 students and staff attended the event but following that night, several students began experiencing severe gastrointestinal symptoms, including vomiting, diarrhea and abdominal cramping. Over the course of the week, many of the attendees were admitted to the hospital for a check-up where their stools were checked to identify the pathogen responsible for the outbreak.
+
+48. [frq, 3 pt] Formulate a case definition for this outbreak.
+
+[STIMULUS] The DHS team kept a record of everyone who attended the event through their ID scanners so they were able to send out a survey to all the 790 attendees. In the survey, each attendee was asked to report which food they ate that night or if they ate any at all.
+
+51. [frq, 3 pt] Out of the 790 students and staff that attended the event, only 439 people responded and the majority of those that responded became sick. What type of bias does this describe and how can you come to solve this issue?
+
+[STIMULUS] The results from the survey are presented below.
+    | Food | # of sick who ate | # of sick who did not eat | # of not sick who ate | # of not sick who did not eat |
+    | Pork dumplings | 35 | 145 | 70 | 540 |
+    | Chicken salad | 140 | 40 | 90 | 520 |
+    | Tonkotsu Ramen | 20 | 160 | 60 | 550 |
+    | Spaghetti & meatball | 60 | 120 | 80 | 530 |
+    | Samosa | 25 | 155 | 65 | 545 |
+
+[STIMULUS] Calculate the relative risk for each of the food. Round to the nearest hundredth place.
+    | Label | Answer |
+    | Pork dumplings | [[q:52-a]] |
+    | Chicken salad | [[q:52-b]] |
+    | Tonkotsu ramen | [[q:52-c]] |
+    | Spaghetti & meatball | [[q:52-d]] |
+    | Samosa | [[q:52-e]] |
+
+52-a. [frq, 2 pt] Pork dumplings
+
+52-b. [frq, 2 pt] Chicken salad
+
+52-c. [frq, 2 pt] Tonkotsu ramen
+
+52-d. [frq, 2 pt] Spaghetti & meatball
+
+52-e. [frq, 2 pt] Samosa
+
+53. [frq, 2 pt] Which food is most likely to be the culprit? Explain.
+
+54. [frq, 2 pt] Noticing that the food samples were still in the dumpsters, public health investigators collected leftover food samples from 70 plates. The result shows that 80% of the plates tested positive for Shigella. What is the purpose of collecting samples and testing it in the laboratory?
+
+55. [frq, 6 pt] List and explain two parts of the Bradford-Hill criteria for causation that can be applied to verify the cause of the outbreak.
+
+56. [frq, 3 pt] List three prevention strategies for the Shigella outbreak.
+
+[STIMULUS] Case II: Cardiovascular Disease and Sadness Overload
+
+The association between mental and physical health wants to research more into depression and cardiovascular disease correlation. Through the National Health and Nutrition and Examination Survey, researchers investigated the relationship between depression and risk for cardiovascular disease (10 year risk and lifetime risk). Chronic illness is often considered in the domain of clinical epidemiology more than classical epidemiology
+
+57. [multi, 3 pt] Which of the following would be more relevant to clinical epidemiology? Select all that applies.
+    A) Encouraging higher vaccine coverage in a community through public health announcements
+    B) Determining vaccine efficiency of a new vaccine.
+    C) Determining which demographic groups are at higher risk of developing depression.
+    D) Evaluating different drugs to see which is best to treat depression.
+
+58. [frq, 4 pt] State 2 advantages and 2 disadvantages of a cohort study.
+
+[STIMULUS] To diagnose cardiovascular disease faster, researchers develop a new test
+    |  | Positive test | Negative test |
+    | Has CVD | 26 | 90 |
+    | No CVD | 49 | 265 |
+
+64. [frq, 2 pt] If 6% of the population have CVD and the test has a specificity of 88% and a sensitivity of 94%, what would be the positive predictive value?
+
+65. [frq, 2 pt] Despite the high sensitivity and specificity, the test has a low positive predictive value. This is due to what?
+
+66. [multi, 3 pt] Which of the following biases will lead to a false assumption that the diagnostic test improves disease outcome? Select all that apply.
+    A) Berson’s bias
+    B) Immortal time bias
+    C) Length bias
+    D) Lead time bias
+    E) Healthy worker effect
+
+[STIMULUS] Researchers at UGA developed a new drug to treat cardiovascular disease. Now they need to design a trial to see if it works.
+
+67. [frq, 2 pt] Suggest what treatment the control group should receive in one sentence or less.
+
+68. [multi, 3 pt] Who is blinded in a single-blind study? Select all that apply.
+    A) Doctors administering medicine
+    B) Nurses administering medicine
+    C) Experimentalists analyzing data
+    D) Experimental group
+    E) Control group
+
+69. [multi, 3 pt] Who is blinded in a double-blind study? Select all that apply.
+    A) Doctors administering medicine
+    B) Nurses administering medicine
+    C) Experimentalists analyzing data
+    D) Experimental group
+    E) Control group
+
+[STIMULUS] Case III: Disease X
+
+A young healthy woman who came in complaining of headaches and nausea for the past four days was admitted to Grady Hospital. Doctors completed various tests but were unable to determine the reason behind her illness. Soon after, 5 more people showed up multiple times over the next couple of days with similar symptoms and no clear results as to the cause. Soon after 15 more people showed up resulting in increased cases. Doctors continue monitoring their health but have alerted the CDC of this situation as more and more people are calling in this emergency. It is up to you to determine the cause of this situation.
+
+71. [frq, 3 pt] Is this disease considered an epidemic? Explain.
+
+[STIMULUS] As you start answering these questions, you hear that patient zero has died and Northside as well as Wellstar hospitals are beginning to get flooded with cases. The numbers are drastically changing and you now need to answer more questions:
+    | Hospitals | Grady | Northside | Wellstar |
+    | Cases | 345 | 499 | 432 |
+
+74. [frq, 2 pt] How quickly must vaccine development start? How quickly must it be distributed?

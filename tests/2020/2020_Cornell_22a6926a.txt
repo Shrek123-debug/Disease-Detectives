@@ -1,0 +1,826 @@
+Cornell — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  78 questions, 203.0 pts
+Source: scio.ly test archive id 22a6926a-de15-4c48-b339-a1a71a3402ee  |  original files: https://drive.google.com/drive/folders/1NNVa0vHmhr-IB_4aWkT5F9uepPfmDZxj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Section I: Matching
+Match each description with the most closely related term. Not all terms will be used. ===
+
+[STIMULUS] A. Zoonosis
+B. Outbreak
+C. Fomite
+D. Virulence
+E. Cross Product Ratio
+F. Epidemic
+G. Pandemic
+H. Vector
+I. Point Prevalence
+J. Secular Trend
+K. Case Control
+L. Incubation
+M. Confounding Bias
+N. Latency
+O. Incidence Rate
+P. Reservoir
+Q. Recall Bias
+R. Rate Ratio
+S. Pathogenicity
+T. Active Surveillance
+U. Herd Immunity
+V. Cohort
+W. Vehicle
+X. Period Prevalence
+
+1. [mcq, 1 pt] An organism that transmits a pathogen
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+2. [mcq, 1 pt] An agent's ability to produce a disease
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+3. [mcq, 1 pt] Disease widespread across several countries and/or continents
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+4. [mcq, 1 pt] The proportion of total disease among a population
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+5. [mcq, 1 pt] The effect between exposure and outcome is altered by the presence of another variable
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+6. [mcq, 1 pt] The number of new cases over a period of time per average population during that time
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+7. [mcq, 1 pt] When an individual is unable to remember certain factors of exposure
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+8. [mcq, 1 pt] A disease that passes from an animal or insect to humans
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+9. [mcq, 1 pt] The environment an infectious agent inhabits
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+10. [mcq, 1 pt] A measure of the severity of disease
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+11. [mcq, 1 pt] Time between exposure and infectiousness
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+12. [mcq, 1 pt] Increase in the number of cases of a disease in an area, normally above the expected amount
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+13. [mcq, 1 pt] A physical object that transmits an infectious agent from one person to another
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+14. [mcq, 1 pt] Changes over a relatively long period of time
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+15. [mcq, 1 pt] Comparison of the probability of developing a certain outcome with and without exposure
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+16. [mcq, 1 pt] Comparison of the odds of developing a certain outcome with and without exposure
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+17. [mcq, 1 pt] Solicitation of reports from the health agency
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+18. [mcq, 1 pt] Study that looks at an exposure and is used to determine the outcome
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+19. [mcq, 1 pt] Time between exposure and onset of symptoms
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+20. [mcq, 1 pt] Resistance due to many members of a population being invulnerable to the disease
+    A) Zoonosis
+    B) Outbreak
+    C) Fomite
+    D) Virulence
+    E) Cross Product Ratio
+    F) Epidemic
+    G) Pandemic
+    H) Vector
+    I) Point Prevalence
+    J) Secular Trend
+    K) Case Control
+    L) Incubation
+    M) Confounding Bias
+    N) Latency
+    O) Incidence Rate
+    P) Reservoir
+    Q) Recall Bias
+    R) Rate Ratio
+    S) Pathogenicity
+    T) Active Surveillance
+    U) Herd Immunity
+    V) Cohort
+    W) Vehicle
+    X) Period Prevalence
+
+
+=== Section II: Multiple Choice
+Select the best answer for every question. ===
+
+II-1. [mcq, 2 pt] List the correct order of the chain of transmission.
+    A) Portal of Exit → Reservoir → Infectious Agent → Mode of Transmission → Portal of Entry → Susceptible Host
+    B) Infectious Agent → Reservoir → Portal of Exit → Mode of Transmission → Susceptible Host → Portal of Entry
+    C) Reservoir → Portal of Exit → Infectious Agent → Mode of Transmission → Portal of Entry → Susceptible Host
+    D) Infectious Agent → Reservoir → Portal of Exit → Mode of Transmission → Portal of Entry → Susceptible Host
+
+II-2. [mcq, 2 pt] Should raw meat be washed before cooking?
+    A) Yes - washing the meat rinses away potentially harmful bacteria on its surface
+    B) No - the water surrounds the bacteria and allows it to survive the cooking process, due to its high specific heat
+    C) No - the water may spread the bacteria to surrounding surfaces
+    D) Yes - cold, clean water renews the freshness of the meat
+
+II-3. [mcq, 2 pt] What is descriptive epidemiology?
+    A) The physical examination and description of Patient Zero
+    B) The demographic statistics for the population affected by the pandemic
+    C) The process of identifying and containing the pathogen
+    D) The descriptions of health data in terms of person, place, and time
+
+II-4. [mcq, 2 pt] Which of the following is not a particularly high-risk group for foodborne disease?
+    A) Pregnant women
+    B) Children of ages 5-10
+    C) Senior citizens
+    D) Infants
+
+II-5. [mcq, 2 pt] Which of these characteristics are not part of “person” in the “person-place-time” triangle?
+    A) Occupation
+    B) Age
+    C) Sex
+    D) All of the above are true
+
+II-6. [mcq, 2 pt] A host can be susceptible, infected, or ____:
+    A) Deceased
+    B) Resistant
+    C) Out of reach
+    D) Dormant
+
+II-7. [mcq, 2 pt] What is a viable setup for cross-contamination?
+    A) Jackie doesn’t wash his knife after handling raw seafood.
+    B) Simon and Henry accidentally drink from the same cup. Both boys blame each other for the mistake, then accidentally use the same toothbrush later than night.
+    C) Ashley, suffering from a cold, sneezes on Alex.
+    D) Melissa coughs into her hand, then turns a doorknob without washing her hands first. That door happens to be the entry into one of the busiest buildings on campus.
+
+II-8. [mcq, 2 pt] A zombie outbreak occurs in Manhattan; the virus responsible for it is traced to the Hudson River. Thirty years later, zombies are found again in Memphis. Traces of the virus are found in water from the Mississippi River. What type of outbreak is this?
+    A) Prolonged
+    B) Established surveillance
+    C) Continuous common source
+    D) Propagated
+
+II-9. [mcq, 2 pt] A total of 450 Cornell students become ill with a lethal strain of flu. Among the 450, 206 are hospitalized, 60 deaths are reported, and the extrapolated death rate is 23%. What is the case-fatality rate of this outbreak?
+    A) 13 %
+    B) 23 %
+    C) 36 %
+    D) 46 %
+
+II-10. [mcq, 2 pt] Scientists trace the beginnings of an outbreak to a dinner. Everyone who attended the dinner was asked to participate in a study where questions concerning demographic information and the food consumed at the dinner were asked. It was found that, among other things, raw carrots and romaine lettuce were served. What is this study considered?
+    A) Case-control study
+    B) Ecological study
+    C) Directional target study
+    D) Cohort study
+
+II-11. [mcq, 2 pt] What is the name used to refer to a histogram-resembling plot that tracks the number of cases by date of onset?
+    A) Endemic curve
+    B) Outbreak curve
+    C) Epidemiologic curve
+    D) Epidemic curve
+
+II-12. [mcq, 2 pt] What is a valid advantage of cross-sectional studies?
+    A) They can be used to describe absolute and relative risk from prevalence
+    B) They have an approximate 0.05 greater standard accuracy rate than any other study design
+    C) They are synonymous with longitudinal studies, which make continuous series of observations on the population
+    D) They are purely analytical studies, rather than descriptive
+
+II-13. [mcq, 2 pt] 5-10% of breast cancers can be traced to specific inherited gene mutations, such as the BRCA1 and ____ gene mutations.
+    A) Omega-campylo
+    B) BRCA1-alpha
+    C) BRCA2
+    D) Point fragment
+
+II-14. [mcq, 2 pt] An outbreak of typhoid fever occurs in Zimbabwe. The CDC sends investigators to determine what has caused the illness. Villagers are interviewed and it is found that most had frequented a local lake in the week before they began to notice symptoms. Bacterial isolates from all affected patients are sent back to the lab. What division of the CDC was sent to investigate?
+    A) Foreign Affairs
+    B) Water, Sanitation, and Hygiene
+    C) Aquatic Microbiology and Pathogens
+    D) Development and Waste
+
+II-15. [mcq, 2 pt] Why are the disease typhoid fever be relatively uncommon in the United States?
+    A) Non-native status of the animals that carry the pathogen
+    B) Established disposal plans for cleaning sewage and trash off the streets
+    C) Greater access to clean water
+    D) Strict food and produce regulations in place
+
+II-16. [mcq, 2 pt] What type of case is represented in the below graph?
+    [IMAGE: ../images/2020_cornell_c__p5_533564-ac9662c6.webp]
+    A) Propagated
+    B) Point source
+    C) Center-skewed
+    D) Recovered
+
+II-17. [mcq, 2 pt] An RDT test was used to confirm cases of dengue fever. During the first five days after onset of symptoms, a polymerase chain reaction test can be used to confirm the diagnosis. What does the test identify?
+    A) The presence of the genetic material of the dengue virus
+    B) The presence of an antibody indicating human immune system response to dengue virus
+    C) The presence of the outer protein coat of the dengue virus
+    D) Answers B and C are correct
+
+
+=== Section III: Short Answer ===
+
+III-1. [frq, 17 pt] Provide the 13 steps of an outbreak investigation. (Answer in form of a list.)
+
+III-2a. [frq, 3 pt] Briefly explain and give a one-sentence example of Nonresponse bias.
+
+III-2b. [frq, 3 pt] Briefly explain and give a one-sentence example of Reporting bias.
+
+III-2c. [frq, 3 pt] Briefly explain and give a one-sentence example of Panel effect.
+
+III-2d. [frq, 3 pt] Briefly explain and give a one-sentence example of Information bias.
+
+III-2e. [frq, 3 pt] Briefly explain and give a one-sentence example of Attrition bias.
+
+III-2f. [frq, 3 pt] Briefly explain and give a one-sentence example of Instrument bias.
+
+III-3. [frq, 9 pt] Known as Hill's Criteria for Causation, there are nine criteria that must be met to establish a cause-and-effect relationship. Name these criteria. (Answer in form of a list.)
+
+[STIMULUS] Identify which category each disease-causing agent is grouped under:
+A. Bacteria
+B. Virus
+C. Rickettsia
+D. Parasite
+
+III-4a. [mcq, 1 pt] Identify which category Tuberculosis is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4b. [mcq, 1 pt] Identify which category Typhus is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4c. [mcq, 1 pt] Identify which category Malaria is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4d. [mcq, 1 pt] Identify which category SARS is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4e. [mcq, 1 pt] Identify which category Pertussis is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4f. [mcq, 1 pt] Identify which category Cholera is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4g. [mcq, 1 pt] Identify which category Common cold is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4h. [mcq, 1 pt] Identify which category River blindness is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4i. [mcq, 1 pt] Identify which category AIDS is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4j. [mcq, 1 pt] Identify which category Bubonic plague is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4k. [mcq, 1 pt] Identify which category Spotted fever is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4l. [mcq, 1 pt] Identify which category Hepatitis C is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+III-4m. [mcq, 1 pt] Identify which category Sleeping sickness is grouped under.
+    A) Bacteria
+    B) Virus
+    C) Rickettsia
+    D) Parasite
+
+[STIMULUS] Identify the famous physician: (In the event of a tie, favor will be given to full [first and last] name answers.)
+
+III-5a. [frq, 2 pt] Scientist credited with developing the vaccine for smallpox: ____
+
+III-5b. [frq, 2 pt] Scientist credited with developing the vaccine for polio: ____
+
+III-5c. [frq, 2 pt] First female doctor in the United States: ____
+
+III-5d. [frq, 2 pt] Considered the "Father of Epidemiology" for his work in cholera: ____
+
+III-5e. [frq, 2 pt] Greek female physician who studied pathological gynaecology rather than midwifery: ____
+
+III-5f. [frq, 2 pt] Won acclaim for her work in reducing infant mortality rates by inventing a new vitals test, which was named for her: ____
+
+III-5g. [frq, 2 pt] Postulated that diseases are affected by their environment, rewarded by having a certain famous "Oath" named for him: ____
+
+
+=== Section IV: Studies and Statistics ===
+
+[STIMULUS] Part A: The 2134 freshmen at Norcell University have access to two dining halls, Pobert Rurcell Community Center and Apple Commons. Recently, Apple Commons served a fancy dinner that half of the freshman class attended. Among the foods served were clams and oysters, steak with gravy, and brussels sprouts. Assume that all the students who attended this dinner ate all the food provided. Between the next 24 to 48 hours, 117 of the students who ate at Apple Commons came down with symptoms of fever, nausea, vomiting, abdominal cramps, headache, and diarrhea. Of the students who did not eat at Apple Commons, 12 in total reported these symptoms.
+
+Based on this situation, answer the following questions:
+
+IV-A1a. [frq, 4 pt] Which food-borne organism infected the students? Organism: ____
+
+IV-A1b. [frq, 4 pt] Support your claim with evidence. Evidence: ____
+
+IV-A2. [frq, 12 pt] Calculate the relative risk for the above scenario and as well as the 2 x 2 table of values used to determine it.
+
+IV-A3. [frq, 6 pt] What does the value of the relative risk tell you about evidence for an association between the Apple Commons dinner and infection? Why?
+
+[STIMULUS] Part B: At the opposite end of Norcell University, the sophomore are also eating dinner. Last fall, 427 people were diagnosed with salmonella, and Baker Dining Hall was suspected to be the source. 387 of these people went to Baker, while the rest did not. In addition to these 427 invalids, 568 healthy people were contacted to see if they ate at Baker. 127 ate there, while the rest did not.
+
+Based on this situation, answer the following questions:
+
+IV-B1. [frq, 3 pt] What is the type of study that will be performed with the information provided? Why?
+
+IV-B2. [frq, 12 pt] Calculate the odds ratio for the above scenario and as well as the 2 x 2 table of values used to determine it.
+
+IV-B3. [frq, 6 pt] Interpret the odds ratio you calculated.
+
+[STIMULUS] Part C: Recently, the Center for Disease Control launched an investigation to determine the cause of an outbreak of malaria on the East Coast. 38 patients between the ages of 18-50 sent in official reports of symptoms of high fever, profuse sweating, shaking chills, and nausea. These cases appeared in Cambridge, Massachusetts; New Haven, Connecticut; and Providence, Rhode Island. 30 of these patients agreed to interview with officials to determine the cause of the outbreak. From the results, it was found that 26 of these 30 had recently participated in a blood donation program.
+
+IV-C1. [frq, 4 pt] Firstly, what kind of disease is malaria? What is it caused by?
+
+IV-C2. [frq, 6 pt] Name three diseases that are transmitted the same way.
+
+IV-C3. [frq, 4 pt] Name two indirect ways that an individual could contract malaria.
+
+IV-C4. [frq, 3 pt] What type of case study will you do to determine the cause of the outbreak? Why?
+
+[STIMULUS] The investigation unearthed that more people in the three cities were affected by malaria than just the people who reported. The following cumulative statistics were found:
+    | Disease? | Participated in Blood Donation? | City | Yes | No |
+    | Malaria | Cambridge | Yes | 13 | 39 |
+    | Malaria | Cambridge | No | 28 | 58 |
+    | Malaria | New Haven | Yes | 18 | 46 |
+    | Malaria | New Haven | No | 7 | 73 |
+    | Malaria | Providence | Yes | 14 | 21 |
+    | Malaria | Providence | No | 12 | 82 |
+
+IV-C5. [frq, 8 pt] Which city is associated with the highest relative risk of malaria? Calculate this risk.
+
+IV-C6. [frq, 6 pt] Name 3 recommendations the CDC officials would have given for warding off malaria.

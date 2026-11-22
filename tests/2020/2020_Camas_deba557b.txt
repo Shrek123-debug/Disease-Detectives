@@ -1,0 +1,155 @@
+Camas — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  30 questions, 85.0 pts
+Source: scio.ly test archive id deba557b-8aa5-441d-b561-b1645cf876dd  |  original files: https://drive.google.com/drive/folders/1mh0eeySHCOh5Km44Gi_pft0sLqZ6wge-
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: One 8.5” x 11” sheet of notes allowed. Two non-programmable scientific calculators allowed. Show all work as partial credit may be given. This test contains two independent case studies – you may take apart the test but please staple it back together. Tiebreakers: 17, 18, 19.
+
+[STIMULUS] For a restaurant to earn a Michelin star is one of the highest honours in global cuisine. The more stars earned, the more innovative and renowned the restaurant and the associated chef. The Fat Duck in Berkshire, Wales in U.K. has three Michelin stars and is considered one of the best restaurants in the world. It serves an estimated 1750 patrons every month. The head chef, Heston Blumenthal, is known for his ground-breaking innovation in the area of “molecular gastronomy,” which fuses molecular laboratory techniques into cooking practice (Smith et al., 2012).
+
+It is January 2009 and you have waited months to get a reservation at this restaurant. You and your dinner party choose the 16 course tasting menu for the equivalent of $240 per person. The cost is higher if a patron chooses matching wine pairings. You enjoy bite after bite of fascinating delicacies, including 1) a green tea and lime mousse that was frozen by the addition of liquid nitrogen, 2) oysters with passion fruit jelly and lavender, and 3) roast foie gras “benzaldehyde,” which uses cryogenically frozen goose livers cooked in a vacuum bag in a controlled temperature water bath. You leave the restaurant feeling enlightened and awed by the brilliance of the chef and the smug satisfaction that you have eaten at what is considered one of the best restaurants in the world.
+
+About two days later, you start to feel ill. You experience nausea, and start vomiting. You are beset by abdominal pain, diarrhoea and flu-like symptoms, which last about three days. You ask yourself, “Could it have been the meal? Surely not at that restaurant and at that price!” You visit your physician who suggests that it’s gastroenteritis, but does not diagnose the cause since she/he does not suggest that a cell culture or blood panel be performed. You recover after a few days, but your grandmother who was visiting you also acquires a similar illness during that time and requires hospitalization for dehydration. Since she did not join you for dinner, you decide you caught this “bug” elsewhere. On February 25, 2009 the local public health unit receives a report that four people became sick after eating at The Fat Duck.
+
+In the following case, you and your infection control team (ICT) will uncover the scope of food poisoning outbreak at The Fat Duck, uncover the mode of transmission and ultimately identify the source of the infection using the principles of outbreak investigation. At the end you will have solved one of the biggest restaurant associated outbreaks of gastroenteritis ever reported.
+
+Note: The sections of this case build on information uncovered in previous sections.
+
+1. [frq, 2 pt] Discuss the following options with your team and come to a consensus on the best option. How do you uncover more information about the extent of the outbreak? What are limitations and advantages of each option? Consider time, resources and information that each option will require.
+    
+    Option A: Create a press release and ask all people who ate at the restaurant to report their symptoms.
+    
+    Option B: Test all of the diners from the last week/month.
+    
+    Option C: Recruit reports from local doctor’s offices, hospitals and labs.
+    
+    Option D: Acquire more information from the restaurant by questioning staff and management.
+
+2. [frq, 2 pt] What is one immediate course of action the ICT could take to prevent spread?
+
+3. [frq, 2 pt] Consider the fact that some diseases are reportable to public health organizations, whereas others are not. How do you think this will impact your investigation?
+
+[STIMULUS] The restaurant has suspected an outbreak for several weeks. They had received 66 separate complaints from sick people over six weeks (January 6, 2009 to February 22, 2009) and had hired an independent company, Food Alert Ltd, to review food management and perform a survey of the people who had complained of symptoms that included vomiting, nausea and diarrhoea.
+
+To control the outbreak, the restaurant voluntarily closed until the source of the problem could be found. They have also conducted a pre-emptive deep clean of the restaurant prior to reporting the cases to the public health unit.
+
+Unfortunately, this also means that they don’t have many food samples available for microbiological testing and contaminated surfaces will also be difficult to identify. It is now up to your ICT to identify: the extent of the outbreak, the agent responsible, and the source.
+
+4. [frq, 2 pt] Surveys by Food Alert identified 66 cases. Do you think this captures a high proportion or low proportion of cases? Why?
+
+5. [frq, 2 pt] Generate a list of possible agents that could be causing the outbreak.
+
+6. [frq, 2 pt] Do you have enough information to assume that this is a case of food contamination? What evidence would you need to demonstrate food contamination?
+
+7. [frq, 3 pt] Once the closure was reported in media, what do you think happened to reports of illness? Why?
+
+
+=== Part II- Extent ===
+
+[STIMULUS] Your ICT now needs to uncover the extent of the problem and determine how many people have been affected. This means you have to apply some descriptive epidemiology. In essence, you will need to develop a case description for this outbreak (consider person, place and time) and come up with a way to identify cases among diners so that you can uncover the full extent of the outbreak.
+
+8. [frq, 4 pt] Use the information provided in the previous sections. How would you define the study population? Develop a case description.
+
+9. [frq, 2 pt] How would you find new cases? Would you take a different approach to finding cases between staff and diners?
+
+[STIMULUS] Once the case definition is developed, your ICT decides to uncover more cases by conducting an online survey. The survey is emailed to diners and their contacts that had complained of feeling symptoms.
+
+The survey comprised an eight page questionnaire that asked details about: date eaten at restaurant, timing of onset of symptoms after eating, length of illness, nature of symptoms, which foods were eaten/not eaten, laboratory tests undertaken at the advice of a physician, and whether other people in household got sick (secondary transmission).
+
+Some results from the survey were analyzed and are shown below in Table 1 and Figure 1. Figure 2 shows an epidemic curve that was generated from survey data and describes the number of cases over time.
+
+Table 1. Symptoms reported by survey responders who were defined as cases (n= 240). Six cases of secondary transmission were reported (not shown; Smith et al, 2009).
+    [IMAGE: ../images/2020_camas_c__d_6a3419-05f024b8.webp]
+    [IMAGE: ../images/2020_camas_c__d_12376c-a71f229b.webp]
+    | Symptom | Number reporting |
+    | Diarrhoea (three or more in 24 hours) | 197 |
+    | Nausea | 188 |
+    | Vomiting | 175 |
+    | Loose stools (one or two in 24 hours) | 68 |
+    | Headache | 103 |
+    | Fever | 102 |
+    | Abdominal pain | 155 |
+    | Muscle ache/flu-like symptoms | 114 |
+    | Weight loss | 75 |
+    | Blood in stool | 5 |
+
+[STIMULUS] Figure 1. Time observed between eating and onset of symptoms (Smith et al, 2009).
+
+Figure 2. Epidemic curve for gastroenteritis outbreak at The Fat Duck restaurant (Smith et al, 2009).
+    [IMAGE: ../images/2020_camas_c__d_12376c-a71f229b.webp]
+
+10. [frq, 2 pt] A survey tool was used to uncover the extent of the outbreak. How would your ICT distribute a survey? Who would you target as survey recipients?
+
+11. [frq, 4 pt] Using the data shown in Figure 1, estimate the median incubation time of the illness including a maximum and minimum range.
+
+12. [frq, 6 pt] The survey reported six cases of secondary transmission. Define secondary transmission. How do you think the grandmother of the diner in the introduction got sick? What can this tell you about the agent and its mode of transmission?
+
+14. [frq, 4 pt] What does the epidemic curve shown in Figure 2 tell you about transmission, incubation, agent and source? What kind of epidemic curve is this? Does it show point source, continuous source, intermittent source or propagated spread? Defend your answer.
+
+
+=== Part III- Identify the agent ===
+
+[STIMULUS] As shown in Table 1, your ICT has confirmed many cases of gastroenteritis at the restaurant during the study period and has uncovered the clue that the agent has a median 33-hour incubation period. However, the identity of the agent, the mode of transmission and the source of the agent are still unknown.
+    [IMAGE: ../images/2020_camas_c__d_6a3419-05f024b8.webp]
+
+15. [frq, 4 pt] Review modes of transmission and list the ones that are relevant to the case.
+
+16. [frq, 2 pt] Review the list of possible agents from Question 5 and predict where you might find them.
+
+18. [frq, 4 pt] Based on these possible transmission routes, brainstorm locations, people and types of samples that you would collect to try to identify the agent in The Fat Duck.
+
+[STIMULUS] ## Results from Surface and Food Sampling
+
+Your ICT collects samples from multiple sources. These include wipe tests of toilet door handles, banisters, iPods (served with one of the dishes), and food handling equipment that could have been an indirect source of contamination. Food samples were taken from many dishes, but much had been thrown away during the deep clean of the restaurant. Bacteria indicative of fecal contamination and poor hygiene, such as *Escherichia coli* were identified in some of the food products suggesting that food handling procedures were a concern, but the agent that caused gastroenteritis was not detected in these samples.
+
+## Results from Diner and Staff Sampling
+
+1. Diners who were still symptomatic were asked to submit a stool sample.
+   a. Screening for pathogenic bacteria = negative. 10 of 18 samples tested positive for a virus.
+2. Staff provided stool samples and were questioned.
+   a. Questioned about their role, food eaten at work, whether they were sick or whether people at their homes were sick, and other risk factors. 17 got sick, 6 worked while sick.
+   b. 6 of 44 samples tested positive for the same virus
+
+19. [frq, 2 pt] Why is this agent resistant to alcohol-based hand sanitizer?
+
+20. [frq, 2 pt] Review how the agent is transmitted, propagates and causes disease. Discuss how this fits with the patterns you have observed in the outbreak so far.
+
+21. [frq, 2 pt] Why were symptomatic diners tested, but not all of the diners who reported illness?
+
+
+=== Part IV – Identifying the Source ===
+
+[STIMULUS] Your ICT has successfully identified the agent and uncovered the extent of the outbreak. However, the source of the infection has yet to be determined. One challenge that your team faces is that much of the food was thrown out during the deep clean of the restaurant. The food that remained was negative for norovirus, and thus it is not known which food product was contaminated. Fortunately, your team can use analytical epidemiology to help track down the source of infection. You can use data collected in the survey to look back and identify possible sources.
+
+22. [frq, 3 pt] What kind of study design would you use in this outbreak? Case control, cohort, or cross-sectional? Explain your reasoning.
+
+23. [frq, 2 pt] What key pieces of information did the survey ask that will help your ICT determine the source?
+
+[STIMULUS] Recall that the survey identified cases and controls and asked very specific questions about which dishes had been eaten and not eaten. Your team uses this data to assess the most likely source of the viral infection.
+
+24. [frq, 2 pt] Your ICT developed a case definition in Question 8. What would you define as a control for this investigation?
+
+25. [frq, 6 pt] Build a 2 × 2 table and calculate an odds ratio for the following three dishes:
+    
+    - *Oyster, passion fruit, and lavender:* of 228 cases, 200 ate the oyster, passion fruit, and lavender dish. 28 cases had not tried it. Of 71 controls, 21 people tasted the dish but 50 had not eaten it
+    - *Salmon poached in licorice gel:* 150 cases reported eating this dish while 78 cases did not try it. 38 controls reported eating this dish whereas 33 did not taste it.
+    - *Parsnip cereal:* 100 cases tasted the dish, 128 did not. 30 controls ate the dish, whereas 41 did not try it.
+
+26. [frq, 3 pt] Based on your understanding of odds ratios, which food item would you suspect as the source of the outbreak? Show how would you confirm this?
+
+27. [frq, 2 pt] Why is it likely that more than one type of virus is present?
+
+29. [frq, 1 pt] What is the difference between an epidemic and an outbreak?
+
+30. [frq, 2 pt] Define a cluster. What is the difference between an outbreak and a cluster?
+
+31. [frq, 3 pt] Give three reasons why it is a good idea to construct a detailed case definition.
+
+32. [frq, 2 pt] What are the four components of a case definition?
+
+33. [frq, 6 pt] Finally, give two primary, two secondary, and two tertiary prevention techniques against this agent.
+    
+    Primary:
+    
+    Secondary:
+    
+    Tertiary:

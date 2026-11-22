@@ -1,0 +1,215 @@
+Yale — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  57 questions, 148.0 pts
+Source: scio.ly test archive id 885542ef-e4b0-4153-942f-22c81c722dcc  |  original files: https://drive.google.com/drive/folders/1QQqnF45dIiVxrZ927N-VYPs_8YnEbXsV
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: DO NOT WRITE ON THE EXAM
+Information on the case is cumulative. Be sure to use ALL previously given information to answer questions
+Show ALL work
+Present answers with three significant figures for any calculation
+
+
+=== Part I: Background & Surveillance - 34 pts ===
+
+[STIMULUS] In September, the Connecticut Department of Public Health announced that the Eastern Equine Encephalitis (EEE) virus has been identified in mosquitoes within 12 towns throughout Connecticut and recommended several methods to reduce the risk of EEE infection.
+
+P1-1a. [frq, 1 pt] Indicate which point in the chain of infection would be broken by each preventative measure.
+    
+    Use mosquito netting when sleeping outdoors
+
+P1-1b. [frq, 1 pt] Indicate which point in the chain of infection would be broken by each preventative measure.
+    
+    Use landscaping techniques to eliminate areas where water can collect on your property
+
+P1-1c. [frq, 1 pt] Indicate which point in the chain of infection would be broken by each preventative measure.
+    
+    Wear shoes, socks, long pants, and long-sleeved shirts. Clothing material should be tightly woven and light colored
+
+P1-2. [mcq, 1 pt] EEEV takes roughly 3-10 days to cause symptoms. This period is known as the ____.
+    A) Pathogenicity period
+    B) Incubation period
+    C) Morbidity period
+    D) Latency period
+
+P1-3. [frq, 2 pt] Only about 4% of people who are infected with EEEV do not develop any symptoms. This statistic describes the ____ of the virus.
+
+P1-4. [frq, 1 pt] EEE is a ____ disease because it is transmitted from mosquitoes to humans.
+
+P1-5. [mcq, 3 pt] In 1974, a patient received a corneal transplant from a cadaver who had been infected with Creutzfeldt-Jakob disease (CJD) and subsequently developed CJD. This is an example of a(n) ____ infection.
+    A) Iatrogenic
+    B) Mixed
+    C) Community-acquired
+    D) Opportunistic
+
+P1-6. [mcq, 2 pt] Hookworm can be transmitted when one walks barefoot over soil containing hookworm eggs. The mode of transmission is ____.
+    A) Vehicle-borne
+    B) Direct contact
+    C) Vector-borne
+    D) Droplet spread
+
+P1-7. [frq, 2 pt] Of the four major health determinants, which has the largest influence over health at the population level?
+
+P1-8. [frq, 3 pt] Define the terms holoendemic and hyperendemic. Explain the temporal differences between the two.
+
+P1-9. [mcq, 2 pt] Endemicity of malaria can be defined by parasite rate or spleen rate in children aged 2-9 years old. In an area where the parasite rate is consistently greater than 75% with a low adult spleen rate, the endemicity could be described as ____.
+    A) Hypoendemic
+    B) Hyperendemic
+    C) Holoendemic
+    D) Mesoendemic
+
+P1-10. [frq, 2 pt] What are the primary roles of the clinical approach and public health approach to health care?
+
+P1-11. [frq, 1 pt] What is one purpose of epidemiology in public health practice?
+
+P1-12. [frq, 2 pt] This laboratory test is often used for viral diseases, such as measles: ____ .
+
+P1-13. [frq, 2 pt] This laboratory test is used to distinguish between strains of disease: ____.
+
+P1-14. [frq, 2 pt] What is the purpose of syndromic surveillance?
+
+P1-15. [frq, 3 pt] List three criteria used to select a health problem for surveillance:
+
+P1-16. [frq, 3 pt] List the five step process for surveillance:
+
+
+=== Part II: Outbreak Investigation - 79 pts ===
+
+[STIMULUS] In the nation of Jejusaria, people have a long history of working hard on farms to earn a living. In recent decades, the onset of new technologies is changing the nation radically. Society is now being reshaped around skilled labor and capital accumulation, and people have subsequently began placing greater value on high school and college education. Inequality has increased over time as skills and education have differentiated labor and made differences in human capital more salient, especially as elite skills and labor are valued exponentially higher than middle-class labor. In this critical period of national development, feelings of competition have emerged in a land that was previously laid-back and content with humble lifestyles.
+
+Across the country, students and parents are extremely stressed, especially because of what’s transpired this past week and a half. The higher education regulation committee, The Knowledge Board, implemented two additional placement tests for prospective college students that will be taken at the start of next week. The new tests are eight hours long and determine one’s college as well as major; stress in the air is palpable as students rush to prepare. A number of Jejusaria’s important trade partners have also been ravaged by military coups and engulfed in trade wars, causing Jejusaria’s currency — the Trier — to veer on the edge of collapse. Furthermore, Jejusaria is dealing internally with a severe case of stagflation, which is becoming increasingly worse as inflation rates near 500,000%.
+
+Meanwhile, on February 1st, you sit in your office, contemplating what success really means to you and your family. “What is meaningful to me?” you whisper to yourself. Suddenly, someone opens the door.
+
+“There’s an emergency at the Entropy Wade Mountain. Thousands have reported sick dating back to a week ago” your longtime co-worker Gerard Altman says. You quickly pull up a record of statistics from public health agencies in the area.
+
+P2-1. [frq, 2 pt] What is the most specific term you could use to characterize the situation?
+
+P2-2. [frq, 3 pt] Name three groups, outside of public health agencies that conduct surveillance.
+
+P2-3. [frq, 2 pt] Would sentinel surveillance be useful in this scenario? Explain.
+
+[STIMULUS] You can’t find any information on the file. Concerned, you look at Gerard and suggest the two of you go over to the site, given it’s 30 minutes away. He agrees.
+
+As you sit passenger in the car, you wonder if the disease is a particularly unique kind, especially since the country is subject to pretty significant seasonal changes, and the weather has changed drastically in the past two weeks.
+
+P2-4. [frq, 3 pt] Name three reasons why this situation should be investigated.
+
+[STIMULUS] You arrive to see public health officials and epidemiologists covering the entrance to the road path. Even from afar, you can see messages of “anxiety is my new diety” and “FIX THIS” painted on rocks leading up to the mountain’s base. You speak with officials and they tell you that people have been periodically coming up to Entropy Wade Mountain for relief from the constant stress of life in the cities. People have come up to the mountain in droves, and no one who has come has left.
+
+Mountain inhabitants reportedly exhibited rashes all over their body alongside high fevers from the few inhabitants that the police were able to speak with in length. But the defining characteristic of illness was hostility directed toward people that one identifies as the cause of one's frustration. In other words, infected people assign incessant blame onto others for their plights and subsequently entered a state of neurosis. Health officials are terming the illness Ressentiment .
+
+P2-5. [frq, 4 pt] What type of analytic study, if any, would be appropriate at this point in the investigation?
+
+P2-6. [frq, 2 pt] Is it more important to have a more sensitive or a specific case definition in the early stages of investigating a severe illness? Explain your reasoning.
+
+P2-7. [frq, 3 pt] Construct a possible case definition for this situation.
+
+[STIMULUS] You decide to return to your days as a shoe-leather epidemiologist. You and Gerard agree to split up into two teams of a hundred people to collect data and information from cases. You finally finish at the end of the evening. Together, you are able to record information for 8,418 cases, though there are 972 more cases who you were unable to reach. The country's population is 272,682.
+    | Date | 01/25 | 01/26 | 01/27 | 01/28 | 01/29 | 01/30 | 01/31 |
+    | # of Cases | 773 | 892 | 1464 | 987 | 1607 | 1173 | 1522 |
+
+P2-9. [frq, 2 pt] What epidemic pattern is suggested by the epicurve?
+
+P2-10. [frq, 2 pt] Provide two reasons for why some cases may be unreported.
+
+P2-11. [numeric, 2 pt] Calculate the attack rate for the disease.
+
+P2-12. [frq, 4 pt] Calculate the incidence rate and interpret its meaning.
+
+[STIMULUS] After you and other public health officials confer, you decide it would be best to compare cases to their neighbors to see if there were any differences in exposures or potential risk factors. A researcher on your team suddenly comes up to you and gives you an old notice from years ago about a similar illness that devastated a portion of the nation. The mysterious illness, then termed The Oceanic Feeling , triggered a sensation of unity with the universe in its subjects; oftentimes, however, cases would then develop psychosis and become so invested in this feeling that it would weaken their engagement with and grasp over reality. Cases of the Oceanic Feeling eventually petered out, though patients never recovered. Some people continued to get it over the years, and some epidemiologists believe that some continue to carry the disease, albeit with no symptoms.
+
+P2-13. [frq, 3 pt] What type of analytic study will you be conducting?
+
+P2-14. [frq, 1 pt] Why is this study design appropriate for this outbreak?
+
+P2-15. [frq, 4 pt] List and define two common sources of bias in this type of analytic study.
+
+P2-16. [frq, 3 pt] What do you call an illness like The Oceanic Feeling, where infection is hidden, inactive, or dormant in some subjects?
+
+[STIMULUS] You decide to reach out to neighbors. Ultimately, your teams collect information from 7,924 neighbors who will serve as a comparison group. From them, you asked about a series of exposures and risk factors on a wide range of transmissions. Gerard's team also collected data from those with Ressentiment. The data is listed below.
+
+*Notes:
+- Animals represented by the study participants included turtles, dogs, cats, and horses.
+- Holocene is a popular over-the-counter medication used to relieve headaches, body pains, and hypertension. For maximum effectiveness, it should be taken with a meal high in fat content.
+- The construction site is an area of rampant pollution and has been known to cause minor respiratory illnesses and reduce absorption of nutrients in one's bloodstream.
+    | Exposure Data n=8418 | Number of Cases | Exposure Data n=7924 | Number of Controls |
+    | Contact with animals | 762 | Contact with animals | 827 |
+    | Holocene | 3222 | Holocene | 2032 |
+    | Avocado-egg toast | 3592 | Avocado-egg toast | 2907 |
+    | Visit to construction site | 2522 | Visit to construction site | 2209 |
+
+P2-17. [frq, 2 pt] Assuming the neighbors are accurately comparable to the sick, what could be specifically adjusted in order to increase and improve the power of the study?
+
+P2-18. [frq, 4 pt] Can odds ratio be used for cohort studies? Can relative risk be used for case control studies? Explain.
+
+P2-19. [frq, 4 pt] Calculate the appropriate Measure of Association for each exposure.
+
+P2-20. [frq, 3 pt] What is the most likely source of Ressentiment? Write a sentence describing and interpreting its Measure of Association.
+
+[STIMULUS] You meet with Gerard to break down the data. Both of you agree there is uncertainty on your conclusions. Understanding the magnitude of the situation and the enormous responsibility you have to ensure your assessment is comprehensive and accurate, you two go to the drawing board and try to devise a clear explanation as to how Ressentiment arose.
+
+P2-21. [frq, 6 pt] Does it make sense that the answer to the previous question is the source of Ressentiment? Considering what you know about the state of Jejusaria, formulate an explanation as to how the illness may have begun.
+
+P2-22. [frq, 4 pt] Explain why the other risk factors you calculated are not the primary cause of Ressentiment. Are there any confounding variables? If so, explain.
+
+P2-23. [frq, 4 pt] What is the difference between lurking and confounding variables? Name three ways in which the effect of the latter can be mitigated via study design or analysis.
+
+P2-24. [frq, 4 pt] List two of Hill's criteria and explain how they apply to the Ressentiment outbreak.
+
+
+=== Part III: Patterns, Control, and Prevention - 43 pts ===
+
+P3-III-1. [frq, 3 pt] Geographic information systems and GPS data are having ever expanding roles in public health. How can satellite imagery be used to help track emerging infectious diseases?
+
+P3-III-2. [frq, 3 pt] Generally, there are two modes of addressing prevention: targeting only those identified as being high risk, or targeting a whole population. In a situation where there is a dose-response relationship between risk and exposure, would a population-based approach be more or less effective?
+
+P3-III-3. [frq, 2 pt] How are high-risk groups identified?
+
+[STIMULUS] The following is an abridged version of an abstract from The International Journal of Tuberculosis and Lung Disease. Use this information to answer questions 4-7.
+
+SETTING: Mulago Hospital, Kampala, Uganda.
+
+OBJECTIVE: To evaluate the diagnostic performance of fluorescence microscopy for diagnosing pulmonary tuberculosis in a high human immunodeficiency virus (HIV) prevalence setting.
+
+DESIGN: Consecutive in-patients with cough for >2 weeks submitted two sputum specimens for smear microscopy. Smears were examined by conventional light microscopy and FM. The performance of the two methods was compared using mycobacterial culture as a reference standard.
+
+RESULTS: A total of 426 patients (82% HIV-infected) were evaluated. FM identified 11% more smear-positive patients than CM (49% vs. 38%, P < 0.001). However, positive FM results were less likely than positive CM results to be confirmed by culture when smears were read as either 'scanty' (54% vs. 90%, P < 0.001) or 1+ (82% vs. 91%, P = 0.02).
+
+P3-III-4. [frq, 2 pt] Based on the results of the study, compare the sensitivity and specificity of the fluorescent microscopy method to the conventional light microscopy method.
+
+P3-III-5. [multi, 4 pt] Following from your answer above, what is a possible result of using the FM method for diagnosing pulmonary tuberculosis in a high HIV prevalence setting? Choose all that apply.
+    A) More patients with pulmonary tuberculosis will be treated
+    B) Less patients with pulmonary tuberculosis will be treated
+    C) More people who do not have pulmonary tuberculosis will be (erroneously) treated
+    D) Less people who do not have pulmonary tuberculosis will be (erroneously) treated
+
+P3-III-6. [frq, 2 pt] Should the FM method be used? Support your answer.
+
+P3-III-7. [frq, 1 pt] What is the difference between Type I and Type II errors?
+
+P3-III-8. [frq, 2 pt] If a disease is particularly effective at infecting those who are immunocompromised, what measures should be taken?
+
+[STIMULUS] The following figure displays age-standardized death rates from tuberculosis in England and Wales, 1840-1968.
+    [IMAGE: ../images/2020_yale_c__p9_3e9ba4-3b91bb68.webp]
+
+P3-III-9. [frq, 2 pt] Other than the introduction of specific preventive and therapeutic measures indicated on the graph, what are some other reasons for the decline in mortality?
+
+P3-III-10. [frq, 3 pt] What kind of information is provided from an epidemic curve?
+
+P3-III-11. [frq, 4 pt] If the cause of a point source outbreak is known, how could you use an epidemic curve to calculate the likely period of exposure?
+
+[STIMULUS] While the opioid crisis may appear to be a uniquely modern crisis, the problem first began in the 1990s. During this time, prescriptions of OxyContin (oxycodone) surged thanks to the efforts of its manufacturer, Purdue Pharma. Lobbying, sponsorship agreements, and subsidizing physicians and organizations to use the drug lead to a boom in its usage across the general public.
+
+According to the CDC, of the 64,070 overdose deaths in the US in 2016, opioids were involved in 42,249 of them. In other words, about 116 people died from opioid overdoses each day — a number that is even higher today. That year, Teleflex Medical attempted to tackle the issue by producing the MAD300 mucosal atomization device [image below], which would reverse the effects of opioid overdose. On November 4, 2016, however, Teleflex Medical released this field safety notice:
+
+Teleflex Medical is recalling these products as they may not deliver a fully atomized plume of medication. Teleflex Medical has received complaints that the affected lots produced a straight stream instead of an atomized spray. The failure of the device to deliver an atomized plume may impair the effectiveness of the medication with which it is used. This can lead to serious injury or death in certain emergency situations, such as where the device is used in an off-label manner for needle-free delivery of drugs for reversal of life threatening narcotic overdose, reversal of life threatening hypoglycemia, or treatment of epileptic seizures.
+    [IMAGE: ../images/2020_yale_c__p10_448b57-1b8a1c86.webp]
+
+P3-III-12. [frq, 3 pt] How might the specific flaw in the device adversely affect opioid treatment?
+
+P3-III-13. [frq, 4 pt] If you were Teleflex, create a plan in which you can ensure as successful recall as possible of your product. Also consider if owners of the product should be advised to throw it away.
+
+P3-III-14. [frq, 3 pt] Considering this was in 2016, how might Teleflex's medical device have been more beneficial as compared to the then-common intravenous mode of administration.
+
+P3-III-15. [frq, 2 pt] We are a mobile and technologically-based society. As a result, there may not be references like credit card bills or registers that can be used to contact us later. Describe two groups of people who are likely to have been exposed in an outbreak but with no contact information available to investigators.
+
+P3-III-16. [frq, 3 pt] Epidemiologists can do a lot on their own to prevent the transmission of disease, but part of the responsibility also resides on lawmakers. If you were a public health official in charge of submitting to the government a set of three recommendations to make your voluntary disease screening program as successful as possible, what would they be?

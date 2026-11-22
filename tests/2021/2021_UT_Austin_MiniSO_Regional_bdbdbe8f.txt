@@ -1,0 +1,382 @@
+UT Austin MiniSO Regional — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  63 questions, 113.0 pts
+Source: scio.ly test archive id bdbdbe8f-e7f8-4cfb-9535-d573e9494800  |  original files: https://drive.google.com/drive/folders/1ur-B7eWRyt70p7wkg7Wg1pGkkKaE1W0B
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+DIRECTIONS: Follow the directions for each set of questions. If you don't, you will be scored wrong and there is a higher chance of you not receiving rightful points. Questions are weighted differently for the time and skill needed to complete them.
+
+Good Luck!!!!!!
+
+
+
+1. [frq, 1 pt] Surveillance in which monitoring of rate of occurrence of specific conditions to assess the stability or change in health levels of a population. Used when high-quality data are needed about particular disease.
+
+2. [frq, 1 pt] Choice of measurement used to indirectly measure a different parameter of population being studied
+
+3. [frq, 1 pt] As the number of pack-years increases for a given smoker, their likelihood of developing lung cancer increases. This best demonstrates:
+
+4. [frq, 1 pt] Surveillance in which health-related data is used before diagnosis to signal sufficient prob of case or outbreak.
+
+5. [frq, 1 pt] Denoting a population or area in which a disease incidence is sufficiently low that the population has limited or no immunity to it
+
+6. [frq, 1 pt] A mortality rate is an example of a:
+
+7. [frq, 1 pt] The study of the physiologic cause of a disease.
+
+8. [frq, 1 pt] Carriers who harbor the pathogen, and although are in the recovery phase, are still infectious
+
+9. [frq, 1 pt] Carriers who have been exposed to an harbor the pathogen, are at the beginning of the disease and are starting to show symptoms. May transmit the disease
+
+10. [frq, 1 pt] Most accurate type of study and can tell causality
+
+11. [frq, 1 pt] An exposure spread from person to person rather than from a common event:
+
+12. [frq, 1 pt] A practice in which observes an infected group and a healthy group and compares their exposure, behaviors and other notable characteristics:
+
+13. [frq, 1 pt] The first occurrence of an infection recorded by health authorities:
+
+14. [frq, 1 pt] Relating to illness caused by medical examination or treatment
+
+15. [frq, 1 pt] Given that the common cold is highly prevalent in all areas of the world, it is considered a(n) ____ disease:
+
+16. [frq, 1 pt] The separation of sick individuals from healthy individuals in order to slow the spread of disease is known as:
+
+17. [frq, 1 pt] A(n) ____, also known as an antigenic determinant, is part of an antigen that is recognized by the immune system.
+
+18. [frq, 1 pt] Transmission of disease from mother to fetus
+
+[STIMULUS] Leishmaniasis is a disease caused by any of about twenty species of Leishmania, a eukaryotic single-celled organism in the Trepanosomitidae family. It passes through two life stages. In sandflies, it has a flagellum and swims freely in the gut. When the sandfly bites a vertebrate, it injects some Leishmania along with the anticoagulant. The flagellate stage is susceptible to host immune response, but if the organism is subjected to phagocytosis by the host's monocytes, neutrophils or macrophages, it loses its flagellum and reproduces rapidly, causing the cell to rupture. This form is more resistant to host immune response and appears to be able to survive in vertebrate blood for a short time until it is taken up again by another white blood cell. The disease caused by this organism can take one of three forms. The most common form is cutaneous leishmaniasis, characterized by ulcerations on the skin. In mucocutaneous leishmaniasis, skin lesions are accompanied with lesions in the mucosal tissue of the mouth, nose etc. which are often serious enough to significantly change the shape of the face. While the latter in particular may leave the patient permanently disfigured, these two forms are usually self-limiting as the host's immune system eventually clears the infection. The most serious form is visceral leishmaniasis (VL), also known as kala-azar. This form is always secondary, occurring months or even years after the original infection in hosts who failed to clear it. In VL the organism becomes established in the spleen and liver, causing fever and anemia. It is estimated that VL would be fatal in about 95% of untreated patients, and it causes about 50,000 human deaths per year. Only a few species of Leishmania are capable of causing VL in humans, the vast majority of cases being caused by L. donovani in East Africa and southern Asia and L. infantum in the Mediterannean region and South America. Infected vertebrates which are bitten by a sandfly may transmit the organism, which then develops a flagellum and migrates towards the mouthparts, continuing the cycle. Sandflies are small dipterans somewhat similar to mosquitoes. Like mosquitoes, their principle food is plant juices but the females require a blood meal from a vertebrate in order to produce viable eggs, which must be laid in a relatively humid environment. Hyraxes and rodents are susceptible to Leishmania infection, but L. infantum is most often found in canids (dogs, jackals etc.) while L donovani appears to affect mostly humans. While infected people appear to be immune to re-infection by the same species, no vaccine has been developed.
+
+In 2013, researchers in Belgium and Algeria collected data from the Algerian National Institute of Public Health's (INSP) database on the incidence of visceral leishmaniasis in that country between 1998 and 2008.
+
+19. [mcq, 2 pt] Leishmania would be classified as a
+    A) Virus
+    B) Bacteria
+    C) Protist
+    D) Archaean
+    E) Annelid
+
+20. [mcq, 2 pt] Leishmania in vertebrates is best described as a(n)
+    A) obligate extracellular parasite
+    B) facultative extracellular parasite
+    C) obligate intracellular parasite
+    D) facultative intracellular parasite
+
+22. [frq, 1 pt] What US organization do you think is the closest equivalent of the INSP? Please just do initials
+
+[STIMULUS] Choose the term(s) that best describe the role of each as they relate to human leishmaniasis in Algeria. Some questions may have more than one correct answer.
+
+a. Agent
+b. Attack rate
+c. Definitive host
+d. Host
+e. Incidence
+f. Infectivity
+g. Intermediate host
+h. Pathogenicity
+i. Prevalence
+j. Reservoir
+k. Vector
+
+24. [mcq, 2.5 pt] Leishmania infantum
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+27. [mcq, 2.5 pt] Proportion of people bitten by an infected sandfly who become infected
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+28. [mcq, 2.5 pt] Proportion of infected people who develop leishmaniasis
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+29. [multi, 2.5 pt] Proportion of all Algerians who contract leishmaniasis this year
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+30. [mcq, 2.5 pt] Proportion of all Algerians with Leishmaniasis
+    A) Agent
+    B) Attack rate
+    C) Definitive host
+    D) Host
+    E) Incidence
+    F) Infectivity
+    G) Intermediate host
+    H) Pathogenicity
+    I) Prevalence
+    J) Reservoir
+    K) Vector
+
+31. [mcq, 2 pt] Which of the following does not describe descriptive epidemiology?
+    A) Does not perform intervention studies
+    B) Focuses on person, place, time
+    C) Generates hypotheses
+    D) Tests hypotheses
+    E) All of the above describe descriptive epidemiology
+
+32. [mcq, 2 pt] Which of the following statistics is associated with analytic epidemiology?
+    A) Standard Error
+    B) McNemar test for paired data
+    C) Confidence intervals of means
+    D) Chi-square
+    E) Two or more of the above are associated with analytic epidemiology
+
+33. [mcq, 2 pt] There are a variety of variables that can be used in a data summary. Duration of illness is an example of which type of variable?
+    A) Interval-scale variable
+    B) Ordinal-scale variable
+    C) Nominal-scale variable
+    D) Ratio-scale variable
+
+34. [mcq, 2 pt] Which of these is NOT an advantage of a Cohort study?
+    A) Good for rare diseases
+    B) Most accurate observational study
+    C) Easy risk calculation
+    D) Good measure of exposure
+    E) Good for rare exposures
+
+35. [mcq, 2 pt] Promoting handwashing best describes prevention of which mode of transmission?
+    A) Fecal-oral transmission
+    B) Vehicleborne transmission
+    C) Direct transmission
+    D) Vectorborne transmission
+    E) None of the above
+
+[STIMULUS] Use the graph below to answer the questions 36-38
+    [IMAGE: ../images/2021_ut_austin_miniso_regional_b_c__p6_b87586-2fdafe00.webp]
+
+36. [mcq, 2 pt] What is an approximate incubation period for this disease?
+    A) 1-3 days
+    B) 4-5 days
+    C) 6-7 days
+    D) 8-9 days
+    E) There is no incubation period for this disease (or cant be determined)
+
+37. [mcq, 2 pt] What type of epi curve is shown above
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated
+    D) Seasonal Source
+    E) None of the above
+
+[STIMULUS] “On October 1, 2018, the Rockland County (New York) Department of Health (RCDOH) alerted the New York State Department of Health (NYSDOH) of an unvaccinated teenaged traveler with diagnosed measles. During the next 17 days, RCDOH learned of an additional six unvaccinated travelers with measles. On October 24, 2018, the Ocean County (New Jersey) Health Department alerted the New Jersey Department of Health (NJDOH) of a case of measles in an international traveler, with rash onset October 17. The unvaccinated travelers reported recent travel in Israel, where an outbreak of approximately 3,150 cases of measles is ongoing (1). Investigations during October 1, 2018–April 30, 2019, identified 242 laboratory-confirmed and epidemiologically linked measles cases in New York, excluding New York City, and during October 17, 2018–November 30, 2018, identified 33 in New Jersey (Figure). The cases of measles were primarily in members of orthodox Jewish communities.”
+
+For each of the following statements, choose true or false
+
+39. [tf, 1.5 pt] The following would be a correct sentence: the 2018 measles outbreak was a(n) ____.
+    
+    Endemic
+    A) True
+    B) False
+
+40. [tf, 1.5 pt] The following would be a correct sentence: the 2018 measles outbreak was a(n) ____.
+    
+    Epidemic
+    A) True
+    B) False
+
+41. [tf, 1.5 pt] The following would be a correct sentence: the 2018 measles outbreak was a(n) ____.
+    
+    Pandemic
+    A) True
+    B) False
+
+42. [tf, 1.5 pt] The following would be a correct sentence: the 2018 measles outbreak was a(n) ____.
+    
+    Hyperendemic
+    A) True
+    B) False
+
+43. [frq, 3 pt] What is the difference between incubation period and latency period? Write up to two sentences (Make it short)
+
+44. [frq, 3 pt] What are the stages of the Natural History of a disease in order?
+
+45. [mcq, 2 pt] Who is considered the father of the field of epidemiology?
+    A) Edward Jenner
+    B) John Snow
+    C) John Gaunt
+    D) William Farr
+    E) Richard Doll
+
+46. [mcq, 2 pt] Variolation was a practice used to treat which virus?
+    A) Human Immunodeficiency Virus
+    B) Norovirus
+    C) Smallpox virus
+    D) Yellow Fever virus
+    E) West Nile virus
+
+47. [mcq, 2 pt] The Bradford Hill criteria, also known as Hill's criteria for causation, contains all of the following EXCEPT:
+    A) Reproducibility
+    B) Plausibility
+    C) Effect Size
+    D) a and c
+    E) None of the Above
+
+48. [mcq, 2 pt] The term used to describe the resistance of a population to spread an infectious organism due to the immunity of a high proportion of the population.
+    A) Virulence
+    B) Population Resilience
+    C) Herd Immunity
+    D) Passive Immunity
+
+49. [mcq, 2 pt] Who used long term cohort studies to est. relationship btwn. tobacco & lung cancer in 1950s
+    A) Jonas Salk
+    B) Paul Louis-Simond
+    C) Thomas R. Frieden
+    D) Richard Doll &Andrew Hill
+
+50. [mcq, 2 pt] Who founded antiseptic surgery
+    A) Joseph Lister
+    B) Paul Erlich
+    C) Emil von Bohring
+    D) Ignaz Semmelweis
+
+51. [mcq, 4 pt] Korsakoff syndrome are forms of dry beriberi, a neurological disease caused by severe thiamine deficiency.
+    
+    Which population (ignoring members with genetic diseases of thiamine transport) is most at risk for thiamine deficiency?
+    A) Women
+    B) Children
+    C) Alcoholics
+    D) Asthmatics
+
+52. [mcq, 1.75 pt] Which of the following can cause human disease?
+    A) Biological Factors
+    B) Physical Factors
+    C) Chemical Factors
+    D) All of the above
+
+53. [mcq, 2 pt] Which of the following is NOT a mode of indirect transmission?
+    A) Large droplet spread
+    B) Droplet nuclei spread
+    C) Consuming contaminated food
+    D) Bites from fleas carrying Yersinia pestis.
+
+54. [mcq, 1.75 pt] The severity of the disease after it occurs describes its
+    A) Infectivity
+    B) Pathogenicity
+    C) Virulence
+
+55. [mcq, 1.75 pt] Which of the following does NOT describe active surveillance programs?
+    A) Difficult to develop
+    B) Often involves sending project staff into the field to identify cases
+    C) Under-reporting or completeness of data is likely
+    D) Can be expensive to implement
+
+56. [tf, 1.75 pt] Prevalence quantifies the burden of a disease.
+    A) True
+    B) False
+
+57. [mcq, 1.75 pt] What are measures of the frequency of occurrence of death in a defined population during a specified time interval?
+    A) Mortality rates
+    B) Morbidity rates
+    C) Cumulative incidence
+
+58. [mcq, 2 pt] A contaminated and undercooked hamburger that transmits a gastrointestinal infection to the person eating it can be considered what kind of vector?
+    A) Mechanical
+    B) Zoonotic
+    C) Biological
+    D) Physical
+    E) None of the above
+
+59. [mcq, 2 pt] A cow walking through a lettuce field transfers contaminated water to the lettuce that ends up on the same hamburger mentioned above. The lettuce was not washed and also induced a gastrointestinal infection. Which of the following could be considered a mechanical vector:
+    A) Lettuce
+    B) Cow
+    C) Contaminated water
+    D) Person eating the hamburger
+    E) None of the above
+
+60. [mcq, 2 pt] Which are ways that communicable diseases can be addressed?
+    A) Immunizations
+    B) Quarantine
+    C) Contact treatment
+    D) Isolation
+    E) All of the above
+
+[STIMULUS] You develop a test for a certain disease and evaluate it in clinical trials.
+
+61. [mcq, 2 pt] What term could be said to be the true negativity rate?
+    A) Sensitivity
+    B) Specificity
+    C) positive predictive rate
+    D) negative predictive rate
+    E) one of the above
+    F) Both A and C
+
+64. [mcq, 2 pt] If the disease were to be dangerous, what would you maximize?
+    A) Specificity
+    B) Sensitivity
+    C) False Positives
+    D) Negative Predictive Rate
+    E) A & D
+
+[STIMULUS] Exposure to lead can result in negative effects in children, including decreased ability to learn, neurologic damage, organ failure, and death. Lead is often found in old homes (in lead-based paint or dust) or homes near industrial sources in areas characterized by low mean income. The CDC and other healthcare organizations recommend routine blood lead level (BLL) testing among children as part of well-child examinations to facilitate prompt identification of elevated BLL, eliminate source exposure, and provide medical and other services. To describe BLL testing trends among young children during the coronavirus disease 2019 (COVID-19) pandemic, CDC analyzed data reported from 34 state and local health departments about BLL testing among children aged <6 years conducted during January–May 2019 and January–May 2020. Answer the questions below about lead exposure and recent trends in blood lead level testing.
+
+68. [mcq, 2.5 pt] What is the safe blood lead level (BLL) in children according to the CDC?
+    A) 5.0 μg/dL
+    B) 4.0 μg/dL
+    C) 3.5 μg/dL
+    D) 2.0 μg/dL
+    E) There is no safe BLL for children
+
+69. [multi, 2.5 pt] Which of the following can be considered a primary prevention method for community illnesses caused by lead toxicity? Select all that apply.
+    A) Replacing lead-based paint in homes built before lead-based paint regulations were implemented
+    B) Testing and removing lead-contaminated soil
+    C) Replacing lead-based water pipes in homes with non-toxic metal pipes
+    D) Routinely screening BLLs during child examinations
+
+70. [multi, 2.5 pt] In 1995, high blood lead levels became a nationally reportable condition. Which of the following is true regarding a reportable disease? Select all that apply.
+    A) The disease is of great importance to public health officials
+    B) Any patient who is diagnosed with the disease is asked to report the details of their potential exposures and close contacts to the CDC
+    C) The relevant local and state agencies must be informed every time a patient is diagnosed with the condition, and they may optionally pass this information onto federal agencies like the CDC if it is also a nationally notifiable disease
+    D) All states in the US use the same reportable disease list, which is updated regularly by the CDC
+
+73. [multi, 2.5 pt] This study reported that during lead testing in 2020, a high number of families whose children previously had elevated BLLs were no longer living in their listed residence. In some cases, this may have been due to families defaulting on rent. These children could not be located and went untested in early 2020. During future national disruptions like our current pandemic, what public health recommendations do you think would help reduce loss-to-follow-up cases like this? Select all that apply.
+    A) Creating online infrastructure to increase telemedicine visits instead of relying on in-person home visits for BLL testing
+    B) Reminding families to update their residence information with their healthcare providers during periods of high housing instability
+    C) Imposing early guidelines to decrease or eliminate evictions during the crisis
+    D) Working with news agencies to remind the public the importance of routine BLL testing
+
+75. [mcq, 2.25 pt] Suppose it is found that the reported data is an underestimate of the true extent of BLL testing in children from January-May 2020. Which of the following is not a plausible factor that could have caused this?
+    A) Double-counting due to overlap of multiple surveillance systems
+    B) COVID-related delays in laboratory testing
+    C) Lockdown-related decreases in laboratory staffing
+    D) Data entry backlogs
+
+76. [multi, 2.5 pt] Which of the following are other public health regimes that have been disrupted by COVID19? Select all that apply.
+    A) Community opioid addiction interventions
+    B) Childhood vaccination drives
+    C) STD/STI testing
+    D) Cancer screening

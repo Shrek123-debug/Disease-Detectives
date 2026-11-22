@@ -1,0 +1,347 @@
+University of Pennsylvania (SOUP) Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  58 questions, 149.0 pts
+Source: scio.ly test archive id bc8e7a21-e7c0-4bef-8b16-d9d6c6086b42  |  original files: https://drive.google.com/drive/folders/1xwYa0Vpl3tHnPiBvGDGbuIK0nEeu1LbH
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+
+=== Part 1: Background and Surveillance ===
+
+1. [frq, 4 pt] What are the key distinctions between the clinical approach, which focuses on the health of individuals, and the public health approach, which centers on the health of populations? How do these two approaches complement each other in the overall healthcare system?
+
+2. [mcq, 1 pt] What of the following would **not** be an example of the clinical health approach?
+    A) A patient undergoes hysteroscopy surgery
+    B) Getting food poisoning from drinking bad soup and being treated with antibiotics
+    C) A university student donating plasma cells
+    D) Taking a COVID-19 test after experiencing illness symptoms
+
+3. [multi, 1 pt] Which of the following are examples of the public health approach? Choose all that apply.
+    A) Taking blood glucose level of a diabetic patient
+    B) Providing COVID-19 test kits to underserved population in Philadelphia
+    C) Increased public awareness of tobacco health effects through ads
+    D) Conducting research on the effects of intensive urban growth
+
+4. [frq, 2 pt] How did British researchers in the 1950s learn about the deleterious effects of tobacco use?
+
+5. [frq, 2 pt] What is Epidemiology?
+
+6. [frq, 5 pt] Describe the different stages in the Demographic Transition Model.
+
+7. [mcq, 1 pt] Which of the following is **not** true regarding the development of the germ theory?
+    A) Louis Pasteur showed that the process of heating liquids could kill harmful microorganisms.
+    B) Alexander Fleming discovered antibiotics
+    C) Robert Koch established a causal relationship between a microorganism and a disease to discover anthrax and tuberculosis
+    D) Pierre Jacques Antoine Béchamp worked with Louis Pasteur to develop the microzymian theory
+
+8. [frq, 3 pt] What role did John Snow play in the early history of epidemiology, and how did his work during the cholera outbreak in London in 1854 contribute to the development of modern epidemiological methods?
+
+9. [mcq, 1 pt] Which of the following is **not** an example of the role that epidemiology plays in public health?
+    A) Disease Surveillance
+    B) Identifying Risk Factors
+    C) Health Promotion and Prevention
+    D) Outbreak Investigation
+    E) Patient Treatment
+
+10. [frq, 13 pt] Provide a step-by-step procedure (Hint: There are **13**) for the epidemiological process in public health.
+
+11. [frq, 5 pt] Explain the 5-Step Process for Surveillance.
+
+12. [mcq, 1 pt] What is the **most** important reason to monitor your infection surveillance data before an outbreak occurs?
+    A) To facilitate reporting outbreaks to public health authorities.
+    B) To identify where an outbreak will occur in the future.
+    C) To establish baseline infection rates.
+    D) None of the above.
+
+13. [mcq, 1 pt] Which of the following is **not** true about the chain of infection?
+    A) Pathogens only include virus and bacteria
+    B) Coughing is an example of portal of exit
+    C) Infants can be part of the susceptible population
+    D) Reservoir provides a place for the pathogen to persist and maintain its infectious potential.
+
+14. [mcq, 1 pt] Which study type has the shortest observational period?
+    A) Cohort
+    B) Case-control
+    C) Experimental
+    D) Cross-sectional
+
+[STIMULUS] 1) Epi-Curve
+2) Chain of Transmission
+3) Pandemic
+4) Vector
+5) Bradford-Hill Criteria
+6) Experimental Epidemiology
+7) Plague
+
+15-1. [mcq, 1 pt] Match the following terms to their definitions: 1. ____ — Epi-Curve
+    A) Describes spread of infection within a community using several interconnected steps
+    B) An epidemic that is occurring over several countries or continents and effecting a large proportion of the populations
+    C) An animal that transmits disease
+    D) A graph with date (x-axis) and a number of cases (y-axis) for a certain outbreak of a disease
+    E) Used to establish cause-and-effect relationships based on observational studies
+    F) Medical professional alters a case and then proceeds to observe
+    G) Infectious disease that is usually transmitted to humans by rodent fleas
+
+15-2. [mcq, 1 pt] Match the following terms to their definitions: 2. ____ — Chain of Transmission
+    A) Describes spread of infection within a community using several interconnected steps
+    B) An epidemic that is occurring over several countries or continents and effecting a large proportion of the populations
+    C) An animal that transmits disease
+    D) A graph with date (x-axis) and a number of cases (y-axis) for a certain outbreak of a disease
+    E) Used to establish cause-and-effect relationships based on observational studies
+    F) Medical professional alters a case and then proceeds to observe
+    G) Infectious disease that is usually transmitted to humans by rodent fleas
+
+15-3. [mcq, 1 pt] Match the following terms to their definitions: 3. ____ — Pandemic
+    A) Describes spread of infection within a community using several interconnected steps
+    B) An epidemic that is occurring over several countries or continents and effecting a large proportion of the populations
+    C) An animal that transmits disease
+    D) A graph with date (x-axis) and a number of cases (y-axis) for a certain outbreak of a disease
+    E) Used to establish cause-and-effect relationships based on observational studies
+    F) Medical professional alters a case and then proceeds to observe
+    G) Infectious disease that is usually transmitted to humans by rodent fleas
+
+15-4. [mcq, 1 pt] Match the following terms to their definitions: 4. ____ — Vector
+    A) Describes spread of infection within a community using several interconnected steps
+    B) An epidemic that is occurring over several countries or continents and effecting a large proportion of the populations
+    C) An animal that transmits disease
+    D) A graph with date (x-axis) and a number of cases (y-axis) for a certain outbreak of a disease
+    E) Used to establish cause-and-effect relationships based on observational studies
+    F) Medical professional alters a case and then proceeds to observe
+    G) Infectious disease that is usually transmitted to humans by rodent fleas
+
+15-5. [mcq, 1 pt] Match the following terms to their definitions: 5. ____ — Bradford-Hill Criteria
+    A) Describes spread of infection within a community using several interconnected steps
+    B) An epidemic that is occurring over several countries or continents and effecting a large proportion of the populations
+    C) An animal that transmits disease
+    D) A graph with date (x-axis) and a number of cases (y-axis) for a certain outbreak of a disease
+    E) Used to establish cause-and-effect relationships based on observational studies
+    F) Medical professional alters a case and then proceeds to observe
+    G) Infectious disease that is usually transmitted to humans by rodent fleas
+
+16. [frq, 4 pt] What is the role of surveillance in epidemiology? Please provide a specific example of how surveillance was used in the past.
+
+17. [mcq, 1 pt] Which of the following describes passive surveillance?
+    A) A doctor’s office reports 2 cases of measles
+    B) Youth risk behavior surveillance surveys over a 10 year period
+    C) Hospital admittance records
+    D) Visiting health facilities to collect information
+
+18. [mcq, 1 pt] Which is **not** essential in an ideal surveillance system?
+    A) Generalizable to a given sample of the population
+    B) Adaptable to changes in the nature of the health event
+    C) Only depends on information from a single source
+    D) Minimizes risk of missing important information.
+
+19. [frq, 4 pt] Describe the 4 different stages in the Natural History of Disease timeline.
+
+20. [mcq, 1 pt] Which of the following is **not** an infectious disease?
+    A) Cancer
+    B) Mad-cow disease
+    C) Influenza
+    D) Tuberculosis
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] COVID-19 Outbreak at Penn
+
+According to the Pennsylvania Department of Health, there had been 120,281 coronavirus cases and 7,352 coronavirus-related deaths in the state as of August 11, 2020. More specifically, the city of Philadelphia has recorded a total 31,584 coronavirus cases, with a total of 1,700 deaths. With incoming students preparing to arrive at the University of Pennsylvania to start their fall semester, the University and Pennsylvania Department of Health had to make several changes to how they delivered their curriculum to students.
+
+(https://whyy.org/articles/pa-coronavirus-recovery-bethlehem-based-company-working-on-rapid-diy-covid-19-test/)
+
+2-1. [numeric, 3 pt] The Pfizer-BioNTech COVID-19 vaccine is the primary vaccine for COVID-19. Using the data in the table below, calculate the efficacy of the Pfizer-BioNTech vaccine. Round to two decimal places.
+    
+    | | Contracted COVID-19 | Did not contract COVID-19 |
+    |---|---|---|
+    | Vaccinated | 3 | 200 |
+    | Unvaccinated | 189 | 22 |
+
+2-2. [frq, 4 pt] COVID-19 is a virulent disease that poses a significant threat to public health. When investigating an outbreak of COVID-19, would it be better to have a sensitive or specific case definition? In what scenario would the other case definition be more desirable? Explain your reasoning.
+
+2-3. [frq, 5 pt] If you were a student who tested positive for COVID-19, what steps would you take to ensure the safety of public health?
+
+2-4. [frq, 2 pt] Write a case definition for this outbreak.
+
+[STIMULUS] Nosocomial Infections at Penn Medicine
+
+At the Penn Medicine Princeton Medical Center, the rate of pneumonia hospitalization was reported to be approximately 420 per 100,000 population/year. While the national average is 430 per 100,000/year, hospital administrators want to implement a new plan to reduce the number of nosocomial infections. (https://web.doh.state.nj.us/apps2/hpr/profile.aspx?num=11103)
+
+2-5. [frq, 6 pt] Using knowledge regarding the chain of infection, provide three different measures that the hospital can enforce to lower the spread of pneumonia.
+
+[STIMULUS] Salmonella in the Tagliatelle??
+
+You are a public health official sent to investigate a sudden increase in Salmonella cases in Delaware County, PA. Salmonella is a class of bacteria that can cause diarrhea, fever, and stomach cramps in infected individuals. It is commonly spread through raw or undercooked foods contaminated with animal fecal matter, although it can also be transmitted via direct contact with animals or feces. Salmonellosis has a typical incubation period of 12-96 hours, and a duration of 1-7 days.
+
+2-6. [frq, 4 pt] A sudden increase in cases is not always a sign of a true outbreak. List 2 other factors that could have accounted for this increase in cases.
+
+[STIMULUS] After making all the necessary preparations, you begin systematically finding Salmonella cases. You create the chart below, which organizes known cases by date of onset.
+
+Source: CDC
+    [IMAGE: ../images/2024_university_of_pennsylvania_soup_invitational_c__p9_293709-aa27ec28.webp]
+
+2-7. [frq, 4 pt] What mode of spread is implicated by the chart above?
+
+2-8. [frq, 4 pt] Is it likely that this outbreak was caused by a single superspreading event? Why or why not?
+
+[STIMULUS] You interview sick, recovering, and healthy individuals to search for common exposures. While interviewing the patients, you notice that nearly all of them had attended some large gathering (such as a wedding, funeral, or corporate event). Moreover, you discover that all of these gatherings were catered by the same company.
+
+2-9. [frq, 4 pt] What type of study are you conducting?
+
+2-10. [frq, 3 pt] You notice that the interviewees who got sick were more likely to remember potential exposures than the interviewees who did not get sick. What type of bias is this?
+
+[STIMULUS] After some research, you find that the catering company offers attendees the choice between three meals: An egg salad sandwich, chicken noodle soup, or black bean tacos. You decide to ask your interviewees about what they ate at the gathering. Their responses are summarized in the table below.
+
+| | Contracted salmonellosis | Did not contract salmonellosis |
+|---|---|---|
+| Sandwich | 12 | 74 |
+| Soup | 35 | 63 |
+| Tacos | 6 | 65 |
+
+2-11. [mcq, 3 pt] Which measurement (odds ratio or relative risk) is used to evaluate potential exposures in this type of study?
+    A) odds ratio
+    B) relative risk
+
+2-12. [frq, 9 pt] Based on your response to Problem 2-11, calculate either the odds ratio or relative risk of each food.
+
+2-13. [mcq, 2 pt] Which food is most likely to be contaminated with Salmonella?
+    A) Sandwich
+    B) Soup
+    C) Tacos
+
+2-15. [mcq, 3 pt] After your investigation, the Delaware County Health Department decides to inspect the catering company facility and finds multiple food safety violations. Which of the following is most likely to result in food contamination with Salmonella?
+    A) Cooks working without hair nets
+    B) Improperly labeled food storage containers
+    C) Knives improperly stored when not in use
+    D) No food thermometers provided to staff
+
+
+=== Part 3: Patterns, Control and Prevention ===
+
+3-1. [mcq, 1 pt] Which of the following is a measure of association?
+    A) Odds ratio
+    B) Cumulative incidence
+    C) Case-fatality rate
+    D) Period prevalence
+
+3-2. [mcq, 1 pt] Which of the following is **not** relevant to the control and prevention of communicable diseases?
+    A) Immunization
+    B) Investigation
+    C) Adopting a life-course approach
+    D) Blocking of transmission
+
+[STIMULUS] Select the graph or chart that would be the most useful for the following tasks.
+
+3-3A. [mcq, 1 pt] Comparing COVID-19 infection rates between multiple counties in Pennsylvania
+    A) Spot map
+    B) Choropleth map
+    C) Line graph
+    D) Histogram
+
+3-3B. [mcq, 1 pt] Modeling the age distribution of the United States population
+    A) Spot map
+    B) Choropleth map
+    C) Line graph
+    D) Histogram
+
+3-3C. [mcq, 1 pt] Predicting spikes in influenza infections during flu season
+    A) Spot map
+    B) Choropleth map
+    C) Line graph
+    D) Histogram
+
+3-4. [mcq, 1 pt] Which of the following is always measured **over a specific time period**?
+    A) Proportion
+    B) Rate
+    C) Ratio
+    D) Risk
+
+[STIMULUS] Norovirus Outbreaks in Ontario
+
+Norovirus is a contagious virus that causes vomiting and diarrhea. It is spread through contaminated food and water, as well as by direct contact. The following graph shows the distribution of norovirus outbreaks in Ontario, Canada by month and year.
+
+Source: Canada Communicable Disease Report, Epidemiology of norovirus and viral gastroenteritis in Ontario, Canada, 2009–2014
+    [IMAGE: ../images/2024_university_of_pennsylvania_soup_invitational_c__p13_954c84-79b55f65.webp]
+
+3-5. [mcq, 2 pt] Which of the following statements is supported by the graph?
+    A) Norovirus is a seasonal illness.
+    B) Norovirus outbreaks in Ontario have been steadily decreasing since 2009.
+    C) Roughly 400 norovirus outbreaks were reported in January of 2010.
+    D) There were no norovirus-positive laboratory submissions in February of any year.
+
+3-6. [frq, 4 pt] Norovirus has an onset time of 12-48 hours and a duration of 1-3 days. However, infected individuals sometimes remain contagious for up to 2 weeks after infection. Why does this happen?
+
+[STIMULUS] Classify the following prevention strategies as Primordial, Primary, Secondary, or Tertiary.
+
+3-7A. [mcq, 1 pt] A city tax on sugary beverages
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+3-7B. [mcq, 1 pt] Receiving regular colonoscopies every 10 years
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+3-7C. [mcq, 1 pt] Wearing a mask in public
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+3-7D. [mcq, 1 pt] Construction of a protected bike lane along a major avenue
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+3-7E. [mcq, 1 pt] Using dialysis to treat chronic kidney disease
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+[STIMULUS] Lung Cancer in Philadelphia
+
+Lung cancer is one of the most common cancers in the United States and the leading cause of cancer deaths worldwide. Risk factors for lung cancer include smoking, radon exposure, and air pollution. The following table shows annual statistics for lung cancer in Philadelphia.
+    |  | 2016 | 2017 | 2018 | 2019 |
+    | Number of total cases | 1,246 | 1,201 | 1,188 | 1,173 |
+    | Number of new cases | 1,121 | 1,100 | 1,092 | 1,066 |
+    | city population | 1,576,604 | 1,581,699 | 1,586,422 | 1,584,439 |
+
+3-11. [mcq, 2 pt] Which of the following would **decrease** the prevalence of lung cancer in Philadelphia?
+    A) Better methods of diagnosing lung cancer are developed
+    B) A new type of lung cancer emerges that is much deadlier than existing types
+    C) A hospital outside of Philadelphia begins transferring cancer patients to Penn Medicine
+    D) New life-prolonging treatments are developed that allow terminal cancer patients to survive for longer
+
+3-12. [frq, 4 pt] The Roosevelt Boulevard Subway is a proposed subway line in Philadelphia. A 2003 study found that the line would reduce the number of car trips by over 83,000 per day if built. How would the Subway affect the incidence of lung cancer in the Roosevelt Boulevard area?
+
+[STIMULUS] Chikungunya Virus
+
+Chikungunya virus is found worldwide and has caused outbreaks in Africa, the Americas, Asia, and Europe. The virus is spread by the bites of infected mosquitoes, and the most common symptoms are fever and joint pain. Most individuals will experience symptoms when infected with Chikungunya. There is currently no vaccine to prevent Chikungunya virus infection, and no medication to treat it.
+
+3-13. [mcq, 2 pt] Which of the following would be the most feasible strategy for a public health agency trying to reduce the spread of Chikungunya?
+    A) Encourage the use of bug-resistant window screens
+    B) Isolate patients infected with Chikungunya virus
+    C) Provide prophylactic antiviral medication for susceptible populations
+    D) Regularly test individuals for Chikungunya virus infection
+
+[STIMULUS] Suppose that you are a researcher who is developing a new diagnostic test for Chikungunya virus infection. You perform a clinical trial in which you administer this test to 100 patients. 50 of these patients are infected with Chikunyunga virus (true positive) and 50 of these patients are healthy (true negative). The results of your clinical trial are displayed in the 2x2 table below:
+    |  | True Positive | True Negative |
+    | Tested Positive | 48 | 14 |
+    | Tested Negative | 2 | 36 |
+
+3-16. [mcq, 4 pt] Which of these two values (sensitivity or PPV) tells you the probability that a patient with a positive test result truly has the disease?
+    A) sensitivity
+    B) PPV
+
+3-17. [frq, 3 pt] How did you determine which patients were “true positive” and which patients were “true negative”?
+
+[STIMULUS] One of your fellow researchers discovers that her family’s vegetable soup recipe actually has protective effects against Chikungunya virus infection. After some more research, you discover that one of the vegetables in the soup naturally produces a toxin that is lethal to the virus, but harmless to humans.
+
+3-18. [mcq, 1 pt] You and your partner want to help prevent the spread of Chikungunya virus by encouraging your community members to cook and eat the soup. What category of prevention is this strategy most similar to?
+    A) Vaccination
+    B) Vector control
+    C) Limiting exposure to sources of infection
+    D) Chemoprophylaxis (drugs given to exposed and susceptible hosts)
+
+3-20. [frq, 3 pt] According to predictions by the Intergovernmental Panel on Climate Change, average global temperatures are expected to increase by at least 3℃ by the year 2100. How will this affect the size of the endemic zone of Chikungunya virus? (For context, “endemic zone” refers to the area in which a specific disease is endemic.)

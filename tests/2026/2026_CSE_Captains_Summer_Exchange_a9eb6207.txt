@@ -1,0 +1,359 @@
+CSE (Captains Summer Exchange) — Disease Detectives (Seven Lakes High School)  |  Season 2026  |  Division C  |  Time limit 50 min  |  89 questions, 139.5 pts
+Source: scio.ly test archive id a9eb6207-4b95-4d8b-aea4-6eed1a08ac06  |  original files: https://drive.google.com/drive/folders/10PveYovCgCFrvqiCZswZkDJZoRfIyCb7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 18
+
+DIRECTIONS: • All work must be shown for calculations. Round all calculations to 3 decimal places.
+
+
+=== General Knowledge ===
+
+[STIMULUS] Choose the 3 letters per question that best describe the scenario, using a combination of the following: Clinical Health Approach (A) or Public Health Approach (B), Descriptive Epidemiology (C) or Analytic Epidemiology (D), and Observational Epidemiology (E) or Interventional Epidemiology (F). For example, ACE or BDE are valid, but ACD or AF are not.
+
+1. [frq, 2 pt] A 43-year-old woman visits her primary care physician complaining of fatigue. After a clinical examination, the doctor orders blood work, discovering she has elevated liver enzymes. The physician takes note of her alcohol use history, prescribes her a medication, and schedules a follow-up 2 weeks later.
+
+2. [frq, 2 pt] A city health department in Australia installs free sunscreen dispensers in 20 public parks and beaches, then monitors skin cancer incidence rates over 10 years, compared to 20 matched parks and beaches without dispensers.
+
+3. [frq, 2 pt] A hospital system launches a program in which nurses use a risk assessment test to flag individuals at high risk of opioid misuse. Patients flagged by the system are provided with early intervention measures. The hospital then compares overdose rates in these patients to historical averages.
+
+4. [frq, 2 pt] An environmental health agency tracks emergency room admissions for asthma during a heatwave, maps them across zip codes, and compares them to normal seasonal levels.
+
+5. [frq, 2 pt] A research team distributes wearable blood glucose monitors to 500 diabetic patients and tracks fluctuations in glucose levels based on sleep quality, tracked via smartwatches, to investigate whether sleep quality affects hyperglycemia risk.
+
+6. [frq, 2 pt] A study analyzed 15,000 patient records from a hospital system between 2015 and 2022. Researchers found that patients who reported sleeping fewer than 6 hours a night on average had a 1.8-fold increase in myocardial infarction risk (95% CI: 1.2-2.5), controlling for factors such as BMI, diabetes, and family history. These results are being used to inform patients on prevention strategies in primary care settings.
+
+7. [frq, 2 pt] A public health surveillance system shows that in July, 78% of all emergency room visits for heat-related injury occurred in zip codes with a poverty rate over 20%. The data was used to request air conditioning units in those areas.
+
+[STIMULUS] Match the person in the Person column with the correct description from the Description column.
+
+**Person**
+1. Benjamin Jesty
+2. Alice Stewart
+3. Sir Percivall Pott
+4. Brian MacMahon
+5. Ibn al-Nafis
+
+**Description**
+A. Discovered pulmonary blood circulation
+B. Pioneered the link between X-rays in pregnant women to childhood cancer
+C. Published the first epidemiologic text with a systematic focus on study design
+D. Described the existence of environmental carcinogens
+E. One of the first to administer cowpox to induce smallpox immunity
+F. None of the above
+
+8-1. [mcq, 1 pt] Benjamin Jesty
+    A) Discovered pulmonary blood circulation
+    B) Pioneered the link between X-rays in pregnant women to childhood cancer
+    C) Published the first epidemiologic text with a systematic focus on study design
+    D) Described the existence of environmental carcinogens
+    E) One of the first to administer cowpox to induce smallpox immunity
+    F) None of the above
+
+8-2. [mcq, 1 pt] Alice Stewart
+    A) Discovered pulmonary blood circulation
+    B) Pioneered the link between X-rays in pregnant women to childhood cancer
+    C) Published the first epidemiologic text with a systematic focus on study design
+    D) Described the existence of environmental carcinogens
+    E) One of the first to administer cowpox to induce smallpox immunity
+    F) None of the above
+
+8-3. [mcq, 1 pt] Sir Percivall Pott
+    A) Discovered pulmonary blood circulation
+    B) Pioneered the link between X-rays in pregnant women to childhood cancer
+    C) Published the first epidemiologic text with a systematic focus on study design
+    D) Described the existence of environmental carcinogens
+    E) One of the first to administer cowpox to induce smallpox immunity
+    F) None of the above
+
+8-4. [mcq, 1 pt] Brian MacMahon
+    A) Discovered pulmonary blood circulation
+    B) Pioneered the link between X-rays in pregnant women to childhood cancer
+    C) Published the first epidemiologic text with a systematic focus on study design
+    D) Described the existence of environmental carcinogens
+    E) One of the first to administer cowpox to induce smallpox immunity
+    F) None of the above
+
+8-5. [mcq, 1 pt] Ibn al-Nafis
+    A) Discovered pulmonary blood circulation
+    B) Pioneered the link between X-rays in pregnant women to childhood cancer
+    C) Published the first epidemiologic text with a systematic focus on study design
+    D) Described the existence of environmental carcinogens
+    E) One of the first to administer cowpox to induce smallpox immunity
+    F) None of the above
+
+[STIMULUS] **Classify the following scenarios based on the cause of disease:** Biological (A), Chemical (B), or Physical (C).
+
+9. [mcq, 1 pt] Two weeks after a major flood, residents in a city begin developing lung irritation, fatigue, and low-grade fevers. Health officials analyze bronchoalveolar lavage fluid (BLF) of residents to test for fungal pneumonia. They also use a photoionization detector to detect volatile organic compounds. The BLF results are presented below.
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p3_f5caef-2ba86ca0.webp]
+    A) Biological
+    B) Chemical
+    C) Physical
+
+10. [mcq, 1 pt] Your suspicious friend, Raymond, leads you and your friends to a mysterious restaurant where they only serve bear meat. 10-14 days later, multiple of your friends experience fever, seizures, and muscle pain because someone undercooked the bear. MRI reveals inflamed brain tissue. Blood tests show eosinophilia, but no bacteria or viruses. One of your friends later develops a severe vision impairment.
+    A) Biological
+    B) Chemical
+    C) Physical
+
+11. [mcq, 1 pt] Several patients in a burn unit develop acute kidney injury and metabolic acidosis. Blood cultures reveal colonization with Pseudomonas aeruginosa, but no systemic signs of bacterial infection. Further investigation reveals that the cleaning agent used for wound irrigation had degraded due to improper storage.
+    A) Biological
+    B) Chemical
+    C) Physical
+
+12. [multi, 2 pt] Select all that are true about epidemiological surveillance
+    A) Surveillance is necessary to influence public health decisions and evaluate control measures.
+    B) The goal of surveillance is to provide information that can be used by public health personnel, government leaders, and the public to guide public health policy and programs.
+    C) Surveillance may be used to both monitor changes in infectious and environmental agents and assess the effectiveness of programs and control measures.
+    D) The surveillance process includes both observational and analytic epidemiology.
+
+14. [multi, 2 pt] Select all of the following statements that are false about randomized control trials (RCTs).
+    A) Intention-to-Treat (ITT) analysis includes everyone who is randomized according to randomized treatment assignment, but it can lead to bias.
+    B) Per-Protocol analysis includes only patients who completed the treatment originally allocated, but it can lead to the dilution of results.
+    C) Crossover potentially decreases the efficiency of a study because each participant receives multiple exposures.
+    D) RCTs are both prospective and quantitative.
+
+16. [multi, 1 pt] A prospective cohort study is initiated to investigate the association between DVT (deep vein thrombosis) and being overweight. The study is done across 30,000 people in various countries from various backgrounds. Which of the following Bradford Hill Criteria can this study NOT possibly work to satisfy? Select all that apply.
+    A) Strength (effect size)
+    B) Temporality
+    C) Experiment
+    D) Biological gradient
+
+[STIMULUS] Classify the following scenarios based on the mode of transition:
+
+17a. [frq, 1 pt] A baby gets botulism from eating canned food.
+
+17b. [frq, 2 pt] Transmission of HIV from mother to offspring. Provide the sub-type.
+
+17c. [frq, 1 pt] A mucous droplet exits the mouth at v₀ = 50 m/s. At 1 meter, it's found that v = 0.67 m/s.
+
+17d. [frq, 1 pt] A smaller 3 µm droplet leaves the mouth with v₀ = 50 m/s, but is rapidly decelerated due to its high surface area to volume ratio. Within a few centimeters, it follows the velocity of ambient air.
+
+17e. [frq, 1 pt] You get malaria after being bitten.
+
+17f. [frq, 1 pt] Your open wound gets infected after some gardening.
+
+18. [mcq, 1 pt] Who was the first person who attempted to explain disease occurrence from a rational standpoint?
+    A) John Snow
+    B) Hippocrates
+    C) John Graunt
+    D) James Lind
+
+19. [mcq, 1 pt] Which of the following equations best models an endemic equilibrium? S = susceptible individuals and I = infected individuals.
+    A) R₀ · S = 1
+    B) R₀ = 1
+    C) S = I
+    D) None of the above
+
+20. [mcq, 1 pt] In which type of surveillance are personnel selected to represent a certain geographic area?
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+
+21. [mcq, 1 pt] When was the CDC founded?
+    A) June 30th, 1906
+    B) July 1st, 1946
+    C) April 7th, 1948
+    D) May 21st, 1881
+
+22. [mcq, 1 pt] Which disease violates all 4 of Koch's postulates?
+    A) Whipple's disease
+    B) Typhoid fever
+    C) Chlamydia
+    D) Meningitis
+
+23. [mcq, 1 pt] Which one of the Bradford Hill Criteria must be present for causation?
+    A) Plausibility
+    B) Coherence
+    C) Temporality
+    D) Consistency
+
+24. [mcq, 1 pt] Which study is the gold standard for determining causality?
+    A) Cohort
+    B) Randomized control trial
+    C) Quasi-experimental field trial
+    D) Case-control
+    E) Cross-sectional
+
+[STIMULUS] Identify the period of disease in the natural history of disease in the following scenario. Put "None" if none of them apply.
+
+25a. [frq, 1 pt] Anish develops a case of secondary bacterial pneumonia from Streptococcus pneumoniae while still having the flu.
+
+25c. [frq, 1 pt] Anish's symptoms of the flu begin to fade.
+
+25d. [frq, 1 pt] The usual time of diagnosis occurs in this stage or shortly after it.
+
+25e. [frq, 1 pt] Anish's symptoms are worsening.
+
+[STIMULUS] Questions 27-31: Use the following image.
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p6_90c373-a35edc7e.webp]
+
+27. [frq, 1 pt] What type of epi-curve is this?
+
+28. [frq, 2 pt] The period of exposure was thought to have occurred on August 26th. Based on the epi-curve, calculate the hypothesized mean incubation period. Is this typical for a norovirus outbreak?
+
+29. [frq, 2 pt] Given an incubation period of 12-36 hours, calculate the most likely period of exposure to the hour.
+
+31. [frq, 4 pt] Imagine an epi-curve has 2 outliers: 1 on the far left and 1 on the far right. Assuming that they are not errors, provide 2 explanations for what each might represent.
+
+[STIMULUS] Label the following diagram.
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p6_0a15c2-a004a84f.webp]
+    | Label | Answer |
+    | a | [[q:32-a]] |
+    | b | [[q:32-b]] |
+    | c | [[q:32-c]] |
+    | d | [[q:32-d]] |
+    | e | [[q:32-e]] |
+    | f | [[q:32-f]] |
+    | g | [[q:32-g]] |
+    | h | [[q:32-h]] |
+    | i | [[q:32-i]] |
+    | j | [[q:32-j]] |
+    | k | [[q:32-k]] |
+    | l | [[q:32-l]] |
+    | m | [[q:32-m]] |
+    | n | [[q:32-n]] |
+    | o | [[q:32-o]] |
+    | p | [[q:32-p]] |
+    | q | [[q:32-q]] |
+
+32-a. [frq, 0.5 pt] Label a
+
+32-b. [frq, 0.5 pt] Label b
+
+32-c. [frq, 0.5 pt] Label c
+
+32-d. [frq, 0.5 pt] Label d
+
+32-e. [frq, 0.5 pt] Label e
+
+32-f. [frq, 0.5 pt] Label f
+
+32-g. [frq, 0.5 pt] Label g
+
+32-h. [frq, 0.5 pt] Label h
+
+32-i. [frq, 0.5 pt] Label i
+
+32-j. [frq, 0.5 pt] Label j
+
+32-k. [frq, 0.5 pt] Label k
+
+32-l. [frq, 0.5 pt] Label l
+
+32-m. [frq, 0.5 pt] Label m
+
+32-n. [frq, 0.5 pt] Label n
+
+32-o. [frq, 0.5 pt] Label o
+
+32-p. [frq, 0.5 pt] Label p
+
+32-q. [frq, 0.5 pt] Label q
+
+[STIMULUS] Determine the type of bias being depicted in the following scenario.
+
+33a. [frq, 1 pt] In a health survey, someone reports exercising 5 times a week, even if they only manage 3, to appear healthier.
+
+33b. [frq, 1 pt] Patients who live longer have more opportunities to select treatment; those who die earlier may be untreated by default.
+
+33c. [frq, 1 pt] In a study, patients are assigned to a treatment group based on their last name.
+
+33d. [frq, 1 pt] Overestimation of survival duration due to many cases being asymptomatic.
+
+34. [tf, 0.5 pt] True or False: Sign and symptom can be used interchangeably.
+    A) True
+    B) False
+
+[STIMULUS] Identify the type of surveillance being described.
+
+35a. [frq, 1 pt] The county health department contacts local hospitals in the area regarding a recent measles outbreak.
+
+35b. [frq, 1 pt] This type of surveillance is most often used in conjunction with epidemiological surveillance.
+
+35c. [frq, 1 pt] A network of hospitals is used to monitor the incidence of influenza and pick up on any possible outbreaks.
+
+35d. [frq, 1 pt] A syndrome of disease is used as a proxy for disease.
+
+36. [frq, 2 pt] In one sentence, what is the spectrum of disease? List 1 example.
+
+37. [frq, 2.5 pt] List the 5 steps of surveillance.
+
+38. [frq, 2 pt] What is the difference between point and period prevalence?
+
+
+=== Risqué ===
+
+[STIMULUS] A randomized controlled trial is conducted to evaluate the efficacy of a new weight-loss medication, Betaformin, in reducing the incidence of type 2 diabetes (T2D) over 5 years in overweight adults. The trial involved 6,000 participants: 3,000 were in the Betaformin group and 3,000 were in the placebo group. At the end of the 5 years, 180 participants in the Betaformin group developed T2D, while 270 patients in the placebo group developed T2D. Interestingly, the Betaformin group had 90 reported cases of severe hepatic side effects while the placebo group only had 30.
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p7_4c8302-205df018.webp]
+
+39. [frq, 4 pt] What is the absolute risk reduction (ARR) for developing T2D due to Betaformin treatment? What is the number needed to treat (NNT) to prevent one case of type 2 diabetes? Interpret both values.
+
+40. [frq, 4 pt] What is the attributable risk of hepatic side effects associated with Betaformin? What is the number needed to harm (NNH) for hepatic side effects? Interpret both values.
+
+41. [frq, 3 pt] Explain why the baseline risk of T2D in the study population needs to be considered for our calculations.
+
+42. [frq, 4 pt] Imagine a lifestyle program for T2D patients, DiaLife, is tested in a randomized controlled trial of 10,000 participants. Half undergo DiaLife and half continue with their normal life. Over one decade, 400 participants in the untreated group progressed at least one stage, while only 100 participants in the treatment group progressed at least one stage. Calculate the efficacy of the treatment. Explain how efficacy differs conceptually from absolute risk reduction (ARR).
+
+43. [frq, 4 pt] Explain why efficacy and ARR can give very different impressions of how effective an intervention is.
+
+46. [frq, 4 pt] A public health department is deciding whether to fund Betaformin based on its cost and benefit. Assume each case of T2D costs the system $10,000 in long-term care and the medication costs $1,000 per person for the 5-year course. Using the ARR and NNT you calculated in question 39, calculate the cost to prevent one case of T2D using Betaformin. Is this cost-effective if the system saves $10,000 for each case prevented? Assume a NNT of 50 and a NNH of 60 for this question if you couldn't calculate them.
+
+
+=== It's That Shrimple ===
+
+[STIMULUS] In a coastal Southeast Asian community with widespread fishing and aquaculture, a sudden outbreak of severe gastroenteritis has affected 83 individuals over the past 6 weeks. Stool cultures have identified Vibrio parahaemolyticus (Vp) in most cases. Several Vp isolates were resistant to tetracycline, sulfonamides, and fluoroquinolones. The area has multiple shrimp farms known to have poor sanitation and excessive antibiotic use to protect shrimp from disease. Epidemiologists decided to test a modified version of the SEIR model that incorporates environmental Vp concentrations.
+
+**Background:**
+The SEIR model divides the population into four categories, called "S", "E", "I", and "R".
+- Category "S" consists of individuals who are susceptible to the disease being modeled.
+- Category "E" consists of individuals who are exposed to the disease. Diseases (like COVID-19) often have an incubation period or a latency period, and this category accommodates it.
+- The incubation rate σ is the rate at which exposed hosts become infected
+- Category "I" consists of individuals infected with the disease who are capable of infecting others.
+- The recovery rate γ is the rate at which infected individuals move to the R category:
+- Category "R" consists of individuals who can be removed from the system, e.g., because they have gained immunity to the disease, or because they have succumbed to the disease.
+- β is the average number of susceptible individuals infected by one infectious individual per contact per unit of time
+- N is the total population; N = S + E + I + R.
+
+The following set of partial ordinary differential equations models the SEIR system. Use this as a reference for this section:
+
+dS/dt = − βI/N S,
+dE/dt = βI/N S − σE,
+dI/dt = σE − γI,
+dR/dt = γI
+
+48. [frq, 3 pt] Describe two limitations of applying a traditional SIR model to this outbreak specifically. Explain how using an SEIR model instead might improve the accuracy of the model.
+
+49. [frq, 3 pt] Assume that individuals move from S to E at the exposure rate λ, i.e., the population in category S decreases with respect to time t at the rate λ × S and the population in E correspondingly increases at the same rate. A standard hypothesis is that λ is the product of the transmission rate and the probability of infection given that contact occurred. Derive the equation for λ, the exposure rate, in terms of the variables of this model.
+
+51. [frq, 3 pt] Consider the FATTOM acronym for foodborne disease. What conditions (think about the setting of this outbreak) allow for Vp to spread quickly?
+
+52. [frq, 2 pt] What type of disease transmission occurs when people eat the infected shrimp? Is this a direct or indirect form of transmission?
+
+53. [frq, 1 pt] Which one of the 13 steps of outbreak investigation is constructing and analyzing SEIR models?
+
+54. [frq, 4 pt] How do epi-curves and SEIR curves differ in the type of information they give you? When might one be preferred over the other?
+
+57. [frq, 3 pt] What is the basic reproductive number, R₀? How does it differ from the effective reproductive number, R_e, in terms of interpretation and use?
+
+58a. [frq, 6 pt] Preventing disease often involves breaking the chain of transmission. Construct a full chain of transmission for Vp. You may infer components not given.
+
+[STIMULUS] Suggest 2 intervention methods at the reservoir and the mode of transmission.
+    | Label | Answer |
+    | Reservoir | [[q:58b-a]] |
+    | Mode of Transmission | [[q:58b-b]] |
+
+58b-a. [frq, 2 pt] Reservoir
+
+58b-b. [frq, 2 pt] Mode of Transmission
+
+58c. [frq, 2 pt] Which level of disease prevention will be the most effective at preventing future outbreaks and why?
+
+
+=== Free-Response & Trivia ===
+
+61. [frq, 2 pt] Describe the cons of mRNA vaccines.
+
+62. [frq, 3 pt] Write the case definition for a case of influenza-like illness (ILI) or influenza.
+
+63. [frq, 2.5 pt] Define the following acronyms: CoCASA, AAHP, NHANES, FSIS, BRFSS.
+
+64. [frq, 0.5 pt] Troll question: What was Mandy Cohen's father's profession?

@@ -1,0 +1,117 @@
+University of Chicago Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  46 questions, 121.5 pts
+Source: scio.ly test archive id 169fec36-28df-4bad-86f3-c1a51dcc0440  |  original files: https://drive.google.com/drive/folders/1qPTWGCxwQmFc0jOCri7dcf1q8LHZ07tu
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== Part 1: Current Events and General Epidemiological Knowledge ===
+
+1. [frq, 1 pt] What month is National Food Safety Education Month?
+
+2. [frq, 2 pt] The CDC estimates that approximately how many people become sick every year from eating contaminated food in the United States?
+
+3. [frq, 2 pt] How many people does the CDC estimate die from foodborne illness annually in the United States?
+
+4. [frq, 2 pt] The CDC defines a certain statistic as “the proportion of initially disease-free population that develops disease, becomes injured, or dies during a specified (usually limited) period of time.” What is this statistic?
+
+5. [frq, 4 pt] List up to 4 synonyms for this measure (from question 4), as given by the CDC.
+
+7. [frq, 4.5 pt] Name the top 9 causes of laboratory-diagnosed foodborne infections.
+
+8. [frq, 1 pt] When using a long-term cohort follow-up study in which enrollees are followed over time and the occurrence of new cases of diseases is documented, the statistic ____ would be more appropriate than the one referenced in question 4. (and for an extra point, provide a synonym)
+
+9a. [matching, 7 pt] Match the following to their definitions.
+    - Secondary attack rate  <->  a. The proportion of persons with a particular disease or attribute at any time during the interval
+    - Period prevalence  <->  b. The attack rate in the exposed group divided by the attack rate in the unexposed group
+    - Overall attack rate  <->  c. The number of persons who ate a given food and became ill divided by the total number of persons who ate that food
+    - Relative risk  <->  d. The proportion of persons with a particular disease or attribute on a particular date
+    - Food-specific attack rate  <->  e. the likelihood that an outcome will occur given a particular exposure, compared to the likelihood of the outcome occurring in the absence of that exposure
+    - Point prevalence  <->  f. The total number of new cases divided by the total population
+    - Odds ratio  <->  g. Calculated to document the difference between community transmission of illness versus transmission of illness in a household, barracks, or other closed population
+
+9b. [frq, 2 pt] The constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area is referred to as a(n) ____.
+
+9c. [frq, 2 pt] Persistent, high levels of disease occurrence is referred to as a(n) ____.
+
+9d. [frq, 2 pt] An increase, often sudden, in the number of cases of a disease above what is normally expected in that population in that area is a(n) ____.
+
+9e. [frq, 2 pt] What is a term that is often interchangeable with the answer to part (d) but is used to describe instances that are confined to a more limited geographic region?
+
+9f. [frq, 2 pt] An aggregation of cases grouped in place and time that are suspected to be greater than the number expected, even though the expected number may not be known is referred to as a(n) ____.
+
+9g. [frq, 2 pt] An epidemic that has spread over several countries or continents, usually affecting a large number of people is a(n) ____.
+
+9h. [frq, 2 pt] Patient A has been infected with Zika virus and her doctor prescribes penicillin. Is this an effective treatment? Why or why not?
+
+9i. [frq, 2 pt] What test is used to determine the presence or absence of peptidoglycan in bacterial cell walls, which in turn can be used to help determine treatment?
+
+9j. [frq, 4 pt] Name four types of disease causing agents.
+
+[STIMULUS] The following figure represents 10 new cases of illness over about 15 months in a population of 20 persons. Use this to answer questions 10-13.
+    [IMAGE: ../images/university_of_chicago_invitational__p4_0056e3-fe426c41.webp]
+
+10. [frq, 2 pt] What is the period prevalence from October 1, 2004 until April 1, 2005?
+
+11. [frq, 2 pt] What is the point prevalence on June 1, 2005?
+
+12. [frq, 2 pt] What was the incidence rate during the period from October 1, 2004 through July 1, 2005 (use the population at the start of the time period as the denominator)?
+
+13. [frq, 2 pt] What is the mortality rate over the entire time interval?
+
+14. [frq, 4 pt] What are the four components of a proper case definition?
+
+15. [frq, 3 pt] What are the three components of the epidemiologic triangle (or triad)?
+
+16. [frq, 2 pt] What does MMWR stand for?
+
+17. [frq, 1 pt] In order to make sure your turkey is completely cooked, the CDC recommends that you ensure the internal temperature of the bird has reached what temperature?
+
+18. [mcq, 1 pt] How many different foodborne illnesses have been identified?
+    A) More than 100
+    B) More than 250
+    C) More than 750
+    D) More than 925
+
+
+=== Part 2: E. coli and Chipotle! ===
+
+19. [frq, 1 pt] What is E. coli short for?
+
+20. [frq, 1 pt] What strain of E. coli was linked to Chipotle restaurants?
+
+21. [frq, 4 pt] Twenty-seven people from Washington have come into the hospital over a short period of time presenting with bloody diarrhea. After diagnostic tests, these individuals are all confirmed to have contracted E. coli. What type of epidemiological study is most appropriate to determine the source of this outbreak?
+
+22. [frq, 12 pt] After interviews with the individuals who have contracted E. coli, it is revealed that 24 of them have eaten at the same Chipotle Mexican restaurant in the last two weeks. The investigators also interviewed 30 individuals who had tested negative for E. coli. Out of these individuals, only 2 had eaten at that Chipotle in the last two weeks. Construct a 2 x 2 table with the proper labels.
+
+23. [frq, 2 pt] What is the appropriate statistic to calculate for this type of study?
+
+24. [frq, 2 pt] Calculate the attack rate for the exposed group (round to 3 significant figures).
+
+26. [frq, 2 pt] Calculate the relative risk for this study (round to 3 significant figures).
+
+27. [frq, 2 pt] What is the interpretation for this statistic?
+
+28. [frq, 2 pt] Calculate the odds ratio for the above data (round to 3 significant figures).
+
+[STIMULUS] Immediately after the patients were tested for E. coli, scientists developed a new “gold standard” test for E. coli that is never wrong (for our purposes). All of the individuals involved in the study were tested using the new method, and it turns out that only 22 of the original cases actually had the disease according to this “gold standard.” Additionally, out of the people who tested negative there was one person who did have E. coli.
+
+30. [frq, 12 pt] Construct a 2 x 2 table that determines the efficacy of the **original test**.
+
+31a. [frq, 1 pt] How many of the following were there? True positives:
+
+31b. [frq, 1 pt] How many of the following were there? False positives:
+
+31c. [frq, 1 pt] How many of the following were there? True negatives:
+
+31d. [frq, 1 pt] How many of the following were there? False negatives:
+
+32. [frq, 2 pt] What is the sensitivity of the original test (round to 3 significant figures)?
+
+33. [frq, 2 pt] What is the specificity of the original test (round to 3 significant figures)?
+
+34. [frq, 2 pt] What is the positive predictive value of the original test (round to 3 significant figures)?
+
+35. [frq, 2 pt] What is the negative predictive value of the original test (round to 3 significant figures)?
+
+36. [frq, 4 pt] What is the main drawback to having a low specificity? Describe this in terms of the given scenario. What is the main benefit?
+
+37. [frq, 3 pt] What is the main drawback to having a high specificity? Describe this in terms of the given scenario.

@@ -1,0 +1,155 @@
+Yosemite — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  46 questions, 83.0 pts
+Source: scio.ly test archive id c365d0f7-d603-43a0-a525-ad7239fe11b6  |  original files: https://drive.google.com/drive/folders/1hc73EnD6zzMYp0gj-NVJ-mMkByY3yAvj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: Welcome to the Disease Detectives test for the Yosemite Invitational. You have 50 minutes, good luck!
+
+
+=== Miscellaneous Questions ===
+
+[STIMULUS] The map shown above shows the endemic areas of a particular disease in 1945.
+
+2. [frq, 1 pt] Name a symptom of this disease that is characteristic of its most contagious stages.
+
+3. [frq, 3 pt] How was this disease spread? (be specific!)
+
+4. [frq, 2 pt] What is the treatment for this disease, and what is this treatment derived from?
+
+[STIMULUS] The above map shows the distribution of the Guinea Worm disease in 2000, which had been eradicated in the blue areas. This disease is a result of a parasitic infection caused by drinking water contaminated with copepods that have swallowed Guinea Worm larva.
+    [IMAGE: ../images/2021_yosemite_c__p2_2c98a4-d1667b3b.webp]
+
+5. [frq, 2 pt] Explain a reason why this disease has not yet been eradicated in the red and yellow regions on the map.
+
+[STIMULUS] The table above shows data for neonatal tetanus cases in rural Pakistan.
+    [IMAGE: ../images/2021_yosemite_c__p3_e6d894-e9535686.webp]
+
+7. [frq, 2 pt] What causes neonatal tetanus?
+
+8. [frq, 2 pt] What do incidence and case fatality ratio mean?
+
+9. [frq, 1 pt] Explain the decrease in incidence of tetanus between 2001 and 2003.
+
+[STIMULUS] The graph above represents the natural history of the HIV virus.
+    [IMAGE: ../images/2021_yosemite_c__p4_059cfa-f6216eea.webp]
+
+10. [frq, 2 pt] What does event A represent? What is one way to prevent event A from occurring?
+
+11. [frq, 2 pt] What does period B represent? What occurs during this period?
+
+12. [frq, 2 pt] What does period C represent? Can the HIV virus be detected during this period?
+
+13. [frq, 1 pt] What does period D represent?
+
+14. [frq, 2 pt] What is the difference between the terms “AIDS” and “HIV”?
+
+[STIMULUS] A patient recently diagnosed with bacterial pneumonia has been sent to the ER due to inflammation occurring throughout her body, a high fever, and a heart rate of 100 beats per minute.
+
+15. [frq, 2 pt] What likely caused this inflammation, and how does it occur?
+
+16. [frq, 1 pt] If the patient proceeds to develop a very low blood pressure, what is this condition called?
+
+17. [frq, 2 pt] What would are treatments for this complication?
+
+[STIMULUS] The map below shows trade routes throughout Europe and the corresponding frequency of plague outbreaks.
+    [IMAGE: ../images/2021_yosemite_c__p6_fd9053-979afd60.webp]
+
+18. [frq, 4 pt] Start off by answering the question ‘Did trade routes have a significant role in spreading the plague’? Explain your reasoning, and respond to a possible counter-claim someone might have.
+
+24. [frq, 2 pt] Define vertical and horizontal disease transmission.
+
+[STIMULUS] The next few questions have to do with the following chart:
+
+Answer the correct text for letters A-F in the short answer questions below:
+    [IMAGE: ../images/2021_yosemite_c__p8_5c7658-42b13e01.webp]
+
+25. [frq, 1 pt] What should go in the box marked with 'A'?
+
+26. [frq, 1 pt] What should go in the box marked with 'B'?
+
+27. [frq, 1 pt] What should go in the box marked with 'C'?
+
+28. [frq, 1 pt] What should go in the box marked with 'D'?
+
+29. [frq, 1 pt] What should go in the box marked with 'E'?
+
+30. [frq, 1 pt] What should go in the box marked with 'F'?
+
+
+=== Case Study ===
+
+[STIMULUS] On July 31st, 2003, the following article appeared on the front page of the Daily Bugle:
+
+You, a researcher at the CDC, have been tasked with finding out what’s going on here. In addition to the article above, the following information was provided by the businessmen:
+- On July 14-16, the businessmen all had attended a meeting in Florida.
+- None of the businessmen are vegetarians and have an avid love for seafood and pork
+- All three businessmen were strangers to each other, and the only point of interaction they had was at the convention in Florida
+    [IMAGE: ../images/2021_yosemite_c__p10_448a7b-20bd4376.webp]
+
+31. [frq, 4 pt] What is an incubation period? What is the incubation period for the SPDRMN-03 parasite? Does the evidence you used for your answer provide you with enough information to apply to everyone, why or why not?
+
+32. [frq, 2 pt] Is it possible that one of the three businessmen infected others? Explain why or why not.
+
+33. [frq, 2 pt] Do you think that the businessmen all became infected in Florida? Explain why or why not.
+
+[STIMULUS] Upon further investigation, it was found that a total of 146 people had attended the convention in Miami (FL). The attendees ranged from European to North American businessmen. The meals were prepared at the convention centers restaurant. You have been tasked with finding the source of the outbreak.
+
+34. [frq, 2 pt] Name the two most common types of epidemiologic studies used to investigate the source of an outbreak.
+
+35. [frq, 3 pt] Which of those would you use for this study? Why wouldn't you use the other?
+
+[STIMULUS] After deciding the kind of study you want to use, you decide to find possible sources of infection for the virus. The CDC sends you and your team to interview all the businessmen, regardless of their health status since the convention.
+
+36. [frq, 1 pt] Why would you question people who didn't become sick after the convention?
+
+[STIMULUS] Of the 146 people at the convention, 84 of them responded to your interview requests, and 75 of them gave your team useful data. Of the 75 people, the following data was collected:
+- 13 of the 45 people who had the shrimp didn't have any symptoms
+- 27 of the 30 people who did not eat the shrimp didn't have symptoms
+
+38. [frq, 2 pt] What problems in study design or execution should you consider when reviewing the results of this study (or any epidemiological study?)
+
+39. [frq, 2 pt] Suppose your investigation was canceled by the CDC right after you collected the previous data. Would your work so far be enough to create a link between shrimp and the SPDRMN-03 virus? Why or why not?
+
+40. [frq, 2 pt] If you could continue the study, what would you do to verify the results?
+
+
+=== Statistics ===
+
+41. [frq, 2 pt] What is a statistical Type I (one) error? What is the corresponding lower-case greek letter that represents the probability of this error?
+
+42. [frq, 2 pt] What is a statistical Type II (two) error? What is the corresponding lower-case greek letter that represents the probability of this error?
+
+43. [frq, 1 pt] Calculate the variance and standard deviation of the following sample of data.
+    13
+    15
+    4
+    4
+    1
+
+44. [frq, 3 pt] What is the null hypothesis of Fisher's exact test? Give an example (use your best judgement here; a wide range of answers will be accepted). What is the alternate hypothesis?
+
+45. [frq, 1 pt] List one assumption made with Fisher's exact test. There is no need to explain your answer; a few words will suffice.
+
+46. [frq, 2 pt] What is the null hypothesis of McNemar's test for paired data? What is the alternate hypothesis?
+
+[STIMULUS] The above graph shows the distribution for the frequency of Shingles cases taken from 100 samples of equal size.
+    [IMAGE: ../images/2021_yosemite_c__p14_fc82d1-7883338a.webp]
+
+47. [frq, 1 pt] What type of distribution is shown above?
+
+48. [frq, 1 pt] If the mean of the distribution is 60, and the standard deviation is 15, what percent of the data lies between 45 and 75 cases?
+
+49. [frq, 2 pt] In a study conducted by the CDC, the heart disease mortality rate among vegetarians was 0.09 deaths per 1000 persons per year, while the heart disease mortality rate among pescatarians was 0.11 deaths per 1000 persons per year. What is the attributable proportion of eating seafood, expressed as a percent with two significant figures?
+
+[STIMULUS] You are in charge of a program that aims to gain an accurate picture of how many people in America wash their hands after using the restroom. To do so, you begin by sending surveys to people across the nation.
+
+50. [frq, 1 pt] How would you ensure that the sample is randomized?
+
+51. [frq, 2 pt] What is a possible source of bias of this method? How would you remedy it?
+
+[STIMULUS] After producing a sample of 1000 people, you find that an average of 90% of the people said that they do wash hands after using the restroom, with a standard deviation of 6%. You decide to conduct a confidence interval for this data, at a confidence level of 96%.
+
+52. [frq, 1 pt] What type of interval would you use to represent this data?
+
+53. [frq, 2 pt] What is the critical value for this interval rounded to three significant figures, and how did you find this?
+
+54. [frq, 3 pt] Construct the confidence interval for this data using the rounded critical value from the previous question, in the form of "(x, y)", rounding to three significant figures.

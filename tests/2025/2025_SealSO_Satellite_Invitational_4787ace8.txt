@@ -1,0 +1,307 @@
+SealSO Satellite Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  58 questions, 111.0 pts
+Source: scio.ly test archive id 4787ace8-4bc6-473d-a41c-96d888c05836  |  original files: https://drive.google.com/drive/folders/19B2HNzkNhIQSmbst1CEfnJ2A1X3zaUeo
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Partial credit will be awarded, so attempt as many questions as you can!
+
+When completing calculations, make sure to round all decimals to two decimal places unless stated otherwise
+
+
+=== This or that? ===
+
+[STIMULUS] **Each question from 1 to 8 corresponds to a numbered vocabulary term. Match it to the letter that best represents its definition.**
+
+**Terms**
+
+1. Incidence
+2. Miasma theory
+3. Nosocomial disease
+4. Incubatory carrier
+5. Convalescent carrier
+6. Humoral theory
+7. Iatrogenic disease
+8. Period prevalence
+
+**Definitions**
+
+A. An infection that develops while a patient is receiving treatment at a medical facility
+
+B. A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+
+C. Someone who has recovered from an illness but can still spread the disease to others
+
+D. Someone who is infected with a disease but can still spread it to others before they show symptoms
+
+E. A state of ill health or adverse effect caused by medical treatment
+
+F. Proportion of a population that has the characteristic at any point during a given time period
+
+G. A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+
+H. Occurrence of new cases of disease or injury in a population over a specified period of time
+
+1. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 1st term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+2. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 2nd term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+3. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 3rd term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+4. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 4th term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+5. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 5th term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+6. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 6th term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+7. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 7th term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+8. [mcq, 1 pt] Enter the letter that corresponds to the definition of the 8th term.
+    A) An infection that develops while a patient is receiving treatment at a medical facility
+    B) A system of medicine that believed the human body was made of black bile, yellow bile, phlegm, and blood.
+    C) Someone who has recovered from an illness but can still spread the disease to others
+    D) Someone who is infected with a disease but can still spread it to others before they show symptoms
+    E) A state of ill health or adverse effect caused by medical treatment
+    F) Proportion of a population that has the characteristic at any point during a given time period
+    G) A medical theory that held that diseases were caused by a poisonous, foul-smelling air
+    H) Occurrence of new cases of disease or injury in a population over a specified period of time
+
+
+=== Epidemiological Transition Theory ===
+
+[STIMULUS] The ETT describes how changes in health services and living standards affect patterns of disease. It includes the following periods:
+
+The Age of Pestilence and Famine
+The Age of Receding Pandemics
+The Age of Degenerative and Human-Made Diseases
+The Age of Delayed Degenerative Diseases
+
+9. [frq, 2 pt] Describe The Age of Pestilence and Famine in the context of paramount diseases that would've been spread.
+
+10. [frq, 1 pt] What would population growth look like during the Age of Pestilence and Famine?
+
+12. [frq, 2 pt] Name two medical breakthroughs and the person who created them that pushed humans into the Age of Receding Pandemics. Think cleanliness.
+
+13. [frq, 2 pt] How would the population makeup shift during this age? What medical resources would have to be diverted to meet this change?
+
+14. [frq, 1 pt] During the Age of Degenerative and Human-Made Diseases, what would become the two leading killers we know in developed Western countries today?
+
+15. [frq, 4 pt] Define what a degenerative/chronic disease is. Give 3 examples that aren't the answers to the previous question.
+
+
+=== 8,111 Americans, 6 cities, and a dream… ===
+
+[STIMULUS] The Harvard Six Cities study was a groundbreaking study involving air pollution and mortality among US residents. It was based on 8,111 random adults who lived in one of the six cities with varying levels of air pollution. Investigators followed the participants for about 15 years and analyzed the number and causes of death.
+
+20. [mcq, 1 pt] What type of study is the Harvard Six Cities study?
+    A) Ecological
+    B) Case-control
+    C) Prospective cohort
+    D) Retrospective cohort
+
+21. [frq, 1 pt] What is another term for reduced life expectancy?
+
+22. [numeric, 2 pt] Assuming everyone is followed for the entire 15-year period, how many person-years have been accrued in total?
+
+[STIMULUS] Here are two tables from the study with information from the most and least polluted cities.
+    [IMAGE: ../images/2024_sealso_satellite_invitational_b_c__p5_fd90f2-81f5ab38.webp]
+
+[STIMULUS] Using the two tables from the study, calculate the cumulative incidence mortality rate for Steubenville, Portage, and the combined rate for both cities. Express your answer as a percentage rounded to the nearest tenth.
+    | Label | Answer |
+    | Steubenville Steubenville | [[q:23-a]] |
+    | Portage Portage | [[q:23-b]] |
+    | Combined the combined rate for both cities | [[q:23-c]] |
+
+23-a. [frq, 2 pt] Steubenville Steubenville
+
+23-b. [frq, 2 pt] Portage Portage
+
+23-c. [frq, 2 pt] Combined the combined rate for both cities
+
+26. [frq, 3 pt] List the three reasons that would lead the study participants to stop having data recorded about them.
+
+[STIMULUS] Using the two tables from the study, calculate the incidence rate of mortality for Steubenville, Portage, and the combined rate for both cities. Express your answer as a fraction per 1,000 person-years. (Round to nearest hundredth)
+    | Label | Answer |
+    | Steubenville Steubenville | [[q:27-a]] |
+    | Portage Portage | [[q:27-b]] |
+    | Combined the combined rate for both cities | [[q:27-c]] |
+
+27-a. [frq, 2 pt] Steubenville Steubenville
+
+27-b. [frq, 2 pt] Portage Portage
+
+27-c. [frq, 2 pt] Combined the combined rate for both cities
+
+28. [numeric, 2 pt] Calculate the incidence rate difference between Steubenville and Portage. (Remember to format your answer properly)
+
+29. [frq, 3 pt] Interpret this data in a sentence. Make sure to be specific.
+
+30. [numeric, 1 pt] Calculate the population rate difference between the total population from the data provided and the city of Steubenville. (Remember to format your answer properly)
+
+31. [mcq, 1 pt] What kind of measures of comparison did you just calculate in the previous 3 problems?
+    A) Relative
+    B) Absolute
+    C) Formulaic
+    D) Causal
+
+
+=== Pollution stuff! ===
+
+32. [frq, 1 pt] What did the Clean Air Act enacted by the EPA in 1963 intend to do?
+
+[STIMULUS] Differentiate between smog and soot and give 1 possible source for each.
+    | Label | Answer |
+    | Smog | [[q:33-a]] |
+    | Soot | [[q:33-b]] |
+
+33-a. [frq, 2 pt] Label Smog
+
+33-b. [frq, 2 pt] Label Soot
+
+34. [mcq, 1 pt] What percentage of people on Earth breathe air that exceeds the WHO's guidelines for air pollution?
+    A) 20%
+    B) 50%
+    C) 67%
+    D) 75%
+    E) 99%
+
+35. [mcq, 1 pt] What is the number one contributor to greenhouse gas emissions?
+    A) Carbon dioxide
+    B) Methane
+    C) Nitrous oxide
+    D) Hydrofluorocarbons
+
+36. [frq, 1 pt] List one effect that the answer to the previous question has on the human body due to elevated long-term exposure from the atmosphere.
+
+[STIMULUS] Mini case study:
+
+The Donora Smog in 1948 occurred in Donora, Pennsylvania. It involved a 4-day terror of smog from the nearby zinc factory covering the entire town. 20 people were killed as a result and attracted major media attention to the issue of air pollution.
+
+37. [frq, 3 pt] Give 3 population groups that would be the most affected by the smog.
+
+38. [frq, 1 pt] Give a possible reason as to how the Donora Smog contributed to the future passing of the previously mentioned Clean Air Act.
+
+[STIMULUS] The total population of Donora was 14,000. 6,000 developed respiratory issues and 20 of them died. Calculate the mortality rate and morbidity rate per 1,000 people. (Round to nearest hundredth)
+    | Label | Answer |
+    | Mortality mortality rate | [[q:39-a]] |
+    | Morbidity morbidity rate | [[q:39-b]] |
+
+39-a. [frq, 1 pt] Mortality mortality rate
+
+39-b. [frq, 1 pt] Morbidity morbidity rate
+
+40. [frq, 2 pt] What type of study design would be most effective in determining the relationship between the smog and illnesses? Explain why.
+
+42. [frq, 1 pt] Give one possible way the smog could've been avoided.
+
+
+=== Fast Food, Faster Outbreak… ===
+
+[STIMULUS] Just to make sure you know the basics of food safety…
+
+43. [frq, 12 pt] List the components of FATTOM and give an example of each.
+
+[STIMULUS] A recent E. coli outbreak was linked to McDonald's slivered onions starting September 27th. There are cases from 14 different states and patients presented with diarrhea, fever, vomiting, dehydration, and stomach cramps. 34 patients have been hospitalized, and 4 of them developed hemolytic uremic syndrome which could cause possible kidney failure. So far there has been one death in Colorado, also the state with the highest number of cases. Additionally, multiple lawsuits have been filed against McDonald's as a result of the outbreak. One of the plaintiffs attributes her positive E. coli test to a Quarter Pounder she ate the week prior.
+
+44. [frq, 3 pt] Develop a case definition for this outbreak.
+
+46. [frq, 1 pt] As of November 13th, there have been a total of 104 cases. Why is it very possible that the real number of cases is much higher than 104?
+
+47. [mcq, 1 pt] Public health officials interviewed people about the menu items they ate at McDonalds. What kind of study is this?
+    A) Cohort
+    B) Cross-sectional
+    C) Ecological
+    D) Case-control
+
+48. [frq, 1 pt] They also collected many different types of information from sick people, including their age, race, ethnicity, and other demographics. What step of outbreak investigation is this? (Give the name)
+
+49. [frq, 1 pt] Apparently the CDC is super cool and provides a cool chart if you click on a button labeled "Timeline". Anyways, what is the name of this cool chart?
+    [IMAGE: ../images/2024_sealso_satellite_invitational_b_c__p10_400338-d298fde3.webp]
+
+50. [mcq, 1 pt] What type of outbreak is this?
+    A) Point source
+    B) Continuous common source
+    C) Propagated
+    D) Intermittent
+
+51. [frq, 2 pt] What can McDonald's do next time to prevent an E. coli outbreak? Give two possibilities
+
+52. [frq, 1 pt] In the end, McDonald's recalled their onions, and their onion supplier was contacted by (presumably) the CDC to stop selling the bad onions. What step of outbreak investigation is this? Give the name, not number
+
+
+=== That feeling when your Disease Detectives test is tomorrow... ===
+
+53. [frq, 2 pt] What is a confidence interval?
+
+54. [frq, 2 pt] What does it mean when there is a narrower interval for a confidence interval?
+
+55. [frq, 2 pt] When the 95% confidence interval includes the null value, it means that
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_sealso_satellite_invitational_b_c__p11_2632c7-0d91fd27.webp]
+
+56. [frq, 2 pt] What is the name of this type of pie?
+
+57. [frq, 1 pt] Identify the letter that represents the necessary cause.
+
+58. [frq, 4 pt] What do these pies represent? What do they help us understand?
+
+59. [frq, 3 pt] What are the differences between counts, ratios, proportions, and rates, and how are they calculated and interpreted?
+
+60. [frq, 6 pt] Define prevalence and incidence, and what are the advantages and disadvantages of using prevalence and incidence to measure disease occurrence? Multiple answers will be accepted for advantages/disadvantages.
+
+61. [frq, 3 pt] List 3 types of biases that can affect the validity and reliability of epidemiological data. How can they be minimized or corrected?

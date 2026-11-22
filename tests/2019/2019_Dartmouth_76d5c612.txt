@@ -1,0 +1,334 @@
+Dartmouth — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  44 questions, 44.0 pts
+Source: scio.ly test archive id 76d5c612-8be7-484e-b08b-cf56d1debabc  |  original files: https://drive.google.com/drive/folders/1bgdqf22FtdOGfRqHoi2h3yKEDUce2xG7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Part I. Background and Surveillance ===
+
+[STIMULUS] Use the following choices (only once) for Questions 1-3.
+
+a) Cluster
+b) Epidemic
+c) Outbreak
+
+1. [mcq, 1 pt] 200 cases of Marburg virus infection in several districts in Angola over several months (usually none)
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+2. [mcq, 1 pt] 10 cases of cancer diagnosed over 2 years among residents of a single neighborhood (previous data not available)
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+3. [mcq, 1 pt] 40 cases of *Salmonella* *Enteritidis* in 1 week traced to a single meal served at a cafeteria (usually none)
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+
+4. [mcq, 1 pt] Infections transmitted through ticks and mosquitoes are examples of:
+    A) Airborne infections
+    B) Food-borne infections
+    C) Vector-borne infections
+    D) Water-borne infections
+
+5. [mcq, 1 pt] Which of the below modes of transmission is most often involved in the transmission of diarrheal diseases?
+    A) Direct
+    B) Vector-borne
+    C) Airborne
+    D) Vehicle-borne
+
+6. [mcq, 1 pt] Which of the following is an example of direct transmission?
+    A) Droplet spread
+    B) Mosquito-borne
+    C) Foodborne
+    D) Doorknobs or toilet seats
+
+7. [tf, 1 pt] A reservoir of an infectious agent can be: an asymptomatic human, a symptomatic human, an animal or the environment.
+    A) True
+    B) False
+
+8. [tf, 1 pt] Some of the current public health surveillance targets chronic diseases, communicable diseases, health-related behaviors, occupational hazards and presence of viruses in mosquitoes.
+    A) True
+    B) False
+
+9. [mcq, 1 pt] The primary reason for preparing and distributing periodic surveillance summaries is which of the following?
+    A) Document recent epidemiologic investigations.
+    B) Provide timely information on disease patterns and trends to those who need to know it.
+    C) Provide reprints of *MMWR* articles, reports, and recommendations.
+    D) Acknowledge the contributions of those who submitted case reports.
+
+10. [mcq, 1 pt] Common uses and applications of public health surveillance include which of the following?
+    A) Helping public health officials decide how to allocate their disease control resources.
+    B) Identifying changes over time in the proportion of children with elevated blood lead levels in a community.
+    C) Documenting changes in the incidence of varicella (chickenpox), if any, after a law requiring varicella vaccination took effect.
+    D) All of the above are correct.
+
+11. [mcq, 1 pt] Data collected through which of the following methods is NOT commonly used for surveillance?
+    A) Vital registration.
+    B) Randomized clinical trials.
+    C) Disease notifications.
+    D) Population surveys.
+
+12. [mcq, 1 pt] The key feature of an analytic (epidemiologic) study is:
+    A) Analysis by time, place, and person
+    B) Calculation of a risk ratio or odds ratio
+    C) Use of Epi Info to analyze the data
+    D) Presence of a comparison group
+
+13. [mcq, 1 pt] Mucormycosis is a serious, often fatal infection, caused by molds. In December 2014, a cluster of mucormycosis infection was identified. Health department personnel first characterized the cases by person, place, and time. What type of epidemiology did they perform?
+    A) Descriptive
+    B) Analytic
+    C) Experimental
+    D) Clinical
+
+14. [mcq, 1 pt] In epidemiology, the interaction of three elements are assessed before developing control measures. This is often called the epidemiologic triad. What is the name of the missing element in the adjacent diagram?
+    [IMAGE: ../images/2019_dartmouth_c__d_b24dd4-1a9486c4.webp]
+    A) Microorganism
+    B) Pathogen
+    C) Environment
+    D) Disease
+
+
+=== Part II. Outbreak Investigation ===
+
+15. [mcq, 1 pt] In the following table, the total number of persons with the disease is:
+    
+    | | **Cases** | **Controls** | **Total** |
+    |---------------|-----------|--------------|-----------|
+    | **Total** | 25 | 25 | 50 |
+    | **Exposed** | 22 | 12 | 34 |
+    | **Unexposed** | 3 | 13 | 16 |
+    
+    2 by 2 table
+    A) 22
+    B) 25
+    C) 34
+    D) 50
+
+[STIMULUS] An outbreak of gastrointestinal disease occurred 24-36 hours after people had attended a wedding. Of the 203 attendees (including the bride and groom), 200 completed questionnaires, and 50 reported illness compatible with the case definition. Tabulated food consumption histories are presented in the table below.
+
+|                  | **Ate Specified Food** |          |           | **Did Not Eat Specified Food** |          |           |
+|------------------|------------------------|----------|-----------|--------------------------------|----------|-----------|
+| **Food Item**    | **Ill**                | **Well** | **Total** | **Ill**                        | **Well** | **Total** |
+| **Punch**        | 46 (25%)               | 138      | 184       | 4 (25%)                        | 12       | 16        |
+| **Wedding Cake** | 45 (45%)               | 55       | 100       | 5 (5%)                         | 95       | 100       |
+| **Sushi**        | 10 (91%)               | 1        | 11        | 40 (21%)                       | 149      | 189       |
+
+16. [tf, 1 pt] This study is an example of a retrospective cohort study.
+    A) True
+    B) False
+
+17. [mcq, 1 pt] The most appropriate measure of association for these data is the:
+    A) Attributable risk percent
+    B) Chi-square
+    C) Odds ratio
+    D) Risk ratio
+
+18. [mcq, 1 pt] Using the appropriate measure of association in Question 17, which food is the most likely culprit?
+    A) Punch
+    B) Wedding cake
+    C) Sushi
+    D) Can't determine from the data presented.
+
+19. [mcq, 1 pt] What is the attack rate for those who drank punch?
+    A) 25%
+    B) 5%
+    C) 21%
+    D) 91%
+
+20. [mcq, 1 pt] What is the attack rate for those who did not eat sushi?
+    A) 5%
+    B) 21%
+    C) 25%
+    D) 45%
+
+21. [mcq, 1 pt] Food samples were collected from plates in the dumpster from the wedding. Why did disease detectives collect and test samples from the dumpster?
+    A) To collect samples of the disease agent to develop an antitoxin
+    B) To confirm the epidemiological findings with environmental studies
+    C) To determine the validity of the survey
+    D) To identify patterns in the food eaten by comparing plates found.
+
+[STIMULUS] Use the following steps of an outbreak investigation for this question:
+
+1. Analyze data by time, place, and person
+2. Conduct a case-control study
+3. Generate hypotheses
+4. Conduct active surveillance for additional cases
+5. Verify the diagnosis
+6. Confirm that the number of cases exceeds the expected number
+
+22. [mcq, 1 pt] For an investigation of an outbreak, what is the logical conceptual order of the steps listed above?
+    A) 1-2-3-4-5-6-7
+    B) 5-6-4-1-2-3-7
+    C) 6-5-3-1-2-7-4
+    D) 6-5-7-4-1-3-2
+
+23. [mcq, 1 pt] Epidemiologists use which criteria to ascertain causation?
+    A) Beacon Hill criteria
+    B) Bradford Hill criteria
+    C) Notting Hill criteria
+    D) Hamburger Hill criteria
+
+24. [mcq, 1 pt] Which of these terms does this statement match: "The exposure must precede the disease by a reasonable amount of time, i.e., a cause must precede an effect in time."
+    A) Temporality
+    B) Dose-response relationship
+    C) Strength of association
+    D) Biological plausibility
+
+25. [mcq, 1 pt] To study the causes of an outbreak of aflatoxin poisoning in Africa, investigators conducted a case-control study with 40 case-patients and 80 controls. Among the 40 poisoning victims, 32 reported storing their maize inside rather than outside. Among the 80 controls, 20 stored their maize inside. The resulting odds ratio for the association between inside storage of maize and illness is:
+    
+    | | **Cases** | **Controls** | **Total** |
+    |--------------------------------|-----------|--------------|-----------|
+    | **Stored maize inside** | 32 | 20 | 52 |
+    | **Did not store maize inside** | 8 | 60 | 68 |
+    | **Total** | 40 | 80 | 120 |
+    A) 3.2
+    B) 5.2
+    C) 12.0
+    D) 33.3
+
+26. [mcq, 1 pt] A study in which children are randomly assigned to receive either a newly formulated vaccine or the currently available vaccine, and are followed to monitor for side effects and effectiveness of each vaccine, is an example of which type of study?
+    A) Observational
+    B) Cohort
+    C) Case-control
+    D) Clinical trial
+
+27. [mcq, 1 pt] The Iowa Women's Health Study, in which researchers enrolled 41,837 women in 1986 and collected exposure and lifestyle information to assess the relationship between these factors and subsequent occurrence of cancer, is an example of which type of study?
+    A) Experimental
+    B) Cohort
+    C) Case-control
+    D) Clinical trial
+
+28. [mcq, 1 pt] British investigators conducted a study to compare measles-mumps-rubella (MMR) vaccine history among 1,294 children with pervasive development disorder (e.g., autism and Asperger's syndrome) and 4,469 children without such disorders. (They found no association.) This is an example of which type of study?
+    A) Experimental
+    B) Cohort
+    C) Case-control
+    D) Clinical trial
+
+29. [mcq, 1 pt] A situation in which the effect or association between an exposure and health outcome is distorted by the presence of another variable that is related to both is known as
+    A) Confounding
+    B) Information bias
+    C) Random error
+    D) Selection bias
+
+30. [mcq, 1 pt] This type of bias may be a result of the investigator's prior knowledge of the hypothesis under investigation or knowledge of an individual's exposure or disease status.
+    A) Selection bias
+    B) Information bias
+    C) Observer bias
+    D) Recall bias
+
+
+=== Part III. Patterns, Control, and Prevention ===
+
+[STIMULUS] Use the following epi curves as choices for Questions 31-33.
+
+A:
+
+B:
+
+C:
+
+D:
+    [IMAGE: ../images/2019_dartmouth_c__d_6f47c7-0add3dc0.webp]
+    [IMAGE: ../images/2019_dartmouth_c__d_1c6b4d-1209d748.webp]
+    [IMAGE: ../images/2019_dartmouth_c__d_d7a564-9ad8be48.webp]
+    [IMAGE: ../images/2019_dartmouth_c__d_26cd2a-b3dc40bc.webp]
+
+31. [mcq, 1 pt] Match the epi curve with the outbreak description: A malfunctioning space heater was used each time the outside temperature dropped below freezing
+    A) A
+    B) B
+    C) C
+    D) D
+
+32. [mcq, 1 pt] Match the epi curve with the outbreak description: At the Eclipse Restaurant, sodium nitrite was mistaken for table salt in the preparation of breakfast one morning only
+    A) A
+    B) B
+    C) C
+    D) D
+
+33. [mcq, 1 pt] Match the epi curve with the outbreak description: Common cold passed from classmate to classmate
+    A) A
+    B) B
+    C) C
+    D) D
+
+34. [mcq, 1 pt] What is the common name for this map in epidemiology?
+    [IMAGE: ../images/2019_dartmouth_c__d_68de86-a4ffba76.webp]
+    A) Epidemic map
+    B) Spot map
+    C) Outbreak map
+    D) Epidemiology map
+
+[STIMULUS] The table below shows the number of cases of prostate cancer in men, ages 20-50 years, in Boston from 2009 to 2014. The population of Boston is approximately 675,000 with around 350,000 males, of which 105,000 are between the ages of 20-50.
+
+|             | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 |
+|-------------|------|------|------|------|------|------|
+| New cases   | 35   | 28   | 15   | 40   | 45   | 55   |
+| Total cases | 150  | 155  | 170  | 185  | 190  | 200  |
+
+35. [mcq, 1 pt] What is the incidence rate per 1000 men 20-50 years, of prostate cancer in 2010?
+    A) 0.04
+    B) 0.23
+    C) 0.27
+    D) 0.33
+
+36. [mcq, 1 pt] What is the average prevalence rate of prostate cancer in males, 20-50 years, across the 6-year time span?
+    A) 0.00035
+    B) 0.0017
+    C) 0.01
+    D) 36
+
+37. [mcq, 1 pt] What is the median number of cases of prostate cancer among men 20-50 per year?
+    A) 35
+    B) 37.5
+    C) 40
+    D) 170
+    E) 177.5
+
+38. [mcq, 1 pt] What is the following fraction?
+    
+    Number of children < 365 days of age who died in Country A in 2004 / Number of live births in Country A in 2004
+    A) Proportion
+    B) Incidence proportion
+    C) Mortality rate
+    D) Ratio
+
+39. [mcq, 1 pt] In 2017 from January 4th to September 22nd the CDC recorded the largest number of *Salmonella* infections linked to contact with backyard poultry (chickens and ducks). Of 1120 reported cases from 48 states, 249 were hospitalized and 1 death was reported. What was the case-fatality rate of this outbreak?
+    A) 0.09%
+    B) 0.22%
+    C) 4.35%
+    D) 8.93%
+
+40. [mcq, 1 pt] Disease control measures are NOT directed at
+    A) Eliminating the vector
+    B) Eliminating the host
+    C) Interrupting mode of transmission
+    D) Reducing host susceptibility
+
+41. [mcq, 1 pt] Which of the following is an effective control measure used to control and prevent foodborne infections?
+    A) Animal Health
+    B) Food process regulation
+    C) Hand-washing
+    D) All of the above are correct
+
+[STIMULUS] Use the following choices for Questions 42-44.
+
+a) Primary prevention
+b) Secondary prevention
+c) Tertiary prevention
+
+42. [mcq, 1 pt] Regular exams and screening tests to detect disease in its earliest stages (e.g. mammograms to detect breast cancer)
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+
+43. [mcq, 1 pt] Immunization against infectious diseases such as measles.
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+
+44. [mcq, 1 pt] Cardiac or stroke rehabilitation programs, chronic disease management programs (e.g. for diabetes, arthritis, depression, etc.)
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention

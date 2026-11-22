@@ -1,0 +1,217 @@
+Golden Gate Invitational — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  63 questions, 136.0 pts
+Source: scio.ly test archive id 4eeddac0-fe49-4578-95a9-83c56c60f2e2  |  original files: https://drive.google.com/drive/folders/1M1Bhjypo-78cqFMswVmYfeXjQBBZw5Dh
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+
+=== Part I: Background & Surveillance ===
+
+[STIMULUS] Define the following terms:
+    | Label | Answer |
+    | endemic | [[q:1-a]] |
+    | hyperendemic | [[q:1-b]] |
+    | outbreak | [[q:1-c]] |
+    | epidemic | [[q:1-d]] |
+    | pandemic | [[q:1-e]] |
+
+1-a. [frq, 1 pt] endemic
+
+1-b. [frq, 1 pt] hyperendemic
+
+1-c. [frq, 1 pt] outbreak
+
+1-d. [frq, 1 pt] epidemic
+
+1-e. [frq, 1 pt] pandemic
+
+2. [frq, 5 pt] Describe the links of the Chain of Infection. For a hypothetical malaria outbreak, suggest three possible methods to break the chain.
+
+3. [frq, 5 pt] Explain the connection between the stages of the Natural History of Disease and the four main levels of prevention.
+
+[STIMULUS] Fill out the chart below with information about each specified disease. For the Symptoms column, at least 2 correct symptoms are required to obtain full credit.
+    | Disease Name | Mode of Transmission | Symptoms | Type of Pathogen | Specified Pathogen Name |
+    | Peptic Ulcers | [[q:4-1]] | [[q:4-2]] | Bacteria | [[q:4-3]] |
+    | Hepatitis A | [[q:4-4]] | [[q:4-5]] | [[q:4-6]] | n/a |
+    | Listeriosis | foodborne | [[q:4-7]] | [[q:4-8]] | [[q:4-9]] |
+    | Ebola | Direct contact | Fever, sore throat, muscle pain, diarrhea, bleeding, high mortality | virus | [[q:4-11]] |
+    | Dengue fever | [[q:4-12]] | [[q:4-13]] | [[q:4-14]] | [[q:4-15]] |
+    | Lyme disease | Vector-borne by the tick | [[q:4-17]] | bacteria | [[q:4-18]] |
+    | Bovine spongiform encephalopathy | [[q:4-19]] | [[q:4-20]] | [[q:4-21]] | n/a |
+    | 2019 Wuhan Coronavirus | [[q:4-22]] | [[q:4-23]] | Virus | [[q:4-24]] |
+    | Cholera | foodborne | Severe watery diarrhea, vomiting, muscle cramps | bacteria | [[q:4-26]] |
+    | Athlete's Foot | [[q:4-27]] | [[q:4-28]] | [[q:4-29]] | [[q:4-30]] |
+
+4-1. [frq, 1 pt] Row: Peptic Ulcers - Mode of Transmission
+
+4-2. [frq, 1 pt] Row: Peptic Ulcers - Symptoms
+
+4-3. [frq, 1 pt] Row: Peptic Ulcers - Specified Pathogen Name
+
+4-4. [frq, 1 pt] Row: Hepatitis A - Mode of Transmission
+
+4-5. [frq, 1 pt] Row: Hepatitis A - Symptoms
+
+4-6. [frq, 1 pt] Row: Hepatitis A - Type of Pathogen
+
+4-7. [frq, 1 pt] Row: Listeriosis - Symptoms
+
+4-8. [frq, 1 pt] Row: Listeriosis - Type of Pathogen
+
+4-9. [frq, 1 pt] Row: Listeriosis - Specified Pathogen Name
+
+4-11. [frq, 1 pt] Row: Ebola - Specified Pathogen Name
+
+4-12. [frq, 1 pt] Row: Dengue fever - Mode of Transmission
+
+4-13. [frq, 1 pt] Row: Dengue fever - Symptoms
+
+4-14. [frq, 1 pt] Row: Dengue fever - Type of Pathogen
+
+4-15. [frq, 1 pt] Row: Dengue fever - Specified Pathogen Name
+
+4-17. [frq, 1 pt] Row: Lyme disease - Symptoms
+
+4-18. [frq, 1 pt] Row: Lyme disease - Specified Pathogen Name
+
+4-19. [frq, 1 pt] Row: Bovine spongiform encephalopathy - Mode of Transmission
+
+4-20. [frq, 1 pt] Row: Bovine spongiform encephalopathy - Symptoms
+
+4-21. [frq, 1 pt] Row: Bovine spongiform encephalopathy - Type of Pathogen
+
+4-22. [frq, 1 pt] Row: 2019 Wuhan Coronavirus - Mode of Transmission
+
+4-23. [frq, 1 pt] Row: 2019 Wuhan Coronavirus - Symptoms
+
+4-24. [frq, 1 pt] Row: 2019 Wuhan Coronavirus - Specified Pathogen Name
+
+4-26. [frq, 1 pt] Row: Cholera - Specified Pathogen Name
+
+4-27. [frq, 1 pt] Row: Athlete's Foot - Mode of Transmission
+
+4-28. [frq, 1 pt] Row: Athlete's Foot - Symptoms
+
+4-29. [frq, 1 pt] Row: Athlete's Foot - Type of Pathogen
+
+4-30. [frq, 1 pt] Row: Athlete's Foot - Specified Pathogen Name
+
+5. [frq, 4 pt] In four sentences, explain the four steps in solving public health problems.
+
+6. [frq, 10 pt] Name the four main types of surveillance. Briefly explain and provide an example for each.
+
+[STIMULUS] Define vertical and horizontal disease transmission.
+    | Label | Answer |
+    | vertical | [[q:7-a]] |
+    | horizontal | [[q:7-b]] |
+
+7-a. [frq, 1 pt] vertical
+
+7-b. [frq, 1 pt] horizontal
+
+[STIMULUS] Distinguish between the following terms:
+    | Label | Answer |
+    | infectivity | [[q:8-a]] |
+    | pathogenicity | [[q:8-b]] |
+    | virulence | [[q:8-c]] |
+
+8-a. [frq, 1 pt] infectivity
+
+8-b. [frq, 1 pt] pathogenicity
+
+8-c. [frq, 1 pt] virulence
+
+9. [frq, 5 pt] While conducting routine surveillance on OskiTheBear Hospital, public health officials notice a few cases of MRSA, a secondary infection. What standard precautions (provide three) and transmission-based/contact precautions (provide two) would you recommend?
+
+10. [frq, 4 pt] Many viruses, including most notably the influenza virus, change rapidly from year to year. Briefly explain the molecular mechanism by which these changes occur and why they necessitate different vaccines.
+
+
+=== Part II: Outbreak Investigation - Bikini Bottom Case Study ===
+
+[STIMULUS] After media reports on the outbreak, local residents express concerns about another possible wave of cases. Given that Bikini Bottom is a small town of 1500 people with little to no resources, Bikini Bottom officials then call on CDC to investigate the possible outbreak.
+
+II-2. [frq, 3 pt] What is the first step that CDC officials will take? Be detailed.
+
+II-4. [frq, 3 pt] List 3 factors that may have caused a false increase in cases.
+
+[STIMULUS] CDC officials bring in highly advanced testing materials in order to determine the biological disease impacting these patients. After testing, 44 patients test positive for Disease A. CDC also conducts extensive interviews with all possible patients and determined that all but 3 patients had attended a business conference on January 4th.
+
+II-6. [frq, 4 pt] Distinguish between a probable case definition and a confirmed case definition. In cases of an outbreak characterized by severe symptoms, which case definition is more appropriate and why?
+
+[STIMULUS] After conducting the test, CDC officials realize that they need to obtain and analyze the sensitivity and specificity of this diagnostic tool. In order to do this, they create the chart below.
+    |  | True Condition: Disease | True Condition: No Disease |
+    | Positive Test | 36 | 8 |
+    | Negative Test | 13 | 32 |
+
+II-7. [frq, 5 pt] Using the above table, calculate the sensitivity, specificity, false negative rate (FNR), false positive rate (FPR), and accuracy of the test.
+    [IMAGE: ../images/2020_golden_gate_invitational__p7_rceb5fd1-28a95f1d.webp]
+
+[STIMULUS] Next, officials further interview patients selected based on the case definition. Out of the 64 patients who had attended the business conference, 48 had attended a luncheon at the center. Officials next interviewed other controls who had attended the business conference. Out of the 62 interviewed, only 12 had eaten at the luncheon.
+
+II-9. [frq, 5 pt] What study design are these officials engaging with? List 2 advantages and 2 disadvantages associated with this type of epidemiological study.
+
+II-10. [frq, 11 pt] Create a table summarizing the data above. Provide a row / column for the totals as well.
+
+II-11. [frq, 6 pt] Calculate the appropriate measure of association for this study using the data above. Interpret your numerical findings in a concise statement.
+
+[STIMULUS] After conducting this study, independent reviewers find multiple possible issues with the way the study was conducted and submit a detailed complaint to the CDC, shown below. Identify the specific error associated with each part of the complaint, and determine how this could have been prevented.
+
+II-12. [frq, 2 pt] Interviewer A was in charge of interviewing the last 10 individuals in the 'case' cohort, but had knowledge of the general trend of cases attending the luncheon. When interviewing, Interviewer A's first question was "Did you eat food at the luncheon during the conference?"
+
+II-13. [frq, 2 pt] Media outlets obtained classified and uncorroborated information about the outbreak from an intern working at CDC. A newspaper headline titled "Bikini Bottom Conference Started Diarrhea Mayhem" appeared the day before the interviews took place. Multiple interviewees stated that they had seen this headline before going in for their interview.
+
+II-14. [frq, 2 pt] While many interviewees in the 'case' cohort remembered their activities on the day of the business conference in detail, several interviewees in the 'control' cohort were unable to provide many details in the 5 minute time frame allotted for each interview.
+
+II-15. [frq, 2 pt] The 'control' cohort was created entirely by recruiting volunteers who applied online through a website that was live for 4 days. After recruitment, it was determined that all members of the cohort were between the ages of 21 and 34, and all had been notified of the website through their managers. While multiple individuals who were working the logistics of conference ate at the luncheon, only individuals attending the conference for business purposes were included.
+
+[STIMULUS] After repeating the study and analyzing the data presented, CDC officials definitely determine that the cause of the outbreak was a 'deviled egg' dish present at one of the luncheon tables.
+
+II-16. [frq, 1 pt] What is the next (urgent) step for these investigators?
+
+[STIMULUS] Using the information gathered, state the appropriate agent, host, and environment triad for this outbreak.
+    | Label | Answer |
+    | Agent | [[q:II-17-a]] |
+    | Host | [[q:II-17-b]] |
+    | Environment | [[q:II-17-c]] |
+
+II-17-a. [frq, 1 pt] Agent
+
+II-17-b. [frq, 1 pt] Host
+
+II-17-c. [frq, 1 pt] Environment
+
+
+=== Part III: Patterns, Control, and Prevention ===
+
+[STIMULUS] After further investigation, the CDC officials following the outbreak in Bikini Bottom realize that the cases are part of a larger pattern across several regions in California. They generate a series of epi curves to better understand the progression and spread of the disease.
+    [IMAGE: ../images/2020_golden_gate_invitational__p10_04acbc-3829da7c.webp]
+    [IMAGE: ../images/2020_golden_gate_invitational__p10_473a58-7d6663e3.webp]
+    [IMAGE: ../images/2020_golden_gate_invitational__p10_09c0d4-83c9f356.webp]
+
+III-1. [frq, 6 pt] Which epidemic pattern do the above epi curves exhibit? How can you tell?
+
+[STIMULUS] Using the data above,
+
+The total susceptible population in Bikini Bottom is around 25,000 persons.
+    | Date of Onset | # of Persons Infected |
+    | 1/1/20 | 0 |
+    | 1/2/20 | 0 |
+    | 1/3/20 | 0 |
+    | 1/4/20 | 1 |
+    | 1/5/20 | 6 |
+    | 1/6/20 | 11 |
+    | 1/7/20 | 14 |
+    | 1/8/20 | 15 |
+    | 1/9/20 | 12 |
+    | 1/10/20 | 12 |
+    | 1/11/20 | 8 |
+    | 1/12/20 | 4 |
+    | 1/13/20 | 0 |
+    | 1/14/20 | 2 |
+    | 1/15/20 | 1 |
+
+III-3a. [frq, 3 pt] calculate the incidence rate between 1/5/20 and 1/9/20, using 10^n = 1000. Interpret your numerical finding in a concise statement.
+
+III-4. [frq, 5 pt] List five strategies for preventing foodborne illnesses.
+
+III-5a. [frq, 1 pt] What stage of prevention would be appropriate at this point of the outbreak?
+
+III-5b. [frq, 2 pt] What general measures are involved during this stage of prevention?

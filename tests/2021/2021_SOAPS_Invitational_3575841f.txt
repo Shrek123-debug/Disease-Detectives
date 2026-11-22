@@ -1,0 +1,353 @@
+SOAPS Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  64 questions, 112.0 pts
+Source: scio.ly test archive id 3575841f-f8b3-42b5-b2c4-5bc749849b7c  |  original files: https://drive.google.com/drive/folders/1Nv6AvrWNlJ3HiOK3D00c98D-qCX4kSdi
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 18
+
+DIRECTIONS: This test consists of a section on background & surveillance followed by a section for outbreak investigations with five case studies. Most of the questions are short response. For any problem involving math, round to the nearest hundredth place unless otherwise stated.
+
+
+=== SECTION I: Background & Surveillance ===
+
+[STIMULUS] Select which approach best describes the situations.
+
+a. Clinical approach
+b. Public health approach
+c. Both approaches
+
+2. [mcq, 1 pt] ____ Vaccination program at school after influenza outbreak.
+    A) Clinical approach
+    B) Public health approach
+    C) Both approaches
+
+3. [mcq, 1 pt] ____ WHO study from October, 2020 identified that Remdesivir has little effect on Covid-19 mortality.
+    A) Clinical approach
+    B) Public health approach
+    C) Both approaches
+
+4. [mcq, 1 pt] Rehabilitation program after suffering a stroke.
+    A) Clinical approach
+    B) Public health approach
+    C) Both approaches
+
+[STIMULUS] Identify which objective of epidemiology each of the following questions seeks to answer (use Roman numerals alone).
+
+i. Identify the etiology of a disease
+ii. Determine extent of a disease in community
+iii. Study natural history of a disease
+iv. Evaluate existing and newly developed preventive methods
+v. Provide foundation for developing public policy
+
+5. [mcq, 1 pt] ____ How was the coronavirus first transmitted from bats to humans?
+    A) Identify the etiology of a disease
+    B) Determine extent of a disease in community
+    C) Study natural history of a disease
+    D) Evaluate existing and newly developed preventive methods
+    E) Provide foundation for developing public policy
+
+6. [mcq, 1 pt] ____ Does screening men for prostate cancer using the prostate-specific antigen improve survival in people found to have prostate cancer?
+    A) Identify the etiology of a disease
+    B) Determine extent of a disease in community
+    C) Study natural history of a disease
+    D) Evaluate existing and newly developed preventive methods
+    E) Provide foundation for developing public policy
+
+8. [mcq, 1 pt] ____ Is the electromagnetic radiation emitted by electric blankets, heating pads, and other household appliances a hazard to human health?
+    A) Identify the etiology of a disease
+    B) Determine extent of a disease in community
+    C) Study natural history of a disease
+    D) Evaluate existing and newly developed preventive methods
+    E) Provide foundation for developing public policy
+
+[STIMULUS] Select the best answer for the type of surveillance described in 9-13:
+
+a. Active
+b. Passive
+c. Sentinel
+d. Syndromic
+
+9. [mcq, 1 pt] ____ Selects sites on factors that include previous outbreak of disease and presence of high-risk groups.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+10. [mcq, 1 pt] ____ Used with a disease that is about to be eradicated.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+11. [mcq, 1 pt] ____ Simple and easy to use.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+12. [mcq, 1 pt] ____ Focuses on symptoms rather than laboratory testing.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+13. [mcq, 1 pt] ____ Most likely to monitor information from Internet searches.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+[STIMULUS] The following diagram is commonly used to describe the conditions required for a pathogen to be transmitted to and infect a living organism. If (1.) is *Portal of Exit* and (4.) is *Susceptible Host*, what do the other blanks represent?
+    [IMAGE: ../images/2021_soaps_invitational_c__d_f8b190-cc2d7452.webp]
+    | Label | Answer |
+    | 2 | [[q:14a]] |
+    | 3 | [[q:14b]] |
+    | 5 | [[q:14c]] |
+    | 6 | [[q:14d]] |
+
+14a. [frq, 1 pt] Identify the part labeled 2 in the figure.
+
+14b. [frq, 1 pt] Identify the part labeled 3 in the figure.
+
+14c. [frq, 1 pt] Identify the part labeled 5 in the figure.
+
+14d. [frq, 1 pt] Identify the part labeled 6 in the figure.
+
+[STIMULUS] For questions 15 to 22, select the step from the diagram above that is most likely broken with the following interventions.
+    [IMAGE: ../images/2021_soaps_invitational_c__d_f8b190-cc2d7452.webp]
+
+15. [frq, 0.5 pt] ____ Wearing a face mask when sick.
+
+16. [frq, 0.5 pt] ____ Eliminate standing water.
+
+17. [frq, 0.5 pt] ____ Culling birds that harbor avian influenza.
+
+18. [frq, 0.5 pt] ____ Improving airplane ventilation.
+
+19. [frq, 0.5 pt] ____ Requiring Covid patients to quarantine for 14 days.
+
+20. [frq, 0.5 pt] ____ Doctors wearing personal protective equipment while treating ill patients.
+
+21. [frq, 0.5 pt] ____ Getting vaccinated for meningitis before attending college.
+
+22. [frq, 0.5 pt] ____ Cooking ground meat at 160º F before consuming it.
+
+23. [frq, 1 pt] Pick one step in the chain of infection for Covid-19 and explain how you can break it. For example, the mode of transmission step can be broken by wearing a mask. Use a **different** example.
+
+24. [frq, 3 pt] Arrange the following studies in descending order of quality.
+    
+    i. Nonrandomized trials with good control for confounding, that are well conducted in other respects
+    ii. Randomized, double-blind, placebo-controlled with sufficient power appropriately analyzed.
+    iii. Nonrandomized trials with deficiencies in execution or analysis.
+    iv. Randomized, but blindness not achieved.
+    v. Randomized, but with deficiencies in execution or analysis (insufficient power, major losses to follow-up, suspect randomization, analysis with exclusions)
+    
+    Best ____ ____ ____ ____ ____ Worst
+
+25. [tf, 1.5 pt] True or False: Diseases are randomly distributed in human populations and the study of epidemiology involves characterizing these distributions through data collection and analysis.
+    A) True
+    B) False
+
+26. [tf, 1.5 pt] True or False: Once a COVID patient no longer has symptoms, they may leave isolation.
+    A) True
+    B) False
+
+
+=== SECTION II: Outbreak Investigation - CASE STUDY 1: HEPATITIS ===
+
+[STIMULUS] The CDC has thorough reports on the number of Hepatitis A cases recorded from 2010-2017 in the U.S. Assume that the United States population was approximately 316.1 million midway through 2013.
+
+| Year | Hepatitis A Reported | 95% Bootstrap CI |
+|:---:|:---:|:---:|
+| 2010 | 1,670 | 2,300-3,700 |
+| 2011 | 1,398 | 2,000-3,100 |
+| 2012 | 1,562 | 2,200-3,400 |
+| 2013 | 1,784 | 2,500- 3,900 |
+| 2014 | 1,239 | 1,700- 2,800 |
+| 2015 | 1,390 | 1,900- 3,100 |
+| 2016 | 2,007 | 2,800–4,400 |
+| 2017 | 3,366 | 4,700–7,400 |
+
+28. [frq, 2 pt] What would be a better measure of morbidity for Hepatitis A, incidence or prevalence? Briefly explain why.
+
+29. [frq, 3 pt] Calculate the value for the measure you selected in (28) for 2010 to 2017. Give your answer to the nearest hundredth place.
+
+[STIMULUS] There is uncertainty on whether the CDC should allocate resources to researching Hepatitis A. After all, you have a bigger pandemic to worry about at the moment…
+
+Since March 2017, the CDC’s Division of Viral Hepatitis has been investigating the spread of HAV with routine calls to state health departments to collect data reported by local departments. The CDC reports a slight spike in cases since 2016 with 61% of cases being hospitalized.
+
+30. [frq, 1 pt] What type of surveillance is the CDC conducting?
+
+31. [frq, 6 pt] Using the information provided, determine if this scenario demonstrates an outbreak. If so, provide three reasons for why it warrants an investigation.
+
+[STIMULUS] The CDC has decided to investigate...
+    [IMAGE: ../images/2021_soaps_invitational_c__d_d41616-5cb9797f.webp]
+
+32. [frq, 2 pt] In which state should the CDC begin their investigation? Briefly explain why.
+
+33. [frq, 3 pt] Suppose you restrict your study to cases in 2020 in Georgia, the location of the CDC headquarters. Construct a case definition for the study.
+
+[STIMULUS] Your team decides to construct a case control study given that the population at risk is not defined. You suspect that potential risk behaviors include intravenous drug use, non-intravenous drug use, homelessness, multiple sex partners, dialysis patients, and transfusion recipients. The next step in the investigation would be to find controls.
+
+34. [frq, 3 pt] Describe a strategy to find controls. Give two examples of specific groups you should contact and how you would go about doing this.
+
+35. [frq, 2 pt] What would be the benefit of conducting a nested case control study rather than a traditional case control study?
+
+36. [frq, 2 pt] What are two issues that could result from using a case control study in this particular situation?
+
+[STIMULUS] *Figure X. Actual number of hepatitis A cases submitted to CDC by states and estimated\* number of hepatitis A cases — United States, 2013–2017.*
+
+*Source: CDC, National Notifiable Diseases Surveillance System.*
+    [IMAGE: ../images/2021_soaps_invitational_c__d_85028f-9bbb188b.webp]
+
+[STIMULUS] Albeit relatively unlikely, suppose that this disparity is caused by inaccurate tests—there are many false negatives being declared. Your team proposes trying either sequential or simultaneous testing to reduce this problem and it is your task to determine which would be the better method.
+
+Suppose Test A has a sensitivity of 80% and specificity of 60% and that Test B has a sensitivity of 90% and specificity of 90%. In sequential testing, Test A is completed first and then Test B is completed on those who tested positive with A. In simultaneous testing, all participants are tested with both A and B. Overall, individuals that test positive with both A and B are considered “cases”.
+
+40. [frq, 3 pt] How many positives would you detect with simultaneous testing on a sample population of 300 individuals with 100 true positives?
+
+42. [frq, 6 pt] Give three other potential reasons for the disparity in the reported and actual number of Hepatitis A cases.
+
+
+=== CASE STUDY 2: CYCLOSPORA ===
+
+[STIMULUS] The CDC is currently investigating a multistate outbreak of *Cyclospora* with illness onset dates ranging from May 11, 2020, to July 24, 2020. As of September 23, 2020, a total of 701 laboratory-confirmed *Cyclospora* cases were reported from 14 states – GA, IL, IA, KS, MA, MI, MN, MO, NE, ND, OH, PA, SD, and WI. Ill people range in age from 11 to 92 years with a median age of 57. 51% of these were female and 38 (3%) were hospitalized. No deaths were reported. Product traceback indicated that this outbreak is linked to a particular salad mix sold by Fresh Express.
+
+43. [frq, 3 pt] List three characteristics/questions to ask when interviewing cases.
+
+44. [frq, 1 pt] Which step of the 13 steps for investigating an outbreak have you just completed?
+
+45. [frq, 4 pt] After detecting the outbreak, the state health departments in 8 out of the 14 states in which the outbreak has spread organize a public information campaign to alert the public about *Cyclospora* outbreak. What are two potential consequences of doing such?
+
+46. [frq, 2 pt] What are two good cooking practices, in general, to prevent transmission of a foodborne disease, and what part of the chain of transmission does each one break?
+
+[STIMULUS] You center your analysis on a small graduation party in June involving 54 guests in Ohio, during which several Fresh Express products were sold. This party should not have occurred due to the lockdown, but because it did, you are now dealing with both Covid-19 and *Cyclospora* cases among the guests who attended. You have records on which product each guest consumed as well as their disease status.
+
+47. [frq, 1 pt] What type of study would be best suited for this scenario?
+
+[STIMULUS] | Product (salad type) | Cyclospora + (n = 24) | Cyclospora - (n = 30) |
+|:---:|:---:|:---:|
+| Panzanella | 7 | 16 |
+| Caprese | 4 | 2 |
+| Fattoush | 9 | 3 |
+| Ambrosia | 13 | 9 |
+| Pasta | 1 | 2 |
+| Waldorf | 2 | 6 |
+
+49. [frq, 2 pt] Why may analysis based on specific products be a troublesome approach for this study? Propose an alternative approach.
+
+
+=== CASE STUDY 3: UTERINE CANCER ===
+
+[STIMULUS] Another 12 women with records at the New York-Prebysterian Hospital are randomly selected to participate in another study. None have uterine cancer at the start of the study but every year, they are required to submit a questionnaire to update their uterine cancer status. These women are followed for a total of fifteen years and in this time, many die or are lost to followup.
+
+52. [frq, 2 pt] Using this observation diagram, determine the incidence (use person-time!) of uterine cancer.
+    [IMAGE: ../images/2021_soaps_invitational_c__p15_rcf713ed-e74b697a.webp]
+
+53. [frq, 2 pt] What is a bias that may result from the specific sample population chosen for the study?
+
+54. [frq, 2 pt] The NIH estimates that in 2020, there were 793,846 women living with uterine cancer. Given that the population of the US 325.1 million at the time and 50.8% of the population consisted of women, what is the prevalence of uterine cancer?
+
+[STIMULUS] Label each of the following strategies as primordial, primary, secondary, tertiary, or quaternary prevention for uterine cancer.
+
+56. [mcq, 1 pt] ____ Institute a mandatory education program in colleges in which students learn how to maintain a good, nutritional diet.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+57. [frq, 1 pt] ____ Avoiding (or reducing) hormone replacement therapy after menopause.
+
+
+=== CASE STUDY 4: COVID ===
+
+[STIMULUS] Alas what a perfect time to be competing in this event…
+
+COVID-19 has destroyed livelihoods, damaged the economy, and ruined the health of millions of people all over the country. 20.5 million cases and 350 thousand deaths later, COVID-19 still persists, fully-fledged, in the United States. Everyday, we are reminded of this pandemic and its implications; you are likely exhausted from this, as most everyone is, but there is a lot we do not understand about this illness yet—as disease detectives, it is only fitting that we dive a little deeper.
+
+58. [frq, 3 pt] Suppose the basic reproduction number, R₀ for COVID-19 is 2.87 and that the average infected person interacts with roughly 3 new susceptible people per day. Given that the total duration of infectiousness is 8 days, calculate the transmissibility of the disease. Hint: transmissibility is the probability of infection given contact between a susceptible and infected individual.
+
+60. [mcq, 1 pt] Which of the following statements is true?
+    A) If the susceptible fraction of a population is 1/R₀, then a disease has optimal probability of propagating
+    B) The size of the population and the value of R₀ are inversely related
+    C) R₀ is directly proportional to the severity of a disease
+    D) If the susceptible fraction of a population is > 1/R₀, then only can a disease progress
+
+[STIMULUS] The SIR (susceptible—infected—recovered) model can be adopted to describe COVID-19. Such a model uses some assumptions: the population size is constant, rates (transmission, removal rates) are constant, no demography (births and deaths), well-mixed population.
+
+Let *s* be the number of susceptible individuals, *i* the number of infected individuals, and *r* the number of recovered individuals in a population with a total of *N* individuals. As predicted, an individual in the *s* group moves to the *i* group upon infection and to the *r* group upon recovery.
+
+61. [mcq, 1 pt] Sanity check: how should s(t) and r(t) vary with time?
+    A) Increase, increase
+    B) Increase, decrease
+    C) Decrease, increase
+    D) Decrease, decrease
+
+[STIMULUS] Let *β* (typed as B) be the rate by which susceptible individuals become infected upon contact with someone with the disease. Let *ν* (typed as v) be the rate at which infected individuals recover. Then, the following equations hold true:
+
+Solving these differential equations would require computational software such as MATLAB or Wolfram Alpha, but we can use approximations and recursion to extrapolate results by hand. Namely, *ds/dt* can be approximated as Δs/Δt, *di/dt* can be approximated as Δi/Δt, and *dr/dt* can be approximated as Δr/Δt.
+
+Additionally, note that
+
+Δs = sₙ₊₁ - sₙ,
+
+Δi = iₙ₊₁ - iₙ,
+
+Δr = rₙ₊₁ - rₙ.
+
+**Hint**: for the following questions, assume that you will be provided values for *β* and *ν* that work with the given step size.
+    [IMAGE: ../images/2021_soaps_invitational_c__d_366bd6-e934bf70.webp]
+
+62. [frq, 2 pt] Given a step size of Δt = 1 week, use the information provided to write a recursive formula for sₙ₊₁ in terms of sₙ and iₙ.
+
+63. [frq, 2 pt] Given a step size of Δt = 1 week, use the information provided to write a recursive formula for iₙ₊₁ in terms of sₙ and iₙ. Do your best to type it out. Feel free to use underscores to indicate subscripts.
+
+64. [frq, 2 pt] Given a step size of Δt = 1 week, use the information provided to write a recursive formula for rₙ₊₁ in terms of rₙ and iₙ. Do your best to type it out. Feel free to use underscores to indicate subscripts.
+
+
+=== CASE STUDY 5: OBESITY ===
+
+[STIMULUS] *Adaptation of a study*
+
+Researchers wanted to investigate the relationship between television viewing and early childhood obesity/overweight status. However, they wanted to account for other factors that might also impact childhood obesity/overweight. For the study, fifteen community health services were randomly selected from the same city. The children who participated in the study had health examinations between September 2016 and December 2016, were between 1 and 7 years old, and residents of the community served by their community health services. Researchers specifically matched each overweight and obese child with two children of normal weight and comparable age from the same community health service center.
+
+Doctors interviewed children’s parents using standard questionnaires, concerning TV viewing time, physical activity time, sleep duration and other behaviors.
+
+67. [frq, 1 pt] What type of study is this?
+
+68. [frq, 4 pt] List two advantages and two disadvantages of this type of study.
+
+69. [frq, 2 pt] Name two possible biases for this study.
+
+[STIMULUS] The researchers deduced that TV viewing ≥1 hour per day is positively associated with children's overweight/obese status. But in order to figure out what behaviors are associated with increased TV viewing, they collected information on various behaviors, such as sleep duration or having snacks while watching TV, in relation to TV viewing time, and stratified the information by age group (1- to 3-year old children or 4- to 5-year old children). The data for "time spent in sporting activities" is shown below.
+
+**1- to 3-year-old children**
+
+| | Time spent in sporting activities: ≤ 1 hour | Time spent in sporting activities: > 1 hour |
+|---|---|---|
+| TV viewing time: ≥ 1 hour | 71 | 70 |
+| TV viewing time: < 1 hour | 51 | 47 |
+
+**4- to 5-year-old children**
+
+| | Time spent in sporting activities: ≤ 1 hour | Time spent in sporting activities: > 1 hour |
+|---|---|---|
+| TV viewing time: ≥ 1 hour | 166 | 193 |
+| TV viewing time: < 1 hour | 226 | 84 |
+
+**6- to 7-year old children**
+
+| | Time spent in sporting activities: ≤ 1 hour | Time spent in sporting activities: > 1 hour |
+|---|---|---|
+| TV viewing time: ≥ 1 hour | 158 | 203 |
+| TV viewing time: < 1 hour | 204 | 79 |
+
+70. [frq, 1 pt] What is the appropriate risk calculation for this type of study?
+
+71. [frq, 4 pt] Given the data above, calculate the appropriate Cochran-Mantel-Haenszel risk calculation to determine the association between time spent in sporting activities and TV viewing time.
+
+72. [frq, 1 pt] What does your risk calculation indicate about the relationship between sporting activities and TV viewing time?
+
+73. [frq, 1 pt] What type of variables does the Cochran-Mantel-Haenszel risk calculation adjust for, which may otherwise impact apparent relationships between cases and treatment?
+
+74. [frq, 3 pt] Would the McNemar test be an appropriate statistical calculation here as well? Explain why or why not. Why is Cochran-Mantel-Haenszel preferred?
+
+75. [frq, 4 pt] Propose two possible forms of prevention for childhood obesity/overweightness specific to the factor of TV viewing, and specify the level of prevention that your proposals pertain to.

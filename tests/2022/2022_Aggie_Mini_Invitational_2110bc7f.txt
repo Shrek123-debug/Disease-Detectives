@@ -1,0 +1,1348 @@
+Aggie Mini Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  111 questions, 180.0 pts
+Source: scio.ly test archive id 2110bc7f-d9e7-4857-8ad0-3e7871a022a2  |  original files: https://drive.google.com/drive/folders/1dl9j-DcpJ1MwcsHhGh9KUuSqHAQ3BBba
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+DIRECTIONS: Be clear, concise, and specific with your answers. Good Luck!
+
+
+=== Matching - Diseases ===
+
+[STIMULUS] In the section below, match the disease with the type of agent and mode of transmission. (Some answer choices might be used more than once, some might not be used at all).
+
+● Types of agents: Bacteria, Fungi, Prions, Protozoa, Virus
+● Modes of transmission: Airborne/droplets, Bloodborne, Foodborne, Sexually transmitted, Vector-borne, Waterborne
+
+1. [frq, 2 pt] AIDS — type of agent and mode of transmission
+
+2. [frq, 2 pt] Strep Throat — type of agent and mode of transmission
+
+3. [frq, 2 pt] Rocky Mountain spotted fever — type of agent and mode of transmission
+
+4. [frq, 2 pt] Gonorrhea — type of agent and mode of transmission
+
+5. [frq, 2 pt] Creutzfeldt-Jakob Disease — type of agent and mode of transmission
+
+6. [frq, 2 pt] Hepatitis B — type of agent and mode of transmission
+
+7. [frq, 2 pt] SARS (Severe Acute Respiratory Syndrome) — type of agent and mode of transmission
+
+8. [frq, 2 pt] Chlamydiosis — type of agent and mode of transmission
+
+9. [frq, 2 pt] Tuberculosis — type of agent and mode of transmission
+
+10. [frq, 2 pt] Measles — type of agent and mode of transmission
+
+11. [frq, 2 pt] Influenza — type of agent and mode of transmission
+
+12. [frq, 2 pt] Cryptosporidiosis — type of agent and mode of transmission
+
+
+=== Matching - Vocab ===
+
+[STIMULUS] a. Acute Exposure
+b. Agent
+c. Cause Fatality Rate
+d. Class Interval
+e. Cluster
+f. Detection Limit
+g. Dose-Response
+h. Efficacy
+i. Epidemiologic Triad
+j. Zoonosis
+k. Fomite
+l. Henle-Kosh Postulates
+m. Host Factor
+n. In Vitro
+o. In Vivo
+p. Neonatal Mortality Rate
+q. Pandemic
+r. Passive Immunity
+s. Postneonatal Mortality Rate
+t. Index case
+u. Necessary Cause
+v. Point-Source Outbreak
+w. Exposure-Dose Reconstruction
+x. Incubation Period
+y. Risk Communication
+z. Standard Deviation
+aa. Synergistic Effect
+bb. Teratogen
+cc. Vehicle Borne Transmission
+
+13a. [mcq, 1 pt] Infections transmitted by an inanimate object or material.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13b. [mcq, 1 pt] An aggregation of cases over a particular period, especially cancer and birth defects closely grouped in time and space regardless of whether the number is more than the expected number.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13c. [mcq, 1 pt] A measure that is used to quantify the amount of variation of a set of data values.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13d. [mcq, 1 pt] The lowest concentration of a chemical that can reliably be distinguished from a zero concentration.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13e. [mcq, 1 pt] The ratio of the number of deaths caused by a specified disease to the number of diagnosed cases of that disease.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13f. [mcq, 1 pt] An epidemic that occurs over a wide geographic area and affects an exceptionally high proportion of people.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13g. [mcq, 1 pt] In an artificial environment outside a living organism or body.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13h. [mcq, 1 pt] A factor (e.g., a microorganism or chemical substance) or form of energy whose presence, excessive presence, or in the case of deficiency diseases, relative absence is essential for the occurrence of a disease or other adverse health outcome.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13i. [mcq, 1 pt] A biological response to multiple substances where one substance worsens the effect of another substance.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13j. [mcq, 1 pt] The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13k. [mcq, 1 pt] The size of each class into which a range of a variable is divided, as represented by the divisions of a histogram or bar chart.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13l. [mcq, 1 pt] The number of deaths of children from birth up to, but not including, 28 days per 1,000 live births.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13m. [mcq, 1 pt] Refers to the traits of a person or animal that affect susceptibility to disease, especially in comparison to other individuals.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13n. [mcq, 1 pt] A physical object that serves to transmit an infectious agent from person to person.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13o. [mcq, 1 pt] Contact with a substance that occurs once or for only a short period of time.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13p. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13q. [mcq, 1 pt] The relationship between the amount of exposure to a substance and the severity of illness.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13r. [mcq, 1 pt] A set of 4 criteria to be met before the relationship between a particular infectious agent and a particular disease is accepted as causal.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13s. [mcq, 1 pt] A substance that causes defects in development between conception and birth.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13t. [mcq, 1 pt] Within a living organism or body.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13u. [mcq, 1 pt] The short-term immunity that results from the introduction of antibodies from another person or animal.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13v. [mcq, 1 pt] The number of deaths of children from 28 days up to, but not including, one year per 1,000 live births.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13w. [mcq, 1 pt] A factor that must be present for a disease to occur.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13x. [mcq, 1 pt] The exchange of information to increase understanding of health risks.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13y. [mcq, 1 pt] The initial patient in the population of an epidemiological investigation, or more generally, the first case of a condition or syndrome to be described in the medical literature.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13z. [mcq, 1 pt] A method of estimating the amount of people's past exposure to hazardous substances.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13aa. [mcq, 1 pt] Consists of an external agent, a host, and an environment in which host and agent are brought together, causing the disease to occur in the host.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13bb. [mcq, 1 pt] An outbreak in which persons are exposed to the same source over a brief time, such as through a single meal or at an event. The number of cases rises rapidly to a peak and falls gradually.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+13cc. [mcq, 1 pt] The period between exposure and onset of clinical symptoms.
+    A) Acute Exposure
+    B) Agent
+    C) Cause Fatality Rate
+    D) Class Interval
+    E) Cluster
+    F) Detection Limit
+    G) Dose-Response
+    H) Efficacy
+    I) Epidemiologic Triad
+    J) Zoonosis
+    K) Fomite
+    L) Henle-Kosh Postulates
+    M) Host Factor
+    N) In Vitro
+    O) In Vivo
+    P) Neonatal Mortality Rate
+    Q) Pandemic
+    R) Passive Immunity
+    S) Postneonatal Mortality Rate
+    T) Index case
+    U) Necessary Cause
+    V) Point-Source Outbreak
+    W) Exposure-Dose Reconstruction
+    X) Incubation Period
+    Y) Risk Communication
+    Z) Standard Deviation
+    [) Synergistic Effect
+    \) Teratogen
+    ]) Vehicle Borne Transmission
+
+
+=== Case Study ===
+
+[STIMULUS] 10 days after a large concert in Los Angeles, 50 attendees start showing symptoms of COVID-19. Worried that this condition may worsen, the local health department calls upon the CDC to send in a team of epidemiologists to investigate. The team agrees that they should be there and start setting out from Atlanta to LA. Before leaving they gather known data about the disease, PPE, and other needed supplies [14]. Having gotten everything the team heads over to LA. After reaching there, the scientists visit the local health department to communicate with the local officials about the specifics about the increase in cases and to gain information about the general levels of COVID in the city [15]. They also then visit the hospitals and physicians where the suspected patients were first diagnosed with COVID to verify the diagnosis [16]. Having gotten the preliminary data they need, the epidemiologists then construct a case definition so they can better describe this outbreak [17]. From the collected medical records and public health data, the CDC team also constructed a line listing of the various cases so they can find commonalities that could explain the illness [18]. Finally, after all the organizing is done and some possible patterns emerge, the scientists develop a hypothesis for what may have caused the spread of COVID-19 [19]. To confirm if the hypothesis is correct, the team decides to run a case-control study [20]. Using the knowledge they gain from the trial, the team reworks their hypothesis to better fit the outbreak [21]. Finally, having a solid idea of what caused the outbreak the epidemiologists then present their findings to the local health department so they could avoid future outbreaks [22]. Then the scientists return to Atlanta where they publish a paper documenting their experiences [23].
+
+14. [frq, 2 pt] What step of the 10 steps of Outbreak Investigation is the team following by doing this?
+
+15. [frq, 3 pt] What are the epidemiologists looking for so they can establish the existence of an outbreak?
+
+16. [frq, 2 pt] What kinds of material would the scientists be looking for in this step?
+
+17. [frq, 4 pt] What would this case definition be?
+
+18. [frq, 3 pt] What are some of the main characteristics included in a line listing?
+
+19. [frq, 3 pt] What are the components of an epidemiological hypothesis?
+
+20. [frq, 3 pt] Who would be the controls in this design?
+
+21. [frq, 2 pt] What step(s) of the 10 steps of Outbreak Investigation is the team following by doing this?
+
+22. [frq, 2 pt] What is one possible preventative measure that could be used?
+
+23. [frq, 1 pt] What step of the 10 steps of Outbreak Investigation is the team following by doing this?
+
+
+=== Multiple choice - people ===
+
+24. [mcq, 2 pt] Who is known as the “father of surveillance”?
+    A) Joseph Lister
+    B) Jonas Salk
+    C) William Ferr
+    D) Francesco Redi
+
+25. [mcq, 2 pt] Who discovered penicillin in 1928?
+    A) Ronald Ross
+    B) Alexander Flemming
+    C) William Ferr
+    D) Edward Jenner
+
+26. [mcq, 2 pt] Who is known for the discovery of the smallpox vaccine?
+    A) Carl von Linne
+    B) Alexander Flemming
+    C) Carl Woese
+    D) Edward Jenner
+
+27. [mcq, 2 pt] Who discovered the nature of viruses and is one of the founders of virology?
+    A) Antonie van Linnaeus
+    B) Dmitri Iosifovich Ivanovsky
+    C) John Snow
+    D) John Tyndall
+
+
+=== Multiple choice - pattern of occurrence ===
+
+29. [mcq, 2 pt] For the past 10 years, Yolo County has experienced about 5 cases per month of a disease between September through December. In mid-December, 90 cases of this disease were reported in Yolo County. There has also been an increase across the nation and in countries within Asia and Europe. Which pattern of disease is exemplified in this scenario?
+    A) Endemic
+    B) Epidemic
+    C) Outbreak
+    D) Pandemic
+    E) Sporadic
+
+30. [mcq, 2 pt] Community A has been experiencing about 5-15 cases of measles each month for the past 15 years. In the past month, 10 cases of measles were reported. Which pattern of disease is exemplified in this scenario?
+    A) Endemic
+    B) Epidemic
+    C) Outbreak
+    D) Pandemic
+    E) Sporadic
+
+31. [mcq, 2 pt] The Tercero Residence Hall at UC Davis has experienced a range of 10-20 cases of influenza each month for the past 25 years. In the past month, 50 cases of influenza were reported. Which pattern of disease is exemplified in this scenario?
+    A) Endemic
+    B) Epidemic
+    C) Outbreak
+    D) Pandemic
+    E) Sporadic
+
+32. [mcq, 2 pt] Las Vegas has experienced a range of 10-15 cases of a disease every month for the past 15 years. In the past month, 30 cases of this disease were reported. Cities nearby Las Vegas and states bordering Nevada are reporting a similar increase in cases of this disease. Which pattern of disease is exemplified in this scenario?
+    A) Endemic
+    B) Epidemic
+    C) Outbreak
+    D) Pandemic
+    E) Sporadic
+
+
+=== Fill in the blanks - Identifying curves ===
+
+[STIMULUS] Identify each of the following graphs for different types of spread:
+
+33a. [frq, 2 pt] Top left: ____
+    [IMAGE: ../images/2022_aggie_mini_invitational_b_c__p9_74b3ee-6a4e452e.webp]
+
+33b. [frq, 2 pt] Top right: ____
+    [IMAGE: ../images/2022_aggie_mini_invitational_b_c__p9_f6d716-f0151ffe.webp]
+
+33c. [frq, 2 pt] Bottom left: ____
+    [IMAGE: ../images/2022_aggie_mini_invitational_b_c__p9_c33955-8f5a20d5.webp]
+
+[STIMULUS] Identify Which Type of Epicurve Describes Which Statement:
+
+a. Outbreak lasts more than one incubation period: ____
+b. Outbreak has no relation to the incubation period: ____
+c. Multiple outbreaks each lasting about one incubation period: ____
+d. Majority of cases in outbreaks occur within one incubation period: ____
+
+34-1. [frq, 1 pt] Blank 1: a. Outbreak lasts more than one incubation period: ____
+
+34-2. [frq, 1 pt] Blank 2: b. Outbreak has no relation to the incubation period: ____
+
+34-3. [frq, 1 pt] Blank 3: c. Multiple outbreaks each lasting about one incubation period: ____
+
+34-4. [frq, 1 pt] Blank 4: d. Majority of cases in outbreaks occur within one incubation period: ____
+
+
+=== Identify which type of study design would be best for each of the following situations. ===
+
+35. [frq, 2 pt] The County Public Health Department running this outbreak investigation needs the results as fast as possible and have just had their budget cut from the State Health Department. Thus speed and maintaining a tight budget are the main considerations even if that means the chance of making an error in the conclusions is relatively high.
+
+36. [frq, 2 pt] The County Public Health Department running this study believes that the disease they are studying is relatively rare and thus they do not have many subjects to question. They are also dealing with multiple other outbreaks at the same time and thus would like to keep their cost of running this investigation at a minimum.
+
+37. [frq, 2 pt] The County Public Health Department running this study cares most of all about the accuracy of their findings and does not care how long or how expensive the study runs to achieve this goal. The disease in question also does not cause many negative effects so the State Department has given them ethical clearance.
+
+38. [frq, 2 pt] The County Public Health Department running this study cares a fair bit about the accuracy of their findings and is thus willing to spend the time and money to achieve this goal. They also believe the disease they are studying is fairly common and the outbreak is large enough that they have many samples.
+
+
+=== Fill in the Blanks with the Appropriate Word ===
+
+[STIMULUS] A study design results in final values that are far away from the expected population values but do not deviate between each measurement significantly. This study is said to have high ____ and low ____.
+
+42-1. [frq, 2 pt] Blank 1: A study design results in final values that are far away from the expected population values but do not deviate between each measurement significantly. This study is said to have high ____ and low (…).
+
+42-2. [frq, 2 pt] Blank 2: A study design results in final values that are far away from the expected population values but do not deviate between each measurement significantly. This study is said to have high (…) and low ____.
+
+
+=== Identify which of the Bradford Hill Criteria Are Being Tested in the Scenarios Below ===
+
+43. [frq, 2 pt] WHO epidemiologists want to determine if the data and results they have been given by the County Health Department are repeatable in other populations at various other times.
+
+44. [frq, 2 pt] Local epidemiologists confirm that the hypothesized cause of the outbreak occurred before patients started showing symptoms
+
+45. [frq, 2 pt] The public health department wants to know if the data they received from the local hospitals shows a clear association between exposure and risk of disease
+
+46. [frq, 2 pt] By conducting an onsite trial using the waters of Flint, Michigan the epidemiologists want to know if being exposed to more lead in water leads to a greater risk of illness
+
+47. [frq, 2 pt] The local epidemiologists consult with a well know virology expert to confirm if the results they are seeing at the site of an outbreak are even scientifically possible
+
+
+=== Multiple Choice - continued ===
+
+48. [mcq, 2 pt] What determines the health of a population the most?
+    A) Genes and biology
+    B) Medical care
+    C) Health behaviors
+    D) Social/societal characteristics
+
+49. [mcq, 2 pt] Which of the following is not a mode of transmission?
+    A) Physical Contact
+    B) Food
+    C) Droplets
+    D) Airborne
+
+50. [mcq, 2 pt] Which of the following does not describe passive surveillance?
+    A) Simple and inexpensive
+    B) Most appropriate for targeting a disease for elimination
+    C) Diseases get reported to health care providers
+    D) Limited by the variability of quality
+
+51. [mcq, 2 pt] Which of the following choices is the correct order of the stages of the natural history of disease timeline?
+    A) Susceptibility, Subclinical Disease, Clinical Disease, Recovery/Disability/Death
+    B) Clinical Disease, Subclinical Disease, Susceptibility, Recovery/Disability/Death
+    C) Susceptibility, Clinical Disease, Subclinical Disease, Recovery/Disability/Death
+    D) Subclinical Disease, Clinical Disease, Susceptibility, Recovery/Disability/Death
+
+
+=== Fill in the Blank ===
+
+[STIMULUS] The public health approach starts with the ____, then ____, then ____, and finally ends with ____.
+
+52-1. [frq, 1 pt] Blank 1: The public health approach starts with the ____, then (…), then (…), and finally ends with (…).
+
+52-2. [frq, 1 pt] Blank 2: The public health approach starts with the (…), then ____, then (…), and finally ends with (…).
+
+52-3. [frq, 1 pt] Blank 3: The public health approach starts with the (…), then (…), then ____, and finally ends with (…).
+
+52-4. [frq, 1 pt] Blank 4: The public health approach starts with the (…), then (…), then (…), and finally ends with ____.
+
+[STIMULUS] What are the four steps in solving health problems for epidemiology?
+
+Step 1 ____
+Step 2 ____
+Step 3 ____
+Step 4 ____
+
+53-1. [frq, 1 pt] Blank 1: What are the four steps in solving health problems for epidemiology? Step 1 ____
+
+53-2. [frq, 1 pt] Blank 2: What are the four steps in solving health problems for epidemiology? Step 2 ____
+
+53-3. [frq, 1 pt] Blank 3: What are the four steps in solving health problems for epidemiology? Step 3 ____
+
+53-4. [frq, 1 pt] Blank 4: What are the four steps in solving health problems for epidemiology? Step 4 ____
+
+[STIMULUS] The rate percentage of the number of people at risk is equal to the ____ over the ____ multiplied by 100.
+
+54-1. [frq, 1 pt] Blank 1: The rate percentage of the number of people at risk is equal to the ____ over the (…) multiplied by 100.
+
+54-2. [frq, 1 pt] Blank 2: The rate percentage of the number of people at risk is equal to the (…) over the ____ multiplied by 100.
+
+[STIMULUS] The stage of subclinical disease, from time of exposure to getting the symptoms, is usually called the ____ for infectious diseases and the ____ for chronic diseases.
+
+55-1. [frq, 1 pt] Blank 1: The stage of subclinical disease, from time of exposure to getting the symptoms, is usually called the ____ for infectious diseases and the (…) for chronic diseases.
+
+55-2. [frq, 1 pt] Blank 2: The stage of subclinical disease, from time of exposure to getting the symptoms, is usually called the (…) for infectious diseases and the ____ for chronic diseases.
+
+
+=== Matching ===
+
+[STIMULUS] Match the following definitions with their vocabulary.
+A. disease or condition present among a population at all times
+B. more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+C. an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+D. a disease that occurs infrequently and irregularly
+E. many microbes have a positive symbiotic relationship with other organisms
+F. both organisms benefit
+G. one organism and the other is not harmed or helped
+H. factor that contributes to the generation of a trait
+I. prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+J. result of a medical condition that directly affects the length or quality of a person's life
+
+56. [mcq, 1 pt] Clinical Care
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+57. [mcq, 1 pt] Cluster
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+58. [mcq, 1 pt] Commensalism
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+59. [mcq, 1 pt] Determinant
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+60. [mcq, 1 pt] Endemic
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+61. [mcq, 1 pt] Health Outcome
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+62. [mcq, 1 pt] Normal Flora
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+63. [mcq, 1 pt] Mutualism
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+64. [mcq, 1 pt] Outbreak
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+65. [mcq, 1 pt] Sporadic
+    A) disease or condition present among a population at all times
+    B) more cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+    C) an aggregation of cases over a particular period esp. cancer & birth defects closely grouped in time and space regardless of whether the number is more than the expected number
+    D) a disease that occurs infrequently and irregularly
+    E) many microbes have a positive symbiotic relationship with other organisms
+    F) both organisms benefit
+    G) one organism and the other is not harmed or helped
+    H) factor that contributes to the generation of a trait
+    I) prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by medical and allied health professions
+    J) result of a medical condition that directly affects the length or quality of a person's life
+
+
+=== Short Answer Questions ===
+
+[STIMULUS] The public health organization was recording the increasing rate of diseases that are spreading in an area in Africa. They found out the diseases spread due to the mosquitoes transferring them from human to human. The public health organization decided to formulate a way to reduce the problem. They gave mosquito nets to the community that had insecticide (which is toxic to fish) on them. However, these mosquito nets did not help reduce the rate that diseases were spreading and it was later found out that there was a food shortage due to the lack of fish.
+
+66. [frq, 4 pt] Explain what 5 step process(es) did the public health organization successfully follow through.
+
+69. [frq, 2 pt] Calculate the odds ratio given the following data and interpret the result in words.
+    
+    | | Ate fruit bowl | Did not eat fruit bowl | Total |
+    |---|---|---|---|
+    | Sick (Yes) | 69 | 111 | 180 |
+    | Not sick (No) | 5 | 120 | 125 |
+    | Total | 74 | 231 | 305 |
+
+70. [frq, 2 pt] In a paint manufacturing company, the following data was collected after gas/smoke leakage on 15 January 2018. It was found that 105 people got exposed to gas on Friday, calculate the relative risk, and interpret the result in words.
+    
+    | Total exposed to gas/smoke | Got sick | Did not get sick |
+    |---|---|---|
+    | Yes | 26 | 29 |
+    | No | 6 | 44 |
+
+71. [frq, 2 pt] In an epidemic of hepatitis A, traced to onions from a restaurant, 575 cases were identified. 4 of the case-patients died because of their infections. Calculate the case-fatality rate.
+
+72. [frq, 4 pt] In a case study, the scientists find that increasing birth order correlates with increased risk for being on the autism spectrum in the new child. This means that according to the findings, given that a woman has three children at three separate times, the third child is at a higher likelihood of being on the autism spectrum than the first or second child. However, the editor of a scientific journal believes there may be a confounding variable tainting the data. What is a possible confounding variable in this study and what could be done in the study design to prevent this bias from affecting the data?
+
+73. [frq, 3 pt] List and explain the 3 main techniques used to manage confounding errors in the design stage of a study.
+
+74. [frq, 4 pt] List and Define the Two Kinds of Validities. Then suggest ways in which to improve each within a study design.
+
+75. [frq, 3 pt] Define Random Error and List the 3 main sources of this kind of error.

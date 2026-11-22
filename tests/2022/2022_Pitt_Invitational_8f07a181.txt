@@ -1,0 +1,330 @@
+Pitt Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  47 questions, 86.0 pts
+Source: scio.ly test archive id 8f07a181-0d7c-4987-b031-b98116b781c5  |  original files: https://drive.google.com/drive/folders/1vqu1dY89xBqqZxI9rdYYvlrghVQnMKAe
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: Questions are written at the National level for the rules.
+
+
+=== Short Answer ===
+
+1. [frq, 4 pt] What are the differences between the clinical approach and the public health approach? Name two differences between them.
+
+[STIMULUS] What is the 5 step process for surveillance? Please list them below.
+    | Label | Answer |
+    | 1 | [[q:2-1]] |
+    | 2 | [[q:2-2]] |
+    | 3 | [[q:2-3]] |
+    | 4 | [[q:2-4]] |
+    | 5 | [[q:2-5]] |
+
+2-1. [frq, 1 pt] Label 1
+
+2-2. [frq, 1 pt] Label 2
+
+2-3. [frq, 1 pt] Label 3
+
+2-4. [frq, 1 pt] Label 4
+
+2-5. [frq, 1 pt] Label 5
+
+
+=== Matching ===
+
+[STIMULUS] Match the terms below to their definitions.
+
+A. Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+B. Time from moment of exposure to infectious agent until symptoms appear
+C. Baseline, usual prevalence of a disease or infectious agent in an area
+D. Period from exposure to infection
+E. Proportion of clinically apparent cases that are severe or fatal
+F. One that is acquired in a hospital
+G. Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+H. A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+I. Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+J. Recovered from their illness, but can still transmit it to others
+K. Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+L. An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+3. [mcq, 0.5 pt] Nosocomial infection
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+4. [mcq, 0.5 pt] Sentinel surveillance
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+5. [mcq, 0.5 pt] Randomized controlled trials
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+6. [mcq, 0.5 pt] Convalescent carriers
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+7. [mcq, 0.5 pt] Latent period
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+8. [mcq, 0.5 pt] Incubation period
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+9. [mcq, 0.5 pt] Epidemiological triangle
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+10. [mcq, 0.5 pt] Endemic
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+11. [mcq, 0.5 pt] Zoonosis
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+12. [mcq, 0.5 pt] Pathogenicity
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+13. [mcq, 0.5 pt] Virulence
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+14. [mcq, 0.5 pt] Infectivity
+    A) Capacity of a pathogen to cause disease; proportion of those infected who develop clinically apparent disease
+    B) Time from moment of exposure to infectious agent until symptoms appear
+    C) Baseline, usual prevalence of a disease or infectious agent in an area
+    D) Period from exposure to infection
+    E) Proportion of clinically apparent cases that are severe or fatal
+    F) One that is acquired in a hospital
+    G) Relies on a prearranged sample of healthcare providers who agree to report all cases on certain conditions
+    H) A capacity to cause infection in a susceptible host; proportion of exposed people who become infected
+    I) Interrelate to produce disease. Changes in any will increase or decrease frequency of diseases
+    J) Recovered from their illness, but can still transmit it to others
+    K) Normally used in testing new drugs or treatments. A sample of people with the condition are selected, then randomly chosen to get the experimental or control treatment (random allocation). The groups are followed for some time, then the outcomes are measured
+    L) An infectious disease, transmissible under natural conditions from vertebrate animals to humans
+
+16. [frq, 3 pt] How is sentinel surveillance different from syndromic surveillance?
+
+
+=== CASE #1 ===
+
+[STIMULUS] On Sunday, June 18, 2017, at 5 am, 30 students at a training institute in Rabat, Morocco, exhibited the following gastrointestinal symptoms: diarrhea, nausea, vomiting, abdominal cramps, fever, and dizziness. All of these students had attended a Ramadan buffet the day before. At 9 am on June 18, 2017, 43 students out of the 392 registered in the institute were admitted to the emergency room of the University Hospital in Rabat with symptoms of gastroenteritis.
+
+An outbreak investigation team conducted a case-control study. Cases and controls were selected in a ratio of 1:1—there were 50 cases, and 50 controls.
+
+17. [frq, 6 pt] Write a case definition for this outbreak. Be sure to include clinical criteria in it for full credit.
+
+[STIMULUS] Fill in the blanks in the 2x2 tables, and calculate an odds ratio for each one. Round the odds ratios to 2 decimal places.
+
+19. [numeric, 2 pt] Odds ratio for seffa: ad/bc = (8 x 44) / (6 x 42) = ____
+
+21. [numeric, 2 pt] Odds ratio for milk: ad/bc = (13 x 30) / (20 x 37) = ____
+
+22. [frq, 1 pt] Ate briwates (Yes): Cases = 44, Controls = 17; Didn't eat briwates (No): Cases = ____, Controls = 33. (Briwates are prepared with chicken and mixed with condiments, vermicelli, chopped onions, and eggs.)
+
+23. [numeric, 2 pt] Odds ratio for briwates: ____
+
+25. [numeric, 2 pt] Odds ratio for turkey steak: ad/bc = (8 x 47) / (3 x 42) = ____
+
+26. [frq, 2 pt] Out of these foods, which one seems to be the source of the pathogen?
+
+27. [frq, 2 pt] You used the odds ratios to determine your answer to the previous question. Which of Hill's criteria does that odds ratio fulfill?
+
+28. [frq, 6 pt] Why do we calculate odds ratios instead of relative risk to analyze data in case-control studies?
+
+29. [frq, 1 pt] The outbreak investigators concluded that this foodborne illness outbreak was likely caused by E. coli and one other bacterial pathogen. What could that other bacterial pathogen be?
+
+
+=== CASE #2 ===
+
+[STIMULUS] A cohort study was done among all patients in England identified to be infected with either the alpha or delta variant of SARS-CoV-2. The study took place between March 29 and May 23, 2021, and individual-level data about the patients were linked to datasets about vaccination, emergency care attendance, hospital admission, and mortality. The researchers focused on analyzing the risk for hospital admission and emergency care attendance between patients with the alpha versus the delta variant within the whole cohort, and within vaccination status subgroups.
+
+For this exam, we will focus on looking at the data about hospital admission.
+
+You will be asked to calculate relative risks below—round them to 3 decimal places!
+
+| | Alpha variant | Delta variant |
+|---|---|---|
+| Hospital admission within 14 days after specimen taken | 764 | 196 |
+| No hospital admission | 33,892 | 8,486 |
+
+30. [numeric, 3 pt] Relative risk for patients with the alpha variant: ____
+
+31. [numeric, 3 pt] Relative risk for patients with the delta variant: ____
+
+[STIMULUS] | Unvaccinated or <21 days after first vaccination dose | Alpha variant | Delta variant |
+|---|---|---|
+| Hospital admission within 14 days after specimen taken | 536 | 149 |
+| No hospital admission | 27,493 | 6,532 |
+
+33. [numeric, 3 pt] Relative risk for unvaccinated (or <21 days after first dose) patients with the delta variant: ____
+
+[STIMULUS] Your calculations have shown that people with one of these two variants have a higher risk of being admitted to the hospital than people with the other variant. Let's now consider two ways of addressing COVID-19.
+
+1. One could receive a vaccine. COVID-19 vaccines are taken as a preventative measure by people who do not currently have the illness.
+2. One could receive convalescent plasma. In this situation, convalescent plasma is plasma from individuals who have recovered from COVID-19, and produced antibodies against SARS-CoV-2. Because there are antibodies in the convalescent plasma, it may be given as a form of treatment for patients with COVID-19.
+
+35. [frq, 2 pt] What link in the chain of infection does taking the COVID-19 vaccine break?
+
+36. [frq, 2 pt] In 2021, after spring break, COVID-19 cases increased rapidly at a university in Chicago. Interviews with students indicated that most of the cases occurred in unvaccinated individuals with a history of recent travel.
+    
+    However, the authors of the article about this outbreak said that their findings are subject to limitations. What kind of bias could have occurred during the interviews **because of the interviewees**, and why? Name and explain a second type of bias for extra credit.
+
+
+=== FIGURE ANALYSIS ===
+
+[STIMULUS] FIGURE. Number of symptomatic persons who received testing for influenza A at University Health Service (N = 3,121) and percentage of tests positive for influenza A, by date of influenza test — University of Michigan, October 6–November 19, 2021
+
+(Instead of being graphed by date of onset, these influenza A cases are graphed by date of influenza test.)
+    [IMAGE: ../images/2022_pitt_invitational_c__p9_840b66-00090823.webp]
+
+37. [frq, 2 pt] What kind of outbreak does this epi curve depict?
+
+[STIMULUS] FIGURE. Timeline of diagnosis, treatment, and outcomes for patients hospitalized with mucormycosis (N = 17) — Honduras, May–September 2021
+    [IMAGE: ../images/2022_pitt_invitational_c__p9_10a2c8-3305ad8e.webp]
+
+38. [frq, 4 pt] Calculate the point prevalence of disease among patients A through Q at 30 days from hospital admission. Write your answer as a percent to 1 decimal place.
+
+39. [frq, 3 pt] Calculate the mortality rate among patients A through Q in the time period between 10 to 22 days after hospital admission. Write your answer as a percent to 1 decimal place.
+
+[STIMULUS] On November 15, 2021, the Chipotle on Craig Street saw 237 of its customers get sick. 15 had relatively mild symptoms, including a loose stool and a mild fever, whereas 222 had more severe symptoms such as stomach cramps, haemorrhaegic diarrhea, nausea and vomiting, and convulsions.
+
+Patient data obtained from UPMC Presbyterian and AHN West Penn Hospitals on all of the patients indicated that every patient ordered food at Chipotle, and your analysis of these reports yielded the following numbers:
+
+| | Number immunocompromised | Number who got white rice | Number who got brown rice | Number who got chicken | Number who got beef |
+|---|---|---|---|---|---|
+| Number mild symptoms | 125 | 62 | 22 | 42 | 100 |
+| Number severe symptoms | 105 | 175 | 215 | 195 | 137 |
+
+42. [frq, 3 pt] Provide three ways that Chipotle can reduce incidence of C. jejuni.
+
+43. [frq, 2 pt] What is one example of a public health approach that a meat supplier could take to ensure that there is no C. jejuni in their products?
+
+44. [frq, 3 pt] State and describe one example of a public health approach that the Allegheny County Health Department could use to track exposure at the Craig St. Chipotle.
+
+47. [frq, 3 pt] State whether a case definition for this Chipotle outbreak could be influenced by bias, and state and give an example of one surveillance approach that could be used to counteract this bias in future cases.
+
+48. [frq, 4 pt] C. jejuni is a part of the gut microbiome of many animals at the beginning of the food chain. In other words, C. jejuni maintains a mutualistic relationship with the animals from which the raw food products it is found in are obtained. As such, which level of disease control would be most reasonable? Defend your answer.
+
+
+=== Tiebreakers ===
+
+T1. [frq, 1 pt] What is ParABS?
+
+T2. [frq, 1 pt] What role does MreB play in a bacterial cell?
+
+T3. [frq, 1 pt] Why do people who get infected with HIV have the disease for life?
+
+T4. [frq, 1 pt] What animal serves as a reservoir that allows genes from bird influenza viruses to be found in the genomes of human influenza viruses?
+
+T5. [frq, 1 pt] What role does the follicle of the lymph node play in lymphocyte development?

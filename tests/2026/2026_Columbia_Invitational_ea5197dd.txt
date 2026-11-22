@@ -1,0 +1,194 @@
+Columbia Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  44 questions, 70.0 pts
+Source: scio.ly test archive id ea5197dd-9a07-4fbe-84d7-d42033d5aff2  |  original files: https://drive.google.com/drive/folders/1OT6fuhvHQPLN3SKk7XGUwKkxeNKLf1_R
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Welcome to Columbia University Science Olympiad Division C: Disease Detectives. Read the following information carefully.
+
+  There are partial credits for free-response questions. Good luck!
+
+
+=== Part I: Multiple Choice Questions ===
+
+1. [mcq, 2 pt] Which measure is most appropriate for comparing how widespread a chronic disease is at a single point in time?
+    A) Incidence Rate
+    B) Prevalence
+    C) Case-fatality rate
+    D) Relative risk
+
+2. [mcq, 2 pt] Which of the following is NOT one of the thirteen steps for outbreak investigation?
+    A) Shut down public places and others to implement control measures
+    B) Present findings to the authorities
+    C) Test the hypothesis and refine
+    D) Immediately declare a national emergency
+
+3. [mcq, 2 pt] During a listeriosis outbreak linked to a food-processing plant, investigators note that the bacteria are isolated from drains and machinery joints. Which corrective action would most effectively prevent recurrence?
+    A) Increasing pasteurization temperatures for finished food products
+    B) Disinfecting only visible food-contact surfaces daily
+    C) Implementing deep-cleaning protocols targeting biofilm-prone areas
+    D) Switching the workforce to rotating shifts to reduce contamination
+
+4. [mcq, 2 pt] A county health department launches a program offering annual low-dose CT scans to long-term smokers to detect lung cancer early. Which category of prevention does this represent?
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+    D) Quaternary prevention
+
+5. [mcq, 2 pt] At a catered event, there were:
+    - 120 people who ate chicken; 36 became ill
+    - 90 people who did not eat chicken; 9 became ill
+    
+    What is the risk ratio (attack rate ratio) associated with eating the chicken?
+    A) 1.0
+    B) 2.0
+    C) 3.0
+    D) 7.0
+
+6. [mcq, 2 pt] Which of the following statements best distinguishes latent TB infection from active TB disease?
+    A) Latent TB requires multi-drug therapy
+    B) Latent TB is contagious
+    C) Latent TB shows no symptoms and a normal chest X-ray
+    D) Active TB always shows a negative tuberculin skin test
+
+7. [mcq, 2 pt] In a community of 40,000 unvaccinated children, an outbreak of wild poliovirus begins. Based on epidemiological data, 1 in 200 infections results in irreversible paralysis. If 10% of the children become infected, how many paralysis cases are expected?
+    A) 2
+    B) 20
+    C) 200
+    D) 400
+
+8. [multi, 2 pt] Which of the following statements about Evans’ Postulates are correct? Select all that apply.
+    A) It accounts for host susceptibility and genetic factors when determining causation
+    B) It considers environmental factors that influence disease occurrence
+    C) It requires that the microorganism be isolated from a diseased host and grown in pure culture
+    D) It states that all infected individuals must develop clinical disease for the microorganism to be considered causative
+    E) It integrates epidemiologic evidence to support a causal relationship between microorganisms and disease.
+
+9. [mcq, 2 pt] A patient presents with fever, rash, and lymphadenopathy. A lab test reveals double-stranded RNA within the pathogen. Which agent is most consistent with this finding?
+    A) Mycobacterium tuberculosis
+    B) Poliovirus
+    C) Ebola virus
+    D) Reovirus
+
+10. [multi, 5 pt] Select all statements that are **TRUE**.
+    A) The clinical approach focuses on the health of individual patients, while the public health approach focuses on the health of populations.
+    B) Surveillance is used in public health to identify and monitor health problems, and it typically involves a 5-step process.
+    C) Cross-sectional studies follow a group of individuals over time to determine the incidence of disease based on exposure status.
+    D) Relative risk compares the probability of disease between exposed and unexposed groups, and it can be accurately calculated even in case-control studies.
+    E) Attack rates can be calculated for specific subgroups of a population, such as by age or sex, to identify high-risk groups. Comparing these subgroup-specific rates can help guide targeted interventions.
+
+[STIMULUS] Match the appropriate disease/pathogen to its corresponding description.
+
+A. Chagas Disease
+B. Scrapie
+C. Norovirus
+D. Chikungunya
+E. Apicomplexa
+
+11-I. [mcq, 1 pt] This disease is spread by Aedes mosquitoes. Symptoms include sudden onset of fevers, severe joint and muscle pain, headache, and rash. Illness can persist for weeks, and severe cases may involve neurological complications.
+    A) Chagas Disease
+    B) Scrapie
+    C) Norovirus
+    D) Chikungunya
+    E) Apicomplexa
+
+11-II. [mcq, 1 pt] This prion disease affects sheep and goats and leads to neurological degeneration. Symptoms include tremors, uncoordinated movements, and behavioral changes, ultimately resulting in death.
+    A) Chagas Disease
+    B) Scrapie
+    C) Norovirus
+    D) Chikungunya
+    E) Apicomplexa
+
+11-III. [mcq, 1 pt] Parasitic protozoa with complex life cycles involving multiple hosts. Infection can result in fever, anemia, organ dysfunction, and, in some cases, death. The protozoa are unicellular and spore-forming.
+    A) Chagas Disease
+    B) Scrapie
+    C) Norovirus
+    D) Chikungunya
+    E) Apicomplexa
+
+11-IV. [mcq, 1 pt] Highly contagious viral gastroenteritis spreads through the fecal-oral route. Symptoms include vomiting, diarrhea, nausea, abdominal cramps, and dehydration. Outbreaks are rapid and can affect large populations in confined areas.
+    A) Chagas Disease
+    B) Scrapie
+    C) Norovirus
+    D) Chikungunya
+    E) Apicomplexa
+
+11-V. [mcq, 1 pt] Humans come into contact with this disease when triatomine bugs feed on their blood and a parasitic protozoan is transmitted. The infection can become chronic and cause irreversible cardiac damage, gastrointestinal problems, and peripheral nervous system impairments.
+    A) Chagas Disease
+    B) Scrapie
+    C) Norovirus
+    D) Chikungunya
+    E) Apicomplexa
+
+
+=== Part II: Free Response Questions ===
+
+12. [frq, 3 pt] Define Syndromic Surveillance, and list one advantage and one disadvantage of this.
+
+[STIMULUS] During a Salmonella outbreak, PFGE gels are used to identify strain patterns.
+
+13a. [frq, 2 pt] Explain what PFGE stands for and its purpose in outbreak investigations.
+
+13b. [frq, 1 pt] If two isolates have identical PFGE patterns, what does this indicate about their relationship?
+
+13c. [frq, 1 pt] How could a single-base pair mutation (SNP) affect PFGE results and epidemiologic interpretation?
+
+[STIMULUS] In Bikini Bottom, SpongeBob and his friends organized a Krabby Patty Birthday Bash. SpongeBob served a “Mystery Smoothie” to 500 party-goers, while 500 attendees stuck to the usual Krabby Patties. The next morning, 50 of the smoothie drinkers reported stomach cramps and bubbling green diarrhea, while only 10 of the Krabby Patty-only eaters got sick. Using this scenario:
+
+14d. [frq, 1 pt] Calculate the attack rate for attendees who drank the Mystery Smoothie and for those who didn’t.
+
+14e. [frq, 1 pt] Calculate the relative risk of illness for those who drank the smoothie vs. those who didn’t.
+
+14f. [frq, 1 pt] Interpret the RR. How much more likely are attendees to get sick if they drink SpongeBob’s Mystery Smoothie?
+
+14g. [frq, 2 pt] Explain how confidence intervals could help determine if the smoothie is truly responsible for the outbreak, rather than the illness being caused by something else at the party (like Gary’s Snail Slime).
+
+[STIMULUS] Since 2004, Chikungunya has expanded beyond its traditional endemic regions in Africa and Asia, appearing in new geographic areas where it had not been reported previously.
+
+15h. [frq, 2 pt] What type of pathogen causes Chikungunya, and explain why it has expanded geographically after 2004.
+
+15i. [frq, 2 pt] List two environmental or ecological factors that contribute to vector-borne disease spread.
+
+15j. [frq, 1 pt] Explain one public health intervention to limit mosquito-borne disease transmission.
+
+15k. [frq, 3 pt] Describe a scenario where climate change could alter vector distribution and disease risk.
+
+16. [frq, 4 pt] Explain how herd immunity protects individuals who are not immune to a disease, and describe the conditions required for herd immunity to be effective within a population. Include the definition of herd immunity, transmissibility (R₀), and requirements for herd immunity.
+
+17. [frq, 3 pt] Polio cases have declined by more than 99% since the launch of the Global Polio Eradication Initiative. Describe three different types of major public health strategies responsible for this reduction.
+
+[STIMULUS] During the 1918 influenza pandemic, the age-specific mortality pattern showed a distinctive “W-shaped” curve. In contrast, modern seasonal influenza typically shows a “U-shaped” mortality curve.
+
+18a. [frq, 1 pt] Describe the circumstances that led to a U-shaped curve.
+
+18b. [frq, 1 pt] Describe the circumstances that led to a W-shaped curve.
+
+18c. [frq, 1 pt] Describe the key distinction between a W-shaped curve and U-shaped curve.
+
+[STIMULUS] Researchers studying the biological basis of diabetes conducted classic experiments using two genetically altered mouse strains: ● ob/ob mice, which are obese and diabetic because they cannot produce leptin, ● db/db mice, which are obese and diabetic because they cannot respond to leptin (their leptin receptor is nonfunctional) In a parabiosis experiment, the researchers surgically joined the circulatory systems of each mutant mouse to a healthy normal mouse. They then monitored food intake, weight change, and blood glucose levels.
+
+19a. [frq, 1 pt] Explain the fundamental physiological difference between ob/ob mice and db/db mice, and how each mutation leads to obesity and diabetes. (Hint: Explain what leptin does)
+
+19b. [frq, 1 pt] Predict what happens when an ob/ob mouse is joined in parabiosis with a normal mouse.
+
+19c. [frq, 1 pt] Predict what happens when a db/db mouse is joined in parabiosis with a normal mouse.
+
+[STIMULUS] A respiratory disease spreads in a community through droplets and close-contact transmission. Public health officials observe that the outbreak begins with a cluster of cases in a school, then expands into households, and finally appears in several workplaces. Laboratory testing shows the pathogen has an incubation period of 3–5 days, and infected individuals become contagious 1 day before symptoms appear.
+
+20a. [frq, 1 pt] Explain the difference between the incubation period and the infectious (contagious) period, and why understanding both is essential for controlling an outbreak. (Hint: First define both terms)
+
+20b. [frq, 1 pt] Describe how pre-symptomatic transmission (infectious before symptoms) influences the effectiveness of control strategies such as isolation, school closures, and masking.
+
+[STIMULUS] For each of the following examples, identify which of Bratford Hill’s Criteria the example fulfills by filling in the blank
+
+21a. [frq, 1 pt] Workers in three separate factories all developed similar respiratory symptoms after exposure to a specific chemical, while workers unexposed in the area remained healthy
+
+21b. [frq, 1 pt] People who drank increasing amounts of contaminated water developed progressively worse gastrointestinal symptoms
+
+21c. [frq, 1 pt] Public health officials implement a hand sanitizer program in a daycare, and diarrheal illnesses drop significantly compared to the previous month
+
+21d. [frq, 1 pt] Health investigators know that inhaling asbestos fibers can cause lung damage, so the association between asbestos exposure and lung disease is biologically reasonable.
+
+21e. [frq, 1 pt] A particular type of food allergy is only observed in individuals consuming the allergen, and no other foods appear responsible.
+
+21f. [frq, 1 pt] Seasonal influenza outbreaks occur in populations around the world almost every year, showing repeated patterns.
+
+21g. [frq, 1 pt] Exposure to high levels of a pesticide during spraying occurs before the appearance of neurological symptoms in farmers.

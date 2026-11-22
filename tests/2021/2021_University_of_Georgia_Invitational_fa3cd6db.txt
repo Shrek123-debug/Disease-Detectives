@@ -1,0 +1,187 @@
+University of Georgia Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  38 questions, 133.0 pts
+Source: scio.ly test archive id fa3cd6db-8e24-4bd2-b5b0-55aa23cfc978  |  original files: https://drive.google.com/drive/folders/1pXXsRglN5v5HfG_r2TulAeGYv_bFT7z7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+1. [mcq, 2 pt] An epidemiologist wants to assess the relationship between caffeine consumption and high blood pressure (hypertension). He does an intervention study to test the hypothesis. Which of the following measures does not increase the internal validity of the study?
+    A) Careful monitoring of blood pressure during the study
+    B) Inclusion of a control group
+    C) Random selection of participants from the general population
+    D) Randomization
+
+2. [mcq, 2 pt] The precision of an estimate of a relative risk depends on the ____ of/in the study.
+    A) Generalizability
+    B) Sample Size
+    C) Validity
+    D) Presence of Bias
+    E) Randomization
+
+3. [multi, 4 pt] Elevated levels of steroid hormones such as estrogen can lead to 'estrogen-dependent cancers' such as breast and colorectal cancer. High estrogen levels in the body are believed to dramatically increase the risk of breast cancer, especially in post-menopausal women. In a study linking cancer and steroid hormone use, women with breast cancer and a comparative group of women without breast cancer were asked about any prior use of estrogen-containing and enhancing products, such as estrogen pills and hormone replacement therapy (HRT). What type of study is this? Select all that apply.
+    A) Clinical Trial
+    B) Case Control Study
+    C) Cross Sectional Survey
+    D) Cohort Study
+    E) Observational Study
+    F) Experimental Study
+
+4. [frq, 3 pt] The Cruise Calamity: Onboard a private cruise ship from Miami to Cozumel, Mexico, a group of travelers on the 7-day trip became ill with diarrhea and nausea, suspected to be caused by food poisoning. After an epidemiological investigation, it was determined that a total of 83 passengers were on board the cruise ship. Of those passengers, 59 were showing symptoms of the illness.
+    
+    Based on the information above, what statistic can you calculate that will summarize the data? (Hint: not looking for a calculation, provide the name/type of statistic you would use)
+
+5. [frq, 3 pt] The Cruise Calamity: Onboard a private cruise ship from Miami to Cozumel, Mexico, a group of travelers on the 7-day trip became ill with diarrhea and nausea, suspected to be caused by food poisoning. After an epidemiological investigation, it was determined that a total of 83 passengers were on board the cruise ship. Of those passengers, 59 were showing symptoms of the illness.
+    
+    Calculate the statistic that you named in the previous question.
+
+7. [mcq, 4 pt] This graph represents the change vaccination rate for disease A over a span of 3 years in a population consisting of 400 individuals. Which of the following statistics is most likely to be affected by the data collected?
+    [IMAGE: ../images/2020_university_of_georgia_invitational_c__p2_703b33-bc2f3a85.webp]
+    A) Median survival
+    B) Incidence
+    C) Cure rate
+    D) Case fatality rate
+    E) Hospitalization rate
+
+8. [mcq, 6 pt] A survey study was conducted to examine the relationship between body weight and incidence of depression. Below is a set of data that was procured to study the association between major depressive disorder and body mass index (BMI).
+    
+    | BMI Category (kg/m2) | Unadjusted OR | 95% Confidence Interval |
+    |---|---|---|
+    | Normal Weight (18.5-24.9) | 1.00 | |
+    | Underweight (<18.5) | 1.17 | 0.49-2.80 |
+    | Overweight (25-29.9) | 0.86 | 0.53-1.41 |
+    | Obese (>30) | 1.88 | 1.02-3.46 |
+    | Class 1 Obesity (30-34.9) | 1.28 | 0.64-2.56 |
+    | Class 2 Obesity (35-39.9) | 1.76 | 0.78-3.95 |
+    | Class 3 Obesity (>40) | 4.98 | 2.07-11.99 |
+    
+    What is the correct interpretation of the odds ratio provided for those surveyed under the Class 2 obesity category?
+    A) The odds of having depression are 76% higher for Class 2 obese individuals than the odds of having depression for those who are normal weight.
+    B) The odds of having depression are 76 times higher for Class 2 obese individuals than the odds of having depression for those who are normal weight.
+    C) A person who is Class 2 obese has a 76% chance of getting depression over the course of their life.
+    D) A person who is Class 2 obese has a 0.76 odds of getting depression over the course of their life.
+
+9. [frq, 1 pt] A disease that is continuously present in a population at any given time is ____ ____.
+
+11. [tf, 1 pt] The agent-host-environment triad can only be applied to diseases that are infectious in nature.
+    A) True
+    B) False
+
+12. [frq, 6 pt] A new test has been developed to detect the presence of specific antibodies produced by the human body in response to the SARS-CoV-2 infection. The initial evaluation of this test produces the following results. The test below has test results given along the vertical axis and the detection of antibodies along the along the horizontal axis.
+    
+    | | Present | Absent | Total |
+    |---|---|---|---|
+    | Positive | 40 | 20 | 60 |
+    | Negative | 10 | 30 | 40 |
+    | Total | 50 | 50 | 100 |
+    
+    What is the likelihood that a patient with a positive test from this sample has COVID-19? Do you think this is an effective test and why/why not? It is not necessary that you provide calculations, but it is suggested that you corroborate your answer with statistical evidence.
+
+13. [frq, 10 pt] Worms for Brains: Suppose that in your hometown, Plebville, there is a new outbreak of a disease dubbed 'Brain Worms', caused by the parasitic (fictional) worm Digestia Sheeple, symptoms of which include high fever, difficulty concentrating, suddenly disliking things that you liked 40 minutes ago, and progressive memory loss over time. The local government is in a panic and in an attempt to keep things from affecting the upcoming city council election too much, the mayor has hired you, a star epidemiologist, to figure out what is causing this disease and how to stop it from spreading throughout the town's inhabitants. This is what you know so far: On October 14th, 2020, Timmy H. started presenting with memory loss and a fever of 104.4 degrees F and went to the local hospital after much confusion as to what was happening to him. After some contact tracing and questioning, it was determined that Timmy attended a local indie music concert 2 days prior to showing symptoms. It is now October 20th, 2020 and 45 people are presenting with symptoms. The population of Plebville is 306. What is the incidence of this disease as of October 20th, 2020? Give your answer as a percent rounded to 2 decimal places.
+
+14. [frq, 10 pt] Worms for Brains: Suppose that in your hometown, Plebville, there is a new outbreak of a disease dubbed 'Brain Worms', caused by the parasitic (fictional) worm Digestia Sheeple, symptoms of which include high fever, difficulty concentrating, suddenly disliking things that you liked 40 minutes ago, and progressive memory loss over time. The local government is in a panic and in an attempt to keep things from affecting the upcoming city council election too much, the mayor has hired you, a star epidemiologist, to figure out what is causing this disease and how to stop it from spreading throughout the town's inhabitants. This is what you know so far: On October 14th, 2020, Timmy H. (patient zero) started presenting with memory loss and a fever of 104.4 degrees Fahrenheit. After some contact tracing and questioning, it was determined that Timmy attended a rad indie music concert 2 days prior to showing symptoms. It is now October 20th, 2020 and 45 people are presenting with symptoms. The population of Plebville is 306. Of the 70 people who attended the concert, 31 are presenting with symptoms of the illness. Would you call this an epidemic or an outbreak? Explain your answer.
+
+[STIMULUS] Label each as either passive or active surveillance. (type active or passive into each of the blanks below)
+
+15-1. [mcq, 1 pt] MRSA screening
+    A) active
+    B) passive
+
+15-2. [mcq, 1 pt] Hand hygiene compliance
+    A) active
+    B) passive
+
+15-3. [mcq, 1 pt] Blood-borne pathogen reports
+    A) active
+    B) passive
+
+16. [frq, 5 pt] A study assesses the association between talking on a cellular phone while driving and traffic accidents. It finds that people with cellular phones have accidents at a rate of 11.1 per 10,000 miles traveled. People who do not have cellular phones have accidents at the rate of 8.6 per 10,000 miles. Calculate the rate difference associated with cellular phone use and interpret your results.
+
+18. [frq, 2 pt] After travelling to Guatemala, where you attended a wedding and ate lots of fresh produce, you return to the U.S. Within a week, you begin to experience watery diarrhea, constipation, vomiting, stomach aches and cramps, and gas. You go to the doctor who prescribes a general antibacterial to address gastrointestinal distress while waiting for test results. If the antibacterial does not work, what types of pathogens might you expect to have caused these symptoms?
+
+19. [frq, 2 pt] After travelling to Guatemala, where you attended a wedding and ate lots of fresh produce, you return to the U.S. Within a week, you begin to experience watery diarrhea, constipation, vomiting, stomach aches and cramps, and gas. You go to the doctor who prescribes a general antibacterial to address gastrointestinal distress while waiting for test results. Name two tests would you recommend the physician conduct.
+
+20. [frq, 1 pt] After travelling to Guatemala, where you attended a wedding and ate lots of fresh produce, you return to the U.S. Within a week, you begin to experience watery diarrhea, constipation, vomiting, stomach aches and cramps, and gas. You go to the doctor who prescribes a general antibacterial to address gastrointestinal distress while waiting for test results. What factors besides food should your physician consider as a probable cause?
+
+21. [frq, 1 pt] After travelling to Guatemala, where you attended a wedding and ate lots of fresh produce, you return to the U.S. Within a week, you begin to experience watery diarrhea, constipation, vomiting, stomach aches and cramps, and gas. You go to the doctor who prescribes a general antibacterial to address gastrointestinal distress while waiting for test results. Results of the tests show that the pathogen is a type of coccidia. Your physician changes your antibiotic to a sulfa-drug, and your symptoms are successfully treated. Your physician asks what kinds of produce you consumed; there were raspberries in the wedding cake. While others in your travelling party have suffered similar symptoms, none of the other guests living in Guatemala have. What pathogen is the cause of these symptoms?
+
+23. [frq, 2 pt] Name at least 2 types of fecal tests that can be performed.
+
+24. [multi, 5 pt] Which of the following is true of an epidemic curve (epi curve)? Check all that apply.
+    A) An epi curve shows the number of cases by date of exposure.
+    B) An epi curve is a histogram.
+    C) An epi curve should use time intervals on the x-axis of about 1/2 of the incubation period.
+    D) An epi curve should begin with the first recorded case.
+    E) An epi curve should begin with a pre-epidemic period to illustrate background level of disease.
+    F) An epi curve shows the number of cases by date of onset.
+
+25. [frq, 10 pt] The state health department is planning to add sexually transmitted diseases (chlamydia, gonorrhea, etc.) to the state's list of reportable diseases based on a recent uptick in community spread seen in the local population. What are some arguments for and against this decision? What alternative methods could the local health department use for surveillance with regards to identifying STD cases?
+
+26. [frq, 10 pt] There has been some evidence suggesting that exposure to electromagnetic fields for a prolonged period of time is associated with higher rates of leukemia in humans. An investigation into a cluster of 19 leukemia patients who worked in close proximity to devices such as cell towers and ham radios has been started. Which study design would be best to probe a possible association between exposure to EM fields and leukemia? How would you design this study?
+
+27. [mcq, 4 pt] During an investigation of an outbreak of gastroenteritis at a college campus in Athens, GA, epidemiologists confirmed the diagnosis, searched for additional cases, and characterized the cases based on the Bradford-Hill Criteria (time, place, person). Even with this analysis, no indications as to the source or mode of transmission of the outbreak were found. The investigators should next:
+    A) conduct a case-control study
+    B) conduct a cohort study
+    C) interview some cases in depth and find details they may have missed
+    D) sample and test foods from the school dining hall for the incriminating agent
+    E) interview and test the dining hall staff for the incriminating agent
+
+28. [mcq, 4 pt] Which of the following is a true statement about the p-value?
+    A) The p-value cutoff for statistical significance is always 0.05.
+    B) The p-value helps you determine the public health significance of an association between a food and an illness.
+    C) The p-value is not affected b study size.
+    D) A p-value of 0.05 means that there is a 5 in 100 probability that the observed association between the food and the illness is due to chance alone.
+
+29. [tf, 1 pt] If a causative agent in a foodborne outbreak is a common foodborne disease, the outbreak is unlikely to be intentional.
+    A) True
+    B) False
+
+30. [mcq, 2 pt] A case definition of a suspected gastrointestinal disease outbreak may include all of the following except:
+    A) symptoms of the illness
+    B) laboratory test results
+    C) food that is the suspected source of the outbreak
+    D) date of the illness onset
+
+31. [mcq, 1 pt] Which of the following causative agents is the most common cause of foodborne disease outbreaks in the U.S?
+    A) bacteria
+    B) parasites
+    C) viruses
+    D) chemicals
+    E) prions
+
+32. [mcq, 5 pt] Control of which of the following diseases was achieved through the use of epidemiological principles and strategies?
+    A) measles
+    B) mumps
+    C) plague
+    D) cholera
+    E) smallpox
+
+33. [frq, 2 pt] What is the epidemiological significance of asymptomatic carriers of an infection?
+
+34. [frq, 5 pt] Why are diseases that are zoonotic in origin often severe in humans (more so than non-zoonotic diseases)?
+
+35. [tf, 1 pt] In general, if sensitivity is low, it is an effective screening test.
+    A) True
+    B) False
+
+36. [mcq, 2 pt] Suppose we are considering the effect of a risk factor on contracting Disease X. If on a group of 500 patients, we calculated a Relative Risk of 13.47, the possibility of developing the disease X is:
+    A) very small when exposed to the risk factor
+    B) very high when exposed to the risk factor
+    C) the same in the case of exposure in the case of non-exposure
+    D) lower in the exposed than in the unexposed, RR being less than 100
+
+37. [mcq, 2 pt] Suppose we are considering the effect of a protective factor on contracting Disease X. If on a group of 500 patients, we calculated a Odds Ratio of 13.47, the possibility of developing the disease X is:
+    A) very small when exposed to the factor
+    B) very high when exposed to the factor
+    C) the same in the case of exposure and non-exposure
+    D) lower in the exposed than in the unexposed, RR being less than 100
+
+38. [mcq, 4 pt] A clinical trial is considered more effective when:
+    A) Sensitivity is higher than specificity
+    B) Specificity is higher than sensitivity
+    C) Sensitivity and specificity have higher values
+    D) The sensitivity and specificity values are similar, regardless of their values
+
+39. [mcq, 2 pt] In an epidemiological context, what is a population at risk?
+    A) A proportion of a population that engages in risky behavior.
+    B) The group of people that may experience the outcome we want to study.
+    C) A group of people participating in a study that may be harmful to them.
+    D) The population group that has the highest relative risk of disease
+
+40. [frq, 5 pt] What is the most important control measure for preventing person-to-person transmission of disease?

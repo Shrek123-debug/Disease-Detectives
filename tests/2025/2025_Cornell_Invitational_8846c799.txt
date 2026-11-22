@@ -1,0 +1,282 @@
+Cornell Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  69 questions, 105.5 pts
+Source: scio.ly test archive id 8846c799-199c-4028-a78f-36feb7589de1  |  original files: https://drive.google.com/drive/folders/14c5NZ9tPTkhpj4ESw4A7f6V6SBTbijLy
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+
+=== Section 1 — 500 Cigarettes /6 ===
+
+[STIMULUS] Smoking 500 cigarettes will not lead to good things. For this question, assume we are certain that cigarettes will directly lead to bad health outcomes for a person. When you are asked for a stage in the Natural History of Disease, make sure to give the name (saying first, second, third stage will not get full credit).
+
+1. [frq, 1 pt] Immediately after a person smokes a cigarette, what stage of the Natural History of Disease are they in?
+
+2. [frq, 2 pt] Give a potential outcome for the third stage of the Natural History of Disease for this person who smokes.
+
+3. [frq, 3 pt] Secondary prevention methods would best help/impact individuals in which stage of the Natural History of Disease? Why?
+
+
+=== Section 3 — House MD is away /15 ===
+
+9. [frq, 1 pt] You fear the infants may have received the disease from within the hospital. What word best describes this type of illness?
+
+[STIMULUS] The following is a table of the different NICUs and the number of affected babies.
+    |  | Affected infants | Unaffected infants |
+    | Floor 2 NICU | 5 | 15 |
+    | Floor 3 NICU | 3 | 12 |
+    | Floor 4 NICU | 0 | 14 |
+
+10. [numeric, 2 pt] Assuming that all these NICUs have been exposed to whatever agent is causing this, calculate the attack rate of this disease. Write to the thousandths place.
+
+11. [frq, 1 pt] You eventually find out that a hospital volunteer infected with a particular bacterium has been handing out a teddy bear to the babies, leading to their infection. What is the teddy bear best described as?
+
+[STIMULUS] You run a pulsed-field gel electrophoresis.
+
+12. [frq, 2 pt] Why might a standard agarose gel electrophoresis (like one you might find in your high school biology class) not be the best option to analyze the bacteria?
+
+13. [frq, 3 pt] What exactly do the bands represent, how are they made, what is the purpose of a "ladder" when performing gel electrophoresis?
+
+14. [frq, 3 pt] What is an SNP (writing out the acronym is acceptable) and how could it change the pattern seen on a gel electrophoresis?
+
+
+=== Section 4 — Brainrot /21 ===
+
+[STIMULUS] Over the past couple years, "Brainrot," which is characterized by mental decline due to excessive consumption of low quality media online, has been harming the minds of children. The White House, fearing for the future of the United States, has declared this a public health emergency.
+
+
+
+The government funds research to develop a vaccine to potentially combat the rise of Brainrot. A vaccine is made and a study is conducted to see how well it performs before it is released to the public.
+    [IMAGE: ../images/2025_cornell_invitational_b_c__p9_bc9701-77a02e67.webp]
+    |  | Suffers from Brainrot | Not suffering from Brainrot |
+    | Took Vaccine | 8 | 299 |
+    | No Vaccine | 59 | 230 |
+
+16. [frq, 3 pt] Determine the Vaccine Efficacy. This should be written as a percentage.
+
+17. [mcq, 2 pt] Choose the correct interpretation of a Vaccine Efficacy of 90%
+    A) 10% of Vaccinated individuals will get the disease
+    B) 90% of vaccinated individuals will gain immunity to the disease
+    C) The rate of disease in vaccinated individuals is expected to be 90% less compared to if those individuals were not vaccinated
+    D) 90% of Vaccinated individuals have a lower risk of dying
+    E) None of these are the correct interpretation
+
+18. [frq, 1 pt] The government decides to do a study to see if the income level of a household correlates with the prevalence of Brainrot in children. What is this type of study?
+
+[STIMULUS] In addition, the government wants to create a questionnaire that can catch children suffering from Brainrot. The government hopes that this test can be administered in schools.
+
+An initial study is done on a potential diagnostic questionnaire. The data is shown below:
+
+| | "Tested positive" based on questionnaire | "Tested Negative" |
+|---|---|---|
+| Actually suffered from Brainrot | 15 | 3 |
+| Actually did not | 2 | 30 |
+
+The government is interested in the following:
+
+"When the test claims the child is suffering from Brainrot, the child actually is suffering from Brainrot."
+
+19. [frq, 2 pt] Calculate the appropriate value to evaluate the desired quantity based on the data above.
+
+20. [frq, 2 pt] Calculate the accuracy of this test.
+
+[STIMULUS] The state of New York is also doing investigations on Brainrot in children. Suppose there are 4,098,129 children in New York, all of which use the internet and thus are potentially exposed to low quality media.
+
+21. [frq, 4 pt] If, over the past three months, 38,993 children have tested positive for Brainrot, calculate the incidence rate of Brainrot per 1000 person-years.
+
+22. [frq, 5 pt] Suppose that at the start of 2024, 230,009 children were suffering from Brainrot. Based on your answer to #21, calculate what the expected point prevalence among children in New York would be at the end of this month (November). Assume the same child population in the previous question.
+
+23. [frq, 2 pt] Suppose a study found that children that played the hit game Among Us found a relative risk of 1.49 (95% CI of 0.89 - 2.09) of developing Brainrot. What should we conclude about Among Us and Brainrot and why?
+
+
+=== Section 5 — Sleeping students /26 ===
+
+26. [frq, 1 pt] Suppose that people with multiple exams fell asleep in class at a higher rate compared to those with fewer exams. This best supports causality between the tests and falling asleep on the basis of which Bradford-Hill criterion?
+
+27. [frq, 1 pt] Suppose there were students that were falling asleep even before they knew they had a test to study for. Which Bradford-Hill criterion is violated?
+
+28. [frq, 1 pt] You go to several different classrooms and schools and find that a similar phenomenon is occurring. Which Bradford-Hill criterion is represented by this?
+
+29. [frq, 2 pt] Why are Koch's postulates not applicable to the hypothesis that exams cause students to fall asleep in class?
+
+[STIMULUS] You wonder if there are some other factors at play. You have found out that students at school are vaping, and you wonder if this could have caused students to feel sleepy in class.
+
+32. [frq, 1 pt] Suppose vaping made students more susceptible to being stressed out from exams and at the same time, induced sleepiness, causing a spurious correlation between the stress from the test and sleepiness. What type of variable is vaping in this case?
+
+33. [frq, 2 pt] Finally, you are ready to present your findings to the teacher whose class you studied. He appreciates your efforts and recommends you to also present your findings to the school board. Why was it important to present your findings to both the teacher and the school board?
+
+34. [frq, 1 pt] Would passive or active surveillance allow you to continue monitoring the classroom for sleeping students without you present at all times and on a budget?
+
+35. [frq, 1 pt] What is a drawback of this type of surveillance?
+
+[STIMULUS] Match each step to the corresponding step of surveillance in the 5 steps of surveillance. Note that not all 5 steps will be used.
+    | Step | Surveillance step |
+    | You continue to monitor and record cases of students falling asleep in class. | [[q:36-1]] |
+    | Based on what you learned about the students, you propose that schools can allow students to have power naps to reduce sleepiness during class. | [[q:36-2]] |
+    | You continually share what you find each month at the school board meetings. | [[q:36-3]] |
+
+36-1. [frq, 1 pt] Row: You continue to monitor and record cases of students falling asleep in class. — Surveillance step
+
+36-2. [frq, 1 pt] Row: Based on what you learned about the students, you propose that schools can allow students to have power naps to reduce sleepiness during class. — Surveillance step
+
+36-3. [frq, 1 pt] Row: You continually share what you find each month at the school board meetings. — Surveillance step
+
+
+=== Section 6 — Going for a swim /7 ===
+
+[STIMULUS] When visiting Ithaca, NY for a Science Olympiad tournament, a group of students decided to take their minds off of the competition by going for a swim in Beebe Lake (do **NOT** do this). Ignoring their event coordinators' warnings, they spent the morning splashing around happily. Later, all of the swimmers developed diarrhea, fever, and stomach cramps, classic symptoms of Campylobacter jejuni infection.
+
+37. [frq, 1 pt] The day after their swimming excursion, the students received blood tests for Campylobacter, but no antibodies for the bacterium were found. What might explain this result?
+
+38. [frq, 2 pt] The students were eventually diagnosed with Campylobacter infection through a PCR panel. What does PCR stand for, and how can it diagnose disease?
+
+
+=== Section 7 — The Pumpkin Patch /17.5 ===
+
+40. [frq, 2.5 pt] E. coli is often transmitted as a foodborne pathogen. List five characteristics of a favorable environment for foodborne microorganisms.
+
+[STIMULUS] Snoopy is not satisfied with how the health authorities are handling the situation and decides to take matters into his own hands. Over the next two weeks, he plots an epi curve for the spread of E. coli infections in the area.
+    [IMAGE: ../images/2025_cornell_invitational_b_c__p17_4d6670-dc455e69.webp]
+
+41. [frq, 2 pt] What type of epi curve would Snoopy's data be best described as?
+
+42. [frq, 2 pt] Does Snoopy's epi curve make sense? Why or why not?
+
+43. [frq, 2 pt] Linus and Lucy contact the school to obtain attendance records from the past month, attributing all absences to E. coli infections. What type of specific surveillance is this?
+
+44. [frq, 1 pt] Charlie Brown visits the local hospital and collects patient records to search for E. coli cases (violating several HIPAA codes in the process). What type of surveillance (active or passive) is this?
+
+[STIMULUS] The town's health department is so impressed by Charlie Brown's work that they invite him to conduct a formal investigation of the outbreak. He is instructed to keep a chronological log (shown below) describing the various steps of his investigation. Using the table below, classify each stage of Charlie Brown's outbreak investigation according to CDC standards. Note that not all 13 steps of a canonical outbreak investigation are listed here. Do not put down numbers. The step must be written out.
+    | Charlie Brown's log | Corresponding step of CDC outbreak investigation procedure |
+    | I compared the number of suspected E. coli cases this month to typical rates in this town. My data confirmed an unusually high number of infections, which is cause for public health concern. Good grief! | [[q:45-1]] |
+    | I confirmed that laboratory tests for E. coli were conducted properly. | [[q:45-2]] |
+    | I screened hospital records to analyze E. coli patients' demographic details, exposure to risk factors, and symptoms. | [[q:45-3]] |
+    | I drew an epi curve based on infection rates over time and a spot map based on the geographic distribution of cases. | [[q:45-4]] |
+    | I hypothesized that the E. coli outbreak emerged from infected pumpkins at Linus's Great Pumpkin patch. | [[q:45-5]] |
+    | I surveyed E. coli patients and healthy individuals to determine whether they had recently visited the pumpkin patch and found a relative risk of 3.2 associated with a visit. This suggested that the pumpkin patch was somehow responsible for the outbreak. | [[q:45-6]] |
+    | I cultured pumpkin tissue with antibodies (immunoassay) and confirmed the presence of E. coli in the pumpkins from Linus's patch. | [[q:45-7]] |
+    | I closed down the pumpkin patch to prevent further infection and warned recent visitors not to consume the pumpkins they picked. | [[q:45-8]] |
+
+45-1. [frq, 1 pt] Row: I compared the number of suspected E. coli cases this month to typical rates in this town. My data confirmed an unusually high number of infections, which is cause for public health concern. Good grief! — Corresponding step of CDC outbreak investigation procedure
+
+45-2. [frq, 1 pt] Row: I confirmed that laboratory tests for E. coli were conducted properly. — Corresponding step of CDC outbreak investigation procedure
+
+45-3. [frq, 1 pt] Row: I screened hospital records to analyze E. coli patients' demographic details, exposure to risk factors, and symptoms. — Corresponding step of CDC outbreak investigation procedure
+
+45-4. [frq, 1 pt] Row: I drew an epi curve based on infection rates over time and a spot map based on the geographic distribution of cases. — Corresponding step of CDC outbreak investigation procedure
+
+45-5. [frq, 1 pt] Row: I hypothesized that the E. coli outbreak emerged from infected pumpkins at Linus's Great Pumpkin patch. — Corresponding step of CDC outbreak investigation procedure
+
+45-6. [frq, 1 pt] Row: I surveyed E. coli patients and healthy individuals to determine whether they had recently visited the pumpkin patch and found a relative risk of 3.2 associated with a visit. This suggested that the pumpkin patch was somehow responsible for the outbreak. — Corresponding step of CDC outbreak investigation procedure
+
+45-7. [frq, 1 pt] Row: I cultured pumpkin tissue with antibodies (immunoassay) and confirmed the presence of E. coli in the pumpkins from Linus's patch. — Corresponding step of CDC outbreak investigation procedure
+
+45-8. [frq, 1 pt] Row: I closed down the pumpkin patch to prevent further infection and warned recent visitors not to consume the pumpkins they picked. — Corresponding step of CDC outbreak investigation procedure
+
+
+=== Section 8 — BonziBuddy virus /10 ===
+
+46. [mcq, 1 pt] Suppose that this virus had an incredibly high rate of crashing computers and effectively "killing" them. Which of the following epidemiological words best describes this virus?
+    A) Pathogenicity
+    B) Virulence
+    C) Infectivity
+
+47. [numeric, 3 pt] Based on the following facts below, calculate an "R₀" for this virus:
+    ● On average, each person has 23 new contacts in their email that the virus will forward itself to.
+    ● When the email with the virus is received, 19% of people will actually go on to download the file, thus getting the virus.
+    ● Just by chance, the virus will fail to infect 5% of computers it is downloaded to.
+    ● Assume all computers are compatible with the virus and susceptible.
+
+50. [frq, 2 pt] What makes R₀ different from Rₑ? Which is expected to be higher?
+
+
+=== Section 9 — Things we are supposed to test you on but couldn't fit into one of the above sections. /27 ===
+
+51. [mcq, 2 pt] Pasteur conducted studies on all of the following except…?
+    A) Fermentation and spoiled milk
+    B) Disproving spontaneous generation
+    C) Tracking cholera outbreaks
+    D) Vaccines
+
+52. [mcq, 2 pt] Which of the following is NOT an example of indirect transmission?
+    A) Bob was infected with HIV after touching a seat with HIV-infected blood
+    B) After helping a snail cross the street, Joe became infected with schistosomiasis
+    C) Joe accidentally ate raw chicken and became infected with Salmonella
+    D) Max was infected with mononucleosis after kissing his partner
+
+53. [mcq, 2 pt] Who is responsible for discovering penicillin, the first antibiotic?
+    A) Edward Jenner
+    B) Alexander Fleming
+    C) Robert Koch
+    D) Aristotle
+
+[STIMULUS] Match the description with the type of study. The options are:
+● Randomized controlled trial
+● Quasi experiment
+● Cross-sectional study
+● Case-control study
+● Cohort study
+Note that not all options will be used.
+
+54i. [mcq, 1 pt] To test a new drug to improve lung capacity, individuals were assigned randomly to receive either the drug or placebo.
+    A) Randomized controlled trial
+    B) Quasi experiment
+    C) Cross-sectional study
+    D) Case-control study
+    E) Cohort study
+
+54ii. [mcq, 1 pt] Comparing people with lung cancer to those without to see if smoking is more common in the group with lung cancer.
+    A) Randomized controlled trial
+    B) Quasi experiment
+    C) Cross-sectional study
+    D) Case-control study
+    E) Cohort study
+
+54iii. [mcq, 1 pt] Tracking the prevalence of lung disease over 30 years for smokers and non-smokers. At the beginning of the study, no subjects had lung disease.
+    A) Randomized controlled trial
+    B) Quasi experiment
+    C) Cross-sectional study
+    D) Case-control study
+    E) Cohort study
+
+54iv. [mcq, 1 pt] A study is trying to identify if there is a correlation between smoking and physical activity. Researchers survey a group of people at a single point in time, asking about how many cigarettes they smoke per week and their weekly physical activity.
+    A) Randomized controlled trial
+    B) Quasi experiment
+    C) Cross-sectional study
+    D) Case-control study
+    E) Cohort study
+
+55a. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: A study finds that a particular surgery is not as effective as expected, so it is discontinued.
+
+55b. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: Some medical school students set up a vaccination clinic.
+
+55c. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: The Montreal Protocol was a global agreement to slowly phase out usage of chemicals that damaged the ozone layer, such as CFCs.
+
+55d. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: A patient is being treated for strep throat with antibiotics.
+
+55e. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: A company implements mandatory health screenings for its employees.
+
+55f. [frq, 1 pt] Classify the following into primordial, primary, secondary, tertiary, and quaternary prevention: A state government passes a law to limit the use of opioids when unnecessary.
+
+56a. [frq, 1 pt] Identify which step in the chain of infection each description refers to: Stagnant bodies of water found in abandoned buildings may contain several microorganisms and pathogens.
+
+56b. [frq, 1 pt] Identify which step in the chain of infection each description refers to: Monkeypox, now known as Mpox, can spread through direct contact.
+
+56c. [frq, 1 pt] Identify which step in the chain of infection each description refers to: Childrens' immune systems are still developing, and as a result, they are at greater risk for many diseases.
+
+57. [frq, 2 pt] A study is done where viral load is numerically quantified among people. There are three different groups of people: a "low exposure group," a "moderate exposure group," and a "high exposure group." You want to see if there are any differences in the viral load between these three groups. What statistical test could be used for this?
+
+58a. [frq, 1 pt] Classify the following as either a Clinical or Public health approach: Children in schools are educated on the risks of tobacco and smoking.
+
+58b. [frq, 1 pt] Classify the following as either a Clinical or Public health approach: A man received a rabies shot after being bitten by a bat.
+
+59. [frq, 1 pt] Some pathogens can cause great infection and even death in certain individuals, while such disease is only mild in others. What epidemiological concept best describes this?
+
+60a. [tf, 1 pt] Write true or false next to each statement about PulseNet: It employs Whole Exome Sequencing
+    A) True
+    B) False
+
+60b. [tf, 1 pt] Write true or false next to each statement about PulseNet: It is run by the FDA
+    A) True
+    B) False
+
+60c. [tf, 1 pt] Write true or false next to each statement about PulseNet: It uses RNA fingerprinting to identify bacterial strains
+    A) True
+    B) False

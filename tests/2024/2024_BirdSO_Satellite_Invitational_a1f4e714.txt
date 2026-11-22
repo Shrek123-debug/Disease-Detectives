@@ -1,0 +1,254 @@
+BirdSO Satellite Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  49 questions, 130.0 pts
+Source: scio.ly test archive id a1f4e714-cbfa-42e8-a254-f31e44f4ba72  |  original files: https://drive.google.com/drive/folders/1HROgfeTl2G43ZSXjm6k8kb7O4zG8A-fu
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Welcome to Disease Detectives at the 2024 BirdSO Satellite Tournament! Here are some friendly reminders:
+
+For fill-in-the-blank responses, please write your answers in all lower case letters.
+For calculations questions, show your work as best you can with this digital platform.
+Good luck and have fun!
+
+1. [mcq, 1 pt] What does the acronym “MRSA” stand for?
+    A) Measured Resistance to Standard Antibiotics
+    B) Methicillin-Resistant Staphylococcus aureus
+    C) Manufactured for Rapid Surveillance and Analysis
+    D) Measured Reaction and Surveillance Aptitude
+
+2. [mcq, 1 pt] What does the acronym “PGFE” stand for?
+    A) Preferred Group of Fundamental Evaluations
+    B) Presidential Governance of Federal Epidemiology
+    C) PulseNet-Grouped For Examination
+    D) Pulsed-Field Gel Electrophoresis
+
+3. [mcq, 1 pt] What does the acronym “NHANES” stand for?
+    A) National Health and Nutrition Examination Survey
+    B) Natural History of Active New Epidemic Strains
+    C) Native Hostile and Newly Emergent Strains
+    D) National Health Administration for Natural Epidemiology and Surveillance
+
+4. [mcq, 1 pt] The CDC will respond to investigate an outbreak when:
+    A) More than one hospital files a disease report
+    B) A local health department forwards a case to a state health department
+    C) A disease has more than 3 reported cases within a local region
+    D) A state invites the CDC to carry out surveillance
+
+6. [mcq, 1 pt] What is the optional, subject to debate, 10th Bradford Hill criteria?
+    A) Reproducibility
+    B) Reversibility
+    C) Minimal Outliers
+    D) Diversity
+
+7. [mcq, 1 pt] Which of the following is a gram-negative pathogen?
+    A) Streptococcus pneumoniae
+    B) Clostridium dificile
+    C) Enterococcus faecalis
+    D) Pseudomonas aeruginosa
+
+8. [mcq, 1 pt] Which event occurs after the stage of susceptibility of a disease?
+    A) exposure
+    B) pathologic changes
+    C) symptoms
+    D) diagnosis
+
+9. [mcq, 1 pt] Which event occurs after the stage of subclinical disease?
+    A) exposure
+    B) pathologic changes
+    C) symptoms
+    D) diagnosis
+
+10. [mcq, 1 pt] During which stage is a disease usually diagnosed?
+    A) Susceptibility
+    B) Subclinical Disease
+    C) Clinical Disease
+    D) Recovery, Disability, or Death
+
+[STIMULUS] Scientists in 2002 attempted to profile different strains of *Salmonella enterica*, and collected the data shown below:
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p3_9af70b-83302bba.webp]
+
+11. [mcq, 1 pt] Based on the data (a), the scientists created the map shown in (b), where they notate strain 18 as being most separated from the rest. Which band supports this conclusion?
+    A) 97.0 kb
+    B) 170 kb
+    C) 388.0 kb
+    D) 533.5 kb
+
+12. [mcq, 1 pt] What entity is shown in Lanes 1 and 20?
+    A) Loading Control
+    B) DNA Ladder
+    C) Protein Standard
+    D) Benchmark Control Sample
+
+13. [mcq, 1 pt] Which of the following is not a way to control for confounding?
+    A) Grouping
+    B) Stratification
+    C) Randomization
+    D) Restriction
+
+[STIMULUS] Plague Inc., a popular strategy-based video game released in 2012 by Ndemic Creations, has been played over 700 million times worldwide. The premise of the game is to infect “Patient Zero” with a player-created pathogen, with the goal of eliminating the human race. Scary, right? Many people play each year and fail to reach the end goal, but none of them are disease experts like you! Let’s play!
+
+To start the game, you choose to deploy a bacterial pathogen and are soon asked where in the world you would like to begin exposure. Which location would you choose to maximize the likelihood of your disease becoming a pandemic?
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p4_dfd205-e7eb64ea.webp]
+
+14. [mcq, 1 pt] Which location would you choose to maximize the likelihood of your disease becoming a pandemic?
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p4_b38662-5ca6cab5.webp]
+    A) Greece (Population: 10.64 million, Annual Tourists: 27.8 million)
+    B) Japan (Population: 125.7 million, Annual Tourists: 32.2 million)
+    C) Russia (Population: 143.4 million, Annual Tourists: 13.1 million)
+    D) France (Population: 67.75 million, Annual Tourists: 79.4 million)
+
+[STIMULUS] Plague Inc., a popular strategy-based video game released in 2012 by Ndemic Creations, has been played over 700 million times worldwide. The premise of the game is to infect “Patient Zero” with a player-created pathogen, with the goal of eliminating the human race. Scary, right? Many people play each year and fail to reach the end goal, but none of them are disease experts like you! Let’s play!
+
+Your disease has surpassed 11,000,000 infections in 2 continents and is now more widespread than tuberculosis! But, it has still caused zero deaths.
+
+17. [mcq, 1 pt] Which symptom would you purchase with your DNA points to increase human mortality?
+    A) Insomnia
+    B) Dry cough
+    C) Skin irritation
+    D) Lower red blood cell count
+
+[STIMULUS] Plague Inc., a popular strategy-based video game released in 2012 by Ndemic Creations, has been played over 700 million times worldwide. The premise of the game is to infect “Patient Zero” with a player-created pathogen, with the goal of eliminating the human race. Scary, right? Many people play each year and fail to reach the end goal, but none of them are disease experts like you! Let’s play!
+
+By now, your disease is running out of control! Researchers in Canada performed an experiment to determine whether direct human exposure to the disease caused an increased risk. They found that in a group of 100 people directly exposed to the disease, 28 contracted the disease. In a compared group of 80 people who were not directly exposed to the disease, only 7 contracted the disease.
+
+18. [mcq, 1 pt] What is the risk ratio for this disease?
+    A) 4
+    B) 3.2
+    C) 0.35
+    D) 0.3125
+
+[STIMULUS] Plague Inc., a popular strategy-based video game released in 2012 by Ndemic Creations, has been played over 700 million times worldwide. The premise of the game is to infect “Patient Zero” with a player-created pathogen, with the goal of eliminating the human race. Scary, right? Many people play each year and fail to reach the end goal, but none of them are disease experts like you! Let’s play!
+
+Scientists have started to investigate your mystery microbe by culturing the pathogens extracted from infected patients.
+
+20. [mcq, 1 pt] Which step of Koch’s postulates does this process most resemble?
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+
+[STIMULUS] Plague Inc., a popular strategy-based video game released in 2012 by Ndemic Creations, has been played over 700 million times worldwide. The premise of the game is to infect “Patient Zero” with a player-created pathogen, with the goal of eliminating the human race. Scary, right? Many people play each year and fail to reach the end goal, but none of them are disease experts like you! Let’s play!
+
+Health officials have noticed recent emergence of new symptoms in affected patients, and want to determine whether those symptoms result from your disease.
+
+21. [mcq, 1 pt] Which epidemiological study would be most effective for this purpose?
+    A) case control
+    B) cohort
+    C) ecological
+    D) cross-sectional
+
+22. [multi, 6 pt] Select all of the following diseases/pathogens that were on the WHO Priority Diseases List in 2023.
+    A) Enterococcus Faecalis
+    B) Marburg virus
+    C) Zika virus
+    D) Heart Disease
+    E) Crimean-Congo haemorrhagic fever
+    F) COVID-19
+
+23. [multi, 6 pt] Select all of the following diseases that have been eliminated in the US as a result of vaccines.
+    A) Smallpox
+    B) Poliomyelitis
+    C) Human papillomavirus
+    D) Measles
+    E) Meningitis
+    F) Maternal and Neonatal Tetanus
+
+[STIMULUS] Diphtheria, caused by infectious bacteria *Corynebacterium diphtheriae*, is a respiratory infection that had 10,107 reported cases in the year 2020.
+
+24. [mcq, 1 pt] Is *Corynebacterium diphtheriae* a gram+ or gram- pathogen?
+    A) Gram+
+    B) Gram-
+
+25. [frq, 2 pt] A major healthcare issue surrounding *C. diphtheriae* and other infectious bacterial strains is antimicrobial resistance. In one word, what biological phenomenon gives rise to the development of antimicrobial resistance? (Please write your answer in all lowercase letters.)
+
+26. [frq, 5 pt] Two antibiotic drugs that are commonly used to treat diphtheria are vancomycin and methicillin. However, not all antibiotics are created equal. After its deployment in 1960, bacterial resistance to methicillin was detected only two years later in 1962. Vancomycin, on the other hand, was able to remain effective against pathogenic bacteria, lasting a duration of 31 years before any resistance was detected against it. What properties of vancomycin and its molecular mechanisms likely contributed to its longevity?
+
+27. [frq, 4 pt] Could a vaccine ever be developed against a bacterial infection, like diphtheria? If yes, explain a proposed molecular mechanism. If no, explain why not.
+
+[STIMULUS] COVID-19. SARS-CoV-2. Coronavirus. Well, it’s been a few years. Let’s talk about it!
+
+COVID-19 is a respiratory virus that emerged in 2019 and led to a global pandemic in 2020. To date, COVID-19 is responsible for over 774,000,000 infections and 7,000,000 deaths worldwide.
+
+33. [frq, 2 pt] What two aspects of COVID-19 quickly elevated it to a pandemic?
+
+34. [frq, 3 pt] Italy was a country considered by public health experts to be “disproportionately affected” by COVID-19, ranking only 37th in highest cases per capita, but 4th in highest deaths per capita. What factors contributed to COVID-19’s disproportionate effect on Italy?
+
+35. [frq, 3 pt] On the contrary, New Zealand was a country modeled by public health experts to have swiftly controlled the spread of COVID-19 within their country’s borders. What were two actions taken by New Zealand’s public health officials that contributed to the hasty containment of the virus?
+
+[STIMULUS] Let’s set the scene back in early 2021 when COVID-19 vaccines were first being administered to the public in the USA. Most of you were likely still in Science Olympiad Division A or B! At the time, there were three main vaccines circulating: Pfizer, Moderna, and Johnson & Johnson (hereafter referred to as J&J), and the general public was debating over which was the best vaccine to get.
+
+Two major buzzwords in the debates were effectiveness and efficacy. Briefly define each term in the context of vaccines.
+    | Label | Answer |
+    | Effectiveness | [[q:36-a]] |
+    | Efficacy | [[q:36-b]] |
+
+36-a. [frq, 2 pt] Effectiveness
+
+36-b. [frq, 2 pt] Efficacy
+
+[STIMULUS] COVID-19. SARS-CoV-2. Coronavirus. Well, it's been a few years. Let's talk about it!
+
+COVID-19 is a respiratory virus that emerged in 2019 and led to a global pandemic in 2020. To date, COVID-19 is responsible for over 774,000,000 infections and 7,000,000 deaths worldwide.
+
+37. [frq, 4 pt] Using the data below from one of the Pfizer vaccine clinical trials, calculate the efficacy of the Pfizer COVID-19 vaccine for this trial. Show your work as best you can using this platform.
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p12_41c62f-ebe7f4a3.webp]
+
+38. [frq, 3 pt] The table below lists each vaccine along with their effectiveness and efficacies. Based on the data, which vaccine would you recommend to the general public, and why?
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p12_b2cd05-f6c74815.webp]
+
+39. [frq, 3 pt] Could your recommendation change if you were to instead be assigned to recommend a vaccine to a single person with given details of their demographics? Why or why not?
+
+40. [frq, 3 pt] Shortly after the mask mandates began for COVID-19, rumors circulated on TikTok that you could bake your N95 masks in a household oven at 170 degrees Fahrenheit to sterilize them from the COVID-19 virus. Typically, it is a good idea to proceed with caution before believing anything on TikTok, but this information was validated by researchers at Stony Brook University. Why does this work? By what mechanism does the heat inactivate the virus?
+
+[STIMULUS] Pb+J: In December 2023, Austrofoods brand juice pouches were recalled due to lead contamination. By January 2024, 354 cases of lead poisoning were reported across 41 US states. Cases of lead poisoning resulting from the juice pouch consumption were recorded as recent consumers voluntarily received blood tests for acute lead poisoning. The CDC and FDA are currently investigating 89 of the reported cases in patients ranging from ages 1 to 53.
+
+42. [frq, 2 pt] The CDC released an updated statement in February 2024 listing the average blood lead levels (BLLs) of the affected patients and their symptoms. Which step of the surveillance process does this represent? (Please write your answer in all lower case letters.)
+
+43. [frq, 5 pt] Complete a person, place, and time triad and use that triad to create a case definition for this outbreak.
+
+44. [mcq, 1 pt] The study used to link the juice pouches to lead poisoning was performed by fielding multiple cases of juice pouch consumption from people in 41 different US states and across a 52 year age range. Which Bradford Hill criteria is satisfied most by this aspect of the study?
+    A) Consistency
+    B) Temporality
+    C) Biological Gradient
+    D) Experiment
+
+45. [mcq, 1 pt] The subjects in the aforementioned study were gathered from a set of patients who voluntarily sought out medical treatment after experiencing symptoms of headache, abdominal pain, and vomiting shortly after consumption of juice pouches. Which Bradford Hill criteria is satisfied most by this aspect of the study?
+    A) Strength
+    B) Coherence
+    C) Temporality
+    D) Biological Gradient
+
+46. [mcq, 1 pt] The median age of patients in this study is 1 year old, and FDA investigators compared the blood lead levels (BLLs) of the younger patients to a study from the mid-2000s investigating a recall on baby formula due to lead contamination. Which Bradford Hill criteria is satisfied most by this aspect of the study?
+    A) Plausibility
+    B) Biological Gradient
+    C) Coherence
+    D) Analogy
+
+47. [frq, 3 pt] Scientists involved in the study identified that blood lead levels (BLLs) in young children were much higher than in adult patients, and attributed this to young childrens' increased consumption of juice pouches. They plan to use this data to propose a causal relationship by biological gradient. Can you identify any other potential explanation for the aforementioned increased BLLs in young children that may invalidate the Bradford Hill criteria satisfied by it?
+
+48. [frq, 3 pt] Investigators determined that the lead levels in the juice pouches were 2000 times higher than the allowable concentration, and traces of chromium were also found to be contaminating the juice pouches. What is the most likely source of lead contamination in the juice pouches?
+
+[STIMULUS] Bird Flu: Early this year, Southern California health officials were notified of a detected spread of a new strain of Bird Flu at a large event that took place on USC campus on January 13, 2024. (This is all hypothetical for the purpose of this test. Please do not contact the BirdSO tournament directors about Bird Flu at the in-person tournament.) After some brief investigation, it was discovered that many of the infected people are students ages 11-18 who participate in a fun activity called Science Olympiad.
+
+49. [frq, 5 pt] Complete a person, place, and time triad and use that triad to create a case definition for this outbreak.
+
+51. [frq, 4 pt] In order to gather a sample population who could answer as many of the scientists’ questions as possible, study participants were recruited from students who competed in Anatomy and Physiology, Disease Detectives, and Microbe Mission due to their great level of biological understanding (Disclaimer: Scientists aren’t always correct in their reasoning! Students in all the other events can be amazing biologists too :D). What two types of bias result from this decision? (Please write your answer in all lowercase letters.)
+
+53. [frq, 2 pt] What is the mode of spread for this outbreak? (Please write your answer in all lower case letters.)
+
+54. [frq, 18 pt] List the six components of the chain of transmission. Then, identify specifically what each component is for this Bird Flu outbreak.
+
+55. [frq, 3 pt] Epidemiologists released a statement to the greater LA area saying that the strain of Bird Flu was associated with participation in Science Olympiad. What is a variable that may have confounded the association?
+
+56. [frq, 2 pt] To limit the spread of Bird Flu, epidemiologists recommended that the next upcoming Science Olympiad tournament (BirdSO) in early February be held as a satellite tournament (Nice to see we followed their hypothetical recommendation!). What level of prevention does this constitute? (Please write your answer in all lowercase letters.)
+
+57. [frq, 2 pt] On the other hand, some less experienced epidemiologists considered Science Olympiad itself to be the cause of Bird Flu, and recommended shutting down Division A tournaments to discourage kids from pursuing Science Olympiad. What level of prevention does this constitute? (Please write your answer in all lowercase letters.)
+
+58. [frq, 4 pt] Out of an abundance of caution, local public health officials assigned designated medical professionals to attend and monitor the Southern California State Tournament in Spring 2024. What two types of surveillance are being deployed in this situation? (Please write your answers in all lowercase letters and fill them in alphabetical order.)
+
+[STIMULUS] Bird Flu: Early this year, Southern California health officials were notified of a detected spread of a new strain of Bird Flu at a large event that took place on USC campus on January 13, 2024. (This is all hypothetical for the purpose of this test. Please do not contact the BirdSO tournament directors about Bird Flu at the in-person tournament.) After some brief investigation, it was discovered that many of the infected people are students ages 11-18 who participate in a fun activity called Science Olympiad.
+
+Science Olympiad officials want to determine whether participation in Disease Detectives led to an increased odds of Bird Flu infection relative to other events, such as build/engineering events like Air Trajectory. Given the information in the table below, which surveyed all participants in both events, calculate the odds ratio for contracting Bird Flu as a Disease Detectives participant relative to an Air Trajectory participant (control). Show your work as best you can with this digital platform.
+    [IMAGE: ../images/2024_birdso_satellite_invitational_b_c__p17_d12ef6-c9cfe38a.webp]
+
+59. [frq, 4 pt] Calculate the odds ratio for contracting Bird Flu as a Disease Detectives participant relative to an Air Trajectory participant (control). Show your work as best you can with this digital platform.
+
+60. [frq, 4 pt] After calculating the odds ratio for the data above that surveyed all participants for both events, can you identify one flaw with this study that may invalidate the resulting odds ratio? What kind of bias does this flaw most closely constitute?

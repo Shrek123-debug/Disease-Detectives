@@ -1,0 +1,302 @@
+University of Chicago — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  64 questions, 136.0 pts
+Source: scio.ly test archive id 7fa3e56f-38cf-4c8a-b629-24f2e564f529  |  original files: https://drive.google.com/drive/folders/1jFOL4J5x9Xb-uQSDwknmNK1SHf4ZDTuS
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: You will have 50 minutes to complete the test. If you have any questions, don't hesitate to reach out to simami@uchicago.edu or audreyleonard@uchicago.edu. Best of luck!
+
+1. [mcq, 1 pt] Concurrent outbreaks of the flu and COVID-19 would be an example of:
+    A) Pandemic
+    B) Epidemic
+    C) Syndemic
+    D) Cluster
+
+2. [multi, 1 pt] You have discovered a new pathogen that you believe may cause severe encephalitis in cows. Choose all of the following that must be true in order for this causation to be established. (hint: use Koch’s Postulates)
+    A) All cases of the severe encephalitis in cows show appreciable amounts of this pathogen in the affected tissue.
+    B) All cows that do not present with this severe encephalitis do not contain this pathogen within them.
+    C) The pathogen, when isolated from diseased cows, can be grown in pure culture.
+    D) The pathogen, when grown in pure culture, causes the severe encephalitis when reintroduced into a healthy and susceptible cow.
+    E) The pathogen, when reisolated from this infected cow, is identical to when it was introduced to the cow.
+
+3. [mcq, 1 pt] Health events that are reported by health practitioners chosen to represent a certain geographic area is an example of what type of surveillance:
+    A) Symptomatic surveillance
+    B) Syndromic surveillance
+    C) Sentinel surveillance
+    D) Active surveillance
+
+4. [mcq, 1 pt] What kind of outbreak is this?
+    
+    Source: CDC
+    [IMAGE: ../images/2022_university_of_chicago_c__p1_9b67b9-fac9e350.webp]
+    A) Point source
+    B) Continuous common source
+    C) Intermittent source
+    D) Propagated (progressive)
+
+5. [multi, 1 pt] Malaria is caused by:
+    A) Mosquitoes
+    B) A Plasmodia
+    C) A virus
+    D) A bacteria
+
+6. [mcq, 1 pt] A disease is most effective at spreading through a population when it has:
+    A) Low infectivity and low virulence
+    B) High infectivity and low virulence
+    C) Low infectivity and high virulence
+    D) High infectivity and high virulence
+
+7. [multi, 1 pt] An individual spreads disease by sneezing. Which of the possible terms could apply to this form of spread? Circle all that apply.
+    A) Direct transmission
+    B) Indirect transmission
+    C) Droplet transmission
+    D) Airborne transmission
+
+8. [mcq, 1 pt] Primary care advice as part of a routine consultation would be considered as part of:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+    D) Quaternary prevention
+
+9. [mcq, 1 pt] What type of study is best for rare diseases?
+    A) Case control study
+    B) Ecological study
+    C) Cohort study
+    D) Cross sectional study
+
+10. [mcq, 1 pt] What type of study is best for rare exposures?
+    A) Case control study
+    B) Ecological study
+    C) Cohort study
+    D) Cross sectional study
+
+11. [mcq, 1 pt] Which type of study is best for measurements of time relationship?
+    A) Case control study
+    B) Ecological study
+    C) Cohort study
+    D) Cross sectional study
+
+12. [mcq, 1 pt] Which type of study has the highest risk of confounding?
+    A) Case control study
+    B) Ecological study
+    C) Cohort study
+    D) Cross sectional study
+
+13. [mcq, 1 pt] Pathologic changes begin to take place in which stage of natural history?
+    A) Stage of susceptibility
+    B) Stage of subclinical disease
+    C) Stage of clinical disease
+    D) Stage of recovery, disability, or death
+
+14. [tf, 1 pt] When deciding whether a higher specificity or a higher sensitivity of a test is important, we should consider the prevalence of the disease in the population.
+    A) True
+    B) False
+
+15. [mcq, 1 pt] A preventative measure is put into place that addresses the clinical disease stage. This is:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+
+16. [mcq, 1 pt] A preventative measure that addresses the subclinical disease stage is:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+
+17. [mcq, 1 pt] A preventative measure that addresses the susceptibility stage is:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+
+18. [mcq, 1 pt] Ten probable cases of a disease characterized by fever, vomiting, and diarrhea visited the same buffet restaurant last week. Which mode of transmission is least likely?
+    A) Waterborne
+    B) Food-borne
+    C) Airborne
+    D) Vector-borne
+
+19. [mcq, 1 pt] A bacterium mutates and causes less severe disease than before. This represents a change in its:
+    A) Pathogenicity
+    B) Infectivity
+    C) Virulence
+
+20. [mcq, 1 pt] Of the person-place-time triad, this method of data organization is best for time:
+    A) Epidemic curve
+    B) Line listing
+    C) Cluster map
+    D) Subdivided table
+
+[STIMULUS] For the following 4 questions, refer to the figure below. This set of graphs is an (informal!) data visualization of scented candle reviews. It was produced after one Twitter user suggested negative reviews complaining about lack of scent might align with COVID-19 case numbers (since, as you certainly know, lack of smell is a COVID symptom). U.S. COVID numbers peaked in April, July/August, and November/December 2020.
+
+Source: @kate_ptrv. “I couldn’t just walk past this Tweet, so here is some fun #dataviz Scented candles: An unexpected victim of the COVID-19 pandemic 1/n.” Twitter, Nov. 27 2020 19:59, https://twitter.com/kate_ptrv/status/1332398737604431874.
+
+22. [mcq, 1 pt] If you wanted to superimpose a graph of COVID data to examine the association, you would most likely use:
+    A) Prevalence
+    B) Incidence
+    C) Attack rate
+    D) Burden of disease
+
+23. [mcq, 1 pt] Imagine Yankee Candleland Health Department decides to monitor COVID case numbers by tracking scented candle reviews. This would be a type of:
+    A) Passive surveillance
+    B) Active surveillance
+    C) Syndromic surveillance
+    D) None of the above
+
+24. [frq, 3 pt] Suggest a possible confounding factor or bias that could have influenced these results.
+
+25. [frq, 5 pt] Complete the chain of infection diagram:
+
+[STIMULUS] For the next five questions, match the pattern of disease to each case (outbreak, sporadic, endemic, pandemic, epidemic).
+
+26. [mcq, 1 pt] There were 80 cases of mononucleosis reported in Chicago in 2018 and 2019. In 2020, there were 150 cases reported from local hospitals. In 2021, there was an increase in cases as well.
+    A) Outbreak
+    B) Sporadic
+    C) Endemic
+    D) Pandemic
+    E) Epidemic
+
+27. [mcq, 1 pt] This year, there were 2 reported cases of tetanus in the Chicagoland area.
+    A) Outbreak
+    B) Sporadic
+    C) Endemic
+    D) Pandemic
+    E) Epidemic
+
+28. [mcq, 1 pt] Each year, there are roughly 200 to 500 million cases of malaria reported globally. In 2020, there were 300 million cases reported.
+    A) Outbreak
+    B) Sporadic
+    C) Endemic
+    D) Pandemic
+    E) Epidemic
+
+29. [mcq, 1 pt] On average, there are 25 reported cases of influenza a year at your high school. Last year, there were 50 reported cases.
+    A) Outbreak
+    B) Sporadic
+    C) Endemic
+    D) Pandemic
+    E) Epidemic
+
+30. [mcq, 1 pt] In 1968, a strain of the influenza A virus originated in Hong Kong and spread across Asia, North America, and Europe. The mortality rate was about .5%.
+    A) Outbreak
+    B) Sporadic
+    C) Endemic
+    D) Pandemic
+    E) Epidemic
+
+31. [frq, 4 pt] Identify the four main types of biological agents that can cause disease.
+
+32. [frq, 3 pt] Identify the three types of disease caused by biological agents.
+
+[STIMULUS] For the next six questions, refer to this scenario. **Give your answers to two decimal places.**
+
+Suppose the current prevalence of COVID-19 in the city of Chicago is 0.042%. Studies have shown that highly accessible testing is essential to the control of COVID-19. As such, you are developing a new rapid test. In your clinical trial of the test, you compared your results against that of RT-PCR (the gold standard) to get this data:
+
+33. [numeric, 1 pt] What is the sensitivity of the rapid test as a percent? Do not include the % symbol in your answer.
+
+34. [numeric, 1 pt] What is the specficity of the rapid test?
+
+35. [numeric, 1 pt] What is the positive predictive value of the rapid test?
+
+36. [numeric, 1 pt] What is the negative predictive value of the rapid test?
+
+37. [numeric, 5 pt] RT-PCR has a 95% sensitivity and a 99% specificity. Knowing this, knowing the sensitivity and specific of the rapid test that you calculated above, and knowing that 0.042% of people in Chicago actually have COVID-19, calculate the probability that an individual who has a positive rapid test but a negative RT-PCR actually has COVID-19. **Give your answer as a percent, but do not include the % symbol. Round to two decimal places.**
+
+38. [frq, 3 pt] What are some implications/consequences of having a low sensitivity but a high specificity?
+
+[STIMULUS] For the next six questions, please refer to this scenario:
+
+50 people go to a party and 31 of them begin to feel ill. After partygoers are interviewed, eating peach ice cream is determined to be a risk factor. The following 2x2 table is produced from the survey data:
+
+39. [multi, 3 pt] What type of study is this? Circle all that apply:
+    A) Retrospective
+    B) Prospective
+    C) Cohort
+    D) Case-control
+    E) Observational
+    F) Experimental
+
+40. [numeric, 1 pt] Calculate the relative risk. Give your answer to the third decimal place.
+
+41. [frq, 2 pt] Is there an association between peach ice cream and disease? Explain.
+
+42. [numeric, 1 pt] Calculate the odds ratio. Give your answer to the third decimal place.
+
+43. [frq, 3 pt] Generally speaking, is the odds ratio or the relative risk you calculated a better indication of the correlation between eating peach ice cream and falling ill? (Consider the relationship between the two: what does the relative risk represent? What does the odds ratio represent?)
+
+44. [frq, 3 pt] Through a culture of the patients’ blood samples, the disease is determined to be typhoid fever! According to the rare disease assumption, will the odds ratio or the relative risk be a better indicator of the correlation in this situation?
+
+45. [frq, 4 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    What is the statistical method used by the authors when rates were compared between groups with similar characteristics? What statistical phenomenon does this control for?
+
+46. [frq, 2 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    The use of a placebo guarded against what type of bias?
+
+47. [frq, 2 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    What was the case definition of “Severe Covid-19”?
+
+48. [frq, 3 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    What type of study is this? Observational or experimental? How do you know? What subcategory of the chosen type is this study?
+
+49. [frq, 5 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    Randomization of participants to treatment groups in this study allowed conclusions to be drawn regarding causation or generalizability to the human population as a whole? Why not the other choice?
+
+50. [frq, 3 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    What side effects were shown to be statistically significantly more likely to occur in individuals who received the vaccine compared to those who received the placebo for people aged 16-55 years for Dose 2?
+
+51. [frq, 6 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    A major part of public health is messaging and communicating with the population, which is part of both Steps 11 and 13 of the Steps to Control an Outbreak. What data from this study would you use in vaccine messaging in order to build trust?
+
+52. [frq, 8 pt] This question refers to the following case study: "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine." https://www.nejm.org/doi/full/10.1056/nejmoa2034577
+    
+    A major roadblock in the effective control of the pandemic and vaccine rollout has been serious disparities in vaccine access and uptake among socioeconomically disadvantaged populations and certain racial/ethnic groups. Propose 4 general or specific strategies to increase vaccine access to these populations.
+
+53. [frq, 5 pt] This question refers to the following case study: "Novel Use of Capture-Recapture Methods to Estimate Completeness of Contact Tracing during an Ebola Outbreak, Democratic Republic of the Congo, 2018-2020.” https://drive.google.com/file/d/1VrK-v8ZtpZak4oZXxJObFBuOE-kEU5iJ/view?usp=sharing
+    
+    In your own words, name the steps involved in contact tracing and explain its value in the greater context of public health.
+
+54. [frq, 2 pt] This question refers to the following case study: "Novel Use of Capture-Recapture Methods to Estimate Completeness of Contact Tracing during an Ebola Outbreak, Democratic Republic of the Congo, 2018-2020.” https://drive.google.com/file/d/1VrK-v8ZtpZak4oZXxJObFBuOE-kEU5iJ/view?usp=sharing
+    
+    What form of transmission is associated with the Ebola virus?
+
+56. [frq, 3 pt] This question refers to the following case study: "Novel Use of Capture-Recapture Methods to Estimate Completeness of Contact Tracing during an Ebola Outbreak, Democratic Republic of the Congo, 2018-2020.” https://drive.google.com/file/d/1VrK-v8ZtpZak4oZXxJObFBuOE-kEU5iJ/view?usp=sharing
+    
+    What type of study is this? Observational or experimental? How do you know?
+
+57. [frq, 3 pt] This question refers to the following case study: "Novel Use of Capture-Recapture Methods to Estimate Completeness of Contact Tracing during an Ebola Outbreak, Democratic Republic of the Congo, 2018-2020.” https://drive.google.com/file/d/1VrK-v8ZtpZak4oZXxJObFBuOE-kEU5iJ/view?usp=sharing
+    
+    Define overdispersion. What are the two ways that overdispersion can be described (according to the study)?
+
+58. [frq, 2 pt] This question refers to the following case study: "Novel Use of Capture-Recapture Methods to Estimate Completeness of Contact Tracing during an Ebola Outbreak, Democratic Republic of the Congo, 2018-2020.” https://drive.google.com/file/d/1VrK-v8ZtpZak4oZXxJObFBuOE-kEU5iJ/view?usp=sharing
+    
+    What were the three methods used to determine case-patients in the study?
+
+[STIMULUS] Here is some background information about dengue fever that may be useful for the following questions:
+
+The incubation period of dengue is 5-7 days. There are four dengue serotypes, or four different viruses that can cause dengue fever disease. About 25% of infected patients show symptoms. Fever, body aches, nausea, and rash are common symptoms.
+
+Source: "Dengue for Healthcare Providers: Clinical Presentation." Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 13 Sept. 2021, https://www.cdc.gov/dengue/healthcare-providers/clinical-presentation.html.
+
+[STIMULUS] This question refers to the following case study: "Outbreak Investigation of Dengue Fever in Sundia, Chakaiser, Shangla, Pakistan–2008." https://www.ayubmed.edu.pk/JAMC/26-4/Nighat.pdf
+
+62. [frq, 2 pt] What is the agent in this outbreak?
+
+63. [frq, 3 pt] What is the host in this outbreak? Name 3 specific risk factors addressed in the study that relate to the host.
+
+64. [frq, 3 pt] What is the environment in this outbreak? Name 3 specific risk factors addressed in the study that relate to the environment.
+
+[STIMULUS] This question refers to the following case study: "Outbreak Investigation of Dengue Fever in Sundia, Chakaiser, Shangla, Pakistan–2008." https://www.ayubmed.edu.pk/JAMC/26-4/Nighat.pdf
+
+Which level of prevention (primordial/primary/secondary/tertiary) does each of the suggested dengue interventions constitute? Which step(s) in the chain of transmission does it attempt to break?
+
+65a. [frq, 2 pt] Bed nets
+
+65b. [frq, 2 pt] Fogging/spray machine
+
+65c. [frq, 2 pt] Health education program
+
+65d. [frq, 2 pt] Dengue rapid diagnostic test kits
+
+66. [frq, 5 pt] This study suggests the implementation of a "strong surveillance system" for controlling Dengue in Pakistan. Dengue is endemic and fairly common in Pakistan, especially in urban areas. Pakistan's healthcare system is not very robust with limited funding for diagnostic testing. Consider these factors and the characteristics of dengue disease. Which type of surveillance (passive/active, sentinel, symptomatic) would be the best in this scenario? Why?

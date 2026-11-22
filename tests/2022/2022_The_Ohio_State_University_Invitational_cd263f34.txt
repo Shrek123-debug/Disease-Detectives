@@ -1,0 +1,205 @@
+The Ohio State University Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  33 questions, 69.0 pts
+Source: scio.ly test archive id cd263f34-6dd5-47ca-903a-c76730c4388e  |  original files: https://drive.google.com/drive/folders/1bYsvKo-Sr1iqLKSkKZS4x4H40r4xegBe
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+
+=== Part I- Multiple Choice ===
+
+1. [mcq, 2 pt] Considering that incidence rate focuses on the transition from non-diseased to diseased among those at risk for developing the disease, which of these groups would be excluded when calculating the incidence rate of 1st heart attacks in adults of a given population
+    A) Adults without a family history of heart disease
+    B) Adults who already had at least one heart attack
+    C) Adults who have never had a heart attack
+    D) Adults who maintain a lifestyle detrimental to heart health
+
+2. [mcq, 2 pt] The Black Women's Health Study followed 30,330 women for development of hypertension from 1996 to 2000. None of the subjects in this portion of the study had hypertension at the beginning of the observation period, but 2,314 had developed hypertension by 2001. The women who were studied contributed 104,574 person-years of hypertension-free observation time. What is the incidence rate (per person year) of developing hypertension in this study?
+    A) 0.2900
+    B) 0.0763
+    C) 0.02215
+    D) 0.5703
+
+3. [mcq, 2 pt] Researchers conduct a case-control study of the association between the diet of young children and diagnosis of childhood cancer, by age 5 years. The researchers are worried about the potential for recall bias since parents are being asked to recall what their children generally ate, over a period of 5 years. Which of the following potential control groups would be most likely to reduce the likelihood of recall bias?
+    A) Parents of children with no known health problems
+    B) Parents of children with other known, diagnosed serious health problems (aside from childhood cancer)
+    C) Parents of children with other known, diagnosed minor health problems
+    D) Asking the children themselves, without their parents
+
+4. [mcq, 2 pt] What was done to stop the spread of Cholera during the outbreak of 1849 in London?
+    A) Food was distributed to the affected areas
+    B) Chlorine was added to the water supply
+    C) Residents were advised to wash their hands
+    D) The water supply was cut off by removing the pump handle
+
+5. [mcq, 2 pt] What types of environments are more likely to have high cases of malaria?
+    A) Cold, polar environments
+    B) Hot, dry environments
+    C) Temperate environments
+    D) Hot, wet environments
+
+6. [mcq, 2 pt] Which of the following would be a characteristic of a chronic disease?
+    A) A slow, progressive decline
+    B) Requires short-term surveillance
+    C) Reversible pathology
+    D) A cure is usually likely
+
+7. [mcq, 2 pt] A new employee for a local skilled nursing center is asked to undergo a physical before beginning work along with several other new hires. She is tested for hearing, vision, blood pressure and BMI. What kind of screening design is this?
+    A) Selective screening
+    B) Multiphasic
+    C) Mass health examination
+    D) Mass screening
+
+8. [mcq, 2 pt] Examples of common vector borne diseases include
+    A) Chicken pox, Measles and Mumps
+    B) Whooping cough, Tetanus and German measles
+    C) Malaria, Rabies, Lyme Disease and Typhus
+    D) Diabetes, Lung Cancer, and Heart Failure
+
+9. [mcq, 2 pt] Which of these are not a major risk factor for cardiovascular disease
+    A) Obesity
+    B) Elevated G reactive protein
+    C) Tobacco use
+    D) High LDL cholesterol
+
+10. [mcq, 2 pt] This measure tells us the proportion of disease in the total population that are the result of exposure
+    A) Incidence rate
+    B) Attributable risk
+    C) Population Attributable Risk
+    D) Disability Adjusted Life Years
+
+11. [mcq, 2 pt] The Aedes aegypti mosquito is the vector for Zika. Which other viral infection spread by the Aedes aegypti reappeared in South America in 1967 after being eradicated in the 1940s?
+    A) Malaria
+    B) West Nile Virus
+    C) Chikungunya
+    D) Yellow fever
+
+12. [mcq, 2 pt] Microorganisms that cause disease are
+    A) Pathological
+    B) Pathogenic
+    C) Physiological
+    D) Photogenic
+
+13. [mcq, 2 pt] Primary prevention includes
+    A) Early diagnosis and treatment
+    B) Health promotion and high risk protection
+    C) Disability limitation and rehabilitation
+    D) Late stage diagnosis and health promotion
+
+14. [mcq, 2 pt] Epidemiologic studies that examine the role of a suspected factor in the etiology of a disease may be observational or experimental. The most important difference between experimental and observational studies is that
+    A) The investigator in an experimental study determines who shall be exposed to the suspected factor and who shall not
+    B) Experimental studies occur over a long period of time while observational studies tend to be shorter in length
+    C) Experimental studies cannot determine causation between a factor and a disease, while observational studies can
+    D) Experimental studies tend to have a larger focus group and so include more participants.
+
+15. [mcq, 2 pt] Point epidemics and clustering are examples of disease occurrence according to
+    A) Status
+    B) Time
+    C) Place
+    D) Person
+
+16. [mcq, 2 pt] The comparison of rates of Meningitis among Latin Americans in rural versus urban settings would be a comparison of characteristic by
+    A) Status
+    B) Person
+    C) Place
+    D) Time
+
+17. [mcq, 2 pt] How does descriptive epidemiology differ from analytic epidemiology?
+    A) Descriptive studies focus on the distribution of a disease in a population, while analytical studies focus on the determinants of disease.
+    B) Descriptive studies focus on diseases while analytic studies focus on populations
+    C) Descriptive studies focus on populations while analytic studies focus on diseases
+    D) Descriptive studies focus on the determinants of a disease in a population, while analytical studies focus on the distribution of disease.
+
+19. [mcq, 2 pt] A disease detective doing a field study with a nearby health department in Columbus is bitten by a tick and possibly infected with lyme disease. The tick in this scenario is an example of a
+    A) Fomite
+    B) Vehicle
+    C) Nuisance
+    D) Vector
+
+20. [mcq, 2 pt] A novel diabetes medicine is being tested during a clinical trial with over 2,000 patients. The participants in the study are not aware if they are receiving the medicine or a placebo. The researchers performing the experiment do know what participants are receiving. This is an example of
+    A) Single blind study
+    B) Double blind study
+    C) Ecologic study
+    D) Case series
+
+
+=== Part II- Matching ===
+
+[STIMULUS] Match each study type below to its corresponding description
+
+21. [mcq, 2 pt] A method of sampling a population in which researchers identify and enroll cases of disease and a sample of the source population that gave rise to the cases.
+    A) Cross- sectional
+    B) Cohort
+    C) Experimental study
+    D) Ecological study
+    E) Case- Control
+
+22. [mcq, 2 pt] The high degree of validity in which type of study stems mainly from the investigator's ability to randomize subjects to either the treatment group or the comparison group and thereby control for distortions produced by confounding variables.
+    A) Cross- sectional
+    B) Cohort
+    C) Experimental study
+    D) Ecological study
+    E) Case- Control
+
+23. [mcq, 2 pt] Which type of study evaluates an association using the population rather than the individual as the unit of analysis?
+    A) Cross- sectional
+    B) Cohort
+    C) Experimental study
+    D) Ecological study
+    E) Case- Control
+
+24. [mcq, 2 pt] Which type of studies typically take a snapshot of a population at a single point in time and therefore usually measures the disease prevalence, exposure prevalence, or relationship between the two?
+    A) Cross- sectional
+    B) Cohort
+    C) Experimental study
+    D) Ecological study
+    E) Case- Control
+
+25. [mcq, 2 pt] Which type of observational study examines one or more health effects/outcomes of exposure to a single agent?
+    A) Cross- sectional
+    B) Cohort
+    C) Experimental study
+    D) Ecological study
+    E) Case- Control
+
+
+=== Part IV – Birth Defects ===
+
+[STIMULUS] 
+
+Researchers at Ohio State want to investigate the correlation between birth defects and infant mortality. To accomplish this they observed a group of 1,000 newborn infants born during a certain week at the university hospital. Of these newborns, 100 infants were born with serious birth defects and 20 of these 100 died during the first year of life. 90 of the 900 remaining infants without any birth defects also died during the first year of life.
+
+28. [frq, 2 pt] Calculate the overall cumulative incidence of mortality in this population
+
+29. [frq, 2 pt] Calculate cumulative incidence difference in mortality between infants with serious birth defects and those without
+
+
+=== Part IV- Food Poisoning ===
+
+[STIMULUS] Use the following outbreak to answer the next five questions
+
+At a recent tailgate party in Columbus, Ohio at least 50 buckeye fans became ill with what appeared to be food poisoning. Three clinics in the area treated and released 38 attendees who complained of nausea and vomiting; others with similar symptoms were kept overnight. A health official noted that all of the patients had eaten a pregame lunch at the party host's house.
+
+The tailgate lunch menu included grilled chicken, hot dogs, and a vegetable lasagna dish. Because some of the people who became ill were vegetarian, there was particular interest in determining whether the lasagna might be contaminated. At the time of the report, health officials were still investigating the source of the outbreak. The party host was cooperating in the investigation and had refrained from further serving any food.
+
+31. [frq, 1 pt] Explain why you might consider this problem important enough to investigate. Give at least two reasons for investigating.
+
+32. [frq, 4 pt] Briefly describe the beginning steps required to investigate this scenario. Name the type of data needed to complete each step and provide examples of sources of said data in a population
+
+33. [frq, 3 pt] Develop and specify a probable hypothesis to explain the cause, source, and spread of the outbreak.
+
+34. [frq, 2 pt] Describe an approach to testing alternative hypotheses.
+
+35. [frq, 4 pt] Develop suitable recommendations and interventions for controlling the issue
+
+
+=== Part V- Cancer ===
+
+[STIMULUS] 
+
+Colorectal cancer (CRC) is the second most common cause of cancer mortality in the United States. Recent studies have found that appropriate screening can reduce CRC mortality. Modifiable risk factors, such as smoking and high alcohol consumption, are also associated with both CRC incidence and deaths.
+
+The investigators undertook a study design to identify if other behaviors or risk factors, apart from genetic mutation, may be risk factors of CRC. All 200 participants who developed CRC and 400 randomly selected participants without CRC from the Precision Medicine Study were included in this study. All consented participants completed a computer-based questionnaire during the follow-up visits, including questions about smoking history, alcohol consumption history, daily exercise, history of colonoscopy screening, as well as socioeconomic characteristics.
+
+Among participants who had CRC, 142 had a smoking history, 108 had more than 10 drinks per week, and 37 had a colonoscopy screening in the past 10 years. Among participants who did not have CRC, 137 had a smoking history, 197 had more than 10 drinks per week, and 199 had a colonoscopy screening in the past 10 years.
+
+36. [frq, 1 pt] Define recall bias and describe how it may play a role in this study
+
+40. [frq, 2 pt] Based on the study that the epidemiologists undertook, comment on one of Hill's criteria of causation and how the study design either addressed or did not address the criteria you selected.

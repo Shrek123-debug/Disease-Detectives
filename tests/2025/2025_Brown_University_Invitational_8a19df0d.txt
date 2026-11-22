@@ -1,0 +1,878 @@
+Brown University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  75 questions, 116.0 pts
+Source: scio.ly test archive id 8a19df0d-a370-47d1-9d7f-d4a5617a13a5  |  original files: https://drive.google.com/drive/folders/1Ci0C62oIbeLmZOQ_S5QGYibYA_ZxZo2e
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+
+=== SECTION #1: General Knowledge ===
+
+[STIMULUS] Match the terms in the word bank with their corresponding descriptions.
+
+A. Pathogenicity
+B. Case-cohort study
+C. Virulence
+D. Ecological Fallacy
+E. Type I error
+F. Primary study base
+G. Specificity
+H. Type II error
+I. Secondary study base
+J. Berkson's Bias
+K. Years of life lost
+L. Sensitivity
+M. Effect Modifier
+N. Nested case-control study
+O. Confounder
+P. Nosocomial Disease
+Q. Hazard Ratio
+R. Years of potential life lost (YPLL)
+S. Neyman Bias
+T. Matched-pairs study
+U. Preventive Fraction
+V. t-test
+W. Wilcoxon Rank Sum Test
+X. Iatrogenic Disease
+
+P1-1. [mcq, 1 pt] Inferences about individual-level associations are made from group-level data
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-2. [mcq, 1 pt] Test used for non-parametric data or skewed data
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-3. [mcq, 1 pt] A measure used in survival analysis to compare the risk of an event occurring in the treatment and control groups at any time-point
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-4. [mcq, 1 pt] This study design matches controls to cases based on time of case diagnosis
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-5. [mcq, 1 pt] Deals with false positives
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-6. [mcq, 1 pt] Strength or direction of relationship between exposure and outcome altered by this variable
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-7. [mcq, 1 pt] A measure of the number of years of life lost due to premature death
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-8. [mcq, 1 pt] A bias that occurs when individuals with severe or mild disease are excluded
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-9. [mcq, 1 pt] Deals with false negatives
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-10. [mcq, 1 pt] The ability of a test to correctly identify those who have a disease or condition.
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-11. [mcq, 1 pt] Cases in case-control study identified before study base identified
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-12. [mcq, 1 pt] Ability for agent to cause disease
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-13. [mcq, 1 pt] Test used for parametric data and often follows a normal distribution
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-14. [mcq, 1 pt] This study design selects controls based on random sampling
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-15. [mcq, 1 pt] Accounts for all or part of apparent association between exposure and outcome
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-16. [mcq, 1 pt] A selection bias that occurs when a sample is drawn from a clinical setting
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-18. [mcq, 1 pt] This study design matches cases to controls based on similar characteristics
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-19. [mcq, 1 pt] The proportion of disease risk that is prevented by a specific intervention
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-20. [mcq, 1 pt] Population is defined before start of study and is the source of all cases
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-21. [mcq, 1 pt] A measure of correctly identifying individuals who do not have a disease or condition.
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-22. [mcq, 1 pt] Disease caused by medication or by a medical professional
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-23. [mcq, 1 pt] Severity of disease caused by agent on host
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-24. [mcq, 1 pt] Disease contracted in a healthcare setting
+    A) Pathogenicity
+    B) Case-cohort study
+    C) Virulence
+    D) Ecological Fallacy
+    E) Type I error
+    F) Primary study base
+    G) Specificity
+    H) Type II error
+    I) Secondary study base
+    J) Berkson's Bias
+    K) Years of life lost
+    L) Sensitivity
+    M) Effect Modifier
+    N) Nested case-control study
+    O) Confounder
+    P) Nosocomial Disease
+    Q) Hazard Ratio
+    R) Years of potential life lost (YPLL)
+    S) Neyman Bias
+    T) Matched-pairs study
+    U) Preventive Fraction
+    V) t-test
+    W) Wilcoxon Rank Sum Test
+    X) Iatrogenic Disease
+
+P1-T1. [tf, 2 pt] The Framingham Heart Study was one of the first large-scale cohort studies.
+    A) True
+    B) False
+
+P1-T3. [tf, 2 pt] A test that is more likely to find slow-growing cancers is an example of length-time bias.
+    A) True
+    B) False
+
+P1-T4. [tf, 2 pt] Chi-squared tests are appropriate for continuous data.
+    A) True
+    B) False
+
+P1-T5. [tf, 2 pt] The term "epidemiology" was first coined in the 19th century by Edwin Chadwick.
+    A) True
+    B) False
+
+P1-M1. [mcq, 2 pt] Which of the following is the most important first step in an outbreak investigation?
+    A) Implement control measures
+    B) Confirm the outbreak
+    C) Develop a hypothesis
+    D) Prepare a final report
+
+P1-M2. [mcq, 2 pt] Which of the following is a secondary prevention measure?
+    A) Quarantine measures
+    B) Vaccination
+    C) Health education
+    D) Early diagnosis
+
+P1-M3. [mcq, 2 pt] Which of the following best compares traditional and newer methods for assessing causality?
+    A) Bradford Hill criteria focus on individual factors, while Directed Acyclic Graphs (DAGs) and Sufficient/Component Cause models account for complex interactions and multiple causes.
+    B) Koch's postulates are widely applicable to chronic diseases, while GRADE methods are outdated for causal inference.
+    C) Bradford Hill criteria and Koch's postulates provide equally flexible frameworks for causality in infectious and non-infectious diseases.
+    D) Directed Acyclic Graphs (DAGs) are rarely used in epidemiology, focusing mostly on simple causal relationships.
+
+P1-M4. [mcq, 2 pt] Which scenario below is an example of sentinel surveillance?
+    A) Patients or providers voluntarily report adverse reactions following vaccination to the Vaccine Adverse Event Reporting System (VAERS)
+    B) Every fifth person at a primary care office gets tested for COVID in a high prevalence area
+    C) Searching for reports of influenza-like illness in the area following a suspected anthrax attack
+    D) Following an outbreak of listeria associated with a restaurant, the CDC contacts healthcare providers for a list of patients with listeria symptoms
+
+P1-M5. [mcq, 2 pt] If it turns out that exposure to Shmup was recently found to be linked with Glarble when it was previously that Shmup led to Bluckus, which causal criterion has been undermined?
+    A) Plausibility
+    B) Coherence
+    C) Analogy
+    D) Specificity
+
+P1-M6. [mcq, 2 pt] A population is first divided into mutually exclusive sub-groups and then a researcher aims to sample 5% of one sub-group. Which type of sampling method best describes this scenario?
+    A) Convenience sampling
+    B) Quota sampling
+    C) Stratified random sampling
+    D) Snowball sampling
+
+P1-M7. [mcq, 2 pt] These infectious agents are unicellular and are often the cause of parasitic infections
+    A) Prions
+    B) Bacteria
+    C) Fungi
+    D) Protists
+
+P1-M8. [mcq, 2 pt] As part of a phase III clinical trial investigating the efficacy of a new infusion against Crohn's Disease, participants are randomly assigned to receive an infusion via IV or are given the infusion solvent via IV. What type of control is best described in this scenario?
+    A) Vehicle control
+    B) Positive control
+    C) Intravenous control
+    D) Negative control
+
+P1-M9. [mcq, 2 pt] DNA is ____ charged and DNA segments used in Pulsed Field Gel Electrophoresis are ____ than those used in traditional gel electrophoresis
+    A) Positively; larger
+    B) Positively; smaller
+    C) Negatively; larger
+    D) Negatively; smaller
+
+P1-M10. [mcq, 2 pt] Colonoscopies are recommended for adults over the age of 45 and involve removing precancerous/cancerous colon polyps. What level of prevention is this?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+
+=== SECTION #2: Botulism Outbreak ===
+
+[STIMULUS] A new shipment of bedding, including pillows and mattresses arrives at a local hospital. Several days after the bedding is used in patient rooms, an outbreak of laboratory-confirmed botulism occurs among patients and staff. Symptoms included fatigue, vertigo, blurred vision, and difficulty swallowing and speaking. The following data is collected:
+    [IMAGE: ../images/2025_brown_university_invitational_c__p4_68a58b-b53359a6.webp]
+
+P2-3. [frq, 1 pt] How could Berkson's Bias affect the validity of this study?
+
+P2-4. [frq, 1 pt] What is one way you could minimize Berkson's bias in this case?
+
+[STIMULUS] Write a case definition for the outbreak. Include suspected, probable, and confirmed cases in your definitions.
+    | Label | Answer |
+    | Suspected Suspected case | [[q:P2-5-a]] |
+    | Probable Probable case | [[q:P2-5-b]] |
+    | Confirmed Confirmed case | [[q:P2-5-c]] |
+
+P2-5-a. [frq, 1 pt] Suspected Suspected case
+
+P2-5-b. [frq, 1 pt] Probable Probable case
+
+P2-5-c. [frq, 1 pt] Confirmed Confirmed case
+
+P2-7. [frq, 1 pt] Given that the botulism outbreak is associated with the use of the new bedding, what is the most likely mechanism of transmission?
+
+P2-8. [frq, 1 pt] Which surveillance system is best suited for tracking cases of botulism and identifying outbreaks in real time in this hospital setting?
+
+
+=== SECTION #3: Avian Influenza ===
+
+[STIMULUS] H5N1, more commonly known as avian influenza or "bird flu", is a strain of Influenza A that most commonly infects poultry. In recent years, H5N1, which was mainly confined to Asia, has spread globally and into new species of mammals, endangering wildlife, agricultural production— and potentially—human health. Indeed, in rare cases, humans can get sick from infected animals.
+
+Although person-to-person transmission has not been observed, public health officials are deeply concerned about the devastating potential of a variant known as Highly Pathogenic Avian Influenza (HPAI), which has been documented to have a mortality rate of nearly 50%. As such, it is a key public health priority to prevent an H5N1 pandemic before it manifests.
+
+P3-1. [frq, 1 pt] What is the term used to describe a widespread outbreak of a disease amongst animals across a large geographic region?
+
+P3-2. [frq, 1 pt] When a human contracts avian influenza after consuming infected poultry, it is called a ____ infection.
+
+P3-3. [multi, 2 pt] Which of the following statements about H5N1 are currently accurate? Select all that apply.
+    A) H5N1 was introduced to humans via a spillover event.
+    B) H5N1 can be transmitted horizontally but not vertically.
+    C) H5N1 typically infects hosts via fomites and vectors.
+    D) H5N1 does not exhibit airborne transmission.
+
+P3-4. [frq, 6 pt] Name the links of the Chain of Infection. Identify a specific example for each within the context of this case study.
+
+P3-6. [frq, 2 pt] Why is vaccination so important? Provide two reasons.
+
+P3-7. [frq, 1 pt] Vaccination is an example of the ____ level of prevention.
+
+P3-8. [multi, 3 pt] Which of these terms accurately describe the immunity produced by vaccines? Select all that apply.
+    A) Humoral
+    B) Cellular
+    C) Passive
+    D) Active
+    E) Artificial
+    F) Natural
+
+[STIMULUS] In anticipation of a potential H5N1 pandemic, researchers have explored several new technologies for a new H5N1 vaccine.
+
+| | H5N1 | No H5N1 |
+|---|---|---|
+| Vaccine | 420 | 1580 |
+| No Vaccine | 1590 | 410 |
+
+P3-9. [frq, 3 pt] Using the data above, calculate the efficacy of this vaccine. Please show your work and provide an interpretation of your result. Note: Give your answer as a percentage to the tenths place.
+
+P3-10. [frq, 3 pt] The United States has a population of 335 million people. Assuming that each individual infected with avian influenza causes two more people to be infected, how many Americans would have to be vaccinated to achieve herd immunity? Note: Give your answer with three significant figures.
+
+P3-11. [frq, 2 pt] Realistically, is herd immunity achievable at the national level? Explain why or why not with two specific reasons.
+
+
+=== SECTION #4: Alzheimer's Disease ===
+
+[STIMULUS] Alzheimer's disease is a disease that impairs memory and other essential functions, which often has a delayed diagnosis due to its progressive nature. In late-stages, the individual may lose the ability to walk or stand without assistance. No conclusive evidence determines whether infectious agents are responsible for AD. Development of AD is thought to involve deposition of β-amyloid in the brain, which leads to neurofibrillary tangles composed of tau protein. Recent treatments aim to target these amyloid plaques to slow clinical disease progression.
+    [IMAGE: ../images/2025_brown_university_invitational_c__p6_48f2fa-fcbf6234.webp]
+
+P4-1a. [frq, 1 pt] Using the information given to you, write a plausible and AD-specific definition for each component in the natural history of disease.
+    
+    Define every component in your single answer below. Example (exposure component, for listeria): exposure to listeria comes from ingesting contaminated food or touching contaminated surfaces
+
+[STIMULUS] A recent study aimed to evaluate the clinical benefits of donanemab, a monoclonal antibody designed to clear amyloid plaques, against early symptomatic AD. 120 participants were randomly assigned to receive donanemab infusions or placebo IV infusions.
+
+The clinical outcomes of the trial were as follows:
+
+| | Donanemab | Control | Total |
+|---|---|---|---|
+| Improved Memory | 24 | 12 | 36 |
+| No Change | 30 | 45 | 75 |
+| Worsened Memory | 6 | 3 | 9 |
+| Total | 60 | 60 | 120 |
+    | Label | Answer |
+    | **P4-2a.** Follow the below steps to determine significance of the above data
+
+a. Fill in the following table |  |
+    | 24 Observed 24 – Expected | [[q:P4-2a-24]] |
+    | 30 Observed 30 – Expected | [[q:P4-2a-30]] |
+    | 6 Observed 6 – Expected | [[q:P4-2a-6]] |
+    | 12 Observed 12 – Expected | [[q:P4-2a-12]] |
+    | 45 Observed 45 – Expected | [[q:P4-2a-45]] |
+    | 3 Observed 3 – Expected | [[q:P4-2a-3]] |
+
+P4-2a-24. [frq, 1 pt] Label 24 Observed 24 – Expected
+
+P4-2a-30. [frq, 1 pt] Label 30 Observed 30 – Expected
+
+P4-2a-6. [frq, 1 pt] Label 6 Observed 6 – Expected
+
+P4-2a-12. [frq, 1 pt] Label 12 Observed 12 – Expected
+
+P4-2a-45. [frq, 1 pt] Label 45 Observed 45 – Expected
+
+P4-2a-3. [frq, 1 pt] Label 3 Observed 3 – Expected
+
+P4-2b. [frq, 3 pt] Follow the below steps to determine significance of the above data
+    
+    Calculate the chi-square statistic
+
+P4-2c. [frq, 2 pt] Follow the below steps to determine significance of the above data
+    
+    Calculate the degrees of freedom
+
+P4-2d. [frq, 2 pt] Follow the below steps to determine significance of the above data
+    
+    Determine if the result is significant at α = 0.05 and explain why in one sentence
+
+P4-3a. [frq, 3 pt] Over the course of the trial, 20 people did not complete the treatment protocol. We note the participants were required to come-in repeatedly for multiple infusions as part of the trial.
+    
+    a. Name and define the type of bias that may be of concern here in one sentence
+
+P4-3b. [frq, 2 pt] Over the course of the trial, 20 people did not complete the treatment protocol. We note the participants were required to come-in repeatedly for multiple infusions as part of the trial.
+    
+    Give 2 possible reasons why people did not complete the trial
+
+P4-3c. [frq, 2 pt] Over the course of the trial, 20 people did not complete the treatment protocol. We note the participants were required to come-in repeatedly for multiple infusions as part of the trial.
+    
+    When all participants are included in the statistical analysis, including those that dropped out, what type of analysis is performed?
+
+[STIMULUS] As previously mentioned, donanemab is available for patients with early-stage Alzheimer's, and is not intended for patients with more advanced stages of the disease. Therefore, for treatment to be effective for the greatest number of people, it is essential to detect the disease as early as possible.
+
+Suppose a biotechnology company has produced a new blood-based screening tool for early-stage AD based on a promising new clinical biomarker. The data below documents the results of their experiment to validate their technology. The experiment compared the diagnosis made by their test to the results obtained with positron emission tomography (PET), the "gold standard" for AD diagnosis.
+
+| | Positive PET Scan | Negative PET Scan |
+|---|---|---|
+| Positive Blood Test | 100 | 30 |
+| Negative Blood Test | 55 | 860 |
+
+P4-4. [frq, 1 pt] What level of prevention is disease screening?
+
+P4-5. [frq, 1 pt] Why might a blood-based diagnostic test be useful? Explain
+
+P4-6a. [frq, 1 pt] Using the data, calculate and interpret:
+    
+    a. Sensitivity
+
+P4-6b. [frq, 1 pt] Specificity
+
+P4-6c. [frq, 1 pt] Positive Predictive Value
+
+[STIMULUS] The company wants to see how test results might change depending on the technicians that handle the blood samples and equipment. The results from two highly-trained technicians are shown below:
+
+| | Technician 2 Positive Test | Technician 2 Negative Test |
+|---|---|---|
+| Technician 1 Positive Test | 30 | 10 |
+| Technician 1 Negative Test | 20 | 20 |
+
+P4-7. [frq, 5 pt] Calculate the Kappa statistic
+
+P4-8. [frq, 2 pt] What does the Kappa statistic assess? Hint: the answer is NOT agreement
+
+P4-9. [frq, 1 pt] Briefly provide an interpretation of the agreement

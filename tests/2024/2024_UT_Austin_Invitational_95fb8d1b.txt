@@ -1,0 +1,224 @@
+UT Austin Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  66 questions, 110.0 pts
+Source: scio.ly test archive id 95fb8d1b-87a7-443c-91bd-1330e3555e64  |  original files: https://drive.google.com/drive/folders/19gdTNiI6YWPoawNt7-iDM8l1Vw4YAIl_
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: Point values are indicated for all questions
+Good luck!
+
+
+=== Section 1: Causal Concerns ===
+
+[STIMULUS] An essential part of any research program is to determine causality. After all, what good are your results if they're not actually a product of your independent variable? In this section, you will take a look at a few case studies of interest to examine how epidemiologists look at causality when studying disease.
+
+Let's start by talking about Type-2 Diabetes, one of the most prevalent health problems facing America today. Studies across the literature have found a number of factors which are correlated with increased risk for developing diabetes. Figure 1, a Directed Acyclic Graph (DAG) shows these connections. (Sorry about how messy these graphs get, my R skills could use some work. . . .)
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p1_004a2b-3fe3b78c.webp]
+
+1. [mcq, 1 pt] What do the arrows in Fig. 1 represent?
+    A) Causal relationships
+    B) Assumptions about causal relationships between variables
+    C) Random guesses
+    D) Assumptions about the course of diabetes
+
+2. [tf, 1 pt] Does the graph tell us obstructive sleep apnea causes diabetes?
+    A) True
+    B) False
+
+[STIMULUS] Although this makes our DAG more complicated, we can include the fact that smoking, alcohol consumption, obesity, and obstructive sleep apnea are all parts of an unhealthy lifestyle (see Fig. 2, and also see what I mean about poorly constructed graphs on my part ;-;).
+
+Now, let's say you are only interested in examining the effect of alcohol consumption on diabetes. Figure 3 shows how you might control for confounding variables.
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p2_5846bc-dc59705c.webp]
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p3_a7eddb-18574764.webp]
+
+3. [frq, 2 pt] What type of study should you perform here?
+
+4. [frq, 2 pt] Name two advantages this study type has.
+
+5. [frq, 2 pt] Name two disadvantages this study type has.
+
+6. [frq, 1 pt] What type of study might have been used to generate the initial DAG (Fig 1. or 2.)?
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p1_004a2b-3fe3b78c.webp]
+
+7. [mcq, 2 pt] Is this more or less expensive than the study you identified in (3)?
+    A) More
+    B) Less
+
+8. [frq, 2 pt] Importantly, this study cannot be used to determine causality, although it can determine association. Why is this the case?
+
+9a. [frq, 1 pt] Looking at Figure 3, it's clear we want to control for obesity, smoking, and sleep apnea. Keeping the overall goals of our study in mind, would entirely excluding patients who are obese, who smoke, and/or who have sleep apnea be an effective control?
+
+9b. [frq, 2 pt] Looking at Figure 3, it's clear we want to control for obesity, smoking, and sleep apnea. Keeping the overall goals of our study in mind,
+    
+    Justify your response.
+
+9c. [frq, 2 pt] Looking at Figure 3, it's clear we want to control for obesity, smoking, and sleep apnea. Keeping the overall goals of our study in mind,
+    
+    What tradeoff in validity is this question getting at?
+
+10. [frq, 4 pt] Let's unpack our attempt to control for obesity a bit more. Why might it be especially complicated to control for a person's weight when considering the relationship between alcohol and diabetes?
+
+11. [frq, 1 pt] So far we have only thought about controlling for confounds in our DAG. Propose a more general method of controlling for potential bias in our study as a whole, before we even begin collecting data.
+
+12a. [frq, 1 pt] We call Fig. 3 the minimally sufficient adjustment set. What does this mean?
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p3_a7eddb-18574764.webp]
+
+[STIMULUS] You carry out the study you identified in question 3 and collect the following data:
+    |  | **Has diabetes** | **Does not have diabetes** |
+    | **Consumes more alcohol than average** | 1,809 | 967 |
+    | **Consumes less alchol than average** | 2,130 | 1,963 |
+
+15. [frq, 1 pt] From what you have calculated thus far can you conclude if there is a causal relationship between alcohol consumption and diabetes?
+
+[STIMULUS] Ozempic is a commonly prescribed drug for type 2 diabetes. It acts as a GLP-1 agonist, meaning it mimics the behavior of GLP-1, a molecule that increases insulin secretion.
+
+18b. [frq, 2 pt] You want to perform a study on the effects of Ozempic on diabetes directly, rather than on insulin secretion. One effect of Ozempic is that it decreases appetite, often leading to weight loss. Will controlling for weight add additional confounds?
+
+19. [frq, 1 pt] This study will be a double-blind clinical trial. What does this mean?
+
+20. [mcq, 1 pt] Is this an analytical or descriptive study?
+    A) Analytical
+    B) Descriptive
+
+21. [frq, 1 pt] You can also describe this type of study as an intervention. Besides clinical trials, name another type of trial that is characterized as an intervention.
+
+[STIMULUS] Let's go even bigger picture. We want to look at the effect of Ozempic on overall mortality rate in the treatment vs control groups.
+
+23a. [frq, 1 pt] Is Fig. 5's DAG a minimally sufficient adjustment set for this scenario? Are all necessary elements included?
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p5_44a2a7-c892d563.webp]
+
+23b. [frq, 3 pt] Justify your response.
+
+24. [frq, 1 pt] Ozempic has been shown in randomized control trials to be effective at increasing insulin secretion. Does this mean Ozempic has high effectiveness, high efficacy, or both?
+
+[STIMULUS] To make clinical practice recommendations, most major health organizations employ the GRADE approach. What does each letter in GRADE stand for?
+    | Label | Answer |
+    | G | [[q:25-G]] |
+    | R | [[q:25-R]] |
+    | A | [[q:25-A]] |
+    | D | [[q:25-D]] |
+    | E | [[q:25-E]] |
+
+25-G. [frq, 1 pt] Label G
+
+25-R. [frq, 1 pt] Label R
+
+25-A. [frq, 1 pt] Label A
+
+25-D. [frq, 1 pt] Label D
+
+25-E. [frq, 1 pt] Label E
+
+26. [mcq, 1 pt] One of the 5 GRADE domains for evidence rating is indirectness. Let's say the recommendation of concern is for American men, but the study for which the recommendation is based was performed on European women. Would this increase or decrease the GRADE rating for quality of evidence?
+    A) Increase
+    B) Decrease
+
+27. [frq, 1 pt] Another domain of GRADE is imprecision. What is the confidence interval most commonly used for this part of the rating?
+
+28. [frq, 1 pt] Consistency is also an important part of GRADE. What is the most commonly used statistical quantification of heterogeneity?
+
+29. [tf, 1 pt] For your study on the link between smoking and diabetes, would controlling for potential confounds reduce the GRADE risk of bias?
+    A) True
+    B) False
+
+
+=== Section 2: Foodborne Follies ===
+
+[STIMULUS] PulseNet is a network of labs across the US that helps epidemiologists identify new foodborne disease outbreaks, automatically reporting data in real time to the CDC.
+
+30. [mcq, 1 pt] Is this an example of passive or active surveillance?
+    A) Passive
+    B) Active
+
+31. [frq, 2 pt] Justify your response.
+
+32. [frq, 1 pt] PulseNet was originally named after a specific technique for genotyping. What is this technique?
+
+33. [frq, 4 pt] In 2019, PulseNet switched its standard method to Whole Genome Sequencing (WGS). Name 2 advantages WGS has over the technique you identified in (32)?
+
+34. [frq, 2 pt] What is one disadvantage of WGS as part of PulseNet?
+
+35. [frq, 1 pt] Let's think about the steps involved in PulseNet surveillance. Robert visits his PCP, Dr. Han, with symptoms of vomiting, diarrhea, and stomach cramps. Dr. Han suspects Robert has a foodborne illness, and sends a stool sample to the hospital's clinical laboratory. Is the next step for the clinical lab to send data to the CDC?
+
+36. [frq, 2 pt] If not, what would the next step be? If it is, write N/A.
+
+37. [mcq, 1 pt] Would transmission of a foodborne illness, such as this one, be characterized as vector, vehicle, or contact transmission?
+    A) Vector
+    B) Vehicle
+    C) Contact
+
+38. [frq, 2 pt] You, a scientist at the CDC, notice an unusually high number of cases of a specific serotype of E. coli, including Robert. What is the next step of a PulseNet investigation?
+
+39. [frq, 1 pt] Eventually, your team of CDC investigators identify a grouping of 70 cases with this serotype, all clustered in a specific area and occurring over a period of 5 days. Would you characterize this as an outbreak?
+
+40. [frq, 1 pt] After further investigation you find 65 of these people attended a potluck lunch at their local community center. Several other attendees display the same symptoms, but do not have laboratory confirmation. What type of cases are these?
+
+41. [frq, 1 pt] What type of case is Robert's?
+
+42. [frq, 1 pt] You want to identify the specific food at the potluck that caused the outbreak. In other words, you are trying to determine the...
+
+43. [mcq, 1 pt] Although the potluck took place 15 days ago, Robert only started displaying symptoms and visited his PCP 10 days ago. Is this 5 day gap the latent period or incubation period?
+    A) Latent period
+    B) Incubation period
+
+44. [mcq, 2 pt] You interview all of the potluck attendees to determine what foods they ate. Is this a
+    A) Case-control study?
+    B) Cross-sectional study?
+    C) Retrospective cohort study?
+    D) Prospective cohort study?
+
+45. [frq, 4 pt] You find the appropriate measure of risk is highest for the caesar salad, but you don't yet know if this is statistically significant. State the null and alternative hypothesis for this scenario.
+
+46. [frq, 2 pt] On a side note, why does it make sense we might find E. Coli in a caesar salad?
+
+[STIMULUS] The following is the 2x2 table:
+    |  | **Positive** | **Negative** |
+    | **Ate salad** | 51 | 9 |
+    | **Did not eat salad** | 4 | 63 |
+
+48a. [frq, 1 pt] α = 0.05. What does setting the alpha level at 0.05 mean for our study?
+
+48b. [frq, 3 pt] Do you reject or fail to reject the null hypothesis? Why? A p-value table is shown in Figure 6.
+    [IMAGE: ../images/2024_ut_austin_invitational_b_c_2__p6_ca6e97-4eaf5614.webp]
+
+49. [frq, 3 pt] The E. coli is eventually traced back to a specific local farm where one of the attendees purchased the lettuce for the salad. Identify 1 potential control measure to address the outbreak now that you know the cause.
+
+50. [frq, 6 pt] There are 6 components of the chain of infection—name them, in any order.
+
+51. [frq, 6 pt] What are these components for this specific E. Coli outbreak?
+
+52. [frq, 1 pt] You want to prevent further E. Coli outbreaks from taking place. What level of prevention would you characterize enforcing more stringent cleaning requirements at farms as?
+
+53. [frq, 1 pt] What about clearer labeling on lettuce sold in supermarkets that emphasizes the importance of washing produce?
+
+55. [frq, 2 pt] Does our relationship fulfill the criteria for biological plausibility? Justify your answer.
+
+56. [mcq, 1 pt] Is this outbreak point source, continuous common source, or propagated?
+    A) point source
+    B) continuous common source
+    C) propagated
+
+57. [frq, 2 pt] Describe the epi-curve you would expect for this type of outbreak.
+
+
+=== Section 3: Chronic Chronicles ===
+
+[STIMULUS] One area of very active public health research is on long COVID and Chronic Fatigue Syndrome (CFS).
+
+58. [frq, 1 pt] We still don't have a lot of data on the general prevalence of CFS across the US, not to mention its potential causes. To quickly and cheaply get an overview of the current prevalence of CFS, what type of study should you perform?
+
+59. [frq, 1 pt] If you were to take the data from this study and compile them into a map showing the relative prevalence of CFS across US counties, what type of map would this be?
+
+61. [frq, 3 pt] Let's say you find that the prevalence of CFS is much higher in the suburbs of New York City than in upstate New York. While there could be some weird infectious disease in upstate NY that's not found at all in NYC suburbs, that seems pretty unlikely. In reality, there are probably factors unrelated to the disease itself that cause this disparity. What might these be?
+
+64. [frq, 1 pt] Previous studies have found that some sort of previous infection usually precedes CFS (just like with long COVID). You want to find out if any particular infections general lead to CFS, but you really do not have a good sense of what diseases you should be looking for. What type of study should you perform to find this?
+
+[STIMULUS] The PACE trial was an infamous study performed on the efficacy of cognitive-behavioral therapy (CBT) to reduce symptoms of CFS. The study found that there was some sort of psychological component to CFS that could be minimized by therapy. Many scientists now discredit the results of this study due to poor study design and biases.
+
+65. [frq, 1 pt] What level of prevention would CBT be in this study?
+
+66. [frq, 2 pt] One potential bias was introduced by the fact that efficacy was partly assessed by simply asking people how effective they perceived the therapy to be. What type of bias would this be?
+
+67. [mcq, 1 pt] From the beginning, the study very loosely defined what "recovery" or even what CFS really was. Would this increase or decrease the internal validity of the study?
+    A) increase
+    B) decrease
+
+68. [frq, 1 pt] Although the specific results of the PACE study are questionable, there is undoubtably a two-way link between physical symptoms of a disease and psychological factors. If CBT to decrease stress in vulnerable individuals was used as a tool to prevent disease from occurring in the first place, what level of prevention would this be?

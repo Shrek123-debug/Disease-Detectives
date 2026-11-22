@@ -1,0 +1,438 @@
+Iolani Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  48 questions, 48.0 pts
+Source: scio.ly test archive id ff203970-4d1e-4eae-97af-e7a9ed527cde  |  original files: https://drive.google.com/drive/folders/1tBevfGz0vVUfvhGj1x51NpPOMlOYGK8_
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: For multiple choice questions, always choose the BEST answer. When given a list from which answers are to be chosen, the list may contain more choices than you need, or are correct, and in some sets of questions, the same choice may be correct for more than one answer.
+
+
+=== II. Associate each study characteristic numbered 11-18 with one of the below study types (A-D). ===
+
+[STIMULUS] A. Cross-sectional
+B. Case Control
+C. Experimental
+D. Cohort
+
+11. [mcq, 1 pt] Investigator determines through a controlled process the exposure for each individual (clinical trial) or community (community trial), and then tracks the individuals or communities over time to detect the effects of the exposure.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+12. [mcq, 1 pt] Can use a prospective (forward in time) or retrospective (backward in time) approach.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+13. [mcq, 1 pt] Uses odds ratio to quantify the relationship between exposure and disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+14. [mcq, 1 pt] Investigators measure the exposures and health outcomes of a sample of persons in a population simultaneously.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+15. [mcq, 1 pt] Selection of the appropriate comparison group is key to the strength of this design.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+16. [mcq, 1 pt] Investigator records whether each study participant is exposed or not, and then tracks the participants to see if they develop the disease of interest.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+17. [mcq, 1 pt] Investigators identify a group of people with a disease and a group of persons without disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+18. [mcq, 1 pt] Uses relative risk to quantify the relationship between exposure and disease.
+    A) Cross-sectional
+    B) Case Control
+    C) Experimental
+    D) Cohort
+
+
+=== III. State whether each of the following statements is True (T) or False (F). ===
+
+19. [tf, 1 pt] Obesity is a food borne illness.
+    A) True
+    B) False
+
+20. [tf, 1 pt] Not all foodborne illnesses are caused by germs.
+    A) True
+    B) False
+
+21. [tf, 1 pt] Mad cow disease (bovine spongiform encephalopathy) is caused by a virus.
+    A) True
+    B) False
+
+22. [tf, 1 pt] All foodborne illnesses can be prevented by proper pasteurization and refrigeration.
+    A) True
+    B) False
+
+23. [tf, 1 pt] To provide a case definition in connection with an outbreak it is enough to describe the symptoms and how the illness progresses.
+    A) True
+    B) False
+
+24. [tf, 1 pt] As part of defining and identifying cases, an epidemiologist also identifies risk factors and possible causes.
+    A) True
+    B) False
+
+25. [tf, 1 pt] The ‘epidemiologic triad’ consists of ‘agent’, ‘host’ and ‘the chain of infection’.
+    A) True
+    B) False
+
+
+=== IV. Match the number of the epidemiology terms 26-37 on the left with the letter (from A-N) of the correct definition from the right. ===
+
+[STIMULUS] | | | | |
+|---|---|---|---|
+| 26 | Agent | A | Animate intermediary that carries an agent from a reservoir to a susceptible host |
+| 27 | Carrier | B | Aquatic sources of disease |
+| 28 | Fomite | C | Disease capable of being transmitted from one person to another by contact or close proximity |
+| 29 | Distribution | D | Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group |
+| 30 | Endemic | E | Factor that is essential for a disease, chronic conditions, or injury to occur |
+| 31 | Contagious | F | Frequency and pattern of health-related characteristics and events in a population |
+| 32 | Vector | G | Habitat in which an infectious agent normally lives, grows, and multiplies |
+| 33 | Host | H | Inanimate object capable of carrying infectious agents and transferring them from one person to another |
+| 34 | Incidence | I | Infectious disease that is transmitted from animals to humans |
+| 35 | Reservoir | J | Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die |
+| 36 | Virulence | K | Most direct route by which a disease is transmitted |
+| 37 | Zoonosis | L | Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease |
+| | | M | Person or other living organism that is susceptible to an infectious agent under natural conditions |
+| | | N | Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population |
+
+26. [mcq, 1 pt] Agent
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+27. [mcq, 1 pt] Carrier
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+28. [mcq, 1 pt] Fomite
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+29. [mcq, 1 pt] Distribution
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+30. [mcq, 1 pt] Endemic
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+31. [mcq, 1 pt] Contagious
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+32. [mcq, 1 pt] Vector
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+33. [mcq, 1 pt] Host
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+34. [mcq, 1 pt] Incidence
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+35. [mcq, 1 pt] Reservoir
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+36. [mcq, 1 pt] Virulence
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+37. [mcq, 1 pt] Zoonosis
+    A) Animate intermediary that carries an agent from a reservoir to a susceptible host
+    B) Aquatic sources of disease
+    C) Disease capable of being transmitted from one person to another by contact or close proximity
+    D) Disease, chronic condition, or type of injury is constantly present in a given geographic area or population group
+    E) Factor that is essential for a disease, chronic conditions, or injury to occur
+    F) Frequency and pattern of health-related characteristics and events in a population
+    G) Habitat in which an infectious agent normally lives, grows, and multiplies
+    H) Inanimate object capable of carrying infectious agents and transferring them from one person to another
+    I) Infectious disease that is transmitted from animals to humans
+    J) Measure of severity of a disease, expressed as the proportion of people with the disease who become extremely ill or die
+    K) Most direct route by which a disease is transmitted
+    L) Person or animal who harbors the infectious agent for a disease and can transmit it to others, but does not show signs of the disease
+    M) Person or other living organism that is susceptible to an infectious agent under natural conditions
+    N) Rate that measures the frequency with which a health problem, such as a new injury or case of illness, occurs in a population
+
+
+=== V. For each numbered item 38-50, choose the lettered option that best completes or answers it. ===
+
+38. [mcq, 1 pt] Food handlers should observe these to minimize occurrence of foodborne illnesses:
+    A) Wash hands, cutting boards, utensils, and countertops.
+    B) Keep raw meat, poultry, and seafood separate from ready-to-eat foods.
+    C) Use a food thermometer to ensure that foods are cooked to a safe internal temperature.
+    D) Keep the refrigerator below 40°F and refrigerate food that will spoil.
+    E) all of the above
+    F) (A), (B) and (D) only
+
+39. [mcq, 1 pt] Consumers can minimize the risk of catching foodborne illnesses by the following:
+    A) avoiding raw or undercooked foods of animal origin such as eggs and ground meat
+    B) avoiding unpasteurized milk
+    C) avoid raw or undercooked oysters
+    D) becoming a strict vegetarian
+    E) all of the above
+    F) (A), (B) and (C) only
+
+40. [mcq, 1 pt] An article in a January 2012 issue of a CDC publication begins by mentioning deaths caused by drug overdose, and speaks of prescription drug overdose having become an epidemic in the US. Prescription drugs are medications prescribed by licensed physicians. Overdose refers to taking larger quantities than is safe for health.
+    
+    Which of the following are suggested by this report?
+    A) Most overdoses are related to some behavioral illness.
+    B) Mental illness is more and more on the increase in the U.S.
+    C) The occurrence of drug overdose in the U.S. has noticeably increased when compared to previous time periods.
+    D) The occurrence of prescription drug overdose qualifies as an epidemic because it causes deaths.
+    E) All of the above
+    F) Only C. and D.
+
+43. [mcq, 1 pt] Major epidemics or pandemics of the following have been reported in the last decade.
+    A) Avian flu
+    B) Cholera
+    C) Dengue fever
+    D) Smallpox
+    E) all of the above
+    F) only (A), (B), and (C)
+
+44. [mcq, 1 pt] Which of the following is NOT true about norovirus infection?
+    A) it is a foodborne illness
+    B) it causes gastroenteritis
+    C) it is easily treated with antibiotics
+    D) none of the above
+    E) both (B) and (C)
+
+45. [mcq, 1 pt] Which of the following is true about Cyclospora cayetanensis
+    A) it has been implicated in foodborne illnesses
+    B) it is transmitted the fecal-oral route
+    C) it is associated with ‘traveler’s diarrhea’
+    D) it is a protozoan
+    E) all of the above
+    F) only (A) and (B)
+
+
+=== VI. The chart below shows the number of persons who became ill after eating contaminated food. Based on the chart, state whether each of the statements 46-50 is True (T) or False (F) ===
+
+[STIMULUS] Number of persons
+12
+10
+8
+6
+4
+2
+0
+11/1 11/6 11/11 11/16 11/21 11/26 12/1 12/6 12/11 12/16 12/21 12/26 12/31 1/5 1/10
+2010 2011
+Date of Illness Onset
+Illnesses that began during this time may not be reported yet
+    [IMAGE: ../images/iolani_invitational__p4_v32fa83-c58a34b7.webp]
+
+46. [tf, 1 pt] The majority of persons affected by this outbreak had signs and symptoms of the disease around the period of 11/23/2010 to 12/5/2010.
+    A) True
+    B) False
+
+47. [tf, 1 pt] According to the chart, the food or beverage item that was contaminated and caused the illness was first consumed on 11/1/2010.
+    A) True
+    B) False
+
+48. [tf, 1 pt] This kind of chart is referred to as an epi curve or epidemic curve
+    A) True
+    B) False
+
+49. [tf, 1 pt] This outbreak pattern is consistent with a common source outbreak with continuous exposure.
+    A) True
+    B) False
+
+50. [tf, 1 pt] The data presented allows us to conclude that the total number of persons exposed to the disease agent between 11/1 and 11/15 were 11.
+    A) True
+    B) False
+
+
+=== VII. An outbreak of severe stomach illness occurred following a student party. Disease detectives took up the challenge to investigate and obtained the following data of association of specific food eaten at the party and having the illness. ===
+
+[STIMULUS] | Food | Cases Ate | Cases Did Not Eat | Cases Total | Cases %Ate | Controls Ate | Controls Did Not Eat | Controls Total | Controls %Ate |
+|---|---|---|---|---|---|---|---|---|
+| Baked Ham | 29 | 17 | 46 | 63.04 | 17 | 12 | 29 | 58.62 |
+| Spinach | 26 | 20 | 46 | 56.52 | 17 | 12 | 29 | 58.62 |
+| Mashed potatoes | 23 | 23 | 46 | 50.00 | 14 | 14 | 28 | 50.00 |
+| Jello | 16 | 30 | 46 | 34.78 | 7 | 22 | 29 | 24.14 |
+| Rolls | 21 | 25 | 46 | 45.65 | 16 | 13 | 29 | 55.17 |
+| Cake | 27 | 19 | 46 | 58.70 | 13 | 16 | 29 | 44.83 |
+| Ice cream | 43 | 3 | 46 | 93.48 | 11 | 18 | 29 | 37.93 |
+| Milk | 2 | 44 | 46 | 4.35 | 2 | 27 | 29 | 6.90 |
+| Water | 13 | 33 | 46 | 28.26 | 11 | 18 | 29 | 37.93 |
+    [IMAGE: ../images/iolani_invitational__p5_v1a3c0a-429cf4fd.webp]
+
+51. [mcq, 1 pt] Which food had the highest risk associated with it?
+    A) Baked Ham
+    B) Spinach
+    C) Mashed potatoes
+    D) Jello
+    E) Rolls
+    F) Cake
+    G) Ice cream
+    H) Milk
+    I) Water
+
+52. [frq, 1 pt] Write out the arithmetic expression using the numbers in the chart for calculating the relative risk of eating the food with the highest risk.
+
+53. [frq, 1 pt] Simplify the expression in 52 and write the result.
+
+54. [frq, 1 pt] Write out the arithmetic expression (with numbers from the chart) for calculating the percentage of those who ate food at the party who developed illness?
+
+55. [frq, 1 pt] Simplify the expression in 54 and write the result.
+
+56. [frq, 1 pt] Write out the arithmetic expression (with numbers from the chart) for calculating the attack rate (in %) for persons who ate mashed potatoes?
+
+57. [frq, 1 pt] Simplify the expression in 56 and write the result.
+
+58. [frq, 1 pt] Write the arithmetic expression (with numbers from the chart) for the odds ratio for those who ate ice cream.
+
+59. [frq, 1 pt] Simplify the expression 58 and write the result.
+
+60. [frq, 1 pt] How many students ate at the party?

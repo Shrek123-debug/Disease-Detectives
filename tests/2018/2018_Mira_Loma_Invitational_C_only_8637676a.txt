@@ -1,0 +1,881 @@
+Mira Loma Invitational (C only) — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  80 questions, 109.0 pts
+Source: scio.ly test archive id 8637676a-a2f3-4cd9-84cb-ff574acd257b  |  original files: https://drive.google.com/drive/folders/1Vz6d8PiGfYzk0QDA1cG0ESvFNf_hgW4H
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== Section I ===
+
+P1-1. [frq, 4 pt] What are Koch's Postulates?
+
+P1-3. [frq, 6 pt] What are the 6 steps for the chain of infection?
+
+[STIMULUS] Match the terms to their definitions
+
+A. Severity of disease
+B. Most people in group are immune; the entire group is immune
+C. A disease that is native to a certain area
+D. Study of the causes of disease
+E. Time in between contact with pathogen and infection
+F. Capacity for a disease to spread
+G. Cases grouped over time and place
+H. More diseases than expected in a certain area/time
+I. An animal that transmits disease
+J. Capacity to cause disease
+K. A physical object that serves to transmit an infectious agent from person to person
+L. A prevalent disease over a country or the world
+M. The transmission of a disease through animals
+N. Number of new diseases in pop. over time
+O. A misfolded protein that causes disease
+P. Temporary immunity imparted to fetus from mother
+Q. Total cases of disease in pop. at a period of time
+R. A widespread occurrence of an infectious disease
+S. Time in between contact with pathogen and symptoms
+T. The first patient in an epidemiological study
+U. Systematic collection, analysis, sharing of health data
+V. Immunity to disease that one's been prior infected with
+
+P1-5. [mcq, 1 pt] Pandemic
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-6. [mcq, 1 pt] Outbreak
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-7. [mcq, 1 pt] Cluster
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-8. [mcq, 1 pt] Fomite
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-9. [mcq, 1 pt] Prion
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-10. [mcq, 1 pt] Incidence
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-11. [mcq, 1 pt] Prevalence
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-12. [mcq, 1 pt] Incubation Period
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-13. [mcq, 1 pt] Latent Period
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-14. [mcq, 1 pt] Etiology
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-15. [mcq, 1 pt] Vector
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-16. [mcq, 1 pt] Zoonosis
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-17. [mcq, 1 pt] Endemic
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-18. [mcq, 1 pt] Index Case
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-19. [mcq, 1 pt] Surveillance
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-20. [mcq, 1 pt] Herd Immunity
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-21. [mcq, 1 pt] Active Immunity
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-22. [mcq, 1 pt] Passive Immunity
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-23. [mcq, 1 pt] Infectivity
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-24. [mcq, 1 pt] Pathogenicity
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+P1-25. [mcq, 1 pt] Virulence
+    A) Severity of disease
+    B) Most people in group are immune; the entire group is immune
+    C) A disease that is native to a certain area
+    D) Study of the causes of disease
+    E) Time in between contact with pathogen and infection
+    F) Capacity for a disease to spread
+    G) Cases grouped over time and place
+    H) More diseases than expected in a certain area/time
+    I) An animal that transmits disease
+    J) Capacity to cause disease
+    K) A physical object that serves to transmit an infectious agent from person to person
+    L) A prevalent disease over a country or the world
+    M) The transmission of a disease through animals
+    N) Number of new diseases in pop. over time
+    O) A misfolded protein that causes disease
+    P) Temporary immunity imparted to fetus from mother
+    Q) Total cases of disease in pop. at a period of time
+    R) A widespread occurrence of an infectious disease
+    S) Time in between contact with pathogen and symptoms
+    T) The first patient in an epidemiological study
+    U) Systematic collection, analysis, sharing of health data
+    V) Immunity to disease that one's been prior infected with
+
+[STIMULUS] Label each disease with its respective agent: bacteria, virus, protists(excavata), prion, fungi, abiotic exposure:
+
+P1-26. [mcq, 1 pt] Botulism
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-27. [mcq, 1 pt] Shigella
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-28. [mcq, 1 pt] Wart
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-29. [mcq, 1 pt] Lead poisoning
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-30. [mcq, 1 pt] Japanese Encephalitis
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-31. [mcq, 1 pt] Rift-Valley fever
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-32. [mcq, 1 pt] Histoplasmosis
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-33. [frq, 1 pt] Sleeping Sickness
+
+P1-34. [mcq, 1 pt] minamata disease
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+P1-35. [mcq, 1 pt] Fatal Familial Insomnia
+    A) bacteria
+    B) virus
+    C) protists(excavata)
+    D) prion
+    E) fungi
+    F) abiotic exposure
+
+[STIMULUS] Match each food and waterborne illness to the facts about them:
+
+A. fecally contaminated water, fatigue and cramps
+B. ground beef, fecal contamination, 1-10 day inc per
+C. processed meats, soft cheeses, refrigerated seafood
+D. Poorly canned food
+E. raw poultry, water, inc 2-5 days
+F. shellfish, produce, 12-48 hr inc period,
+G. beef, poultry, 6-24 hr inc period, diarrhea
+H. eggs, poultry, dairy,
+I. contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-36. [mcq, 1 pt] Salmonella
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-37. [mcq, 1 pt] Norovirus
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-38. [mcq, 1 pt] Campylobacter
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-39. [mcq, 1 pt] E. coli
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-40. [mcq, 1 pt] Listeria
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-41. [mcq, 1 pt] Clostridium perfringens
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-42. [mcq, 1 pt] Cholera
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-43. [mcq, 1 pt] Beaver Fever
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+P1-44. [mcq, 1 pt] Botulism
+    A) fecally contaminated water, fatigue and cramps
+    B) ground beef, fecal contamination, 1-10 day inc per
+    C) processed meats, soft cheeses, refrigerated seafood
+    D) Poorly canned food
+    E) raw poultry, water, inc 2-5 days
+    F) shellfish, produce, 12-48 hr inc period,
+    G) beef, poultry, 6-24 hr inc period, diarrhea
+    H) eggs, poultry, dairy,
+    I) contaminated water, causes dehydration and diarrhea, not found in developed countries
+
+[STIMULUS] Recently the city of Scranton has experienced an unfortunate outbreak after the annual Spring Festival. Within three days of the outbreak, people began to fall ill, experiencing nausea, diarrhea, and even convulsions. There were 203 attendees at the festival and you know what they ate and if they are sick or not.
+
+| | Sick | Healthy |
+|---|---|---|
+| Ate Kevin's Chili-dogs | 48 | 112 |
+| Did not eat the chili-dogs | 7 | 36 |
+
+P1-45. [frq, 2 pt] Write your hypotheses for a chi-squared test:
+
+P1-46. [frq, 4 pt] What is the chi-squared statistic?
+
+P1-47. [frq, 2 pt] What is the p-value?
+
+P1-48. [frq, 1 pt] How many degrees of freedom?
+
+P1-49. [frq, 2 pt] Find the odds ratio?
+
+P1-50. [frq, 2 pt] Find the relative risk?
+
+P1-51. [frq, 2 pt] Would you use the odds ratio or relative risk, why?
+
+P1-53. [frq, 1 pt] Who was Jonas Salk?
+
+P1-54. [frq, 1 pt] Who was Ronald Ross?
+
+P1-55. [frq, 1 pt] Who was Carlo Urbani?
+
+[STIMULUS] Fill in the blanks corresponding with this table of different types of studies (need two advantages and one disadvantage)
+    | Study Name | Advantage 1 | Advantage 2 | Disadvantage |
+    | Case Control | [[q:P1-56a]] | [[q:P1-56b]] | [[q:P1-56c]] |
+    | Cohort | [[q:P1-56d]] | [[q:P1-56e]] | [[q:P1-56f]] |
+    | Cross-Sectional | [[q:P1-56g]] | [[q:P1-56h]] | [[q:P1-56i]] |
+    | Randomized Controlled Trials | [[q:P1-56j]] | [[q:P1-56k]] | [[q:P1-56l]] |
+
+P1-56a. [frq, 1 pt] Case Control — Advantage 1
+
+P1-56b. [frq, 1 pt] Case Control — Advantage 2
+
+P1-56c. [frq, 1 pt] Case Control — Disadvantage
+
+P1-56d. [frq, 1 pt] Cohort — Advantage 1
+
+P1-56e. [frq, 1 pt] Cohort — Advantage 2
+
+P1-56f. [frq, 1 pt] Cohort — Disadvantage
+
+P1-56g. [frq, 1 pt] Cross-Sectional — Advantage 1
+
+P1-56h. [frq, 1 pt] Cross-Sectional — Advantage 2
+
+P1-56i. [frq, 1 pt] Cross-Sectional — Disadvantage
+
+P1-56j. [frq, 1 pt] Randomized Controlled Trials — Advantage 1
+
+P1-56k. [frq, 1 pt] Randomized Controlled Trials — Advantage 2
+
+P1-56l. [frq, 1 pt] Randomized Controlled Trials — Disadvantage
+
+[STIMULUS] Classify each of the following studies as:
+
+A. Experimental
+B. Observational cohort
+C. Observational case-control
+D. Observational cross-sectional
+
+P1-57. [mcq, 1 pt] Representative sample of residents were telephoned and asked how much they exercise each week and whether they currently have (have ever been diagnosed with) heart disease.
+    A) Experimental
+    B) Observational cohort
+    C) Observational case-control
+    D) Observational cross-sectional
+
+P1-58. [mcq, 1 pt] Occurrence of cancer was identified between April 1991 and July 2002 for 50,000 troops who served in the first Gulf War (ended April 1991) and 50,000 troops who served elsewhere during the same period.
+    A) Experimental
+    B) Observational cohort
+    C) Observational case-control
+    D) Observational cross-sectional
+
+P1-59. [mcq, 1 pt] Persons diagnosed with new-onset Lyme disease were asked how often they walk through woods, use insect repellent, wear short sleeves and pants, etc. Twice as many patients without Lyme disease from the same physician's practice were asked the same questions, and the responses in the two groups were compared.
+    A) Experimental
+    B) Observational cohort
+    C) Observational case-control
+    D) Observational cross-sectional
+
+P2-60. [mcq, 1 pt] Subjects were children enrolled in a health maintenance organization. At 2 months, each child was randomly given one of two types of a new vaccine against rotavirus infection. Parents were called by a nurse two weeks later and asked whether the children had experienced any of a list of side-effects.
+    A) Experimental
+    B) Observational cohort
+    C) Observational case-control
+    D) Observational cross-sectional
+
+[STIMULUS] 
+    [IMAGE: ../images/mira_loma_invitational_c_only__p8_e02496-8cb048aa.webp]
+
+P2-61. [frq, 1 pt] Is this epidemic curve consistent with a point-source epidemic? (That is, do all of the cases occur with one incubation period?)
+
+P2-62. [frq, 1 pt] What is the peak of the outbreak or the median date of onset?
+
+P2-64. [frq, 1 pt] When is the beginning of the outbreak?
+
+[STIMULUS] In December 2003, an outbreak of gastroenteritis occurred among tenth-grade students who had participated in a city-wide field trip. Half of the students traveled from December 2 to December 7 (Tour A); the other half traveled from December 3 to December 8 (Tour B). The itineraries were similar. Although teachers and other adult chaperones accompanied the students on both tours, no adult reported illness. In addition, no illness was reported among students who did not go on the field trip, and no cases of E. coli O157 were reported in the community that week.
+
+A line listing of 26 persons with symptoms of abdominal pain and/or diarrhea is presented below. Using the information in the line listing, develop a case definition that you might use for the outbreak investigation. [Note that persons infected with E. coli O157 typically experience severe abdominal cramps, bloody diarrhea, and low grade fever after a 1– to 8–day incubation period (usually 2–4 days).]
+
+**Table 6.4 Line Listing of 26 Persons with Symptoms — School District A, December 2003**
+
+| Patient # | Grade & School | Age | Sex | Tour | Onset Date | Severe Abdominal Pain? | No. Times Diarrhea | Stool Testing |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 10 — 1 | 17 | M | A | Dec. 8 | Y | 3 | Not done |
+| 2 | 10 — 1 | 16 | F | A | Dec. 6 | N | 1 | Negative |
+| 3 | 10 — 2 | 16 | M | A | Dec. 10 | Y | 2 | E. coli O157 |
+| 4 | 10 — 2 | 17 | F | A | Dec. 8 | Y | 3 | Not done |
+| 5 | 10 — 2 | 16 | F | A | Dec. 5 | Y | 8 | E. coli O157 |
+| 6 | 10 — 2 | 16 | M | A | Dec. 6 | Y | 3 | Not done |
+| 7 | 10 — 3 | 17 | M | A | Dec. 7 | Y | 4 | Not done |
+| 8 | 10 — 3 | 17 | F | A | Dec. 8 | Y | 2 | E. coli O157 |
+| 9 | 10 — 3 | 16 | F | A | Dec. 7 | Y | 3 | Negative |
+| 10 | 10 — 4 | 17 | F | A | Dec. 7 | Y | 2 | E. coli O157 |
+| 11 | 10 — 4 | 16 | M | A | Dec. 8 | Y | 3 | Not done |
+| 12 | 10 — 4 | 16 | M | A | Dec. 9 | Y | 3 | Negative |
+| 13 | 10 — 5 | 16 | F | A | Dec. 8 | Y | 3 | Not done |
+| 14 | 10 — 6 | 17 | F | B | Dec. 8 | Y | 3 | E. coli O157 |
+| 15 | 10 — 6 | 16 | F | B | Dec. 9 | Y | 2 | Negative |
+| 16 | 10 — 7 | 17 | F | B | Dec. 6 | Y | 3 | Not done |
+| 17 | 10 — 7 | 17 | F | B | Dec. 7 | Y | 5 | E. coli O157 |
+| 18 | 10 — 7 | 16 | F | B | Dec. 8 | Y | 2 | Negative |
+| 19 | 10 — 8 | 17 | F | B | Dec. 6 | Y | 5 | E. coli O157 |
+| 20 | 10 — 8 | 17 | F | B | Dec. 7 | Y | 3 | Negative |
+| 21 | 10 — 9 | 16 | M | B | Dec. 8 | Y | 2 | Not done |
+| 22 | 10 — 9 | 16 | F | B | Dec. 7 | Y | 3 | Negative |
+| 23 | 10 — 9 | 16 | F | B | Dec. 7 | Y | 3 | E. coli O157 |
+| 24 | 10 — 10 | 17 | F | B | Dec. 9 | Y | 3 | E. coli O157 |
+| 25 | 10 — 10 | 17 | M | B | Dec. 7 | N | 1 | Negative |
+| 26 | 10 — 10 | 16 | M | B | Dec. 6 | Y | 3 | Not done |
+
+P2-66. [frq, 10 pt] Construct a case definition for this outbreak.
+
+[STIMULUS] SCENARIO
+
+An asbestos removal company places great importance on the safety of their employees. The protective suits that the employees wear are designed to keep asbestos particles off the employee's body. The owner is interested in knowing the average amount of asbestos particles left on the employee's skin after a days work. A random sample of 100 employees had skin tests after removing their protective suit. The average number of particles found was .481 particles per square centimeter. Assuming that the population standard deviation is 0.35 particles per square centimeter, calculate a 95% confidence interval for the number of particles left on the employee's skin.
+
+P2-67. [frq, 5 pt] Calculate a 95% confidence interval for the number of particles left on the employee's skin.
+
+P2-68. [frq, 1 pt] Explain the following types of bias: Interviewer Bias:
+
+P2-69. [frq, 1 pt] Explain the following types of bias: Healthy User Bias:
+
+P2-70. [frq, 1 pt] Explain the following types of bias: Volunteer Bias:
+
+P2-71. [frq, 1 pt] Explain the following types of bias: Social Desirability:
+
+P2-72. [frq, 1 pt] Explain the following types of bias: Berksonian Bias:
+
+P2-73. [frq, 1 pt] Explain the following types of bias: Attrition Bias:
+
+P2-74. [frq, 1 pt] Explain the following types of bias: Observer Bias:

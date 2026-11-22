@@ -1,0 +1,789 @@
+Highlands Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  73 questions, 111.0 pts
+Source: scio.ly test archive id 652d11ce-914b-40c1-aebc-189107b88466  |  original files: https://drive.google.com/drive/folders/1uOGAVgh2_V__z9lp-muA9lmBrZXms_IL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: Thank you for participating in the Highlands Virtual Invitational 2023! Best of luck, and have fun!
+
+
+=== Part 1: Multiple Choice ===
+
+[STIMULUS] Choose the best answer for each of the following.
+
+1. [mcq, 2 pt] As of June 2023, who is the current director of the CDC?
+    A) Mandy Cohen
+    B) Florence Nightingale
+    C) Anne Schuchat
+
+2. [mcq, 2 pt] Who is the father of immunology?
+    A) John Snow
+    B) Louis Pasteur
+    C) Edward Jenner
+    D) Joseph Lister
+
+3. [mcq, 2 pt] Which of the following is not an emphasis of the clinical approach?
+    A) Primary focus is on individuals
+    B) Emphasis on diagnosing patients
+    C) Focus on treating patients
+    D) Focus on preventing disease
+
+4. [mcq, 2 pt] Which of the following represents secondary prevention of disease?
+    A) Yearly breast cancer screenings in women
+    B) Surgery of benign tumor
+    C) Vaccination for COVID-19
+    D) Promotion of washing hands for food workers
+
+5. [mcq, 2 pt] Which of the following is the best representative of a chart?
+    A) Histogram
+    B) Choropleth Map
+    C) Scatter Plot
+    D) Frequency Polygon
+
+6. [mcq, 2 pt] The difference between an epidemic and a pandemic is the difference in the disease's:
+    A) Severity
+    B) Spread
+    C) Method of transmission
+    D) Infectivity
+
+7. [mcq, 2 pt] Separating a sick person from well people is an example of:
+    A) Isolation
+    B) Quarantine
+    C) Grouping
+    D) Segregation
+
+8. [mcq, 2 pt] Which of the following is NOT an observational study?
+    A) Randomized Clinical Trial
+    B) Ecological Study
+    C) Case-Control
+    D) Cohort Study
+
+9. [mcq, 2 pt] Which of the following is NOT a step in the 5-step process for surveillance?
+    A) Data Validation
+    B) Data Collection
+    C) Data Analysis
+    D) Data Dissemination
+
+10. [mcq, 2 pt] Antivenom given to people bitten by venomous snakes confers what type of immunity?
+    A) Innate
+    B) Passive
+    C) Active
+    D) Acquired
+
+11. [mcq, 2 pt] Which of the following is NOT a member of the Epi-Triad?
+    A) Agent
+    B) Host
+    C) Environment
+    D) Method of Transmission
+
+12. [mcq, 2 pt] Steps for an outbreak investigation include all of the following except:
+    A) Verify the Diagnosis
+    B) Construct Case Definition
+    C) Evaluate Hypothesis
+    D) Reference Past Outbreaks
+
+13. [mcq, 2 pt] Viruses violate which of Koch's Postulates?:
+    A) The suspected pathogen must be present in every case of the disease
+    B) The suspected pathogen must be isolated and grown in pure culture
+    C) The suspected pathogen must cause disease when inoculated in a healthy host
+    D) The same pathogen must be reisolated from the diseased experimental host
+
+14. [multi, 1 pt] Epidemiologists contacting hospitals for reports of MRSA is what type of surveillance? Select all that apply.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+15. [multi, 2 pt] Select all of the following that are Bradford-Hill Criterion:
+    A) Strength
+    B) Temporality
+    C) Coherence
+    D) Plausibility
+
+
+=== Part 2: Terminology ===
+
+[STIMULUS] Match the following terms with the questions below. Note that some terms may be used more than once or not at all. Please spell the terms EXACTLY as given in the word bank (capitalize the first letter of every word) as these questions will be auto-graded.
+
+Word Bank:
+
+| Agent | Bimodal | Dot Plot | Histogram | Morbidity | Prevalence | Symptom |
+| --- | --- | --- | --- | --- | --- | --- |
+| Antigen | Carrier | Efficacy | Hyperendemic | Mortality | Reservoir | Validity |
+| Arbovirus | Census | Efficiency | Incubation Period | Notifiable Disease | Risk | Vehicle |
+| Attribute | Cluster | Epidemic | Latency Period | Pandemic | Sporadic | Virulence |
+| Bias | Cohort | Health | Line Listing | Pathogenicity | Subclinical | Zoonotic |
+
+16. [mcq, 2 pt] An inanimate object that can carry an agent from a reservoir to a susceptible host (e.g., food, water, blood products, and bedding).
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+18. [mcq, 2 pt] The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+21. [mcq, 2 pt] The constant presence at high incidence and prevalence of an agent or health condition within a given geographic area or population.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+22. [mcq, 2 pt] Any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+24. [mcq, 2 pt] A visual representation of the frequency distribution of a continuous variable.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+25. [mcq, 2 pt] The time from exposure to a causal agent to onset of symptoms of a (usually noninfectious) disease.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+26. [mcq, 2 pt] A disease that, by law, must be reported to public health authorities upon diagnosis.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+27. [mcq, 2 pt] The probability that an event will occur (e.g., that a person will be affected by, or die from, an illness, injury, or other health condition within a specified time or age span)
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+29. [mcq, 2 pt] Any departure, subjective or objective, from a state of physiological or psychological health and well-being.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+30. [mcq, 2 pt] A factor whose presence, excessive presence, or relative absence is essential for the occurrence of a disease.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+32. [mcq, 2 pt] A needle contaminated with HIV.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+33. [mcq, 2 pt] A person infected with the flu but has no apparent symptoms.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+34. [mcq, 2 pt] One example of this is an epicurve.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+35. [mcq, 2 pt] A report of 100 flu cases in a week in a school where the expected number of cases is 500 in a month.
+    A) Agent
+    B) Bimodal
+    C) Dot Plot
+    D) Histogram
+    E) Morbidity
+    F) Prevalence
+    G) Symptom
+    H) Antigen
+    I) Carrier
+    J) Efficacy
+    K) Hyperendemic
+    L) Mortality
+    M) Reservoir
+    N) Validity
+    O) Arbovirus
+    P) Census
+    Q) Efficiency
+    R) Incubation Period
+    S) Notifiable Disease
+    T) Risk
+    U) Vehicle
+    V) Attribute
+    W) Cluster
+    X) Epidemic
+    Y) Latency Period
+    Z) Pandemic
+    [) Sporadic
+    \) Virulence
+    ]) Bias
+    ^) Cohort
+    _) Health
+    `) Line Listing
+    a) Pathogenicity
+    b) Subclinical
+    c) Zoonotic
+
+
+=== Part 3: Real-World Case Study ===
+
+[STIMULUS] In August 2003, five siblings became immensely sick and were admitted to the hospital. Your job as an epidemiologist hired for the case is determining the cause of the deadly disease.
+
+Note - this question used data adapted from a real-world case study:
+Dierick, K. et al. (2005) Fatal family outbreak of bacillus cereus-associated food poisoning, Journal of clinical microbiology. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233987/.
+
+36. [frq, 3 pt] Why can't we perform a case-control study to determine the source of the infection?
+
+[STIMULUS] Below is a PFGE of samples taken from various possible sources of the infection. Each lane contains AscI-digested genomic bands from B. cereus isolates. The source of each isolate is given in the table to the right.
+
+PULSOTYPE: M A B C D. Gel electrophoresis image with lanes labeled M, A, B, C, D and molecular weight markers 2200, 1020, 750, 450, 225. Table: Source | Pulsotype; Vomit | C; Chocolate Milk | A; String Cheese | D; Green Beans | B; Pasta Salad | C.
+    [IMAGE: ../images/2023_highlands_invitational_b_c__p6_vcce7c0-b5eff6a1.webp]
+
+37. [frq, 1 pt] What does PFGE stand for?
+
+38. [frq, 1 pt] What is the purpose of the pulsotype labeled “M”?
+
+39. [frq, 1 pt] What does each pulsotype represent?
+
+
+=== Part 4: Fake World Case Study ===
+
+[STIMULUS] You are called in to investigate the outbreak of the bacteria A. velasco at Lowsky School in Diamond Town, Hawaii. Since June 9th, 2023, both students and faculty members have been reporting symptoms of diarrhea, nausea, and vomiting. You begin by recruiting volunteers based on whether or not they have been infected with A. velasco.
+
+41. [frq, 3 pt] What is the difference between a retrospective cohort study and a case-control? Which study should we use to investigate this outbreak?
+
+[STIMULUS] Since this is a rare disease within the US (with a prevalence of about 5%), only two tests exist to diagnose afflicted individuals. Below is a table containing data for the two tests:
+
+| Test | Correct Diagnosis | Incorrect Diagnosis |
+| --- | --- | --- |
+| A | 450 | 50 |
+| B | 400 | 100 |
+    [IMAGE: ../images/2023_highlands_invitational_b_c__p7_v202815-b02aeb6b.webp]
+
+42. [frq, 1 pt] Calculate the overall accuracy for test A and test B. Which test would you prefer?
+
+[STIMULUS] You implement your chosen test in your case study to diagnose patients. However, there appears to be something strange with the results of your data. Below is a table containing stratified data for test A and test B:
+
+| Test | True Positives | False Positives | True Negatives | False Negatives |
+| --- | --- | --- | --- | --- |
+| A | 0 | 0 | 450 | 50 |
+| B | 45 | 60 | 390 | 5 |
+
+43. [frq, 2 pt] What could be the source of the issue with your results? Why does this mean accuracy is a bad metric for evaluating the reliability of a test?
+
+44. [frq, 1 pt] Calculate the sensitivity and specificity for both test A and test B. Round to two decimal places, and express your answer in decimal form (NOT as a percentage).
+
+45. [frq, 1 pt] Interpret the value of sensitivity that you calculated for test A and test B.
+
+46. [frq, 3 pt] Which test should you use going forward to investigate your outbreak and why?
+
+[STIMULUS] With your reliable test in hand, you get ready to begin your investigation. However, there are a couple of steps that must be done beforehand.
+
+47. [frq, 4 pt] Develop a case definition for affected individuals in this outbreak.
+
+[STIMULUS] With that all in place, you begin testing and interviewing individuals to figure out what is the source of the outbreak. You are able to get data from a total of 100 individuals. Below is a table containing the results of your study (Exp. = exposed, Unexp. = unexposed):
+
+| Food | Exp. Ill | Exp. Well | Unexp. Ill | Unexp. Well |
+|---|---|---|---|---|
+| Brownies | 20 | 29 | 30 | 31 |
+| Hot Dogs | 23 | 28 | 19 | 30 |
+| Spaghetti | 28 | 17 | 28 | 27 |
+| Fruit Salad | 37 | 19 | 15 | 29 |
+| Chicken Nuggets | 19 | 21 | 20 | 40 |
+
+49. [frq, 1 pt] Based on your data, what is the most likely source of the outbreak? Interpret the appropriate statistic for this item.
+
+
+=== Part 5: Miscellaneous Trivia ===
+
+[STIMULUS] Determine which of Hill's criteria would be established by the following scenarios:
+
+50. [frq, 1 pt] A rare form of necrotizing fasciitis was found in teenagers who went swimming in stale water. The pathogen was found only in cases with the disease and was absent in controls.
+
+51. [frq, 1 pt] High school students reported experiencing abdominal cramps, vomiting, and dysentery approximately 3 hours after drinking the McDonald's Grimace shake.
+
+52. [frq, 1 pt] High school students who drank more of the Grimace shake reported higher severity and incidence of abdominal cramps, vomiting, and dysentery than those who drank less.
+
+53. [frq, 1 pt] Residents of all ages from both suburban and city environments reported coughing and chest tightness after being exposed to asbestos.
+
+[STIMULUS] In 1996, Fredericks and Relman suggested a revised version of Koch's postulates in order to make them more applicable. Describe each of the 7 revised postulates below:
+    | Item | Answer |
+    | 1 | [[q:56]] |
+    | 2 | [[q:57]] |
+    | 3 | [[q:58]] |
+    | 4 | [[q:59]] |
+    | 5 | [[q:60]] |
+    | 6 | [[q:61]] |
+    | 7 | [[q:62]] |
+
+56. [frq, 1 pt] Item 1
+
+57. [frq, 1 pt] Item 2
+
+58. [frq, 1 pt] Item 3
+
+59. [frq, 1 pt] Item 4
+
+60. [frq, 1 pt] Item 5
+
+61. [frq, 1 pt] Item 6
+
+62. [frq, 1 pt] Item 7
+
+[STIMULUS] Determine the type of bias represented by the following scenarios:
+
+63. [frq, 1 pt] When interviewing participants for a study, the surveyor asked unique questions for one group but standardized questions for another.
+
+64. [frq, 1 pt] Researchers look at risk factors for bladder cancer using a hospital-based case control study. They find very little association between smoking and bladder cancer, but when they look again they note that the rates of smoking are much higher in their hospital sample than in the general population. This distorts their established relationship between smoking and bladder cancer.
+
+65. [frq, 1 pt] Participants in a smoking study typically smoke 3-4 cigarettes a day, but smoke less when they discover they're being watched.
+
+66. [frq, 1 pt] When studying a disease, researchers decide to use medical records for one group and self-questionnaires for another.
+
+67. [frq, 1 pt] Researchers discover a direct relationship between ice cream sales and home invasion rates, while failing to take into account the variable of outdoor weather.
+
+68. [frq, 1 pt] Breast cancer patients remember their exposure to toxic substances more clearly than those without breast cancer.
+
+69. [frq, 1 pt] As a cohort study progresses over time, subjects begin dropping out; 30% of the cases are lost, whereas only 10% of the controls are lost.
+
+70. [frq, 1 pt] Researchers find that mortality rates between employed groups and the general population are biased, since those who are not healthy are less likely to be employed.
+
+71. [frq, 1 pt] Researchers studying probiotic supplementation discovered that their group's representation was skewed, as mothers interested in probiotics were more likely to volunteer for the study than others.
+
+72. [frq, 1 pt] Researchers discover that there are occasional errors in their work because of fluctuations in their instruments that occur due to chance.
+
+73. [frq, 1 pt] Although there is a relationship between a disease and a pathogen, researchers fail to realize this and instead accept that there is no relationship between the disease and the pathogen.
+
+74. [frq, 1 pt] Researchers accept that there is a direct relationship between salmonella and coffee beans, despite the fact that there really is no relationship.
+
+75. [frq, 1 pt] Researchers are studying an anti-anxiety drug and find that the drug improves participants' anxiety. However, when the data is sub-grouped, they discover that the drug actually worsens anxiety for those that are concurrently taking other medication.
+
+[STIMULUS] Answer the following questions about the Natural History of Disease:
+Name and describe the four levels of prevention:
+    | Item | Answer |
+    | 1 | [[q:76]] |
+    | 2 | [[q:77]] |
+    | 3 | [[q:78]] |
+    | 4 | [[q:79]] |
+
+76. [frq, 1 pt] Item 1
+
+77. [frq, 1 pt] Item 2
+
+78. [frq, 1 pt] Item 3
+
+79. [frq, 1 pt] Item 4
+
+80. [frq, 1 pt] What are the four stages (not preventions) of the natural history of disease?
+
+81. [frq, 1 pt] Between what two stages does exposure occur?
+
+82. [frq, 1 pt] Between what two stages does onset of symptoms occur?
+
+83. [frq, 1 pt] What stage of the natural history of disease does secondary prevention target?

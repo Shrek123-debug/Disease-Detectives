@@ -1,0 +1,415 @@
+Case Western Reserve University Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  68 questions, 165.0 pts
+Source: scio.ly test archive id 5045e6ac-76f9-4912-8fbd-fa06225ee4c7  |  original files: https://drive.google.com/drive/folders/1x4fl2rGF49l1imEp0Xg_zXCGqrXlZT3K
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Please do not use any materials that are prohibited; e.g., Internet. Some questions will have one answer and some will have multiple answers. Answer everything to the best of your ability. I apologize for any typos/errors. Good luck!
+
+1. [mcq, 1 pt] What is clinical approach mostly focused on?
+    A) Nutrition
+    B) Non-communicable diseases
+    C) Individuals
+    D) Populations
+    E) Empires
+    F) None of the above
+
+2. [mcq, 1 pt] What is the public health approach mostly focused on?
+    A) Nutrition
+    B) Non-communicable diseases
+    C) Individuals
+    D) Populations
+    E) Empires
+    F) None of the above
+
+3. [mcq, 1 pt] What type of epidemiology is mostly concerned about patients in a health care setting?
+    A) Shoe-leather epidemiology
+    B) Taxi epidemiology
+    C) Infectious disease epidemiology
+    D) Seroepidemiology
+    E) Clinical epidemiology
+
+4. [mcq, 1 pt] Which approach are epidemiologists mostly concerned about?
+    A) Clinical approach
+    B) Public health approach
+    C) Publishing papers approach
+    D) Public service approach
+    E) Direct approach
+    F) All of these approaches are of equal concern to epidemiologists
+
+5. [mcq, 1 pt] What is risk in epidemiology?
+    A) A strategy board game
+    B) The probability that an individual will be affected by, or die from, an illness or injury within a stated time or age span
+    C) The probability that a population will be affected by, or die from, an illness or injury within a stated time or age span
+    D) The number of cases occurring during a specific period
+    E) The proportion of exposed persons who become infected
+
+6. [mcq, 1 pt] What type of epidemiology is mostly concerned about conducting field studies?
+    A) Shoe-leather epidemiology
+    B) Taxi epidemiology
+    C) Infectious disease epidemiology
+    D) Seroepidemiology
+    E) Clinical epidemiology
+
+7. [mcq, 1 pt] What type of epidemiology is mostly concerned about detecting specific antibodies?
+    A) Shoe-leather epidemiology
+    B) Taxi epidemiology
+    C) Infectious disease epidemiology
+    D) Seroepidemiology
+    E) Clinical epidemiology
+
+8. [mcq, 1 pt] What type of surveillance is mostly concerned about specific geographic areas and its populations?
+    A) Active surveillance
+    B) Passive surveillance
+    C) Medical surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+
+9. [tf, 2 pt] Acquired active immunity is always stronger than artificial active immunity.
+    A) True
+    B) False
+
+10. [tf, 2 pt] Immunity can be inherited.
+    A) True
+    B) False
+
+11. [tf, 2 pt] Outbreaks can be neither common-source or propagated due to human-vector interactions.
+    A) True
+    B) False
+
+12. [tf, 2 pt] A "case report" is synonymous to a "case series" in epidemiology.
+    A) True
+    B) False
+
+13. [mcq, 3 pt] Which term(s) describes a disease that has infected an entire population?
+    A) Endemic only
+    B) Epidemic and pandemic
+    C) Pandemic only
+    D) Hyperendemic only
+    E) Holoendemic only
+    F) Hypoendemic only
+
+14. [mcq, 1 pt] What was the first formal ethical code for research?
+    A) The Treaty of Versailles
+    B) The Nuremberg Code
+    C) The Belmont Report
+    D) The Moscow Codification
+    E) The New York Resolution on Ethics
+
+15. [mcq, 1 pt] Which of the following first promulgated respect for persons, beneficence and justice in ethical research?
+    A) The Treaty of Versailles
+    B) The Nuremberg Code
+    C) The Belmont Report
+    D) The Moscow Codification
+    E) The New York Resolution on Ethics
+
+17. [multi, 3 pt] The definition of informed consent requires which of the following?
+    A) Consent given by a competent individual
+    B) A competent individual who has received the necessary information
+    C) A competent individual who considers the information and has arrived at a decision
+    D) A competent individual who has not been subjected to coercion, undue influence or inducement, or intimidation
+    E) A competent individual who has adequately understood the information
+
+18. [mcq, 3 pt] What does confidentiality mean?
+    A) The identity of the participant is never recorded
+    B) The researchers have guaranteed that the participant's identifying information will not be revealed
+    C) Some of the researchers do not know the identity of the participants
+    D) The research institution does not know the identity of the participants
+    E) All participants use pseudonyms
+    F) None of the above
+
+19. [multi, 3 pt] Which of the following is/are involved in the chain of infection?
+    A) Reservoir
+    B) Internet
+    C) Direct transmission
+    D) Indirect transmission
+    E) Host
+
+20. [multi, 3 pt] Which of the following are described in a case definition?
+    A) Weather
+    B) Person(s)
+    C) Place/location
+    D) Time (period)
+    E) Temperature
+
+21. [mcq, 3 pt] What stage(s) of disease coincide(s) with the incubation period?
+    A) Transmission
+    B) Susceptibility
+    C) Subclinical
+    D) Clinical
+    E) Death
+
+22. [multi, 3 pt] Which term(s) describe(s) the time from exposure to an agent to symptoms of the disease?
+    A) Exposure period
+    B) Incubation period
+    C) Latent period
+    D) Clinical period
+    E) Replication period
+
+23. [multi, 3 pt] Which of the following is/are characteristic(s) of well-performed epidemiological surveillance?
+    A) Security cameras for visual surveillance
+    B) Timeliness to public health authorities
+    C) Specificity of surveillance
+    D) Insensitivity in surveillance
+    E) All of the above
+    F) None of the above
+
+24. [tf, 2 pt] Public health surveillance includes information on chronic diseases and communicable diseases.
+    A) True
+    B) False
+
+25. [tf, 2 pt] Public health surveillance includes information on health-related behaviors and occupational hazards.
+    A) True
+    B) False
+
+[STIMULUS] Consider Koch's postulates:
+1. The microorganism must be found in abundance in all organisms suffering from the disease, but should not be found in healthy organisms.
+2. The microorganism must be isolated from a diseased organism and grown in pure culture.
+3. The cultured microorganism should cause disease when introduced into a healthy organism.
+4. The microorganism must be reisolated from the inoculated, diseased experimental host and identified as being identical to the original specific causative agent.
+
+26. [frq, 5 pt] Provide one example of a disease that violates the first postulate as listed above.
+
+27. [tf, 2 pt] Koch's postulates are still widely used in current epidemiological activity.
+    A) True
+    B) False
+
+[STIMULUS] There is an outbreak after a large eighty-person "New Year celebration" event on January 1, 2019. Fifty people ate a contaminated salad. Twenty-one people developed cyclosporiasis from the salad.
+
+28. [numeric, 4 pt] What is the food-specific attack rate? Round to the nearest hundredths.
+
+30. [numeric, 4 pt] There were 237 cases of a disease reported from a small city and 4 surrounding townships (about 200,000 people in total). Over the course of the outbreak, 56 people were hospitalized and 9 of them died. What was the case-fatality for this outbreak? Round to the nearest thousandths (or tenths for percentages).
+
+[STIMULUS] Use the following table of data for Random City to calculate the requested statistics. Round to the nearest thousandths.
+
+| | |
+|---|---|
+| Total Population for the year | 508,900 |
+| Number of Live Births | 3,721 |
+| Number of Maternal Deaths | 19 |
+| Total Deaths | 5,033 |
+| Number of Infant Deaths (0-1 year of age) | 43 |
+| Number of Persons Newly Diagnosed with Stroke | 7,849 |
+| Number of Deaths from Stroke | 2,371 |
+
+32. [numeric, 4 pt] What is the death to case ratio for stroke?
+
+33. [numeric, 4 pt] What is the proportionate mortality for stroke?
+
+34. [frq, 4 pt] What is the crude birth rate?
+
+35. [mcq, 3 pt] An epidemiological triad consists of an agent and what else?
+    A) Host and disease
+    B) Vector and portal of entry
+    C) Host and environment
+    D) Reservoir and transmission
+    E) Vector and host
+
+36. [tf, 2 pt] Generally speaking, if the duration of disease increases, the prevalence of the disease will also increase.
+    A) True
+    B) False
+
+37. [mcq, 1 pt] What is the first step in investigating an outbreak?
+    A) Inform the Department of Health and Human Services
+    B) Evacuate the area
+    C) Prepare for field work
+    D) Check that the outbreak is real
+    E) Isolate the population
+    F) Hoard supplies
+
+38. [multi, 3 pt] Which of the following pieces of information is/are necessary to establish the exposure period for a point-source outbreak?
+    A) Date of the last case of the outbreak
+    B) Date with the least cases in the outbreak
+    C) Minimum incubation period
+    D) Maximum incubation period
+    E) None of the above
+
+39. [frq, 4 pt] What is the exposure period (in days) for this point-source, non-communicable disease outbreak? The first case was reported on March 27, 2019. The date with the most number of cases (17) reported was April 8, 2019. The date with the least number of cases (3) reported was April 17, 2019. The last case was reported on April 19, 2019. The disease has an incubation period ranging from 9-48 days, with a median of 31 days and an average of 34 days. Respond in number of days; e.g., 99 days.
+
+40. [mcq, 1 pt] Consider the following figure. What is the common epidemiological name for this map?
+    [IMAGE: ../images/2021_case_western_reserve_university_invitational_c__p9_bf390b-24c936f7.webp]
+    A) Triangle Map
+    B) Town Map
+    C) Dot Map
+    D) Spot Map
+    E) City Map
+    F) Epidemiological Map
+
+41. [mcq, 1 pt] Consider the following figure. What is the common epidemiological name for this graph?
+    [IMAGE: ../images/2021_case_western_reserve_university_invitational_c__p9_21d630-638dab87.webp]
+    A) Disease bar chart
+    B) Blue box graph
+    C) Case chart
+    D) Contact tracing graph
+    E) Rectangular graph
+    F) Epicurve
+
+42. [mcq, 4 pt] Acetaminophen use in the first trimester of pregnancy is believed to cause neural tube defects. The estimated the risk of neural tube defects in the general population is 1:1,000. Which of the following is the best study design to investigate the hypothesis (calculate an odds ratio)?
+    A) Case-control Study
+    B) Randomized Controlled Trial
+    C) Ecological Study
+    D) Cross-sectional Study
+    E) Crossover Design Study
+
+43. [mcq, 4 pt] Patients with kidney issues were compared with patients without kidney issues. Their alcohol intake were compared to calculate the odds of alcoholism among patients with kidney issues to those without kidney issues. What was the type of study?
+    A) Case-control Study
+    B) Randomized Controlled Trial
+    C) Ecological Study
+    D) Cross-sectional Study
+    E) Crossover Design Study
+
+45. [mcq, 4 pt] A new drug for a disease was tested on patients that were confirmed to have the disease. Half of the patients received the new drug and the other half received the placebo. The groups were randomly assigned and the drug administers and patients both did not know who received what. What type of study was this?
+    A) Case study
+    B) Double-blind randomized clinical trial
+    C) Longitudinal
+    D) Prospective cohort
+    E) Retrospective cohort
+
+46. [mcq, 3 pt] What mistake are researchers making if they assume that a characteristic is definitively associated with a group's health-related state simply because a majority of the group has the characteristic?
+    A) Consensus bias
+    B) Majority error
+    C) Ecological fallacy
+    D) Koch's population bias
+    E) Relative fallacy
+
+47. [multi, 3 pt] Which of the following accurately describes Berkson's bias or collider bias?
+    A) It is a type of observer bias
+    B) It is a type of selection bias
+    C) It occurs when researchers select from a population larger than the targeted population
+    D) It occurs when the actual source population is a subpopulation of the intended source population
+    E) It occurs when researchers accidentally unblind themselves in a double-blind randomized clinical trial
+
+[STIMULUS] Use the following table to calculate the statistical values (round to the nearest hundredth, e.g. 0.99 for 0.9932123). Do not only put ".99". Make sure you put "0.99" otherwise it will be marked incorrect.
+
+|  | Diseased | Not Diseased |
+|---|---|---|
+| Positive | 49 | 6 |
+| Negative | 28 | 17 |
+
+48. [frq, 4 pt] The true positives are __, the false positives are __.
+
+49. [frq, 4 pt] The true negatives is __, and the false negatives is __.
+
+[STIMULUS] Using the table given for questions 48–49 above, the positive predictive value is __, and the negative predictive value is __.
+    | Label | Answer |
+    | Positive predictive value The positive predictive value is __ | [[q:51-a]] |
+    | Negative predictive value the negative predictive value is __ | [[q:51-b]] |
+
+51-a. [frq, 2 pt] Positive predictive value The positive predictive value is __
+
+51-b. [frq, 2 pt] Negative predictive value the negative predictive value is __
+
+52. [frq, 4 pt] The positive likelihood ratio is __, and the negative likelihood ratio is __.
+
+53. [frq, 2 pt] The prevalence of the disease is __.
+
+54. [mcq, 1 pt] A new test for a disease was created and tested. The above data was generated among the test participants. Would you recommend the test for the disease?
+    A) Yes
+    B) No
+    C) I don't know
+
+55. [frq, 4 pt] A new test for a disease was created and tested. The above data was generated among the test participants. Would you recommend the test for the disease? You previously answered "Yes", or "No", or "I don't know". Please explain your answer (1-3 sentences is enough; use previously calculated statistics for full points).
+
+56. [mcq, 1 pt] For an ideal model, what would be the area under the ROC curve (AUC)?
+    A) 0.95
+    B) 1.0
+    C) e
+    D) pi
+    E) 10
+
+57. [mcq, 1 pt] How many levels of prevention are generally accepted?
+    A) 0-1; there are no "levels" in prevention
+    B) 3-5
+    C) 8-10
+    D) 13-15
+    E) Depends on the specific field of epidemiology
+    F) Depends on the country
+
+58. [mcq, 1 pt] Secondary prevention is associated with which stage of disease?
+    A) Second wave
+    B) Susceptibility
+    C) Subclinical
+    D) Psychological
+    E) All of the above
+    F) None of the above
+
+60. [mcq, 3 pt] Which of the following constitute secondary prevention tactics?
+    A) ER visits
+    B) Regular screenings
+    C) Drinking "diet" drinks instead of sugar drinks
+    D) Immunizations
+    E) Promoting exercise
+
+61. [frq, 4 pt] Given that cyclosporiasis is a common parasite found on salads, what potential prevention tactics would you advise?
+
+62. [frq, 5 pt] Given that dengue fever is a disease transmitted by Aedes mosquitoes, what can residents do to prevent dengue?
+
+63. [tf, 2 pt] Incubation periods of a disease can vary widely (difference of years) from patient to patient.
+    A) True
+    B) False
+
+64. [tf, 2 pt] Latency periods can be only a few minutes.
+    A) True
+    B) False
+
+65. [tf, 2 pt] Latency periods can be years long.
+    A) True
+    B) False
+
+66. [tf, 2 pt] Latency periods can be decades long.
+    A) True
+    B) False
+
+[STIMULUS] 
+    [IMAGE: ../images/2021_case_western_reserve_university_invitational_c__p15_f729f0-a3a3b23b.webp]
+
+67. [mcq, 3 pt] Shown below are what kind of diagrams?
+    A) Wrath Pie Charts
+    B) Ruthman's Circle Graphs
+    C) Rothman's Causal Pies
+    D) Rath's Sufficient Cause Pies
+    E) Rath's Casual Pies
+    F) Ruthman's Pie Charts
+
+68. [multi, 3 pt] Identify the necessary cause(s) from the diagram shown below.
+    A) A
+    B) B
+    C) C
+    D) F
+    E) G
+    F) J
+
+69. [multi, 3 pt] Which of the following is/are not a possible goal of disease control measures?
+    A) Destruction of the environment
+    B) Elimination of the host
+    C) Elimination of the vector
+    D) Disruption of transmission methods
+    E) All of the above
+    F) None of the above
+
+71. [mcq, 1 pt] Ectoparasites reside where on a host's body?
+    A) Outside of the intestinal tract
+    B) Under the adipose tissues
+    C) Ectoplasms of amoebas
+    D) Any internal space; starts from an orifice
+    E) None of the above
+
+72. [mcq, 1 pt] Which epidemiologist(s) demonstrated that pellagra had nutritional causes?
+    A) John Snow
+    B) Edward Jenner
+    C) William Richard Doll
+    D) Joseph Goldberger
+    E) Ignaz Semmelweis
+
+73. [mcq, 1 pt] Which epidemiologist(s) helped link smoking to health problems in the mid-1900s?
+    A) John Snow
+    B) Edward Jenner
+    C) William Richard Doll
+    D) Joseph Goldberger
+    E) Ignaz Semmelweis
+
+74. [mcq, 1 pt] What does the CDC stand for?
+    A) Central Disease Command
+    B) Center for Drug Creation
+    C) Center for Disease Control and Prevention
+    D) Center for Diabetes Counseling and Assistance
+    E) Council for Disease Control
+    F) Council on Drug Consumption and Prescription

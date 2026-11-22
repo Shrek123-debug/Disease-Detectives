@@ -1,0 +1,321 @@
+Boyceville in person — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  69 questions, 116.0 pts
+Source: scio.ly test archive id 0cdd0d7b-4087-4f4a-8aa7-f8004dcafae8  |  original files: https://drive.google.com/drive/folders/1qh4NMF2m3DM_qbeAWUkZJEsjrZg_IIq1
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Round all calculations to two decimal places.
+
+
+=== Multiple Choice (Q1-Q20) ===
+
+1. [mcq, 1 pt] Which approach focuses on the health of populations rather than individuals?
+    A) Clinical approach
+    B) Public health approach
+    C) Individual health approach
+    D) Medical intervention approach
+
+2. [mcq, 1 pt] What is NOT one of the components in the agent-host-environment triad?
+    A) Transmission route
+    B) Agent
+    C) Host
+    D) Environment
+
+3. [mcq, 1 pt] Which type of study compares groups of people who have a disease with groups who do not?
+    A) Cohort study
+    B) Cross-sectional study
+    C) Case-control study
+    D) Ecological study
+
+4. [mcq, 1 pt] What is the term for a disease occurring at a higher rate than expected in a specific area?
+    A) Pandemic
+    B) Endemic
+    C) Outbreak
+    D) Vector
+
+5. [mcq, 1 pt] Which of these is **NOT** a step in the 5-step surveillance process?
+    A) Data collection
+    B) Treatment administration
+    C) Data analysis
+    D) Report dissemination
+
+6. [mcq, 1 pt] What concept refers to indirect protection from disease due to population immunity?
+    A) Vector immunity
+    B) Herd immunity
+    C) Natural immunity
+    D) Acquired immunity
+
+7. [mcq, 1 pt] Which tool is used to track genetic fingerprints of pathogens across different outbreaks?
+    A) SNP mapping
+    B) Case definitions
+    C) Epi curves
+    D) PulseNet
+
+8. [mcq, 1 pt] What type of bias occurs when study participants differ from non-participants?
+    A) Recall bias
+    B) Selection bias
+    C) Information bias
+    D) Temporal bias
+
+9. [mcq, 1 pt] In epidemiology, what does the "person, place, time" triad help establish?
+    A) Treatment protocols
+    B) Laboratory findings
+    C) Case definitions
+    D) Vaccination schedules
+
+10. [mcq, 1 pt] Which criteria are used to verify causation in epidemiological studies?
+    A) Koch's postulates
+    B) Evans' postulates
+    C) GRADE methods
+    D) Bradford Hill criteria
+
+11. [mcq, 1 pt] What is the primary purpose of creating an epidemic curve?
+    A) To identify the source
+    B) To predict future cases
+    C) To visualize disease progression
+    D) To calculate mortality rate
+
+12. [mcq, 1 pt] Which type of prevention focuses on early detection and prompt intervention?
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+    D) Quaternary prevention
+
+13. [mcq, 1 pt] What is the term for the proportion of persons who develop a disease during a specified time period?
+    A) Prevalence rate
+    B) Mortality rate
+    C) Incidence rate
+    D) Attack rate
+
+14. [mcq, 1 pt] Which factor is **NOT** typically included in experimental study designs?
+    A) Control group
+    B) Random assignment
+    C) Natural exposure
+    D) Variable manipulation
+
+15. [mcq, 1 pt] What type of data presentation would best show geographic clustering of cases?
+    A) Line listing
+    B) Cluster map
+    C) Epidemic curve
+    D) PFGE gel
+
+16. [mcq, 1 pt] Which measure compares the risk of disease in exposed versus unexposed groups?
+    A) Odds ratio
+    B) Attack rate
+    C) Relative risk
+    D) Prevalence rate
+
+17. [mcq, 1 pt] What is the main purpose of stratification in data analysis?
+    A) To control for confounding
+    B) To increase sample size
+    C) To randomize subjects
+    D) To establish causation
+
+18. [mcq, 1 pt] Which surveillance attribute measures how well the system reflects true incidence?
+    A) Timeliness
+    B) Sensitivity
+    C) Simplicity
+    D) Flexibility
+
+19. [mcq, 1 pt] What is the primary difference between efficacy and effectiveness in vaccine studies?
+    A) Study duration
+    B) Sample size
+    C) Real-world conditions
+    D) Statistical power
+
+20. [mcq, 1 pt] Which prevention strategy operates at the community level rather than individual level?
+    A) Behavioral modification
+    B) Medical screening
+    C) Health education
+    D) Policy implementation
+
+
+=== Fill in the Blank (Q21-Q30) ===
+
+21. [frq, 1 pt] A ____ is a type of observational analytic study in which a group of people sharing a common characteristic is followed over time to determine the incidence of a health outcome.
+
+22. [frq, 1 pt] A ____ is an aggregation of cases of a disease or health condition that are closely grouped in time and place, potentially indicating a common cause.
+
+23. [frq, 1 pt] The ____ refers to the time between exposure to a factor and the onset of symptoms in a chronic disease.
+
+24. [frq, 1 pt] ____ occurs when an infectious agent is spread from a reservoir to a host through direct physical contact or droplet spread.
+
+25. [frq, 1 pt] ____ is the proportion of individuals exposed to an agent who develop clinical disease as a result.
+
+26. [frq, 1 pt] The ____ are the minimum and maximum values that define the range of a confidence interval.
+
+27. [frq, 1 pt] A(n) ____ is an individual who harbors an infectious agent and can transmit it to others without showing symptoms of the disease.
+
+28. [frq, 1 pt] A ____ is the habitat in which an infectious agent normally lives, grows, and multiplies, such as humans, animals, or the environment.
+
+29. [frq, 1 pt] In epidemiology, a ____ is an animate intermediary in the indirect transmission of an infectious agent, such as a mosquito or tick.
+
+30. [frq, 1 pt] ____ measures the frequency of new cases of a disease occurring in a population over a specific period of time.
+
+
+=== Application: Outbreak Investigation (Q31-Q40) ===
+
+[STIMULUS] A small-town school reported an outbreak of gastroenteritis among students after a school lunch event. Symptoms included nausea, vomiting, diarrhea, and abdominal pain. Of the 200 students who attended the lunch, 80 reported symptoms within 2 to 14 hours. The menu included pizza, salad, fruit punch, and ice cream. Preliminary lab results indicated the presence of Staphylococcus aureus enterotoxins in the salad. There were 120 students who ate the salad, with 79 students reporting gastroenteritis symptoms. Of the remaining 80 students who did not eat the salad, 2 became ill with gastroenteritis.
+
+31. [frq, 2 pt] What is the likely mode of transmission of the pathogen in this outbreak?
+
+33. [frq, 2 pt] Create a hypothesis about the food item most likely responsible for the outbreak and justify your reasoning.
+
+34. [frq, 2 pt] Based on the incubation period, why is Staphylococcus aureus a plausible causative agent?
+
+35. [frq, 2 pt] Describe one preventive measure that could have avoided this outbreak.
+
+36. [frq, 2 pt] If a control group was established, what characteristics should it have?
+
+37. [frq, 2 pt] Analyze the epi curve below showing the distribution of cases by time of symptom onset. What can you infer about the source of the outbreak?
+    [IMAGE: ../images/2026_boyceville_in_person_c__p8_68106c-0acd4400.webp]
+
+38. [frq, 2 pt] Explain how the chain of transmission could be broken in future scenarios.
+
+39. [numeric, 3 pt] Calculate the relative risk of illness for those who consumed salad compared to those who did not.
+
+40. [frq, 2 pt] Propose a public health strategy to mitigate similar outbreaks in schools.
+
+
+=== Application: Respiratory Illness in a Community (Q41-Q50) ===
+
+[STIMULUS] A rural community experienced a cluster of severe respiratory illnesses. The cases were concentrated among residents living near a poultry farm. Symptoms included fever, cough, and difficulty breathing. Affected individuals often reported close contact with birds. Lab tests revealed H5N1 influenza in several samples. Data from the outbreak is summarized in the table below.
+    [IMAGE: ../images/2026_boyceville_in_person_c__p9_d42fc2-72a52544.webp]
+    | Label | Answer |
+    | **41.** Identify the host, agent, and environment in this outbreak. |  |
+    | Host | [[q:41-a]] |
+    | Agent | [[q:41-b]] |
+    | Environment | [[q:41-c]] |
+
+41-a. [frq, 1 pt] Host
+
+41-b. [frq, 1 pt] Agent
+
+41-c. [frq, 1 pt] Environment
+
+42. [frq, 2 pt] What type of study design (case-control, cohort, etc.) would be most appropriate for investigating this outbreak? Explain why.
+
+43. [numeric, 2 pt] Calculate the case fatality rate for this outbreak?
+
+44. [frq, 2 pt] What is the role of herd immunity in preventing outbreaks of zoonotic diseases?
+
+45. [frq, 2 pt] Propose two control measures to limit further transmission of H5N1.
+
+47. [frq, 2 pt] Discuss the public health implications of zoonotic diseases in rural areas.
+
+48. [frq, 3 pt] Using the Bradford Hill criteria, explain how causality between the poultry farm and the respiratory illness could be verified.
+
+49. [frq, 2 pt] Differentiate between direct and indirect transmission in this scenario.
+
+50. [frq, 2 pt] Suggest two long-term strategies to prevent similar outbreaks in the future.
+
+
+=== E. coli Outbreak Linked to Onions Used in Fast Food Restaurants (Q51-Q70) ===
+
+[STIMULUS] **Note:** This case study is a hypothetical scenario created for educational purposes, specifically for the Boyceville Satellite Invitational Disease Detectives test.
+
+**Background**
+
+In mid-July, a sudden increase in cases of gastrointestinal illness was reported in several states across the Midwest. Patients presented with symptoms such as severe abdominal cramps, diarrhea (often bloody), vomiting, and fever. Laboratory testing confirmed that the causative agent was *Escherichia coli* O157:H7, a pathogenic strain known to cause serious foodborne illness.
+
+An epidemiological investigation was launched to identify the source of the outbreak, trace its spread, and implement control measures to prevent further cases.
+
+**Epidemiological Data**
+
+**Timeline of Reported Cases**
+
+| Date | New Cases | Cumulative Cases |
+|---|---|---|
+| 15-July | 5 | 5 |
+| 17-July | 12 | 17 |
+| 19-July | 20 | 37 |
+| 21-July | 30 | 67 |
+| 23-July | 25 | 92 |
+| 25-July | 18 | 110 |
+| 27-July | 10 | 120 |
+| 29-July | 7 | 127 |
+| 31-July | 3 | 130 |
+
+**Geographic Distribution of Cases**
+
+- Colorado = 50 cases
+- Nebraska = 40
+- Kansas = 25
+- Oklahoma = 15
+
+**Age and Gender Distribution**
+
+| Age Group (Years) | Male Cases | Female Cases | Total Cases |
+|---|---|---|---|
+| 0-9 | 10 | 12 | 22 |
+| 10-19 | 15 | 18 | 33 |
+| 20-29 | 20 | 15 | 35 |
+| 30-39 | 10 | 8 | 18 |
+| 40-49 | 7 | 5 | 12 |
+| 50+ | 5 | 5 | 10 |
+| Total | 67 | 63 | 130 |
+
+**Epidemic Curve**
+
+**Case-Control Study Findings**
+
+A case-control study was conducted involving 100 cases and 200 controls. The study collected data on recent food consumption habits, focusing on meals eaten at fast-food restaurants.
+
+- Exposure to Onions in Fast Food Burgers:
+  - Cases Exposed: 80 out of 100
+  - Controls Exposed: 60 out of 200
+- Odds Ratio Calculation:
+  Odds Ratio = (80×140)/(20×60) = 11200/1200 = 9.33
+
+**Laboratory Analysis**
+
+- PFGE (Pulsed-Field Gel Electrophoresis): DNA fingerprinting showed that *E. coli* isolates from patients and onions used in Restaurant Burger Chain had identical patterns.
+- Traceback Investigation: Onions were traced back to a single supplier distributing to multiple locations of Restaurant Burger Chain across the affected states.
+
+**Environmental Assessment**
+
+- Supplier Inspection: The onion supplier's processing facility had several hygiene deficiencies, including contaminated water used for washing produce and inadequate sanitation protocols.
+- Restaurant Handling Practices: Some restaurants were found to store onions at improper temperatures and did not follow proper cross-contamination prevention measures.
+    [IMAGE: ../images/2026_boyceville_in_person_c__p13_6d0421-44985d6e.webp]
+
+51. [frq, 3 pt] Based on the epidemic curve, what type of outbreak is suggested? Explain your reasoning.
+
+52. [frq, 2 pt] Calculate the attack rate for Colorado, assuming the population at risk is 5 million.
+
+53. [mcq, 1 pt] Identify the most affected age group from the age distribution data.
+    A) 0-9
+    B) 10-19
+    C) 20-29
+    D) 30-39
+    E) 40-49
+    F) 50+
+
+54. [frq, 2 pt] What does the odds ratio calculated in the case-control study indicate about the association between consuming onions at Restaurant Burger Chain and illness?
+
+55. [frq, 2 pt] Explain the significance of finding identical PFGE patterns in *E. coli* isolates from patients and onions.
+
+56. [frq, 2 pt] List two possible modes of transmission for *E. coli* O157:H7 in this outbreak.
+
+57. [frq, 4 pt] Describe at least four steps you would take to control this outbreak.
+
+58. [frq, 2 pt] Define "cross-contamination" and explain how it might have contributed to this outbreak.
+
+59. [frq, 2 pt] What role does a traceback investigation play in outbreak investigations?
+
+60. [frq, 2 pt] Suggest one long-term prevention strategy to avoid similar outbreaks in the future.
+
+62. [frq, 3 pt] Discuss three potential biases that could affect the results of the case-control study.
+
+63. [frq, 3 pt] Explain how the agent-host-environment triad applies to this outbreak.
+
+64. [frq, 2 pt] If the basic reproductive number (R₀) for *E. coli* O157:H7 in this context is estimated to be less than 1, what does this imply about the outbreak's potential to spread?
+
+65. [frq, 2 pt] Propose a hypothesis for how the onions became contaminated with *E. coli* O157:H7.
+
+66. [frq, 4 pt] Describe how public health officials might use the "Bradford Hill Criteria" to assess causality in this outbreak.
+
+67. [numeric, 2 pt] Calculate the relative risk of illness for individuals who consumed onions versus those who did not, using the data from the case-control study.
+
+68. [frq, 4 pt] Discuss the importance of proper food handling practices in preventing foodborne outbreaks, citing examples from this case.
+
+69. [frq, 2 pt] Explain the role of surveillance systems in the early detection of outbreaks like this one.
+
+70. [frq, 3 pt] Considering the multi-state nature of the outbreak, discuss three challenges that might arise in coordinating the investigation and response.

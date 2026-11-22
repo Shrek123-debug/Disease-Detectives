@@ -1,0 +1,233 @@
+Columbia University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  57 questions, 139.0 pts
+Source: scio.ly test archive id 253cf092-c061-4254-a69e-e3cd44f2126b  |  original files: https://drive.google.com/drive/folders/1cG61YoOH9sgUxEU4I0yiN3huv_4G3Gnq
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Welcome to Columbia University Science Olympiad Division C: Disease Detectives. Read the following information carefully.
+
+Test Structure & Scoring:
+There are 3 sections in this exam:
+- Part I: Multiple Choice Questions (Questions 1–9) (21 pts)
+- Part II: Free Response Questions (Questions 10-28) (64 pts)
+- Part III: Case Studies (65 pts)
+  - Case Study 1 (Parts a–d) 9 pts
+  - Case Study 2 (Parts a–e) 20 pts
+  - Case Study 3 (Parts a–j) 36 pts
+
+  There are partial credits for free-response questions. Good luck!
+
+
+=== Part I: Multiple Choice Questions ===
+
+1. [mcq, 2 pt] Which measure should be used to determine the severity of an infectious disease?
+    A) mortality rate
+    B) prevalence
+    C) incidence rate
+    D) attack rate
+
+2. [mcq, 2 pt] Which of the following is NOT a symptom of tuberculosis?
+    A) cough
+    B) weight loss
+    C) fatigue
+    D) rash
+
+3. [mcq, 2 pt] Which of the following reasons contributed to why the US handled the influenza pandemic poorly in 1918?
+    A) Influenza wasn’t fatal, therefore there was no need for aggressive countermeasures
+    B) Tuberculosis was a more substantial threat at the time, so medical efforts were directed away from influenza
+    C) The government downplayed its severity in favor of focusing public support on the war effort
+    D) The disease was only prevalent in rural populations, and the government didn’t feel the need to prioritize their health.
+
+4. [mcq, 2 pt] Smallpox was the first disease to be eradicated globally. Which of the following has also been eradicated?
+    A) Polio
+    B) Rinderpest
+    C) Yellow Fever
+    D) Marburg Virus
+
+5. [mcq, 2 pt] During the Yellow Fever epidemic in the 1790’s, Philadelphia set up quarantining stations to help the infected. Based purely on the way that Yellow Fever is transmitted, would this have been effective?
+    A) Yes, because Yellow Fever is spread by bodily fluids. Keeping people separated would reduce the risk of coughing or sneezing on another person.
+    B) Yes, because Yellow Fever is airborne. Giving everyone their own space would reduce the rate of transmission
+    C) No, because Yellow Fever is spread by mosquitoes. People cannot transmit yellow fever to one another; it’s exclusively transmitted through mosquitoes.
+    D) No, because Yellow Fever is spread by contaminated food and water. Quarantining would not be effective if people still ate and drank from the same sources.
+
+7. [mcq, 2 pt] Which of the following is one difference between the construction of large icosahedral viral capsids from small icosahedral viral capsids?
+    A) Large viral capsids have smaller numbers of subunits, whereas small viral capsid have a larger number of subunits
+    B) Large viral capsids have greater numbers of subunits whereas small viral capsids have a smaller number of subunits
+    C) Large viral capsids have lesser types of subunits whereas small viral capsid have a larger number of types of subunits
+    D) Both large viral capsids and small viral capsids have the same number of subunits and the same types of subunits
+
+8. [multi, 2 pt] Which of the following statements is correct? Select all that apply.
+    A) Poliovirus is transmitted by the fecal-oral route
+    B) Influenza virus may be transmitted by respiratory droplets
+    C) Measles virus may be transmitted in the smallest respiratory droplets
+    D) Norovirus is transmitted by the fecal-oral route
+    E) West Nile virus is transmitted through person to person contact
+
+
+=== Part II: Free Response Questions ===
+
+10. [frq, 3 pt] Why is it important for epidemiologists to know the incubation period of a disease?
+
+11. [frq, 4 pt] In a hypothetical town, a foodborne illness named X has rapidly spread after a local fair. Symptoms include stomach pain and vomiting, and you, an epidemiologist, suspect that the cases must stem from one specific food vendor. How would you quickly and effectively trace the outbreak back to the contaminated origin? (Hint: you don’t have time to collect large scale data since the outbreak was so sudden, but you can collect information in a more qualitative, individual way.)
+
+12. [frq, 3 pt] Explain why vaccines are effective in preventing epidemics, even among individuals who are unvaccinated.
+
+13. [frq, 3 pt] WHO launched the Smallpox Eradication Program in 1967, which ultimately succeeded in 1980. What strategies were used in the eradication effort?
+
+14. [frq, 4 pt] Choose one of the following diseases: smallpox, HIV/AIDS, or cholera. Explain how public health interventions helped to control or manage the spread.
+
+15. [frq, 3 pt] How did germ theory change the way people thought about disease transmission?
+
+16. [frq, 3 pt] Why was smallpox a good choice for eradication compared to other diseases?
+
+17. [frq, 5 pt] A public health study is conducted to evaluate the effectiveness of a new screening program for the early detection of lung cancer. Participants are aware that their participation is being monitored, and researchers track their responses and adherence to the program.
+    
+    During the study, researchers notice that a high percentage of participants show up for screening appointments and report improved lifestyle behaviors, such as quitting smoking. However, when a follow-up study is conducted months later, the percentage of participants who adhere to the screening program and positive lifestyle changes are significantly lower.
+    
+    How could the Hawthorne Effect have influenced the initial high amount of participation and positive reported health behaviors in this study?
+
+18a. [frq, 2 pt] List at least two ways that viruses might be transmitted to another host without shedding virus particles.
+
+18b. [frq, 2 pt] List at least two ways that viruses might be transmitted to another host by shedding virus particles.
+
+19. [frq, 2 pt] Humans rarely contract avian influenza. Explain why this is the case. How does the virus interact differently in humans compared to how it interacts with other species it can infect?
+
+20. [frq, 2 pt] List two ways through ways viruses can enter the cell to initiate an infection
+
+21a. [frq, 1 pt] For each of the following scenarios, write down the appropriate term from the following: **infectivity**, **pathogenicity**, **virulence**
+    
+    Measles is a viral disease. Once the measles virus enters a person's body, it typically causes a series of distinct symptoms, such as a rash, fever, cough, and conjunctivitis. While many people who contract the virus will show symptoms, some may have mild symptoms or none at all, but the virus still causes disease in most cases. Based on this, we can say that measles virus has a high ____ because it typically leads to a disease in most infected individuals.
+
+21b. [frq, 1 pt] The common cold (caused by the rhinovirus) is highly ____, meaning it can easily spread from person to person through respiratory droplets when an infected person coughs or sneezes. Many people come into contact with the virus, but not everyone will get sick because the virus only needs to get to the respiratory tract to replicate and spread.
+
+21c. [frq, 1 pt] Rabies is a viral infection with high ____. If a person is bitten by a rabid animal and doesn't receive prompt treatment, the disease can progress to severe neurological damage and almost always results in death in humans to develop symptoms.
+
+21d. [frq, 2 pt] Explain how infectivity, pathogenicity, and virulence differ in terms of a pathogen's ability to cause disease.
+
+[STIMULUS] The ____ is the time between exposure to a pathogen and the appearance of symptoms, during which the pathogen is replicating but the host does not yet show signs of illness. In contrast, the ____ refers to the time between infection and the ability of the host to spread the pathogen to others, which may occur before or after symptoms appear.
+
+22-1. [frq, 1 pt] Blank 1: The ____ is the time between exposure to a pathogen and the appearance of symptoms, during which the pathogen is replicating but the host does not yet show signs of illness. In contrast, the (…) refers to the time between infection and the ability of the host to spread the pathogen to others, which may occur before or after symptoms appear.
+
+22-2. [frq, 1 pt] Blank 2: The (…) is the time between exposure to a pathogen and the appearance of symptoms, during which the pathogen is replicating but the host does not yet show signs of illness. In contrast, the ____ refers to the time between infection and the ability of the host to spread the pathogen to others, which may occur before or after symptoms appear.
+
+23. [frq, 3 pt] Sarah receives a flu shot from her doctor to protect against seasonal influenza. What type of immunity will Sarah develop, active or passive? Explain your answer.
+
+24. [frq, 2 pt] Explain how mad cow disease (Bovine Spongiform Encephalopathy) can be transmitted to humans and lead to associated conditions such as variant Creutzfeldt-Jakob Disease (vCJD). What kind of symptoms does this condition result in?
+
+25. [frq, 2 pt] Before 2004, the mosquito that transmitted Chikungunya virus was limited to Asia and Africa. Why did the geographic range of the virus expand substantially after that year?
+
+26a. [frq, 2 pt] A public health official is tasked with reducing the incidence of measles disease in Arizona. Based on the stages in the natural history of disease, which stage should they target for the greatest impact on prevention? Justify your answer.
+
+26b. [frq, 3 pt] Identify which level of prevention (primary, secondary, or tertiary) is most applicable during the stage the official should target for the greatest impact on prevention. Explain why this level is effective for controlling the spread of measles and provide an example of a specific intervention.
+
+[STIMULUS] List a disease from each of the following categories: viral, bacterial, fungal, protozoal, prion.
+    | Label | Answer |
+    | Viral | [[q:27-a]] |
+    | Bacterial | [[q:27-b]] |
+    | Fungal | [[q:27-c]] |
+    | Protozoal | [[q:27-d]] |
+    | Prion | [[q:27-e]] |
+
+27-a. [frq, 1 pt] Viral
+
+27-b. [frq, 1 pt] Bacterial
+
+27-c. [frq, 1 pt] Fungal
+
+27-d. [frq, 1 pt] Protozoal
+
+27-e. [frq, 1 pt] Prion
+
+28a. [frq, 2 pt] List two reliable methods for measuring viral virulence.
+
+28b. [frq, 2 pt] Why is viral virulence difficult to accurately measure in humans? List two reasons why this is the case.
+
+
+=== Part III: Case Studies ===
+
+[STIMULUS] **Case Study #1**
+
+In 1981, an outbreak of a bacterial illness called Salmonella muenchen began in Steubenville, Ohio. Over the course of a few months (starting in January), there were 36 cases of diarrhea, abdominal pain, and fever reported. The cases ranged from a one-month-old baby to a 73-year-old woman. The outbreak even spread to Michigan, and the source of the illness was still unknown.
+
+Two investigators, Dr. Taylor and Emmet Schmidt, were handed the mysterious case. They interviewed affected families to look for a common source due to the nature of salmonella, but none of the households reported anything unusual about their diets. The only clue that the investigators had was that many of the reported cases were young adults aged 20-29, or infected families had someone in that age range living in their home.
+
+29a. [frq, 2 pt] How does salmonella spread? How can the method of transmission help an epidemiologist determine the source?
+
+29b. [frq, 2 pt] The peak of the outbreak occurred from December 1980 into January 1981. Are there any seasonal clues you would look into based on the time of year that this occurred?
+
+29c. [frq, 2 pt] What does the age range (infected households all included someone aged 20-29) possibly indicate about the source of the outbreak?
+
+29d. [frq, 3 pt] Taylor and Schmidt eventually asked the sick families about drug use. After some initial hesitancy, one family admitted that they and their friends occasionally smoked marijuana. They shared a sample with the investigators, and lab results confirmed that the weed was contaminated with salmonella. Because of the time period and location, drug use was highly stigmatized and illegal. How would you balance people's worries about getting into legal trouble with your responsibilities as an epidemiologist?
+
+[STIMULUS] **Case Study #2**
+
+Researchers at Columbia University studied the correlation between levels of loneliness and increased frequency of substance use. 210 participants were recruited over a three-year period from a medical center in New York and completed a questionnaire about their habits three separate times during the course of the study.
+
+https://www.sciencedirect.com/science/article/pii/S0306460321003002?via%3Dihub
+    [IMAGE: ../images/2025_columbia_university_invitational_c__p10_47f960-8b30462e.webp]
+    [IMAGE: ../images/2025_columbia_university_invitational_c__p11_ecb5f2-4bce04a7.webp]
+
+30a. [frq, 4 pt] Based on the data, which variable, identifying as hispanic, gender (male vs female), or employment status, was most highly associated with feelings of loneliness? Show the calculations that led you to your answer.
+
+30b. [frq, 6 pt] Explain the purpose of the p value. What does it tell you about the data and the results? Which variable was slightly more likely due to chance and why?
+
+30c. [frq, 4 pt] Use the proper calculation to determine the association between feelings of loneliness and depression in the past two weeks and analyze your result.
+    
+    Note: Since this is a cohort study, relative risk should be used.
+    
+    | | Depression | No Depression |
+    |---|---|---|
+    | Loneliness | 28 | 112 |
+    | No Loneliness | 1 | 69 |
+
+30d. [frq, 4 pt] Explain two potential sources of bias in this study and what type of bias each one is.
+
+30e. [frq, 2 pt] Explain one confounding variable that could have affected the results of this study.
+
+[STIMULUS] **Case Study #3**
+
+Over 65% of children 5 years-of-age and under in the United States require out-of-home child care. Childcare attendance has been associated with an elevated risk of respiratory illness and acute gastroenteritis. While child care associated respiratory disease cases are more numerous, acute gastroenteritis (AGE) typically causes more severe symptoms and more than double the number of absences from child care. In addition, viral pathogens such as norovirus, rotavirus, and adenovirus are highly infectious and may be spread to parents and other household members. Fomites – inanimate objects that may harbor contamination – are often thought to facilitate the spread of viral AGE pathogens, as symptomatic children may shed substantial amounts of virus onto objects in their environment through episodes of diarrhea and vomiting.
+
+**Data Analysis and Interpretation**
+
+Transmission models are often used to simulate outbreaks and plan interventions. A transmission model was constructed to represent the spread of acute gastroenteritis pathogens in child care and primary school settings. In contrast to real outbreaks, model outbreaks can be simulated many times to examine how an outbreak might have progressed under different conditions. In this model, hygiene and sanitation interventions were tested to evaluate their efficacy. Each simulation was started with 1 sick child and 24 well children. 10,000 total simulations were conducted for each intervention tested. Simulations represent a total time of 1 month.
+
+The results from a single simulation are shown below:
+    [IMAGE: ../images/2025_columbia_university_invitational_c__p13_911936-ad9f9e78.webp]
+    [IMAGE: ../images/2025_columbia_university_invitational_c__p13_d081d3-cf2bc922.webp]
+
+31b. [frq, 3 pt] Calculate the attack rate for the outbreak simulation above.
+
+31c. [mcq, 1 pt] During the exposed (latent) period, individuals do not shed pathogens. If the exposed period for the disease simulated above were shorter, would the peak in fomite contamination be:
+    A) Earlier
+    B) Later
+    C) Unchanged
+
+31d. [frq, 2 pt] Which individual was the index case in the simulated outbreak above?
+
+[STIMULUS] **TABLE 3.** Incidence from simulated AGE outbreaks by hygiene and sanitation intervention. Surface decontamination occurs once per day and sanitizes all fomites in the classroom. Hand washing is performed on average once per day by each child. Emergency decontamination occurs each time a child sheds on a fomite and sanitizes that fomite. Each intervention case represents 10,000 simulations of a 25 child classroom for 1 month with one initial infected child and 24 susceptible children.
+    [IMAGE: ../images/2025_columbia_university_invitational_c__p15_2a0489-d26f996e.webp]
+
+31e. [frq, 10 pt] Calculate the attack rate for each intervention case above.
+
+31f. [frq, 10 pt] Calculate the appropriate measure of association to determine the impact of each intervention in Table 3. Show your work and indicate which measure of association you calculated.
+
+[STIMULUS] Which intervention in Table 3 was most effective? Which was the least effective?
+    | Label | Answer |
+    | Most Which intervention in Table 3 was most effective? | [[q:31g-a]] |
+    | Least Which was the least effective? | [[q:31g-b]] |
+
+31g-a. [frq, 1 pt] Which intervention in Table 3 was most effective?
+
+31g-b. [frq, 1 pt] Which was the least effective?
+
+31h. [frq, 1 pt] The interventions in Table 3 are examples of what type of prevention?
+
+[STIMULUS] Which element of the Chain of Infection does sanitation (decontaminating fomites) address? Which element does hygiene (hand washing) address?
+    | Label | Answer |
+    | Sanitation Which element of the Chain of Infection does sanitation (decontaminating fomites) address? | [[q:31i-a]] |
+    | Hygiene Which element does hygiene (hand washing) address? | [[q:31i-b]] |
+
+31i-a. [frq, 0.5 pt] Sanitation Which element of the Chain of Infection does sanitation (decontaminating fomites) address?
+
+31i-b. [frq, 0.5 pt] Hygiene Which element does hygiene (hand washing) address?
+
+31j. [frq, 2 pt] Propose an additional intervention that may be effective at preventing the transmission of gastrointestinal pathogens in child care settings.

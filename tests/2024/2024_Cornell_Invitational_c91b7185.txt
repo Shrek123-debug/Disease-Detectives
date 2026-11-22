@@ -1,0 +1,421 @@
+Cornell Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  78 questions, 149.0 pts
+Source: scio.ly test archive id c91b7185-2ff4-487a-a0bc-eb3324f23d9c  |  original files: https://drive.google.com/drive/folders/1CxT2RZTRjYKGsVlJlJEgXl9fzQtAwmXT
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 37
+
+
+=== Part I — General Epidemiology Vocab and definitions
+
+There is no word bank provided. Definitions/descriptions will be provided. Write the word that best fits the definition. ===
+
+P1-I-1. [frq, 2 pt] The ability of a pathogen to cause harm to whoever it infects:
+
+P1-I-2. [frq, 2 pt] A farmer works with his chickens. The chickens have avian flu, which gets transmitted to the farmer in the process of being handled. Avian flu is best described as:
+
+P1-I-3. [frq, 2 pt] A disease that seems to always be present in an area can be best described as:
+
+P1-I-4. [frq, 2 pt] The type of immunity derived from getting vaccinated:
+
+P1-I-5. [frq, 2 pt] The time from exposure to symptoms (two answers will be accepted):
+
+P1-I-6. [frq, 2 pt] A group of cases with no respect as to whether it is above or below the average:
+
+P1-I-7. [frq, 2 pt] The initial case of an outbreak:
+
+P1-I-8. [frq, 2 pt] Mosquitos can carry many diseases, passing them onto humans. Due to this, they can be described as:
+
+P1-I-9. [frq, 2 pt] Nonliving objects capable of harboring and transmitting disease (two acceptable answers):
+
+P1-I-10. [frq, 2 pt] A worldwide outbreak of disease:
+
+P1-I-11. [frq, 2 pt] An aspect of life, such as genetics, diet, environment, that can predispose someone to a disease:
+
+P1-I-12. [frq, 2 pt] An infection that can be traced back to a hospital or other healthcare environment:
+
+[STIMULUS] Identify one difference between the following epidemiological terms or concepts.
+
+P1-I-13. [frq, 3 pt] Asymptomatic versus Convalescent:
+
+P1-I-14. [frq, 3 pt] Sensitive Case Definition versus Specific Case Definition:
+
+P1-I-15. [frq, 3 pt] Probable Case versus Confirmed Case:
+
+P1-I-16. [frq, 3 pt] Point Prevalence versus Period Prevalence:
+
+
+=== Part 2 — Multiple Choice/Very short answer ===
+
+2-2. [mcq, 2 pt] The “spectrum” of disease refers to…
+    A) The vast number of diseases that exist in the world and their multiple causes, such as bacteria, viruses, fungi….
+    B) The scope of the disease in the world; the range of places it affects, such as COVID-19 being a worldwide phenomenon
+    C) How a disease can have a wide range of effects depending on who it infects, from perhaps a mild illness, to death
+    D) All of these
+
+2-3. [mcq, 2 pt] A man has recently inhaled secondhand smoke, where the toxic chemicals start to do harm to his body. What stage of the natural history of disease is he in?
+    A) Stage of susceptibility
+    B) Stage of subclinical disease
+    C) Stage of clinical disease
+    D) Stage of recovery/disability/death
+
+2-4. [mcq, 3 pt] Which of the following is (are) an observational study?
+    A) Scientists put two different groups on different diets and observe the effects
+    B) Researchers run a double-blind study with an experimental drug recently developed
+    C) Researchers send out surveys to thousands about their water consumption habits, along with questions about their health and other related things to determine correlations
+    D) Scientists isolate a virus and and leave it in a colony with bacteria to see what happens while keeping another colony as a control
+    E) All of these
+    F) None of these
+    G) A couple of these
+
+2-5. [mcq, 2 pt] What is the danger zone for food?
+    A) Food below 40 F
+    B) Food above 140 F
+    C) A and B
+    D) None of the above
+
+2-6. [multi, 2 pt] What are ways to break the chain of infection with respect to the portal of entry? Select all applicable ones.
+    A) Cover all cuts properly (with bandaids or other things)
+    B) Avoid lakes and other regions that may harbor pathogens
+    C) Get vaccinated against disease
+    D) Wear masks
+
+2-7. [mcq, 2 pt] Which best describes “sentinel surveillance?”
+    A) Surveillance conducted via the military/army
+    B) Surveillance conducted by a select group on behalf of a region
+    C) Surveillance conducted by foreign bases around the world
+    D) It’s another phrase for active surveillance
+    E) Surveillance done at the local level
+    F) None of the above
+
+2-8. [multi, 2 pt] Which term(s) does not describe case control studies? Select all that apply.
+    A) Descriptive
+    B) Analytic
+    C) Observational
+    D) Experimental
+    E) All terms describe case control studies
+
+2-9. [mcq, 3 pt] Which of the following scenarios best describes a retrospective cohort study?
+    A) A study follows a group of vaping high schoolers to see what effects occur later in their lives
+    B) A study surveys several people at a workplace about their activities and work life, given that there was a recent outbreak of norovirus
+    C) A study identifies people that once received a certain exposure, then tracks them down to determine what health effects have occurred since then
+    D) A study looks to assess the effectiveness of an experimental hypertension treatment, by using a control group who gets a placebo while the other group gets the treatment
+    E) Two of these are valid
+    F) None are valid
+
+2-10. [multi, 2 pt] Which of the following people were instrumental in the development of vaccines for illnesses? Select all that apply.
+    A) Louis Pasteur
+    B) Jonas Salk
+    C) John Snow
+    D) Edward Jenner
+
+2-11. [mcq, 2 pt] Which of the following diseases are spread by the fecal oral route of transmission?
+    A) Yellow Fever
+    B) Dengue Fever
+    C) Typhoid Fever
+    D) Rocky Mountain Spotted Fever
+
+[STIMULUS] Use the list of “things” below to answer questions 12-21. Use letters.
+
+a. Malaria (plasmodium)
+b. Sickle Cell Trait (one copy of sickle cell allele, not disease yet)
+c. Leishmaniasis (caused by leishmania parasite, spread thru sand flies)
+d. Syphilis (Bacterial STD)
+e. Histoplasmosis (fungal)
+f. Japanese encephalitis (virus)
+g. Pertussis (whooping cough, caused by bacteria)
+h. Malaise (just another term for weakness)
+i. Kuru (prion caused)
+j. Ringworm (a fungus)
+k. Chylamidia (bacterial STD)
+    | Label | Answer |
+    | **2-12.** Which “thing” could potentially protect from another? |  |
+    | Protector | [[q:2-12-a]] |
+    | Protected from | [[q:2-12-b]] |
+
+2-12-a. [frq, 1 pt] Protector
+
+2-12-b. [frq, 1 pt] Protected from
+
+2-13. [mcq, 2 pt] Which disease is most likely to cause “holes” in your brain?
+    A) Malaria
+    B) Sickle Cell Trait
+    C) Leishmaniasis
+    D) Syphilis
+    E) Histoplasmosis
+    F) Japanese encephalitis
+    G) Pertussis
+    H) Malaise
+    I) Kuru
+    J) Ringworm
+    K) Chylamidia
+
+2-14. [multi, 2 pt] Which thing(s) on the list are not actually diseases?
+    A) Malaria
+    B) Sickle Cell Trait
+    C) Leishmaniasis
+    D) Syphilis
+    E) Histoplasmosis
+    F) Japanese encephalitis
+    G) Pertussis
+    H) Malaise
+    I) Kuru
+    J) Ringworm
+    K) Chylamidia
+
+2-16. [mcq, 2 pt] Which (is) are viral diseases?
+    A) Malaria
+    B) Sickle Cell Trait
+    C) Leishmaniasis
+    D) Syphilis
+    E) Histoplasmosis
+    F) Japanese encephalitis
+    G) Pertussis
+    H) Malaise
+    I) Kuru
+    J) Ringworm
+    K) Chylamidia
+
+2-18. [mcq, 2 pt] Which (is) are from plasmodiums?
+    A) Malaria
+    B) Sickle Cell Trait
+    C) Leishmaniasis
+    D) Syphilis
+    E) Histoplasmosis
+    F) Japanese encephalitis
+    G) Pertussis
+    H) Malaise
+    I) Kuru
+    J) Ringworm
+    K) Chylamidia
+
+2-20. [mcq, 2 pt] Which (is) are known to be Holoendemic in certain regions?
+    A) Malaria
+    B) Sickle Cell Trait
+    C) Leishmaniasis
+    D) Syphilis
+    E) Histoplasmosis
+    F) Japanese encephalitis
+    G) Pertussis
+    H) Malaise
+    I) Kuru
+    J) Ringworm
+    K) Chylamidia
+
+P2-22. [tf, 1 pt] Vaccines for Bacteria exist.
+    A) True
+    B) False
+
+P2-23. [mcq, 2 pt] The first ever virus discovered was…
+    A) Yellow Fever
+    B) Influenza
+    C) Epstein-Barr virus
+    D) Polio
+    E) Measles
+    F) None of these
+
+
+=== Part 3 — Some short answers ===
+
+[STIMULUS] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. —
+
+3-1a. [mcq, 1 pt] Using Cologuard (the talking box in those commercials that you take a dump in to see if you have colon cancer)
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+3-1b. [mcq, 1 pt] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. — Encouraging kids to exercise at a young age
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+3-1c. [mcq, 1 pt] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. — Mammogram
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+3-1d. [mcq, 1 pt] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. — Surgery to remove a coronary plaque
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+3-1e. [mcq, 1 pt] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. — Physical therapy
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+3-1f. [mcq, 1 pt] Classify the following as Tertiary, Secondary, or Primary prevention. For the sake of this problem, don't worry about primordial prevention. — MyPlate (the plate divided into fruits, grains, vegetables, and protein)
+    A) Tertiary
+    B) Secondary
+    C) Primary
+
+[STIMULUS] Read the following passage and answer questions 2-5.
+
+Coalia city has had a rapid outbreak of an unknown condition. Symptoms include coughing, respiratory irritation and other pulmonary symptoms, along with general weakness. No other nearby towns in a 50 mile radius seem to have this issue and this seems to be a limited ordeal. Epidemiologists have proposed the idea that due to the large burning of fossil fuels and pollution in the city (very industrial), these symptoms have arisen. This comes during a time of much more than usual economic activity, so factories and other pollutant producing buildings have been in full force particularly this season.
+
+3-2. [frq, 4 pt] Two of Bradford hill's criteria for causation can be found in this paragraph. Which two?
+
+3-3. [frq, 3 pt] The epidemiologists surveyed people with symptoms about their daily activities. Interestingly, the data collected suggested that people who tended to stay inside more (like stressed students taking 7 AP courses) or those who worked for long periods of time indoors (thus not being outside) tended to have worse symptoms at a higher frequency compared to others. With respect to the epidemiologists' initial hypothesis, what Bradford Hill criteria is broken? Give a brief justification as well.
+
+3-4. [frq, 3 pt] The epidemiologists decide to go to two farther away cities, Fuelia and Oilia that have also reported such issues. Epidemiologists find that industrial activity and release of pollutants has been especially high in those two cities as well, coupled with a rapid increase in similar symptoms found in Coalia city. The epidemiologists see this as more evidence for their initial hypothesis based on which of the Bradford hill criteria? Once again, give a brief justification.
+
+3-5. [frq, 3 pt] Some tourists, uninformed on the situation in Coalia city, decide to visit. The epidemiologists decide to take advantage of this opportunity to compare what happens to these tourists (who are outside visiting places) compared to individuals who stay indoors to determine what effects occur. What type of study design are these epidemiologists using? Give a brief justification.
+
+3-6. [frq, 2 pt] People with HIV (and AIDS later on) have extremely compromised immune systems, leaving them susceptible to many diseases, such as the flu, tuberculosis… What step in the chain of infection is this statement referring to?
+
+3-7. [frq, 2 pt] Naegleria Fowleri, also known as a brain eating amoeba, tends to grow in warm sources of water, whether it be lakes or rivers or hot springs. For this reason, certain lakes may have signs warning about Naegelria Fowelri presence and growth there. What step in the chain of infection does this refer to?
+
+[STIMULUS] Classify the following types of surveillance/statements about surveillance into active (A) or passive (P).
+
+3-8a. [mcq, 1 pt] — The Minnesota Department of Health asks hospitals how many COVID-19 cases they have received each week
+    A) Active (A)
+    B) Passive (P)
+
+3-8b. [mcq, 1 pt] Classify the following types of surveillance/statements about surveillance into active (A) or passive (P). — Greater chance of underreporting cases
+    A) Active (A)
+    B) Passive (P)
+
+3-8c. [mcq, 1 pt] Classify the following types of surveillance/statements about surveillance into active (A) or passive (P). — A histopathologist identifies a case of leukemia and decides to file a report to the state health agency
+    A) Active (A)
+    B) Passive (P)
+
+3-8d. [mcq, 1 pt] Classify the following types of surveillance/statements about surveillance into active (A) or passive (P). — Likely more expensive
+    A) Active (A)
+    B) Passive (P)
+
+3-8e. [mcq, 1 pt] Classify the following types of surveillance/statements about surveillance into active (A) or passive (P). — A new outbreak of a rare but dangerous disease has appeared. Which surveillance might be utilized?
+    A) Active (A)
+    B) Passive (P)
+
+3-9. [frq, 2 pt] A group of chemists working in a research lab have recently fallen sick, exhibiting respiratory symptoms. Epidemiologists suspect that the cause of the sickness is from a chemical reaction gone wrong. They write the following case definition: "At least 3 of the following symptoms from those who work at [the research lab] who were part of and exposed to the chemical reaction (that went wrong): severe coughing, wheezing, shortness of breath, sore throat, difficulty breathing."
+    
+    There is something slightly wrong about this case definition. What is it?
+
+[STIMULUS] Steps of investigating an outbreak
+
+The 13 steps of investigating an outbreak are listed below from the CDC. Match each one to the scenario best describing it for a fictional outbreak.
+
+1) Prepare for field work
+2) Establish existence of an outbreak
+3) Verify the diagnosis
+4) Construct a working case definition
+5) Find cases systematically and record information
+6) Perform descriptive epidemiology
+7) Develop hypothesis
+8) Evaluate hypotheses epidemiologically
+9) Reconsider, refine, reevaluate hypotheses
+10) Compare and reconcile with laboratory/environmental studies
+11) Implement control and prevention measures
+12) Initiate and maintain surveillance
+13) Communicate findings
+
+3-10. [frq, 1 pt] Given that the cases seem to be coming from schools, to catch additional cases, the epidemiologists create a criteria: “Students exhibiting at least three of the following symptoms after September 10: Fever above 99.5°F, rashes, an instance of vomiting, excessive coughing, abdominal pain.” Which step of investigating an outbreak does this scenario best describe?
+
+3-11. [frq, 1 pt] Thinking about possible modes of transmission for Scilympiaditis, the epidemiologists decide that the cafeteria food is a possible suspect, given that the disease can be transmitted through contaminated food. They ask students what they ate the days leading up to when they got sick and record the data. Which step of investigating an outbreak does this scenario best describe?
+
+3-12. [frq, 1 pt] The epidemiologists start hunting for even more cases, recording data from each patient, such as name, age, sex, date of onset of illness, phone number, and lab results. Which step of investigating an outbreak does this scenario best describe?
+
+3-13. [frq, 1 pt] The epidemiologists find the local sources of the meat and investigate it, sending samples to the lab. They find Scilympiaditis in the samples, proving their hypothesis. They decide to conduct an investigation into how contamination occurred in the local source of meat. Which step of investigating an outbreak does this scenario best describe?
+
+3-14. [frq, 1 pt] Fearing the existence of an outbreak, the epidemiologists set out to investigate cases and try to determine the source of Scilympiaditis. Which step of investigating an outbreak does this scenario best describe?
+
+3-15. [frq, 1 pt] Given that the hypothesis matched up with reality, the epidemiologists feel like they don’t need to scrutinize their initial hypothesis. Which step of investigating an outbreak does this scenario best describe?
+
+3-16. [frq, 1 pt] By analyzing the food consumption data, the epidemiologists determine that the sources of meat (beef, chicken, pork…) in the cafeteria appear to be associated with higher rates of Scilympiaditis, as students who reported consuming them had higher Scilympiaditis rates. Which step of investigating an outbreak does this scenario best describe?
+
+3-17. [frq, 1 pt] The local source of meat is shut down and schools are forced to find another supplier. Any leftover meat from the contaminated source still left is thrown out. Which step of investigating an outbreak does this scenario best describe?
+
+3-18. [frq, 1 pt] A report is filed on the outbreak, and the epidemiologists make sure to warn any other places that have received meat sourced from the contaminated local source. This outbreak is noted by the state health department so any similar outbreaks can refer to this one. Which step of investigating an outbreak does this scenario best describe?
+
+3-19. [frq, 1 pt] Recent cases of Scilympiaditis, a contagious virus, have been found across Bradford City. Epidemiologists compared this to past seasons and determined that the number of cases appears to be significantly higher. Which step of investigating an outbreak does this scenario best describe?
+
+3-21. [frq, 1 pt] The epidemiologists ask hospitals for cases of Scilympiaditis so they can monitor the outbreak’s progress along with asking schools to report any potential cases as well. Which step of investigating an outbreak does this scenario best describe?
+
+3-22. [frq, 1 pt] The epidemiologists take samples (nasal swabs) from patients (mainly students) believed to have Scilympiaditis and send them to a local laboratory to verify the presence of the disease. Which step of investigating an outbreak does this scenario best describe?
+
+
+=== 1. Assessing a diagnostic test ===
+
+
+=== 2. Epicurves ===
+
+P5-4-9. [frq, 4 pt] Here is another epicurve. Which of the following scenarios is (are) not consistent with the curve shown? If all are valid scenarios, explain what is common in all of them.
+    
+    A) A local manufacturer of a Nutella like product (selling pretty much the same product under a different brand name for cheaper) had a contamination issue that lasted a couple months, until health inspectors uncovered the issue and shut the Facility down.
+    
+    B) A contagious flu outbreak starts a little after the beginning of the semester, reaches its peak in november, and lasts until winter break, where it tapers off as students go home, thus not being in school to spread the disease.
+    
+    C) Pipes supplying a school water fountain are contaminated, infecting students for a couple months until epidemiologists uncovered the source and shut the fountain down
+    
+    D) A community pool ran out of funding to chlorinate the water in October, but relying on the income generated, decided not to tell any visitors. Visitors were infected by E. Coli in the water until winter, where the pool was shut down anyway due to the costs of maintenance and lack of visitors then.
+    
+    In the box, list the letter(s) of any scenario that is not consistent with the curve; if all are valid, explain what they have in common.
+    
+    
+    [IMAGE: ../images/2024_cornell_invitational_b_c__d_7f188e-4071672f.webp]
+
+
+=== 3. Party outbreak ===
+
+[STIMULUS] Some frat boys pranked a naive hopeful into spelling ICUP (he failed to get accepted to the fraternity due to this). The gullible student, now enraged, decides to infiltrate one of their potlucks and contaminate some of the dishes with salmonella.
+
+Where in the world did he get a source of salmonella? Who knows?
+
+Many people contracted salmonella as a result and investigators compiled data regarding the outbreak.
+
+**Total affected = 48**
+
+**Unaffected = 25**
+
+Here is the incomplete case data recorded by food:
+    |  | Ate it and got infected | Ate it and wasn't affected | Did not eat it but was infected | Did not eat it and was not affected |
+    | Mac and Cheese | 32 | 7 | 16 |  |
+    | Bowl with a collection of various chips (Lays, Doritos…) |  | 11 | 33 |  |
+    | Nashville chicken wings | 38 | 4 |  |  |
+    | Marinara pasta | 18 |  |  | 15 |
+    | Typical Salad | 8 | 12 |  | 13 |
+
+Party-1. [frq, 3 pt] Given that not all foods were initially contaminated with Salmonella by the enraged student, explain how those who didn't eat the initially affected foods might have contracted it. Assume there are no other sources of salmonella aside from that the gullible student provided.
+
+
+=== 4. Prevalence and Risk ===
+
+[STIMULUS] Source: https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html
+
+Assume a city of 102 people from April 1st, 2004 (the beginning; right before the new cases of illness appear). Additional necessary information: Prior to the newer instances of the disease (before the graph), there were 5 active cases. One of these cases died on November 28, 2005 while another died on March 2nd, 2005. The other cases continue suffering from the disease indefinitely beyond the time range shown. These deaths and prior cases are not shown in the graph. Keep this information in mind when answering the problems. For the sake of simplicity, do not assume any population changes due to other causes of death, migration, births or any other factors. Only consider deaths from disease to change the population.
+
+Express all answers as decimals to the thousandths place.
+    [IMAGE: ../images/2024_cornell_invitational_b_c__d_dfc629-9fa21a55.webp]
+
+P7-4-1. [numeric, 3 pt] Determine the point prevalence in April 1st, 2004 (April 1st 2004 is right at the beginning of the graph).
+
+P7-4-2. [numeric, 5 pt] Determine the point prevalence on April 1st, 2005.
+
+P7-4-3. [numeric, 5 pt] Determine the point prevalence for February 1, 2006 (beyond the graph).
+
+P7-4-4. [numeric, 4 pt] Calculate the risk of disease development from Apr 1, 2004 to Sept 30, 2005.
+
+
+=== 5. A Brief Map Analysis ===
+
+[STIMULUS] This is a map of the asbestos mortality rate in the USA.
+    [IMAGE: ../images/2024_cornell_invitational_b_c__d_c3dcaf-3957dcf3.webp]
+    | Label | Answer |
+    | **P8-5-1.** State the mortality rate range in Texas and Minnesota for both time ranges shown. |  |
+    | Texas early | [[q:P8-5-1-a]] |
+    | Minnesota early | [[q:P8-5-1-b]] |
+    | Texas later | [[q:P8-5-1-c]] |
+    | Minnesota later | [[q:P8-5-1-d]] |
+
+P8-5-1-a. [frq, 1 pt] Texas early
+
+P8-5-1-b. [frq, 1 pt] Minnesota early
+
+P8-5-1-c. [frq, 1 pt] Texas later
+
+P8-5-1-d. [frq, 1 pt] Minnesota later
+
+P8-5-2. [frq, 1 pt] Asbestos has many negative effects, including cancer on thin layers of tissue. What is this called?
+    
+    Hint: If you or a loved one have been diagnosed with [X], you may be entitled to financial compensation.
+
+P8-5-3. [frq, 2 pt] Suggest one possible reason why the mortality rate has increased over time.
+
+P8-5-4. [frq, 3 pt] What limitation does this map have with regards to showing mortality rates in the US?

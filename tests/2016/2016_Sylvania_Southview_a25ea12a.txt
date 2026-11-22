@@ -1,0 +1,284 @@
+Sylvania-Southview — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  47 questions, 47.0 pts
+Source: scio.ly test archive id a25ea12a-e454-4bdd-8111-3810559adf2d  |  original files: https://drive.google.com/drive/folders/1Leu2KSqJInW1_7G-16W1NjMf5VTT2r-M
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 27
+
+
+=== Station 1 ===
+
+P1-1. [mcq, 1 pt] Which of the following is the most accurate definition of “infection”?
+    A) The presence of microorganism in a particular location
+    B) The survival and reproduction of microorganisms in a host
+    C) The disruption of normal host functions by microorganisms
+    D) The appearance of symptoms in a host, caused by microorganisms
+
+P1-2. [mcq, 1 pt] Which of the following is an example of an opportunistic infection?
+    A) Normal flora living in the intestine of an animal
+    B) The transmission of an airborne pathogen to a new host, when an infected host sneezes
+    C) An infection caused when a previously nonpathogenic organism mutates into a pathogen
+    D) An infection of the blood caused when a cut on the skin allows a normally skindwelling microorganism to enter the blood
+
+P1-3. [mcq, 1 pt] How does normal flora help to prevent infection by pathogens?
+    A) By occupying all available space in a particular region of the host, leaving no room for pathogens
+    B) By secreting compounds that inhibit the growth of pathogens
+    C) Both of the above answers are correct.
+    D) Neither of the above answers is correct.
+
+P1-4. [mcq, 1 pt] West Nile Virus can kill many birds, such as crows, but it often infects other birds, such as robins, without causing disease. This virus can also infect and cause disease in humans, but the virus cannot be transmitted from an infected human to another animal or human. Which group acts as the reservoir for this virus?
+    A) Crows
+    B) Robins
+    C) Humans
+    D) Crows, robins and humans all serve as reservoirs for this virus.
+
+P1-5. [mcq, 1 pt] A person with a bacterial infection of the respiratory system takes a cough suppressant. Although the individual is no longer bothered by a cough, the bacteria actually survive for a longer period of time in the respiratory tract than they would have, if no cough suppressant was used. This information is evidence that at least in this case:
+    A) both the bacteria and the host are benefitted when the host coughs.
+    B) neither bacteria nor the host are benefitted when the host coughs
+    C) coughing is actually beneficial to the host, because it helps the host rid itself of bacteria
+    D) coughing is beneficial to the bacteria, because it facilitates transmission
+
+P1-6. [mcq, 1 pt] A person with a severe cold sneezes into a bath towel. Later, a family member takes a shower and dries himself with the same bath towel. As he dries his face, this individual becomes infected with the cold virus and develops a cold himself. This is an example of:
+    A) direct contact transmission.
+    B) indirect contact transmission.
+    C) airborne transmission.
+    D) vector transmission.
+
+P1-7. [mcq, 1 pt] Which of the following modes of transmission is especially associated with areas with poor sanitation?
+    A) Direct contact transmission
+    B) Indirect contact transmission
+    C) Food and waterborne transmission
+    D) Airborne transmission
+
+P1-9. [mcq, 1 pt] During the incubation period:
+    A) the number of pathogens in an infected host has not yet reached the disease threshold.
+    B) the number of pathogens in an infected host is above the disease threshold.
+    C) the number of pathogens in an infected host was previously above, but has now dropped below the disease threshold.
+    D) the number of pathogens in an infected host may be above or below the disease threshold, but during this period, the overall number of pathogens is constant.
+
+P1-10. [mcq, 1 pt] If the immune response in an infected host can partially, but not completely eradicate the pathogen, the host may experience:
+    A) an acute illness.
+    B) a chronic illness.
+    C) an opportunistic infection.
+    D) a transient infection.
+
+P1-11. [mcq, 1 pt] In a bacterial exotoxin
+    A) the A subunit allows the toxin to bind to the surface of specific host cells.
+    B) the A subunit is part of the outer bacterial membrane, released when the bacterial cell dies.
+    C) the A subunit is able to interfere with a specific host cell activity, once it has been taken into the host cell.
+    D) we expect the A subunit for all exotoxins to operate in the same manner.
+
+P1-12. [mcq, 1 pt] If Gramnegative bacteria cause an infection of the blood, killing these bacteria rapidly with an antibiotic might result in:
+    A) the release of exotoxin.
+    B) the release of peptidoglycan from the cell walls of these bacteria.
+    C) the release of tissue degrading enzymes by the bacteria.
+    D) the release of lipopolysaccharide by the bacteria.
+
+P1-13. [mcq, 1 pt] Which of the following is NOT a common cytopathic effect of viruses?
+    A) The diversion of host cell resources to viral replication
+    B) The destruction of virallyinfected cells by the host immune system
+    C) The formation of inclusion bodies in virally infected cells
+    D) The production of specific toxins, encoded by the viral nucleic acid
+
+P1-14. [mcq, 1 pt] Protozoan pathogens:
+    A) generally all cause disease by producing toxic compounds.
+    B) generally all cause disease by disruption of host cell membranes.
+    C) may cause disease by a wide range of mechanisms, depending on the specific pathogen.
+    D) are often associated with certain forms of cancer.
+
+P1-15. [mcq, 1 pt] The portal of entry and the portal of exit for a specific pathogen
+    A) is often the same.
+    B) is always the same.
+    C) is never the same.
+
+
+=== Station 2 ===
+
+[STIMULUS] **Case Study: Blake’s Illness**
+
+Blake had spent his first summer off of college tracking the RedTailed Hawk in the national parks surrounding his school. He also experienced other adventures such as camping, bad eating habits, lack of sleep, and some wild parties. With classes starting up again soon, Blake was not feeling very well and was contemplating skipping his first class.
+
+As the first week of school crept on, Blake’s condition had gotten worse. He was suffering from a headache, low grade fever, sore throat, and general malaise. He felt as though his symptoms were so general he could simply treat himself with some advice from the internet and some leftover amoxicillin that was past it expiration date.
+
+After missing the whole first week of classes Blake developed a body rash, a higher fever, and his sore throat worsened. He decided to go to the student health clinic.
+
+Here are the Dr’s notes from his physical exam:
+- T 39.5 ゜ C: BP 128 /68 mmHg; P 111/min; R 28/min
+- Symmetrical Cervical lymphadenopathy
+- Generalized rash on trunk
+- Tonsillar exudates
+- Severe fatigue
+- Pharyngeal erythema
+- No coughing or wheezing
+- Inability to concentrate
+- Loss of appetite
+
+**Genitourinary:**
+- Not assessed
+
+**Results of the initial laboratory blood work:**
+- Hematocrit: 44%
+- Platelets: 110,000μL
+- Leukocyte count: 13,200/μL
+- Differential leukocytes: 9% PMNs, 26% monocytes, 55% lymphocytes; many (10%) atypical cells
+
+**Differential diagnosis:**
+- Streptococcus (Group C or G)
+- Streptococcus pyogenes
+- Neisseria gonorrhoeae
+- Treponema pallidum
+- Borrelia burgdorferi
+- Rickettsia rickettsiae
+- Herpes simplex virus type 1 (HSV 1)
+- Human immunodeficiency virus (HIV)
+- Adenovirus
+- EpsteinBarr virus (EBV)
+- Cytomegalovirus (CMV)
+- Toxoplasma gondii
+
+**Course of Action:**
+- Admitted to Medon Mercy Hospital for further testing and observation.
+
+P2-1. [frq, 1 pt] Using data for the normal blood values provided, compare Blake’s differential blood test results. How, if at all, do Blake's values differ?
+
+P2-2. [frq, 1 pt] Based on Blake’s self diagnosis, what problems exist with his use of amoxicillin, past or present?
+
+[STIMULUS] Blake's throat cultures for the bacterial pathogens were negative, thus no antibiotics were prescribed. An abdominal ultrasound revealed hepatosplenomegaly and a positive monospot confirmed the presence of the EpsteinBarr Virus (EBV). EBV is a member of the herpesvirus family and the etiological agent of infectious mononucleosis. Unfortunately, there is no treatment for this viral disease. The Dr. recommended that Blake get plenty of rest, eat well, and avoid strenuous activity for the next 4 5 weeks.
+
+P2-3. [frq, 1 pt] Hepatosplenomegaly is an enlargement of the liver and the spleen. What might this indicate and how is it useful for differentially diagnosing a patient with infectious mononucleosis?
+
+P2-4. [frq, 1 pt] What is the rationale for suggesting a lack of strenuous physical activity to a patient with an EBV infection?
+
+P2-5. [frq, 1 pt] What innate and acquired protective mechanisms should have been elicited in response to blake’s viral infection?
+
+[STIMULUS] **Part 1:**
+
+India, 1926: The year’s outbreak had begun. Cholera was a fact of life in small villages. Several people died of this disease every year. The afflicted endured severe abdominal pain, vomiting, and diarrhea, and some unfortunate people died from dehydration after several days.
+
+This particular season European men came to the village claiming that they had cured cholera where they came from. The elders of the village did not believe the promises made by the Europeans and asked all of the able bodied men in the village were asked to help drain the well. The villagers were instructed to take water from other wells surrounding the town.
+
+After several days, the Europeans were surprised to see that cholera was still taking lives in the village. Thier surprise turned to outrage when they discovered that the well in which they poured their treatment had been drained.
+
+The European men proceeded to add a purple dye to all of the town’s wells except for one, in which they poured their treatment. The colored water would be avoided by the town’s people, forcing them to drink from the “treated” well.
+
+After a few days of the villagers drinking from the treated well, affected individuals were improving, and there were no new cases reported. The treatment seemed effective.
+
+
+=== Station 3 ===
+
+[STIMULUS] Cholera is caused by bacteria and are typically contracted by drinking contaminated water. In the large intestine, bacteria multiply rapidly and secrete a toxin that penetrates the cells of the intestinal wall. The toxin prevents the cells from absorbing water, which means that water is expelled with digested food, causing diarrhea and dehydration.
+    [IMAGE: ../images/2016_sylvania_southview_c__p6_f5ba18-6d62e17a.webp]
+
+P3-1. [frq, 1 pt] On the image, identify the:
+    - Stomach
+    - Large Intestine
+    - Small Intestine (duodenum)
+    - Small Intestine (jejunum)
+    - Appendix
+
+P3-2. [frq, 1 pt] Create a timeline showing the events that happened in the story.
+
+P3-3. [frq, 1 pt] At the time, the Europeans did not fully understand how their well treatment worked. They only had indications that it worked once in Europe. What ethical issues does imposing a treatment on the villagers without their consent raise? What steps could they have taken that would have made the situation more acceptable?
+
+P3-5. [frq, 1 pt] What conclusions can be drawn from this historical experiment?
+
+
+=== Part II ===
+
+[STIMULUS] In nature, every organism is part of an ecosystem. It feeds on prey and is preyed upon by its predators. Bacteria (including the cholera-causing bacteria) are no exception. Their enemies are bacteriophages, tiny viruses that use them as virus-making factories, often killing them in the process.
+
+A bacteriophage is composed of genetic information (RNA or DNA) and proteins. It is shaped like a moon lander and has three distinct regions. The head contains the genetic material. Proteins form a protective coat around it, giving the head a roundish appearance. The neck and helical sheath are also composed of proteins and serve as a conduit for injecting the genetic material into a bacterium – like a syringe. Finally, the base plate and the tail fibers are responsible for recognizing and binding to target bacteria. Since they are composed of proteins, they have unique three dimensional shapes that fit into specific targets on a bacteria’s surface, in a lock and key fashion.
+
+Like all viruses, bacteriophages are inert and can only replicate inside a cell, using the cell’s energy and machinery. The bacteriophage attaches to the bacteria and injects its genetic material into the cell. The genetic material can then follow one of two fates. It may use the bacterial machinery to replicate its genome and make more of its proteins. In effect, the bacterium becomes a virus-producing factory. Eventually, the bacteriophage directs the production of two proteins that cause the cell wall of the bacterium to rupture, killing the bacterium and releasing the newly synthesized viral particles into the environment to infect other cells. This process is called the **lytic cycle**. Other times, once inside the cell the bacteriophage’s genetic material pursues another path called the **lysogenic cycle**. Here, the viral genome integrates into the bacterial genome. Each time the bacterium replicates, its progeny contains a copy of the viral genome. In time, perhaps when the bacteriophage detects that nutrients are depleted, it resumes a lytic life cycle and exits the bacteria. Although not completely understood by the Europeans at the time, this was the basis of the treatment poured into the wells of Dinesh’s village.
+
+P4-7. [frq, 1 pt] Once a person ingests a dose of phages, how long will the treatment remain effective in his or her body? Logically defend your answer.
+
+P4-8. [frq, 1 pt] What is the lock-and-key model described in the reading? What other topic have we studied in biology that has this same model?
+
+P4-9. [frq, 1 pt] Explain the difference between the lytic cycle and the lysogenic cycle?
+
+P4-10. [frq, 1 pt] What would be the effect on treatment if the bacteriophage that was poured into the wells adopted a lysogenic life cycle?
+
+
+=== Station 4 ===
+
+[STIMULUS] A 7 week old baby has been taken to this hospital after being found limp and blue in her crib by her mother. Two days prior, the mother had taken her to the doctor due to breathing difficulties and the doctors dismissed it as a viral infection. This time she was diagnosed with sepsis and a virulent pneumonia that was destroying her lungs. It was MRSA.
+
+MRSA was first identified in the 1970’s in hospitals, but has since spread across the world, showing up in daycares, schools and other public spaces. Today, 1.2 million MRSA infections occur in hospitals in the U.S. and invasive MRSA kills over 19,000 per year. The bacterium can sometimes “colonize” a person and not cause illness. Ther person can carry it on their bodies for years and pass them to other people or leave them on surfaces.
+
+During the 1950’s derivatives of penicillin was discovered by pharmaceutical companies that could treat *Staphylococcus aureus*. The graph below depicts the Spread of Antibiotic Resistant *S. aureus* Infections in the United States.
+    [IMAGE: ../images/2016_sylvania_southview_c__p8_64ce6a-5e39d506.webp]
+
+P5-1. [frq, 1 pt] Based on the graph, make an inference about where the “community acquired” penicillin resistant *S. aureus* originated from.
+
+P5-2. [frq, 1 pt] Why did methicillin resistance lag behind penicillin resistance? Based on the trend seen with penicillin, what would you expect to see happen with methicillin?
+
+[STIMULUS] A methicillin resistant *Staphylococcus aureus* screen is a test that looks for the presence of MRSA and no other pathogens. It is primarily used to identify the presence of MRSA in a colonized person. A nasal swab is collected from the nares of an asymptomatic person and cultured. A swab may be collected from a wound site or skin lesion of a person who has been previously treated for MRSA infection and cultured similarly. The Kirby-Bauer disk diffusion method is used to study how bacteria respond to antibiotics. Discs containing antibiotics are placed on agar where bacteria are growing, and the antibiotics diffuse out into the agar. If an antibiotic stops the bacteria from growing, we can see circular areas around the wafers where bacteria have not grown.
+
+P5-3. [frq, 1 pt] What is the area where the bacteria is no longer growing around the disks known as?
+
+P5-4. [frq, 1 pt] What methods would hospitals need to employ to eliminate MRSA from their facilities?
+
+P5-5. [frq, 1 pt] What is a “strain” of bacteria? How is it possible that some strains of *Staphylococcus aureus* can be harmless, but other can be deadly?
+
+P5-6. [frq, 1 pt] A scientist suggests that a chemical found on the skin of frogs can used used an an antibiotic. Explain how the Kirby-Bauer disk technique could be sued t o support this hypothesis?
+
+[STIMULUS] Each plate below represents a sample taken in the investigation. Nasal swabs were taken from individual family members and two samples were taken from the hospital delivery room. The samples were grown on agar with antibiotic disks added.
+
+**PE= penicillin / ME = methicillin / CE = cephalothin / VA = vancomycin**
+
+Use the measuring device provided to measure the zones of inhibition on the plates and record them on your answer sheet.
+    [IMAGE: ../images/2016_sylvania_southview_c__p9_940405-ecbbc027.webp]
+
+P5-8. [frq, 1 pt] The following table identifies the sample sources. Which sample contains MRSA? How do you know?
+
+P5-10. [frq, 1 pt] What recommendations would you make to Madeline’s family and the hospital where Madeline was delivered. You recommendations should include evidence based reasoning and details from the case to support your position.
+
+
+=== Station 5 ===
+
+[STIMULUS] The mining district of Lake County, is about 120 miles west of Denver and was the site of gold mining as early as 1859. In the 1870s, silver and lead were also mined. During World War II, large amounts of zinc, lead, and copper were extracted at the site.
+
+Mining at the location has since ceased, but there remains a large quantity of resultant waste at what is known as the “California Gulch Site”, a 15 square mile area that serves as a watershed. Among the waste products from mining operations are mine tailings, slag piles, waste rock piles, and abandoned mine shafts.
+
+P6-1. [frq, 1 pt] During the smelting process, sulfur dioxide has is produced. When dissolved into water, what compound is produced?
+
+P6-2. [frq, 1 pt] What is a watershed? What might be some possible environmental effects of an area like this being mined for lead in light of your answers to the questions above?
+
+P6-3. [frq, 1 pt] What are considered safe levels of lead in human blood in parts per million?
+
+P6-4. [frq, 1 pt] What are some of the effects of overexposure to lead for adults? For children?
+
+P6-5. [frq, 1 pt] How are patients with high levels of lead in their blood treated?
+
+[STIMULUS] Based on the elevated lead levels in children taken at present day, doctors believed that lead ores from the nearby mining district may have contaminated bo th the soil and water in the area. Contained within this 15 square mile area in the California Gulch watershed. It empties into the nearby Arkansas River and provides the community with agricultural irrigation, recreation, and municipal drinking water.
+
+A chemist was hired to test for the presence of lead in groundwater samples using atomic absorption spectrophotometry (AA). Metals in the water and residential soil samples from Lake County will also be tested.
+
+P6-6. [frq, 1 pt] Outline how flame spectrophotometry works by explaining the following:
+    - the absorption of light energy at characteristic wavelengths.
+
+P6-7. [numeric, 1 pt] What concentration (ppm) of lead in drinking water is considered dangerous ("action level") by the US Environmental Protection Agency?
+
+[STIMULUS] Samples of groundwater in and around Lake County have been shown to have lead levels as high as 8 ppm as a result of your water analysis. These concentrations are well above the action level. The EPA has begun evaluating the site for remediation.
+
+There are two major categories of remediation for "heavy" metals such as lead. One method requires the physical movement of contaminated soil to a treatment facility and subsequent transfer of "clean" soil to the affected area. The second method involves phytoremediation, the removal of toxic substances by living plants. Because funding is limited, this second method has been chosen.
+
+The following are four types of phytoremediation: phytoaccumulation, phytodegradation, rhizodegradation, and phytovolatilization. Research indicates that phytoaccumulation is ideally suited for the Lake County site.
+
+P6-8. [frq, 1 pt] Which of the four processes described is the best choice for the cleanup of lead at the Lake County site? Why might the other three techniques not be as effective?
+
+[STIMULUS] **Part 2: MRSA Screening**
+
+A methicillin resistant Staphylococcus aureus (MRSA) screen is a test that looks for the presence of MRSA and no other pathogens. It is primarily used to identify the presence of MRSA in a colonized person. On a community level, screening may be used to help determine the source of an outbreak. On a national level, additional testing may inform clinicians and researchers about the unique genetic characteristics of the strains of MRSA circulating in the community or health care setting.
+
+A nasal swab is collected from the nares (nostrils) of an asymptomatic person and cultured (put onto a special nutrient medium, incubated, and then examined for the growth of characteristic MRSA colonies). A swab may be collected from a wound site or skin lesion of a person who has been previously treated for a MRSA infection and cultured similarly. A screening culture identifies the absence or presence of MRSA and usually takes 1 to 2 days for a result.
+
+When studying how bacteria respond to antibiotics, the Kirby-Bauer disk diffusion method is used. In this technique, discs containing antibiotics are placed on agar where bacteria are growing, and the antibiotics diffuse out into the agar. If an antibiotic stops the bacteria from growing, we can see circular areas around the wafers where bacteria have not grown. This area is called the "zone of inhibition." The diameter of these zones is measured as shown below.
+
+P7-4. [frq, 1 pt] What is a "strain" of bacteria? How is is possible that some strains of Staphylococcus aureus can be harmless, but others can be deadly? (You may need to google this.)
+
+P7-5. [frq, 1 pt] A young scientist suggests that a chemical found on the skin of frogs can be used as an antibiotic. Explain how the Kirby-Bauer disk technique could be used to support this hypothesis.
+
+[STIMULUS] Part 4: Conclusions
+
+P8-7. [frq, 1 pt] Sample 2 was taken from a nasal swab of a family member who has been having sinus infections. What course of antibiotics would you recommend?
+
+P8-8. [frq, 1 pt] What recommendations would you make to Madeline's family and the hospital where Madeline was delivered. Your recommendations should include evidence-based reasoning and details from the case to support your position.

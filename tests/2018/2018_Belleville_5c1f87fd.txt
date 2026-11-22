@@ -1,0 +1,290 @@
+Belleville — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  63 questions, 118.0 pts
+Source: scio.ly test archive id 5c1f87fd-9af5-4274-b354-af2ecf556a34  |  original files: https://drive.google.com/drive/folders/1-yOpPfoLilMqyWuzJbZ_y5mudnlLEs8B
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== I. Choose from the following list to write the terms in the table below to match the appropriate definition. Please note that there are more term choices than you will use ===
+
+[STIMULUS] Morbidity, Mortality, Confounding, Index Case, Hyperendemic, Frequency, Prevalence, Incidence, Association, Carrier, Host, Determinant, Attack rate, Cluster, Antigen, Antibody, Point source, Propagated, Case Definition, Etiology
+
+P1-1. [frq, 2 pt] Term matching the definition: Any substance (e.g., a toxin or the surface of a microorganism or transplanted organ) recognized as foreign by the human body and that stimulates the production of antibodies
+
+P1-2. [frq, 2 pt] Term matching the definition: The statistical relation between two or more events, characteristics, or other variables
+
+P1-3. [frq, 2 pt] Term matching the definition: A form of incidence that measures the proportion of persons in a population who experience an acute health event during a limited period (e.g., during an outbreak), calculated as the number of new cases of a health problem during an outbreak divided by the size of the population at the beginning of the period, usually expressed as a percentage or per 1,000 or 100,000 population
+
+P1-4. [frq, 2 pt] Term matching the definition: A person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease.
+
+P1-5. [frq, 2 pt] Term matching the definition: The first case or instance of a patient coming to the attention of health authorities
+
+P1-6. [frq, 2 pt] Term matching the definition: An aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known)
+
+P1-7. [frq, 2 pt] Term matching the definition: The distortion of the association between an exposure and a health outcome by a third variable that is related to both
+
+P1-8. [frq, 2 pt] Term matching the definition: Any factor that brings about change in a health condition or in other defined characteristics
+
+P1-9. [frq, 2 pt] Term matching the definition: The amount or number of occurrences of an attribute or health outcome among a population
+
+P1-10. [frq, 2 pt] Term matching the definition: Person or other living organism that is susceptible to or harbors an infectious agent under natural conditions
+
+P1-11. [frq, 2 pt] Term matching the definition: The constant presence at high incidence and prevalence of an agent or health condition within a given geographic area or population.
+
+P1-12. [frq, 2 pt] Term matching the definition: any departure, subjective or objective, from a state of physiological or psychological health and well-being
+
+P1-13. [frq, 2 pt] Term matching the definition: Uniform set of criteria that specifies clinical information, details of time, place, and person and is used to determine if an individual is part of an outbreak
+
+P1-14. [frq, 2 pt] Term matching the definition: An outbreak in which the exposure period is relatively brief so that all cases occur within one incubation period
+
+
+=== II. Pick the correct answers from the choices below. Only one answer is correct. ===
+
+P2-1. [mcq, 2 pt] Resistance developed in response to an antigen (i.e., an infecting agent or vaccine), usually characterized by the presence of antibody produced by the host.
+    A) Herd immunity
+    B) Passive immunity
+    C) Active immunity
+    D) Innate immunity
+    E) Population immunity
+
+P2-2. [mcq, 2 pt] A measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame and is calculated as the number of new cases over a specified period divided either by the average population (usually mid-period) or by the cumulative person-time the population was at risk.
+    A) Incidence rate
+    B) Incidence
+    C) Incidence proportion
+    D) Prevalence rate
+    E) Prevalence
+    F) Prevalence proportion
+
+P2-3. [mcq, 2 pt] A measurement scale consisting of quantitative categories whose values are measured on a scale of equally spaced units, but without a true zero point (e.g., date of birth).
+    A) Ratio scale
+    B) Interval scale
+    C) Ordinal scale
+    D) Nominal scale
+    E) Pentatonic scale
+
+P2-4. [mcq, 2 pt] Study in which enrollment is based on status of exposure to a certain factor or membership in a certain group. Populations are followed, and disease, death, or other health-related outcomes are documented and compared.
+    A) Ecological study
+    B) Experimental study
+    C) Case-control study
+    D) Cross sectional study
+    E) Cohort study
+
+P2-5. [mcq, 2 pt] Transmission by a vector in which the infectious agent does not undergo physiologic changes inside the vector.
+    A) Droplet transmission
+    B) Mechanical transmission
+    C) Biological transmission
+    D) Airborne transmission
+    E) Direct transmission
+
+P2-6. [mcq, 2 pt] According to the CDC, what is the safe minimum internal cooking temperature that chicken should be cooked to:
+    A) 150 F
+    B) 155F
+    C) 145 F
+    D) 140 F
+    E) 165 F
+
+P2-7. [mcq, 2 pt] Which of the following would reduce random error?
+    A) Collect more data.
+    B) Collect less data.
+    C) Be more consistent in the way data is collected.
+    D) Be less consistent in the way data is collected.
+    E) Both a and d.
+    F) Both a and c.
+
+P2-8. [mcq, 2 pt] In the table below, what is the total number of people with the disease?
+    [IMAGE: ../images/2018_belleville_c__p4_d02a43-6c376125.webp]
+    A) 15
+    B) 81
+    C) 54
+    D) 59
+
+P2-9. [mcq, 2 pt] Foodborne diseases are caused by bacterial, chemical/toxins, parasitic, and viral agents. Which of the following are characteristics of viruses?
+    A) Can replicate outside of a living cell.
+    B) Can have RNA or DNA
+    C) Can infect plants.
+    D) Can be seen with a light microscope.
+    E) Both b and c
+    F) Both a and b
+
+P2-10. [mcq, 2 pt] How many deaths per year are caused by foodborne diseases as estimated by the CDC:
+    A) 5,000
+    B) 1,000
+    C) 3,000
+    D) 6,000
+
+P2-11. [mcq, 2 pt] Which of the following does not apply to parasitic protists?
+    A) Has RNA and DNA
+    B) Are not animal, plant, or fungus
+    C) Require a host for reproduction
+    D) Diseases they cause can be treated with antibiotic
+
+P2-12. [mcq, 2 pt] Which of the following terms does not apply to vehicle transmission?
+    A) Fomite
+    B) Malaria
+    C) Indirect
+    D) Cooking utensil
+
+P2-13. [mcq, 2 pt] Which of the following is not an etiological agent that can cause a foodborne disease?
+    A) Rotavirus
+    B) Vibrio vulnificus
+    C) Trichinella spiralis
+    D) Yersinia Pestis
+
+
+=== III. Fill in all the blanks in the table. Row 1 is already done. ===
+
+[STIMULUS] Fill in all the blanks in the table. Row 1 is already done.
+    | Scientific Name of pathogen | Type of pathogen | Food borne disease caused by pathogen | One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no) |
+    | Clostridium botulinum | Bacteria | Botulism | no |
+    | Yersinia enterocolitica | [[q:P3-III-1]] | Yersiniosis | [[q:P3-III-2]] |
+    | Listeria monocytogenes | [[q:P3-III-3]] | Listeriosis | [[q:P3-III-4]] |
+    | [[q:P3-III-5]] | Virus | Hepatitis A | [[q:P3-III-6]] |
+    | Giardia | [[q:P3-III-7]] | Giardiasis | [[q:P3-III-8]] |
+    | [[q:P3-III-9]] | [[q:P3-III-10]] | Toxoplasmosis | [[q:P3-III-11]] |
+    | [[q:P3-III-12]] | [[q:P3-III-13]] | Cyclosporiasis | no |
+    | Shigella | [[q:P3-III-14]] | Shigellosis | [[q:P3-III-15]] |
+    | Samonella | [[q:P3-III-16]] | Salmonellosis | [[q:P3-III-17]] |
+    | E. coli O157:H7 | Bacteria | [[q:P3-III-18]] | [[q:P3-III-19]] |
+
+P3-III-1. [frq, 1 pt] Row: Yersinia enterocolitica - Type of pathogen
+
+P3-III-2. [frq, 1 pt] Row: Yersinia enterocolitica - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-3. [frq, 1 pt] Row: Listeria monocytogenes - Type of pathogen
+
+P3-III-4. [frq, 1 pt] Row: Listeria monocytogenes - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-5. [frq, 1 pt] Row: Hepatitis A - Scientific Name of pathogen
+
+P3-III-6. [frq, 1 pt] Row: Hepatitis A - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-7. [frq, 1 pt] Row: Giardia - Type of pathogen
+
+P3-III-8. [frq, 1 pt] Row: Giardia - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-9. [frq, 1 pt] Row: Toxoplasmosis - Scientific Name of pathogen
+
+P3-III-10. [frq, 1 pt] Row: Toxoplasmosis - Type of pathogen
+
+P3-III-11. [frq, 1 pt] Row: Toxoplasmosis - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-12. [frq, 1 pt] Row: Cyclosporiasis - Scientific Name of pathogen
+
+P3-III-13. [frq, 1 pt] Row: Cyclosporiasis - Type of pathogen
+
+P3-III-14. [frq, 1 pt] Row: Shigella - Type of pathogen
+
+P3-III-15. [frq, 1 pt] Row: Shigella - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-16. [frq, 1 pt] Row: Samonella - Type of pathogen
+
+P3-III-17. [frq, 1 pt] Row: Samonella - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+P3-III-18. [frq, 1 pt] Row: E. coli O157:H7 - Food borne disease caused by pathogen
+
+P3-III-19. [frq, 1 pt] Row: E. coli O157:H7 - One of top five pathogens contributing to domestically acquired foodborne illnesses resulting in death (yes or no)
+
+
+=== IV. Use the following excerpt and table from “Notes from the Field: Clostridium perfringens Outbreak at a Catered Lunch — Connecticut, September 2016 Weekly / September 8, 2017 / 66(35);940–941” to answer the next set of questions. ===
+
+[STIMULUS] In September 2016, the Connecticut Department of Public Health was notified of a cluster of gastrointestinal illnesses among persons who shared a catered lunch. The Connecticut Department of Public Health worked with the local health department to investigate the outbreak and recommend control measures. Information about symptoms and foods eaten was gathered using an online survey. A case was defined as the onset of abdominal pain or diarrhea in a lunch attendee <24 hours after the lunch.
+
+Analysis of food exposures reported by 16 ill and 10 well respondents (four respondents did not provide food exposure information) found illness to be associated with the beef dish (RR = undefined; CI = 1.06–∞; p = 0.046) (Table). All 16 ill respondents reported eating the beef.
+
+Seven stool specimens (four from food workers and three from attendees) were culture-positive for Clostridium perfringens, and specimens from all attendees contained C. perfringens enterotoxin.
+
+TABLE. Associations between illness and food exposures reported by attendees at a catered lunch — Connecticut, September 2016
+
+| Food/Drink exposure | Ill persons (n = 16) No. who ate item | Ill persons (n = 16) No. who did not eat item | Well persons (n = 10) No. who ate item | Well persons (n = 10) No. who did not eat item | Risk ratio (95% CI) | P-value |
+|---|---|---|---|---|---|---|
+| Tripe | 12 | 4 | 5 | 5 | 1.59 (0.72–3.51) | 0.234 |
+| Fish | 9 | 7 | 3 | 7 | 1.50 (0.81–2.78) | 0.248 |
+| Pork | 10 | 6 | 5 | 5 | 1.22 (0.64–2.34) | 0.689 |
+| Chicken | 9 | 7 | 6 | 4 | 0.94 (0.51–1.73) | 1 |
+| Beef | 16 | 0 | 7 | 3 | — (1.06–∞) | 0.046 |
+| Noodles | 11 | 5 | 7 | 3 | 0.98 (0.51–1.88) | 1 |
+| Mixed vegetables | 8 | 8 | 4 | 6 | 1.17 (0.64–2.14) | 0.702 |
+| Spring rolls | 14 | 2 | 7 | 3 | 1.67 (0.55–5.08) | 0.34 |
+| Cake | 10 | 6 | 2 | 8 | 1.94 (1.01–3.75) | 0.051 |
+| Pudding | 7 | 9 | 3 | 7 | 1.24 (0.69–2.25) | 0.683 |
+| Yam dessert | 10 | 6 | 4 | 6 | 1.43 (0.74–2.75) | 0.422 |
+| Rice | 15 | 1 | 9 | 1 | 1.25 (0.30–5.17) | 1 |
+| Grapes | 9 | 7 | 5 | 5 | 1.10 (0.59–2.04) | 1 |
+| Mango salad | 6 | 10 | 4 | 6 | 0.96 (0.51–1.81) | 1 |
+| Muffin | 5 | 11 | 1 | 9 | 1.52 (0.89–2.58) | 0.352 |
+| Bagel | 8 | 8 | 2 | 8 | 1.60 (0.90–2.86) | 0.218 |
+| Coffee | 11 | 5 | 2 | 8 | 2.20 (1.06–4.55) | 0.041 |
+| Juice | 5 | 11 | 2 | 8 | 1.23 (0.67–2.26) | 0.668 |
+| Water | 15 | 1 | 10 | 0 | 0.60 (0.44–0.83) | 1 |
+| Soda | 4 | 12 | 2 | 8 | 1.11 (0.57–2.17) | 1 |
+
+Abbreviations: CI = confidence interval; RR = risk ratio.
+
+P4-14. [mcq, 2 pt] This risk ratio indicates the author used what kind of a study:
+    A) Cohort
+    B) Case control
+    C) Cross-sectional
+    D) Public Surveillance
+    E) Experimental
+
+P4-15. [frq, 8 pt] A case definition has four parts. Look at the authors case definition. List the four general terms of the case definition and how they are defined in this specific case.
+
+P4-16. [mcq, 2 pt] The authors calculated CI and p-values. Which test did they most likely apply to calculate p-values?
+    A) Fisher’s exact (sample size less than 30)
+    B) Pearson’s chi-square (uncorrected)
+    C) Yates chi-square (corrected)
+    D) Mantel-Haenszel chi-square
+    E) Both a and d
+
+P4-17. [frq, 1 pt] Make a 2X2 table and use it to show how the authors calculated the risk ratio for Tribe of 1.59. Show table, formula used and calculations:
+
+P4-18. [frq, 4 pt] Why is no risk ratio shown for beef?
+
+P4-19. [frq, 4 pt] There is no risk ratio listed for beef and yet the authors claim there is an association of becoming sick with having eaten beef. One reason is that all 16 people who became ill ate the beef. However, 15 people who became ill reported having eaten rice. It is feasible that more people who became ill ate rice rather than beef as 4 people who became ill did not provide food exposure information. What information from the table indicates that the beef was the more likely culprit? TIEBRAKER 2
+
+P4-20. [mcq, 2 pt] What is the % value that the calculated risk ratio for spring rolls does not fall within the CI range of 0.55–5.08?
+    A) .45%
+    B) 5%
+    C) 94.92%
+    D) 99.45%
+    E) 1%
+
+P4-21. [mcq, 2 pt] What type of pathogen is Clostridium perfringens?
+    A) virus
+    B) parasite
+    C) bacteriophage
+    D) gram-negative bacteria
+    E) gram-positive bacteria
+
+P4-22. [mcq, 2 pt] What is the incubation period for Clostridium perfringens?
+    A) 1-3 days
+    B) 12-48 hours
+    C) 8-16 hours
+    D) 15-50 days
+    E) 1-8 days
+
+
+=== V. Use the following information to answer the questions below. ===
+
+[STIMULUS] Legionnaires’ disease is a form of pneumonia caused by Legionella bacteria commonly found in water systems. Specially treated water pipes can help prevent spread of Legionella, which is transmitted by inhalation of aerosolized contaminated water droplets. The incubation period is 2-10 days. Hospitalized patients, because they are often older or suffering from immunocompromising or chronic illnesses, are at high risk for LD. Diseases that are caused from being hospitalized are referred to as healthcare-associated.
+
+In October 2012, the CDC was contacted by a Veterans Affairs hospital to investigate an outbreak of LD in their patients. Investigators categorized laboratory-confirmed cases as definite, probable, or possible healthcare-associated and not healthcare-associated based on time patients spent in the hospital during the incubation period. The investigation showed a link of laboratory confirmed cases of LD diagnosed at the hospital and the water system in the hospital.
+
+P5-23. [frq, 2 pt] What does CDC stand for?
+
+P5-24. [frq, 2 pt] In order to categorize the cases as definite, probable, or possible, patients’ information of signs/symptoms, the time of possible exposure, and if presence of Legionella in patients was laboratory-confirmed was most likely collected in the form of what type of table?
+
+[STIMULUS] Investigators presented their findings in this figure*:
+
+*Clin Infect Dis. 2015 Jun 1;60(11):1596-602. doi: 10.1093/cid/civ153. Epub 2015 Feb 25.
+    [IMAGE: ../images/2018_belleville_c__p10_447eca-53b15860.webp]
+
+P5-25. [frq, 2 pt] What is this type of graph called?
+
+P5-26. [frq, 2 pt] What information is missing from the graph?
+
+P5-27. [frq, 4 pt] Write what the missing information could look like?
+
+P5-28. [numeric, 2 pt] How many probable healthcare-associated cases are there?
+
+P5-29. [numeric, 2 pt] How many definite healthcare-associated cases are there?
+
+P5-30. [frq, 2 pt] A disease acquired in a hospital setting is described as what?

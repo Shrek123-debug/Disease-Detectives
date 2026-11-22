@@ -1,0 +1,187 @@
+High Desert Mini Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  43 questions, 110.0 pts
+Source: scio.ly test archive id 0d73af9f-b462-4e3b-9559-ced77dbf9daa  |  original files: https://drive.google.com/drive/folders/1-IvKrMX_vw-2MQjiL3payF1fnHeOmQyZ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+
+=== Welcome to the MINI Disease Detective Division C Test ===
+
+1. [multi, 3 pt] Which are forms of the plague?
+    A) Bubonic
+    B) Talasic
+    C) pneumonic
+    D) Formic
+    E) septicemic
+
+2. [multi, 5 pt] Identify all types of infective agents:
+    A) Bacteria
+    B) Fungi
+    C) Helminths
+    D) Plaque
+    E) Protozoa
+    F) Viruses
+
+3. [mcq, 1 pt] Public health surveillance can be described primarily as which of following
+    A) A method to monitor occurrences of public health problems.
+    B) A program to control disease outbreaks.
+    C) A system for collecting health-related information.
+    D) A system for monitoring persons who have been exposed to a communicable disease.
+
+4. [multi, 3 pt] Data collected through which of following methods is commonly used for surveillance
+    A) Vital registration.
+    B) Randomized clinical trials.
+    C) Disease notifications.
+    D) Population surveys.
+
+5. [multi, 3 pt] Criteria for prioritizing health problems for surveillance include which of following
+    A) Incidence of the problem.
+    B) Public concern about the problem.
+    C) Number of previous studies of the problem.
+    D) Social and economic impact of the problem.
+
+6. [mcq, 1 pt] Which type of surveillance involves reports from health professionals selected to represent a particular area or group?
+    A) Syndromic
+    B) Passive
+    C) Sentinel
+    D) Active
+
+7. [mcq, 1 pt] ____ refers to a disease or condition present among a population at all times
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Endemic
+
+9. [multi, 1 pt] What are the 4 levels of prevention?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quarternary
+
+10. [frq, 2 pt] A/an ____disease that is present at a continuous level throughout a population/geographic area.
+
+11. [frq, 2 pt] A disease is ____when no signs or symptoms are shown. The patient can still be a carrier of the disease.
+
+12. [frq, 2 pt] ____is the number of cases of a disease occurring within a population at any one given point in time
+
+13. [frq, 2 pt] ____transmission occurs through bite from fleas ticks and mosquitoes
+
+14. [frq, 2 pt] ____is the rapid spread of disease to a large number of people in a given population within a short period of time.
+
+15. [frq, 2 pt] The ____is an opening allowing the microorganism to enter the host.
+
+16. [frq, 2 pt] A ____is a persistent, high level of disease occurrence.
+
+17. [frq, 2 pt] ____is the action taken to prevent disease, especially by specified means or against a specified disease.
+
+18. [frq, 2 pt] Women appeared to be more susceptible to an illness than men, but when studies were carried out, men were found to have a higher probability of contracting the illness. This is known as ____Paradox.
+
+19. [frq, 2 pt] MDPH recruiting hospitals to report influenza-like illnesses every week is an example of ____surveillance.
+
+[STIMULUS] For the following prevention strategies, indicate which of the levels of prevention (primordial, primary, secondary, or tertiary) they are examples of. (Type carefully)
+
+20a. [mcq, 2 pt] Screening for High Blood Pressure
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+
+20b. [mcq, 2 pt] Targeted smoking cessation programs.
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+
+20c. [mcq, 2 pt] Rehabilitation of stroke patients
+    A) primordial
+    B) primary
+    C) secondary
+    D) tertiary
+
+21. [frq, 2 pt] ____ is an aggregation of cases of a disease in a particular area during a particular period of time without regard to whether the number of cases is more than expected (often the expected number is not known)
+
+[STIMULUS] Epidemiologists often refer to things that cause disease as "agents" and "agent/host/environment" is one of the famous triads (three-word groups) in public health. Agents may be biological, chemical or physical. For the following type "B" for those agents that are Biological, a "C" for those that are Chemical, and a "P" for those that are Physical.
+
+
+
+
+
+
+
+22a. [mcq, 2 pt] Gangrene — bacterium Clostridium perfringens
+    A) B
+    B) C
+    C) P
+
+22b. [mcq, 2 pt] AIDS — Human immunodeficiency virus (HIV)
+    A) B
+    B) C
+    C) P
+
+22c. [mcq, 2 pt] Alcohol poisoning — Ethyl Alcohol
+    A) B
+    B) C
+    C) P
+
+23. [numeric, 2 pt] What is the incidence rate in 2010 during the H1N1 epidemic if 100,000 people were diagnosed, and around 4,000 people were also at risk of contracting H1N1. ____ (whole number)
+
+[STIMULUS] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the following statistics.
+
+Write your answers as percentages rounded to one decimal place.
+
+24a. [numeric, 2 pt] Positive Predictive Value ____ %
+
+24b. [numeric, 2 pt] Negative Predictive Value ____ %
+
+25. [frq, 10 pt] What is the difference between the Clinical Approach and the Public Health Approach?
+
+[STIMULUS] 
+    [IMAGE: ../images/2023_high_desert_mini_invitational_b_c__p5_86a21e-ad1b22c5.webp]
+
+26a. [numeric, 2 pt] Calculate the relative risk. ____(whole number)
+
+26b. [numeric, 2 pt] Calculate the attack rate for the exposed. ____% (whole number)
+
+26c. [numeric, 2 pt] Calculate the attack rate for the unexposed. ____% (whole number)
+
+29g. [mcq, 2 pt] Classify this investigation question as relating to Person, Place, or Time: Were there any reports of dead rodents?
+    A) Person
+    B) Place
+    C) Time
+
+29h. [mcq, 2 pt] Classify this investigation question as relating to Person, Place, or Time: If there were reports of dead rodents, where were they seen?
+    A) Person
+    B) Place
+    C) Time
+
+29i. [mcq, 2 pt] Classify this investigation question as relating to Person, Place, or Time: Were there any reports of insect or flea bites?
+    A) Person
+    B) Place
+    C) Time
+
+30. [mcq, 1 pt] The notification of other state and local health departments of the situation and request that they report suspect cases to CDC represents which of the below types of surveillance?
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+
+32a. [frq, 2 pt] What study design is represented here? ____ study
+    [IMAGE: ../images/2023_high_desert_mini_invitational_b_c__p7_9e6a50-6611a6e0.webp]
+
+33. [frq, 9 pt] Explain what is meant by an epizootic.
+
+34. [mcq, 1 pt] Which of the below follow-up options is the most appropriate for this situation?
+    A) Close the park indefinitely until it is verified plague free
+    B) Post signs to warn the public to avoid this area as well as provide information on personal prevention and disease symptoms for awareness
+    C) Conduct aerial insecticide sprays over the entire park
+    D) Trap and remove all rodents from the northwest part of Big Dome
+
+35. [frq, 2 pt] CDC and others recognize that the health of people is connected to the health of animals and the environment. There is a movement for partnerships between physicians, veterinarians, and other scientific health disciplines. What is this initiative called?
+
+36. [frq, 9 pt] What are the nine parts of Bradford Hill’s Criteria for Causation?
+
+[STIMULUS] 
+    [IMAGE: ../images/2023_high_desert_mini_invitational_b_c__p9_06a69f-11f32c2d.webp]
+
+37a. [frq, 3 pt] What mode of spread does this epi curve describe?
+
+37b. [frq, 3 pt] When does this type of epidemic occur?

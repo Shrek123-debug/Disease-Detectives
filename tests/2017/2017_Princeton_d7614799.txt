@@ -1,0 +1,653 @@
+Princeton — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  103 questions, 204.0 pts
+Source: scio.ly test archive id d7614799-439b-4abb-a689-2a1edd50a223  |  original files: https://drive.google.com/drive/folders/1f12YOO7x0NjpIwUi3hIFrTck4aciSH_m
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: You will have 50 minutes to complete this test. Each team is allowed one 8.5” by 11” double sided page of information and up to 2 non-programmable calculators. Write your team number on each page. You are allowed and encouraged to split the test. However, you must return all pages in order and stapled at the end of the testing period. Make sure at the beginning and end of the test that you have 25 pages. Answers are to be written directly on the test booklet. Show your work for full credit. Ask questions if you need clarifications.
+
+
+=== Part I: General Information Warmup ===
+
+[STIMULUS] 1-17: Give the word that matches the definition:
+
+1. [frq, 1 pt] Give the word that matches the definition: An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+
+2. [frq, 1 pt] Give the word that matches the definition: More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time
+
+3. [frq, 1 pt] Give the word that matches the definition: An epidemic occurring over several countries or continents and affecting a large proportion of the population
+
+4. [frq, 1 pt] Give the word that matches the definition: An organism that transmits disease
+
+5. [frq, 1 pt] Give the word that matches the definition: A physical object that serves to transmit an infectious agent from person to person
+
+6. [frq, 1 pt] Give the word that matches the definition: An infectious disease that is transmissible from animals to humans
+
+7. [frq, 1 pt] Give the word that matches the definition: Time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+
+8. [frq, 1 pt] Give the word that matches the definition: Nine criteria must be met to establish a cause-and-effect relationship
+
+9. [frq, 1 pt] Give the word that matches the definition: The continuous, systematic collection, analysis and interpretation of health-related data needed for the planning, implementation, and evaluation of public health practice.
+
+10. [frq, 1 pt] Give the word that matches the definition: Present at a continuous level throughout a population/geographic area; constant presence of an agent/health condition within a given geographic area/population; refers to the usual prevalence of an agent/condition
+
+11. [frq, 1 pt] Give the word that matches the definition: Total number of deaths reported during a given time interval divided by the estimated mid-interval population
+
+12. [frq, 1 pt] Give the word that matches the definition: Transfer of a pathogen to a susceptible host by a vector, with the pathogen undergoing, reproduction, developmental changes, or both while in the vector.
+
+13. [frq, 1 pt] Give the word that matches the definition: An infected person or animal that contains, spreads, or harbors and infectious organism.
+
+14. [frq, 1 pt] Give the word that matches the definition: Periodic increases and decreases in the occurrence, interval, or frequency of disease
+
+15. [frq, 1 pt] Give the word that matches the definition: A measure of the relative impact of various health-related states or events on a population; it identifies the loss of expected years of life because of premature death in the population
+
+16. [frq, 1 pt] Give the word that matches the definition: Transmission from an individual to its offspring through sperm, placenta, milk, or vaginal fluids
+
+17. [frq, 1 pt] Give the word that matches the definition: Epidemiological study in situations where nature is allowed to take its course. Changes or differences in one characteristic are studied in relation to changes or differences in others, without the intervention of the investigator.
+
+18. [frq, 5 pt] Name the ten steps of an outbreak investigation
+
+19. [frq, 1 pt] A host can be infected, susceptible, or ____
+
+20. [frq, 2 pt] What is the difference between morbidity and mortality?
+
+21. [frq, 2 pt] What is the difference between incidence and prevalence?
+
+[STIMULUS] 22-32: Name the type of bias or error using the word bank provided. Each word is used once
+
+Word Bank:
+Information Bias
+Healthy Worker Effect Bias
+Confounding Bias
+Berkson’s Bias
+Volunteer Bias
+Selection Bias
+Loss to Follow-up
+Observer Bias
+Measurement Bias
+Recall Bias
+Simpson’s Paradox
+
+22. [mcq, 1 pt] Name the type of bias or error: A case control study of pancreatic cancer and coffee drinking is conducted. Controls were selected from gastroenterologist’s patients in same hospital. However, GI patients are less likely to drink coffee than the rest of the population because of their disease. Hence the OR for coffee drinking was artificially increased due to the under-representation of coffee drinkers among controls.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+23. [mcq, 1 pt] Name the type of bias or error: Results from systematic differences in the way data on exposure or outcome are obtained from the various study groups
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+24. [mcq, 1 pt] Name the type of bias or error: A group of women filed a lawsuit against Berkeley, claiming that their admission rates were unfairly lower than men’s overall. However, it turned out that their admission rates were higher than men in each of Berkeley’s colleges. They simply tended to apply to more selective programs.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+25. [mcq, 1 pt] Name the type of bias or error: An ex-prisoner was contacted months after he got norovirus in a prison outbreak. He seems unable to remember what his symptoms were.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+26. [mcq, 1 pt] Name the type of bias or error: An Asian man conducts a case-control study. The demographic of the cases reflect the general population, but all the controls selected are Asian men.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+27. [mcq, 1 pt] Name the type of bias or error: An epidemiologist seeks to find out whether working in a nuclear power plant increases the likelihood of dying from all causes. His findings, though, are underestimated. His cohorts are nuclear power plant workers, but he compares them to the general population who may or may not have jobs.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+28. [mcq, 1 pt] Name the type of bias or error: 30 years ago, an epidemiologist gathered a group of smokers. He plans to see if they developed lung cancer in that time, but can’t seem to contact a few of them.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+29. [mcq, 1 pt] Name the type of bias or error: A study falsely concluded that alcoholism led to coronary heart disease. However, the real association lies in the fact that smokers are more likely to be alcoholics as well.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+30. [mcq, 1 pt] Name the type of bias or error: A study uses different interviewers for cases and controls. One is much more knowledgeable than the other and asks better questions.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+31. [mcq, 1 pt] Name the type of bias or error: A study has a bunch of cases. A study put up fliers for those who wanted to participate in a study as controls. However, the researchers found that those who responded were much different demographically than the cases.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+32. [mcq, 1 pt] Name the type of bias or error: In a study of the effects of hypertension on heart disease, a nurse performs blood pressure measurements on the subjects using a faulty sphygmomanometer that always records blood pressures on the high side.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+    K) Simpson’s Paradox
+
+
+=== Part II: Simple Probability and Statistics Involving 2x2 Tables ===
+
+[STIMULUS] These questions refer to the same data. Questions refer to the next set of data
+
+1. McCosh Health Center is dealing with an outbreak of E. Coli, and is using a fecal matter test, Test A, to look for the presence of the pathogen. The results and accuracy of the test are summarized below:
+
+|  | E. Coli | No E. Coli |
+|---|---|---|
+| Test A is positive | 90 | 4995 |
+| Test A is negative | 10 | 94905 |
+
+II-1. [frq, 1 pt] In which specific step of the outbreak investigation would the accuracy of Test A be analyzed?
+
+II-2. [frq, 2 pt] What is the definition of a false positive? How many false positives are there in this test?
+
+II-3. [frq, 2 pt] What is a true negative? How many true negatives are there in the test?
+
+II-4. [frq, 4 pt] Calculate the sensitivity and specificity of the above study. Also, provide interpretations for the sensitivity and specificity.
+
+II-5. [frq, 2 pt] Given that you have tested positive for E. Coli, what is the probability that you actually have the disease? Explain how this result is consistent with the results calculated above.
+
+[STIMULUS] McCosh Health Center is also testing the effectiveness of Drug A as a potential cure for long-term nerve pain caused by the Clostridium Botulism pathogen from food poisoning. The result of Drug A against a placebo are summarized in the 2x2 table below:
+
+|  | Symptoms Relieved | Not Relieved |
+|---|---|---|
+| Placebo | 41 | 216 |
+| Drug A | 64 | 180 |
+
+II-6. [frq, 4 pt] What is an appropriate null hypothesis for this experimental study? What is the corresponding alternative hypothesis?
+
+II-7. [frq, 4 pt] Based on the results above, calculate and fill in the expected number of patients of each treatment who have their symptoms relieved and not relieved:
+
+II-8. [frq, 3 pt] Describe any major differences between your table of expected values and the observed data. Based on these values, can we conclude that Drug A causes a reduction in nerve pain?
+
+II-9. [frq, 2 pt] A chi-square test is a statistical test that uses the X² distribution to decide if there is any difference between the observed (experimental) value and the expected (theoretical) value. In this experiment, a X² value was obtained of 7.979, corresponding to a p-value of 0.0047. Provide an interpretation for the null hypothesis below:
+
+II-10. [frq, 2 pt] Based on the results of the chi-square test, can we reasonably reject the null hypothesis? Why or why not?
+
+II-11. [frq, 2 pt] What is the difference between a Type I and Type 2 error in a statistical study?
+
+
+=== Part III: Foodborne Outbreak Case Study ===
+
+[STIMULUS] On December 28th, in the resort town of Aspen, Colorado, the local director of the Colorado Department of Health contacted the CDC about an outbreak of what appeared to be ‘traveler’s diarrhea’. Within the city of Aspen, 54 people had come down with watery diarrhea, abdominal cramps, flatulence, gastrointestinal upset and nausea. Nine people were hospitalized, and three had disease requiring intravenous feeding and hydration to prevent malnutrition. The nine hospitalized patients had moderately severe fatigue, mild to moderate weight loss, and a peculiarly ‘greasy’ diarrhea. Of note, 26 of the patients were children under the age of 6, on vacation or living in Aspen with their parents. There were no deaths.
+
+All the cases occurred over a four week period in December/January, and they appeared concentrated in two ski resorts. The following data on the onset of the disease was collected from the hospital:
+
+| Date | No. Patients |
+|---|---|
+| 15-Dec-16 | 0 |
+| 16-Dec-16 | 1 |
+| 17-Dec-16 | 2 |
+| 18-Dec-16 | 0 |
+| 19-Dec-16 | 1 |
+| 20-Dec-16 | 0 |
+| 21-Dec-16 | 0 |
+| 22-Dec-16 | 0 |
+| 23-Dec-16 | 0 |
+| 24-Dec-16 | 0 |
+| 25-Dec-16 | 0 |
+| 26-Dec-16 | 1 |
+| 27-Dec-16 | 2 |
+| 28-Dec-16 | 6 |
+| 29-Dec-16 | 7 |
+| 30-Dec-16 | 9 |
+| 31-Dec-16 | 10 |
+| 1-Jan-17 | 6 |
+| 2-Jan-17 | 4 |
+| 3-Jan-17 | 2 |
+| 4-Jan-17 | 1 |
+| 5-Jan-17 | 1 |
+| 6-Jan-17 | 0 |
+| 7-Jan-17 | 0 |
+| 8-Jan-17 | 1 |
+
+III-1. [frq, 3 pt] What sources do epidemiologists use to establish the existence of an outbreak? Give at least 3
+
+III-3. [frq, 4 pt] What type of epi-curve is this? Why is this typical for foodborne outbreaks?
+
+III-4. [frq, 2 pt] Based on this epi-curve, what is the approximate incubation period of this disease? Explain.
+
+III-5. [frq, 4 pt] Comment on the outliers in the epi-curve. Give 3 reasons why the outliers might have different onsets of illness than the rest of the patients
+
+III-6. [frq, 2 pt] Assume that there were 200 people present in the hotels at a time (the actual value is unknown). What was the incidence rate of the disease on December 31st? If each patient was sick for a week, what was the prevalence rate of the disease?
+
+[STIMULUS] The source of the disease was not immediately obvious, so the 54 patients (or their parents) were given a questionnaire, and 100 other demographically matched people selected from resorts throughout Aspen were also asked the same questions. The following data table was constructed, containing answers to some possibly pertinent questions:
+
+| Factor | Sick | Well |
+|---|---|---|
+| Staying at Holiday Chalet or Ski Resorts Intl. | 50 | 7 |
+| In Aspen longer than 1 week | 46 | 41 |
+| Drink bottled water only | 6 | 11 |
+| Skier or snowboarder | 26 | 87 |
+| Age under 6 | 26 | 15 |
+| Hotel’s restaurant or room service food | 25 | 61 |
+| Employed in Aspen | 6 | 8 |
+| Total | 54 | 100 |
+
+III-7. [frq, 4 pt] When interviewing subjects in any epidemiological study, what 4 types of information need to be collected?
+
+III-8. [frq, 4 pt] List the most common 2 types of analytical epidemiological studies. List the statistic associated with each study
+
+III-9. [frq, 4 pt] Identify 2 pros and cons for each type
+
+III-10. [frq, 1 pt] Which type of study was conducted at Aspen?
+
+III-11. [frq, 1 pt] Which statistic from question III-8 will you calculate in this study? Why can’t you use the other statistic?
+
+III-12. [frq, 5 pt] Calculate the appropriate statistic for each of the factors above (use the space below for work, but write result to the right of the Well column above). Box 1 sample calculation in the space below.
+
+III-13. [frq, 2 pt] Do any of the factors appear associated with the disease? Are any factor protective?
+
+III-14. [frq, 2 pt] As a researcher, how could you increase the accuracy of this study? Give 2 possible ways.
+
+[STIMULUS] The researchers from CDC elicited further information regarding the outbreak. Their analysis revealed the following points:
+- The majority of adult victims had stayed at the Holiday Chalet
+- Holiday Chalet and the Ski Hotel Intl. share a daycare facility, Ski-babies Inc.
+- Of the hospitalized victims, 2 were HIV+ and traveling together, 2 were children, and 4 had type A blood.
+- The first 4 patients to present were all from a group of 8 people on ski holiday from jobs with the U.S. Commerce department, and had recently returned from a trade conference in Leningrad, Russia.
+- The sick employees included 2 daycare workers, a cook at Holiday Chalet, and 2 maintenance men at Aspen Ski Hotel, who had recently repaired several broken hot tubs at the hotel.
+- All the patients were treated with Flagyl and slowly recovered, some remaining symptomatic for five weeks. The CDC decided to begin examining stool samples and begin sero-testing by ELISA assay, for both sick and well individuals in Aspen. Case definitions were then created.
+
+III-15. [frq, 3 pt] Identify at least 3 risk factors for the development of this disease
+
+III-16. [frq, 6 pt] List the 6 members/steps of the classic Chain of Transmission model (in relative order). Give one possible example of each step for this outbreak
+
+III-17. [frq, 4 pt] List the 4 necessary components of any case definition and identify them for this outbreak
+
+III-18. [frq, 3 pt] There are 3 levels of case definitions. Name and identify them in context of this study
+
+[STIMULUS] The following data was collected regarding the children in various daycare centers in Aspen:
+
+| Daycare facility | # Kid | Mean age | Ill | ELISA | Hospitalized |
+|---|---|---|---|---|---|
+| Ski-babies | 104 | 3 ½ | 25 | 48 | 2 |
+| Ames Daycare | 44 | 3 ¼ | 1 | 8 | 0 |
+| Parson Childcare | 39 | 3 ½ | 2 | 7 | 0 |
+| Total | 187 | 3 ½ | 28 | 63 | 2 |
+
+III-19. [frq, 2 pt] What is the attack rate in Ski-babies daycare? What about in Parsons childcare?
+
+III-20a. [frq, 2 pt] Assume all children in Ski-babies were exposed to the organism. Provide calculations for your estimate of the following, or explain why it is not possible with the data given: Infectivity
+
+III-20b. [frq, 2 pt] Assume all children in Ski-babies were exposed to the organism. Provide calculations for your estimate of the following, or explain why it is not possible with the data given: Pathogenicity
+
+III-20c. [frq, 2 pt] Assume all children in Ski-babies were exposed to the organism. Provide calculations for your estimate of the following, or explain why it is not possible with the data given: Virulence
+
+III-21. [frq, 4 pt] Very few children in Ames or Parsons were ill, despite a known incidence of ELISA positivity. Give three reasons why this might be so. What is ELISA positivity without disease called?
+
+III-22. [frq, 3 pt] How much more likely are children to be sick if they are cared for at Ski-babies? Calculate the appropriate statistical measure of their increased risk and record it below.
+
+III-23. [frq, 4 pt] You are the CDC officer in Aspen. Given what you know about the transmission of disease in daycare centers, give four control measures you would recommend and institute immediately.
+
+[STIMULUS] Regarding the 28 adult cases, the CDC excluded the daycare workers and the maintenance men, who had not eaten at either hotel. Further, the CDC determined that of the remaining 24 cases, 21 were staying at the Holiday Chalet; the remaining 3 patients had eaten at least 3 meals there. It was determined the one cook who had the disease had been working at Holiday Chalet.
+
+III-24. [frq, 6 pt] Identify 5 points in the Food Production Chain in which food may be contaminated. Which method(s) may be implicated in this case?
+
+III-25. [frq, 1 pt] The CDC determined the pathogen in this instance to be Giardia Lamblia, which is instantly killed by exposure to boiling water. What foods may the cook have prepared?
+
+III-26. [frq, 3 pt] List the 3 components of the epidemiological triad and identify the components in context of the study
+
+III-27. [frq, 4 pt] You are the CDC officer in Aspen. Given what you know about the transmission of this organism, and from the analyses you have performed, what are four recommendations you would make to the public on the control of this outbreak?
+
+III-28. [frq, 2 pt] What are two general ways to communicate the results of your findings?
+
+
+=== Part IV: General Knowledge: Pathogens and Food Safety ===
+
+[STIMULUS] 1-10: Identify the types of the following pathogens (Bacteria, Virus, Parasite)
+
+IV-1. [mcq, 1 pt] Identify the type of the following pathogen: Giardiasis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-2. [mcq, 1 pt] Identify the type of the following pathogen: Hepatitis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-3. [mcq, 1 pt] Identify the type of the following pathogen: Toxoplasmosis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-4. [mcq, 1 pt] Identify the type of the following pathogen: Listeriosis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-5. [mcq, 1 pt] Identify the type of the following pathogen: Salmonella
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-6. [mcq, 1 pt] Identify the type of the following pathogen: Yersinia
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-7. [mcq, 1 pt] Identify the type of the following pathogen: Cyclosporiasis
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-8. [mcq, 1 pt] Identify the type of the following pathogen: Norovirus
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-9. [mcq, 1 pt] Identify the type of the following pathogen: E. Coli
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+IV-10. [mcq, 1 pt] Identify the type of the following pathogen: Typhoid Fever
+    A) Bacteria
+    B) Virus
+    C) Parasite
+
+[STIMULUS] 11-21: Match the organism with it MOST LIKELY source (write letter, do not draw lines). Each is used once, so pick the choice that best fits each one
+
+a. Raw oysters, shellfish
+b. Fowl Intestines
+c. Cooked Tuna and barracuda
+d. Infected pork meat
+e. Recreational Water
+f. Pig Intestines
+g. Cattle
+h. Improperly canned food
+i. Fecal-oral
+j. Kitchen Equipment
+k. Raw fish
+
+IV-11. [mcq, 1 pt] Match the organism with its most likely source: Shigella
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-12. [mcq, 1 pt] Match the organism with its most likely source: Campylobacter
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-13. [mcq, 1 pt] Match the organism with its most likely source: E. Coli (STEC) O157
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-14. [mcq, 1 pt] Match the organism with its most likely source: Clostridium botulinium
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-15. [mcq, 1 pt] Match the organism with its most likely source: Ciguatoxin poisoning
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-16. [mcq, 1 pt] Match the organism with its most likely source: Staph aureus
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-17. [mcq, 1 pt] Match the organism with its most likely source: Vibrio vulnificus
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-18. [mcq, 1 pt] Match the organism with its most likely source: Trichinella
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-19. [mcq, 1 pt] Match the organism with its most likely source: Diphyllobothrium latrium
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-20. [mcq, 1 pt] Match the organism with its most likely source: Giardia lamblia
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+IV-21. [mcq, 1 pt] Match the organism with its most likely source: Yersinia Enterocolitica
+    A) Raw oysters, shellfish
+    B) Fowl Intestines
+    C) Cooked Tuna and barracuda
+    D) Infected pork meat
+    E) Recreational Water
+    F) Pig Intestines
+    G) Cattle
+    H) Improperly canned food
+    I) Fecal-oral
+    J) Kitchen Equipment
+    K) Raw fish
+
+[STIMULUS] 22-35: Multiple Choice: Each question may have more than one answer. All correct answers must be circled for credit.
+
+IV-22. [multi, 2 pt] Which of the following has the lowest safe cooking temperature?
+    A) Pork
+    B) Beef steak
+    C) Leftovers
+    D) Roast Duck
+
+IV-23. [multi, 2 pt] Which of the following are not true about ground beef?
+    A) The FDA mandates inspection of all ground beef crossing state lines
+    B) The federal government requires 'sell by' dating on all packages of ground beef
+    C) Bacteria such as Salmonella, Escherichia coli, Campylobacter jejuni, Listeria monocytogenes, and Staphylococcus aureus can be found in ground beef
+    D) Risk of bacterial contamination is higher when meat is ground, than when whole
+
+IV-26. [mcq, 2 pt] Which is false about eggs and egg products?
+    A) Eggs and eggshells can harbor many types of bacteria, especially salmonella
+    B) Eggs should be cooked until both the white and yolk are firm
+    C) Salad dressings, mayonnaise, and ice cream can contain raw eggs.
+    D) None are false
+
+IV-27. [mcq, 2 pt] Which is False about the safety of produce?
+    A) All produce should be washed before cooking or consuming
+    B) Produce should be washed even if you intend to peel it
+    C) Washing produce eliminates the risk of bacterial contamination
+    D) Fresh-squeezed cider and fruit juices must be pasteurized to be safe from germs
+    E) The FDA requires non-pasteurized juice products to have a warning label
+
+IV-28. [mcq, 2 pt] Which is false about fresh produce?
+    A) Bean and alfalfa sprouts are a frequent source of food poisoning
+    B) Sprouts are usually contaminated by germs originating from the seeds
+    C) Salmonella E. Coli, listeria and toxoplasma can all be found in sprouts
+    D) Fresh produce should never be prepared after meats or poultry without cleaning knives and cutting boards first, to prevent cross-contamination
+    E) All produce should be refrigerated to prevent bacterial growth
+
+IV-29. [multi, 2 pt] Which of the following are true about seafood?
+    A) Shark, swordfish and mackerel are high in mercury
+    B) Eating raw oysters may expose you to vibrio vulnificus poisoning
+    C) Cooked and raw fish items should never be offered for sale in the same display
+
+IV-30. [multi, 2 pt] Regarding food safety, which of the following are true?
+    A) Smoked fish products can carry listerosis
+    B) Eating raw fish or meats may expose you to infection by parasites
+    C) Toxoplasma and trichinella are both found in raw meat
+
+IV-32. [mcq, 2 pt] Regarding handwashing, which of the following is not correct?
+    A) Hands should be washed after using the restroom, handling live animals, pets or infants, and after sneezing or coughing.
+    B) Handwashing eliminates pathogenic bacterial contamination.
+    C) Hands should be washed with hot water and soap for at least 20 seconds.
+    D) Food service workers should wash hands even if wearing gloves to handle food
+    E) Hands should be washed after handling raw meat and poultry
+
+IV-33. [mcq, 2 pt] Regarding food storage, which is not true?
+    A) Refrigerators should be set at 40° or lower, freezers at 0° or lower
+    B) 'Freezer burn' indicates food is contaminated an unsafe to eat
+    C) Federal law requires a 'use by' date on all shelf stable foods
+    D) Bulging, leaking or sticky cans jar or bottles should be avoided
+    E) Potatoes and onions should be stored in a cool dry place away from light
+
+
+=== Part V: Tiebreaker ===
+
+[STIMULUS] This section will only be graded in the event of a tie.
+
+V-1. [frq, 10 pt] Name a specific outbreak that has occurred in the past year. Describe any and all relevant details of the outbreak (location, the pathogen, CDC's response, etc.)

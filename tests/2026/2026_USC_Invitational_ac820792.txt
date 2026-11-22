@@ -1,0 +1,257 @@
+USC Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  50 questions, 112.0 pts
+Source: scio.ly test archive id ac820792-817e-4a2a-9e63-3f6f845dff8c  |  original files: https://drive.google.com/drive/folders/1FU-fEdq3SsbOs2V5aonza-8zysrNwM1H
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== MCQ ===
+
+1a. [mcq, 2 pt] Classify as a Clinical (C) or Public Health approach, or both: Hosting free vaccination clinics at a local school
+    A) Clinical (C)
+    B) Public Health
+    C) Both
+
+1b. [mcq, 2 pt] Classify as a Clinical (C) or Public Health approach, or both: Using aspirin after experiencing a stroke
+    A) Clinical (C)
+    B) Public Health
+    C) Both
+
+1d. [mcq, 2 pt] Classify as a Clinical (C) or Public Health approach, or both: Getting a chest x-ray to screen for tuberculosis
+    A) Clinical (C)
+    B) Public Health
+    C) Both
+
+1e. [mcq, 2 pt] Classify as a Clinical (C) or Public Health approach, or both: Mental health PSAs on YouTube
+    A) Clinical (C)
+    B) Public Health
+    C) Both
+
+2. [mcq, 2 pt] Which of the following best describes the difference between primordial and primary prevention?
+    A) Primordial prevention aims to reduce the impact of risk factors in high-risk communities on a systemic level, while primary prevention aims to reduce the impact of risk factors in all populations on a broader level.
+    B) Primordial prevention aims to mitigate existing risk factors before they lead to disease, while primary prevention aims to address the root cause of risk factors.
+    C) Primordial prevention aims to address the root cause of risk factors before they appear, while primary prevention aims to mitigate existing risk factors before they lead to disease.
+    D) Primordial and primary prevention are the same thing.
+
+3. [mcq, 2 pt] Which of the following is NOT an assumption herd immunity models rely on?
+    A) The virus does not mutate.
+    B) The probability of an infected person interacting with every other person in the population is the same.
+    C) There is lasting immunity after having and recovering from illness or receiving the vaccine.
+    D) There are multiple routes of disease transmission.
+
+4. [mcq, 2 pt] Which of the following best defines the spectrum of disease?
+    A) The range of diseases from chronic to infectious.
+    B) The range of the severity and presentation of a specific disease.
+    C) The range of the health outcomes after a specific treatment for disease.
+    D) The range of the natural history of a specific disease.
+
+[STIMULUS] 5-8: For the following questions, identify the historical figures that made their respective contributions to epidemiology.
+
+5. [mcq, 2 pt] This English epidemiologist has a set of nine benchmarks used to assess causality named after him.
+    A) Richard Doll
+    B) Alfred Benny Hill
+    C) Austin Bradford Hill
+    D) Arthur Brandon Hill
+
+6. [mcq, 2 pt] This British physician and epidemiologist investigated cholera outbreaks in London. He is credited with creating the UK's first national vital statistics system as well as the forerunner of the International Classification of Diseases.
+    A) William Farr
+    B) John Snow
+    C) Charles Babbage
+    D) Edwin Chadwick
+
+7. [mcq, 2 pt] This Hungarian obstetrician is best known for implementing hand-washing policies to prevent childbed fever and reduce postpartum infection in his maternal ward.
+    A) Joseph Lister
+    B) Ignaz Semmelweis
+    C) Ferdinand Ritter von Hebra
+    D) Joseph Skoda
+
+8. [mcq, 2 pt] This English physician and scientist developed the first smallpox vaccine from cowpox.
+    A) Louis Pasteur
+    B) Robert Koch
+    C) Edward Jenner
+    D) Paul Ehrlich
+
+9. [mcq, 2 pt] Which of the following best describes the difference between incubation period and latency periods?
+    A) The incubation period is the time from exposure to when symptoms are first apparent, while the latency period is the delay in time it takes for pathologic changes to be detected through lab tests.
+    B) The incubation period is in the stage of subclinical disease while the latency period is in the stage of susceptibility.
+    C) They are the same stage of subclinical disease, except the term incubation period is usually used for infectious diseases while latency period is used for chronic diseases.
+    D) There is no difference.
+
+[STIMULUS] 10-15: The following questions have **multiple** correct answers. Please select all that apply.
+
+10. [multi, 2 pt] Which of the following diseases have been eradicated?
+    A) Rinderpest
+    B) Polio
+    C) Smallpox
+    D) Chickenpox
+
+11. [multi, 2 pt] Identify advantages of using pulsed-field gel electrophoresis for outbreak detection.
+    A) The process can be done quickly and is highly accurate
+    B) PFGE is more cost-effective compared to other methods
+    C) PFGE can easily be applied to different species of bacteria
+    D) PFGE can identify phylogenetic relationships
+
+13. [multi, 2 pt] If you determine a drug has a protective effect, it means you found a(n)…
+    A) Incidence rate of less than 1
+    B) Odds ratio of less than 1
+    C) Odds ratio of less than 0
+    D) Risk ratio of less than 1
+
+14. [multi, 2 pt] Which of the following is NOT an outbreak monitored and detected by PulseNet?
+    A) Salmonella
+    B) Botulism
+    C) Cronobacter
+    D) Norovirus
+
+15. [multi, 2 pt] You want to evaluate the association between smoking and lung cancer using the Bradford Hill Criteria. Which of the following correctly matches the criteria with the observed effect?
+    A) Consistency: multiple studies have linked smoking and lung cancer
+    B) Temporal relationship: many life-long smokers develop lung cancer when they get older
+    C) Dose/response: smoking more cigarettes in one day increases the risk of developing lung cancer
+    D) Reversibility: those who quit smoking are less likely to develop lung cancer
+
+
+=== T/F:
+Determine if each statement below is true or false. If the statement is false, correct the sentence so it becomes a true statement. ===
+
+16. [tf, 2 pt] If a new screening method results in many false positives, it has low specificity.
+    A) True
+    B) False
+
+17. [tf, 2 pt] The prevalence rate is not a true rate because it does NOT count cases over time.
+    A) True
+    B) False
+
+18. [tf, 2 pt] Clinical trials for vaccines measure its effectiveness compared to those who received a placebo.
+    A) True
+    B) False
+
+19. [tf, 2 pt] YPLL measures the potential amount of life (years) lost due to disability.
+    A) True
+    B) False
+
+20. [tf, 2 pt] Vital statistics include data about birth, death, marriage, and divorce.
+    A) True
+    B) False
+
+21. [tf, 2 pt] Antibody vaccines give the patient active immunity against a specific disease.
+    A) True
+    B) False
+
+22. [tf, 2 pt] The incubation period is the time between an infection and the onset of symptoms.
+    A) True
+    B) False
+
+23. [tf, 2 pt] A disease reservoir can be an animal or a human.
+    A) True
+    B) False
+
+24. [tf, 2 pt] Fomites are living carriers of an infectious agent.
+    A) True
+    B) False
+
+
+=== Case Study I: iGAS Investigation ===
+
+[STIMULUS] Streptococcus pyogenes is the bacteria responsible for strep throat, a common inflammatory infection causing fever and sore throat. It can also often live in the throat without causing symptoms. When this bacteria infects normally sterile parts of the body, it can cause an infection known as invasive Group A Streptococcus (iGAS). Examples include necrotizing fasciitis, toxic shock syndrome (TSS), sepsis, and scarlet fever. These infections are often much more serious than strep throat, sometimes becoming life threatening and requiring hospitalization.
+
+You are working with the LA Department of Public Health, investigating potential ongoing outbreaks in the area. The head of a local hospital reached out to your department, citing a concerning number of iGAS cases at their hospital over the past 18 months. You are quite surprised by this report because, while individual iGAS cases are not usually a reportable disease in California (as in not required by law to be reported to public health authorities), suspected outbreaks are required to be reported. After requesting iGAS case data from a random sample of 25 hospitals and clinics throughout LA county, you discover 21 of them have had an incidence rate over the national and state average for the past 18 months.
+
+25. [frq, 5 pt] What is the 5 step process for surveillance *
+
+26. [frq, 2 pt] Which step in the 5 step process failed to detect this outbreak sooner?
+
+27. [frq, 4 pt] You want to investigate potential risk factors for this outbreak based on the case reports you now have. What type of epidemiological study should be used for this investigation? Why?
+
+28. [frq, 4 pt] List 2 advantages and 2 disadvantages related to this type of study *
+
+[STIMULUS] Below is a line list of 10 random patients from the various reports. Assume this is representative of all cases in this investigation.
+
+| Patient | Age | Type of infection | Date of hospitalization | Home city | Used product X | Used product Z |
+|---|---|---|---|---|---|---|
+| 1 | 59 | Scarlet fever | 10/30/24 | Los Angeles | yes | no |
+| 2 | 72 | Sepsis | 5/7/25 | Pasadena | yes | no |
+| 3 | 53 | TSS | 12/10/25 | Burbank | no | yes |
+| 4 | 60 | Scarlet fever | 7/29/24 | Torrance | yes | no |
+| 5 | 84 | Necrotizing fasciitis | 11/18/24 | Santa Monica | no | no |
+| 6 | 32 | Scarlet fever | 2/29/25 | Los Angeles | no | yes |
+| 7 | 75 | Necrotizing fasciitis | 4/17/25 | Burbank | yes | no |
+| 8 | 89 | Scarlet fever | 11/25/25 | Malibu | yes | no |
+| 9 | 86 | Scarlet fever | 9/13/25 | Pasadena | yes | yes |
+| 10 | 57 | Sepsis | 8/3/25 | Los Angeles | no | no |
+
+29. [frq, 6 pt] Create a case definition based on the line list. Label each part of your case definition *
+
+[STIMULUS] Your team has collected a total of 7,254 iGAS cases, 56% of which are Scarlet fever cases. Your partner hypothesized that there could be an association between Scarlet fever and using Product X, a scar healing cream from a local company. At least 62% of the patients with Scarlet fever reported using this product. The company claims to have sold 6,000 bottles of this cream.
+    | Label | Answer |
+    | **30.** Using the information above to fill in the subdivided table below * |  |
+    | Used X / Case Used X, Case | [[q:30-a]] |
+    | Used X / Control Used X, Control | [[q:30-b]] |
+    | Used X / Total Used X, Total | [[q:30-c]] |
+    | Did not use X / Case Did not use X, Case | [[q:30-d]] |
+    | Did not use X / Control Did not use X, Control | [[q:30-e]] |
+    | Did not use X / Total Did not use X, Total | [[q:30-f]] |
+    | Total / Case Total, Case | [[q:30-g]] |
+    | Total / Control Total, Control | [[q:30-h]] |
+
+30-a. [frq, 1 pt] Used X / Case Used X, Case
+
+30-b. [frq, 1 pt] Used X / Control Used X, Control
+
+30-c. [frq, 1 pt] Used X / Total Used X, Total
+
+30-d. [frq, 1 pt] Did not use X / Case Did not use X, Case
+
+30-e. [frq, 1 pt] Did not use X / Control Did not use X, Control
+
+30-f. [frq, 1 pt] Did not use X / Total Did not use X, Total
+
+30-g. [frq, 1 pt] Total / Case Total, Case
+
+30-h. [frq, 1 pt] Total / Control Total, Control
+
+32. [frq, 4 pt] Interpret the result of the risk ratio calculated from your table in Question 30. Does this support your partner’s hypothesis?
+
+33. [frq, 3 pt] You are ready to report your findings to your boss when you realize your controls were randomly picked from the general population of Pasadena. Name and describe the type of bias affecting this study.
+
+34. [frq, 3 pt] After adjusting your study, you find a new risk ratio of 1.25. Considering this new risk ratio, should prevention strategies be implemented? If yes, list 2 specific primary prevention strategies for Scarlet fever cases. If not, explain what information you need.
+
+
+=== Case Study II: Legionellosis in Los Angeles ===
+
+[STIMULUS] You have now been assigned to your next investigation, after a case of Legionellosis was reported to your department by Keck Hospital of USC.
+
+Legionellosis is an uncommon respiratory infection caused by the bacteria of the genus Legionella. It tends to manifest in two forms, the milder Pontiac fever and the much more severe Legionnaires' disease (LD). LD is a form of acute pneumonia, with symptoms including cough, shortness of breath, fever, muscle pain, nausea, and diarrhea.
+
+It is not spread from person to person. Instead, legionella is naturally found in freshwater environments and grows easily at warm temperatures and still water. It poses a health risk when it is found in water systems and devices, such as air conditioning units, humidifiers, hot tubs, and water fountains, where people can aspirate or inhale mist or spray from contaminated water.
+
+Although isolated cases of Legionellosis are common, out of precaution, you reach out to surrounding hospitals to inquire of other cases with similar symptoms. They get back to you, and you notice there’s a sharp increase in pneumonia cases in the county over the past three weeks.
+
+35. [frq, 4 pt] What is the difference between a cluster and an outbreak? Would you consider these cases an outbreak? Explain why or why not.
+
+[STIMULUS] Sputum samples were collected from the pneumonia patients to the lab for Legionnaires’ testing. Many of them come back positive, confirming cases of Legionnaires' disease.
+
+Similar to other respiratory diseases, there are certain risk factors towards being more susceptible to developing LD over Pontiac Fever. For example, people with preexisting health conditions (such as diabetes, lung disease, immunodeficiency, etc.), former or current smokers, and people who are over the age of 50 are all more likely to contract pneumonia.
+
+36. [frq, 3 pt] Identify the three parts of the epidemiological triad to describe the causation of this investigation.
+
+[STIMULUS] The image below is an example of Rothman’s Model of Disease or a sufficient/component cause model. Each fraction of the pie, represented by a letter, is a component cause.
+    [IMAGE: ../images/2026_usc_invitational_b_c__p10_61eaf4-661fc5eb.webp]
+
+37. [frq, 2 pt] What is the significance of component cause A appearing in each pie? What is this type of component cause called?
+
+38. [frq, 1 pt] In this investigation, which factor is most likely to be component cause A?
+
+[STIMULUS] It turns out a common factor between the majority of the patients was that they all attended the Anime Expo at the LA Convention Center. Your amazing partner, once again, comes up with a hypothesis: attendance at the Expo is associated with the increase in Legionellosis cases.
+
+You were able to interview 45,000 Anime Expo attendees, and together with the information gathered from the Legionellosis patients, compile your data into the chart below.
+
+| | Disease | No Disease |
+|---|---|---|
+| Exposed | 18,458 | 26,542 |
+| Unexposed | 12,535 | 27,456 |
+
+39. [frq, 4 pt] Calculate the odds ratio for attending the Expo and getting Legionellosis. Include the formula, show your work, and use sig figs.
+
+40. [frq, 4 pt] Interpret the result of the odds ratio you calculated. Does it support or reject your partner’s hypothesis?
+
+41. [frq, 1 pt] Using your knowledge about Legionella and Legionellosis you gained during this investigation, propose one prevention measure to prevent an outbreak from occurring.
+
+42. [frq, 2 pt] Identify one strength and one weakness of your proposed prevention measure.

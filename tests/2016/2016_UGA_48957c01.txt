@@ -1,0 +1,296 @@
+UGA — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  54 questions, 91.0 pts
+Source: scio.ly test archive id 48957c01-d8c8-48fb-aa8c-28db2ca1ee20  |  original files: https://drive.google.com/drive/folders/1P4Mt4gTHUX_8Nbf085tpNQCPqXUzf_La
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+DIRECTIONS: Disease Detectives uses investigative skills in the scientific study of disease, injury, health, and disability in populations or groups of people with a focus on Population Growth. You may use one double sided notes sheet, two non programmable calculator, writing utensils and erasers. ALL OTHER ITEMS ARE PROHIBITED. This exam consists of multiple choice, fill-in-the-blank, and short answer questions. Answer all questions to the best of your combined ability and remember to write your school name and team number on the exam!
+
+
+=== Part I: Fill in the Blank ===
+
+[STIMULUS] Fill in the blanks with the appropriate term. 30 points total.
+
+5. [frq, 2 pt] When a disease occurs in excess in a defined community, the occurrence is known as a(n) ____, whereas the widespread occurrence of a disease over a less localized area is better characterized as a(n) ____. When a disease has spread over several countries, or over continents, it is called a ____.
+
+
+=== Part II: Classification ===
+
+[STIMULUS] Classify the following conditions as viral (A), fungal (B), bacterial (C), or parasitic (D).
+
+12. [mcq, 1 pt] Measles
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+13. [mcq, 1 pt] Tetanus
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+14. [mcq, 1 pt] Syphilis
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+15. [mcq, 1 pt] Meningitis
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+16. [mcq, 1 pt] Tuberculosis
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+17. [mcq, 1 pt] Ascariasis
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+18. [mcq, 1 pt] Athlete's foot
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+19. [mcq, 1 pt] Shingles
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+20. [mcq, 1 pt] Polio
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+21. [mcq, 1 pt] Pediculosis
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+22. [mcq, 1 pt] African sleeping sickness
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+23. [mcq, 1 pt] Leprosy
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+24. [mcq, 1 pt] Anthrax
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+25. [mcq, 1 pt] Ebola
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+26. [mcq, 1 pt] Scabies
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+27. [mcq, 1 pt] Tinea versicolor
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+28. [mcq, 1 pt] Whooping cough
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+29. [mcq, 1 pt] Cholera
+    A) viral
+    B) fungal
+    C) bacterial
+    D) parasitic
+
+
+=== Part III: True or false ===
+
+[STIMULUS] Indicate whether each of the following statements is True (A) or False (B).
+
+30. [tf, 1 pt] It is impossible for a patient with a particular disease to test false negative for that disease.
+    A) True
+    B) False
+
+31. [tf, 1 pt] It is impossible for a patient with a particular disease to test false positive for that disease.
+    A) True
+    B) False
+
+32. [tf, 1 pt] Indirect transmission of a disease may involve a fomite.
+    A) True
+    B) False
+
+33. [tf, 1 pt] Compared to a case control study, recall bias is minimized in a prospective cohort study.
+    A) True
+    B) False
+
+34. [tf, 1 pt] Incidence rates may be computed directly from a case control study.
+    A) True
+    B) False
+
+35. [tf, 1 pt] A subject may serve as his or her own control in a prospective cohort study.
+    A) True
+    B) False
+
+36. [tf, 1 pt] A survival curve starts at 100% of the population.
+    A) True
+    B) False
+
+37. [tf, 1 pt] YPLL is calculated with a predetermined expected life span, and is the sum of the differences between this expected life span and the age at death of everyone who died early, minus the average of this value.
+    A) True
+    B) False
+
+38. [tf, 1 pt] Monitoring individuals who may have been exposed to a health problem for the purpose of detecting early symptoms is known as sentinel surveillance.
+    A) True
+    B) False
+
+39. [tf, 1 pt] Getting annual flu vaccines is one way to contribute to the herd immunity in your locality.
+    A) True
+    B) False
+
+40. [tf, 1 pt] An epidemic curve is a histogram.
+    A) True
+    B) False
+
+41. [tf, 1 pt] One example of active immunity is a nursing baby assimilating antibodies from its mother.
+    A) True
+    B) False
+
+42. [tf, 1 pt] A randomized control trial primarily yields qualitative data.
+    A) True
+    B) False
+
+
+=== Part IV: Short (or Long) Answer ===
+
+[STIMULUS] Provide correct responses for the following.
+
+43. [frq, 8 pt] What are Koch's postulates?
+
+[STIMULUS] Complete the description of this chain of infection with the following terms. Terms may be used once, or not at all:
+
+a. agent
+b. environment
+c. host
+d. indirect
+e. direct
+ab. egress
+ac. reservoir
+ad. portal
+ae. exit
+bc. entry
+bd. mechanical
+be. biological
+cd. virulence
+ce. carrier
+de. fomite
+
+44. [frq, 3 pt] What are the three parts of the epidemiological triad?
+
+45. [frq, 1 pt] An infectious ____ has been growing and multiplying within Lisa's trachea.
+
+46. [frq, 1 pt] Lisa's body has been serving as a(n) ____ for the microorganism, providing it with the nutrients and an environment in which to thrive.
+
+47. [frq, 1 pt] While Lisa was waiting at the bus stop with Andrew, she sneezed. Lisa's respiratory tract served as a(n) ____
+
+48. [frq, 1 pt] ____ of ____ for the microorganism.
+
+49. [frq, 1 pt] Then, Andrew said "bless you" and inhaled some of the microorganisms expelled from Lisa. What an unfortunate incident of ____ transmission!
+
+50. [frq, 1 pt] Andrew's respiratory tract served as a(n) ____
+
+51. [frq, 1 pt] ____ of ____ for the microorganism.
+
+52. [frq, 1 pt] Andrew became the infectious microorganism's new susceptible ____.
+
+54. [frq, 20 pt] Epidemiologists may conduct randomized controlled studies, non-randomized controlled studies, case control studies, and cohort studies. Describe each of these studies. In your description of each, identify the investigation as observational or experimental, explain what sort of data is collected, and list characteristics such as advantages, disadvantages, and experimental design. Do not give examples.
+
+
+=== Part IV: Identification ===
+
+[STIMULUS] The following graphs of epidemic curves show trends of various cases. Identify the type of epidemic the graphs represent: propagated epidemic, epidemic from a point source, epidemic from a continuous common source, epidemic from an intermittent exposure source, or a mixed epidemic. Choices may be used once, more than once, or not at all..
+    [IMAGE: ../images/2016_uga_c__p5_vb2ca95-880da4cb.webp]
+    [IMAGE: ../images/2016_uga_c__p6_v45cad1-06a4324d.webp]
+    [IMAGE: ../images/2016_uga_c__p6_v2ebfac-a3a4ace1.webp]
+    [IMAGE: ../images/2016_uga_c__p6_vbb6d0b-d483a0ee.webp]
+    [IMAGE: ../images/2016_uga_c__p6_v47b70a-e2bbfc1b.webp]
+
+55A. [mcq, 2 pt] Graph A
+    A) Mixed Epidemic
+    B) Propagated epidemic
+    C) Epidemic from a continuous common source
+    D) Epidemic from a point source
+    E) Epidemic from an intermittent exposure source
+
+55C. [mcq, 2 pt] Graph C
+    A) Mixed Epidemic
+    B) Propagated epidemic
+    C) Epidemic from a continuous common source
+    D) Epidemic from a point source
+    E) Epidemic from an intermittent exposure source
+
+55D. [mcq, 2 pt] Graph D
+    A) Mixed Epidemic
+    B) Propagated epidemic
+    C) Epidemic from a continuous common source
+    D) Epidemic from a point source
+    E) Epidemic from an intermittent exposure source
+
+55E. [mcq, 2 pt] Graph E
+    A) Mixed Epidemic
+    B) Propagated epidemic
+    C) Epidemic from a continuous common source
+    D) Epidemic from a point source
+    E) Epidemic from an intermittent exposure source
+
+55F. [mcq, 2 pt] Graph F
+    A) Mixed Epidemic
+    B) Propagated epidemic
+    C) Epidemic from a continuous common source
+    D) Epidemic from a point source
+    E) Epidemic from an intermittent exposure source
+
+56. [frq, 4 pt] Of the graphs above, at least one represents the trend shown by a mixed epidemic. Identify the graph(s) displaying the epidemic curve of a mixed epidemic. Explain what a mixed epidemic is
+
+[STIMULUS] An infectious agent may be transmitted from its natural reservoir to a susceptible host via direct transmission or indirect transmission. Identify the following modes of transmission as direct (A) or indirect (B).
+
+57. [mcq, 1 pt] Lisa sneezes and Andrew comes into contact with the droplets expelled from her.
+    A) Direct
+    B) Indirect
+
+58. [mcq, 1 pt] Tony, an 8 year old with measles, sneezed in the doctor's office. The droplets from his sneeze remain suspended in the air after he leaves and a patient later in the day comes into contact with them.
+    A) Direct
+    B) Indirect
+
+60. [mcq, 1 pt] Gonorrhea is transmitted via sexual contact.
+    A) Direct
+    B) Indirect
+
+61. [mcq, 1 pt] Mechanical transmission of a disease.
+    A) Direct
+    B) Indirect
+
+62. [mcq, 1 pt] Biologic transmission of a disease.
+    A) Direct
+    B) Indirect

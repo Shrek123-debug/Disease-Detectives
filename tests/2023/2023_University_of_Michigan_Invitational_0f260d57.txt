@@ -1,0 +1,647 @@
+University of Michigan Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  64 questions, 64.0 pts
+Source: scio.ly test archive id 0f260d57-116b-4dd8-92c4-5f6d926d203c  |  original files: https://drive.google.com/drive/folders/1boGp0TkwJhyXwA5m41lxOl_Af35VsNls
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 20
+
+
+=== Basics: General Understanding ===
+
+[STIMULUS] Choose the term from the column at right that best matches the definition or example at left.
+
+a. active immunity
+b. cluster
+c. contagious
+d. mechanical vector
+e. infectious
+f. herd immunity
+g. host
+h. incidence
+i. outbreak
+j. passive immunity
+k. pathogen
+l. period prevalence
+m. point prevalence
+n. random error
+o. reservoir
+p. systematic error
+q. biological vector
+r. virulent
+s. variance
+t. z-test
+
+P1-1. [mcq, 1 pt] How a flu shot may protect a person who gets the flu shot
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-2. [mcq, 1 pt] How a flu shot may protect people who do not get the flu shot
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-3. [mcq, 1 pt] The number of people who had the flu last month
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-4. [mcq, 1 pt] The number of people who caught the flu this month
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-5. [mcq, 1 pt] The number of people who have the flu right now
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-6. [mcq, 1 pt] Compares sample and population means to determine if there is a significant difference.
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-7. [mcq, 1 pt] A living thing which transmits disease-causing agents that do not undergo modifications during transmission to the susceptible host
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-8. [mcq, 1 pt] A design with an incorrect conclusion which would have been avoided with a larger sample has this
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-9. [mcq, 1 pt] A design with an incorrect conclusion which still would have been reached with a larger sample has this.
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-10. [mcq, 1 pt] A biological agent
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-11. [mcq, 1 pt] The place where biological agents live, when they aren't living inside someone
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-13. [mcq, 1 pt] In statistics, a measure of how far the results are from the expected results.
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-14. [mcq, 1 pt] Transmitted from person to person
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-15. [mcq, 1 pt] Strongly capable of causing disease
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-16. [mcq, 1 pt] Any spatiotemporal grouping of cases
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-17. [mcq, 1 pt] A larger-than-expected spatiotemporal grouping of cases
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-18. [mcq, 1 pt] Caused by a biological agent
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+P1-19. [mcq, 1 pt] A living thing that transmits a disease-causing agent that does undergo modifications during transmission to the susceptible host
+    A) active immunity
+    B) cluster
+    C) contagious
+    D) mechanical vector
+    E) infectious
+    F) herd immunity
+    G) host
+    H) incidence
+    I) outbreak
+    J) passive immunity
+    K) pathogen
+    L) period prevalence
+    M) point prevalence
+    N) random error
+    O) reservoir
+    P) systematic error
+    Q) biological vector
+    R) virulent
+    S) variance
+    T) z-test
+
+[STIMULUS] Use the following list of bacteria to answer the following questions:
+
+A. L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+B. Streptococcus pyogenes (Beta Streptococci Group A)
+C. Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+D. E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+E. Salmonella enteriditis
+F. Vibrio vulnificus, Vibrio parahaemolyticus
+G. C. botulinum
+
+Write the letter of the bacteria above that best matches the illnesses below.
+
+P1-20. [mcq, 1 pt] Sources of illness: Raw and undercooked meat and poultry. Symptoms: Abdominal pain, diarrhea, nausea, and vomiting
+    
+    Bacteria: ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P1-22. [mcq, 1 pt] Sources of illness: Raw and undercooked eggs. Raw eggs are often used in foods such as homemade hollandaise sauce, caesar and other salad dressings, tiramisu, homemade ice cream, homemade mayonnaise, cookie dough, and frostings. Symptoms: Nausea, vomiting, fever, abdominal cramps, and diarrhea
+    
+    Bacteria: ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P1-23. [mcq, 1 pt] Sources of illness: Raw and undercooked shellfish. Symptoms: Chills, fever, and collapse
+    
+    Bacteria: ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P1-24. [mcq, 1 pt] Sources of illness: Improperly canned goods; smoked or salted fish. Symptoms: Double vision, inability to swallow, difficulty speaking, and inability to breathe. Seek medical help right away if you experience any of these symptoms.
+    
+    Bacteria: ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+P1-25. [mcq, 1 pt] Sources of illness: Fresh or minimally processed produce; contaminated water. Symptoms: Bloody diarrhea, nausea, and vomiting
+    
+    Bacteria: ____
+    A) L. monocytogenes, Salmonella, Shigella, Staphylococcus aureus, C. jejuni
+    B) Streptococcus pyogenes (Beta Streptococci Group A)
+    C) Campylobacter jejuni, E. coli O157:H7, L. monocytogenes, Salmonella
+    D) E. coli O157:H7, L. monocytogenes, Salmonella, Shigella, Yersinia enterocolitica, viruses, and parasites
+    E) Salmonella enteriditis
+    F) Vibrio vulnificus, Vibrio parahaemolyticus
+    G) C. botulinum
+
+
+=== Complex ===
+
+P2-1. [frq, 1 pt] What is DALY? Give the formula and define variables as they appear.
+
+P2-2. [numeric, 1 pt] In the latter half of 2022 in the town of Chronopolis, there were 250 deaths with an average loss of life expectancy of 13 years, and 1000 individuals who contracted Panda Virus (a chronic disease that leads to an average loss of life expectancy of 7 years with a disability weight of 0.83). Calculate the DALY.
+
+P2-3. [frq, 1 pt] According to the principles of DALY, if the average lifespan of a moth is two years, which of the following will lead to a higher DALY: a moth that dies after 16 months or a moth that lives 2.5 years but cannot fly (disability weight of 0.600)? Show work for full credit.
+
+P2-4. [frq, 1 pt] Who proposed the concept of causal pies? What year did they do so, and what is the difference between a necessary and sufficient cause?
+
+[STIMULUS] Classify the following as a nominal-scale, ordinal-scale, ratio-scale, or interval-scale variable:
+
+P2-5a. [mcq, 1 pt] Grades
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5b. [mcq, 1 pt] Stage III of thyroid cancer
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5c. [mcq, 1 pt] Length of an elephant’s trunk
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5d. [mcq, 1 pt] Average temperature in Ann Arbor, MI
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5e. [mcq, 1 pt] A customer survey asking “Which brand of smartphones do you prefer?” Options: “Apple”-1, “Samsung” - 2, “OnePlus” - 3.
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5f. [mcq, 1 pt] Hourly agenda
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5g. [mcq, 1 pt] Political Preference
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-5h. [mcq, 1 pt] Customer Satisfaction Survey (1-5, where 1 is worst and 5 is best)
+    A) nominal-scale
+    B) ordinal-scale
+    C) ratio-scale
+    D) interval-scale
+
+P2-6. [frq, 1 pt] Name 5 of the 10 biggest public health issues identified by the CDC.
+
+P2-7. [frq, 1 pt] How hot should you cook raw ham for to eliminate any pathogens it may carry? What about well-done shellfish? What about casseroles?
+
+P2-9. [frq, 1 pt] Multiple outbreaks over the continental United States of salmonella have been observed over the past 10 years. You conduct an ANOVA (analysis of variance) between the mean risk of contracting salmonella from eating eggs, poultry, meat, unpasteurized milk, cheese, contaminated raw fruits and vegetables for each outbreak, which yields a p-value < 0.05. What can you conclude just from this result?
+
+P2-10. [frq, 1 pt] Name a facultative anaerobe and explain how it is classified as such.
+
+P2-11. [frq, 1 pt] Name an aerotolerant anaerobe and explain how it is classified as such.
+
+P2-12. [frq, 1 pt] What determines whether a disease spreads by droplet or airborne transmission?
+
+P2-13. [frq, 1 pt] What is R₀? Give its formula and make sure to define each variable.
+
+P2-14. [frq, 1 pt] Define a serotype. How would you identify one? Which two serotypes of salmonella cause the highest proportion of invasive nontyphoidal salmonella infection (iNTS).
+
+P2-15. [frq, 1 pt] Can bacteria have vaccines tailored against them? If so, name an example and explain how it works. If not, explain why.
+
+P2-16. [frq, 1 pt] When looking at various separate cohorts in a cohort study segregated by age and weight, a distinctive trend is noticed between in each cohort. However, when these cohorts are merged and the entire sample population is observed as a whole, this trend seems to “vanish.” What is this phenomenon called?
+
+[STIMULUS] Define the following acronyms:
+
+P2-17a. [frq, 1 pt] AGISAR
+
+P2-17b. [frq, 1 pt] SEDRIC
+
+P2-17c. [frq, 1 pt] FSIS
+
+P2-17d. [frq, 1 pt] NEDSS
+
+P2-17e. [frq, 1 pt] NARMS
+
+P2-17f. [frq, 1 pt] AHRQ
+
+P2-17g. [frq, 1 pt] NNDSS
+
+P2-17h. [frq, 1 pt] CFSAN
+
+P2-18. [frq, 1 pt] Researchers conducting case-control studies sometimes avoid using hospital patients because they tend to be systematically different from one another due to systematically higher exposure rates among these patients. What type of bias would these researchers be trying to avoid? What is the name of the infections that can result in these types of settings?
+
+P2-19. [frq, 1 pt] Screening programs are designed to capture individuals at risk of developing a certain disease in a timely fashion. What are three important criteria/guidelines that should be implemented in screening programs?
+
+P2-20. [frq, 1 pt] The terms effectiveness, efficacy, and efficiency are often used interchangeably. What is the difference between these terms?
+
+[STIMULUS] Case Study 1 - Monkeypox, 2003:
+Read the following summary and answer the associated questions:
+In April 2003, an outbreak of monkeypox occurred in the United States following the importation of monkeypox virus (MPXV)–infected animals in a consignment of exotic pets from West Africa. Transmission of the virus to non-African captive species, including prairie dogs, preceded human disease. Exposures were categorized as being “noninvasive” (e.g., the person touched an infected animal, cleaned an infected animal’s cage, and/or stood within 6 feet of an infected animal) or “complex” (e.g., invasive bite or scratch from an ill prairie dog plus potential noninvasive exposure), and associations between exposure, illness manifestation, and illness progression (i.e., elapsed time from first exposure to an ill prairie dog through various benchmarks of illness) were assessed.
+Of the species of virus in the genus Orthopoxviridae that are capable of causing disease in humans, monkeypox virus (MPXV) and variola virus are unique in their capacity to cause severe systemic disease accompanied by a generalized vesiculopustular rash [1]. Naturally occurring smallpox was successfully eradicated as of 1977, in part because variola virus was an obligate human pathogen and was, therefore, not maintained in any nonhuman animal reservoir [1, 2]. MPXV, on the other hand, is a zoonotic virus (an animal reservoir for MPXV has not been definitively identified) that is considered to be endemic to regions of West Africa and the Congo basin.
+MPXV shares several distinctive biological features both with variola virus and with the zoonotic orthopox viruses, vaccinia virus, and cowpox virus. Like variola virus, MPXV (Congo basin variant) can be spread from person to person, although it is evident that interhuman spread of MPXV is less efficient than was historically observed for variola virus. Person-to-person spread of both viruses is thought to occur principally via infectious oropharyngeal exudates generated during the rash phase of illness or possibly during the preceding 2–3– day period of febrile prodrome [1, 3, 4]. Alternatively, like vaccinia virus and cowpox virus, MPXV can infect a broad range of mammalian animal species [5–14] and can be transmitted to humans by means of direct contact with infected animals, often by means of traumatic injury to the skin (or, for vaccinia virus, by means of inoculation). Rare instances of human-to-human spread of vaccinia virus and cowpox virus are attributed to percutaneous or mucocutaneous infections [15–18].
+Therefore, it is evident that human monkeypox infection can be acquired naturally by means of varied routes (e.g., the respiratory tract, skin, and mucous membrane) and from varied sources (e.g., rodents, humans, and nonhuman primates). Neither the relative significance of the different potential sources of MPXV to naturally occurring human disease nor the influence of different routes of infection on clinical manifestations or illness progression have been systematically evaluated.
+In 2003, MPXV was brought into the United States from West Africa in a consignment of exotic animals intended for sale as pets [5]. The virus is thought to have been transmitted from African animals in the consignment to a number of susceptible non-African species with which they were cohoused, prairie dogs among them [5]. Forty-seven cases of human MPXV infection (confirmed and probable cases; J. Cono, personal communication) were documented, each stemming from direct or indirect contact with MPXV-infected prairie dogs. There were no instances of human-to-human transmission documented [5, 19].
+Persons who became infected with MPXV were, however, exposed to ill prairie dogs in different settings and by means of varied types of contact [20]. Some individuals were bitten, many reported handling the animals without being bitten, and some reported only having been in the same room with a sick prairie dog, suggesting that MPXV infections may have been initiated in different persons by means of a variety of mechanisms, including percutaneous, inhalational, and mucocutaneous exposures.
+A previous study demonstrated that patient age and smallpox vaccination status had little influence on illness manifestation or severity among persons infected with MPXV during the outbreak in the United States in 2003 [21]. In this study, we reviewed confirmed and probable human monkeypox case histories from that outbreak and evaluated the influence of probable route of infection on various indicators of illness, including severity, presentation (symptoms), and illness progression.
+**Subjects** . This study included all persons (n = 47) identified with confirmed (n = 37) or probable (n = 10) MPXV infections during the monkeypox outbreak in the United States during May–July 2003 [5] (Cono, personal communication). Standardized case definitions based on clinical symptoms, exposure information, and laboratory criteria [22, 23] were used to allow for systematic assignment of case status to individuals with suspected MPXV infections [24, 25]. Individuals who had illness onset within 21 days after exposure to MPXV who experienced fever (defined as a body temperature above 37.4 °C) and vesicular pustular rash or rash (potentially uncharacterized) plus orthopox IgM antibodies were classified as having probable cases of infection. Monkeypox cases were confirmed on the basis of any of the following laboratory findings from clinically derived specimens: MPXV isolation, detection of MPXV-specific nucleic acid signatures, positive electron-microscopy findings, or positive immunohistochemical findings (in the absence of other orthopox virus exposures).
+**Data collection and sources** . Information was collected during the public health response to the monkeypox outbreak using standardized questionnaires and interviews conducted by medical personnel or public health professionals. Information pertaining to demographic data (e.g., age, sex, and jurisdiction), exposure type (e.g., bite or scratch) and setting (e.g., veterinary clinic or home), clinical signs and symptoms, laboratory test results, illness progression, and laboratory findings was collected for analysis. In addition, detailed information pertaining to MPXV exposure was collected by means of a household exposure survey. The protocol for this survey, which involved unpaid volunteers, was approved by the Centers for Disease Control and Prevention and partner human subjects institutional review boards.
+**Assessment and classification of human exposures to MPXV** . Exposure type refers to human contact with a prairie dog known to be infected with MPXV [9, 20] (C. Hutson, personal communication) or an ill prairie dog with an epidemiologic link to an animal known to be infected [5]. All reported exposures were categorized as being “complex”—consisting of an invasive exposure, such as a bite or scratch sufficient to break the skin, plus potentially noninvasive exposures—or “noninvasive”—defined as contact with an infected animal not resulting in a break in the skin, such as physical handling or being in the proximity of an infected animal. The complex exposure category was used to account for situations in which there was opportunity for both invasive and noninvasive exposures to have occurred. Exposure setting was categorized as taking place inside or outside of the home.
+**Assessment of clinical parameters.** For purposes of comparative analysis across exposure groups, sign and symptom categories based on the type and number of individual symptoms were established, because the manifestations of MPXV infection can vary from general systemic involvement to include respiratory, gastrointestinal, and other systems [21, 26]. These categories are as follows: (1) gastrointestinal (includes diarrhea and nausea and/or vomiting), (2) upper respiratory (includes runny nose and sore throat), (3) lower respiratory (includes wheeze, cough, and respiratory distress), (4) general respiratory (includes combined symptoms from the upper and lower respiratory categories), and (5) systemic (includes lymphadenopathy, fever, sweats, chills, muscle ache, back pain, headache, and abdominal pain). Gastrointestinal and lower and upper respiratory symptom categories were classified as having either presence or absence of any of the designated signs or symptoms. Within the general respiratory and inflammatory symptom categories, the presence of 6 systemic symptoms and 4 respiratory symptoms, respectively (each represents the upper quartile per category within the population of cases), were defined as being pronounced.
+In keeping with previous studies, we evaluated the classic triad of fever intensity, rash burden, and “degree of prostration” as a measure of overall monkeypox illness severity [26–28]. Illness progression was measured according to elapsed time intervals from the date of first MPXV exposure to various benchmarks of illness. Median values for intervals from the first possible exposure to onset of the first symptom (n = 42), fever onset (n = 32), rash onset (n = 45), and the date of maximum temperature (n = 31) were calculated using the population of MPXV-infected persons to create general time courses of illness for different categories of exposure.
+In this study, a lesion is defined as a single circumscribed area, which may include a blister, papule, or eschar. A rash is defined as consisting of multiple lesions, including localized constellations or diffusely distributed lesions, involving macules, papules, and/or pustules.
+**Statistical analyses** . The association between exposure (setting and type) and clinical features of monkeypox (signs and symptoms, rash characteristics, and clinical laboratory parameters) were assessed using nonparametric statistical tests, because the data were not normally distributed [29]. Fisher’s exact test (2-tailed) was used for categorical variables, and the Wilcoxon rank-sum test was used for continuous variables. A P value of < .050 was used to measure the significance of associations. For most variables of interest, > 65% of the cases had available data.
+
+3.1. [frq, 1 pt] Write a working probable and confirmed case definition for this outbreak.
+
+3.3. [frq, 1 pt] Why would a clinical trial not be advisable if one hoped to replicate or observe the results of this study again? What specific, famous guidelines would be violated in doing so? Which of Bradford’s 9 Postulates would “repeating” this experiment fulfill?
+
+3.6. [frq, 1 pt] Based on the information given, what outbreak pattern in your opinion would be most likely to appear on a sample epi-curve for this outbreak and why?
+
+3.13. [frq, 1 pt] If monkeypox’s vaccine had an R₀ of 1.5, what level of fully protective vaccine is needed to achieve herd immunity?
+
+[STIMULUS] Case Study 2 - Tuberculosis, 2021:
+Read the following summary and answer the associated questions:
+On May 25, 2021, a Delaware acute care hospital notified the Delaware Division of Public Health (DPH) of seven patients who developed tuberculosis after spinal surgery during March–April 2021. Hospital staff members identified a single common exposure: implantation of bone allograft material (product A) from a single product lot. DPH notified CDC, requested a field investigation, and issued a nationwide call for cases. In collaboration with the Food and Drug Administration, a CDC team was deployed to Delaware on June 2 to investigate the epidemiology of cases and opportunities for transmission and to provide prevention and treatment recommendations. On the same day, another state health department notified CDC about a person who developed tuberculosis after surgery involving the same product A lot, and the manufacturer issued a voluntary nationwide recall (1).
+
+Investigators abstracted clinical, laboratory, and imaging data from medical records and interviewed patients. They also assessed potential exposures to Mycobacterium tuberculosis related to product A storage, handling, and use during surgery; reprocessing of surgical instruments; and patient care. This investigation was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.†
+
+Twenty-three patients at the hospital underwent surgery that involved the recalled product lot. The median patient age was 66 years (range = 37–80 years). No patient had an immunocompromising condition.§ One patient had a history of latent tuberculosis infection and completed treatment in 2003. Nineteen (83%) patients reported new symptoms beginning 2–66 days (median = 19 days) after product implantation (Figure). Fifteen (65%) patients reported constitutional signs and symptoms, including fever, chills, night sweats, weight loss, fatigue, and loss of appetite; 16 (70%) had redness, pain, or drainage at the surgical site; four (17%) experienced neurologic symptoms, including paresthesia and dysphagia; and seven (30%) experienced pulmonary symptoms, including cough and shortness of breath. Four (17%) patients were asymptomatic. Sixteen (70%) required hospital readmission 23–84 days after product implantation (median = 52 days). Twelve (52%) underwent additional surgical procedures to manage complications of infection. One patient died at home 3 weeks after product implantation, which was 2 months before the product recall.
+
+As of June 25, 19 (83%) of the 23 patients had laboratory or imaging evidence of tuberculosis in the spine or chest. Among 19 patients who had received microbiologic testing of a vertebral, paraspinal soft tissue, or sputum specimen, 15 (79%) had a positive acid-fast bacilli smear, M. tuberculosis nucleic acid amplification test, or culture. Among 21 patients who had received spinal imaging, 19 (90%) had findings consistent with infection, including abscesses (17, 81%) and osteomyelitis or discitis (eight, 38%). Among 21 patients with sputum testing or chest imaging, six (28%) demonstrated evidence of pulmonary tuberculosis, suggesting bloodborne dissemination of M. tuberculosis. Isolates cultured from specimens from three patient specimens were susceptible to all first-line medications and shared a genotype not previously identified in the United States; drug-susceptibility testing and genotyping of subsequent isolates were pending. All 22 living patients began standard four-drug treatment for drug-susceptible tuberculosis 41–91 days after product implantation (median = 69 days).
+
+Product A was shipped frozen and was opened inside the operating room. Health care personnel could have been exposed to M. tuberculosis during product A implantation and subsequent procedures involving suctioning, drilling, wound irrigation, and decontamination of cannulated instruments. In addition, health care personnel and patients could have been exposed to M. tuberculosis from patients who had received implantations with product A and subsequently developed draining tuberculous lesions or pulmonary tuberculosis (2–4). As of June 24, the hospital had identified 152 health care personnel and seven patients who were exposed to recipients of product A who had tuberculous abscesses or pulmonary tuberculosis; investigations are ongoing to identify additional exposures.
+
+This investigation found high attack rates of spinal and disseminated tuberculosis after surgical implantation of product A and multiple opportunities for M. tuberculosis exposure related to surgery and patient care. On June 4, CDC recommended that all patients nationwide who had undergone surgery involving the affected product A lot be immediately assessed and begin the four-drug treatment for tuberculosis disease, even if they were asymptomatic. On June 8, CDC recommended evaluation of contacts in health care settings, including risk assessment, symptom screening, and an interferon-gamma release assay or tuberculin skin test (3,4).
+
+M. tuberculosis transmission via bone graft was last described in 1953 (5). The hospital's rapid detection of this unusual cluster triggered a multistate investigation resulting in sequestration of all unused units of the contaminated product, identification of all patients who underwent surgical procedures with the contaminated product lot, and initiation of tuberculosis treatment by all living patients. Public health authorities and health care facilities should continue efforts to identify and evaluate all exposed contacts and identify opportunities to prevent M. tuberculosis exposures from contaminated tissues or other products.
+
+3.15. [frq, 1 pt] What is the binomial nomenclature and the type of the organism that causes TB?
+
+3.20. [frq, 1 pt] This healthcare-associated outbreak propagated TB to patients who received bone graft surgery. What is the term for the type of illness spread in a hospital setting?
+
+3.22. [frq, 1 pt] Look at the graph below. What propagation pattern would you say the second panel (symptom onset) takes, and why?
+    [IMAGE: ../images/2023_university_of_michigan_invitational_c__p18_8fd2a1-886f8e38.webp]
+
+3.24. [frq, 1 pt] What is the classification of the health care personnel and patients who were exposed to recipients of product A who had tuberculous abscesses or pulmonary tuberculosis?

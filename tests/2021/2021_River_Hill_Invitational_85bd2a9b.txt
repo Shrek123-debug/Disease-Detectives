@@ -1,0 +1,529 @@
+River Hill Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  107 questions, 179.0 pts
+Source: scio.ly test archive id 85bd2a9b-0fcb-46d3-b723-263b389cb83e  |  original files: https://bit.ly/rhsoi2021tests
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 27
+
+
+=== Part I: MCQs and SAQs — Bias! ===
+
+[STIMULUS] This next section focuses on the biases you may encounter in an epidemiological study.
+
+1. [mcq, 1.5 pt] You want to conduct an observational study over 15 years, but in the 4th year there is a loss of participants from dropouts. What type of bias is this?
+    A) Berksonian
+    B) Volunteer
+    C) Attrition
+    D) Publication
+    E) Hawthorne
+    F) Spectrum
+
+2. [frq, 2 pt] If the observer tends to round measurements to arbitrary numbers, what type of bias is that?
+
+3. [frq, 2 pt] Whoops! Turns out all your subjects are con men with ulterior motives in the context of this study. What bias is this?
+
+
+=== Epidemiology History! Identify the following pandemics. 0.5 points each ===
+
+[STIMULUS] Identify the following pandemics.
+    [IMAGE: ../images/2021_river_hill_invitational_c__p2_947ad1-aed79f70.webp]
+
+4. [mcq, 0.5 pt] Identify the part labeled A in the figure.
+    A) HIV
+    B) Yellow Fever
+    C) Spanish Flu
+    D) Russian Flu
+
+5. [mcq, 0.5 pt] Identify the part labeled B in the figure.
+    A) HIV
+    B) Yellow Fever
+    C) Spanish Flu
+    D) Russian Flu
+
+6. [mcq, 0.5 pt] Identify the part labeled C in the figure.
+    A) MERS
+    B) SARS
+    C) H1N1
+    D) Ebola
+
+7. [mcq, 0.5 pt] Identify the part labeled D in the figure.
+    A) SARS
+    B) MERS
+    C) Ebola
+    D) H1N1
+
+8. [mcq, 0.5 pt] Identify the part labeled E in the figure.
+    A) MERS
+    B) H1N1
+    C) SARS
+    D) Ebola
+
+14. [frq, 3 pt] Using what you know about the severity of pandemics over time, explain how the evolution of viruses has been similar to the evolution of animal species . +1 point if you explain how the field of paleovirology has contributed to this understanding of viral evolution.
+
+
+=== Famous Epidemiologists! Answer the following questions about notable public health figures. ===
+
+15. [mcq, 1.5 pt] What is Girolamo Fracastoro notable for? (Outside of his amazing beard, of course)
+    A) Father of demography (study of populations)
+    B) Proposed the idea of contagionism
+    C) Created clinical trials
+    D) Led widespread social and health policy changes in Italy
+
+16. [mcq, 1 pt] Who was Ignaz Semmelweis? (Fun fact: he was put in an insane asylum for telling people to wash their hands)
+    A) Pioneer of infection control
+    B) Father of epidemiology
+    C) Creator of modern biostatistics
+    D) Creator of clinical trials
+
+17. [mcq, 1.5 pt] Who was Percivall Pott? (Fun fact: he also founded the scientific field of orthopedics)
+    A) Creator of the first vaccine
+    B) Discovered cancer can be caused by environmental factors
+    C) Discovered E. Coli was a bacteria
+    D) Key figure in the Spanish Flu pandemic in England
+
+
+=== Let's Get Ethical! ===
+
+[STIMULUS] For the following 4 questions, please give a 1 sentence summary of the monumental events or laws in public health privacy. 2 points each.
+    [IMAGE: ../images/2021_river_hill_invitational_c__p5_00dbd9-d5921f87.webp]
+
+18. [frq, 2 pt] Belmont Report
+
+19. [frq, 2 pt] Nuremberg Code
+
+20. [frq, 2 pt] HIPAA
+
+21. [frq, 2 pt] Declaration of Helsinki
+
+
+=== Types of Studies! 1 point each ===
+
+22. [mcq, 1 pt] What is one advantage for retrospective cohort studies?
+    A) Examines multiple outcomes for a given exposure
+    B) High control over variables
+    C) Not susceptible to information bias
+    D) Few subjects are required to study rare exposures
+    E) None of the above
+
+23. [mcq, 1 pt] What is one disadvantage for cohort studies?
+    A) Low confidence in findings
+    B) Time consuming
+    C) Can only study rare diseases
+    D) Difficult risk calculation
+    E) None of the above
+
+24. [frq, 1 pt] What kind of study compares people with and without a disease to find common exposure?
+
+25. [mcq, 1 pt] Recall bias is most common in which type of study?
+    A) Cohort
+    B) Quasi-experiments
+    C) Qualitative
+    D) Case-control
+    E) None of the above
+
+
+=== Natural History of Disease! 1 point each ===
+
+26. [mcq, 1 pt] The usual time of diagnosis is associated with which state?
+    A) Stage of susceptibility
+    B) Stage of clinical disease
+    C) Stage of subclinical disease
+    D) Stage of recovery, disability, or death
+    E) None of the above
+
+27. [mcq, 1 pt] What event marks the end of the second stage?
+    A) Diagnoses
+    B) Pathological changes
+    C) Onset of symptoms
+    D) Exposure
+    E) None of the above
+
+
+=== Matching & Vocab! 0.5 points each matching, 1 point MC ===
+
+[STIMULUS] Match the following terms with the definition that best describes it.
+A) The spread of a disease throughout a large area where large number of people are greatly affected
+B) A measure of new cases in a population in a specific time period
+C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+D) An organism that transmits a pathogen from a reservoir to its host
+E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+F) A disease prevalent over a wide geographic area (multiple countries or continents)
+G) A disease that is prevalent in or restricted to an articulation location, region, or population
+H) The number of diseases cases existing in a certain population at a specific time
+
+28. [mcq, 0.5 pt] Endemic
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+29. [mcq, 0.5 pt] Herd immunity
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+30. [mcq, 0.5 pt] Vector
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+31. [mcq, 0.5 pt] Epidemic
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+32. [mcq, 0.5 pt] Incidence
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+33. [mcq, 0.5 pt] Fomite
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+34. [mcq, 0.5 pt] Prevalence
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+35. [mcq, 0.5 pt] Pandemic
+    A) The spread of a disease throughout a large area where large number of people are greatly affected
+    B) A measure of new cases in a population in a specific time period
+    C) Inanimate object that is capable of carrying infectious organisms; able to transfer a disease to a new host
+    D) An organism that transmits a pathogen from a reservoir to its host
+    E) Determined by the basic reproductive rate of the pathogen in a non-immune population
+    F) A disease prevalent over a wide geographic area (multiple countries or continents)
+    G) A disease that is prevalent in or restricted to an articulation location, region, or population
+    H) The number of diseases cases existing in a certain population at a specific time
+
+36. [mcq, 1 pt] A disease that affects a small population over the course of a few years in a consistent area is called a(n)
+    A) Outbreak
+    B) Pandemic
+    C) Endemic
+    D) Epidemic
+    E) None of the above
+
+37. [mcq, 1 pt] Which best defines ecological fallacy?
+    A) The assumption that the environment always plays a factor
+    B) Not taking into account environmental changes
+    C) The assumption that one applies to all
+    D) The assumption that the environment never plays a factor
+    E) None of the above
+
+38. [frq, 2 pt] What are the 4 criteria required for a case definition?
+
+39. [mcq, 1 pt] Thomas Eric Duncan was the first known person to contract Ebola in the US. He would be known as the…
+    A) Index case
+    B) Index casualty
+    C) Case zero
+    D) Case one
+    E) None of the above
+
+40. [mcq, 1 pt] What type of transmission travels via mediums like liquid and air?
+    A) Vehicle
+    B) Contact
+    C) Foodborne
+    D) Vector
+    E) None of the above
+
+42. [frq, 2 pt] What is shoe-leather epidemiology?
+
+
+=== Bradford Hill Criteria! 1 point each ===
+
+43. [mcq, 1 pt] Which of the following is not part of Hill's Criteria of Causation?
+    A) Coherence
+    B) Specificity
+    C) Strength of association
+    D) Prevalence
+    E) None of the above
+
+44. [mcq, 1 pt] Which Bradford Hill criteria is described in the following scenario: people who drink wine are up to three times more likely to get lung cancer?
+    A) Analogy
+    B) Temporality
+    C) Biological plausibility
+    D) Strength of association
+    E) None of the above
+
+
+=== Surveillance! 1 point each ===
+
+45. [mcq, 1 pt] What is one benefit for syndromic surveillance over other types of surveillance?
+    A) Faster, because it precedes an actual diagnostic
+    B) Cheap and simple
+    C) Provides a more complete reporting of conditions
+    D) Provides high quality data that cannot be obtained by a passive system
+    E) None of the above
+
+46. [mcq, 1 pt] Classify the type of surveillance in the following scenario: health care workers presenting Ebola case data to public health authorities.
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+    E) None of the above
+
+47. [mcq, 1 pt] Classify the type of surveillance in the following description: networks of private practitioners reporting cases of influenza.
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+    E) None of the above
+
+
+=== Virus, Bacteria, Fungus, Prion, or Parasite? ===
+
+51. [mcq, 1 pt] Whoops, you get rabies from your dog! What is this caused by?
+    A) Virus
+    B) Fungus
+    C) Prion
+    D) Bacteria
+    E) Parasite
+
+52. [mcq, 1 pt] Your office is the victim of an anthrax attack! You feel chest pain and respiratory distress. What type of agent is this?
+    A) Virus
+    B) Prion
+    C) Fungus
+    D) Bacteria
+    E) Parasite
+
+53. [frq, 1.5 pt] What is a prion?
+
+
+=== Part II: Case Studies — Hippity Hoppity, Outbreak on School Property ===
+
+[STIMULUS] Oops! There has been an outbreak of the Frog Plague during the March SAT administration at your local high school. The county department of health questions everyone present regarding their health and hygiene practices via an electronic form.
+
+54. [frq, 2 pt] What type of study is this?
+
+[STIMULUS] Sad! Your governor wants to reopen all schools in your state even though there is an ongoing Monkey Pox pandemic killing thousands a day. If 296,329 students in your state return to school. In the first 2 weeks, 48,245 students test positive for Monkey Pox. By the end of the school year, 110,231 students have tested positive.
+
+56. [numeric, 1 pt] What is the rate of incidence of Monkey Pox among students during the first 2 weeks of reopened schools?
+
+57. [numeric, 1.5 pt] What is the rate of prevalence of Monkey Pox among students?
+
+[STIMULUS] Whoops! It turns out that the PCR tests for Monkey Pox were wildly inaccurate. Using the below table, answer the questions below.
+    [IMAGE: ../images/2021_river_hill_invitational_c__p12_26896f-f381da6b.webp]
+
+58. [frq, 3 pt] Calculate and interpret the sensitivity and specificity.
+
+59. [frq, 3 pt] Calculate and interpret the positive and negative predicted values.
+
+60. [frq, 3.5 pt] A new, more deadly strain of Monkey Pox from Botswana has been introduced in the US. Your governor still refuses to close schools down and move to a virtual format. If Monkey Pox is food-borne, air-borne, and blood-borne, what are some ways the local department of health can mitigate the spread? (List at least 5)
+
+61. [frq, 3 pt] Oh no! The Frog Plague has come back around. After analyzing the mortality and infection rates, you notice there is intense seasonal transmission of Frog Plague every spring and that Frog Plague is found only in your county. How would you classify Frog Plague?
+
+
+=== Life is Like a Hurricane ===
+
+[STIMULUS] Note from Saketh: Ducktales is arguably the best TV show of all time, so here's a couple of Ducktales themed questions.
+The following situation is taken from Season 2, Episode 10 of Ducktales (2018):
+At Scrooge's Money Bin, Huey is attempting to convince Scrooge to stay resting for the day after he had developed a small fever. Nevertheless, Scrooge detested by believing that a stuffy nose and clogged ears wouldn't kill him if he continued his daily work routine for the day. Later, Scrooge entered his vault and decided to go for a little swim in his money before his morning meetings started. But as he was doing so, he realized some of his coins had been taken from his bin.
+As the kids count the coins in the bin, Huey suggests that Scrooge get some rest and worries his personality may seem off for some reason. According to the Junior Woodchuck Guidebook, Gold Fever is caused by extended exposure to gold. Symptoms would be confusion, itchiness, paranoia and outlandish extremes which could result in a fatality. The Junior Woodchuck Guidebook however, is not the official authority on Gold Fever, a disease that has not been researched much.
+You, Professor Ludwig Von Drake, close friend of Scrooge McDuck have been called to prove the veracity of the claims in the Junior Woodchuck Guidebook and research more into Gold Fever.
+
+62. [frq, 2 pt] Using what the Junior Woodchuck Guide says, is Gold Fever caused by a biological agent? Why or why not?
+
+63. [frq, 1.5 pt] What 2 body systems does Gold Fever affect?
+
+64. [frq, 2 pt] You want to determine if exposure to gold truly is the cause of Gold Fever. What type of study should you conduct?
+
+65. [frq, 1.5 pt] A test for Gold Fever does not exist yet. However, your friend Launchpad McQuack claims he has made one in his basement. Launchpad is not the brightest duck, what 5 metrics should you collect about Launchpad's test in a population before using it in an actual study?
+
+67. [frq, 1.5 pt] You soon realize, that Duckburg is not the only place where Gold Fever is prevalent, it exists in Mouseton as well. You're scared this fatal disease will spread all across the world. What type of surveillance should you institute to get data from a select group of reporting sites across the country?
+
+68. [frq, 2 pt] What is the third step in surveillance? How can it be conducted in this scenario?
+
+
+=== Saketh's Firework Mishap ===
+
+[STIMULUS] Unfortunate! Saketh lights multiple fireworks to celebrate the first ever RHSOI, but multiple people within a 10 mile radius complains of hearing loss. The Maryland Department of Health has called you to investigate this strange occurrence.
+
+69. [numeric, 1.5 pt] If 3,625 people live within a 10 mile radius of Saketh and 456 people complain of hearing loss, what is the incidence of hearing loss?
+
+70. [frq, 3 pt] After analyzing the trend of reports of hearing loss in the area, you realize something fishy is going on. The hearing loss is not localized to a 10 mile radius, but in fact there has been a surge in hearing loss reports in the Maryland area, covering over 200 square miles. Do you think Saketh is still to blame? What could be other potential sources of hearing loss?
+
+71. [frq, 1 pt] Turns out that those who have been experiencing hearing loss have also been experiencing a variety of other symptoms. The most common symptoms are headache, fever and stiff neck. You are unable to figure out what potential disease is causing these symptoms, but your colleague realizes that the symptoms align with meningitis. What type of agent most commonly causes meningitis?
+
+72. [frq, 2 pt] In particular, name one type of the pathogen from the question above can cause meningitis.
+
+73. [frq, 2 pt] What is the likely method of transmission for this disease?
+
+74. [frq, 4 pt] Construct the chain of infection for meningitis
+
+[STIMULUS] Wait a second. Turns out there are other viral and fungal diseases in the area that have headache, fever, and stiff neck as symptoms. You need to look under a microscope to differentiate. Identify the type of pathogen for A-E.
+    [IMAGE: ../images/2021_river_hill_invitational_c__p16_efb401-492072e0.webp]
+
+75. [frq, 1 pt] Identify the type of pathogen for A.
+
+76. [frq, 1 pt] Identify the type of pathogen for B.
+
+77. [frq, 1 pt] Identify the type of pathogen for C.
+
+78. [frq, 1 pt] Identify the type of pathogen for D.
+
+79. [frq, 1 pt] Identify the type of pathogen for E.
+
+81. [frq, 2 pt] Easton and Chadworth are happily married and have an adopted son named Wyatt. Unfortunately, Wyatt was just diagnosed with meningitis. Wyatt is currently 15 years old, and was adopted when he was 2. Chadworth wanted to vaccinate his son, but Easton did not, fearing the potential side effects. Consider the official recommended vaccination schedule from the CDC. Which father got the final say on Wyatt's vaccinations?
+
+82. [frq, 3 pt] If Wyatt was 10, would you be sure of the answer to the previous question? Explain why or why not.
+
+83. [frq, 2 pt] Explain why it is important to vaccinate children on time according to the CDC vaccine schedule from a public health perspective.
+
+[STIMULUS] **JOVID-21!**
+
+Jeffrey Li, manager of the crooked River Hill virology lab, has artificially synthesized a chemical bioweapon that has the potential to cause a pandemic killing millions of people. However, you've been notified by his colleague Saketh, a noble lab assistant who wants to prevent Jeff from killing millions of people. He shares the following map (Map 1) with you marking the deaths due to Jeff's virus.
+    [IMAGE: ../images/2021_river_hill_invitational_c__p18_67b354-1297aa7c.webp]
+    [IMAGE: ../images/2021_river_hill_invitational_c__p18_c03fcb-78a721a9.webp]
+
+84. [frq, 1.5 pt] What kind of map is Map 1?
+
+85. [frq, 2 pt] Who pioneered the usage of this map, and what epidemic was it originally used for? (Be sure to list the year, place, and disease)
+
+86. [frq, 1.5 pt] Turns out you suck and you can't control the spread of this disease, now being called JOVID-21. You're gonna need a bigger map. What is Map 2, charting JOVID-21 cases at the zip-code level called?
+
+87. [frq, 3 pt] Name 2 disadvantages of this kind of map.
+
+88. [frq, 2.5 pt] Your colleague investigating the JOVID-21 pandemic shows a figure that looks like this to you at a meeting. What is this? What is it used for?
+    [IMAGE: ../images/2021_river_hill_invitational_c__p19_4c6e92-2f380dbc.webp]
+
+89. [frq, 2.5 pt] You also see a graph that looks like this as part of your colleague's presentation. What is this? (Be specific)
+    [IMAGE: ../images/2021_river_hill_invitational_c__p19_af3877-c860de7f.webp]
+
+90. [frq, 2 pt] Hmm, what is this type of chart you see while reading a scientific paper? What is it used for?
+    [IMAGE: ../images/2021_river_hill_invitational_c__p19_460f24-87c211e1.webp]
+
+[STIMULUS] Turns out Saketh didn't need your help. He successfully mitigated the spread of JOVID-21 on his own and stopped the evil Dr. Li. Now hailed as a hero, Saketh becomes the premier disease control specialist in the United States, and starts solving more outbreaks...
+
+**Managing the Mehtavirus**
+
+On July 20th, the Howard County General Hospital in Maryland reviews its records to find it suddenly received several dozen patients of a mysterious illness over the past six days (including 7/20). All patients present with low-grade fever, mild cough, and runny nose; severe cases also present with paroxysms (fits) of coughing, followed by a distinctive gasping sound. On occasion, these fits are intense enough to induce vomiting. After checking the patients' histories, they find that patients ranged in age from 16 to 67 years old and consisted of a diverse set of races and genders. Lab tests confirm that these victims are suffering from the rare disease Mehtavirus.
+
+91. [frq, 2 pt] With our current information, is this an a Mehtavirus epidemic, outbreak, or cluster, or nothing (endemic)? Why?
+
+92. [frq, 1.5 pt] From the patient's symptoms, what might we be able to infer about this disease's mode of transmission and the bodily symptoms it impacts?
+
+93. [frq, 3 pt] What illness do the symptoms of Mehtavirus closely resemble?
+
+94. [frq, 1 pt] Judging by the symptoms and assumed mode of transmission for Mehtavirus, what precautionary PPE should be employed while seeing these patients?
+
+95. [frq, 3.5 pt] Construct a case definition for Mehtavirus with the given information.
+
+[STIMULUS] The Howard County General Hospital finds these numbers troubling, and decides to report the cases to the local Department of Health. The immensely talented lab-assistant-turned-epidemiologist Saketh Sundar is sent to investigate (you may recognize him from successfully solving the JOVID-21 pandemic). Dr. Sundar confirms that the Mehtavirus is a significant public health incident and begins his work. While researching the Mehtavirus to assemble his team, he finds that, despite its symptoms, it is actually a foodborne illness. Dr. Sundar is provided all of the same information you were in the first part of this article; with it, he constructs a case definition and reviews hospital records.
+
+96. [frq, 2.5 pt] What kind of surveillance is the hospital's report an example of? What are the advantages and disadvantages of this type of surveillance?
+
+97. [frq, 1.5 pt] Which of the CDC steps to outbreak investigation has Dr. Sundar already done?
+
+98. [frq, 3 pt] After reviewing hospital records, Dr. Sundar identifies confirmed and probable cases. What should he do next? (name the CDC step and an action he can take)
+
+[STIMULUS] Dr. Sundar finds out that this Mehtavirus situation actually stems from his roots: the crooked River Hill virology lab. On July 9th, lab manager Aarush Mehta hosted a gala at the Merriweather Post Pavilion to celebrate the eradication of Jovid-21. All attendees were employees of the River Hill lab. However, the catering staff did not pay attention to their food safety while preparing the hors d'oeuvres, leading to our current predicament. Of the 352 attendees (Aarush has many friends), 102 come down with the Mehtavirus. Unfortunately, 6 individuals pass away from complications due to the Mehtavirus.
+
+
+
+[STIMULUS] | **Date** | **# Patients** |
+|---|---|
+| 7/15 | 2 |
+| 7/16 | 5 |
+| 7/17 | 32 |
+| 7/18 | 26 |
+| 7/19 | 17 |
+| 7/20 | 10 |
+| 7/21 | 6 |
+| 7/22 | 3 |
+| 7/23 | 0 |
+| 7/24 | 0 |
+| 7/25 | 1 |
+
+101. [frq, 2 pt] What is the difference between incidence and prevalence?
+
+104. [frq, 1 pt] What kind of outbreak is this? Justify with the given data, not the information in the articles.
+
+[STIMULUS] Dr. Sundar suspects that Mehtavirus is linked with a specific appetizer, but does not know which. Now you come into the story: as your high school's premier disease detective, you have had the extraordinarily fortuitous opportunity to serve as Dr. Sundar's intern as he investigates the Mehtavirus. For each appetizer served, he asks you to compare the incidence of disease between those that ate and did not eat it, in hopes of identifying a common culprit.
+
+107. [frq, 2 pt] Is this a case-control or cohort study? What is the correct measure of association to use for this study design?
+
+108. [frq, 2 pt] If this were the other study design, how would the study be executed differently?
+
+109. [frq, 3 pt] What is the difference between relative risk and odds ratio? Please explain conceptually, not mathematically.
+
+116. [frq, 1.5 pt] What are 3 food handling precautions the caterer can apply in the future?
+
+117. [frq, 1 pt] Now that we've identified the cause of the outbreak and have begun implementing prevention techniques at the source, what is the final step in Dr. Sundar's outbreak investigation?
+
+[STIMULUS] **Never Gonna Give Them Up**
+
+Having solved the Mehtavirus outbreak, Dr. Sundar returns to his lab work, content. However, one night, he receives a call from distraught singer-songwriter Rick Astley (of whom Dr. Sundar is a massive fan). Mr. Astley tells Dr. Sundar that his favorite cats have been acting strangely - and that recently, he has even had one perish. Nevertheless, Mr. Astley is adamant to get to the root of this case, saying that he will never give his cats up; that he's never gonna let them down, and never gonna run around and desert them.
+
+Dr. Sundar travels to Mr. Astley's town of residence, a quaint seaside town in England. Astley, being the good owner he is, feeds his cats an all-organic diet consisting solely of locally-caught fish. On observing Astley's cats, Saketh notices they all appear dizzy and lack coordination; a few of the more advanced cases have been having seizures and are beginning to go blind.
+
+118. [frq, 1 pt] From the symptoms so far, what bodily system does this illness seem to affect?
+
+119. [frq, 2.5 pt] Explain the difference between bioaccumulation and biomagnification.
+
+120. [frq, 2.5 pt] How was it that the cats had dramatically higher mercury levels than their prey, the fish?
+
+121. [frq, 2 pt] There is no cure for mercury poisoning, and it often has fatal results. What level of disease prevention may be used on Mr. Astley's cats?
+
+[STIMULUS] Mr. Astley, enraged at how clueless he was to the seemingly-inevitable fate of his cats, pours his fortune into researching cheap, rapid tests for methylmercury poisoning. After years of research, a potential test is finally found and tested.
+    |  | Poisoning + | Poisoning - | Total |
+    | Test + | 186 | 21 | 207 |
+    | Test - | 64 | 229 | 293 |
+    | Total | 250 | 250 | 500 |
+
+124. [frq, 1 pt] What's the difference between sensitivity and positive predictive value?
+
+125. [frq, 2.5 pt] What type of error does a highly sensitive test reduce?
+
+127. [frq, 2.5 pt] When would a more sensitive test be preferable?
+
+128. [frq, 3 pt] In practice, many tests for disease employ a two step process, with one test being more sensitive and the other being more specific. Which test comes first, and why?
+
+[STIMULUS] **Pahk Yah Cah(lera) in Hahvahd Yahd**
+
+The following excerpts reproduced under public domain from an 1849 report on a cholera epidemic in Boston.
+
+On the approach of the Cholera, several additional measures were undertaken. Printed notices were published in the journals and posted up in various places, containing directions as to regimen, diet, clothing, and the treatment to be pursued on the discovery of premonitory symptoms. The Police were directed to see that houses and cellars, in exposed places, were whitewashed. Large quantities of disinfecting substances were purchased, and freely distributed wherever they were required. The inhabitants were notified to cleanse their house drains with Cochituate water [a reservoir near Boston], and the common sewers were ordered to be washed, at different periods, during the summer. The Board directed the large tract of marshy land, constituting the Back Bay, to be flooded from the ocean, and the water to be retained at as great a height, as the drains flowing into it, would permit. By a special order, all vessels arriving in the harbor with fruits, or other objectionable substances, were ordered to report themselves to the Hospital Physician at Deer Island, by whom they were thoroughly examined; and all decayed or deleterious portions of their cargoes were removed, or thrown overboard, before a permit was granted to come up to the city.
+
+129. [frq, 2.5 pt] Our favorite epidemiological figure was famously credited with ending a related outbreak in 1854. What was their name, how did they end their epidemic, and what impact did they have on epidemiology as a whole?
+
+131. [frq, 3 pt] This excerpt lists several preventative measures taken by the Board of Physicians. What is the predominant level of prevention in these measures, and how did you reach this conclusion?
+
+132. [frq, 1.5 pt] This report does not mention handwashing (or any hand hygiene) at all. What link(s) of the chain of infection does hand hygiene break?
+
+133. [frq, 2 pt] Judging by the given information, what is a likely reservoir of cholera? Mode of transmission?
+
+134. [frq, 3 pt] Nowadays, cholera may be treated with antibiotics or prevented with vaccines. From a public health perspective, explain why one intervention may be prefered over the other.
+
+135. [frq, 2 pt] Now, the CDC has several surveillance systems in place to monitor diseases like cholera. Please name one example of a surveillance network that may monitor cholera. As a tiebreaker, name the CDC's specific surveillance network for cholera and Vibrio-caused infections.

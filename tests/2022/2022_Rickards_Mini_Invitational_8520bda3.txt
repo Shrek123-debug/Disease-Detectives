@@ -1,0 +1,694 @@
+Rickards Mini Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  97 questions, 179.0 pts
+Source: scio.ly test archive id 8520bda3-fbf2-4b74-a577-ed1f8f9f0745  |  original files: https://drive.google.com/drive/folders/1-QxFq3Kb3EBH4MNGzVGFM4pJZIfL2OHp
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: Good luck and have fun!
+
+
+=== Part 1: General Epidemiology ===
+
+[STIMULUS] Match the following terms with the corresponding letter from the table. Not all letters may be used.
+
+A: an outbreak of disease in an animal population, analogous to an epidemic
+B: an epidemic that covers a large geographic area
+C: the removal of all microbial life
+D: can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+E: an inanimate object that can facilitate the indirect transmission of an infectious agent
+F: an infection that can be transferred from animals to humans under natural conditions
+G: the removal of pathogens from living tissue
+H: an indicator for how long a disease affects a population and its severity
+I: an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+J: the removal of pathogens
+K: indicates that a disease is constantly present at high levels in an area
+L: an endemic occurring naturally in animals
+M: swelling caused by excess fluid
+N: a high level of infection that begins early in life, affecting mostly children
+O: an inanimate object that can carry an agent from a reservoir to a susceptible host
+P: an infection that does not cause any signs of disease
+Q: an indicator for the spread of disease
+R: a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+S: an indicator of the extent of illness in a population, synonymous with the term "illness."
+T: the presence of bacteria in the blood
+
+1c. [mcq, 1 pt] Hyperendemic
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+2a. [mcq, 1 pt] Epizootic
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+2b. [mcq, 1 pt] Vector
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+2c. [mcq, 1 pt] Incidence
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+3a. [mcq, 1 pt] Sterilization
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+3b. [mcq, 1 pt] Disinfection
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+3c. [mcq, 1 pt] Antisepsis
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+4a. [mcq, 1 pt] Holoendemic
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+4b. [mcq, 1 pt] Secondary Infection
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+4c. [mcq, 1 pt] Zoonosis
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+5a. [mcq, 1 pt] Bacteremia
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+5b. [mcq, 1 pt] Morbidity rate
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+5c. [mcq, 1 pt] Subclinical Infection
+    A) an outbreak of disease in an animal population, analogous to an epidemic
+    B) an epidemic that covers a large geographic area
+    C) the removal of all microbial life
+    D) can be caused by health care professionals who fail to use aseptic techniques; the infection originates from a patient in a healthcare facility
+    E) an inanimate object that can facilitate the indirect transmission of an infectious agent
+    F) an infection that can be transferred from animals to humans under natural conditions
+    G) the removal of pathogens from living tissue
+    H) an indicator for how long a disease affects a population and its severity
+    I) an infection that is caused by an opportunistic pathogen after another infection has weakened the body's immune defenses
+    J) the removal of pathogens
+    K) indicates that a disease is constantly present at high levels in an area
+    L) an endemic occurring naturally in animals
+    M) swelling caused by excess fluid
+    N) a high level of infection that begins early in life, affecting mostly children
+    O) an inanimate object that can carry an agent from a reservoir to a susceptible host
+    P) an infection that does not cause any signs of disease
+    Q) an indicator for the spread of disease
+    R) a living carrier that transports an infectious agent from an infected individual to a susceptible individual
+    S) an indicator of the extent of illness in a population, synonymous with the term "illness."
+    T) the presence of bacteria in the blood
+
+6. [frq, 5 pt] List and provide a brief description for each of the five steps of surveillance.
+
+7. [frq, 4 pt] What's the difference between sensitivity and specificity? How do these two terms compare with the terms PPV and NPV?
+
+8. [frq, 1.5 pt] What are the three components of an epidemiological (chain of infection) triad?
+
+9. [frq, 4 pt] Define the terms ecological study and cross-sectional study. What are each of their advantages and disadvantages?
+
+10. [frq, 3 pt] What's the difference between a symptom and a sign? Give two examples of each.
+
+11. [frq, 3 pt] What's the difference between a modified-live vaccine and a killed vaccine? Which one provides a longer and stronger immunity? Why?
+
+12. [frq, 1.5 pt] What are three purposes of public health surveillance?
+
+13. [frq, 3 pt] What are six possible characteristics that a case definition should include?
+
+14. [frq, 2 pt] Give two examples of reasons why outbreaks end.
+
+15. [frq, 1 pt] What's the difference between a probable and confirmed case?
+
+16. [multi, 2 pt] Select all of the following factors that could lead to an epidemic.
+    A) Global warming has changed environmental conditions so that they favor the retention and/or propagation of the agent.
+    B) The pathogenicity of an agent decreases through mutation.
+    C) There is a natural increase in the susceptibility of the host population.
+    D) An invasive species that is a vector for a disease is introduced to a new area.
+
+17. [mcq, 2 pt] Which of the following diseases would have a high mortality but low morbidity?
+    A) HIV
+    B) malaria
+    C) ebola
+    D) influenza
+
+18. [mcq, 2 pt] If an outbreak were to occur, which of the following methods would be the most effective in preventing the spread of the plague?
+    A) antibiotics
+    B) vaccines
+    C) quarantine
+    D) rodent and flea control
+
+19. [mcq, 2 pt] Which of the following statements is true about influenza pandemics?
+    A) They arise because of the accumulation of mutations through antigenic shift
+    B) They result when the infected population has not been exposed to the new viral antigens before
+    C) They occur when the viral genetic material is derived from a single source
+    D) They always follow seasonal outbreak patterns
+
+20. [mcq, 2 pt] Which of the following is not an advantage of active surveillance?
+    A) It relies on different definitions for a disease, which allows it to account for all cases
+    B) It's especially useful for diseases that put the public at high risk and uncommon diseases
+    C) It's more accurate because there's a reduced reporting burden for health care providers
+    D) It has increased sensitivity when compared to passive surveillance
+
+21. [multi, 2 pt] Select all of the following statements that are true about prevalence and incidence.
+    A) In any given outbreak, the prevalence of the disease is the same as the attack rate.
+    B) Estimates of prevalence and incidence are impacted by the criteria used for diagnosis.
+    C) The prevalence can be calculated if the mean duration and the incidence rate of the disease is known.
+    D) Prevalence rates are always greater than incidence rates.
+
+22. [mcq, 2 pt] Which of the following statements is false about viruses?
+    A) Viruses are generally unresponsive to antibiotic treatment
+    B) A virion is an inactive form of a virus, and it is unable to infect a cell
+    C) A minus strand RNA virus needs to synthesize an RNA intermediate in order to replicate
+    D) Viruses are unable to generate their own ATP
+
+23. [mcq, 2 pt] Which description provides the best explanation for how prions cause disease?
+    A) They act as mutagens and alter the DNA sequence, causing abnormal proteins to be synthesized
+    B) They disable chaperonins, causing an accumulation of misfolded proteins
+    C) They induce normal cellular proteins to misfold, and this misfolded protein has the capacity to cause other proteins to misfold too
+    D) They utilize a reverse transcriptase, which uses viral RNA to synthesize misfolded proteins
+
+24. [mcq, 2 pt] A person who has HIV may or may not develop AIDS. However, HIV must be present in order for AIDS to develop. Which of the following best describes this example?
+    A) HIV is necessary and sufficient for AIDS
+    B) HIV is necessary but not sufficient for AIDS
+    C) HIV is sufficient but not necessary for AIDS
+    D) HIV is neither necessary nor sufficient for AIDS
+
+25. [mcq, 2 pt] You've been assigned to work at a lab that researches ebola, and for your safety, you are required to get vaccinated. What type of immunity is this?
+    A) Artificially acquired active immunity
+    B) Artificially acquired passive immunity
+    C) Naturally acquired active immunity
+    D) Naturally acquired passive immunity
+
+26. [mcq, 2 pt] When you were a fetus, IgG antibodies passed through the placenta from your mother to you. What type of immunity is this?
+    A) Artificially acquired active immunity
+    B) Artificially acquired passive immunity
+    C) Naturally acquired active immunity
+    D) Naturally acquired passive immunity
+
+27. [mcq, 2 pt] Which of the following would be the best index to use if you wanted to know the severity of an acute, short-term disease?
+    A) Case-fatality rate
+    B) Cause-specific mortality rate
+    C) Five-year survival rate
+    D) Crude mortality rate
+
+28. [mcq, 2 pt] You are given a harmless derivative of a toxin, released by pathogens or other poisonous sources, that elicits an active immune response. Which of the following best describes what you've been given?
+    A) A vaccine
+    B) A toxoid
+    C) An immunoserum
+    D) A natural exposure
+
+29. [mcq, 2 pt] When conducting a cohort study to determine the possible agent for a disease, which of the following conditions MUST be met?
+    A) Before the study is conducted, the exposed and non-exposed groups need to have equal risks of having the agent.
+    B) The number of people in each study group needs to be the same.
+    C) The exposed and non-exposed groups need to be as similar as possible in order to account for possible confounding factors.
+    D) The exposed and non-exposed groups are representative of the general population.
+
+30. [mcq, 2 pt] Which of the following statements regarding case-control studies is NOT true?
+    A) The rates of disease are compared between people who were exposed and people who were not exposed.
+    B) The experimenter can use multiple controls of different types.
+    C) Recall bias is a potential problem.
+    D) The proportion of cases who were exposed is compared with the proportion of controls who were exposed.
+
+31. [mcq, 2 pt] Which of the following measures does not increase the internal validity of an experimental epidemiological study?
+    A) doubling blinding
+    B) reprocessing and calibration of results
+    C) randomization
+    D) following specific study protocol
+
+32. [mcq, 2 pt] Anne is elated! The drug she has been working to create has finally been FDA approved! To celebrate, she recruits her friends and family to participate in a trial to collect additional information, including the treatment or drug's risks, benefits, and best uses. What phase is this trial considered to be in?
+    A) Phase 1
+    B) Phase 2
+    C) Phase 3
+    D) Phase 4
+
+
+=== Part 2: Lemonitis ===
+
+[STIMULUS] Congratulations! You've been assigned to investigate an outbreak of a new, mysterious disease in your town: Lemonitis.
+
+33. [multi, 2 pt] Which of the following tasks would you, an epidemiologist, feel comfortable studying?
+    A) Determining what the infectious agent of Lemonitis is.
+    B) Developing a treatment for those who've developed symptoms of Lemonitis.
+    C) Analyzing data to track patterns of Lemonitis's spread
+    D) Determining the long-term physiological effects of Lemonitis
+
+34. [mcq, 2 pt] In your efforts to collect more data about this outbreak, you reach out to the local hospital for information about cases of Lemonitis. What type of surveillance is this?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+35. [mcq, 2 pt] You also send out a report to selected hospitals, schools, and clinics in the area. They are tasked to report all cases of Lemonitis to you. What type of surveillance is this?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+[STIMULUS] Use the following information. Steve went to a restaurant and ate a lemon tart on his birthday, where (a) he was unknowingly exposed to the agent that causes Lemonitis. He's unaware that, the next few days, (b) the agent is causing the cells lining his intestines to have irregular patterns in the opening of their ion channels. He notices a couple days after eating the lemon tart that (c) has diarrhea. He visits a hospital, where (d) he is diagnosed with Lemonitis.
+
+36. [mcq, 2 pt] Which of the following events marked the beginning of the subclinical stage of disease?
+    A) He was unknowingly exposed to the agent that causes Lemonitis.
+    B) The agent begins to cause the cells lining his intestines to have irregular patterns in the opening of their ion channels.
+    C) Steve has diarrhea.
+    D) Steve is diagnosed with Lemonitis
+
+[STIMULUS] Secondary prevention is most effective between which two events? Format your answer in the form [the first event in the first blank] and [the second event in the second blank], with the blanks being the letters (a)–(d) that correspond to the events in the passage for question 36.
+    | Label | Answer |
+    | first blank the first event | [[q:37-a]] |
+    | second blank the second event | [[q:37-b]] |
+
+37-a. [frq, 1 pt] first blank the first event
+
+37-b. [frq, 1 pt] second blank the second event
+
+38. [frq, 1 pt] You are trying to determine what microorganism is causing Lemonitis. What system, often used to establish causation between two events, will you use?
+
+39. [frq, 2 pt] You are considering two possible candidates for the agent: P. lemoni and P. limi. However, according to your evidence, a case's recorded exposure to P. limi was after symptoms of Lemonitis had developed. Which criteria of your answer in #38 does this violate?
+
+40. [frq, 2 pt] When studying the relationship between P. limi and Lemonitis, you notice that as exposure to P. limi increases, the incidence of Lemonitis doesn't increase until you reach a certain threshold. Which criteria of your answer in #38 does this violate? Does this alone prove that P. limi cannot be the agent of Lemonitis (yes/no)?
+
+[STIMULUS] After further investigation, you learn the following: Lemonitis is caused by P. lemoni, a bacterium. It can be spread by mosquitoes, who have been exposed to infected bats. What is the (a) reservoir, (b) vector, and (c) agent of Lemonitis? In your response, use the singular form of the noun.
+    | Label | Answer |
+    | a reservoir | [[q:41-a]] |
+    | b vector | [[q:41-b]] |
+    | c agent | [[q:41-c]] |
+
+41-a. [frq, 1 pt] Label a reservoir
+
+41-b. [frq, 1 pt] Label b vector
+
+41-c. [frq, 1 pt] Label c agent
+
+42. [frq, 4 pt] After running some tests, you determine that P. lemoni is a Gram-positive bacterium. You are delighted, since you anticipate that antibiotics will be successful against it. Why are many antibiotics less effective against Gram-negative bacteria? How does this relate to the concept of selective toxicity?
+
+43. [frq, 3 pt] Recently, increased use of antibiotics has caused widespread antibiotic resistance, making antibiotics less effective even against Gram-positive strains. What type of genetic material is responsible for this? How does it contribute to how antibiotic resistance can spread so rapidly?
+
+44. [frq, 2 pt] A test is developed to screen for Lemonitis before symptoms are present. This test is used to screen 1500 confirmed cases of Lemonitis and 2000 controls. The test results were positive in 1350 cases and in 850 controls. Calculate the sensitivity of this test.
+
+45. [frq, 2 pt] A test is developed to screen for Lemonitis before symptoms are present. This test is used to screen 1500 confirmed cases of Lemonitis and 2000 controls. The test results were positive in 1350 cases and in 850 controls. Calculate the specificity of this test.
+
+46. [frq, 2 pt] Given your calculated sensitivity and specificity levels in 44 and 45, would you consider this test to be suitable to be used at the beginning of an outbreak? Explain your answer.
+
+47. [frq, 2 pt] The procedure for your test for Lemonitis is set up so that if the screening test result is negative, no further tests are run. If the screening test gives a positive result, the individual's urine will be tested with the new Lemonitis 2.0 test. If the Lemonitis 2.0 test is also positive, the individual will be sent to a laboratory for more testing. What is the effect (increased / decreased / stays the same) on net sensitivity and net specificity with this method of screening?
+
+[STIMULUS] For questions 48 - 51, use the following information.
+
+A. Primordial prevention
+B. Primary prevention
+C. Secondary prevention
+D. Tertiary prevention
+
+The town is looking for solutions toward preventing another outbreak of Lemonitis in the future and helping those who are already affected with the disease. Match each of the following descriptions with the type of prevention it best describes. Give your answer in the letter associated with each level of prevention (A, B, C, D).
+
+48. [mcq, 1 pt] After Lemonitis has been shown to be more common in older adults who drink alcohol, people above the age of 50 are suggested to undergo routine screening for Lemonitis
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+49. [mcq, 1 pt] After it has been shown that alcohol causes a person to be more susceptible to Lemonitis, anti-drinking campaigns spread around the town.
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+50. [mcq, 1 pt] After it has been shown that alcohol causes a person to be more susceptible to Lemonitis, the sale of alcohol is banned in the town.
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+51. [mcq, 1 pt] Once a person has developed symptoms of lemonitis, antibiotics are administered to try to cure the infection.
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+52. [frq, 2 pt] As you conduct more studies, you realize that Lemonitis is often fatal when detected too late. This problem is compounded by the fact that only a few cases are reliably detected at a early enough stage where recovery is still possible. What is this phenomenon called?
+
+[STIMULUS] Use the following information to answer questions 53 to 57. Your team has developed a drug that you theorize could help people who have Lemonitis recover. In order to test this, you take 300 volunteers who are confirmed cases for Lemonitis and randomly assign them to take either a pill with your new drug or a lactose placebo once a day for three months. You design this study so that it is double-blind. Your results show that your pill did not significantly affect the severity and the duration of Lemonitis.
+
+53. [mcq, 2 pt] This study design is best described as which of the following?
+    A) Cohort
+    B) Case-control
+    C) Experimental
+    D) Cross-sectional
+
+54. [frq, 2 pt] The study is referred to as "double-blind." What does this mean, and how does this prevent bias in your results?
+
+55. [frq, 1 pt] Why was it necessary to randomize the volunteers into two groups before assigning them to a treatment?
+
+56. [frq, 2 pt] List two ethical concerns that need to be considered before running a study of this design.
+
+57. [frq, 2 pt] You realize that only 240 volunteers completed the study, with dropouts defined as people who missed at least two weeks of taking their pills. 70% of the dropouts were from the placebo group, and 30% of the dropouts were from those taking your new drug. What type of bias does this scenario represent?
+
+[STIMULUS] After you've successfully dealt with the Lemonitis outbreak and taken a hard-earned break, you are back! This time, you're assigned to deal with a cluster of cases of Peachenza, a new viral strain, at levels far higher than normal. You can trace the cases back to a restaurant chain, Piper's Peaches, that offers peach pie. You want to determine if their peach pie is responsible for the spread of Peachenza.
+
+59. [frq, 2 pt] Would you consider this an outbreak? Explain your answer.
+
+60. [frq, 2 pt] Reports have shown that early symptoms of Peachenza are nonspecific and include fatigue, nausea, and vomiting. What phase of disease does this characterize?
+
+[STIMULUS] As you investigate the circumstances around what may have caused the outbreak at Piper's Peaches, you discover that the restaurant staff had kept using their supply of peaches up to two weeks past their expiration date. A week after the expiration date, there were reports of people developing Peachenza.
+
+61. [frq, 2 pt] What type of outbreak does this best represent?
+
+64. [mcq, 2 pt] You carry out a study to try to determine if the peach pie was responsible for the outbreak. You take a random sample of 400 people that are confirmed to have eaten at the restaurant in the past week. So far, none of your subjects have any symptoms. You then ask each of the people whether or not they had the peach pie and record the data. You then follow-up with them in a week and record whether or not they met your case definition. What is this type of study called?
+    A) Cohort study
+    B) Case control study
+    C) Ecological study
+    D) Cross sectional study
+
+65. [mcq, 2 pt] Which of the following does not describe an advantage of a prospective cohort study?
+    A) You can accurately calculate incidence rates
+    B) You can precisely measure when the exposure was
+    C) It is more inexpensive compared to a case-control study
+    D) Compared to a case-control study, a prospective cohort study minimizes recall bias
+
+66. [mcq, 2 pt] Which of the following statements is false about retrospective cohort studies?
+    A) They are useful in scenarios where the exposure is rare
+    B) Since you are able to calculate the incidence, you can also compute the relative risk and risk difference
+    C) They are less useful for studying rare diseases when compared to case-control studies
+    D) The necessary sample size is smaller than what is needed for a prospective cohort study
+
+[STIMULUS] Answer questions 67 - 73 with the following information.
+
+You finally gather your data from your study, and you organize it in the following 2 x 2 table.
+
+| | Has Peachenza | Doesn't have Peachenza |
+|---|---|---|
+| Exposed (had the peach pie) | 59 | 145 |
+| Unexposed (didn't have the peach pie) | 3 | 193 |
+
+67. [mcq, 2 pt] In order to calculate the extent of the association between the exposure and developing Peachenza, which statistic do you need to calculate?
+    A) Attack rate
+    B) Relative risk
+    C) Odds ratio
+    D) Standardized infection rate
+
+68. [numeric, 2 pt] Calculate the statistic you chose in #67. Round to the nearest whole number.
+
+69. [frq, 2 pt] Interpret your statistic. Is there a positive / negative / no correlation between being exposed to peach pie and developing Peachenza?
+
+70. [frq, 2 pt] Can you conclude that the peach pie caused peachenza? Explain your answer.
+
+71. [mcq, 2 pt] Based on your results, which of the following routes of transmission seems to be the most likely for Peachenza?
+    A) airborne
+    B) fecal-oral
+    C) vector-borne
+    D) direct contact
+
+72. [frq, 2 pt] Give two suggestions for how this type of outbreak can be prevented in the future.
+
+73. [frq, 3 pt] You learn that the peach pie from Piper's Peaches was indeed the cause of the outbreak. Name three measures you would advise the restaurant to take.
+
+[STIMULUS] Answer questions 74 - 81 with the following information.
+
+You want to test if drinking alcohol has any correlation with a person developing Peachenza. You decide to conduct a study, matching 10 people who were confirmed cases for Peachenza and 10 people who did not appear to have the disease. Each person with the disease was matched by gender, age, race, and weight with a person without the disease.
+
+You obtain the following data.
+
+| Pair | Person with Peachenza | Person without Peachenza |
+|---|---|---|
+| 1 | Regularly drinks alcohol | Does not regularly drink alcohol |
+| 2 | Regularly drinks alcohol | Regularly drinks alcohol |
+| 3 | Does not regularly drink alcohol | Does not regularly drink alcohol |
+| 4 | Regularly drinks alcohol | Does not regularly drink alcohol |
+| 5 | Does not regularly drink alcohol | Regularly drinks alcohol |
+| 6 | Regularly drinks alcohol | Does not regularly drink alcohol |
+| 7 | Regularly drinks alcohol | Regularly drinks alcohol |
+| 8 | Regularly drinks alcohol | Does not regularly drink alcohol |
+| 9 | Does not regularly drink alcohol | Regularly drinks alcohol |
+| 10 | Regularly drinks alcohol | Does not regularly drink alcohol |
+
+Using this data, construct a 2 by 2 table.
+
+| | Has Peachenza | Does not have Peachenza |
+|---|---|---|
+| Regularly drinks alcohol | A | B |
+| Does not regularly drink alcohol | C | D |
+
+74. [numeric, 1 pt] What is the value of A?
+
+75. [numeric, 1 pt] What is the value of B?
+
+76. [numeric, 1 pt] What is the value of C?
+
+77. [numeric, 1 pt] What is the value of D?
+
+[STIMULUS] You want to test if drinking alcohol has any correlation with a person developing Peachenza. Write a null and alternative hypothesis for this.
+    | Label | Answer |
+    | Null Null hypothesis | [[q:78-a]] |
+    | Alternative Alternative hypothesis | [[q:78-b]] |
+
+78-a. [frq, 1 pt] Null Null hypothesis
+
+78-b. [frq, 1 pt] Alternative Alternative hypothesis
+
+79. [numeric, 3 pt] Calculate the estimated relative risk of Peachenza when analyzing the data as a matched-pairs study. Give your answer with one decimal place.
+
+80. [numeric, 3 pt] Calculate the estimated relative risk of Peachenza when analyzing the data as an unmatched study design. Give your answer with one decimal place.
+
+81. [frq, 2 pt] What statistic were you actually calculating when you were estimating the relative risk in questions 79 and 80?
+
+82. [frq, 3 pt] After seeing the word "relative risk" so many times, your mind is befuddled! You begin to ponder the difference between the relative risk and odds ratio. Can you use the relative risk for cohort studies? Is the converse, using the odds ratio for case-control studies, also allowed? Explain your answer.
+
+83. [frq, 2 pt] After more research into Peachenza, you find out that it has a R number of 4. What does the R number indicate?
+
+84. [numeric, 2 pt] Given that the R number of Peachenza is 4, what percentage of the population needs to be vaccinated for the herd immunity threshold to be met? Do not add the % symbol in your answer.
+
+85. [mcq, 2 pt] Oh no! You realize that your method of choosing subjects may have been flawed! You had collected your subjects by standing outside the Piper's Peaches restaurant closest to your office (remember that Piper's Peaches is a restaurant chain). What type of bias does this best represent?
+    A) Hawthorne effect
+    B) Mimicry bias
+    C) Confirmation bias
+    D) Convenience bias
+
+86. [mcq, 2 pt] (Another) oh no! You realize that when designing your study to research the relationship between drinking alcohol and a person's risk of Peachenza, you failed to account for the fact that drinking a lot of alcohol frequently can also cause symptoms similar to those of Peachenza. What type of bias does this best represent?
+    A) Hawthorne effect
+    B) Mimicry bias
+    C) Confirmation bias
+    D) Convenience bias
+
+87. [mcq, 2 pt] You realize that your study had used self-reported data. Your study is most prone to which of the following biases?
+    A) Centripetal bias
+    B) Allocation bias
+    C) Social desirability bias
+    D) Lead time bias
+
+88. [frq, 2 pt] While you begin the process of publishing your findings, you learn about Type I and Type II errors. What is the difference between them?

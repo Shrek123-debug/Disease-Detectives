@@ -1,0 +1,387 @@
+UChicago Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  50 questions, 67.0 pts
+Source: scio.ly test archive id 3fe9dd4f-6a03-4aab-8811-18cc95cb8cfe  |  original files: https://drive.google.com/drive/folders/1rpA0bVImjfH00Hzpuc7r4J7IY1UnEITX
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+DIRECTIONS: Section 1: Multiple Choice — Unless noted otherwise, please select the single best choice to each of the following questions. Section 2: Math and Calculations — Please show your work for all questions to receive full credit.
+
+
+=== Section 1: Multiple Choice ===
+
+[STIMULUS] Unless noted otherwise, please select the single best choice to each of the following questions.
+
+1. [mcq, 1 pt] What measure do we use for the number of new cases of a disease in a defined time period?
+    A) Prevalence
+    B) Incidence
+    C) Attack Rate
+    D) Occurrence
+    E) Risk
+
+2. [mcq, 1 pt] Diabetes mellitus is a disease caused by insufficiency or resistance to insulin, a hormone that is important for glucose absorption in the body. The invention of insulin therapy in 1921 was instrumental in turning diabetes mellitus from a highly fatal disease to one with which people could live to old age. This caused an increase in what measure for diabetes mellitus?
+    A) Prevalence
+    B) Sensitivity
+    C) Incidence
+    D) Mortality
+    E) Morbidity
+
+3. [mcq, 1 pt] Epidemiology is only concerned with infectious disease, not chronic disease.
+    A) True
+    B) False
+
+4. [mcq, 1 pt] The natural history of disease consists of several stages. In what stage is a diagnosis usually made?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery
+    E) Stage of Disability
+
+5. [mcq, 1 pt] Which of the following is not an infectious agent of disease?
+    A) Bacteria
+    B) Virus
+    C) Prion
+    D) Fungi
+    E) Genetics
+
+6. [mcq, 1 pt] All of the following are part of the descriptive triad in epidemiology except which one?
+    A) Time
+    B) Place
+    C) Person
+    D) Agent
+
+7. [mcq, 1 pt] What is the best study type for establishing causation?
+    A) Randomized Controlled Trials
+    B) Cohort studies
+    C) Case-control studies
+    D) Ecological studies
+    E) Cross-sectional studies
+
+8. [mcq, 1 pt] Cohort studies are ideal for:
+    A) Studies that need to be accomplished without long periods of follow-up
+    B) Studies with significant financial constraints
+    C) Studies with rare exposures
+    D) Studies with rare outcomes
+    E) Studies that do not care about causation
+
+9. [mcq, 1 pt] Case-control studies commonly introduce bias in what stage?
+    A) Matching cases with controls
+    B) Selecting cases
+    C) Choosing interviewers to interview the patients
+    D) Loss to follow-up
+    E) Social desirability bias
+
+10. [mcq, 1 pt] Which type of study is commonly called a “snapshot?”
+    A) Randomized Controlled Trials
+    B) Cohort studies
+    C) Case-control studies
+    D) Ecological studies
+    E) Cross-sectional studies
+
+11. [mcq, 1 pt] You want to study the efficacy of a new vaccine for Respiratory Syncytial Virus (RSV). What type of study would you use to do so?
+    A) Randomized Controlled Trial
+    B) Cohort study
+    C) Case-control study
+    D) Ecological study
+    E) Cross-sectional study
+
+12. [mcq, 1 pt] You want to study how exposure to PFAS chemicals in the soil (a common environmental contaminant from firefighting fluid, some plastic materials, and other sources) may contribute to a variety of negative health outcomes. Which study type would you use?
+    A) Randomized Controlled Trial
+    B) Cohort study
+    C) Case-control study
+    D) Ecological study
+    E) Cross-sectional study
+
+13. [mcq, 1 pt] You conduct an analysis of data drawn from the National Health and Nutrition Examination Survey, a comprehensive survey given to children and adults across the country, as well as including lab and biospecimen data from each participant. You are using data from one timepoint. Which analysis are you likely performing?
+    A) Randomized Controlled Trial
+    B) Cohort study
+    C) Case-control study
+    D) Ecological study
+    E) Cross-sectional study
+
+[STIMULUS] According to the WHO, Respiratory Syncytial Virus (RSV) surveillance has been made difficult because of the lack of a consistent case definition.
+
+14. [mcq, 1 pt] When defining a case for the analysis of an outbreak, four components of a case definition are necessary. All of the following are necessary components of a case definition, except for one. Which one is NOT a necessary component?
+    A) Clinical information-about the disease or condition
+    B) Characteristics of the affected people
+    C) Location or place-as specific as possible as restaurant, county, or several specific areas
+    D) Time sequence-specific time during which the outbreak or condition occurred
+    E) Suspected exposure - what may have caused the outbreak and/or case
+
+15. [mcq, 1 pt] For hospital-based surveillance (note that this is distinct from the previous question, which was concerning outbreak-based surveillance), the WHO has recommended the following as a potential case definition:
+    
+    “In infants less than 6 mo, additionally include those who present with apnoea - defined as temporary cessation of breathing from any cause, and/or sepsis - defined as fever (37.5 °C or above) or hypothermia (less than 35.5 °C), and shock (lethargy, fast breathing, cold skin, prolonged capillary refill, fast weak pulse), and seriously ill with no apparent cause.”
+    
+    Source: https://www.who.int/teams/global-influenza-programme/global-respiratory-syncytial-virus-surveillance/case-definitions
+    
+    Infants following into the above category would be considered what type of case?
+    A) Suspected
+    B) Probable
+    C) Confirmed
+    D) Unlikely
+    E) Impossible
+
+17. [mcq, 1 pt] BRCA1 and 2 are genes that are associated with the development of breast cancer. Below is a Manhattan plot of SNPs associated with BRCA1/2-associated tumors drawn from 46 samples.
+    
+    Source: Lal, Avantika, et al. “Comprehensive Genomic Characterization of Breast Tumors with BRCA1 and BRCA2 Mutations.” BMC Medical Genomics, vol. 12, no. 1, 10 June 2019, https://doi.org/10.1186/s12920-019-0545-0 .
+    
+    Which of the following chromosomes does not appear to have SNPs significantly associated with BRCA1/2-associated tumors?
+    [IMAGE: ../images/2025_uchicago_invitational_c__p5_c25a40a-fae46efa.webp]
+    A) 1
+    B) 2
+    C) 3
+    D) 5
+    E) 6
+
+18. [mcq, 1 pt] A variable is found to be associated with both the exposure and outcome of a study, making it appear that there is a relationship between the exposure and outcome when there actually is not. What is this?
+    A) Positive effect modifier
+    B) Negative effect modifier
+    C) Positive confounder
+    D) Negative confounder
+    E) Bias
+
+20. [mcq, 1 pt] Recall bias is a major concern in which type of study?
+    A) Randomized Controlled Trials
+    B) Prospective cohort studies
+    C) Case-control studies
+    D) Ecological studies
+    E) Cross-sectional studies
+
+21. [mcq, 1 pt] Colon cancer screening is an example of what type of prevention?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+23. [mcq, 1 pt] Requiring that a specific disease be reported by all healthcare providers whenever they encounter it to health departments would be an example of what kind of surveillance?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+    E) Governmental surveillance
+
+24. [mcq, 1 pt] Measles is spread by viruses that spread through the air and can remain in the air for up to two hours. This is an example of what type of transmission?
+    A) Direct transmission
+    B) Droplet transmission
+    C) Airborne transmission
+    D) Fecal-oral transmission
+    E) Vehicle-borne transmission
+
+[STIMULUS] Match the following terms with their definitions.
+
+a. aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+b. a large number of cases of a disease affecting many people over a wide area
+c. time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+d. constant presence of an agent/health condition within a given geographic area/population
+e. inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+f. an epidemic occurring over several countries or continents and affecting a large proportion of the population
+g. an animal that transmits disease
+h. an infectious disease that is transmissible from animals to humans
+i. an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+j. first patient in an epidemiological study
+k. a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+25. [mcq, 1 pt] Cluster
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+26. [mcq, 1 pt] Epidemic
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+27. [mcq, 1 pt] Endemic
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+28. [mcq, 1 pt] Pandemic
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+29. [mcq, 1 pt] Index Case
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+30. [mcq, 1 pt] Syndemic
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+31. [mcq, 1 pt] Incubation period
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+32. [mcq, 1 pt] Fomite
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+33. [mcq, 1 pt] Vehicle
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+34. [mcq, 1 pt] Vector
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+35. [mcq, 1 pt] Zoonosis
+    A) aggregation of two or more concurrent/sequential epidemics or disease clusters in a population
+    B) a large number of cases of a disease affecting many people over a wide area
+    C) time in between when a person comes into contact with a pathogen and when they first show symptoms or signs of disease
+    D) constant presence of an agent/health condition within a given geographic area/population
+    E) inanimate object that transmits disease (can include biologic products like blood, food, water, etc.)
+    F) an epidemic occurring over several countries or continents and affecting a large proportion of the population
+    G) an animal that transmits disease
+    H) an infectious disease that is transmissible from animals to humans
+    I) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number
+    J) first patient in an epidemiological study
+    K) a physical object (usually solid) that serves to transmit an infectious agent from person to person
+
+[STIMULUS] Please show your work for all questions to receive full credit.
+
+For the following questions, data is drawn/adapted from the following source:
+Papi, Alberto, et al. “Respiratory Syncytial Virus Prefusion F Protein Vaccine in Older Adults.” New England Journal of Medicine, vol. 388, no. 7, 16 Feb. 2023, pp. 595–608, https://doi.org/10.1056/nejmoa2209604 .
+
+A large, international, randomized vaccine trial recently demonstrated safety and efficacy of a vaccine against Respiratory Syncytial Virus (RSV) in older adults (aged 60+). From the article:
+“A total of 24,966 participants received one dose of the RSVPreF3 OA vaccine (12,467 participants) or placebo (12,499)...with 7 cases in the vaccine group and 40 cases in the placebo group.”
+
+
+
+
+=== Section 2: Math and Calculations ===
+
+36. [frq, 2 pt] What is the purpose of the placebo group?
+
+38. [frq, 2 pt] Calculate the attack rate of RSV for the Vaccine group.
+
+39. [frq, 2 pt] Calculate the attack rate of RSV for the Placebo group.
+
+40. [frq, 2 pt] Calculate the Relative Risk of RSV infection with Vaccine as the exposure.
+
+41. [frq, 2 pt] Interpret this relative risk.
+
+42. [frq, 2 pt] Calculate the Vaccine Efficacy.
+
+43. [frq, 2 pt] Calculate the Absolute Risk Reduction (ARR).
+
+44. [frq, 2 pt] Calculate the Number Needed to Treat (NNT).
+
+45. [frq, 2 pt] Interpret the NNT.
+
+46. [frq, 2 pt] The actual 96.95% confidence interval [CI] for Vaccine Efficacy in the trial was 57.9 to 94.1. Please correctly interpret this confidence interval. (What does a confidence interval mean? Hint: It is not that "We are 95% confident that this is the true value.")
+
+47. [frq, 2 pt] The below study estimated the R0 value of RSV to be 3.0
+    
+    Reis, Julia, and Jeffrey Shaman. "Retrospective Parameter Estimation and Forecast of Respiratory Syncytial Virus in the United States." PLOS Computational Biology, vol. 12, no. 10, 7 Oct. 2016, p. e1005133, https://doi.org/10.1371/journal.pcbi.1005133 .
+    
+    Please interpret this R0 value. What does R0 mean?
+
+48. [frq, 2 pt] Using this R0 number, calculate the threshold for herd immunity.
+
+49. [frq, 2 pt] What does this threshold from the above question mean?
+
+[STIMULUS] You are performing a case-control study to analyze the development of hospital-acquired C. diff infection. You find 30 cases and 60 controls in a large hospital network. Of the cases, 15 were received broad spectrum antibiotics prior to their C. diff infection. Of the controls, 10 received broad spectrum antibiotics during their hospital stay.
+
+51. [frq, 2 pt] What measure of association would you use to study the effects/association of broad spectrum antibiotic exposure with nosocomial C. diff infection? Why?
+
+52. [frq, 2 pt] Calculate this measure of association.
+
+53. [frq, 2 pt] Is there an association between the exposure and the outcome?
+
+
+=== Section 3: Case Study ===
+
+[STIMULUS] The following questions concern this case study:
+
+Kawachi, Ichiro. "Smoking Cessation in Relation to Total Mortality Rates in Women: A Prospective Cohort Study." Annals of Internal Medicine, vol. 119, no. 10, 15 Nov. 1993, p. 992, https://doi.org/10.7326/0003-4819-119-10-199311150-00005 .
+
+
+
+54. [frq, 2 pt] What type of epidemiological study is being conducted? Is it prospective or retrospective?
+
+57. [frq, 1 pt] For a cohort study, what measure of association would you use to determine the association between smoking cessation and mortality?

@@ -1,0 +1,185 @@
+Princeton Invitational — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  58 questions, 115.0 pts
+Source: scio.ly test archive id c8531e85-4662-4152-8a85-5752c91f6a54  |  original files: https://www.dropbox.com/sh/rmikdfew39lu0xw/AACN9S2DgTp-gYjbZSsEEA5Oa?dl=0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: Read each question carefully, including any extra instructions. Show work for all calculations. Partial credit will be awarded, no guessing penalty. Best of luck on the exam and all your other events!
+
+
+=== Section I ===
+
+[STIMULUS] Read the following excerpt from Jester et al 2018:
+
+The 1918 influenza outbreak offers the worst-case planning scenario for public health officials because it resulted in unparalleled numbers of deaths. The virus, an A(H1N1) subtype, may have infected half the world's population and caused at least 50 million deaths, according to estimates; 675,000 deaths are thought to have occurred in the United States.
+
+1. [frq, 3 pt] Epidemiologists are primarily concerned with studying the ____ and ____ of health events in a population, with a secondary goal of finding the "how" and "why", or the ____ of the disease.
+
+3a. [tf, 2 pt] For each of the following statements, choose true or false. The following would be a correct sentence: the 1918 influenza outbreak was a(n) ____. — Endemic
+    A) True
+    B) False
+
+4a. [frq, 1 pt] Classify each of the following statements from public policy reports regarding the flu as taking a public health, clinical, or a combined approach to epidemiology. — "...improved surveillance of influenza A viruses circulating among birds and swine will help monitor the evolution of novel influenza A viruses"
+
+4b. [frq, 1 pt] Classify each of the following statements from public policy reports regarding the flu as taking a public health, clinical, or a combined approach to epidemiology. — "Droplet precautions should be added to the standard precautions when providing care to all patients with symptoms of acute respiratory infection."
+
+4c. [frq, 1 pt] Classify each of the following statements from public policy reports regarding the flu as taking a public health, clinical, or a combined approach to epidemiology. — "...an international capacity-strengthening initiative, providing financial support for capacity building to improve laboratory diagnostics and sentinel surveillance of influenza-like illness and severe acute respiratory infection"
+
+4d. [frq, 1 pt] Classify each of the following statements from public policy reports regarding the flu as taking a public health, clinical, or a combined approach to epidemiology. — "Rapid development of vaccine candidates, accelerated clinical trials, and reducing the time required to formulate and distribute pandemic vaccine can reduce pandemic morbidity and deaths."
+
+4e. [frq, 1 pt] Classify each of the following statements from public policy reports regarding the flu as taking a public health, clinical, or a combined approach to epidemiology. — "...convalescent plasma and hyperimmune globulin may provide useful alternatives for the treatment of severe novel influenza infections provided there are suitable donors"
+
+5. [frq, 2 pt] Much of modern epidemiology is concerned with developing and improving frameworks for public health surveillance. What is the most fundamental reason why public health surveillance is important?
+
+6a. [frq, 2 pt] This question is about the specifics of surveillance. — List the 5 steps of surveillance in order.
+
+6b. [frq, 3 pt] This question is about the specifics of surveillance. — What are (3) criterion to consider when choosing which health problems to conduct surveillance on?
+
+6c. [frq, 1 pt] This question is about the specifics of surveillance. — What is the primary difference between a surveillance case definition versus a clinical case definition?
+
+6d. [frq, 1 pt] This question is about the specifics of surveillance. — Syndromic surveillance typically has lower ____ but higher ____ than normal surveillance.
+
+6e. [frq, 2 pt] This question is about the specifics of surveillance. — List (2) characteristics of scenarios in which you would use syndromic surveillance.
+
+6f. [frq, 2 pt] This question is about the specifics of surveillance. — While conducting surveillance on influenza, you notice that one year has a significantly higher peak incidence than the others. Give (2) possible explanations for this apparent anomaly.
+
+6g. [frq, 1 pt] This question is about the specifics of surveillance. — Influenza poses a unique challenge for surveillance because laboratory testing is rarely done to confirm cases, and the disease is so widespread in the winter that it makes it infeasible for the CDC to mandate reporting details of every case. How can we circumvent these issues to effectively monitor the flu?
+
+6h. [frq, 4 pt] This question is about the specifics of surveillance. — What are (2) advantages and (2) disadvantages of passive surveillance?
+
+7. [frq, 3 pt] The National Notifiable Disease Surveillance System (NNDSS) gathers reports from state epidemiology departments regarding cases of specific notifiable diseases. Certain diseases that don't propagate person to person are on the list; give an example of one and explain why they would be notifiable despite not being contagious.
+
+8a. [frq, 3 pt] This question is about the chain of infection. — What are the 3 elements of the traditional epidemiological triad?
+
+8b. [frq, 5 pt] This question is about the chain of infection. — List the five elements of the chain of infection and identify what they are for influenza.
+
+8c. [frq, 2 pt] This question is about the chain of infection. — What are 2 points public health officials would typically target to break the chain of infection (for any infectious disease) and prevent disease spread?
+
+9a. [frq, 1 pt] For influenza, vaccinations remain the most widespread and effective prevention method. The following questions are regarding vaccinations as a method of prevention. — What does the 'herd immunity threshold' of a population refer to?
+
+9b. [frq, 3 pt] For influenza, vaccinations remain the most widespread and effective prevention method. The following questions are regarding vaccinations as a method of prevention. — R₀, the basic reproductive number of a disease, is an estimate of how other people one person with an infectious disease can infect. Given that the R₀ of the strain of influenza responsible for the 1918 outbreak was 4-5, estimate a range for the herd immunity threshold for that strain. (assume 100% vaccine efficacy)
+
+9c. [frq, 1 pt] For influenza, vaccinations remain the most widespread and effective prevention method. The following questions are regarding vaccinations as a method of prevention. — What value of R₀ is required for a disease to remain in the steady state?
+
+9d. [frq, 1 pt] For influenza, vaccinations remain the most widespread and effective prevention method. The following questions are regarding vaccinations as a method of prevention. — Why does influenza in particular pose a challenge for public health issues to effectively combat using vaccinations?
+
+9e. [frq, 1 pt] For influenza, vaccinations remain the most widespread and effective prevention method. The following questions are regarding vaccinations as a method of prevention. — Vaccines are part of which level of prevention?
+
+10. [frq, 5 pt] The ability of a disease to progress from the susceptibility stage to preclinical following an exposure is its ____. Similarly, the ability of a disease to move from subclinical to clinical is known as its ____. The time it takes for a disease to do so is known as its incubation period, or ____ period for chronic diseases. The proportion of severe or fatal clinical cases is called the ____. However, not all cases in the subclinical stage of disease progress to clinical symptoms. These people are known as ____ and can still transmit the disease to others.
+
+11. [frq, 2 pt] In 2005, rules were set for countries to achieve greater response capacity for public health emergencies through a revision of the International Health Regulations. Identify 1 possible reason why these regulations have failed to significantly improve global readiness for a flu pandemic.
+
+12. [frq, 4 pt] Identify (2) other factors that limit global preparedness for another 1918-esque flu pandemic. For each factor, propose a feasible method to improve preparedness.
+
+
+=== Section II ===
+
+14. [frq, 3 pt] A visual tool epidemiologists often use to analyze mode of spread is a(n) ____. You can also use this tool to understand the ____ and ____ of the disease, which are both critical factors in determining how to approach investigation of this outbreak (i.e. scope and urgency of implementing control factors).
+
+[STIMULUS] Read the following excerpt from Tangermann et al 1991:
+
+We asked for stool specimens from all children and staff who had attended the center since June 1, 1989. Stool specimens were concentrated by a formalin-ethyl acetate procedure. Slides for direct ova and parasite examinations as well as for the detection of oocysts were prepared with a special staining method (cold KINYOUN staining). When oocysts were found, the specimen was designated as "rare," "few," "moderate," or "numerous." Regardless of whether or not Cryptosporidium was found in the first specimen, we initially attempted to collect at least two serial samples from all children to increase the likelihood of finding Cryptosporidium, if it was present. Subsequent follow-up was focused on all those who shedded larger quantities of oocysts in their first or second specimen (designation, moderate or numerous). A subsample of 12 specimens from children who were reported to have had diarrhea during the outbreak period was also cultured for enteropathogenic bacteria. Laboratory examinations were performed by the parasitology and bacteriology laboratories of the Department of Health and Human Resources, State of Georgia.
+
+We distributed self-administered questionnaires to parents and staff to characterize the children's and staffs illnesses and define risk factors for acquiring infection.
+
+A person was included in the epidemiologic analysis only if both the questionnaire information and at least one stool specimen were obtained. We defined a child or staff person as infected if at least one stool specimen was positive for Cryptosporidium.
+
+A person was defined as having had diarrhea between June 1 and August 18 if the patient or parents reported either one or more episodes of watery stools or three or more loose stools per 24-hour period.
+    [IMAGE: ../images/2019_princeton_invitational__p5_eb6c14-6e8cdd33.webp]
+
+16. [frq, 2 pt] Identify which of the steps of outbreak investigation are conducted in the excerpt above and provide evidence for each
+
+17a. [frq, 1 pt] Well-designed experimental studies have more external validity than observational studies. What is external validity?
+
+17b. [frq, 1 pt] Why are experimental studies more externally valid?
+
+17c. [frq, 1 pt] Why do the investigators choose to run an observational study instead?
+
+18a. [frq, 3 pt] Calculate the age-specific attack rate for each classroom group above. (label each age group in your answer)
+    [IMAGE: ../images/2019_princeton_invitational__p6_1bade8-59788890.webp]
+
+18b. [frq, 2 pt] What is the relevant statistic for this observational study? Explain why you would use this one over similar alternatives.
+
+[STIMULUS] Using the younger 4s as a reference group, calculate this statistic for the other age levels/classrooms.
+    | Label | Answer |
+    | Infants | [[q:18c-a]] |
+    | 1 to 2 yo | [[q:18c-b]] |
+    | Younger 2s | [[q:18c-c]] |
+    | Older 2s | [[q:18c-d]] |
+    | Younger 3s | [[q:18c-e]] |
+    | Older 3s | [[q:18c-f]] |
+
+18c-a. [frq, 0.667 pt] Infants
+
+18c-b. [frq, 0.667 pt] 1 to 2 yo
+
+18c-c. [frq, 0.667 pt] Younger 2s
+
+18c-d. [frq, 0.667 pt] Older 2s
+
+18c-e. [frq, 0.667 pt] Younger 3s
+
+18c-f. [frq, 0.667 pt] Older 3s
+
+18d. [frq, 2 pt] Was using the younger 4s classroom as a reference group appropriate? Why or why not
+
+18f. [frq, 2 pt] Identify two endogenous variables that could confound your conclusion
+
+19a. [frq, 1 pt] Calculate the mean interval in days between symptom onset and the first negative stool test
+    [IMAGE: ../images/2019_princeton_invitational__p7_912232-aa1846f6.webp]
+
+19c. [frq, 2 pt] Why investigate oocyst shedding duration?
+
+19d. [frq, 1 pt] From what you know about mode of spread, what population might you investigate next for secondary outbreak?
+
+19e. [frq, 2 pt] You choose to passively collect data for your investigation in 19d. However, cryptosporidium screening is not routinely performed for patients with diarrhea. What effect will this have on your findings and why?
+
+20a. [frq, 2 pt] This particular outbreak of cryptosporidiosis was self-limiting. Recommend (2) control measures that you would implement if this was not the case.
+
+20bi. [frq, 2 pt] Identify (2) examples of each of the following types of prevention measures for cryptosporidiosis: Primary
+
+20bii. [frq, 2 pt] Identify (2) examples of each of the following types of prevention measures for cryptosporidiosis: Secondary
+
+
+=== Section III ===
+
+[STIMULUS] Read the following excerpt from Scholl et al. from the MMWR:
+
+The 63,632 drug overdose deaths in the United States in 2016 represented a 21.4% increase from 2015; two thirds of these deaths involved an opioid. From 2015 to 2016, drug overdose deaths increased in all drug categories examined; the largest increase occurred among deaths involving synthetic opioids other than methadone (synthetic opioids), which includes illicitly manufactured fentanyl (IMF). Since 2013, driven largely by IMF, including fentanyl analogs, the current wave of the opioid overdose epidemic has been marked by increases in deaths involving synthetic opioids. IMF has contributed to increases in overdose deaths, with geographic differences reported. CDC examined state-level changes in death rates involving all drug overdoses in 50 states and the District of Columbia and those involving synthetic opioids in 20 states, during 2013–2017. In addition, changes in death rates from 2016 to 2017 involving all opioids and opioid subcategories, were examined by demographics, county urbanization levels, and by 34 states and DC. Among 70,237 drug overdose deaths in 2017, 47,600 (67.8%) involved an opioid. From 2013 to 2017, drug overdose death rates increased in 35 of 50 states and DC, and significant increases in death rates involving synthetic opioids occurred in 15 of 20 states, likely driven by IMF. From 2016 to 2017, overdose deaths involving all opioids and synthetic opioids increased, but deaths involving prescription opioids and heroin remained stable. The opioid overdose epidemic continues to worsen and evolve because of the continuing increase in deaths involving synthetic opioids.
+
+Annual percent change with statistically significant trends in age-adjusted drug overdose death rates for all 50 states and DC from 2013 to 2017 and in age-adjusted death rates involving synthetic opioids for 20 states that met drug specificity criteria were analyzed using Joinpoint regression. Age-adjusted overdose death rates were examined from 2016 to 2017 for all opioids, prescription opioids, heroin, and synthetic opioids. Death rates were stratified by age, sex, racial/ethnic group, urbanization level, and state. State-level analyses included DC and 34 states with adequate drug specificity data for 2016 and 2017. Analyses comparing changes in death rates from 2016 to 2017 used z-tests when the number of deaths was ≥100 and non-overlapping confidence intervals based on a gamma distribution when the number was <100.
+
+Table 1: Annual number and age-adjusted rate of drug overdose deaths involving heroin and synthetic opioids other than methadone by sex, age, race and Hispanic origin, urbanization level, and selected states — United States, 2016 and 2017
+
+* indicates a statistically significant difference
+    [IMAGE: ../images/2019_princeton_invitational__p9_97349c-4b8f2725.webp]
+
+21a. [frq, 5 pt] Table 1 displays death rates for opioid related drug overdose deaths that have been stratified by age and other factors. Calculate the absolute change in mortality rate and the percent change in mortality rate for the race strata. Label each answer clearly.
+    [IMAGE: ../images/2019_princeton_invitational__p9_97349c-4b8f2725.webp]
+
+21b. [frq, 3 pt] Table 1 displays death rates for opioid related drug overdose deaths that have been stratified by age and other factors.
+    
+    Drug overdoses resulted in 70,237 deaths during 2017 with a mortality rate of 21.98 per 100,000. Of those, 67.8% involved opioids. Calculate the mortality rate attributable to opioid overdose in 2017 and the absolute change in rate.
+
+21c. [frq, 2 pt] Table 1 displays death rates for opioid related drug overdose deaths that have been stratified by age and other factors.
+    
+    Which age group had the greatest relative change in mortality? Why would this group have such a large increase in opioid related mortality?
+
+21d. [frq, 1 pt] Table 1 displays death rates for opioid related drug overdose deaths that have been stratified by age and other factors.
+    
+    Which race group has the greatest relative change in mortality?
+
+21e. [frq, 1 pt] Table 1 displays death rates for opioid related drug overdose deaths that have been stratified by age and other factors.
+    
+    You suspect that your answer from (d) may be the result of confounding. What other piece of demographic information do you want to collect to investigate your hypothesis?
+
+22. [frq, 6 pt] When collecting data on complex health events like drug overdoses, there are difficulties in ensuring accurate data. List (3) possible limitations of a study as described here, and explain how each one would qualify the interpretation of the data.
+
+[STIMULUS] Figure 1. Age-adjusted rates of drug overdose deaths and deaths involving synthetic opioids other than methadone, by state — United States, 2013 and 2017
+    [IMAGE: ../images/2019_princeton_invitational__p10_0e5cce-2573965b.webp]
+
+25. [frq, 1 pt] Which area had the greatest change in age adjusted drug overdose deaths?
+
+[STIMULUS] Read the following excerpt from Scholl et al.
+
+Through 2017, the drug overdose epidemic continues to worsen and evolve, and the involvement of many types of drugs (e.g., opioids, cocaine, and methamphetamine) underscores the urgency to obtain more timely and local data to inform public health and public safety action. Although prescription opioid- and heroin-involved death rates were stable from 2016 to 2017, they remained high. Some preliminary indicators in 2018 point to possible improvements based on provisional data; however, confirmation will depend on results of pending medical investigations and analysis of final data. Overall, deaths involving synthetic opioids continue to drive increases in overdose deaths. CDC funds 32 states and DC to collect more timely and comprehensive drug overdose data, including improved toxicologic testing in opioid-involved fatal overdoses. CDC is funding prevention activities in 42 states and DC.
+
+27. [frq, 4 pt] List (2) prevention measures the government could implement to mitigate the drug overdose epidemic, and the opioid epidemic in particular.

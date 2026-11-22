@@ -1,0 +1,507 @@
+Conestoga (BAVF) — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  79 questions, 90.0 pts
+Source: scio.ly test archive id 851d1286-0b57-4451-81ac-86511739812d  |  original files: https://drive.google.com/drive/folders/122AP7TiFoGAAWyBi3Z-i6yo9bz8Q89PI
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: EACH QUESTION (WHETHER IT BE A STANDALONE NUMBER OR A SUBQUESTION LETTER) IS WORTH 1 POINT UNLESS IT IS STATED OTHERWISE.
+
+
+=== MATCHING — Match each of the following questions with a corresponding answer choice. ===
+
+[STIMULUS] a. Cluster
+b. Pandemic
+c. Public Health Surveillance
+d. Prokaryotes
+e. Non-living infectious agent
+f. An organism that transmits a pathogen
+g. Any disease of animals communicable to humans
+h. Time of the appearance of the first symptoms of an illness
+i. A disease causing agent
+j. An inanimate object that can be used in the transmission of diseases
+k. Invasion of the body by pathogenic agents
+l. A substance that causes an effect
+m. Evidence or sign of disease or infection
+n. To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+o. A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+1. [mcq, 1 pt] Onset ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+2. [mcq, 1 pt] Agent ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+3. [mcq, 1 pt] Bacteria ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+4. [mcq, 1 pt] Pandemic ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+5. [mcq, 1 pt] Pathogen ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+6. [mcq, 1 pt] Epidemic ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+7. [mcq, 1 pt] Outbreak ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+8. [mcq, 1 pt] Infection ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+9. [mcq, 1 pt] Exposure ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+10. [mcq, 1 pt] Public Health Surveillance ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+11. [mcq, 1 pt] Symptom ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+12. [mcq, 1 pt] Virus ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+13. [mcq, 1 pt] Zoonosis ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+14. [mcq, 1 pt] Vector ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+15. [mcq, 1 pt] Fomite ____
+    A) A sudden occurrence of disease in two or more people during a specified period of time
+    B) A widespread outbreak of an infectious disease in a specified community
+    C) System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    D) Prokaryotes
+    E) Non-living infectious agent
+    F) An organism that transmits a pathogen
+    G) Any disease of animals communicable to humans
+    H) Time of the appearance of the first symptoms of an illness
+    I) A disease causing agent
+    J) An inanimate object that can be used in the transmission of diseases
+    K) Invasion of the body by pathogenic agents
+    L) A substance that causes an effect
+    M) Evidence or sign of disease or infection
+    N) To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    O) A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+
+
+=== MATCHING — Match each of the following questions with a corresponding answer choice. Some answers will be used more than once. ===
+
+[STIMULUS] B. Bacterial
+F. Fungal
+P. Parasitic
+V. Viral
+
+16. [mcq, 1 pt] Ebola ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+17. [mcq, 1 pt] MRSA ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+18. [mcq, 1 pt] Giardiasis ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+19. [mcq, 1 pt] Malaria ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+20. [mcq, 1 pt] Shigellosis ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+21. [mcq, 1 pt] Athlete's Foot ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+22. [mcq, 1 pt] Hepatitis ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+23. [mcq, 1 pt] Smallpox ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+24. [mcq, 1 pt] Tuberculosis ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+25. [mcq, 1 pt] Histoplasmosis ____
+    A) Bacterial
+    B) Fungal
+    C) Parasitic
+    D) Viral
+
+
+=== 10 STEPS — Answer each of the following questions with regards to the 10 Steps of An Outbreak Investigation. ===
+
+26. [frq, 1 pt] The first step of an outbreak investigation is:
+
+26a. [frq, 1 pt] What are the three general tasks you do for this step?
+
+27. [frq, 1 pt] Step 2 is:
+
+27a. [frq, 1 pt] What are two types of records you might use for this step?
+
+28. [frq, 1 pt] Step 3 is:
+
+28a. [frq, 1 pt] What are the three general parts of this step?
+
+29. [frq, 1 pt] Step 4 is:
+
+29a. [frq, 1 pt] What are the four parts of the case definition?
+
+
+=== 10 STEPS CONTINUED — Answer each of the following questions with regards to the 10 Steps of An Outbreak Investigation. ===
+
+30. [frq, 1 pt] Step 5 is describing and orienting data in terms of what?
+
+30a. [frq, 1 pt] What kind of histogram is used for this?
+
+31. [frq, 1 pt] Step 6 is what?
+
+31a. [frq, 1 pt] What triad is used for this?
+
+32. [frq, 1 pt] Step 7 is what?
+
+32a. [frq, 1 pt] What are two types of studies in this step?
+
+33. [frq, 1 pt] Step 8 is what?
+
+33a. [frq, 1 pt] How is verification done for this step?
+
+34. [frq, 1 pt] Step 9 is what?
+
+35. [frq, 1 pt] Step 10 is what?
+
+
+=== BACTERIAL IDENTIFICATION — Identify if the following bacteria are Gram Positive or Gram Negative. Use a + for Gram Positive and a – for Gram Negative. ===
+
+36. [mcq, 1 pt] Listeria monocytogenes ____
+    A) +
+    B) –
+
+37. [mcq, 1 pt] Bacillus cereus ____
+    A) +
+    B) –
+
+38. [mcq, 1 pt] Legionella ____
+    A) +
+    B) –
+
+39. [mcq, 1 pt] Campylobacter jejuni ____
+    A) +
+    B) –
+
+40. [mcq, 1 pt] Shigella ____
+    A) +
+    B) –
+
+41. [mcq, 1 pt] Streptococcus ____
+    A) +
+    B) –
+
+
+=== DATA ANALYSIS — Use the following info to answer the questions that follow. ===
+
+[STIMULUS] There has been a *Streptococcus* outbreak at a local elementary school. On December 5th, 15 people were sick. On each of the following days, 3 more people got sick until December 9th.
+
+42. [frq, 1 pt] Calculate the average number of people who got sick per day.
+
+43. [frq, 1 pt] Calculate the variance.
+
+44. [frq, 1 pt] Calculate the standard deviation.
+
+45. [frq, 1 pt] Write the Z scores for the 90%, 95% and 99% Confidence Intervals.
+
+
+=== DATA ANALYSIS — Use the following info to answer the questions that follow. ===
+
+[STIMULUS] The Tatooine Inn is a popular destination. Unfortunately, during a recent week, many who ate in the inn's restaurant had the following symptoms: diarrhea, vomiting and gastrointestinal irritation.
+
+46. [frq, 10 pt] Fill in the missing parts of the following data table.
+    [IMAGE: ../images/2015_conestoga_bavf_c__d_548ee6-5ec2056b.webp]
+
+
+=== DATA ANALYSIS CONTINUED — Use the info from the previous page to answer the questions that follow. ===
+
+47. [frq, 1 pt] Which food has the highest risk of illness associated with it?
+
+48. [frq, 1 pt] Which food has the lowest risk of illness in the case group associated with it?
+
+49. [frq, 1 pt] Calculate the odds ratio of the food with the highest risk.
+
+50. [frq, 1 pt] If all of the individuals in the control group were immune to stomach illness, what would this be called?
+
+51. [frq, 1 pt] If the person who interviewed the cases encouraged the cases to report additional food consumed, what would this be called?
+
+52. [frq, 1 pt] If the disease impaired memory of the cases which led to cases incorrectly characterizing their exposure status, what would this be?
+
+53. [frq, 1 pt] Based on the results, what would you hypothesize to be the outbreak's cause?
+
+55. [frq, 1 pt] If the food that caused the outbreak contained *E. coli* and the other food did not, would this satisfy Koch's Postulates?
+
+56. [frq, 1 pt] If the *E. coli* from the food was cultured and placed into a healthy organism but did not cause disease, would this satisfy Koch's Postulates?
+
+
+=== GRAPH ANALYSIS — Use the following graph to answer the questions below. ===
+
+[STIMULUS] 
+    [IMAGE: ../images/2015_conestoga_bavf_c__d_21b459-209d2851.webp]
+
+57. [frq, 1 pt] What is the above graph called?
+
+58. [frq, 1 pt] What is the time of onset of the first case?
+
+59. [frq, 1 pt] What type of graph that was identified in #57 is this?
+
+60. [frq, 1 pt] What is the peak number of cases?
+
+61. [frq, 1 pt] What is the incubation period of the illness?
+
+
+=== GENERAL DISEASE DETECTIVES QUESTIONS — Answer the following. ===
+
+62. [frq, 1 pt] Name the 3 things that epidemiologists use to characterize an outbreak.
+
+63. [frq, 1 pt] What is the difference between a prospective and retrospective study?
+
+64. [frq, 1 pt] What are 2 advantages of a cohort study?
+
+
+=== GENERAL DISEASE DETECTIVES QUESTIONS CONTINUED — Answer the following. ===
+
+65. [frq, 1 pt] What are 2 disadvantages of a case control study?
+
+66. [frq, 1 pt] What are the 3 components of the Epidemiological Triad?
+
+
+=== DATA ANALYSIS — Use the following info to answer the questions below. ===
+
+[STIMULUS] Rotavirus causes severe and acute diarrhea in children under five. Up to 600,000 children have died and overall more than 100 million cases have required hospital care. Most heavily concentrated in India and Africa, it peaks in both winter and summer months. It also causes vomiting, fever and can diminish the activity of lactase.
+
+67. [frq, 1 pt] What is the most likely way the disease is transmitted?
+
+68. [frq, 1 pt] Would antibiotics help to fight it? Why or why not?
+
+69. [frq, 1 pt] How are proteins in humans affected by this disease?
+
+70. [frq, 1 pt] How are carbohydrates in humans affected by this disease?
+
+71. [frq, 2 pt] Make a 2-Way Table for the following data associated with the above disease. Tanzania had 16 cases of rotavirus per a population of 800,647. Of this population, 50,000 people had gone to a park where a lot of young children play in the water, and 9 cases were reported among those 50,000 people.
+
+72. [frq, 2 pt] Please calculate the Odds Ratio of infection from visiting the park vs. not visiting the park.

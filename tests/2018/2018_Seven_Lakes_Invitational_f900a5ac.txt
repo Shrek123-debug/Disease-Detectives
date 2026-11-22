@@ -1,0 +1,298 @@
+Seven Lakes Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  71 questions, 143.0 pts
+Source: scio.ly test archive id f900a5ac-af28-44d8-bcaf-695ae440bae4  |  original files: https://drive.google.com/drive/folders/10ADANsfPli3tkieZZoGZ4j2yDt3tZs1I
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+
+=== Part 1: The Basics ===
+
+1. [frq, 2 pt] How are epidemiology and etiology related?
+
+2. [frq, 2 pt] Distinguish prevalence and incidence, and show how they are mathematically related.
+
+3. [frq, 3 pt] Distinguish between efficacy, efficiency, and effectiveness.
+
+4. [frq, 3 pt] Distinguish between infectivity, pathogenicity, and virulence.
+
+
+=== Part 2: Scenarios ===
+
+[STIMULUS] On July 8, 2016, you receive a phone call from your colleague who is noticing a recent outbreak of fevers, vomiting, and sometimes bloody diarrhea in a neighborhood in Katy, Texas. They ask for your help in determining how to stop it. You interview fifteen sick people and thirty healthy people. The only things the infected people have in common besides living in the same neighborhood is having been to the same 4th of July party hosted in the neighborhood.
+
+5. [frq, 2 pt] What type of study is this? Why was it used?
+
+6. [frq, 4 pt] Create a case definition with the information provided.
+
+7. [frq, 3 pt] Your colleague interviews his sick best friend who lives in that neighborhood. What bias is this an example of? Why could that influence the result of the study being performed?
+
+[STIMULUS] You suspect the food at the party may have something to do with this, so you make a table of the data you have gathered.
+    | Food Item | # of people who ate - Sick | # of people who ate - Total | # of people who ate - Attack Rate (%) | # of people who didn't eat - Sick | # of people who didn't eat - Total | # of people who didn't eat - Attack Rate (%) |
+    | Popsicles | 12 | 51 | [[q:8-1]] | 16 | 59 | [[q:8-2]] |
+    | Hamburgers | 38 | 61 | [[q:8-3]] | 5 | 29 | [[q:8-4]] |
+    | Hot Dogs | 26 | 56 | [[q:8-5]] | 9 | 34 | [[q:8-6]] |
+    | Ice Cream | 27 | 51 | [[q:8-7]] | 24 | 38 | [[q:8-8]] |
+
+8-1. [frq, 1 pt] Calculate the attack rate for Popsicles (people who ate).
+
+8-2. [frq, 1 pt] Calculate the attack rate for Popsicles (people who didn't eat).
+
+8-3. [frq, 1 pt] Calculate the attack rate for Hamburgers (people who ate).
+
+8-4. [frq, 1 pt] Calculate the attack rate for Hamburgers (people who didn't eat).
+
+8-5. [frq, 1 pt] Calculate the attack rate for Hot Dogs (people who ate).
+
+8-6. [frq, 1 pt] Calculate the attack rate for Hot Dogs (people who didn't eat).
+
+8-7. [frq, 1 pt] Calculate the attack rate for Ice Cream (people who ate).
+
+8-8. [frq, 1 pt] Calculate the attack rate for Ice Cream (people who didn't eat).
+
+9. [frq, 2 pt] Which food has the highest risk of getting someone sick? What could be a reason?
+
+10. [frq, 2 pt] Name two links of the chain of infection where you can limit the spread of this outbreak, and explain how you would do so for each.
+
+11. [frq, 5 pt] Name five steps can people take to prevent this from happening again
+
+[STIMULUS] You are called into your boss's office. She has been stationed in Chicago to watch for possible disease outbreaks for years. She informs you people in Chicago have been experiencing nausea, vomiting, abdominal cramping, diarrhea, fevers, and headaches. You are tasked with finding out how to stop it. She tells you the average incubation period seems to be around 12 to 48 hours.
+
+13. [frq, 3 pt] Explain the difference between an outbreak and a cluster. What is this scenario an example of?
+
+15. [frq, 3 pt] You find out the ill people all went to an international food festival in Chicago and later developed these symptoms. What are three questions you could ask the staff working there that day?
+
+[STIMULUS] You are in college, studying to become an epidemiologist. You notice many of your classmates didn't show up yesterday, and even more aren't here today on November 2nd, so you ask your professor about what's going on. He tells you that many students have been reporting diarrhea, abdominal cramps, a high fever, vomiting, and head and body aches since yesterday. You are curious, so you go email some of your affected friends asking what they did before they noticed they were unwell. Most went out to eat at IHOW (International House Of Waffles) on October 31 and ordered eggs and bacon, but two students who didn't go reported getting a turtle around 4 to 7 days before they started to show symptoms.
+
+16. [frq, 2 pt] What illness is this? What route is this illness transmitted through?
+
+17. [frq, 2 pt] Name the two ways to treat this illness.
+
+18. [frq, 4 pt] Differentiate between a case study, a case control study, a retrospective cohort study, and a cross-sectional study.
+
+19. [frq, 2 pt] You gather a group of people who like IHOW and/or turtles to observe to see if any of them will be infected in the future. What type of study is this? Why may it not be the best study to use in this situation?
+
+20. [frq, 2 pt] What type of epi-curve likely resulted from this outbreak? Why?
+
+[STIMULUS] On October 4th, 2017, the Texas Department of State Health Services received the weekly health report from the local hospital. They were informed about gastrointestinal illness among 115 tennis players, who were staying at the Royal Inn in Dallas from October 2nd - October 4th. Symptoms had started early that day. A hotel dinner on October 2nd was their only common meal. Kitchen staff were interviewed, and food leftovers and kitchen environment were sampled. Additionally, you take stool samples from a few affected individuals. All the patients reported vomiting and diarrhea and a total of 48 cases were identified.
+
+[STIMULUS] 
+    | Food Item | Exposed - Ill | Exposed - Total | Non Exposed - Ill | Non Exposed - Total | Relative Risk |
+    | Shrimp Cocktail | 13 | 23 | 35 | 54 | [[q:22-1]] |
+    | Oysters | 2 | 7 | 46 | 70 | [[q:22-2]] |
+    | Salad | 40 | 56 | 8 | 21 | [[q:22-3]] |
+    | Fruit Bar | 18 | 32 | 30 | 45 | [[q:22-4]] |
+    | Rice | 39 | 62 | 9 | 15 | [[q:22-5]] |
+    | Pork Sausage | 5 | 5 | 43 | 72 | [[q:22-6]] |
+
+22-1. [frq, 1 pt] Calculate the relative risk for Shrimp Cocktail. Round to two decimal places.
+
+22-2. [frq, 1 pt] Calculate the relative risk for Oysters. Round to two decimal places.
+
+22-3. [frq, 1 pt] Calculate the relative risk for Salad. Round to two decimal places.
+
+22-4. [frq, 1 pt] Calculate the relative risk for Fruit Bar. Round to two decimal places.
+
+22-5. [frq, 1 pt] Calculate the relative risk for Rice. Round to two decimal places.
+
+22-6. [frq, 1 pt] Calculate the relative risk for Pork Sausage. Round to two decimal places.
+
+21. [frq, 1 pt] What type of surveillance was utilized when the Department was notified of the cases?
+
+23. [frq, 2 pt] What is the food item with the highest relative risk, and what is the attack rate for those exposed to the item?
+
+24. [frq, 2 pt] Explain the meaning of the relative risk from the previous question.
+
+25. [frq, 1 pt] What type of epidemiological study was used here? Be as specific as possible.
+
+27. [frq, 2 pt] Which foods have a relative risk less than 1? Why might this occur?
+
+28. [frq, 2 pt] Pork sausage also has a high relative risk, but it isn't a realistic suspect here. Why?
+
+29. [multi, 2 pt] Which of the below is a good reason to further investigate the problem of the cases of gastrointestinal illness?
+    A) Opportunity to learn (research opportunity)
+    B) Public, political, or legal concerns
+    C) Control or prevention of the health problem
+    D) Public health program considerations
+
+30. [frq, 4 pt] Now that you have found the food item causing the outbreak, you send the kitchen environment samples to the laboratory. after running several tests, they determine that the pathogen in question is norovirus and confirm your suspicions about which food caused the illnesses. Write a confirmed case definition for this outbreak.
+
+[STIMULUS] 
+    [IMAGE: ../images/2017_seven_lakes_invitational__p8_50cf5d-463b14ab.webp]
+
+31. [frq, 4 pt] Label the Axes of the epi curve and provide a reasonable title for the outbreak. Identify the type of epi curve.
+
+32. [mcq, 1 pt] These epi curves can provide us with lots of useful information about an outbreak, and help us to solve the outbreak quicker and more efficiently. However, these graphs almost never provide hints about which of the following characteristics?
+    A) Time of exposure
+    B) Source of exposure
+    C) Characteristics of case patients
+    D) Chain of transmission
+
+33. [frq, 6 pt] List and describe each link of the Chain of Infection for norovirus.
+
+34. [frq, 3 pt] Name 3 points from when the food goes from farm to table where it could have been contaminated.
+
+35. [frq, 2 pt] List 2 common sources of norovirus in the environment.
+
+36. [multi, 2 pt] All the following are true about norovirus except:
+    A) a tablespoon of diarrhea from 1 patient has enough virus to infect everyone in the world
+    B) also known as Norwalk
+    C) there is always a spike in cases during summer months due to humid and hot temperatures
+    D) a vaccine has been developed and is ready for public use
+    E) not all infected people are symptomatic
+
+37. [frq, 2 pt] An opportunistic hot-air dryer company offers the Inn a deal to switch over to all hot-air dryers instead of their standard paper towel dispensers in restrooms, because it would save them costs in the future. From an epidemiological perspective, should they make the switch? Why or why not?
+
+
+=== Part 3: General Foodborne Illness Knowledge ===
+
+38. [mcq, 2 pt] Which of the following is true about a foodborne intoxication?
+    A) It is caused by the ingestion of food containing bacteria which grow and establish themselves in the human intestinal tract
+    B) Typically fast-onset and severe symptoms
+    C) Will not occur if live pathogens are not consumed
+    D) Can typically be combated with antibiotics in the case of a bacterium-caused infection
+
+39. [mcq, 1 pt] Infection by which of the following does not typically cause life threatening illness?
+    A) Clostridium botulinum
+    B) Campylobacter jejuni
+    C) calciviruses
+    D) Salmonella
+
+40. [multi, 2 pt] Select all of the following which can be used to inhibit bacterial growth.
+    A) High levels of sugar
+    B) dehydration
+    C) High levels of salt
+    D) low pH
+
+41. [mcq, 2 pt] Which of the following federal agencies is responsible for monitoring domestic and imported meat and poultry?
+    A) Food and Drug Administration
+    B) Food Safety and Inspection Service
+    C) Environmental Protection Agency
+    D) Bureau of Alcohol, Tobacco, Firearms, and Explosives
+
+42. [mcq, 1 pt] Which of the following pathogens is considered a Category A biological agent?
+    A) Clostridium botulinum
+    B) Cryptosporidium parvum
+    C) Escherichia coli O157:H7
+    D) Vibrio cholerae
+
+43. [mcq, 1 pt] Which of the following food items is most likely to be contaminated with mercury?
+    A) beef
+    B) poultry
+    C) vegetables
+    D) salmon
+
+45. [mcq, 2 pt] What does trans-shell mean?
+    A) Improper handling of a Salmonella-infected egg causes a person to become ill.
+    B) Bacteria in the environment penetrate the eggshell after the egg has been laid.
+    C) Chickens with Salmonella produce eggs with a higher concentration of the bacterium.
+    D) When the ovaries or oviducts of chickens are infected with Salmonella, they produce contaminated eggs.
+
+46. [mcq, 1 pt] Which of the following isn't killed by heat alone?
+    A) viruses
+    B) prions
+    C) parasites
+    D) bacteria
+
+47. [mcq, 1 pt] Pasteurization involves the:
+    A) exposure of food to high temperatures for short periods to destroy harmful microorganisms.
+    B) exposure of food to heat to inactivate enzymes that cause undesirable effects in foods during storage.
+    C) fortification of foods with vitamins A and D.
+    D) use of irradiation to destroy certain pathogens in foods.
+
+48. [mcq, 2 pt] Food can be kept for long periods of time by adding salt or sugar because these substances:
+    A) make the food too acidic for spoilage to occur.
+    B) bind to water, thereby making it unavailable to the microorganisms.
+    C) effectively kills microorganisms.
+    D) dissolve the cell walls in plant foods.
+
+49. [mcq, 1 pt] It is unwise to thaw meats or poultry:
+    A) in a microwave oven.
+    B) in the refrigerator.
+    C) under cool running water.
+    D) at room temperature.
+
+50. [mcq, 1 pt] The food-borne illness organism often associated with small cuts and boils is:
+    A) Listeria.
+    B) Staphylococcus.
+    C) C. botulinum.
+    D) Salmonella.
+
+52. [mcq, 2 pt] The Delaney clause states that:
+    A) there is a threshold for carcinogens
+    B) The GRAS list must be reviewed every 5 years
+    C) no substance introduced or reevaluated after 1958 shown to be carcinogenic can knowingly be added to foods.
+    D) additives must always be evaluated for safety
+
+53. [mcq, 1 pt] Nitrite prevents the growth of
+    A) C. botulinum
+    B) C. perfringens
+    C) S. aureus
+    D) yeasts
+
+54. [mcq, 1 pt] Solanine is:
+    A) not harmful to humans
+    B) a naturally occurring toxin in green potatoes
+    C) a naturally occurring toxin in shellfish
+    D) a toxin that grows on corn and peanut products
+
+56. [frq, 2 pt] Do pathogenic bacteria prefer to inhabit low-protein or high-protein foods? Explain your choice.
+
+57. [mcq, 2 pt] Which of the following environments would a pathogenic bacterium find most hospitable?
+    A) High oxygen
+    B) No oxygen
+    C) Low pH
+    D) High pH
+    E) None of the above
+
+58. [frq, 2 pt] What exactly does an environmental pH outside of optimum do to a pathogenic bacterium?
+
+
+=== Part 4: The MMWR ===
+
+[STIMULUS] **Read the article and answer the questions that follow.**
+
+Multistate Outbreak of Salmonella Chester Infections Associated with Frozen Meals — 18 States, 2010
+
+Weekly
+
+**December 6, 2013 / 62(48);979-982**
+
+On May 24, 2010, a cluster of 17 human Salmonella enterica serotype Chester clinical isolates with indistinguishable pulsed-field gel electrophoresis (PFGE) patterns was reported to PulseNet. This PFGE pattern had not been reported previously. Subsequently, CDC conducted an investigation that identified 44 ill persons in 18 states during May 24–June 19, 2010. In a multistate case-control study, consumption of a brand A frozen meal was associated with illness (matched odds ratio [mOR] = 30.7; 95% confidence interval [CI] = 6.4–∞). On June 17, 2010, the manufacturer (company A) voluntarily recalled its brand A cheesy chicken and rice frozen meals. The outbreak strain of Salmonella Chester was isolated from eight unopened samples. A root cause analysis conducted by company A identified chicken as a possible contaminated ingredient. Many frozen meals are not "heat and serve" items but rather are "not-ready-to-eat" (NRTE) products that require full cooking before consumption because they might include ingredients that have not gone through a pathogen kill-step process. Because Salmonella and other pathogens can survive in NRTE products, such products must be fully cooked before eating and clearly labeled with instructions for safe handling and cooking.
+
+**Epidemiologic Investigation**
+
+For this investigation, a case was defined as a laboratory-confirmed infection with the outbreak strain PFGE pattern JCPX01.0060 of Salmonella enterica serotype Chester and illness onset during April 4–June 19, 2010 (Figure 1). A total of 44 cases from 18 states were identified (Figure 2). The median age of patients was 36 years (range: <1–88 years), 30 (73%) of 41 patients were aged >19 years, and 21 (54%) of 39 were female. Among 43 patients with available information, 16 (37%) were hospitalized; no deaths were reported.
+
+During June 4–11, 2010, ill persons were interviewed using a structured questionnaire to assess exposure to approximately 300 food and other items; these hypothesis-generating interviews revealed that six of 11 persons with infection reported eating brand A frozen meals before illness onset. A matched case-control study was initiated on June 14, 2010. Case-patients aged >2 years were enrolled. Controls were recruited from well persons among neighbors of case-patients identified by reverse-digit dialing and were matched by age group (<40 and ≥40 years). The questionnaire included questions on the consumption of items commonly reported during hypothesis generation (i.e., frozen meals, cereal, chicken, and lettuce). Case-patients were asked about exposures during the week before illness onset, and controls were asked about exposures in the week before their interview. Totals of 11 case-patients and 22 controls were enrolled from seven participating states. Consuming a brand A frozen meal was significantly associated with illness. All 11 of the case-patients reported eating a frozen meal, compared with three (14%) of the 22 control subjects (mOR = 24.3) (Table). The same case-patients reported eating a brand A frozen meal, whereas none of the three controls who reported eating a frozen meal ate a brand A meal (mOR = 30.7). Cheesy chicken and rice was the most commonly consumed brand A frozen meal, reported by eight (73%) of the 11 case-patients, followed by three (27%) consuming sweet and sour chicken. No other food item was associated with illness (Table).
+
+After completing the case-control study, patients were interviewed using a standard questionnaire to further explore the types of brand A frozen meals potentially linked with illness. Among the 31 patients from whom information was collected, 25 (81%) reported consuming a frozen brand A meal during the week before illness onset. A total of 21 (84%) of 25 reported eating a brand A cheesy chicken and rice meal. In addition, patients were asked questions regarding how they cooked their frozen meals. Twenty-one (84%) of 25 reported cooking their frozen meal in a microwave, whereas five (20%) cooked their frozen meal in a conventional oven. A total of 22 (88%) let their meal stand for the time recommended in the cooking instructions before eating, and six (25%) of 24 cooked more than one meal at a time using the same method (microwave or oven).
+
+**Control Measures**
+
+On June 17, 2010, CDC informed company A of the association between brand A cheesy chicken and rice frozen meals and the outbreak of Salmonella Chester infections. That day, the U.S. Department of Agriculture's Food Safety and Inspection Service (USDA-FSIS) convened its Recall Committee (1), and company A announced a recall of all brand A cheesy chicken and rice frozen meals, regardless of production date. This recall was conducted based on the strength of the epidemiologic data, and was done before the strain was isolated from brand A cheesy chicken and rice frozen meals.
+
+**Environmental Investigation**
+
+The outbreak strain was later isolated from eight unopened brand A cheesy chicken and rice frozen meals with three production dates ranging from July 14, 2009 to March 12, 2010. Brand A cheesy chicken and rice frozen meals contained a cooked chicken product, raw broccoli, partially cooked rice, and cheese. The cooked chicken was produced by company B; USDA-FSIS reviewed company B's hazard analysis and critical control point plan and sanitation records and did not find any deficiencies. During July 7–August 9, 2010, USDA-FSIS and the Food and Drug Administration (FDA) Center for Food Safety and Applied Nutrition and Office of Regulatory Affairs conducted a comprehensive food safety assessment at company A, where the cheesy chicken and rice meal was produced, and did not identify any significant food safety issues. FDA conducted a traceback investigation into the sources of broccoli, but did not identify any common suppliers. Company A conducted a root cause analysis to identify common sources for ingredients used for the three production dates where the outbreak strain had been isolated. This extensive review identified a single poultry farm as a common supplier of chicken to a chicken cooking facility, company B. The three production dates of interest suggested that cooked chicken might have been the contaminated ingredient.
+
+59. [frq, 3 pt] This article mentions that PFGE patterns were reported to PulseNet, after which it was discovered that they were unique patterns. What is PulseNet?
+
+60. [frq, 2 pt] What makes NRTE products more dangerous than typical frozen food products?
+
+61. [frq, 4 pt] What is a matched odds ratio? Why was it used in this case?
+
+62. [mcq, 2 pt] Which of the following is a correct interpretation of the confidence interval of the matched odds ratio?
+    A) We can be 97.5% confident that the true mOR was somewhere between 6.4 and infinity
+    B) We are 95% confident that the mOR is equal to 6.4 subtracted by infinity
+    C) It is likely that the true mOR was above 6.4.
+    D) There was a 5% chance that the margin of error could have been higher
+    E) 95% of the matched odds ratios are between 6.4 and infinity
+
+63. [frq, 4 pt] Why is there an infinity in the confidence interval?
+
+64. [multi, 2 pt] Which of the following describe statistical matching in the context of epidemiology? Select all that apply.
+    A) Helps control for variables that can confound results
+    B) Tends to increase observed measures of risk
+    C) Pairs cases and controls by commonality of status on a certain variable, so measures of risk are more accurately tied to exposure alone
+    D) Matching is required for the computation of Mantel Haenszel measures of risk
+    E) Can be considered a special case of the randomized block design
+
+67. [frq, 3 pt] List two things that manufacturers of NTREs can more clearly include on the label of the packages to reduce illnesses.

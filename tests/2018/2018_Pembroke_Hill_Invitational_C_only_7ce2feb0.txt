@@ -1,0 +1,751 @@
+Pembroke Hill Invitational (C only) — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  41 questions, 69.0 pts
+Source: scio.ly test archive id 7ce2feb0-ab5f-458a-a67c-19418cf3c212  |  original files: https://drive.google.com/drive/folders/1kDL5X0l-hgUHF0dZDbA2g2au_7m9EtJR
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+
+=== Matching ===
+
+[STIMULUS] A. a protein particle that lacks nucleic acid
+B. a cell that lack a cellular membrane that encloses DNA
+C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+D. how food is handled to prevent foodborne illness
+E. pathogen found in untreated water
+F. comes in different sizes: spherical, rod and spiral
+G. The number of new cases of foodborne illness in a given population during a specified period
+H. Insects and ticks, for example
+I. A comb contaminated with lice, for example
+J. Transfer of harmful substance to food by hands, food contact
+K. the ability of a test to correctly identify people who do not actually have a disease
+L. the ability of a test to correctly identify people who actually have a disease
+M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+Q. describes a condition that is long lasting or recurrent condition
+R. describes a disease that originates in a hospital
+S. ability of a pathogen to infect a susceptible host
+T. a measure of the degree of a disease that a pathogen causes
+U. ability of an organism to cause disease
+V. an agent that causes disease, especially a microorganism
+
+1. [mcq, 1 pt] Fomite
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+2. [mcq, 1 pt] Prion
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+3. [mcq, 1 pt] Cross Contamination
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+4. [mcq, 1 pt] Pathogen
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+5. [mcq, 1 pt] Cluster
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+6. [mcq, 1 pt] Chronic
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+7. [mcq, 1 pt] Specificity
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+8. [mcq, 1 pt] Food Safety
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+9. [mcq, 1 pt] Norovirus
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+10. [mcq, 1 pt] Incidence
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+11. [mcq, 1 pt] Vector
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+12. [mcq, 1 pt] Epidemic
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+13. [mcq, 1 pt] Bacteria
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+14. [mcq, 1 pt] Sensitivity
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+15. [mcq, 1 pt] Infectivity
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+16. [mcq, 1 pt] Virulence
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+17. [mcq, 1 pt] Nosocomial
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+18. [mcq, 1 pt] Gram positive bacteria
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+19. [mcq, 1 pt] Prokaryotes
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+20. [mcq, 1 pt] Pandemic
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+21. [mcq, 1 pt] Outbreak
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+22. [mcq, 1 pt] Pathogenicity
+    A) I. A comb contaminated with lice, for example
+    B) A. a protein particle that lacks nucleic acid
+    C) J. Transfer of harmful substance to food by hands, food contact
+    D) V. an agent that causes disease, especially a microorganism
+    E) P. a number of cases closely grouped over a particular time period regardless of whether there are more cases than expected
+    F) Q. describes a condition that is long lasting or recurrent condition
+    G) K. the ability of a test to correctly identify people who do not actually have a disease
+    H) D. how food is handled to prevent foodborne illness
+    I) E. pathogen found in untreated water
+    J) G. The number of new cases of foodborne illness in a given population during a specified period
+    K) H. Insects and ticks, for example
+    L) M. an occurrence of cases of a disease that affects a large number of people over a wide geographic area
+    M) F. comes in different sizes: spherical, rod and spiral
+    N) L. the ability of a test to correctly identify people who actually have a disease
+    O) S. ability of a pathogen to infect a susceptible host
+    P) T. a measure of the degree of a disease that a pathogen causes
+    Q) R. describes a disease that originates in a hospital
+    R) C. bacteria that have a thicker layer of peptidoglycan outside the cell membrane
+    S) B. a cell that lack a cellular membrane that encloses DNA
+    T) N. an occurrence of cases of a disease that affects a large proportion of the population across several countries or continents
+    U) O. the occurrence of cases of disease in excess of what would normally be expected in a defined community, geographical area or time period
+    V) U. ability of an organism to cause disease
+
+
+=== For the following disease outbreak ===
+
+[STIMULUS] Measles Cases by Date of Onset in Aberdeen, South Dakota, October 15, 1970 – January 16, 1971
+    [IMAGE: ../images/pembroke_hill_invitational_c_only__d_7ec8c5-0fcc29f3.webp]
+
+23. [frq, 2 pt] Identify the mode of spread
+
+24. [frq, 3 pt] Identify the approximate incubation period
+
+
+=== For the following data ===
+
+[STIMULUS] **Hepatitis A Cases By Date of Onset in Colbert Country, Alabama September-November 2006**
+
+Walk through the steps to determine the most likely period of exposure for a point source outbreak of Hepatitis A in Alabama. The incubation range for Hepatitis A is 15-50 days and has an average incubation of 25-30 days. Use an average incubation period of 28 days. Because the cases are spread over multiple months, the x-axis is divided into 4-day intervals, starting on the day noted.
+    [IMAGE: ../images/pembroke_hill_invitational_c_only__d_564efb-fb01381b.webp]
+
+25. [frq, 2 pt] What is the peak of the epidemic curve?
+
+29. [frq, 5 pt] Using the graph above, state the most likely period of exposure (date range)
+
+
+=== The following data was collected following a recent Salmonellosis outbreak at a local restaurant ===
+
+[STIMULUS] |                    |       |          |       |
+|--------------------|-------|----------|-------|
+|                    | Cases | Controls | Total |
+| Had salad          | 33    | 11       | 43    |
+| Did not have salad | 7     | 42       | 49    |
+|                    | 40    | 53       | 92    |
+
+31. [frq, 4 pt] Calculate the odds ratio for this data
+
+32. [frq, 3 pt] What does this odds ratio mean?
+
+33. [frq, 3 pt] Does this result show the cause of the Salmonellosis outbreak?
+
+34. [frq, 3 pt] What is the relative risk associated with having had a salad?
+
+
+=== Name the type of bias or error using the word bank provided. Each word is used once ===
+
+[STIMULUS] Word Bank:
+Information Bias
+Healthy Worker Effect Bias
+Confounding Bias
+Berkson’s Bias
+Volunteer Bias
+Selection Bias
+Loss to Follow-up
+Observer Bias
+Measurement Bias
+Recall Bias
+
+40. [mcq, 2 pt] A case control study of pancreatic cancer and coffee drinking is conducted. Controls were selected from gastroenterologist’s patients in same hospital. However, GI patients are less likely to drink coffee than the rest of the population because of their disease. Hence the OR for coffee drinking was artificially increased due to the under-representation of coffee drinkers among controls.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+41. [mcq, 2 pt] Results from systematic differences in the way data on exposure or outcome are obtained from the various study groups
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+42. [mcq, 2 pt] An ex-prisoner was contacted months after he got norovirus in a prison outbreak. He seems unable to remember what his symptoms were.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+43. [mcq, 2 pt] An Asian man conducts a case-control study. The demographic of the cases reflect the general population, but all the controls selected are Asian men.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+44. [mcq, 2 pt] An epidemiologist seeks to find out whether working in a nuclear power plant increases the likelihood of dying from all causes. His findings, though, are underestimated. His cohorts are nuclear power plant workers, but he compares them to the general population who may or may not have jobs.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+45. [mcq, 2 pt] 30 years ago, an epidemiologist gathered a group of smokers. He plans to see if they developed lung cancer in that time, but can’t seem to contact a few of them.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+46. [mcq, 2 pt] A study falsely concluded that alcoholism led to coronary heart disease. However, the real association lies in the fact that smokers are more likely to be alcoholics as well.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+47. [mcq, 2 pt] A study uses different interviewers for cases and controls. One is much more knowledgeable than the other and asks better questions.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+48. [mcq, 2 pt] A study has a bunch of cases. A study put up fliers for those who wanted to participate in a study as controls. However, the researchers found that those who responded were much different demographically than the cases.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+49. [mcq, 2 pt] In a study of the effects of hypertension on heart disease, a nurse performs blood pressure measurements on the subjects using a faulty sphygmomanometer that always records blood pressures on the high side.
+    A) Information Bias
+    B) Healthy Worker Effect Bias
+    C) Confounding Bias
+    D) Berkson’s Bias
+    E) Volunteer Bias
+    F) Selection Bias
+    G) Loss to Follow-up
+    H) Observer Bias
+    I) Measurement Bias
+    J) Recall Bias
+
+
+=== Abstract ===
+
+[STIMULUS] **Problem/Condition:** Malaria in humans is caused by intraerythrocytic protozoa of the genus *Plasmodium*. These parasites are transmitted by the bite of an infective female *Anopheles* mosquito. The majority of malaria infections in the United States occur among persons who have traveled to regions with ongoing malaria transmission. However, malaria is occasionally acquired by persons who have not traveled out of the country through exposure to infected blood products, congenital transmission, laboratory exposure, or local mosquitoborne transmission. Malaria surveillance in the United States is conducted to identify episodes of local transmission and to guide prevention recommendations for travelers.
+
+**Period Covered:** This report summarizes cases in persons with onset of illness in 2014 and trends during previous years.
+
+**Description of System:** Malaria cases diagnosed by blood film, polymerase chain reaction, or rapid diagnostic tests are reported to local and state health departments by health care providers or laboratory staff. Case investigations are conducted by local and state health departments, and reports are transmitted to CDC through the National Malaria Surveillance System, National Notifiable Diseases Surveillance System, or direct CDC consultations. CDC conducts antimalarial drug resistance marker testing on blood samples submitted by health care providers or local or state health departments. Data from these reporting systems serve as the basis for this report.
+
+**Results:** CDC received reports of 1,724 confirmed malaria cases, including one congenital case and two cryptic cases, with onset of symptoms in 2014 among persons in the United States. The number of confirmed cases in 2014 is consistent with the number of confirmed cases reported in 2013 (n = 1,741; this number has been updated from a previous publication to account for delayed reporting for persons with symptom onset occurring in late 2013). *Plasmodium falciparum*, *P. vivax*, *P. ovale,* and *P. malariae* were identified in 66.1%, 13.3%, 5.2%, and 2.7% of cases, respectively. Less than 1.0% of patients were infected with two species. The infecting species was unreported or undetermined in 11.7% of cases. CDC provided diagnostic assistance for 14.2% of confirmed cases and tested 12.0% of *P. falciparum* specimens for antimalarial resistance markers. Of patients who reported purpose of travel, 57.5% were visiting friends and relatives (VFR). Among U.S. residents for whom information on chemoprophylaxis use and travel region was known, 7.8% reported that they initiated and adhered to a chemoprophylaxis drug regimen recommended by CDC for the regions to which they had traveled. Thirty-two cases were among pregnant women, none of whom had adhered to chemoprophylaxis. Among all reported cases, 17.0% were classified as severe illness, and five persons with malaria died. CDC received 137 *P. falciparum*-positive samples for the detection of antimalarial resistance markers (although some loci for chloroquine and mefloquine were untestable for up to nine samples). Of the 137 samples tested, 131 (95.6%) had genetic polymorphisms associated with pyrimethamine drug resistance, 96 (70.0%) with sulfadoxine resistance, 77 (57.5%) with chloroquine resistance, three (2.3%) with mefloquine drug resistance, one (<1.0%) with atovaquone resistance, and two (1.4%) with artemisinin resistance.
+
+**Interpretation:** The overall trend of malaria cases has been increasing since 1973; the number of cases reported in 2014 is the fourth highest annual total since then. Despite progress in reducing global prevalence of malaria, the disease remains endemic in many regions and use of appropriate prevention measures by travelers is still inadequate.
+
+**Public Health Action:** Completion of data elements on the malaria case report form increased slightly in 2014 compared with 2013, but still remains unacceptably low. In 2014, at least one essential element (i.e., species, travel history, or resident status) was missing in 21.3% of case report forms. Incomplete reporting compromises efforts to examine trends in malaria cases and prevent infections. VFR travelers continue to be a difficult population to reach with effective malaria prevention strategies. Evidence-based prevention strategies that effectively target VFR travelers need to be developed and implemented to have a substantial impact on the number of imported malaria cases in the United States. Fewer U.S. resident patients reported taking chemoprophylaxis in 2014 (27.2%) compared with 2013 (28.6%), and adherence was poor among those who did take chemoprophylaxis. Proper use of malaria chemoprophylaxis will prevent the majority of malaria illnesses and reduce risk for severe disease (https://www.cdc.gov/malaria/travelers/drugs.html). Malaria infections can be fatal if not diagnosed and treated promptly with antimalarial medications appropriate for the patient’s age and medical history, likely country of malaria acquisition, and previous use of antimalarial chemoprophylaxis. Recent molecular laboratory advances have enabled CDC to identify and conduct molecular surveillance of antimalarial drug resistance markers (https://www.cdc.gov/malaria/features/ars.html) and improve the ability of CDC to track, guide treatment, and manage drug resistance in malaria parasites both domestically and globally. For this effort to be successful, specimens should be submitted for all cases diagnosed in the United States. Clinicians should consult CDC Guidelines for Treatment of Malaria in the United States and contact the CDC Malaria Hotline for case management advice, when needed. Malaria treatment recommendations can be obtained online at https://www.cdc.gov/malaria/diagnosis_treatment/ or by calling the Malaria Hotline at 770-488-7788 or toll-free at 855-856-4713.
+
+50. [mcq, 2 pt] Is this a descriptive or analytical study?
+    A) Descriptive
+    B) Analytical

@@ -1,0 +1,331 @@
+University of Michigan Invitational — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  66 questions, 75.0 pts
+Source: scio.ly test archive id b13c7a6d-1936-48e2-96a6-19dd184977fd  |  original files: https://drive.google.com/drive/u/1/folders/1m8kHMiAWMdNFb-B7iYGm6rHq5XAnFKo-
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 27
+
+DIRECTIONS: The point value for each question is listed. Round all answers to three significant figures.
+
+
+=== Part 1: Background and Surveillance ===
+
+[STIMULUS] Fill in the blanks:
+
+Epidemiology is the study of the ____ and ____ of disease and the application of this study to the ____ and ____ of disease.
+
+1-1. [frq, 1 pt] Blank 1: Epidemiology is the study of the ____ and (…) of disease and the application of this study to the (…) and (…) of disease.
+
+1-2. [frq, 1 pt] Blank 2: Epidemiology is the study of the (…) and ____ of disease and the application of this study to the (…) and (…) of disease.
+
+1-3. [frq, 1 pt] Blank 3: Epidemiology is the study of the (…) and (…) of disease and the application of this study to the ____ and (…) of disease.
+
+1-4. [frq, 1 pt] Blank 4: Epidemiology is the study of the (…) and (…) of disease and the application of this study to the (…) and ____ of disease.
+
+3. [multi, 1 pt] Select all of the US agencies responsible for maintaining food safety.
+    A) Food and Drug Administration
+    B) National Institutes of Health
+    C) Centers for Disease Control and Prevention
+    D) United States Department of Agriculture
+
+[STIMULUS] For Questions 4-8, name the part of the Chain of Infection that each intervention targets.
+
+4. [frq, 1 pt] Immunization
+
+5. [frq, 1 pt] Mosquito control
+
+6. [frq, 1 pt] Central water treatment plants
+
+7. [frq, 1 pt] Hand washing
+
+8. [frq, 1 pt] Wearing face masks
+
+[STIMULUS] For Questions 9-13, select the most appropriate classification from the following: Outbreak, Epidemic, Pandemic, or Not an Outbreak.
+
+9. [mcq, 1 pt] Between 1918 and 1920, the H1N1 influenza virus infected roughly 500 million people worldwide, causing at least 50 million deaths.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Not an Outbreak
+
+10. [mcq, 1 pt] As of December 17, 2019, 2506 hospitalized cases of e-cigarette or vaping product induced lung injury (EVALI) have been reported from all 50 US states and 2 territories.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Not an Outbreak
+
+11. [mcq, 1 pt] As of December 7, 2019, the Michigan ILINET reported a rate of 3% syndromic influenza cases out of all office visits, with a regional baseline of 1.9%.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Not an Outbreak
+
+12. [mcq, 1 pt] Between 2013 and 2016, 28,616 cases of Ebola were reported between the countries of Guinea, Liberia, and Sierra Leone in West Africa.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Not an Outbreak
+
+13. [mcq, 1 pt] Between November 4, 2019 and November 16, 2019, 8 cases of E. coli O157:H7 have been detected that are associated with chopped salad kits.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Not an Outbreak
+
+14. [frq, 2 pt] Medical doctors frequently prescribe antibiotics for acute respiratory infections including sinus infections and bronchitis. Is this practice consistent with the public health approach? Why or why not?
+
+15. [frq, 1 pt] The incubation period for a disease is defined as the time between infection and the onset of symptoms of a disease. The latent period is defined as the time between infection and the ____.
+
+[STIMULUS] Put the following steps of the Public Health Surveillance Process in the correct order: Data Dissemination, Data Analysis, Data Collection, Link to Action, Data Interpretation
+    | Label | Answer |
+    | 1 | [[q:16-1]] |
+    | 2 | [[q:16-2]] |
+    | 3 | [[q:16-3]] |
+    | 4 | [[q:16-4]] |
+    | 5 | [[q:16-5]] |
+
+16-1. [mcq, 1 pt] Label 1
+    A) Data Dissemination
+    B) Data Analysis
+    C) Data Collection
+    D) Link to Action
+    E) Data Interpretation
+
+16-2. [mcq, 1 pt] Label 2
+    A) Data Dissemination
+    B) Data Analysis
+    C) Data Collection
+    D) Link to Action
+    E) Data Interpretation
+
+16-3. [mcq, 1 pt] Label 3
+    A) Data Dissemination
+    B) Data Analysis
+    C) Data Collection
+    D) Link to Action
+    E) Data Interpretation
+
+16-4. [mcq, 1 pt] Label 4
+    A) Data Dissemination
+    B) Data Analysis
+    C) Data Collection
+    D) Link to Action
+    E) Data Interpretation
+
+16-5. [mcq, 1 pt] Label 5
+    A) Data Dissemination
+    B) Data Analysis
+    C) Data Collection
+    D) Link to Action
+    E) Data Interpretation
+
+17. [mcq, 1 pt] Syndromic surveillance for acute respiratory illness is more likely to:
+    A) Overestimate the burden of Influenza
+    B) Underestimate the burden of Influenza
+    C) Correctly estimate the burden of Influenza
+
+18. [mcq, 1 pt] Foodborne transmission is an example of which mechanism of transmission:
+    A) Vectorborne transmission
+    B) Airborne transmission
+    C) Direct contact transmission
+    D) Vehicleborne transmission
+
+19. [frq, 1 pt] What determines whether a disease spreads by droplet or airborne transmission?
+
+[STIMULUS] List one example of an infectious agent belonging to the class below as well as the disease that it causes.
+
+20a. [frq, 1 pt] Virus - Agent:
+
+20b. [frq, 1 pt] Virus - Disease:
+
+21a. [frq, 1 pt] Bacteria - Agent:
+
+21b. [frq, 1 pt] Bacteria - Disease:
+
+23a. [frq, 1 pt] Fungus - Agent:
+
+23b. [frq, 1 pt] Fungus - Disease:
+
+24a. [frq, 1 pt] Chemical - Agent:
+
+24b. [frq, 1 pt] Chemical - Disease:
+
+25. [frq, 1 pt] Quarantine is the separation and restriction of ____ individuals.
+
+26. [frq, 1 pt] Isolation is the separation and restriction of ____ individuals.
+
+27. [frq, 1 pt] What is the definition of a notifiable disease?
+
+[STIMULUS] Fill in the blanks:
+
+R₀, or the basic reproduction number of a disease is defined as the ____ number of ____ generated by a primary case in a ____ population.
+
+28-1. [frq, 1 pt] Blank 1: R₀, or the basic reproduction number of a disease is defined as the ____ number of (…) generated by a primary case in a (…) population.
+
+28-2. [frq, 1 pt] Blank 2: R₀, or the basic reproduction number of a disease is defined as the (…) number of ____ generated by a primary case in a (…) population.
+
+28-3. [frq, 1 pt] Blank 3: R₀, or the basic reproduction number of a disease is defined as the (…) number of (…) generated by a primary case in a ____ population.
+
+29. [frq, 1 pt] What is the name for the CDC initiative focusing on the importance of connections between human, animal, and environmental health?
+
+30. [frq, 1 pt] The presence of Vibrio cholorae in untreated drinking water sources such as rivers represents which element(s) of the Epidemiological Triad?
+
+
+=== Part 2: Outbreak Investigation: EVALI ===
+
+[STIMULUS] The United States is experiencing an unprecedented outbreak of e-cigarette, or vaping, product use–associated lung injury (EVALI). All EVALI patients have used e-cigarette, or vaping, products, and most (≥85%) have reported using products containing tetrahydrocannabinol (THC), the principal psychoactive component of cannabis.²
+
+**Case Definition**
+
+EVALI is considered a diagnosis of exclusion because, at present, no specific test or marker exists for its diagnosis. Health care providers should consider multiple etiologies, including the possibility of EVALI and concomitant infection. In addition, health care providers should evaluate alternative diagnoses as suggested by clinical findings and medical history (e.g., cardiac, gastrointestinal, rheumatologic, and neoplastic processes; environmental or occupational exposures; or causes of acute respiratory distress syndrome).
+
+Patient History. Based upon medical chart abstraction data submitted to CDC, 95% (323/339) of patients diagnosed with EVALI initially experienced respiratory symptoms (e.g., cough, chest pain, and shortness of breath), and 77% (262/339) had gastrointestinal symptoms (e.g., abdominal pain, nausea, vomiting, and diarrhea). Gastrointestinal symptoms preceded respiratory symptoms in some patients (1–3). Respiratory or gastrointestinal symptoms were accompanied by constitutional symptoms such as fever, chills, and weight loss among 85% (289/339) of patients.
+
+All health care providers evaluating patients for EVALI should ask about the use of e-cigarette, or vaping, products and ideally should ask about types of substances used (e.g., THC, cannabis [oil, dabs], nicotine, modified products or the addition of substances not intended by the manufacturer); product source, specific product brand and name; duration and frequency of use, time of last use; product delivery system, and method of use (aerosolization, dabbing, or dripping). Empathetic, nonjudgmental, and private questioning of patients regarding sensitive information to assure confidentiality should be employed. Standardized approaches should be used for interviewing adolescents. Resources exist to guide patient interviews, including those of adolescents. In some situations, asking questions over the course of the hospitalization or during follow-up visits might elicit additional information about exposures, especially as trust is established between the patient and clinicians.
+
+Physical examination. For patients who report the use of e-cigarette, or vaping, products, physical examination should include vital signs and pulse-oximetry. Tachycardia was reported in 55% (169/310) of patients and tachypnea in 45% (77/172); O2 saturation <95% at rest on room air was present for 57% (143/253) of patients reported to CDC, underscoring the need for routine pulse-oximetry. Among patients identified to date, pulmonary findings on auscultation exam have often been unremarkable, even among patients with severe lung injury.
+
+Laboratory testing. Laboratory testing should be guided by clinical findings. A respiratory virus panel, including influenza testing during influenza season, should be strongly considered. Additional testing should be based on published guidelines for evaluation of community-acquired pneumonia. Infectious diseases to consider include Streptococcus pneumoniae, Legionella pneumophila, Mycoplasma pneumoniae, endemic mycoses, and opportunistic infections; the likelihood of infection by any of these varies by geographic prevalence and patient medical history. Other abnormal laboratory tests reported in patients with EVALI include elevated white blood cell (WBC) count, serum inflammatory markers (C-reactive protein, erythrocyte sedimentation rate [ESR]), and liver transaminases. In a report of initial patients from Illinois and Wisconsin, 87% had a WBC >11,000/mm3 and 93% had an ESR >30mm/hr; 50% of patients had elevated liver transaminases (aspartate aminotransferase or alanine aminotransferase >35 U/L). However, at this time, these tests cannot be used to distinguish EVALI from infectious etiologies. In all patients, providers should consider conducting, with informed consent, urine toxicology testing, including testing for THC.
+
+Imaging. Radiographic findings consistent with EVALI include pulmonary infiltrates on CXR and opacities on chest computed tomography scan. A CXR should be obtained on all patients with a history of e-cigarette, or vaping, product use who have respiratory or gastrointestinal symptoms, particularly when accompanied by decreased O2 saturation (<95%). Chest CT might be useful when the CXR result does not correlate with clinical findings or to evaluate severe or worsening disease, complications such as pneumothorax or pneumomediastinum, or other illnesses in the differential diagnosis, such as pneumonia or pulmonary embolism. In some cases, chest CT has demonstrated findings such as bilateral ground glass opacities despite a normal or nondiagnostic CXR. Among patients with abnormal CXR findings and a clinical picture consistent with EVALI, a chest CT scan might not be necessary for diagnosis. The decision to obtain a chest CT should be made on a case-by-case basis depending on the clinical circumstances.³
+
+31a. [frq, 3 pt] Use the above to construct a working case definition for EVALI. Provide criteria to distinguish a probable case from a confirmed case.
+    
+    a. Probable:
+
+31b. [frq, 3 pt] Use the above to construct a working case definition for EVALI. Provide criteria to distinguish a probable case from a confirmed case.
+    
+    b. Confirmed:
+
+[STIMULUS] Select the study design that best matches the description. Valid options are: **Cohort Study, Clinical Trial, Case-Control Study, Cross-Sectional Study, Ecological Study**
+
+34. [mcq, 1 pt] ____ does not measure individual-level exposures and outcomes
+    A) Cohort Study
+    B) Clinical Trial
+    C) Case-Control Study
+    D) Cross-Sectional Study
+    E) Ecological Study
+
+35. [mcq, 1 pt] ____ is appropriate for rare exposures.
+    A) Cohort Study
+    B) Clinical Trial
+    C) Case-Control Study
+    D) Cross-Sectional Study
+    E) Ecological Study
+
+38. [tf, 1 pt] True or False: It is appropriate to select cases from a population primarily composed of one age group (e.g. 20-29) and controls from a population composed of another age group (50-59).
+    A) True
+    B) False
+
+39. [multi, 1 pt] When comparing adult EVALI patients to adult e-cigarette/vape users without EVALI, which of the following should be similar between these groups? Select all of the following that are correct.
+    A) Age
+    B) Race/Ethnicity
+    C) Sex
+    D) Height
+    E) Weight
+    F) Income
+
+
+=== Outbreak Trends ===
+
+[STIMULUS] **Figure 1.** Emergency Department Visits with Electronic Cigarette (E-Cigarette) Product Use as the Reason for the Visit, According to Age Group.⁵
+    [IMAGE: ../images/2020_university_of_michigan_invitational__p10_907344-cdaa564a.webp]
+
+41. [frq, 1 pt] Which age group experienced the highest incidence of EVALI?
+
+42. [frq, 1 pt] What is one reason **other than** an actual increase in incidence that could explain the sharp rise in EVALI reports between August and September?
+
+43. [frq, 1 pt] Individuals aged 70 years and older are generally at higher risk of lung injury than other age groups. What is the most likely reason why there have been relatively few cases of EVALI among persons aged 70 and older?
+
+44. [frq, 2 pt] E-cigarettes and vaping devices contain propylene glycol, glycerine, flavoring compounds, and may contain nicotine (often present as nicotine salts) and/or tetrahydrocannabinol (THC). However, there are currently no regulations to certify that these compounds are safe for inhalation or that they are the only contents of e-cigarette or vape fluid. What information would be needed to suggest a plausible connection between a compound in e-cigarettes/vapes and EVALI?
+
+45. [mcq, 1 pt] Suppose that surveys of e-cigarette/vape users were conducted in states where recreational marijuana use is currently illegal. How would this likely impact the results of the surveys?
+    A) No effect
+    B) Increase the reported frequency of THC-containing e-cigarette/vape use
+    C) Decrease the reported frequency of THC-containing e-cigarette/vape use
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+[STIMULUS] Over 65% of children 5 years-of-age and under in the United States require out-of-home child care. Child care attendance has been associated with an elevated risk of respiratory illness and acute gastroenteritis. While child care associated respiratory disease cases are more numerous, acute gastroenteritis (AGE) typically causes more severe symptoms and more than double the number of absences from child care. In addition, viral pathogens such as norovirus, rotavirus, and adenovirus are highly infectious and may be spread to parents and other household members. Fomites – inanimate objects that may harbor contamination – are often thought to facilitate the spread of viral AGE pathogens, as symptomatic children may shed substantial amounts of virus onto objects in their environment through episodes of diarrhea and vomiting.
+
+**Data Analysis and Interpretation**
+
+Transmission models are often used to simulate outbreaks and plan interventions. A transmission model was constructed to represent the spread of acute gastroenteritis pathogens in child care and primary school settings. In contrast to real outbreaks, model outbreaks can be simulated many times to examine how an outbreak might have progressed under different conditions. In this model, hygiene and sanitation interventions were tested to evaluate their efficacy. Each simulation was started with 1 sick child and 24 well children. 10,000 total simulations were conducted for each intervention tested. Simulations represent a total time of 1 month.
+
+[STIMULUS] The results from a single simulation are shown below.
+    [IMAGE: ../images/2020_university_of_michigan_invitational__p18_eb7c78-2179d4a8.webp]
+
+55. [mcq, 1 pt] During the exposed (latent) period, individuals do not shed pathogen. If the exposed period for the disease simulated above were shorter, would the peak in fomite contamination be:
+    A) Earlier
+    B) Later
+    C) Unchanged
+
+[STIMULUS] TABLE 3. Incidence from simulated AGE outbreaks by hygiene and sanitation intervention. Surface decontamination occurs once per day and sanitizes all fomites in the classroom. Hand washing is performed on average once per day by each child. Emergency decontamination occurs each time a child sheds on a fomite and sanitizes that fomite. Each intervention case represents 10,000 simulations of a 25 child classroom for 1 month with one initial infected child and 24 susceptible children.
+    | Intervention | Cases |
+    | None | 211,117 |
+    | Surface Decontamination | 189,955 |
+    | Hand Washing | 203,160 |
+    | SD + HW | 177,705 |
+    | Emergency Decontamination | 108,210 |
+
+60. [frq, 1 pt] The interventions in Table 3 are examples of what type of prevention?
+
+[STIMULUS] Which element of the Chain of Infection does sanitation (decontaminating fomites) address? Which element does hygiene (hand washing) address?
+    | Label | Answer |
+    | Sanitation Which element of the Chain of Infection does sanitation (decontaminating fomites) address? | [[q:61-a]] |
+    | Hygiene Which element does hygiene (hand washing) address? | [[q:61-b]] |
+
+61-a. [frq, 0.5 pt] Sanitation Which element of the Chain of Infection does sanitation (decontaminating fomites) address?
+
+61-b. [frq, 0.5 pt] Hygiene Which element does hygiene (hand washing) address?
+
+62. [frq, 2 pt] Propose an additional intervention that may be effective at preventing the transmission of gastrointestinal pathogens in child care settings.
+
+[STIMULUS] **Norovirus**
+
+Noroviruses are a group of viruses that cause gastroenteritis in people. Gastroenteritis is an inflammation of the lining of the stomach and intestines, causing an acute onset of severe vomiting and diarrhea. Norovirus illness is usually brief in people who are otherwise healthy. Young children, the elderly, and people with other medical illnesses are most at risk for more severe or prolonged infection. Like all viral infections, noroviruses are not affected by treatment with antibiotics. Norovirus infections spread very rapidly. Healthcare facilities and other institutional settings (e.g., daycare centers, schools, etc.) are particularly at-risk for outbreaks because of increased person-to-person contact.
+
+**Symptoms of Norovirus**
+
+The symptoms of norovirus illness usually include nausea, vomiting, diarrhea, and some stomach cramping. Sometimes people also have a low-grade fever, chills, headache, muscle aches, and tiredness. People may suddenly feel very sick and vomit frequently or have several episodes of diarrhea, but most people get better within 1 or 2 days and they have no long-term health effects related to their illness. Diarrhea is more common in children and vomiting is more common in adults.
+
+In some cases, people are unable to drink enough liquids to replace the liquids they lost because of frequent vomiting and diarrhea. This is called dehydration—the loss of a great deal of water from their body. Symptoms of dehydration include decreased urination, dry mouth and throat, and dizziness when standing up. In these cases, patients may be hospitalized and often given fluids through a tube placed in a vein.
+
+**Transmission of Norovirus**
+
+Noroviruses are found in the feces and vomit of infected people. This virus is very contagious and can spread rapidly. Noroviruses can also survive in aerosol particles created by violent vomiting or diarrhea. People can become infected with the virus in several ways:
+● Having direct contact with another person who is infected.
+● Eating food or drinking liquids that are contaminated with norovirus
+● Touching surfaces or objects contaminated with norovirus, and then touching your mouth or other food items
+
+63. [mcq, 1 pt] Norovirus is likely to have an R₀
+    A) Significantly smaller than 1
+    B) Slightly smaller than 1
+    C) Approximately equal to 1
+    D) Slightly above 1
+    E) Significantly above 1
+
+[STIMULUS] Fill in the blanks. For a disease with person-to-person transmission and complete immunity, R₀ is a function of the ____ rate and the ____ rate.
+
+64-1. [frq, 1 pt] Blank 1: Fill in the blanks. For a disease with person-to-person transmission and complete immunity, R₀ is a function of the ____ rate and the (…) rate.
+
+64-2. [frq, 1 pt] Blank 2: Fill in the blanks. For a disease with person-to-person transmission and complete immunity, R₀ is a function of the (…) rate and the ____ rate.
+
+[STIMULUS] Fill in the blanks. The level of vaccination needed to achieve herd immunity depends on the vaccine ____ and the disease ____.
+
+65-1. [frq, 1 pt] Blank 1: Fill in the blanks. The level of vaccination needed to achieve herd immunity depends on the vaccine ____ and the disease (…).
+
+65-2. [frq, 1 pt] Blank 2: Fill in the blanks. The level of vaccination needed to achieve herd immunity depends on the vaccine (…) and the disease ____.
+
+66. [frq, 2 pt] If a disease has an R₀ of 3, what level of fully protective vaccine is needed to achieve herd immunity?
+
+67. [mcq, 1 pt] If the R₀ of a disease decreases, the attack rate of that disease:
+    A) Increases
+    B) Decreases
+    C) Does not change
+
+68. [mcq, 1 pt] Death due to norovirus is rare, but can be a hazard for very young children and the elderly. What is the primary mechanism of death due to norovirus?
+    A) Sepsis
+    B) Dehydration
+    C) Intestinal perforation
+    D) Heart failure
+
+70. [frq, 3 pt] Propose 3 interventions for the control of a norovirus outbreak in an elementary school.

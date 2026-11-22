@@ -1,0 +1,548 @@
+Clio — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  71 questions, 71.0 pts
+Source: scio.ly test archive id 0db00771-4a16-467c-9b29-765218d8c22c  |  original files: https://drive.google.com/drive/folders/1BohSXDuoLC55Mh45pM5xTS7AQfANe1-g
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 36
+
+DIRECTIONS: The following questions will test your knowledge and abilities as budding epidemiologists. The test is comprised of 90 multiple choice, true/false, yes/no questions. You will be given 50 minutes to complete your answers. Please plan your time accordingly. Move on to the next question if you don’t know the answer. You can come back to the ones you have skipped if you have time left. You are allowed to pull the test apart and work on it in sections. You will not be required to reorder or re-staple the test after you are finished. Good luck and have fun!
+
+[STIMULUS] 150 students from the local middle school visited the apple orchard last Sunday morning. After picking apples, all of them enjoyed either donuts or fresh apple cider. On the following Tuesday morning, several children became ill with severe stomach cramps and diarrhea. A disease detective surveyed the students and recorded what they had eaten at the orchard and whether they became sick. Here are the details of the survey.
+    | Consumed | Sick | Not sick |
+    | Apple cider | 60 | 12 |
+    | Donuts | 14 | 64 |
+
+1. [mcq, 1 pt] What was the incubation period of this foodborne illness?
+    A) 216 hours/9 days
+    B) 48 hours/2 days
+    C) 240 hours/10 days
+    D) 72 hours/3 days
+
+2. [mcq, 1 pt] What was the attack rate (%) for individuals exposed to cider?
+    A) 49%
+    B) 91%
+    C) 83%
+    D) 79%
+
+3. [mcq, 1 pt] What was the relative risk for drinking apple cider?
+    A) 10.4
+    B) 22.9
+    C) 3.8
+    D) 4.6
+
+4. [mcq, 1 pt] Name the most effective prevention strategy in this case.
+    A) Hand washing before eating and drinking
+    B) Pasteurization of apple cider
+    C) Using only apples that have not fallen to the ground
+    D) Putting the cider through a well washed sieve
+
+[STIMULUS] The same disease detective also discovered that on the Monday immediately prior to the morning that 74 students fell ill, the same students again had a choice. Some chose to spend recess outdoors playing soccer as they normally do, but an unexpected number chose to stay indoors and play board games during recess. The disease detective hypothesized, because most of the students who played indoors felt tired and subsequently fell ill the next morning, that recess was a screening test for whether children were sick. Using attendance sheets, the following table was pieced together.
+    | At Recess | Sick | Not sick |
+    | Indoors | 60 | 6 |
+    | Played Soccer | 14 | 70 |
+
+5. [mcq, 1 pt] Calculate the positive predictive value of this predictive “test”.
+    A) .49
+    B) .81
+    C) .91
+    D) .79
+
+6. [mcq, 1 pt] Calculate the negative predictive value.
+    A) .83
+    B) .92
+    C) .95
+    D) 1.05
+
+7. [mcq, 1 pt] Calculate the sensitivity and specificity.
+    A) Sensitivity .83 Specificity .91
+    B) Sensitivity .81 Specificity .92
+    C) Sensitivity .79 Specificity .95
+    D) Sensitivity .91 Specificity 1.05
+
+8. [mcq, 1 pt] Is this test a good indicator of the disease?
+    A) Yes
+    B) No
+
+[STIMULUS] Refer to the graph from the CDC below. Fill in the blank or circle the answer(s) to the following questions:
+    [IMAGE: ../images/2016_clio_c__d_cdfa77-d94927e8.webp]
+
+9. [mcq, 1 pt] What was the cause of ~ 40% of known foodborne illness outbreaks in the United State between 2006 and 2010?
+    A) Chemicals
+    B) Norovirus
+    C) Bacteria
+    D) Parasites
+    E) Other
+
+10. [mcq, 1 pt] Assuming that both protists and animals are included in “Parasites”, what other major groups of pathogens could be included in “Other”?
+    A) Fungi
+    B) Worms
+    C) Natural Toxins
+    D) Protozoa
+    E) Virus
+
+11. [mcq, 1 pt] Name the common staining method that can be used to distinguish different types of bacteria.
+    A) Dye staining
+    B) Gram staining
+    C) UV color staining
+    D) Pink staining
+    E) qPCR assay staining
+
+
+=== True / False Questions – mark A for TRUE and B for FALSE ===
+
+12. [tf, 1 pt] True or False: Foodborne illness can only be contracted through exposure to another human being who is currently sick.
+    A) True
+    B) False
+
+13. [tf, 1 pt] True or False: It is necessary to keep raw meat, poultry, and seafood separate from ready-to-eat foods.
+    A) True
+    B) False
+
+14. [tf, 1 pt] True or False: Foodborne illness is a smaller problem in less developed countries due to less pollution and unhealthy food.
+    A) True
+    B) False
+
+[STIMULUS] On the morning of April 15, 2013, the Michigan Department of Health received a phone call from a college student who reported that two of his roommates and he were suffering from nausea, diarrhea, and vomiting. They had become ill during the night after eating meat lasagna for dinner at a local restaurant.
+
+As a Disease Detective, which of the following questions would you ask the student?
+
+(Mark A if you should ask the question, and B if you should not ask the question.)
+
+15. [mcq, 1 pt] What is your favorite dish to eat?
+    A) Should ask the question
+    B) Should not ask the question
+
+16. [mcq, 1 pt] Tell me what and where you ate over the last 3 days.
+    A) Should ask the question
+    B) Should not ask the question
+
+17. [mcq, 1 pt] What are your age, height, and weight?
+    A) Should ask the question
+    B) Should not ask the question
+
+18. [mcq, 1 pt] What are you studying in college?
+    A) Should ask the question
+    B) Should not ask the question
+
+
+=== True / False Questions – mark A for TRUE and B for FALSE ===
+
+19. [tf, 1 pt] True or False: This is an outbreak.
+    A) True
+    B) False
+
+20. [tf, 1 pt] True or False: One preventive strategy is to never eat meat lasagna again.
+    A) True
+    B) False
+
+21. [tf, 1 pt] True or False: If the lasagna was indeed the source of the outbreak, the students are likely suffering from a STEC infection.
+    A) True
+    B) False
+
+22. [tf, 1 pt] True or False: One effective control strategy is to isolate these individuals in their dorm, but allow them to continue to use the public restroom.
+    A) True
+    B) False
+
+
+=== Multiple Choice ===
+
+23. [mcq, 1 pt] The student then asked you: “Is it a good idea to keep raw meat, poultry, and seafood separate from ready-to-eat foods?” Your best answer would be:
+    A) Yes, because foods are kept cleaner this way.
+    B) Yes, because this reduces cross-contamination of pathogens between foods.
+    C) No, because this will reduce flavor.
+    D) No, because this takes up more space in the refrigerator.
+    E) It depends on the time of year.
+
+24. [mcq, 1 pt] Given the information assembled above, an appropriate next step in the epidemiological process would be to:
+    A) Verify the diagnosis
+    B) Develop hypothesis
+    C) Define and identify cases
+    D) Prepare for fieldwork
+
+[STIMULUS] Identify the type of organism shown in the images and answer the questions.
+    [IMAGE: ../images/2016_clio_c__d_81a1af-28306c7f.webp]
+
+25. [mcq, 1 pt] Which of the above organisms contains a pellicle?
+    A) Image #1
+    B) Image #2
+    C) Image #3
+    D) None of the above
+
+26. [mcq, 1 pt] What is true about image #1?
+    A) I am multicellular, and certain cells of mine have different jobs.
+    B) I can get energy from the sun or chemicals.
+    C) Some of us have odd shapes and complex internal sub-structures.
+    D) I have no cell wall.
+
+27. [mcq, 1 pt] What is true about image #2?
+    A) My cell wall is made of chitin.
+    B) My DNA is not in the nucleus.
+    C) I am unicellular.
+    D) I can move really fast.
+
+28. [mcq, 1 pt] What is true about image #3?
+    A) I love to break down matter in the environment.
+    B) I reproduce mainly by forming spores.
+    C) Some of us need oxygen and some of do not.
+    D) I am unicellular.
+
+
+=== Match the terms with definitions ===
+
+[STIMULUS] a. Immunity
+b. Incubation period
+c. Zoonosis
+d. Trend
+e. Reservoir
+
+29. [mcq, 1 pt] An infectious disease that can be transmitted from animals to humans.
+    A) Immunity
+    B) Incubation period
+    C) Zoonosis
+    D) Trend
+    E) Reservoir
+
+30. [mcq, 1 pt] Resistance developed in response to a microbe.
+    A) Immunity
+    B) Incubation period
+    C) Zoonosis
+    D) Trend
+    E) Reservoir
+
+31. [mcq, 1 pt] The time interval from exposure to an infectious agent to the start of symptoms of an infectious disease.
+    A) Immunity
+    B) Incubation period
+    C) Zoonosis
+    D) Trend
+    E) Reservoir
+
+32. [mcq, 1 pt] A population, tissue, or geographical location that is chronically infected with the causative agent of a disease.
+    A) Immunity
+    B) Incubation period
+    C) Zoonosis
+    D) Trend
+    E) Reservoir
+
+33. [mcq, 1 pt] Movement of change in frequency over time.
+    A) Immunity
+    B) Incubation period
+    C) Zoonosis
+    D) Trend
+    E) Reservoir
+
+[STIMULUS] a. Neutrophils, Eosinophils, Basophils, T cells
+b. Antibodies
+c. Culture
+d. Parasitism
+e. Lysogenic
+
+34. [mcq, 1 pt] Process of growing a pathogenic organism, can be used to test sensitivity of organisms to various antibiotics
+    A) Neutrophils, Eosinophils, Basophils, T cells
+    B) Antibodies
+    C) Culture
+    D) Parasitism
+    E) Lysogenic
+
+35. [mcq, 1 pt] Symbiotic relationship in which one organism benefits at the expense of another, usually another species.
+    A) Neutrophils, Eosinophils, Basophils, T cells
+    B) Antibodies
+    C) Culture
+    D) Parasitism
+    E) Lysogenic
+
+36. [mcq, 1 pt] A virus that infects but does not immediately kill the host cell; viral DNA is replicated along with host DNA; virus becomes dormant.
+    A) Neutrophils, Eosinophils, Basophils, T cells
+    B) Antibodies
+    C) Culture
+    D) Parasitism
+    E) Lysogenic
+
+37. [mcq, 1 pt] A core part of the immune system, protein markers that signal and mark a specific pathogen.
+    A) Neutrophils, Eosinophils, Basophils, T cells
+    B) Antibodies
+    C) Culture
+    D) Parasitism
+    E) Lysogenic
+
+38. [mcq, 1 pt] Specific types of white blood cells
+    A) Neutrophils, Eosinophils, Basophils, T cells
+    B) Antibodies
+    C) Culture
+    D) Parasitism
+    E) Lysogenic
+
+
+=== Multiple choice ===
+
+39. [mcq, 1 pt] Which of the following is not one of the major triads of epidemiology?
+    A) Reservoir – vector - vehicle
+    B) Person – place – time
+    C) Agent – host – environment
+
+40. [mcq, 1 pt] Pathogenicity refers to:
+    A) The number of bacteria or viruses that are required to infect a person
+    B) The number of people who become infected with a bacterial or viral agent
+    C) The proportion of persons infected with an agent who then develop clinical disease
+    D) The proportion of persons infected with an agent who then die
+
+41. [mcq, 1 pt] An outbreak is:
+    A) A small pandemic
+    B) A brief increase in incidence above the endemic rate
+    C) A high endemic rate
+    D) A large epidemic
+
+42. [mcq, 1 pt] People can be exposed to lead by all EXCEPT:
+    A) Breathing air that contains lead
+    B) Eating paint chips that contain lead
+    C) Eating organic fruits and vegetables
+    D) Soil around older homes that contain lead-based paint
+    E) Working in an industry like battery manufacturing
+
+43. [mcq, 1 pt] Who developed rules for determining if a specific living organism causes a particular disease?
+    A) Hippocrates
+    B) Snow
+    C) Hill
+    D) Koch
+
+44. [mcq, 1 pt] Which of the following can be found in viruses?
+    A) Protein coat and mitochondria
+    B) Protein coat and DNA
+    C) Protein coat, mitochondria and DNA
+    D) Mitochondria only
+    E) A malformed protein
+
+[STIMULUS] **Fill in the correct mode of transmission. Each mode can be used more that once if necessary. All modes need not be used:**
+
+Modes of Transmission:
+
+a. Direct
+b. Droplet (animate origin)
+c. Airborne (inanimate origin)
+d. Vehicle
+e. Vector
+
+Write the matching letter:
+
+45. [mcq, 1 pt] Which mode of transmission matches: Speaking?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+46. [mcq, 1 pt] Which mode of transmission matches: Dust?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+47. [mcq, 1 pt] Which mode of transmission matches: Fleas?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+48. [mcq, 1 pt] Which mode of transmission matches: Shaking hands with a sick person?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+49. [mcq, 1 pt] Which mode of transmission matches: Meat facility?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+50. [mcq, 1 pt] Which mode of transmission matches: Dirty syringe?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+51. [mcq, 1 pt] Which mode of transmission matches: Bed linen?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+52. [mcq, 1 pt] Which mode of transmission matches: Kitchen mixer?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+53. [mcq, 1 pt] Which mode of transmission matches: Unpasteurized milk?
+    A) Direct
+    B) Droplet (animate origin)
+    C) Airborne (inanimate origin)
+    D) Vehicle
+    E) Vector
+
+[STIMULUS] **Name the type of study that is described in each of the below scenarios**.
+
+57. [mcq, 1 pt] Shortly after a University of Michigan dance party, several people who attended report stomach cramps, diarrhea, and vomiting. A study investigates the possible causes of this outbreak, based on questioning those that reported feeling sick and comparing their diets to those who did not get sick.
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+58. [mcq, 1 pt] Another study attempts to prove that Michigan State has better disease control procedures the University of Michigan by comparing the number of people at each school who got sick the previous semester with the flu
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+59. [mcq, 1 pt] To study effects of hospitalists, general internists, and family physicians on patient care, patients that were hospitalized with certain conditions under the care of hospitalists, general internists, and family physicians were separated into three groups. The results showed that patients cared for by hospitalists had shorter hospital stays and lower costs than those cared for by general internists or family physicians.
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+60. [mcq, 1 pt] To determine the long-term effectiveness of influenza vaccines in elderly people, cohorts of vaccinated elderly and unvaccinated community-dwelling elderly were studied. The results suggest that the elderly who are vaccinated have a reduced risk of hospitalization for pneumonia or influenza.
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+61. [mcq, 1 pt] This study looked at the relation between risk of acute myocardial infarction and current or former smoking, type of tobacco, amount smoked, effect of smokeless tobacco, and exposure to secondhand smoke.
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+62. [mcq, 1 pt] Expectations for coronary death from the experience in the United States and northern Europe greatly exceeded observed deaths in southern Europe for men of their age, serum cholesterol, blood pressure, smoking habits, physical activity, and relative weight.
+    A) Cohort Study
+    B) Case Control Study
+    C) Ecological Study
+    D) Cross-sectional Study
+
+[STIMULUS] **Read the report below and answer the following questions:**
+
+There is a new strain of toxic bacteria that is sickening people in Europe. Because this strain of bacteria is so toxic, it has the potential to become the deadliest outbreak in recent history. So far, 1,500 people have become ill, 470 have developed a kidney complication from broken down blood cells which can be life threatening, and 18 people have died.
+
+The number of people reported sick in Germany from this foodborne bacterial outbreak that has already killed 16 (spiking over the last 24 hours), with 100 more people suffering from severe and potentially fatal symptoms, the national disease control center said Wednesday.
+
+Agriculture Minister Ilse Aigner said scientists were working nonstop to find the source of the unusual strain of the E. coli bacteria that is believed to have spread in Europe on tainted vegetables — and where in the long journey from farm to grocery store the contamination occurred.
+
+"Hundreds of tests have been done and the responsible agencies ... have determined that most of the patients who have been sickened ate cucumbers, tomatoes and leaf lettuce and primarily in northern Germany," Aigner said on ARD television. "The states that have conducted the tests must now follow back the delivery path to see how the cucumbers, or tomatoes or lettuce got here."
+
+64. [mcq, 1 pt] If the population of Europe is about 750,000,000 what is the prevalence of E. coli in this outbreak in Europe?
+    A) 1 per 235,000,000
+    B) 1 per 267,000,000
+    C) 1 per 50,000
+    D) 1 per 100,000
+
+65. [mcq, 1 pt] What is the mortality rate of E. coli in Germany, considering that the population of Germany is about 80,000,000?
+    A) 3125 deaths per 1,000,000
+    B) 2125 deaths per 1,000,000
+    C) 4560 deaths per 1,000,000
+    D) 3142 deaths per 1,000,000
+
+66. [mcq, 1 pt] What is the case-fatality rate of this strain of E. coli in Europe?
+    A) 5 per 1000
+    B) 2 per 1000
+    C) 12 per 1000
+    D) 3 per 1000
+
+67. [mcq, 1 pt] What type of observational study did Ilse Aigner describe?
+    A) Cross-sectional
+    B) Cohort
+    C) Case Control
+    D) Time Series Study
+
+68. [mcq, 1 pt] What is the next logical step in the epidemiological process to investigate the outbreak?
+    A) Evaluate the hypothesis
+    B) Prepare for fieldwork
+    C) Implement control and prevention measures
+    D) Communicate findings
+
+[STIMULUS] This is the data collected from the towns most affected by the outbreak described on the previous page. Answer the questions below.
+
+Fill in the table above; given the information on the previous page and that the total number of people who were surveyed was 3000.
+
+Record the relative risks for each of the listed possible factors.
+    | Food | Ate food, sick | No food, sick | Ate food, healthy | No food, healthy |
+    | Burpless Cucumbers | 822 | 478 | 117 |  |
+    | Armenian Cucumbers |  | 947 |  | 775 |
+    | Iceberg Lettuce |  | 694 | 956 |  |
+    | Romaine Lettuce | 618 |  |  | 1055 |
+    | Cherry Tomatoes | 239 |  | 615 |  |
+    | Beefsteak Tomatoes | 102 |  |  | 440 |
+
+71. [mcq, 1 pt] Calculate the odds ratios of the food that most likely caused the outbreak.
+    A) 5.68
+    B) 1.66
+    C) 1.28
+    D) 2.28
+    E) 33.02
+
+73. [mcq, 1 pt] If all of the people who were controls happened to be, by chance, immune to stomach illness, what would this be called?
+    A) Confounding
+    B) Selection Bias
+    C) Information Bias
+    D) Interviewer Bias
+    E) Random Error
+
+75. [mcq, 1 pt] If the disease caused the memory of the cases to be hazy which led the cases to incorrectly characterize their exposure status, what would this be called?
+    A) Selection Bias
+    B) Recall Bias
+    C) Observer Bias
+    D) Confounding
+    E) Random Error
+
+[STIMULUS] **For each of the following epi curves:**
+
+- **Identify the type of disease propagation as being one of**
+
+  A. Point Source
+  B. Common Intermittent Exposure
+  C. Common Continuous Exposure
+  D. Propagated Spread
+  E. Periodic / Seasonal
+
+- **Give an estimated minimum incubation period (assume each unit of the x axis = 1 day and the initial exposure was when x=0).**
+
+  A. 1 day
+  B. 2-3 days
+  C. 4-6 days
+  D. 7-10 days
+  E. more than 10 days
+
+- **Tell whether or not you can declare the outbreak to be over based on this data.**
+
+  A. True
+  B. False
+    [IMAGE: ../images/2016_clio_c__d_6f5023-ecb97735.webp]
+
+83. [mcq, 1 pt] Outbreak 1 most closely resembles this type of disease propagation.
+    A) Point Source
+    B) Common Intermittent Exposure
+    C) Common Continuous Exposure
+    D) Propagated Spread
+    E) Periodic / Seasonal
+
+84. [mcq, 1 pt] The **minimum** incubation period is…
+    A) 1 day
+    B) 2-3 days
+    C) 4-6 days
+    D) 7-10 days
+    E) more than 10 days
+
+86. [mcq, 1 pt] Outbreak 2 most closely resembles this type of disease propagation.
+    A) Point Source
+    B) Common Intermittent Exposure
+    C) Common Continuous Exposure
+    D) Propagated Spread
+    E) Periodic / Seasonal
+
+90. [mcq, 1 pt] The **average** incubation period is…
+    A) 1 day
+    B) 2-3 days
+    C) 4-6 days
+    D) 7-10 days
+    E) more than 10 days

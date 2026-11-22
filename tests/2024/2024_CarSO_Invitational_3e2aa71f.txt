@@ -1,0 +1,227 @@
+CarSO Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  62 questions, 104.5 pts
+Source: scio.ly test archive id 3e2aa71f-2de4-4569-a3c6-550aee98f280  |  original files: https://drive.google.com/drive/folders/1nCbPNI0bsoPmyqvYygNJDqvnB82n0Jbj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== Part 1: Short Answer ===
+
+1. [frq, 6.5 pt] List the 13 steps of an Outbreak Investigation.
+
+[STIMULUS] For the following questions, identify the causative agent for each disease. (Bacteria, Virus, Fungus, Protist, or None).
+
+2. [frq, 1 pt] Botulism
+
+3. [frq, 1 pt] HIV
+
+4. [frq, 1 pt] Ringworm
+
+6. [frq, 1 pt] Whooping Cough (Pertussis)
+
+7. [frq, 1 pt] Giardiasis
+
+8. [frq, 1 pt] Polio
+
+[STIMULUS] For the following questions, identify whether the scenario is an example of a public health approach, a clinical medicine approach, or both.
+
+10. [frq, 1 pt] The state of North Carolina offers residents the opportunity to get the seasonal flu vaccine in conjunction with the new COVID-19 vaccine.
+
+11. [frq, 1 pt] A patient comes in complaining of fever, nausea, and diarrhea. The doctor takes a stool sample and provides antibiotics.
+
+12. [frq, 1 pt] The NC school system launches a campaign to improve student health by providing healthier foods for lunch.
+
+13. [frq, 1 pt] A doctor diagnoses a patient with lyme disease after presenting with a bullseye rash. Since lyme disease is a reportable disease, the doctor then notifies the state health department of the case.
+
+[STIMULUS] For the following questions, match the example to the epidemiology term.
+
+Prodrome
+Infectivity
+Latency period
+Incubation period
+Carrier
+Epizootic
+Epidemic
+Zoonosis
+Subclinical Disease
+Vector
+Pandemic
+Agent
+
+14. [frq, 1 pt] Despite presenting no symptoms, Mary Mallon unknowingly caused outbreaks of typhoid fever among the households she served as a cook for.
+
+15. [frq, 1 pt] Last summer, an abnormally high number of cases of the black plague occurred among the rodent population in Arizona.
+
+16. [frq, 1 pt] When the H1N1 flu crossed over from pigs to humans, it had the potential to cause a pandemic.
+
+17. [frq, 1 pt] The common cold often first has a period of nonspecific symptoms like malaise before being followed by more classic congestion, sore throat, and fever.
+
+18. [frq, 1 pt] About 90-95% of tuberculosis infections won't actually develop symptoms, instead developing as latent tuberculosis.
+
+[STIMULUS] For the following questions, use the word bank to match the descriptions to the study type.
+
+Case-Control
+Cohort
+Cross-sectional
+Randomized Control Trial
+
+19. [frq, 1 pt] This study type is the best for rare diseases.
+
+20. [frq, 1 pt] One disadvantage of this study type is that it is both time consuming and expensive.
+
+21. [frq, 1 pt] This study is good for analyzing more than one outcome.
+
+[STIMULUS] In the context of COVID-19, give an example of:
+
+22. [frq, 1 pt] An agent-host interrupting factor:
+
+23. [frq, 1 pt] An environment-host interrupting factor:
+
+24. [frq, 1 pt] An agent-environment interrupting factor:
+
+
+=== Part 2: Case Study ===
+
+[STIMULUS] This year the National Science Olympiad tournament is taking place at Cornell University in Ithaca, New York. You are traveling with the rest of the Carolina Science Olympiad team to volunteer and help run the tournament. The team consists of 12 individuals who all traveled together and stayed at a local Marriot hotel. The night before the tournament, the team ate dinner together at the hotel's buffet.
+
+The following morning, half of your team reported experiencing stomach cramps, fever, and diarrhea. Luckily, you have been spared from this mystery illness. As the team's Disease Detectives expert, you decide to investigate if this outbreak could be affecting the rest of the hotel.
+
+After talking to other teams staying at the hotel, you discover that 49 total individuals are experiencing similar symptoms. All of those individuals also ate at the buffet last night and started experiencing symptoms at least 6 hours after dinner. 53% of individuals were female and the median age was 22.
+
+25. [frq, 4 pt] Create a case definition for this outbreak based on the information above.
+
+26. [frq, 4 pt] What are the strengths and weaknesses of a case control study? List two of each.
+
+27. [frq, 3 pt] Write three questions that would be appropriate to ask patients in an interview.
+
+28. [frq, 1 pt] What type of error might occur while interviewing cases?
+
+29. [frq, 2 pt] List two ways that the investigators could minimize that type of error.
+
+[STIMULUS] Overall, you were able to interview 47 cases and 40 controls. Using that data, you constructed the following table of possible exposures.
+    | Food | Number Exposed | Number Exposed and Sick |
+    | Broccoli | 43 | 21 |
+    | Sesame Chicken | 52 | 15 |
+    | Fruit Salad | 69 | 45 |
+    | Tortilla Wrap | 52 | 36 |
+
+30. [frq, 1 pt] What is the appropriate measure of risk in a case control study?
+
+31. [frq, 9 pt] Calculate the appropriate measure of risk for each food. Show your work and round to two decimal points.
+
+32. [frq, 1 pt] What food is the most likely culprit of the outbreak?
+
+33. [frq, 3 pt] Interpret the measure of risk.
+
+34. [frq, 3 pt] List 2 appropriate next steps the hotel can take.
+
+35. [frq, 4 pt] It appears this illness was caused by a foodborne pathogen. What are the four recommended steps to prevent foodborne illness?
+
+36. [frq, 8 pt] Calculate the sensitivity, specificity, PPV, and NPV. Show your work and round to two decimal points.
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+[STIMULUS] For the following questions, match the given situation to a disease control implementation. Each term will only be used once.
+
+Control
+Elimination
+Eradication
+Extinction
+
+37. [frq, 1 pt] Disease X no longer exists in nature or in the laboratory.
+
+38. [frq, 1 pt] After a new outbreak of COVID-19 at UNC Chapel Hill, university officials implemented mandatory quarantine measures to reduce the spread of disease.
+
+39. [frq, 1 pt] By 1980, the worldwide incidence of infection of Smallpox was permanently reduced to zero.
+
+40. [frq, 1 pt] In the United States, the incidence of Polio has been reduced to zero.
+
+[STIMULUS] For the following questions, match each scenario with a corresponding level of prevention.
+
+41. [mcq, 1 pt] Nutritional programs are implemented in school cafeterias to promote healthy eating habits.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+42. [mcq, 1 pt] Students must complete immunizations before returning to school.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+43. [mcq, 1 pt] To manage their diabetes, patients often use a continuous glucose monitor and an insulin pump.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+44. [mcq, 1 pt] At age 40, the US Task Force recommends getting a colonoscopy to screen for colon cancer.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+47. [frq, 1 pt] List two pieces of key information that epi curves can help identify.
+
+48. [frq, 4 pt] Please fill in the blanks for each box for the following chart of the natural history of disease.
+    [IMAGE: ../images/2024_carso_invitational_c__p7_cba1d7-5a04c3cc.webp]
+
+49. [mcq, 1 pt] From the Health Impact Pyramid, which of the following requires the most individual effort?
+    A) Preventative Medicine
+    B) Socioeconomic Factors
+    C) Making Healthy Decisions the Default
+    D) Counseling and Education
+    E) Medical Care
+
+50. [mcq, 1 pt] From the Health Impact Pyramid, which of the following has the greatest public health impact?
+    A) Treatment of heart disease
+    B) Poverty reduction, education, etc…
+    C) Vaccinations, cholesterol screening, etc…
+    D) Tobacco warning labels and promoting quitting
+    E) Seatbelt laws, smoking restrictions, etc…
+
+51. [frq, 4 pt] List 4 of the top Public Health issues and provide an example of how to address each issue.
+
+[STIMULUS] Use the following terms to answer the following questions. Each term will only be used once.
+
+Genes and Biology, Health Behaviors, Social/Societal Characteristics, Medical Care
+
+52. [mcq, 1 pt] Which characteristic most determines the health of the population?
+    A) Genes and Biology
+    B) Health Behaviors
+    C) Social/Societal Characteristics
+    D) Medical Care
+
+53. [mcq, 1 pt] Which characteristic least determines the health of the population?
+    A) Genes and Biology
+    B) Health Behaviors
+    C) Social/Societal Characteristics
+    D) Medical Care
+
+54. [frq, 1 pt] Which two characteristics have a similar impact on the health of the population? ____ and ____
+
+[STIMULUS] Identify each portion of the Chain of Infection, as well as a prevention strategy that addresses each part for an Influenza outbreak.
+
+55. [frq, 1 pt] Infectious agent: ____
+
+55a. [frq, 1 pt] Prevention strategy: ____
+
+56. [frq, 1 pt] Reservoir: ____
+
+56a. [frq, 1 pt] Prevention strategy: ____
+
+57. [frq, 1 pt] Portals of Exit: ____
+
+57a. [frq, 1 pt] Prevention strategy: ____
+
+58. [frq, 1 pt] Mode of Transmission: ____
+
+58a. [frq, 1 pt] Prevention strategy: ____
+
+59. [frq, 1 pt] Portal of Entry: ____
+
+59a. [frq, 1 pt] Prevention strategy: ____
+
+60. [frq, 1 pt] Susceptible Host: ____
+
+60a. [frq, 1 pt] Prevention strategy: ____

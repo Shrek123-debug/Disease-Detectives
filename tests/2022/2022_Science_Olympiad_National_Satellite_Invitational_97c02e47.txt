@@ -1,0 +1,766 @@
+Science Olympiad National Satellite Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  90 questions, 126.0 pts
+Source: scio.ly test archive id 97c02e47-e04d-49bf-ac40-082fd8c4cdad  |  original files: https://drive.google.com/drive/folders/1GyVv6gRfdmnv6GjUIQ9cV2AN19GHMqle
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: The exam is split into three sections:
+• Background Surveillance
+• Outbreak Investigation
+• Patterns, Control, and Prevention
+Please read the questions carefully and answer them to the best of your ability
+
+
+=== Part I: Background and Surveillance ===
+
+1. [frq, 1 pt] What does the CDC stand for?
+
+2. [frq, 1 pt] The CDC is under what department of the US federal government?
+
+3. [frq, 1 pt] Where is the CDC headquartered (City, State)?
+
+4. [frq, 1 pt] What does the WHO stand for?
+
+5. [frq, 1 pt] The WHO is under what international organization?
+
+6. [frq, 1 pt] Where is the WHO headquartered (City, Country)?
+
+7. [multi, 1 pt] In the definition of epidemiology, "distribution" refers to:
+    A) Who
+    B) What
+    C) When
+    D) Where
+    E) Why
+    F) How
+
+8. [multi, 1 pt] In the definition of epidemiology, "determinants" refers to:
+    A) Who
+    B) What
+    C) When
+    D) Where
+    E) Why
+    F) How
+
+[STIMULUS] Matching - for the following 12 questions, match the words given the definitions
+In your answer, provide ONLY the letter considering with the word
+• A - outbreak
+• B - epidemiology
+• C - cluster
+• D - pathology
+• E - pathogenicity
+• F - transmission
+• G - vector
+• H - incidence
+• I - vehicle
+• J - host
+• K - reservoir
+• L - agent
+
+9. [mcq, 1 pt] The study of the distribution and determinants of health conditions or events among populations and the application of that study to control health problems
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+10. [mcq, 1 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+11. [mcq, 1 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+12. [mcq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+13. [mcq, 1 pt] Any factor whose presence, excessive presence, or in the case of deficiency diseases, relative absence is essential for the occurrence of a disease or other adverse health outcome
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+14. [mcq, 1 pt] The habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+15. [mcq, 1 pt] A person or other living organism that is susceptible to or harbors an infectious agent under natural conditions
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+16. [mcq, 1 pt] The study of the cause, origin and nature of disease
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+17. [mcq, 1 pt] An aggregation of cases of a disease, injury, or other health condition in a circumscribed area during a particular period without regard to whether the number of cases is more than expected
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+18. [mcq, 1 pt] An inanimate object that can carry an agent from a reservoir to a susceptible host
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+19. [mcq, 1 pt] Any mode or mechanism by which an infectious agent is spread to a susceptible host
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+20. [mcq, 1 pt] A measure of the frequency with which new cases of illness, injury, or other health condition occurs among a population during a specified period
+    A) outbreak
+    B) epidemiology
+    C) cluster
+    D) pathology
+    E) pathogenicity
+    F) transmission
+    G) vector
+    H) incidence
+    I) vehicle
+    J) host
+    K) reservoir
+    L) agent
+
+21. [mcq, 1 pt] The acronym FAT TOM describes the six favorable conditions required for the growth of what type of pathogen?
+    A) Foodborne
+    B) Airborne
+    C) Waterborne
+    D) Bloodborne
+
+[STIMULUS] For the following five questions, match the disease with the correct vector and pathogen
+
+22. [mcq, 1 pt] Malaria
+    A) Mosquito, Virus
+    B) Bird, Virus
+    C) Mosquito, Parasite
+    D) Mosquito, Bacteria
+
+23. [mcq, 1 pt] Dengue
+    A) Tick, Parasite
+    B) Bird, Bacteria
+    C) Mosquito, Virus
+    D) Flea, Bacteria
+
+24. [mcq, 1 pt] Lyme disease
+    A) Flea, Bacteria
+    B) Tick, Bacteria
+    C) Lice, Bacteria
+    D) Lice, Virus
+
+25. [mcq, 1 pt] Tungiasis
+    A) Flea, Ectoparasite
+    B) Flea, Parasite
+    C) Tick, Virus
+    D) Tick, Bacteria
+
+26. [mcq, 1 pt] H5N1
+    A) Bird, Virus
+    B) Bird, Bacteria
+    C) Rat, Parasite
+    D) Rat, Virus
+
+[STIMULUS] For the following five questions, identify the type of surveillance in each scenario
+
+27. [mcq, 1 pt] John has been admitted into the hospital for monitoring after presenting potential smallpox symptoms
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+    E) Medical
+
+28. [mcq, 1 pt] LA County Public Health begins recruiting hospitals to report influenza-like illness every week
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+    E) Medical
+
+29. [mcq, 1 pt] The Local Board of Health receives a case report from a lab
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+    E) Medical
+
+30. [mcq, 1 pt] During a cluster investigation of E. coli O157:H7, epidemiologists call pediatric nephrologists in the California to find out whether a clinician has treated any patients having hemolytic uremic syndrome which may result from infection with this organism
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+    E) Medical
+
+31. [mcq, 1 pt] The CDC monitors for acute flaccid paralysis in order to capture possible cases of polio
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+    E) Medical
+
+32. [multi, 1 pt] John Snow's investigation of cholera is considered a model for epidemiologic field investigations because it included a:
+    A) Biologically plausible hypothesis
+    B) Comparison of a health outcome among exposed and unexposed groups
+    C) Multivariate statistical model
+    D) Spot map
+    E) Recommendation for public health action
+
+33. [multi, 1 pt] Public health surveillance includes which of the following activities:
+    A) Diagnosing whether a case of encephalitis is actually due to West Nile virus infection
+    B) Soliciting case reports of persons with symptoms compatible with SARS from local hospitals
+    C) Creating graphs of the number of dog attacks by week and neighborhood
+    D) Writing a report on trends in seat belt use to share with the local legislature
+    E) Disseminating educational materials about ways people can reduce their risk of Lyme disease
+
+34. [mcq, 1 pt] When analyzing surveillance data by age, which of the following age groups is preferred?
+    A) 1-year age groups
+    B) 5-year age groups
+    C) 10-year age groups
+    D) Depends on the disease
+
+35. [mcq, 1 pt] A propagated epidemic is usually the result of what type of exposure?
+    A) Person-to-person
+    B) Point source
+    C) Continuous common source
+    D) Intermittent common source
+
+36. [multi, 1 pt] Public health surveillance includes which activities?
+    A) Data collection
+    B) Data analysis
+    C) Data interpretation
+    D) Data dissemination
+    E) Disease control
+
+37. [mcq, 1 pt] Public health surveillance is only conducted by public health agencies.
+    A) True
+    B) False
+
+38. [mcq, 1 pt] Vital statistics are important sources of data on which of the following?
+    A) Mortality
+    B) Morbidity
+    C) Injury and disability
+    D) Outpatient healthcare usage
+
+39. [multi, 1 pt] Key sources of morbidity data include which of the following?
+    A) Environmental monitoring data
+    B) Hospital discharge data
+    C) Laboratory results
+    D) Notifiable disease reports
+    E) Vital records
+
+40. [multi, 1 pt] Initiating surveillance for a public health problem or adding a disease to the notifiable disease list is justified for which of the following reasons?
+    A) If it is a communicable disease with a high case-fatality rate
+    B) If the problem is new and systematically collected data are needed to characterize the disease and its impact on the public
+    C) If a program at CDC has recommended its addition to better understand national trends and patterns
+    D) To guide, monitor, and evaluate programs to prevent or control the problem
+
+41. [frq, 6 pt] The Natural History of Disease follows the four stages, name those stages and explain when the following events occur during said stages:
+    Exposure
+    Pathologic changes
+    Onset of symptoms
+    Usual Time of Diagnosis
+
+42. [frq, 5 pt] Here we have three "-demics": Identify which diagram refers to which "-demic" and explain their differences.
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p7_395ec9-de1ba880.webp]
+
+
+=== Part II: Outbreak Investigation ===
+
+[STIMULUS] Matching - for the following 12 questions, match the words given the definitions
+In your answer, provide ONLY the letter considering with the word
+• A - analytic study
+• B - case-control study
+• C - cohort study
+• D - cross-sectional study
+• E - experimental study
+• F - observational study
+• G - prospective study
+• H - retrospective study
+• I - random sample
+• J - representative sample
+• K - information bias
+• L - selection bias
+
+43. [mcq, 1 pt] A study in which the investigator observes rather than influences exposure and disease among participants
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+44. [mcq, 1 pt] A study in which a sample of persons from a population are enrolled and their exposures and health outcomes are measured simultaneously; a survey
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+45. [mcq, 1 pt] A study in which groups are compared to identify and quantify associations, test hypotheses, and identify causes
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+46. [mcq, 1 pt] A type of observational study in which enrollment is based on status of exposure to a certain factor or membership in a certain group. Populations are followed, and disease, death, or other health-related outcomes are documented and compared
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+47. [mcq, 1 pt] A type of observational study that enrolls one group of persons with a certain disease, chronic condition, or type of injury and a group of persons without the health problem and compares differences in exposures, behaviors, and other characteristics to identify and quantify associations, test hypotheses, and identify causes
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+48. [mcq, 1 pt] A study in which participants are enrolled after the health outcome of interest has occurred
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+49. [mcq, 1 pt] A study in which participants are enrolled before the health outcome of interest has occurred
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+50. [mcq, 1 pt] A study in which the investigator specifies the type of exposure for each person or community then follows the persons' or communities' health status to determine the effects of the exposure
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+51. [mcq, 1 pt] A sample whose characteristics correspond to those of the original or reference population
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+52. [mcq, 1 pt] Systematic difference in the collection of data regarding the participants in a study that leads to an incorrect result or inference
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+53. [mcq, 1 pt] Systematic difference in the enrollment of participants in a study that leads to an incorrect result or inference
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+54. [mcq, 1 pt] A sample of persons chosen in such a way that each one has the same and known probability of being selected
+    A) analytic study
+    B) case-control study
+    C) cohort study
+    D) cross-sectional study
+    E) experimental study
+    F) observational study
+    G) prospective study
+    H) retrospective study
+    I) random sample
+    J) representative sample
+    K) information bias
+    L) selection bias
+
+[STIMULUS] For the following three questions, identify between Type I and Type II error
+
+55. [mcq, 1 pt] A vaccine manufacturer wants to test the null hypothesis that a new vaccine is no more effective than the older iteration.
+    What would be the consequence of a Type I error in this context?
+    A) They don't conclude the new vaccine is more effective when it actually is not more effective.
+    B) They don't conclude the new vaccine is more effective when it actually is more effective.
+    C) They conclude the new vaccine is more effective when it actually is more effective.
+    D) They conclude the new vaccine is more effective when it actually is not more effective.
+
+56. [mcq, 1 pt] Regulations from the Environmental Protection Agency say that soil used in play areas should not have lead levels that exceed a 400 parts per million (ppm). Before beginning construction at a new site, an agent will take a sample of soil and run a significance test on the mean lead level in the soil. If the mean lead level in the sample is significantly higher than 400ppm, then the soil is deemed unsafe and construction cannot continue. Here are the hypotheses for this test:
+    H₀ : μ ≤ 400 ppm (soil is safe)
+    Hₐ : μ > 400 ppm (soil is unsafe)
+    (where μ is the mean lead level in the soil at the new site).
+    What would be the consequence of a Type II error in this setting?
+    A) Construction continues when the soil is actually safe.
+    B) Construction stops when the soil is actually safe.
+    C) Construction continues when the soil is unsafe.
+    D) Construction stops when the soil is actually unsafe.
+
+57. [mcq, 1 pt] Donated blood is tested for infectious diseases and other contaminants. Since most donated blood is safe, it saves time and money to test batches of donated blood rather than test individual samples. A certain test is performed to see if a certain toxin is present, and the entire batch is discarded if the toxin is detected. This is similar to using a null and an alternative hypothesis to determine whether to discard or keep the batch. The hypotheses being tested could be stated as:
+    H₀ : The batch does not contain the toxin.
+    Hₐ : The batch contains the toxin.
+    What would be the consequence of a Type I error in this context?
+    A) The batch is discarded when it actually contains the toxin.
+    B) The batch is discarded when it actually doesn't contain the toxin.
+    C) The batch is kept when it actually contains the toxin.
+    D) The batch is kept when it actually doesn't contain the toxin.
+
+58. [multi, 1 pt] What factors influence a health department's decision whether or not to conduct a field investigation in response to one or more cases of disease?
+    A) The nature of the disease
+    B) Health department's traditional attitude toward conducting field investigations
+    C) Resources available
+    D) The number of cases
+
+59. [frq, 5 pt] Discuss the general steps of an outbreak investigation (hint: you should have around 7 in total)
+
+[STIMULUS] For the following three questions, identify which term is best associated in each scenario
+
+60. [mcq, 1 pt] 500 cases of Marburg virus infection in multiple regions of Zambia over several months (typically none)
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+    D) None of the Above
+
+61. [mcq, 1 pt] 60 cases of Listeria in 1 week traced to a one meal served at a restaurant (usually none)
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+    D) None of the Above
+
+62. [mcq, 1 pt] 15 cases of ovarian cancer diagnosed over 2 years amongst residents of one neighborhood
+    A) Cluster
+    B) Epidemic
+    C) Outbreak
+    D) None of the Above
+
+63. [multi, 1 pt] How might health officials expand surveillance to identify additional cases as part of an outbreak investigation?
+    A) Advising the public through TV, radio, and the health department's website to contact the local health department
+    B) Asking case-patients who they were with at the time of exposure (if known)
+    C) Telephoning the infection control practitioners at local hospitals
+    D) Releasing a contact-tracing app and advertising to the public
+
+64. [frq, 5 pt] The Bradford Hill criteria is a group of nine principles that can be useful in establishing epidemiologic evidence for verifying an outbreak. List the nine principles and briefly explain each.
+
+65. [frq, 5 pt] Here we have four types of epi-curves:
+    
+    Identify which diagram refers to which type and give an example for each and explain its connection.
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p11_07adb7-6585337f.webp]
+
+66. [frq, 5 pt] The following epi-curve depicts the first outbreak of Legionnaires' disease, in Philadelphia, Pennsylvania, in 1976:
+    
+    What type of epidemic was this? From the diagram, what is the incubation period of Legionnaire's disease? Explain.
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p12_6a1411-5c87aa00.webp]
+
+[STIMULUS] Answer the following questions using this prompt:
+
+The table shows the results from a new rapid antigen test for COVID-19 in clinical trials
+
+| | COVID present | COVID not present |
+|---|---|---|
+| Test Positive | 145 | 6 |
+| Test Negative | 33 | 60 |
+
+67. [frq, 1 pt] What term can be said to be the true negativity rate?
+
+68. [numeric, 1 pt] How many false positives are there in this trial?
+
+69. [numeric, 1 pt] What is the sensitivity of your tests? Round to 2 decimals
+
+[STIMULUS] Answer the following five questions using this prompt:
+
+An outbreak of gastrointestinal disease occurred 24-36 hours after people had attended a wedding. Of the 203 attendees (including the bride and groom), 200 completed questionnaires, and 50 reported illness compatible with the case definition. Tabulated food consumption histories are presented in the table below.
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p13_fd3da2-c166333d.webp]
+
+71. [tf, 1 pt] This study is an example of a prospective cohort study
+    A) True
+    B) False
+
+72. [mcq, 1 pt] What is the most appropriate measure of association for the data?
+    A) Attributable risk percent
+    B) Chi-square
+    C) Odds ratio
+    D) Risk ratio
+
+73. [mcq, 1 pt] Which food served is likely the cause of this outbreak?
+    A) Punch
+    B) Wedding Cake
+    C) Sushi
+    D) Can't determine from the data
+    E) Likely more than one food
+
+74. [numeric, 1 pt] What is risk ratio for the suspected culprit?
+
+75. [multi, 1 pt] Where should the results of this investigation be reported?
+    A) Caterer
+    B) Local officials
+    C) Wedding guests
+    D) WHO
+    E) State health department
+
+
+=== Part III: Patterns, Control, and Prevention ===
+
+77. [frq, 3 pt] The CDC has three strategic priorities for public health. What are they?
+
+78. [multi, 1 pt] Which of these national agencies are involved in public health prevention activities?
+    A) CDC
+    B) FDA, US Food and Drug Administration
+    C) EPA, Environmental Protection Agency
+    D) HUD, Department of Housing and Urban Development
+    E) USDA, Department of Agriculture
+
+[STIMULUS] For the following five questions, identify which level of prevention is best associated in each scenario
+
+79. [mcq, 1 pt] Improving access to an urban neighborhood to safe sidewalks to promote physical activity
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+80. [mcq, 1 pt] Papanicolaou (Pap) smear for cervical cancer
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+81. [mcq, 1 pt] Administering MMR vaccines to infants
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+82. [mcq, 1 pt] Implementing rehabilitation programs for stroke patients
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+83. [mcq, 1 pt] A physician refrains from unnecessary medical intervention
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+84. [frq, 5 pt] Smoking has been recognized as a health hazard for decades now. Using the five levels of prevention, discuss the various strategies (one for each level) that have been implemented or you'd propose to address this public health issue.
+
+85. [frq, 4 pt] In addition to levels, there are two approaches to prevention targeting a whole population or only high risk groups. Compare these two approaches.
+
+[STIMULUS] Answer the following questions using this prompt:
+
+Mathematical models are increasingly common when tracking and/or predicting infectious disease spread. One such model is the SIR model; this model divides a fixed population, N, into three subgroups, susceptible (S), infected (I), and recovered (R) and it goes as follows
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p15_36103f-6e9a2cfb.webp]
+
+86. [frq, 3 pt] Given the names of these subpopulations, what does each group represent?
+
+[STIMULUS] Here is a graph of this model in action:
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p16_2d3d2b-bbcf05ec.webp]
+
+89. [mcq, 1 pt] Which line corresponds with the susceptible subpopulation?
+    A) Blue
+    B) Red
+    C) Green
+
+90. [mcq, 1 pt] Which line corresponds with the infected subpopulation?
+    A) Blue
+    B) Red
+    C) Green
+
+91. [mcq, 1 pt] And how about the recovered subpopulation?
+    A) Blue
+    B) Red
+    C) Green
+
+92. [mcq, 1 pt] When does the population have the largest group of infected (in days)?
+    A) 95
+    B) 25
+    C) 15
+    D) 21
+
+[STIMULUS] The following plot models two sets of parameters; solid lines and dotted lines
+    [IMAGE: ../images/2022_science_olympiad_national_satellite_invitational_b_c__p17_930a12-9e49d7f6.webp]
+
+93. [mcq, 1 pt] Let say each parameter set represents the same population exposed to two different diseases. Solid lines represent disease A and dotted lines represent disease B. What might this plot suggest about the infectivity of the disease A compared to B?
+    A) B is more infectious than A
+    B) B is as infectious as A
+    C) B is less infectious than A
+
+94. [mcq, 1 pt] Let say each parameter set instead represents the different populations exposed to the same disease. Solid lines represent population A and dotted lines represent population B. What might this plot suggest about each populations' public surveillance and/or prevention policy?
+    A) Population B has more effective policies than A
+    B) Population B and A have similar policies
+    C) Population B has less effective policies than A

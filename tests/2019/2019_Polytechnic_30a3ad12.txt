@@ -1,0 +1,111 @@
+Polytechnic — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  45 questions, 94.0 pts
+Source: scio.ly test archive id 30a3ad12-a07c-4c5a-9a55-b630edd15ec6  |  original files: https://drive.google.com/drive/folders/1RIWeWeGSgQYdjNSXDKQj5yy_LGvIwESP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== DISEASE DETECTIVES — Polytechnic Invitational ===
+
+1a. [frq, 1 pt] Define: Seasonality
+
+1b. [frq, 1 pt] Define: Nosocomial Infection
+
+1c. [frq, 1 pt] Define: Antigen
+
+1d. [frq, 1 pt] Define: Helminth
+
+1e. [frq, 1 pt] Define: Zoonosis
+
+1f. [frq, 1 pt] Define: Prodomal Period
+
+1g. [frq, 1 pt] Define: Hyperendemic
+
+1h. [frq, 1 pt] Define: Exotoxin
+
+1i. [frq, 1 pt] Define: Pathogenecity
+
+1j. [frq, 1 pt] Define: Morbidity
+
+1k. [frq, 1 pt] Define: Quaternary prevention
+
+[STIMULUS] Classify each disease into categories (bacterial, viral, parasitic, fungal).
+
+2a. [frq, 1 pt] Cryptosporidiosis:
+
+2b. [frq, 1 pt] Gonorrhea:
+
+2c. [frq, 1 pt] Measles:
+
+2d. [frq, 1 pt] Shigellosis:
+
+2e. [frq, 1 pt] Amebiasis:
+
+2f. [frq, 1 pt] Hepatitis C:
+
+2g. [frq, 1 pt] Botulism:
+
+2h. [frq, 1 pt] Giardiasis:
+
+2i. [frq, 1 pt] Valley Fever:
+
+2j. [frq, 1 pt] Histoplasmosis:
+
+[STIMULUS] Case Study: 500 people in a community college in Jamestown, New York were randomly selected for a career fair during February. At the fair, everyone was given free lunch and heard an inspirational speech from Elon Musk. However, 72 students decided to skip out on the fair. Everyone at the fair was given the option to either eat the Chicken dish or the Seafood dish. 213 students had the Seafood dish, and the rest had the Chicken. A few days after the event, several students faced symptoms including nausea, fever, diarrhea, and even abdominal cramps. 315 of the selected community colleges students were sick and 293 attended the career fair event. 115 of the sick teens had the Chicken and the rest had Seafood. All of this information was obtained through a survey conducted a few days after the event.
+
+3b. [frq, 2 pt] Identify and calculate the appropriate measure of risk for this scenario.
+
+3c. [frq, 1 pt] Interpret the result of this measure.
+
+3e. [frq, 2 pt] Calculate the attack rate for each dish.
+
+3h. [frq, 2 pt] Explain a potential bias in this study
+
+3i. [frq, 2 pt] Write a case definition for this outbreak.
+
+4. [frq, 1 pt] In the most recent outbreak of Salmonella, what animal was linked to the cause?
+
+5. [frq, 8 pt] Describe the CDC’s Food Production Cycle, give examples for contamination at each step.
+
+6. [frq, 5 pt] Name the five different different types of case studies?
+
+7. [frq, 9 pt] List all of Hill’s Criteria for Causation:
+
+8. [frq, 2 pt] Name at least 2 species linked to raw milk outbreaks.
+
+[STIMULUS] Refer to this table:
+Data from this was collected at a new salad restaurant.
+    |  | Has Salmonella | No Salmonella | Total |
+    | Ate Egg Salad | 38 | 18 | 56 |
+    | Didn’t eat Egg Salad | 43 | 51 | 94 |
+    | Total | 81 | 69 | 150 |
+
+9a. [mcq, 1 pt] What kind of epidemiological study is this? Circle the answer
+    A) Case Control
+    B) Prospective Cohort
+    C) Retrospective Cohort
+    D) Cross-Sectional
+
+9b. [frq, 2 pt] Identify and calculate the appropriate measure of risk:
+
+9c. [frq, 1 pt] Interpret the result of the measure.
+
+10. [frq, 2 pt] What temperature should ground meats be cooked to?
+
+11. [frq, 2 pt] What is the difference between a probable and confirmed case for campylobacter?
+
+12. [frq, 10 pt] List the 10 Steps of Outbreak Investigation?
+
+13. [frq, 2 pt] What was the source of the salmonella outbreak in 2009 to 2011?
+
+14. [frq, 1 pt] Which epidemiologist was known for studying the anthrax disease cycle and forming a set of postulates?
+
+15. [frq, 2 pt] What is the difference between a type I and type II error?
+
+16. [frq, 5 pt] What are 5 Ways to Prevent Foodborne Illnesses?
+
+17. [frq, 2 pt] What is the difference between incidence and proportion?
+
+18. [frq, 3 pt] What are the 3 types of vehicle transmission?
+
+19. [frq, 1 pt] What does NNDSS stand for?
+
+20. [frq, 5 pt] What are the top five germs that cause foodborne illness in the US?

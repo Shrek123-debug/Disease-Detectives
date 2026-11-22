@@ -1,0 +1,124 @@
+Crystal Lake — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  28 questions, 83.0 pts
+Source: scio.ly test archive id 07aeaaba-d942-4250-aa5c-083900340321  |  original files: https://drive.google.com/drive/folders/1JUq0h7UEzwdvVKyHwfkpxHq8_ceZjCdy
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: Welcome to Disease Detectives! Before you get started, here are a couple of reminders:
+1. Teams are only permitted ONE 8.5" x 11" page of notes (2 sided), and a non-graphing calculator - no other resources.
+2. You may separate the test, but make sure to reattach the test before turning it in.
+3. Tiebreakers will be selected questions within the test.
+4. You will have 50 minutes to complete the test. You may turn your test in early.
+5. Use your time wisely, try not to spend all of your time on just one part.
+6. Good Luck!
+
+
+=== Section I: Definitions and Terms ===
+
+P1-1. [frq, 5 pt] What are the thirteen steps to investigating an outbreak?
+
+P1-2. [frq, 6 pt] List and describe three types of epidemic curves and the epidemic transmission types they describe.
+
+
+=== Part II: General Terminology Matching and Multiple Choice ===
+
+[STIMULUS] In this section match the appropriate component of the chain of infection to the specific characteristic as it relates to Influenza below.
+
+Modes of Transmission
+Susceptible Host
+Virus
+Secretions
+Immune Deficiency
+Portals of Entry
+Portals of Exit
+Mucous Membrane
+Infectious Agent
+Physical Contact
+People
+Reservoirs
+    [IMAGE: ../images/2019_crystal_lake_c__p3_f8ee9b-92b5039a.webp]
+    [IMAGE: ../images/2019_crystal_lake_c__p3_cbf1cb-7e49d8c4.webp]
+
+P2-3. [frq, 1 pt] Chain of Infection Component: 1.
+
+P2-4. [frq, 1 pt] Chain of Infection Component: 2.
+
+P2-5. [frq, 1 pt] Chain of Infection Component: 3.
+
+P2-6. [frq, 1 pt] Chain of Infection Component: 4.
+
+P2-7. [frq, 1 pt] Chain of Infection Component: 5.
+
+P2-8. [frq, 1 pt] Chain of Infection Component: 6.
+
+[STIMULUS] At an influenza immunization clinic at a retirement community, residents were asked in how many previous years they had received influenza vaccine. The answers from the first 19 residences are listed below. Organize these data into a frequency distribution. Find the mean, median, and mode of the data set.
+
+Data Set: 2, 0, 3, 1, 0, 1, 2, 2, 4, 8, 1, 3, 3, 12, 1, 6, 2, 5, and 1
+
+P2-9. [frq, 5 pt] Organize these data into a frequency distribution.
+
+P2-10. [numeric, 3 pt] Find the mean of the data set.
+
+P2-11. [numeric, 3 pt] Find the median of the data set.
+
+P2-12. [numeric, 3 pt] Find the mode of the data set.
+
+[STIMULUS] (Odds Ratio)
+    [IMAGE: ../images/2019_crystal_lake_c__p5_5e53f6-d788b4e4.webp]
+    [IMAGE: ../images/2019_crystal_lake_c__p5_78a9be-b0a98c18.webp]
+
+P2-13. [frq, 10 pt] Calculate the attack rate for each of these foods and express them in percentages to the tenth place.
+
+P2-14. [frq, 2 pt] Given the above results, which food had the greatest risk of transmitting illness?
+
+[STIMULUS] 
+    [IMAGE: ../images/2019_crystal_lake_c__p6_79627a-66d77b10.webp]
+    [IMAGE: ../images/2019_crystal_lake_c__p6_332856-f4b164ed.webp]
+
+P2-15. [frq, 2 pt] What is an index case? What date did the index case show up in, in this scenario?
+
+P2-16. [frq, 3 pt] Given the graph and the information above, what type of epi-curve is this outbreak? Explain.
+
+P2-17. [frq, 2 pt] Calculate the case-fatality rate and express it in a percentage to the tenths place.
+
+P2-18. [frq, 2 pt] What is droplet transmission?
+
+P2-19. [frq, 4 pt] What are 4 ways to prevent contracting measles?
+
+P2-20. [frq, 4 pt] Write a case definition for this outbreak.
+
+P2-21. [frq, 4 pt] What is the difference between quarantine and isolation? Which would you put the infected children into?
+
+P2-22. [frq, 3 pt] What is the epidemiological triad?
+
+P2-23. [frq, 2 pt] Why would this not always be considered a nosocomial infection?
+
+
+=== Section 3 ===
+
+[STIMULUS] On the timeline below, label where the following would occur:
+A. Onset of Symptoms
+B. Usual Time of Diagnosis
+C. Exposure
+D. Pathologic Changes
+
+Stage of Susceptibility
+Stage of Subclinical Disease
+Stage of Clinical Disease
+Stage of Recovery, Disability or Death
+    [IMAGE: ../images/2019_crystal_lake_c__p8_6185ef-200426cb.webp]
+    [IMAGE: ../images/2019_crystal_lake_c__p8_4d7091-65dba568.webp]
+
+P3-1. [frq, 4 pt] On the timeline below, label where the following would occur: A. Onset of Symptoms, B. Usual Time of Diagnosis, C. Exposure, D. Pathologic Changes.
+
+[STIMULUS] 
+    [IMAGE: ../images/2019_crystal_lake_c__p9_1e15ed-fcb799e0.webp]
+
+P3-2. [frq, 4 pt] Name and explain two possible risk factors for cholera associated with living in a refugee camp.
+
+[STIMULUS] In 2017, CDCs Division of Viral Hepatitis (DVH) designed a case-control study with 50 case patients and 70 controls to investigate the causes of a Hepatitis A outbreak in several U.S. states. Among the 50 Hepatitis A patients, 35 reported use of injection drugs and 20 reported use of non-injection drugs. Among the 70 controls, 11 reported use of injection drugs and 15 reported use of non-injection drugs.
+    [IMAGE: ../images/2019_crystal_lake_c__p10_04eb8e-76d9342d.webp]
+
+P3-3. [numeric, 1 pt] Calculate the odds ratio for the association between injection drug use and Hepatitis A.
+
+P3-4. [numeric, 1 pt] Calculate the odds ratio for the association between non-injection drug use and Hepatitis A
+
+P3-5. [frq, 4 pt] Is there a correlation between injection or non-injection drug use and Hepatitis A? Explain.

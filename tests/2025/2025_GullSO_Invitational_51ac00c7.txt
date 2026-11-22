@@ -1,0 +1,338 @@
+GullSO Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  75 questions, 132.0 pts
+Source: scio.ly test archive id 51ac00c7-d8e2-438c-8f62-9bf07376c993  |  original files: https://drive.google.com/drive/folders/1iSR_xc48OuykFRPaUi_kJ1oQWFLgrW3q
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+DIRECTIONS: Point values are given for every question. If not otherwise indicated, multiple-choice questions are worth 1 point.
+
+
+=== PART 1: Terminology! ===
+
+[STIMULUS] Give the term that matches each definition:
+
+1. [frq, 1 pt] A physical object that serves to transmit an infectious agent from person to person
+
+2. [frq, 1 pt] Concept that states if a high enough proportion of individuals in a population are resistant to an agent, then those few who are susceptible will be protected by the resistant majority
+
+3. [frq, 1 pt] Describing an infection that is acquired in a hospital
+
+4. [frq, 1 pt] A type of surveillance involving regular reporting of disease data by all institutions that see patients
+
+5. [frq, 1 pt] Selective dropout of some participants who systematically differ from those who remain in the study. Also referred to as subject mortality.
+
+6. [frq, 1 pt] A toxin or other foreign substance that induces an immune response in the body, especially the production of antibodies.
+
+7. [frq, 1 pt] The size of each class into which a range of a variable is divided, as represented by the divisions of a histogram or bar chart.
+
+8. [frq, 1 pt] The number of existing disease cases in a defined population during a specific time period.
+
+9. [mcq, 1 pt] A measure used to quantify the amount of variation of a set of data values
+    A) Active surveillance
+    B) Attrition bias
+    C) Antigen
+    D) Class Interval
+    E) Fomite
+    F) Herd immunity
+    G) Morbidity
+    H) Nosocomial
+    I) Prevalence
+    J) Prion
+    K) Propagated Outbreak
+    L) Protozoa
+    M) Standard Deviation
+    N) Standard Error
+    O) Vector
+    P) Virulency
+
+10. [mcq, 1 pt] An outbreak which results from transmission from one person to another.
+    A) Active surveillance
+    B) Attrition bias
+    C) Antigen
+    D) Class Interval
+    E) Fomite
+    F) Herd immunity
+    G) Morbidity
+    H) Nosocomial
+    I) Prevalence
+    J) Prion
+    K) Propagated Outbreak
+    L) Protozoa
+    M) Standard Deviation
+    N) Standard Error
+    O) Vector
+    P) Virulency
+
+11. [mcq, 1 pt] Refers to the degree of damage caused by a microbe to its host
+    A) Active surveillance
+    B) Attrition bias
+    C) Antigen
+    D) Class Interval
+    E) Fomite
+    F) Herd immunity
+    G) Morbidity
+    H) Nosocomial
+    I) Prevalence
+    J) Prion
+    K) Propagated Outbreak
+    L) Protozoa
+    M) Standard Deviation
+    N) Standard Error
+    O) Vector
+    P) Virulency
+
+12. [mcq, 1 pt] A misfolded protein that causes disease
+    A) Active surveillance
+    B) Attrition bias
+    C) Antigen
+    D) Class Interval
+    E) Fomite
+    F) Herd immunity
+    G) Morbidity
+    H) Nosocomial
+    I) Prevalence
+    J) Prion
+    K) Propagated Outbreak
+    L) Protozoa
+    M) Standard Deviation
+    N) Standard Error
+    O) Vector
+    P) Virulency
+
+
+=== PART 2: Epidemiologic History ===
+
+13. [frq, 2 pt] There was a cholera outbreak in 1854. Who discovered it? In what other field is he known to have been a trailblazer in?
+
+14. [frq, 1 pt] Which scientist developed the vaccine that eradicated polio?
+
+15. [frq, 1 pt] Before the birth of the Centers for Disease Control and Prevention (CDC), which private foundation spearheaded public health research in the United States?
+
+16. [frq, 1 pt] The Centers for Disease Control and Prevention used to have a different name. What was it?
+
+17. [frq, 2 pt] When the CDC was first established, what disease was it principally focused on? What is the mode of transmission for this disease?
+
+18. [frq, 2 pt] Where did the CDC initially establish their headquarters? Why did they choose this location?
+
+
+=== PART 3: Study Design and Statistics ===
+
+19. [frq, 3 pt] Name 3 challenges with studying chronic diseases.
+
+20. [frq, 2 pt] A researcher uses randomized controlled trials in their study. What kind of study is this, and how do these trials impact the data?
+
+21. [frq, 3 pt] Identify three potential flaws in an observational cohort study.
+
+22. [frq, 1 pt] What's the difference between a Type I and Type II error?
+
+23. [frq, 2 pt] Describe "Simpson's Paradox" in statistics.
+
+24. [frq, 2 pt] What is the meaning of a 95% confidence interval in an epidemiological study? Why is it important?
+
+25. [frq, 4 pt] There are two types of cohort studies. Name them and briefly describe their differences.
+
+26. [multi, 2 pt] After an epidemic begins to decline, what are reasons that could be the cause of a new peak? Select all that apply.
+    A) Failure to keep maintaining control measures
+    B) A new epidemic related to the first
+    C) Secondary transmission
+    D) The original hypothesis for how the infection was occuring was incorrect
+
+[STIMULUS] Cross-sectional studies can be useful in examining the relationship between a disease and other variables of interest in a singular point of time within the population. Answer the following questions about cross-sectional studies:
+
+27a. [frq, 4 pt] There are two main types of cross-sectional studies. What are they? Briefly describe them:
+
+27b. [frq, 3 pt] Name three potential strengths of a cross-sectional study.
+
+27c. [frq, 3 pt] Name three potential weaknesses of a cross-sectional study.
+
+28. [frq, 2 pt] When you are evaluating the effectiveness of a particular diagnostic test. Under what conditions would you prioritize the test's sensitivity/specificity?
+
+29. [frq, 2 pt] Explain how the prevalence of a disease would affect its positive predictive value? What about the negative predictive value?
+
+31. [frq, 1 pt] If you were taking into account the vaccine effectiveness, how would you modify the standard herd immunity threshold equation to calculate the herd immunity threshold?
+
+32. [frq, 2 pt] Explain the difference between a 90% confidence interval and a 90% confidence level
+
+[STIMULUS] Answer the following questions about the graph shown at right:
+    [IMAGE: ../images/2024_gullso_invitational_c__p4_7173b9-b10bbc43.webp]
+
+33a. [frq, 1 pt] What is the name for this type of graph?
+
+[STIMULUS] Label the x and y axes of this graph.
+    | Label | Answer |
+    | x x-axis | [[q:33b-x]] |
+    | y y-axis | [[q:33b-y]] |
+
+33b-x. [frq, 0.5 pt] Label x x-axis
+
+33b-y. [frq, 0.5 pt] Label y y-axis
+
+33c. [frq, 2 pt] If this graph were showing the results of a medical diagnostic, would you want the curve to follow the curved or straight line? Explain your answer.
+
+[STIMULUS] Picking the controls for a study is a pretty important ordeal. Answer the following questions about control selection.
+
+34a. [frq, 2 pt] Controls can sometimes be picked from a hospital. What are two disadvantages with picking controls from a hospital setting?
+
+34b. [frq, 2 pt] On the other hand, what are two disadvantages with selecting controls from the general population?
+
+
+=== PART 4: Case Study #1 ===
+
+[STIMULUS] Our first case study concerns Dr. John SillBun, a professor in epidemiology at the University of Quahog. He wants to test the hypothesis that having tuberculosis had a protective factor in preventing respiratory cancer. In his hospital, he analyzed 6,745 autopsies and identified that 965 of them had respiratory cancer (an unreasonably high number but let's continue with this). Next, John SillBun identified 965 non-cancer controls from the autopsies. From there, Dr. John SillBun identified the percentage of cancer cases from each group and determined if they also tested positive for tuberculosis. Approximately 1.45% of the cancer patients tested positive for TB, while 2.49% of the non-cancer autopsies tested positive for TB.
+
+**Answer the following questions below:**
+
+36. [numeric, 3 pt] To the nearest whole number, how many cases of TB should be expected out of all the autopsies analyzed by Dr. SillBun?
+
+37. [frq, 4 pt] Are you able to conclude that tuberculosis has a protective effect on cancer? Why or why not? If not, how would you attempt to make the study design better to make a valid conclusion.
+
+38. [frq, 1 pt] What type of study was being conducted?
+
+39. [frq, 1 pt] What specific problem or "con" of the type of study answered in the previous question does this study reflect?
+
+40. [frq, 1 pt] What real-life historical study does this case study represent?
+
+
+=== PART 5: Case Study #2 ===
+
+[STIMULUS] The cafeteria at Castro Valley High School has experienced an unfortunate outbreak of some mysterious food poisoning during finals week. Ill students exhibited symptoms of nausea, diarrhea, fever, and muscle aches. While all were initially healthy on Friday morning, the lunch was served at noon on Friday to all students (we can assume everyone ate lunch there) and those sick reported symptoms around the same time on the Friday of the following week. There are 1,872 total students that ate at the cafeteria. Below is a table of what they ate and whether they exhibited symptoms:
+    | Food | Healthy | Sick |
+    | Meatball Marinara | 23 | 41 |
+    | Pizza | 66 | 22 |
+    | Hot Dogs | 64 | 93 |
+    | Roasted Gull | 134 | 345 |
+    | Mystery Meat | 134 | 56 |
+    | Froot Loops | 123 | 42 |
+    | Bread and Water | 323 | 54 |
+    | Beef Taquitos | 44 | 58 |
+    | Chicken Tenders | 213 | 37 |
+
+41. [frq, 1 pt] What type of study was being conducted? Be specific
+
+42. [frq, 2 pt] Identify the agent and disease.
+
+43. [frq, 2 pt] There is another organism with similar symptoms and modes of transmission. What is it, and why can't it be considered as a possibility?
+
+47. [frq, 2 pt] It appears that among the infected, those who consumed comparatively more servings of the disease-causing food experienced more intense symptoms. What specific Bradford Hill criteria for causation does this resemble? Give an example of a pathogen or type of pathogen that would not necessarily have to follow this phenomena.
+
+48. [frq, 4 pt] Based on the information above and your answers to previous questions, write a brief case definition for this case study.
+
+
+=== PART 6: DAG Study Design ===
+
+[STIMULUS] Directed Acyclic Graphs are used by epidemiologists to map out factors between exposure and disease (denoted by E and D). You know what that means: more vocab!
+    [IMAGE: ../images/2024_gullso_invitational_c__p6_c10da9e-2500a03a.webp]
+
+49a. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: C
+
+49b. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: G
+
+49c. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: M
+
+49d. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: S
+
+49e. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: Z
+
+49f. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: I
+
+49g. [frq, 1 pt] Identify and explain the impact of each given letter in this example in terms of E and D: J
+
+[STIMULUS] Consider the correct DAG for the following situation, using letters from the previous question.
+
+**a.** Only one of a restaurant's many food suppliers gets contaminated, leading to a mixed pile of pathogenic and non-pathogenic ingredients. The disease will only spread to the customer if they order some of the lesser-cooked dishes on the menu. Additionally, some of the waiters already became hosts from elsewhere.
+
+50aii. [frq, 2 pt] Identify all present non-causal paths
+
+50aiii. [frq, 2 pt] Explain your answer to the previous question
+
+51. [frq, 12 pt] Make up an epidemiological situation for the DAG shown at right to be true. Outlining the situation with one sentence per letter describing the factor's impact on others with respect to your situation (no variables; do not say "E causes D," write out your own exposure circumstances and disease outcomes).
+    [IMAGE: ../images/2024_gullso_invitational_c__p6_2aa0e8-699fa4bd.webp]
+
+
+=== Part 7: SIR or SEIR? ===
+
+[STIMULUS] In epidemic modeling, the SIR model describes a disease where the population can be divided into three subgroups - Susceptible (S), Infectious (I), and Recovered (R). There are two assumptions underlying the SIR model: infected individuals can transmit the disease, and the number of people in the population is constant.
+    [IMAGE: ../images/2024_gullso_invitational_c__p7_451ed2-eeeaac56.webp]
+
+52. [frq, 1 pt] Based on your understanding of epidemiology and the information provided above, why is it assumed that the total population remains constant in the SIR model?
+
+53. [frq, 2 pt] How might this affect the model's real world applicability?
+
+
+=== Part 8: Tool time! ===
+
+[STIMULUS] Match the following tools with their characteristics:
+
+W. Allows determination of serotype, virulence, and antibiotic resistance
+X. Not practical because specific protocol is needed but few standardized protocols are available
+Y. Separates DNA fragments using changes in the electric field
+Z. Examines single nucleotide variations to deduce transmission chains
+
+54. [mcq, 1 pt] PFGE
+    A) Allows determination of serotype, virulence, and antibiotic resistance
+    B) Not practical because specific protocol is needed but few standardized protocols are available
+    C) Separates DNA fragments using changes in the electric field
+    D) Examines single nucleotide variations to deduce transmission chains
+
+55. [mcq, 1 pt] MLVA
+    A) Allows determination of serotype, virulence, and antibiotic resistance
+    B) Not practical because specific protocol is needed but few standardized protocols are available
+    C) Separates DNA fragments using changes in the electric field
+    D) Examines single nucleotide variations to deduce transmission chains
+
+56. [mcq, 1 pt] WGS
+    A) Allows determination of serotype, virulence, and antibiotic resistance
+    B) Not practical because specific protocol is needed but few standardized protocols are available
+    C) Separates DNA fragments using changes in the electric field
+    D) Examines single nucleotide variations to deduce transmission chains
+
+57. [mcq, 1 pt] SNP Mapping
+    A) Allows determination of serotype, virulence, and antibiotic resistance
+    B) Not practical because specific protocol is needed but few standardized protocols are available
+    C) Separates DNA fragments using changes in the electric field
+    D) Examines single nucleotide variations to deduce transmission chains
+
+58. [frq, 3 pt] Which genome analyzing process is the preferred method for outbreak investigations and why?
+
+59. [frq, 2 pt] Explain how SNP mapping helps in understanding outbreaks.
+
+60. [mcq, 1 pt] What is the main purpose of PulseNet?
+    A) To produce genetically modified organisms
+    B) To compare molecular subtyping data for investigating outbreak
+    C) To analyze environmental DNA for climate studie
+    D) To sequence the entire genome of humans
+
+61. [mcq, 1 pt] Which of the following steps is unique to PFGE compared to traditional agarose gel electrophoresis?
+    A) Cutting DNA with restriction enzymes
+    B) Separating DNA fragments by size
+    C) Changing the direction of the electric field during electrophoresis
+    D) Staining the gel to visualize DNA under UV light
+
+62. [mcq, 1 pt] WHat is a significant limitation of MLVA?
+    A) It requires whole genome sequencing
+    B) It is time- and labor-intensive
+    C) It needs trained technicians and specific protocols
+    D) It cannot differentiate between bacterial strains
+
+63. [mcq, 1 pt] Which molecular tool provides the most detailed and comprehensive data on bacterial stains?
+    A) PFGE
+    B) MLVA
+    C) WGS
+    D) SNP mapping
+
+64. [mcq, 1 pt] What does MRCA stand for, and why is it important in SNP mapping?
+    A) Multifunctional Reliable Computer Algorithm; it enhances sequencing accuracy
+    B) Most Recent Common Ancestor; it serves as a reference for genetic changes
+    C) Molecular Research Computational Analysis; it accelerates outbreak detection
+    D) Multiple Repeat Coding Allele; it identifies bacterial virulence
+
+[STIMULUS] Fill in steps 2, 3, and 4 below.
+    [IMAGE: ../images/2024_gullso_invitational_c__p8_f5f65d-9eecbd1a.webp]
+    | Label | Answer |
+    | 2 | [[q:65-2]] |
+    | 3 | [[q:65-3]] |
+    | 4 | [[q:65-4]] |
+
+65-2. [frq, 2 pt] Label 2
+
+65-3. [frq, 2 pt] Label 3
+
+65-4. [frq, 2 pt] Label 4

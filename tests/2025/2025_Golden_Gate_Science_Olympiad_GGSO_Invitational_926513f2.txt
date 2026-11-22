@@ -1,0 +1,250 @@
+Golden Gate Science Olympiad (GGSO) Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  63 questions, 122.0 pts
+Source: scio.ly test archive id 926513f2-8553-4b7b-bc25-cfdb5fa2ce62  |  original files: https://drive.google.com/drive/folders/1ooYYbQLM1Y8DDrkVtmTl-grtZbg22A4P
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+
+=== Case Study 1: Citrus Crisis ===
+
+[STIMULUS] Eric and Aidan, citrus aficionados, drop out of Berkeley to start their own orange farm. But soon they notice a problem with some of their plants…. Many of their normally orange fruits start appearing yellow, before rapidly turning green. Some of their plants with green fruit die, and Eric and Aidan begin to grow concerned for the health of their plants and the viability of their crop. Eric uses his chemistry background to hypothesize this fruit discoloration and subsequent plant death is a symptom of some nutrient deficiency. To test this hypothesis, he treats 3 patches of 160 plants with different nutrients (along with a 4th control patch with no nutrients added) to examine whether the addition of each prevents development of the fruit discoloration.
+
+P1-1. [mcq, 1 pt] Is this an example of the clinical or public health to fighting disease?
+    A) Clinical approach
+    B) Public health approach
+
+[STIMULUS] Just as we can calculate the efficacy of a vaccine in a clinical trial, we can calculate the efficacy of Eric's nutrient treatments for his orange crop. He and Aidan collect the following data on their plants:
+
+| | Diseased | Not diseased |
+|---|---|---|
+| Nitrogen treated | 85 | 75 |
+| Potassium treated | 61 | 99 |
+| Zinc treated | 96 | 64 |
+| Not treated | 69 | 91 |
+    | Label | Answer |
+    | **P1-2.** For each of the nutrient treatments, calculate the efficacy. Round to two decimal places. |  |
+    | Nitrogen | [[q:P1-2-a]] |
+    | Potassium | [[q:P1-2-b]] |
+    | Zinc treated | [[q:P1-2-c]] |
+
+P1-2-a. [frq, 2 pt] Nitrogen
+
+P1-2-b. [frq, 2 pt] Potassium
+
+P1-2-c. [frq, 2 pt] Zinc treated
+
+P1-3. [frq, 3 pt] You should have gotten negative numbers for nitrogen and zinc. Why is this weird? What does this tell you about whether Eric and Aidan should pursue these treatments further?
+
+P1-4. [frq, 1 pt] What is the difference between efficacy and effectiveness for a vaccine/treatment?
+
+P1-5. [frq, 3 pt] Eric and Aidan's orange crops (including those in the study and those not in the study) are all grown on the same large patch of land. What bias might this introduce? How so?
+
+[STIMULUS] You should have found quite low (and sometimes negative) efficacy numbers for all the nutrient treatments; these data suggest to Aidan and Eric that there is a different culprit for their dying plants. After doing some further research online, Eric finds that their fruits exhibit several common symptoms of citrus greening disease, also known as huánglóngbìng (黃龍病), or more commonly shortened to HLB, a bacterial infection of citrus fruit.
+
+P1-6. [frq, 2 pt] PulseNet is a system of laboratory testing in order to identify new outbreaks of bacterial diseases in the US by their specific serotype. Name 2 bacterial pathogens PulseNet usually looks at.
+
+P1-7. [frq, 2 pt] Wulff, et al. successfully sequenced the complete genome of Liberibacter americanus in 2014, enabling whole genome sequencing (WGS) as a viable technique for identifying citrus greening outbreaks, just as it is in PulseNet. That being said, why might the level of precision and accuracy associated with WGS not be as useful for HLB outbreaks as for the diseases tested for with PulseNet?
+
+P1-8. [frq, 1 pt] Laboratory testing confirms that Aidan and Eric's plants do indeed have citrus greening disease. One logical control/prevention measure for a bacterial infection like this disease would be antibiotic treatment. However, there are a number of reasons why antibiotic treatments for plants are problematic. Name one of these reasons.
+
+P1-9. [frq, 2 pt] Other than antibiotics, what is one potential way our favorite citrus farmers could control the spread of HLB across their farm? Recall, only a fairly small percentage of their trees are yet infected.
+
+P1-10. [frq, 2 pt] Imagine you are part of the California branch of the CDC. Name a measure you would implement to control the spread of HLB across the state.
+
+P1-12. [frq, 1 pt] You also decide to air a PSA in citrus farming regions of California to warn farmers about the symptoms of citrus greening, and how to distinguish it from common nutrient deficiencies. What level of prevention would you characterize this as?
+
+P1-13. [frq, 2 pt] It turns out the Liberibacter bacteria which cause HLB can often be transmitted by Diaphorina citri (a.k.a the Asian citrus psyllid or ACP), a small insect. Based on this information, propose a control measure Eric and Aidan could use for their crops. This must be different from the control/prevention measure you proposed earlier.
+
+P1-14. [frq, 1 pt] What word can we use to describe ACP's role in transmitting HLB?
+
+P1-15. [frq, 2 pt] In 2012, the New York Times reported on HLB in an article with the headline "Threat to California Citrus May Finish Backyard Trees." Based on what you know about HLB transmission, why might backyard citrus trees be at greater risk than commercial farms?
+
+[STIMULUS] Look at the following map of HLB cases worldwide. The colors correspond to different strains of the bacteria.
+    [IMAGE: ../images/2025_golden_gate_science_olympiad_ggso_invitational_c__p7_rcd61771-7040847f.webp]
+
+P1-16. [frq, 2 pt] Comment on the geographic distribution of HLB. Where did it likely originate?
+
+P1-17. [frq, 1 pt] What does this tell us about the climates Diaphorina citri prefers?
+
+
+=== Case Study 2: West Nile Virus ===
+
+[STIMULUS] Lately, Audrey has been noticing that many of her friends, various students at Stanford and UC Berkeley, have been contracting West Nile Virus. Due to Audrey's interest in epidemiology, she wishes to learn more about the potential outbreak from a public health perspective. She turns to ChatGPT to assist her in her studies.
+
+Audrey gave details about the situation to ChatGPT. Here is the report it created:
+
+"An outbreak of West Nile Virus (WNV) has been identified at Stanford University and the University of California, Berkeley, raising concerns within both academic and public health communities. As of December 2024, a total of 23 confirmed cases have been reported across both campuses, with 14 cases at Stanford and 9 cases at UC Berkeley. Among these, three individuals have developed severe neuroinvasive disease, necessitating hospitalization. No fatalities have been reported to date, though two patients remain in critical condition.
+
+The outbreak was first detected in early November when a cluster of febrile illnesses was identified among Stanford students living in on-campus housing near wetlands. Subsequent testing confirmed WNV as the causative agent. By mid-November, similar symptoms began appearing at UC Berkeley, with cases primarily clustered among students residing near the Strawberry Creek area. Environmental testing has confirmed the presence of WNV in local mosquito populations, with high infection rates in Culex species, the primary vectors of the virus."
+
+Both universities have implemented control measures in collaboration with local health departments. These include targeted mosquito control efforts, such as larvicide applications and increased surveillance of mosquito populations. Educational campaigns are underway to inform students and staff about personal protective measures, such as using insect repellent, wearing long-sleeved clothing, and minimizing outdoor activities during peak mosquito activity at dawn and dusk.
+
+Audrey decides to help in these educational campaigns by making a pamphlet defining certain terms for the public. Help her define the following terms used in the report.
+
+P2-1. [frq, 1 pt] Confirmed Case
+
+P2-2. [frq, 1 pt] Agent
+
+P2-3. [frq, 1 pt] Vector
+
+P2-4. [frq, 1 pt] Surveillance
+
+P2-5. [frq, 2 pt] Is this best classified as a cluster, outbreak, epidemic, or pandemic? Give a brief justification.
+
+P2-6. [frq, 6 pt] Which of the 13 steps of outbreak investigation have been completed by the universities so far?
+
+[STIMULUS] Audrey generates the following questions and decides to interview students. What kinds of bias could the questions introduce? All questions could introduce multiple, one, or zero types of bias.
+
+P2-7. [frq, 3 pt] Do you always use insect repellent to protect yourself from mosquito bites, as recommended for responsible campus living?
+
+P2-8. [frq, 3 pt] What actions have you taken to prevent mosquito bites?
+
+P2-9. [frq, 3 pt] How many times have you gotten bitten by mosquitoes in the past month?
+
+[STIMULUS] Audrey asks ChatGPT to analyze the outbreak. Evaluate the following statements that it gives her. Some statements could be correct; if not, comment on any incorrect assertions.
+
+P2-10. [frq, 3 pt] The outbreak ended on November 30 because no cases were reported after that date.
+
+[STIMULUS] Audrey generates the following prevention methods for West Nile Virus but needs help categorizing them. What levels of prevention do the following recommendations fit into?
+
+P2-13. [frq, 2 pt] Conducting regular screening for WNV in blood donations to prevent transmission through transfusions.
+
+P2-14. [frq, 2 pt] Climate change mitigation efforts to reduce conditions that favor mosquito proliferation.
+
+P2-15. [frq, 2 pt] Hospitalization for patients with severe neurological complications, including intravenous fluids, respiratory support, and rehabilitation.
+
+P2-16. [frq, 2 pt] Wearing long-sleeved shirts and long pants, particularly during dusk and dawn when mosquitoes are most active.
+
+[STIMULUS] Audrey searches for more information on West Nile Virus and finds this map.
+    [IMAGE: ../images/2025_golden_gate_science_olympiad_ggso_invitational_c__p16_rc22c67d-856d1bb5.webp]
+
+P2-17. [frq, 1 pt] What type of map is it?
+
+P2-18. [frq, 2 pt] What is one advantage of using this type of map?
+
+P2-19. [frq, 2 pt] What is one disadvantage of using this type of map?
+
+[STIMULUS] Researchers have proposed controlling ACP populations through RNAi. To answer the following questions, first read the following excerpts from Taning, et al. (2016). You aren't expected to have any prior knowledge of RNAi.
+
+"RNAi, the process in which double-stranded RNA (dsRNA) exerts a silencing effect on complementary mRNA, has become a useful research tool in entomology for functional genomics. Characteristics such as easy applications, highly specific targeting, and lack of environmental persistence, make RNAi approaches desirable for crop protection against many insect pests. The RNAi event comprises two major steps: first, the dsRNA should be taken up by cells and then subsequently processed by the cellular core RNAi machinery, thus triggering the silencing of the target gene. These two steps are regulated by many key genes which play central roles in determining the efficacy of RNAi and can result in significant differences in RNAi efficiency between different insect species."
+
+"Five ACP-specific dsRNAs were designed to target genes associated with different biological processes, namely: (1) Energy mobilization: Arginine Kinase (AK…) (2) Cell metabolism: pterin-4-alpha-carbinolamine dehydratase (PCDB1…); (3) Antioxidant defense: Superoxide Dismutase (SOD…); (4) Nervous system: Tomosyn, (TOM…); (5) Reproduction: Vitellogenin (VIT…)."
+
+"The dsRNAs were evaluated regarding efficacy to induce RNAi in ACP using the iPS feeding bioassay. ACP were given feeding access for 15 days on citrus flush treated separately with each of the five designed dsRNAs, with a non-ACP dsRNA (dsGFP), and with no dsRNA (water control). ACP overall mortality scored at the end of the 15 days period varied depending on dsRNA ingested (Fig. 4A). Statistically significant mortality was induced only in insects which fed on flushes treated with dsAK (52%) and dsSOD (46%). Non-significant, lower mortality was observed in insects which fed on flushes treated with dsPCDB1 (8%), dsTOM (15%) and dsVIT (16%), which were not statistically different from the control dsGFP (4%) and water (5%) (Fig. 4A). In general, insect mortality started at 6 dpf, increasing overtime reaching a peak at 13 dpf."
+
+P2-20. [frq, 2 pt] Given that dsDNA is easily degraded in the environment, and especially in non-neutral pH conditions, why might off-target RNAi (such as in humans) not be a large concern for scientists?
+
+P2-21. [frq, 1 pt] Given the ethical concerns associated with testing on humans, how might the scientists test off target effects instead?
+
+P2-22. [frq, 2 pt] What type of study should the scientists conduct here?
+
+P2-23. [frq, 3 pt] In the study, scientists found "statistically significant mortality" in dsAK and dsSOD treated ACP. What does this mean? Explain both in words, and relate this to the significance cutoff the scientists used (ɑ = 0.05).
+
+P2-24. [frq, 2 pt] Another possible solution for HLB in oranges would be to genetically modify plants to confer resistance to the bacteria. Given the hesitations many people have with GMOs, name one advantage this RNAi treatment has.
+
+
+=== Case Study 3: Cholera Outbreak in Haiti ===
+
+[STIMULUS] It was a sweltering October morning in Port-au-Prince, Haiti, and public health officers Angie and Carolin scanned the crowded streets of the Carrefour-Feuilles neighborhood. Public health officers Angie and Carolin had just arrived in the Carrefour-Feuilles neighborhood after hearing reports of two fatal cases of cholera. As they walked through the narrow streets, they noticed puddles of stagnant water collecting in alleyways and children playing barefoot nearby.
+
+Angie: “Two deaths already and over 100 suspected cases in this area alone. We need to act fast.”
+
+Carolin: “We’ll start with an outbreak investigation. First step–identify the problem.”
+
+P3-1. [mcq, 2 pt] What should Angie and Carolin do first as part of their investigation?
+    A) Launch a vaccination campaign
+    B) Interview local community members and collect information
+    C) Administer antibiotics to anyone with symptoms
+    D) Find a public health agency to screen ill persons
+
+P3-2. [frq, 2 pt] What pathogen is causing the outbreak of watery diarrhea in Haiti?
+
+P3-3. [frq, 2 pt] What two symptoms are most characteristic of cholera?
+
+[STIMULUS] The Haitian Ministry of Public Health and Population (MSPP) found that there were 280 institutional deaths and 177 community deaths among 20,262 suspected cases. MSPP had a daily alert-based reporting system through which surveillance officers obtained daily counts of cases and deaths from reporting facilities.
+
+P3-4. [frq, 2 pt] What type of surveillance is this?
+
+P3-5. [frq, 2 pt] What is one specific limitation or disadvantage of this type of surveillance?
+
+P3-6. [frq, 3 pt] Calculate the case fatality ratio (CFR). Round to two decimal places.
+
+P3-7. [mcq, 1 pt] Which age group in Haiti is at the highest risk of severe illness from cholera?
+    A) Children under 5 years old
+    B) Adolescents aged 10-14 years
+    C) Adults aged 20-29 years
+    D) Adults aged 30-39 years
+
+[STIMULUS] Angie and Carolin notice that many residents in Port-au-Prince are drinking water from community wells. Of the 50 individuals that were ill, 20 did not drink from the well. While 40 people drank from the well and did not get ill, and 80 others who were not ill reported not drinking from the well.
+
+P3-8. [frq, 1 pt] Which type of epidemiologic study should they use if they want to compare people who became ill to those who did not?
+
+P3-9. [frq, 3 pt] Calculate the appropriate measure of association for exposure to water from that well (based on the type of study you selected in the previous question). Round to 2 decimal places.
+
+P3-10. [frq, 2 pt] What does the value calculated in the previous question mean in the context of this investigation?
+
+[STIMULUS] Carolin and Angie generate an epidemic curve to visualize how cases progressed over time.
+
+
+
+P3-11. [frq, 1 pt] Which type of outbreak does this epidemic curve suggest?
+    [IMAGE: ../images/2025_golden_gate_science_olympiad_ggso_invitational_c__p19_rcd28b49-b136ac4c.webp]
+
+P3-13. [frq, 3 pt] The team launches an oral cholera vaccine (OCV) campaign. If R₀ for cholera is 2.0, what proportion of the population needs to be vaccinated to achieve herd immunity?
+
+P3-14. [mcq, 1 pt] Which intervention would best reduce the spread of cholera in this community?
+    A) Vaccinate all children under 10
+    B) Distribute mosquito nets to all homes
+    C) Increase the number of community wells available
+    D) Provide clean water and promote handwashing with soap
+
+P3-15. [mcq, 1 pt] Carolin suggests distributing oral rehydration salts (ORS) to affected communities. Which of the following levels best describes this type of prevention?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+[STIMULUS] Define primordial and primary prevention.
+    | Label | Answer |
+    | primordial Primordial prevention | [[q:P3-16-a]] |
+    | primary Primary prevention | [[q:P3-16-b]] |
+
+P3-16-a. [frq, 2 pt] Primordial prevention
+
+P3-16-b. [frq, 2 pt] Primary prevention
+
+P3-17. [frq, 2 pt] If the goal is to prevent future cholera outbreaks, which level of prevention is best associated with implementing policies to improve water infrastructure?
+
+P3-18. [frq, 2 pt] With better water infrastructure being introduced, the CFR decreases by 60%. However, if the new CFR was calculated based on reported mortality data for patients at clinics, what type of bias would this percent change be a result of?
+
+P3-19. [mcq, 1 pt] The Ministry of Public Health and Population (MSPP) defines a suspected cholera case as “any person with acute, watery diarrhea, with or without vomiting or dehydration.” This definition corresponds to which part of the epidemiologic triad?
+    A) Agent
+    B) Vector
+    C) Host
+    D) Portal of exit
+
+[STIMULUS] As Angie and Carolin walked through Cité Soleil, a dense and impoverished district in Port-au-Prince, they were struck by the scene around them. Groups of children played next to open drainage ditches, and women washed produce with water drawn from public pumps. The outbreak had spread beyond Carrefour-Feuilles, and now, Cité Soleil was reporting hundreds of new cases daily.
+
+Carolin: “This area has the highest population density in the city. If we don't act fast, it could get much worse.”
+
+Angie: “And with 79% of cases requiring hospitalization, we’re running out of hospital beds.”
+
+They set up a temporary field unit in the heart of Cité Soleil and got to work on their next challenge–containing the outbreak before it spiraled out of control.
+
+Angie and Carolin receive a line list of suspected cholera cases from Cité Soleil.
+
+| Date | Total Population | New Cases |
+| --- | --- | --- |
+| January 1, 2023 | 10,000 | 50 |
+| January 2, 2023 | 10,000 | 75 |
+| January 3, 2023 | 10,000 | 80 |
+
+P3-20. [mcq, 2 pt] Based on the data above, what is the most appropriate measure of disease frequency for this outbreak?
+    A) Incidence rate
+    B) Attack rate
+    C) Prevalence
+    D) Mortality rate
+
+P3-21. [frq, 3 pt] Calculate the cumulative attack rate for Cité Soleil from January 2 to January 3. Round to two decimal places.
+
+P3-22. [frq, 1 pt] Angie and Carolin observe that cases are spreading to neighboring districts, including Bas-Delmas and Croix-des-Bouquets. If they want to identify which district has the highest risk, what measure of disease occurrence should they calculate?
+
+P3-23. [frq, 2 pt] Propose a reasonable control measure that represents primordial prevention in this cholera outbreak?

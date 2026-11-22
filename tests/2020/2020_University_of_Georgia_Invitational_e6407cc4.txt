@@ -1,0 +1,187 @@
+University of Georgia Invitational — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  34 questions, 71.0 pts
+Source: scio.ly test archive id e6407cc4-4563-4519-9326-73485d8a7353  |  original files: https://drive.google.com/drive/folders/1pfFyQhlfguTqEJjpXov9pIxvvPKcHZpd
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+
+=== DISEASE DETECTIVES ===
+
+1. [frq, 4 pt] What are the characteristic(s) of the health of a population?
+
+2. [frq, 1 pt] As a young lad, Stephan always wanted to become a great research scientist. Since the age of 5, he kept a journal where he documented all the events that happened in his life, always ensuring that he dated and timed the event. Stephan one day gets hit really hard in the head with a tennis ball and decides that his long loving passion of perfecting the best chicken curry recipe is no longer his dream, and decides to research Janda instead. He started looking at all the cases of Janda around the world, ensuring that like his young self, documented the location of the incident, the span of the incident, the time of the incident, and which population was involved. What type of epidemiology did Stephan use to create a hypothesis of the epidemiology of Janda?
+
+4. [order, 5 pt] List the following Epidemiological events in the correct order in which they occurred!
+    a. Louis Pasteur recognized and developed the vaccine for anthrax
+    b. Joseph Goldberger published a study showing the dietary origin of pellagra
+    c. Edward Sydenstricker assisted with prevention of adverse health outcomes through implementing policies and regulations
+    d. James Lind designed the first experiment to use a concurrently treated control group while studying scurvy
+    e. John Snow formed and tested hypothesis on the origin of cholera.
+    A) Louis Pasteur recognized and developed the vaccine for anthrax
+    B) Joseph Goldberger published a study showing the dietary origin of pellagra
+    C) Edward Sydenstricker assisted with prevention of adverse health outcomes through implementing policies and regulations
+    D) James Lind designed the first experiment to use a concurrently treated control group while studying scurvy
+    E) John Snow formed and tested hypothesis on the origin of cholera.
+
+[STIMULUS] Stephan really has terrible luck. After attempting to research his newfound love for Zika, he accidentally contracted this new disease known as Ignoria. It has been postulated that Ignoria only occurs within sweaty populations near the equator and is caused through a prion. Similar to mad cow disease, Stephan develops neurofibrillary tangles due to the overactive gamma secretase present in his system, forming AB₄₂ readily. It is said that Ignoria exits the host through bodily secretions such as sweat and the prion grows readily within the drinking water present. Stephan is very scared to visit his friend (singular) and family because he might spread Ignoria, so he decides to live the rest of his life in isolation.
+
+5. [frq, 1 pt] Which portion of the infection process is missing in this description?
+
+6. [frq, 1 pt] When describing that “the prion grows readily in the drinking water present,” which part of the chain of infection is this describing?
+
+7. [frq, 6 pt] List the correct order of the chain of infection
+
+8. [frq, 2 pt] When trying to understand the Disease Reporting Pathway, there are two (if you list 3 I will find you), locations to which research labs can report to. List them (again, ONLY 2)
+
+9. [frq, 4 pt] Name the four types of surveillance
+
+10. [frq, 1 pt] If the CDC accesses a network database that is used to collect data in regards to invasive bacterial diseases such as pneumococcus that can be used to signal trends, identify outbreaks, and to monitor the burden of the disease, what type of surveillance is this?
+
+[STIMULUS] Lets play a game of matching! Match each term with its correct definition (Each correct = 1 point)
+
+a. Disease present among a population at all times
+b. Disease that does not occur regularly
+c. The comparison of parts to a whole
+d. One organism benefits, the other is unharmed
+e. Rate of occurrence of new cases of a disease
+f. One organism benefits, the other benefits
+g. Medical condition affecting quality of life
+h. Factor that contributes to creation of a trait
+i. agents begins the invasion of the host
+j. Probability the individual will be affected
+
+13. [mcq, 1 pt] Risk
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+14. [mcq, 1 pt] Sporadic
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+15. [mcq, 1 pt] Mutualism
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+16. [mcq, 1 pt] Infection
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+17. [mcq, 1 pt] Incidence
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+18. [mcq, 1 pt] Determinant
+    A) Disease present among a population at all times
+    B) Disease that does not occur regularly
+    C) The comparison of parts to a whole
+    D) One organism benefits, the other is unharmed
+    E) Rate of occurrence of new cases of a disease
+    F) One organism benefits, the other benefits
+    G) Medical condition affecting quality of life
+    H) Factor that contributes to creation of a trait
+    I) agents begins the invasion of the host
+    J) Probability the individual will be affected
+
+19. [frq, 1 pt] Which stage of the Natural History of Disease is represented by different pathological changes?
+
+20. [frq, 2 pt] What two stages are differentiated by the onset of symptoms?
+
+21. [frq, 1 pt] For chronic diseases that extend from the exposure/accumulation of factors all the way to the onset of symptoms, what is term used to describe this time range?
+
+22. [frq, 1 pt] If I were to describe an infectious disease rather than the chronic disease stated in #21, what is the term used to describe this range?
+
+24. [frq, 1 pt] I am an epidemiological study that contains both cohort and case control studies. I am usually done by a researcher who watches subjects without intervention of who does and does not get exposed to an agent. What am I?
+
+25. [frq, 3 pt] You have discovered a new treatment for tuberculosis and want to see if it is effective or not which study would you expect to use observational or experimental? Why would you use one and not the other? Be as specific as possible.
+
+26. [frq, 10 pt] You are in charge of an outbreak investigation. Name the steps (in chronological order) you would use to perform this investigation. All steps must be used.
+    a. Communicate findings
+    b. Establish existence of an outbreak.
+    c. Construct case definition
+    d. Identify investigation team and resources.
+    e. Maintain surveillance
+    f. Implement control measures
+    g. Find cases systematically and develop line listing
+    h. Verify the diagnosis
+    i. Perform descriptive epidemiology
+    j. Evaluate hypotheses
+
+27. [frq, 4 pt] What are the four components of establishing a case definition.
+
+30. [frq, 2 pt] Stephan has been slacking off recently. He is trying to see whether or not his illness, Soupmania, is caused by a waterborne disease. He has provided numerous samples of water to his friends and family, and they have all gotten sick. He even drank some himself and immediately got the same symptoms of Soupmania, sweaty palms and smelly feet. However, Stephan has been unable to adequately to perform laboratory measurements and research on these water samples. Which of the following identification would be best to use for this case and provide reasoning as to why!
+    
+    Confirmed / Probable / Possible
+
+31. [frq, 2 pt] You, as a public health official, have been given a report on Dorford City. Several children from the Eastside of Dorford have been complaining of fatigue, nausea, greasy stool, headache and excessive gas. A week later parents of children from the East side of Dorford complained about the same symptoms. You find that approximately 350 kids from East Durford were contaminated all ranging from ages 0 months-17 years. Approximately 100 adults from East Durford was also contaminated between ages 18-90. It is noted that all of the East side of the city got exposed except the citizens that were out of town. There are 2,000 people currently residing in Dorford and only 10 were out of town throughout the outbreak. With investigation you find that giardia is the culprit. After taking samples of water from schools and people’s homes you find giardia in almost every sample. The source must have been the water system of the Eastside as the other parts of Dorford were not contaminated (each the North, South, East and West side have their own water system). Generate a hypothesis using an agent, host, and environmental triad.
+
+33. [frq, 2 pt] Name two ways that case finding may be done?
+
+[STIMULUS] Answer the following questions based on the following epidemic curve
+    [IMAGE: ../images/2019_university_of_georgia_invitational__p5_8f0cf5-24960f41.webp]
+
+34. [frq, 2 pt] What is the specific name for this epidemic curve? Provide rationale
+
+35. [frq, 1 pt] At approximately what day would you consider the “index case” for this illness?
+
+[STIMULUS] What are the labels for the X and Y axes of the epidemic curve above?
+    | Label | Answer |
+    | X X axis | [[q:36-X]] |
+    | Y Y axis | [[q:36-Y]] |
+
+36-X. [frq, 1 pt] Label X X axis
+
+36-Y. [frq, 1 pt] Label Y Y axis
+
+[STIMULUS] Evaluate the data by calculating and comparing simple rates and proportions as attack rate, relative risk, odds ratio and explain meaning
+*Assume that the citizens out of town only 1 had Giardia.
+
+| Disease / Exposure | + | - |
+|---|---|---|
+| + | 450 | 1550 |
+| - | 1 | 10 |
+
+38. [frq, 1 pt] Calculate the relative risk of those exposed using the chart above.
+
+39. [frq, 1 pt] Calculate the odd ratio of those exposed.
+
+42. [frq, 2 pt] If several citizens of Dorford were asked by doctors about their washing hands habit, what specific type of bias has occurred? Justify your answer
+
+44. [frq, 2 pt] What are some preventative measures for Giardia outbreak? Must list at least 2

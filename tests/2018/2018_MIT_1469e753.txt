@@ -1,0 +1,177 @@
+MIT — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  54 questions, 144.0 pts
+Source: scio.ly test archive id 1469e753-d9bb-4660-b0e3-3b3de00171c4  |  original files: https://drive.google.com/drive/folders/1-G12vI8rpsiqtc23jfzH67c_XtS9LGHL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: One 8.5” x 11” sheet of notes allowed. Two non-programmable scientific calculators allowed. Show all work as partial credit may be given. This test contains two independent case studies – you may take apart the test but please staple it back together. Tiebreakers: B3, A28, B6, B7, A25.
+
+
+=== Part A: A Salmonella Outbreak in Southern California ===
+
+[STIMULUS] A Salmonella serotype Enteritidis epidemic emerged in the 1980s, when increasing numbers of infections were detected in the Northeastern and Mid-Atlantic regions of the United States. In the early 1990s, while SE rates in the Northeast began to decline, the SE epidemic expanded to the Pacific region. Nationwide, the number of SE isolates reported to CDC peaked at 3.8 per 100,000 population in 1995. Although rates of culture-confirmed SE infection reported to CDC declined to 1.9 by 1999, rates did not decline further through 2001, and outbreaks continue to occur.
+
+In March of 2002, outbreaks of gastroenteritis occurred among schools throughout Southern California. The California Institute of Technology became worried that these outbreaks would jeopardize the Southern California State Science Olympiad Tournament. Representatives from Caltech travelled to Fullerton, CA where one of the best teams of Disease Detectives resided. In this exercise, you will follow the steps of these legendary Disease Detectives as they investigate this Salmonella outbreak.
+
+In the cases of Salmonella studied by Caltech, patients were characterized by abdominal pains, fever, diarrhea, and chills. If left untreated – especially in younger children – Salmonella could easily be fatal. The key to minimizing damages caused by Salmonella was getting proper expedient treatment and care.
+
+P1-1. [frq, 3 pt] List the 10 Steps of an Outbreak Investigation.
+
+P1-2. [frq, 2 pt] We claimed that there were outbreaks of Salmonella throughout high schools. List two pieces of evidence we would need to back up this claim.
+
+P1-3. [frq, 3 pt] List 3 reasons we might want to confirm the existence of an outbreak before beginning our investigation.
+
+P1-4. [multi, 2 pt] The Disease Detectives were able to locate statistics regarding past Salmonella infections for several populations. Choose all of the following statistics that could serve as a suitable control statistic (assume there were no Salmonella outbreaks during any of the listed periods):
+    A) Number of Salmonella infections for California for January 2002
+    B) Number of Salmonella infections for Southern California for January 2002
+    C) Number of Salmonella infections for Southern California for March 2000
+    D) Number of E. Coli infections for Southern California for March 2003
+    E) None of the above
+
+[STIMULUS] Fill in the missing values in the table.
+    | Age/Grade | Outbreak # of Cases (March 2002) | Outbreak Population | Outbreak Rate per 100K | Control # of Cases | Control Population | Control Rate per 100K |
+    | Elementary School | [[q:P1-5-1]] | 1,541,231 | 1.87 | 53 | 3,083,643 | [[q:P1-5-2]] |
+    | Middle School | 9 | 453,983 | [[q:P1-5-3]] | 18 | 991,319 | [[q:P1-5-4]] |
+    | High School | 85 | 839,172 | [[q:P1-5-5]] | [[q:P1-5-6]] | 1,741,575 | 1.91 |
+    | Total | [[q:P1-5-7]] | 2,834,386 | [[q:P1-5-8]] | [[q:P1-5-9]] | 5,816,537 | [[q:P1-5-10]] |
+
+P1-5-1. [numeric, 1 pt] Row: Elementary School – Outbreak # of Cases (March 2002)
+
+P1-5-2. [numeric, 1 pt] Row: Elementary School – Control Rate per 100K
+
+P1-5-3. [numeric, 1 pt] Row: Middle School – Outbreak Rate per 100K
+
+P1-5-4. [numeric, 1 pt] Row: Middle School – Control Rate per 100K
+
+P1-5-5. [numeric, 1 pt] Row: High School – Outbreak Rate per 100K
+
+P1-5-6. [numeric, 1 pt] Row: High School – Control # of Cases
+
+P1-5-7. [numeric, 1 pt] Row: Total – Outbreak # of Cases (March 2002)
+
+P1-5-8. [numeric, 1 pt] Row: Total – Outbreak Rate per 100K
+
+P1-5-9. [numeric, 1 pt] Row: Total – Control # of Cases
+
+P1-5-10. [numeric, 1 pt] Row: Total – Control Rate per 100K
+
+P1-6. [frq, 3 pt] List 3 sources of bias or confounding that the Disease Detectives should have been wary of when they are comparing the control data with the data from the outbreak.
+
+P1-7. [frq, 1 pt] Which Age/Grade cohort was most at risk for contracting Salmonella during the outbreak period? Give a brief explanation.
+
+P1-8. [frq, 2 pt] For the cohort you chose in the previous problem, calculate the relative risk of getting Salmonella during the outbreak compared to getting Salmonella during the control period. Interpret your findings.
+
+[STIMULUS] The Disease Detectives decide that there is an outbreak, collect their findings, and report what they found to Caltech. However, reporters at the Los Angeles Times managed to find this report. Thinking this will make a juicy article for the Times, the reporters publish an article “Salmonella Epidemic in Southern California!”
+
+P1-9. [frq, 1 pt] What is the difference between an epidemic and an outbreak?
+
+P1-10. [frq, 2 pt] Define a cluster. What is the difference between an outbreak and a cluster?
+
+P1-11. [frq, 3 pt] What are three reasons we might want to prevent the LA Times from publishing this article?
+
+[STIMULUS] Seeing the LA Times Report, several local hospitals asked Caltech for a detailed case definition so they could verify each case they reported.
+
+P1-12. [frq, 3 pt] Give three reasons why it is a good idea to construct a detailed case definition.
+
+P1-13. [frq, 2 pt] What are the four components of a case definition?
+
+P1-14. [frq, 4 pt] Construct the case definition for this outbreak. Be as detailed as possible.
+
+[STIMULUS] Now that we have satisfied the local hospitals and established the existence of an outbreak, we are ready to find the source of the outbreak. The Disease Detectives were able to acquire data from several local hospitals regarding Salmonella cases. The data was summarized in the table below.
+    | Date | 1-Mar | 2-Mar | 3-Mar | 4-Mar | 5-Mar | 6-Mar | 7-Mar | 8-Mar | 9-Mar |
+    | Cases | 1 | 0 | 1 | 2 | 3 | 2 | 2 | 19 | 37 |
+    | Date | 10-Mar | 11-Mar | 12-Mar | 13-Mar | 14-Mar | 15-Mar | 16-Mar | 17-Mar | 18-Mar |
+    | Cases | 15 | 8 | 2 | 1 | 4 | 1 | 0 | 0 | 0 |
+
+P1-15. [frq, 1 pt] What would Disease Detectives use to visualize the data in this chart?
+    [IMAGE: ../images/2018_mit_c__p5_rc644966-64b530df.webp]
+
+P1-18. [frq, 3 pt] Give three reasons why this classification common for food-borne illnesses.
+
+P1-19. [frq, 2 pt] List two reasons that may explain the 4 cases that occurred on March 14 – which was far past the peak of the outbreak.
+
+[STIMULUS] Using the information from local hospitals, the Disease Detectives were able to finally find the source of the outbreak. On March 6, there was a Speech and Debate tournament that invited students from all over Southern California. Food was served at 11:00 A.M. and many students began feeling the effects of food poisoning soon after. Students that attended were polled based on when they first felt symptoms and the data is listed below.
+
+P1-21. [frq, 1 pt] One case was recorded at 5:00 P.M. What is this case typically called?
+
+P1-22. [frq, 6 pt] Physicians at the Children’s Hospital of Orange County reported that the incubation period of this particular strain of Salmonella is 4-12 hours. Using this information, find the most likely period of exposure for this outbreak.
+
+P1-23. [frq, 2 pt] What is the incubation period of an average strain of Salmonella?
+
+[STIMULUS] All evidence points to the Speech and Debate tournament as the source of this outbreak. Our final mission is to determine the cause of this outbreak. Below is additional data collected from the National Speech and Debate Association.
+    | Food | Healthy Ate | Healthy Didn't Eat | Sick Ate | Sick Didn't eat |
+    | Spaghetti | 22 | 12 | 45 | 21 |
+    | Pizza | 30 | 4 | 58 | 8 |
+    | Salad | 6 | 28 | 10 | 56 |
+    | Water | 13 | 21 | 23 | 43 |
+    | Soda | 27 | 7 | 54 | 12 |
+    | Cheesecake | 22 | 14 | 41 | 25 |
+    | Eggs | 8 | 26 | 50 | 16 |
+    | Ice Cream | 30 | 4 | 59 | 7 |
+    | Poultry | 3 | 31 | 6 | 60 |
+    | Salmon | 18 | 16 | 34 | 32 |
+
+P1-24. [frq, 4 pt] What type of study is this, and what type of risk measure would you perform? Explain why the risk calculation you chose is the better statistic.
+
+P2-2. [frq, 3 pt] In order to prevent future outbreaks of Salmonella at their events, the National Speech and Debate Association would like the Disease Detectives to recommend techniques for properly preparing the food/drink that caused the outbreak. If you were not able to find the food/drink that caused the outbreak, make the same recommendations for beef.
+
+P2-3. [frq, 6 pt] Finally, give two primary, two secondary, and two tertiary prevention techniques against Salmonella.
+
+
+=== Part B: Outbreak at MIT ===
+
+[STIMULUS] After the 2016 MIT Science Olympiad Invitational, dozens of teams gathered and decided to have a potluck. Teams quickly set up tents across Killian Court and showcased dishes that showed off their region’s tastes and specialties. The event went splendidly. As the smells of regional foods mingled in the chilly night air, a light snow embraced the Science Olympiad teams. All was well.
+
+However, tragedy soon struck. Several students reported vomiting and nausea the next day. Reports began flying in from nearby hospitals of students with severe gastrointestinal infections. Of course, the first place Disease Detectives team at the MIT Invitational was invited to take a look at what had just gone down.
+
+P3-B1. [frq, 3 pt] Should the Disease Detectives perform a case-control or cohort study? Give a brief explanation of why.
+
+P3-B2. [frq, 1 pt] List another type of study design other than case-control and cohort.
+
+P3-B3. [frq, 12 pt] For case-control studies, cohort studies, and the study design you just listed, name 3 advantages and 3 disadvantages of each study design.
+
+P3-B4. [frq, 3 pt] We want to look at person, place, and time for the first part of our study. Name one piece of data we would collect to identify each of person, place, and time.
+
+P3-B5. [frq, 2 pt] What kind of graphic could we use to handle the “place” aspect? What geographical area would this graphic include?
+
+[STIMULUS] The following is what we know about the disease. The disease seems to be bacterial. Symptoms include diarrhea, fever, nausea, vomiting, abdominal pain, and muscle pain. Latency periods last between 2 to 5 days. The most common symptom has been bloody diarrhea. Physicians said that some of the patients were at risk of developing Guillan-Barre Syndrome.
+
+P3-B6. [frq, 5 pt] What caused this disease? (You may list 2 possible causes and receive two points if one of your guesses is correct.)
+
+[STIMULUS] Disease Detectives have traced the disease’s source to poultry based on their collected statistics. However, before authorities will conclude that poultry is the cause of the outbreak, they require more information. After all, there could be confounding.
+
+P3-B7. [frq, 3 pt] The Disease Detectives received information that was stratified by age – one report for students and one report for parents and coaches. What would they use to calculate a risk statistic for this data?
+
+P3-B8. [frq, 2 pt] Why can’t McNemar’s test be used with this stratified data?
+
+P3-B9. [frq, 3 pt] Explain three ways in which confounding could make poultry seem like the cause of the outbreak.
+
+[STIMULUS] Understanding these concerns, the Disease Detectives set out to prove that poultry is the cause of the outbreak. In order to do this, they must use what they know about proving causal relationships.
+
+P3-B10. [frq, 2 pt] Who devised the criteria that tests for causal relationships?
+
+P3-B11. [frq, 3 pt] Name three pieces of information that Disease Detectives could collect that would increase the specificity of this causality relationship.
+
+P3-B12. [frq, 3 pt] Assume that the Disease Detectives wanted to test that there exists a biological gradient (or a Dose-Response) between the cause and the effect. They collect data with regards to how much poultry someone consumed and how likely they were to develop the disease. What statistic would allow us to measure this association between the two variables?
+
+P3-B13. [frq, 6 pt] Robert Koch described a criterion for judging whether a given bacteria caused a disease. Describe how you would test each step of Koch's Postulates for this outbreak.
+
+P3-B14. [frq, 1 pt] Which causality criterion do Koch's Postulates satisfy?
+
+[STIMULUS] The Disease Detectives received reports from hospitals several days after the outbreak saying that the disease had spread to other residents and workers at the hospital. The outbreak grows out of hand and quickly becomes an epidemic. Thankfully, the FDA just approved a new vaccine with 85% efficacy for the infection.
+
+P3-B15. [frq, 2 pt] What is an infection received at a hospital called?
+
+P3-B16. [frq, 4 pt] What is herd immunity? Name three methods that can help a population reach herd immunity.
+
+P3-B17. [frq, 4 pt] Calculate the proportion of people that would have to be immunized for herd immunity to work. Assume the reproduction number of the infectious agent is 6.
+
+[STIMULUS] When the epidemic finally settled down, the Disease Detectives wanted to assess how much damage has been caused. They must calculate several statistics in order to send their report to the CDC. They are given the following information. There were 110,651 people present in Cambridge during the epidemic. During the epidemic, which lasted all of February 2015, 173 people contracted the disease. 122 of the cases consume poultry at the MIT Science Olympiad Tournament. Of those who contracted the disease, there were 7 mortalities. In comparison, in February 2014, of the 102,784 people in Cambridge, 8 people contracted the disease and there was 1 mortality. Calculate the following statistics. Be sure to show your work.
+
+P3-B18. [frq, 2 pt] Cause-Specific Death Rate:
+
+P3-B19. [frq, 2 pt] Case-Fatality Rate:
+
+P3-B20. [frq, 3 pt] Attributable Risk Ratio:
+
+P3-B21. [frq, 3 pt] Standardized Mortality Ratio (only considering deaths due to this disease):
+
+P3-B22. [frq, 6 pt] Finally, list six ways to minimize chance of foodborne illness from poultry.

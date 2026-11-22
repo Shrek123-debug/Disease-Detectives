@@ -1,0 +1,661 @@
+CSE (Captains Summer Exchange) — Disease Detectives (Hillsborough High School)  |  Season 2026  |  Division C  |  Time limit 50 min  |  73 questions, 159.0 pts
+Source: scio.ly test archive id 4fbb00ef-29e8-42dd-a832-69c5d079ee96  |  original files: https://drive.google.com/drive/folders/10PveYovCgCFrvqiCZswZkDJZoRfIyCb7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: 4. Points are denoted in the square brackets ([]) next to the question
+5. Partial credit may be awarded to open-ended questions
+
+
+=== Section 1: Vocabulary — 20 points ===
+
+[STIMULUS] Match each term to its best description. Terms may be used only once, multiple times, or not at all.
+
+A. Pathogenicity
+B. Virulence
+C. Morbidity
+D. Nosocomial
+E. Iatrogenic
+F. Fulminant
+G. Sufficient Cause
+H. Antigenic Shift
+I. Antigenic Drift
+J. Prevalence
+K. Secular Trend
+L. Iceberg Phenomenon
+M. Analysis of Variance (ANOVA)
+N. Convalescence
+O. Anthroponosis
+P. Serotype
+Q. Positive Chemotaxis
+R. Negative Chemotaxis
+S. Incidence
+T. None of the Above
+
+1. [mcq, 1 pt] Compares observed and expected frequencies of events, determining if a relationship exists or if the differences are due to chance.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+2. [mcq, 1 pt] Disease acquired from a hospital.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+3. [mcq, 1 pt] The period of time when individuals are recovering from a disease.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+4. [mcq, 1 pt] A minimum set of requirements, that if present in an individual, will result in the disease.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+5. [mcq, 1 pt] The proportion of persons infected, after exposure to a causative agent, who then develop clinical disease.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+6. [mcq, 1 pt] The attribution of human characteristics to another entity.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+7. [mcq, 1 pt] The number of affected individuals at any given point in time.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+8. [mcq, 1 pt] Can be broken into two main types: one-way & two-way.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+9. [mcq, 1 pt] Severe and sudden in onset.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+10. [mcq, 1 pt] The number of new cases that occurred during a specific time.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+11. [mcq, 1 pt] Changes over a relatively long period of time.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+12. [mcq, 1 pt] Minor genetic changes that result in slightly different strains of the same virus.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+13. [mcq, 1 pt] Any departure (subjective or objective) from a state of well-being.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+14. [mcq, 1 pt] A way for grouping microorganisms together based on their similarities and differences.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+15. [mcq, 1 pt] Encompasses disease spread from human-to-human and human-to-animal
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+16. [mcq, 1 pt] When a microorganism moves to an area of high concentration of a specific chemical.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+17. [mcq, 1 pt] Illness acquired through medical treatment.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+18. [mcq, 1 pt] The proportion of persons with clinical disease, who after becoming infected, become severely ill or die.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+19. [mcq, 1 pt] Assesses the statistical means between two or more different groups.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+20. [mcq, 1 pt] When a trend appears in smaller groups but disappears when the groups are combined.
+    A) Pathogenicity
+    B) Virulence
+    C) Morbidity
+    D) Nosocomial
+    E) Iatrogenic
+    F) Fulminant
+    G) Sufficient Cause
+    H) Antigenic Shift
+    I) Antigenic Drift
+    J) Prevalence
+    K) Secular Trend
+    L) Iceberg Phenomenon
+    M) Analysis of Variance (ANOVA)
+    N) Convalescence
+    O) Anthroponosis
+    P) Serotype
+    Q) Positive Chemotaxis
+    R) Negative Chemotaxis
+    S) Incidence
+    T) None of the Above
+
+
+=== Section 2: Background and Surveillance — 60 points ===
+
+21. [frq, 10 pt] What are the types of prevention? Give a brief description of each.
+
+[STIMULUS] Categorize the following statement into a clinical (C) or public health (P) approach:
+
+22a. [mcq, 1 pt] Dr. Grey takes Steve's blood pressure and puts it into his chart.
+    A) Clinical (C)
+    B) Public health (P)
+
+22b. [mcq, 1 pt] Categorize the following statement into a clinical (C) or public health (P) approach: Dr. Bailey sets up multiple COVID-19 testing clinics throughout Seattle to analyze disease spread.
+    A) Clinical (C)
+    B) Public health (P)
+
+22c. [mcq, 1 pt] Categorize the following statement into a clinical (C) or public health (P) approach: Dr. Karev and Dr. Stevens pass around pamphlets on the dangers of STDs after several staff members at Seattle Grace Hospital have contracted syphilis.
+    A) Clinical (C)
+    B) Public health (P)
+
+22d. [mcq, 1 pt] Categorize the following statement into a clinical (C) or public health (P) approach: After observing the rising rates of death among patients who have undergone spinal repair surgery, Dr. Shepherd launches a program to track his patients' health post-surgery where they are offered highly personalized advice.
+    A) Clinical (C)
+    B) Public health (P)
+
+[STIMULUS] Name the person based on their description:
+
+23a. [frq, 2 pt] Was immune to typhoid, but spread it to 50 other people due to a lack of hygiene.
+
+23b. [frq, 1 pt] Discovered penicillin.
+
+23c. [frq, 1 pt] Developed the oral polio vaccine.
+
+23d. [frq, 1 pt] Father of immunology.
+
+23e. [frq, 2 pt] Studied radiation induced illness among workers at the Hanford plutonium production plant.
+
+24. [frq, 13 pt] Name the 13 steps of outbreak investigation.
+
+[STIMULUS] Label the Natural History and Spectrum of Disease:
+
+25a. [frq, 1 pt] Addison's husband has COVID-19 but she does not. What stage in the Natural History and Spectrum of Disease is she in?
+
+25b. [frq, 1 pt] Eobard Thawne has infected Iris's coffee with a poisonous spore, which she drank this morning. Iris is not showing any symptoms, however. What stage in the Natural History and Spectrum of Disease is she in?
+
+25c. [frq, 1 pt] Leonard Snart recovers from a flu which he acquired from his activities in the cold. What stage in the Natural History and Spectrum of Disease is he in?
+
+26. [frq, 9 pt] What is surveillance? What are the 5 steps of surveillance?
+
+[STIMULUS] Use the following types of surveillance to describe the situations.
+
+Passive
+Active
+Sentinel
+Syndromic
+
+27a. [mcq, 2 pt] Use the following types of surveillance to describe the situation: All hospitals in Central City report all cases of anthrax to the local health department.
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+27b. [mcq, 2 pt] Use the following types of surveillance to describe the situation: Starling City's health department notices that there has been a rise in school absences at the peak of flu season, and increases availability of flu vaccines.
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+27c. [mcq, 2 pt] Use the following types of surveillance to describe the situation: The CDC asks the local health departments in all cities bordering and including National City to provide statistics on who was infected with Kryptoflu.
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+
+=== Section 3: Outbreak Investigation — 55 points ===
+
+[STIMULUS] Use the provided information to answer the questions.
+
+In March of 2017, a number of Central City citizens attended S.T.A.R. Labs for a party to celebrate Barry Allen's successful defeat of Savitar. After the party, however, a number of people called in sick the next day, reporting symptoms such as watery diarrhea, nausea, and vomiting. Dr. Caitlin Snow was not at the party but has been assigned to investigate the outbreak, and she needs your help.
+
+28. [frq, 4 pt] Write a case definition for this outbreak.
+
+29. [frq, 4 pt] Name the four fundamental steps to food safety.
+
+[STIMULUS] | Food | Disease | No Disease |
+|---|---|---|
+| Spaghetti | 22 | 36 |
+| Caviar | 52 | 34 |
+| Steak | 12 | 40 |
+| Cobb Salad | 35 | 45 |
+| Chicken Tortilla Soup | 14 | 20 |
+
+32. [frq, 11 pt] The table above shows the foods served at the party, as well as the disease outcome for those who ate the food. State and calculate the appropriate measure of risk for each food to the thousandth.
+
+33. [frq, 4 pt] What was the most likely culprit for the outbreak? Explain in terms of the measure of risk you calculated.
+
+34. [frq, 3 pt] Speaking of measures of risk, the meme on the front cover gives a good example of two well-known ones. Can you answer Willy Wonka's compelling question: "Under what conditions does an odds ratio approximate relative risk?" What is this called?
+
+[STIMULUS] Dr. Snow comes to the appalling realization that Slade Wilson, a former member of the Australian Intelligence Service, has actually engineered a pathogen to target one of the party's attendees, Oliver Queen. Before the food was delivered to the party, Slade had infused one of Oliver's favorite foods with his pathogen.
+
+You just get news that Slade has unleashed the pathogen to all of Central City's residents. Your amazing colleague, Cisco Ramon, has devised a test he calls "Vibe-X" that will help you determine who is sick from the pathogen and who is not, to aid your research in creating a vaccine. Vibe-X gives results as either positive or negative, and you decided to test how good it was, with the following results:
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p11_ad5e9d-791e5af3.webp]
+
+35. [frq, 3 pt] Define sensitivity and calculate the sensitivity of Vibe-X.
+
+36. [frq, 3 pt] Define specificity and calculate the specificity of Vibe-X.
+
+37. [frq, 3 pt] Define PPV and calculate the PPV of Vibe-X.
+
+38. [frq, 3 pt] Define NPV and calculate the NPV of Vibe-X.
+
+[STIMULUS] You and Dr. Snow quickly get to work making a vaccine. However, Lex Luthor shows up and decides that you can not go on further with your efforts until you identify a series of epi curves. Lucky for you, you've been catching up on your epi curve research and know just how to dodge these questions:
+
+39. [frq, 2 pt] What is an epi curve?
+
+40. [frq, 1 pt] Identify the epi curve:
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p13_f1c13c-c2b36f04.webp]
+
+41. [frq, 1 pt] Identify the epi curve:
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p14_b4036c-7efc828b.webp]
+
+42. [frq, 1 pt] Identify the epi curve:
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p14_158cdb-10089e1b.webp]
+
+[STIMULUS] You create a vaccine called Aura-X and decide to run a clinical trial with the people of Central City with the following results:
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p15_85b126-8356c3d8.webp]
+
+43. [frq, 2 pt] Differentiate between vaccine efficacy and effectiveness.
+
+45. [frq, 1 pt] What is one flaw in this clinical trial? Hint: Think about the people tested.
+
+
+=== Section 4: Miscellaneous — 51 points ===
+
+46. [frq, 8 pt] What is the Framingham Study? Include information on findings, the study itself, and important dates.
+
+47. [frq, 4 pt] What are the next 2 countries where scientists are trying to eradicate polio?
+
+[STIMULUS] What do they stand for?
+
+48a. [frq, 1 pt] What does AAP stand for?
+
+48b. [frq, 1 pt] What does NNDSS stand for?
+
+48c. [frq, 1 pt] What does GPEI stand for?
+
+48d. [frq, 1 pt] What does CDC stand for?
+
+48e. [frq, 1 pt] What does HIPAA stand for?
+
+49. [frq, 10 pt] Name all of Evan's Postulates.
+
+50a. [frq, 2 pt] The mean R₀ of COVID-19 is approximately 3. What is an R₀ value?
+
+50b. [frq, 2 pt] What is the herd immunity threshold for COVID-19?
+
+51. [tf, 1 pt] Minamata disease is often called Dancing Cat Fever
+    A) True
+    B) False
+
+52. [tf, 1 pt] You can use antibiotics to treat shigatoxin-producing E. coli
+    A) True
+    B) False
+
+53. [tf, 1 pt] Anthrax is a zoonotic disease coming from snakes
+    A) True
+    B) False
+
+54. [tf, 1 pt] Mechanical transmission is involved when the disease does not go through biological transformation in a vector
+    A) True
+    B) False
+
+[STIMULUS] 
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p17_e6057a-c498fd0f.webp]
+
+55a. [frq, 1 pt] Look at the following curve. What is the name of this kind of curve?
+
+55c. [frq, 1 pt] In the context of epidemiology, name one thing that the curves could represent.
+
+55d. [frq, 1 pt] Epidemiologists want to choose the curve that represents the most effective variable. Which curve should they choose? (Identify the curve by its color.)
+
+[STIMULUS] 
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p19_1aec2b-36225033.webp]
+
+56a. [frq, 1 pt] Look at the following diagram. What is this diagram's name?
+
+56b. [frq, 1 pt] What does the letter Z represent?
+
+56c. [frq, 1 pt] What does the letter U represent?

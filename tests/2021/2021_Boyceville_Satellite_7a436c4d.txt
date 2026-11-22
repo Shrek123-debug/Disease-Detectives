@@ -1,0 +1,918 @@
+Boyceville Satellite — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  90 questions, 109.0 pts
+Source: scio.ly test archive id 7a436c4d-6e0d-4bbc-bf3b-e97b71790076  |  original files: https://drive.google.com/drive/folders/1lLLcC4CW864q9gVkeuA9nw-4O2xrbED5
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: All questions are found in this pdf. Report all answers in the test on Scilympiad. BEWARE! The answers must be entered according to the following parameters. Most answers will be entered as fill-in-the-blank in Scilympiad. These answers must be entered as a single letter. Do not include any extra key stroke or embellishments. Example: If the answer to a multiple choice or matching question is A, enter only the letter A in the fill-in-the-blank field on the appropriate numbered item in the Scilympiad test. Answers are not case sensitive. Extra letters, keystrokes, or numbers will result in the answer being marked incorrect. Each fill-in-the-blank answer is only one keystroke. Enter only a single letter for each answer. Follow the answering directions in Scilympiad.
+
+
+=== Vocabulary ===
+
+[STIMULUS] Match the vocabulary word to its corresponding definition. Enter only the letter of the answer in Scilympiad.
+
+A. An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+B. Period between the time of exposure and onset of symptoms for infection diseases
+C. A habitually present disease/infection
+D. The restriction of movement of people exposed to a contagious disease
+E. Period between the time of exposure and onset of symptoms for chronic diseases
+F. When a potentially infectious agent exists in the host but has not yet invaded its tissues
+G. Large numbers of people over a wide geographic area are affected
+H. The severity or intensity of a disease
+I. The probability that an individual will be affected by or die from an illness within a stated time
+J. Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+K. Death in a population
+L. Any departure from a state of well-being
+M. The residue of dried droplets of infectious agents
+N. An aggregation of cases over a particular period
+O. A substance introduced into the body to increase immunity to a specific disease
+P. An infectious disease transmissible between animals and humans
+Q. The ability of an agent to infect/recognize a host
+R. An organism’s ability to cause disease
+S. A physical object that serves to transmit an infectious agent from person to person
+T. Subjective evidence of a disease
+
+1. [mcq, 1 pt] Epidemic
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+2. [mcq, 1 pt] Pathogenicity
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+3. [mcq, 1 pt] Quarantine
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+4. [mcq, 1 pt] Cluster
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+5. [mcq, 1 pt] Zoonosis
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+6. [mcq, 1 pt] Vehicle
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+7. [mcq, 1 pt] Morbidity
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+8. [mcq, 1 pt] Infectivity
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+9. [mcq, 1 pt] Latency Period
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+10. [mcq, 1 pt] Contamination
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+11. [mcq, 1 pt] Prophylaxis
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+12. [mcq, 1 pt] Virulence
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+13. [mcq, 1 pt] Symptom
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+14. [mcq, 1 pt] Inoculum
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+15. [mcq, 1 pt] Endemic
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+16. [mcq, 1 pt] Risk
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+17. [mcq, 1 pt] Fomite
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+18. [mcq, 1 pt] Droplet Nuclei
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+19. [mcq, 1 pt] Mortality
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+20. [mcq, 1 pt] Incubation Period
+    A) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    B) Period between the time of exposure and onset of symptoms for infection diseases
+    C) A habitually present disease/infection
+    D) The restriction of movement of people exposed to a contagious disease
+    E) Period between the time of exposure and onset of symptoms for chronic diseases
+    F) When a potentially infectious agent exists in the host but has not yet invaded its tissues
+    G) Large numbers of people over a wide geographic area are affected
+    H) The severity or intensity of a disease
+    I) The probability that an individual will be affected by or die from an illness within a stated time
+    J) Treatment given to exposed individuals to prevent illness prior to the onset of symptoms
+    K) Death in a population
+    L) Any departure from a state of well-being
+    M) The residue of dried droplets of infectious agents
+    N) An aggregation of cases over a particular period
+    O) A substance introduced into the body to increase immunity to a specific disease
+    P) An infectious disease transmissible between animals and humans
+    Q) The ability of an agent to infect/recognize a host
+    R) An organism’s ability to cause disease
+    S) A physical object that serves to transmit an infectious agent from person to person
+    T) Subjective evidence of a disease
+
+
+=== Steps of Surveillance ===
+
+[STIMULUS] List the 5 steps of surveillance in order. Enter only the letter of the answer in Scilympiad.
+
+A. Data Dissemination
+B. Data Collection
+C. Link to Action
+D. Data Interpretation
+E. Data Analysis
+
+21. [mcq, 1 pt] 1st step:
+    A) Data Dissemination
+    B) Data Collection
+    C) Link to Action
+    D) Data Interpretation
+    E) Data Analysis
+
+22. [mcq, 1 pt] 2nd step:
+    A) Data Dissemination
+    B) Data Collection
+    C) Link to Action
+    D) Data Interpretation
+    E) Data Analysis
+
+23. [mcq, 1 pt] 3rd step:
+    A) Data Dissemination
+    B) Data Collection
+    C) Link to Action
+    D) Data Interpretation
+    E) Data Analysis
+
+24. [mcq, 1 pt] 4th step:
+    A) Data Dissemination
+    B) Data Collection
+    C) Link to Action
+    D) Data Interpretation
+    E) Data Analysis
+
+25. [mcq, 1 pt] 5th step:
+    A) Data Dissemination
+    B) Data Collection
+    C) Link to Action
+    D) Data Interpretation
+    E) Data Analysis
+
+
+=== Natural History of Disease ===
+
+27. [mcq, 1 pt] During which stage do pathological changes occur?
+    A) onset of symptoms
+    B) exposure
+    C) stage of subclinical disease
+    D) stage of clinical disease
+
+28. [mcq, 1 pt] What event marks the end of the second stage?
+    A) onset of symptoms
+    B) exposure
+    C) stage of subclinical disease
+    D) stage of clinical disease
+
+29. [mcq, 1 pt] During which stage can the disease be diagnosed?
+    A) onset of symptoms
+    B) exposure
+    C) stage of subclinical disease
+    D) stage of clinical disease
+
+
+=== Chain of infection ===
+
+[STIMULUS] Using in the bank of items listed below, list the steps in sequential order and match the description to each step. Enter only the letter of the answer in Scilympiad.
+
+Names of Step
+A – Mode of transmission
+B – Susceptible host
+C – Reservoir
+D – Agent
+E – Portal of entry
+F – Portal of exit
+
+Descriptions
+G an opening allowing the microorganism to enter the host
+H a microbial organism with the ability to cause disease
+I a place of exit providing a way for an agent to leave the reservoir
+J a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+K method of transfer by which the organism moves or is carried from one place to another
+L a place where agents can thrive and reproduce
+
+30. [mcq, 1 pt] 1st step – Name of step
+    A) Mode of transmission
+    B) Susceptible host
+    C) Reservoir
+    D) Agent
+    E) Portal of entry
+    F) Portal of exit
+
+31. [mcq, 1 pt] 1st step – Description
+    A) an opening allowing the microorganism to enter the host
+    B) a microbial organism with the ability to cause disease
+    C) a place of exit providing a way for an agent to leave the reservoir
+    D) a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+    E) method of transfer by which the organism moves or is carried from one place to another
+    F) a place where agents can thrive and reproduce
+
+32. [mcq, 1 pt] 2nd step – Name of step
+    A) Mode of transmission
+    B) Susceptible host
+    C) Reservoir
+    D) Agent
+    E) Portal of entry
+    F) Portal of exit
+
+33. [mcq, 1 pt] 2nd step – Description
+    A) an opening allowing the microorganism to enter the host
+    B) a microbial organism with the ability to cause disease
+    C) a place of exit providing a way for an agent to leave the reservoir
+    D) a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+    E) method of transfer by which the organism moves or is carried from one place to another
+    F) a place where agents can thrive and reproduce
+
+35. [mcq, 1 pt] 3rd step – Description
+    A) an opening allowing the microorganism to enter the host
+    B) a microbial organism with the ability to cause disease
+    C) a place of exit providing a way for an agent to leave the reservoir
+    D) a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+    E) method of transfer by which the organism moves or is carried from one place to another
+    F) a place where agents can thrive and reproduce
+
+36. [mcq, 1 pt] 4th step – Name of step
+    A) Mode of transmission
+    B) Susceptible host
+    C) Reservoir
+    D) Agent
+    E) Portal of entry
+    F) Portal of exit
+
+37. [mcq, 1 pt] 4th step – Description
+    A) an opening allowing the microorganism to enter the host
+    B) a microbial organism with the ability to cause disease
+    C) a place of exit providing a way for an agent to leave the reservoir
+    D) a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+    E) method of transfer by which the organism moves or is carried from one place to another
+    F) a place where agents can thrive and reproduce
+
+40. [mcq, 1 pt] 6th step – Name of step
+    A) Mode of transmission
+    B) Susceptible host
+    C) Reservoir
+    D) Agent
+    E) Portal of entry
+    F) Portal of exit
+
+41. [mcq, 1 pt] 6th step – Description
+    A) an opening allowing the microorganism to enter the host
+    B) a microbial organism with the ability to cause disease
+    C) a place of exit providing a way for an agent to leave the reservoir
+    D) a person who cannot resist an microorganism invading the body, multiplying and resulting in infection
+    E) method of transfer by which the organism moves or is carried from one place to another
+    F) a place where agents can thrive and reproduce
+
+
+=== Multiple Choice ===
+
+42. [mcq, 1 pt] Which part of the chain of infection is not necessary for infection to occur?
+    A) portal of exit
+    B) agent
+    C) portal of entry
+    D) mode of transmission
+    E) reservoir
+    F) trick question, every part of the chain is necessary for infection
+
+43. [mcq, 1 pt] What type of comparison is shown in the following formula?
+    [IMAGE: ../images/2021_boyceville_satellite_c__p4_b0c977-efb102d7.webp]
+    A) mean
+    B) proportion
+    C) ratio
+    D) variance
+
+44. [mcq, 1 pt] What type of comparison is shown in the following formula?
+    [IMAGE: ../images/2021_boyceville_satellite_c__p5_fcc66e-e60642a7.webp]
+    A) mean
+    B) proportion
+    C) ratio
+    D) variance
+
+[STIMULUS] Refer to the table below for questions 45 through 47. Each of these questions is worth 2 points. Enter only the letter of the answer in Scilympiad.
+    | Subjects | Enrolled in Study (2001 to 2005) | Dead at Follow-Up (2012- 2014) |
+    | Men with insomnia | 189 | 100 |
+    | Men without insomnia | 3151 | 811 |
+    | Women with insomnia | 218 | 72 |
+    | Women without insomnia | 3823 | 511 |
+
+45. [mcq, 2 pt] Calculate the ration of men without insomnia to insomniac men.
+    A) 0.06:1
+    B) 0.03:1
+    C) 16.7:1
+    D) 36.9:1
+    E) trick question, not enough information was provided
+
+46. [mcq, 2 pt] Calculate the proportion of men in the study who had insomnia.
+    A) 5.998%
+    B) 2.56%
+    C) 16.67%
+    D) 5.66%
+    E) 17.67%
+    F) trick question, not enough information was provided
+
+47. [mcq, 2 pt] Calculate the incidence proportion of death among insomniac men in this study.
+    A) 52.9%
+    B) 2.99%
+    C) 1.35%
+    D) 1.89%
+    E) 0.529%
+    F) trick question, not enough information was provided
+
+[STIMULUS] Refer to the scenario below for questions 48 to 51. Enter only the letter of the answer in Scilympiad.
+
+Scenario: Investigators enrolled 800 men in a study and followed them annually for four years to determine the incidence rate of tooth decay. After one year, none had a new diagnosis of tooth decay. After two years, one had a new diagnosis of tooth decay. After three years, another two had new diagnoses of tooth decay. After four years, another 4 had new diagnoses with tooth decay. Assume that persons with new diagnoses of tooth decay were disease-free for half the year.
+
+48. [mcq, 1 pt] How many new cases of tooth decay occurred?
+    A) 4
+    B) 5.
+    C) 6
+    D) 7
+    E) 8
+
+49. [mcq, 1 pt] How many person-years were measured in this study?
+    A) 4
+    B) 800
+    C) 3200
+
+50. [mcq, 2 pt] How many total disease-free person-years can be measured?
+    A) 1 year
+    B) 1.5 years
+    C) 2 years
+    D) 2.5 years
+    E) 3192.5 years
+    F) 3179.5 years
+    G) 3176 years
+    H) trick question, not enough information was provided
+
+51. [mcq, 2 pt] Calculate the incidence rate of tooth decay among this cohort.
+    A) 1,750 cases per 1,000 person-years
+    B) 2.19 cases per 1,000 person-years
+    C) 8.75 cases per 1,000 person-years
+    D) 0.007 cases per 1,000 person-years
+    E) trick question, not enough information was provided
+
+[STIMULUS] Refer to the data below for questions 52 to 54. Enter only the letter of the answer in Scilympiad.
+
+CDC Data on Cooties
+Number of known cases in 2015: 23,161,000
+Number of cases newly diagnosed in 2015: 1,463,000
+Number of deaths caused by complications of cooties in 2015: 2,972
+Estimated US Population in 2015: 320,091,000 people
+
+52. [mcq, 2 pt] Calculate prevalence of cooties in 2015 per 1,000 people.
+    A) 4.57 cases per 1000 people
+    B) 72.36 cases per 1000 people
+    C) 63.17 cases per 1000 people
+    D) 76.9 cases per 1000 people
+    E) trick question, not enough information was provided
+
+53. [mcq, 2 pt] Calculate incidence rate of diabetes in 2015 per 1,000 people.
+    A) 4.57 new cases per 1000 people
+    B) 72.36 new cases per 1000 people
+    C) 63.17 new cases per 1000 people
+    D) 76.9 new cases per 1000 people
+    E) trick question, not enough information was provided
+
+54. [mcq, 2 pt] Calculate mortality rate of diabetes cases in 2015 per 1,000,000 people.
+    A) 9.28 deaths per 1,000,000 people
+    B) 1.28 deaths per 1,000,000 people
+    C) 2031 deaths per 1,000,000 people
+    D) 128.3 deaths per 1,000,000 people
+    E) trick question, not enough information was provided
+
+
+=== Graphs & Charts ===
+
+[STIMULUS] For questions 55 through 60, match the chart type to its appropriate use. Enter only the letter of the answer in Scilympiad.
+
+A. Compare size or frequency of different categories of a single variable
+B. Show frequency distribution of continuous variable
+C. Show components of a whole
+D. Show trends in numbers or rates over time
+E. Show location of cases or events
+F. Plot association between two variables
+
+55. [mcq, 1 pt] Line graph
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+56. [mcq, 1 pt] Histogram
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+57. [mcq, 1 pt] Scatter diagram
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+58. [mcq, 1 pt] Bar Chart
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+59. [mcq, 1 pt] Pie Chart
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+60. [mcq, 1 pt] Spot Map
+    A) Compare size or frequency of different categories of a single variable
+    B) Show frequency distribution of continuous variable
+    C) Show components of a whole
+    D) Show trends in numbers or rates over time
+    E) Show location of cases or events
+    F) Plot association between two variables
+
+
+=== The Triad ===
+
+[STIMULUS] For items 61 – 64, complete the epidemiological triad for disease diagram using the terms in the word bank below. Enter only the letter of your answer.
+    [IMAGE: ../images/2021_boyceville_satellite_c__p8_263ca0-5625f25a.webp]
+
+62. [frq, 1 pt] Complete the epidemiological triad diagram (item 62).
+
+
+=== Multiple Choice: Enter only the letter of the answer in Scilympiad. ===
+
+69. [mcq, 1 pt] Which type of descriptive study is a survey of a population where participants are selected irrespective of exposure or disease status?
+    A) cohort study
+    B) Case report
+    C) Correlative study
+    D) Cross sectional study
+
+70. [mcq, 1 pt] What type of descriptive study investigates relationships among general characteristics of the population and health problem frequencies?
+    A) cohort study
+    B) Case report
+    C) Correlative study
+    D) Cross sectional study
+
+71. [mcq, 1 pt] When identifying a case of illness, which designation is used for a case in which the patient has displays many factors that point to a diagnosis but lab verification is not available?
+    A) Confirmed case
+    B) Probable case
+    C) Possible case
+    D) Unverified case
+
+[STIMULUS] **Scenario:** For questions 72 to 101 refer to the following scenario. This scenario includes several free-response questions and numeric answers. Play close attention to the answering instructions.
+
+In November 2003, a large hepatitis A outbreak was identified among patrons of a single Pennsylvania restaurant. Demographic and clinical outcome data were collected from patients with laboratory confirmation of hepatitis A, and restaurant workers were tested for hepatitis A. A study was conducted among patrons who dined at the restaurant between October 3 and October 6, 2003.
+
+Of 601 patients identified, 3 died; at least 124 were hospitalized. Of 425 patients who recalled a single dining date at the restaurant, 356 (84 percent) had dined there between October 3 and October 6.
+
+All customers are served complimentary mild salsa upon seating. The mild salsa contains raw green onions and raw diced white onions. Many dishes are served with beans, rice, cheese, sour cream, and cooked diced white onions. Popular dishes include the beef burrito and the chicken fajita, both of which are served with a side of beans and rice.
+
+72. [frq, 4 pt] Create a case definition for this outbreak.
+
+73. [mcq, 1 pt] What type of analytical study should be conducted?
+    A) case study
+    B) cohort study
+    C) correlative study
+    D) cross-sectional study
+
+74. [frq, 3 pt] Give this graph a title.
+    [IMAGE: ../images/2021_boyceville_satellite_c__p11_563ea6-e3561715.webp]
+
+75. [frq, 1 pt] What label belong on the x axis?
+    [IMAGE: ../images/2021_boyceville_satellite_c__p11_563ea6-e3561715.webp]
+
+76. [frq, 1 pt] What labels belong on the y axis?
+
+77. [mcq, 1 pt] What type of curve fits the distribution of cases shown on this graph?
+    [IMAGE: ../images/2021_boyceville_satellite_c__p11_563ea6-e3561715.webp]
+    A) point source
+    B) continuous common source
+    C) propagated source
+
+[STIMULUS] For items 78 through 97, complete the data table. Enter only the numeric answer rounded to the nearest tenth.
+    [IMAGE: ../images/2021_boyceville_satellite_c__p12_589675-6dc6fb7c.webp]
+
+78. [numeric, 1 pt] Complete cell #78 of the data table.
+
+79. [numeric, 1 pt] Complete cell #79 of the data table.
+
+80. [numeric, 1 pt] Complete cell #80 of the data table.
+
+81. [numeric, 1 pt] Complete cell #81 of the data table.
+
+82. [numeric, 1 pt] Complete cell #82 of the data table.
+
+83. [numeric, 1 pt] Complete cell #83 of the data table.
+
+84. [numeric, 1 pt] Complete cell #84 of the data table.
+
+85. [numeric, 1 pt] Complete cell #85 of the data table.
+
+86. [numeric, 1 pt] Complete cell #86 of the data table.
+
+87. [numeric, 1 pt] Complete cell #87 of the data table.
+
+88. [numeric, 1 pt] Complete cell #88 of the data table.
+
+89. [numeric, 1 pt] Complete cell #89 of the data table.
+
+90. [numeric, 1 pt] Complete cell #90 of the data table.
+
+91. [numeric, 1 pt] Complete cell #91 of the data table.
+
+92. [numeric, 1 pt] Complete cell #92 of the data table.
+
+93. [numeric, 1 pt] Complete cell #93 of the data table.
+
+94. [numeric, 1 pt] Complete cell #94 of the data table.
+
+95. [numeric, 1 pt] Complete cell #95 of the data table.
+
+96. [numeric, 1 pt] Complete cell #96 of the data table.
+
+97. [numeric, 1 pt] Complete cell #97 of the data table.
+
+98. [numeric, 2 pt] What is the attack rate for those who ate at the restaurant? Enter only the numeric answer rounded to the nearest tenth. Express as a percentage. Do not include a % symbol.
+
+99. [frq, 2 pt] What do the relative risk numbers indicate?
+
+100. [frq, 2 pt] What do the odds ratio numbers indicate?
+
+101. [frq, 4 pt] Which food item is most likely the reservoir? Support your claim.

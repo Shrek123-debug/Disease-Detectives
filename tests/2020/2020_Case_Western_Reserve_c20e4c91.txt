@@ -1,0 +1,270 @@
+Case Western Reserve — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  40 questions, 87.0 pts
+Source: scio.ly test archive id c20e4c91-12f3-4aae-86bf-d071d851f16e  |  original files: https://drive.google.com/drive/folders/1fBigCAu8B5jWjoSIpnULLSVEDPAd4uHQ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Questions 1 thru 8 will provide a description for a key epidemiology term. Choose the most correct word from the word bank that matches the description. Words can be used multiple times or none at all. Each question is 1 point.
+
+
+=== Part 1: Word Bank Matching ===
+
+[STIMULUS] **Word Bank:** asymptomatic, cluster, endemic, epidemic, etiology, fomite, incubation period, index case, latent period, morbidity, mortality, outbreak, pandemic, plague, nosocomial disease, risk, surveillance, symptomatic, vector, zoonosis
+
+1. [mcq, 1 pt] Becky returned from her trip from Florida and a mosquito bit her. This caused her to get West Nile Fever. In this scenario of disease transformation, what was the mosquito's role?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+2. [mcq, 1 pt] Charlie broke his foot and had to go to the hospital to get it fixed. As he was waiting in the hospital for his operation, he unfortunately contracted a disease. What kind of disease would he contract that would originate from the hospital?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+3. [mcq, 1 pt] Brittany found a comb on a table and decided to use it to comb her hair. Unfortunately, it contained lice, and now she has lice in her hair. What best describes the comb?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+4. [mcq, 1 pt] Sam went to a restaurant last week. A week later, he began having symptoms of stomach flu. What's the time period between the time he came back from the restaurant to having symptoms?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+5. [mcq, 1 pt] An airborne disease wiped out 50% of the globe's population one day. What best describes this disease as?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+6. [mcq, 1 pt] It's important to study the cause of a disease. What is this field of study called?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+7. [mcq, 1 pt] Sheila was the first person in her town to contract rabies after a racoon bit her. What type of patient is she?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+8. [mcq, 1 pt] Jack accidentally used a spoon that was infected with bad bacteria. It can be assumed he has some sort of condition, but there are no symptoms showing up. What kind of disease/condition is this?
+    A) asymptomatic
+    B) cluster
+    C) endemic
+    D) epidemic
+    E) etiology
+    F) fomite
+    G) incubation period
+    H) index case
+    I) latent period
+    J) morbidity
+    K) mortality
+    L) outbreak
+    M) pandemic
+    N) plague
+    O) nosocomial disease
+    P) risk
+    Q) surveillance
+    R) symptomatic
+    S) vector
+    T) zoonosis
+
+
+=== Part 2: Short Answer ===
+
+[STIMULUS] **Directions:** Please answer each question to the best of your ability. Please be clear about your answers. Make sure to show your work and write out equations you can use.
+
+[STIMULUS] 178 people were in a restaurant on January 14th. 42% of those customers had the house salad. The rest did not. 72% of the customers who had the house salad experienced some sort of stomach sickness after going to the restaurant. 12% of the customers who did not have a house salad also experienced some sort of stomach sickness after going to the restaurant. Epidemiologists were notified of this happening. They decided to look into how the house salad exposure affected stomach illness for those restaurant customers.
+
+9a. [frq, 5 pt] What kind of study did the epidemiologists perform? List two advantages and disadvantages for this study?
+
+9c. [frq, 3 pt] Calculate the relative risk using your 2x2 table.
+
+9d. [frq, 3 pt] Calculate the odds ratio using your 2x2 table.
+
+9e. [frq, 4 pt] Calculate attack rates for both exposed and unexposed to the house salad.
+
+9f. [frq, 2 pt] Would odds ratio or relative risk be more relevant to compute for the type of study you determined in part (a)? Why?
+
+[STIMULUS] A group of 1000 people live in a certain neighborhood of Large City. Large City has been known for its air pollution for quite some time. 23% of residents in this neighborhood contracted tuberculosis in two months. Epidemiologists researched this specific neighborhood for two months, due to the large amount of residents contracting tuberculosis.
+
+10a. [frq, 3 pt] Sandy, an epidemiologist, stated that air pollution is the sole cause of increase of TB was a water fountain in a park. She only interviewed people who drank water out of that fountain. What is the flaw to her logic? What do we call this bias? How should she better sample people?
+
+10b. [frq, 2 pt] Air pollution of the area was looked into. Jeremy attempted to measure the air pollution levels. His reading was only 30% accurate. What kind of bias is this, and how can it be prevented?
+
+10c. [frq, 4 pt] Name two ways one could reduce random error. For each suggestion, suggest why it may not be feasible to have improvements.
+
+[STIMULUS] Billy got bitten by a mosquito who was infected with malaria. Billy ended up getting malaria.
+
+11a. [frq, 1 pt] What was the infectious agent in this scenario?
+
+11b. [frq, 2 pt] What is a reservoir and what served as the reservoir for the infectious agent?
+
+11c. [frq, 2 pt] Describe the portal of exit the infectious agent would use in this scenario.
+
+11d. [frq, 1 pt] What was the mode of transmission in which the malaria virus spread to Billy?
+
+11e. [frq, 2 pt] Define a susceptible host and state who in this situation was the susceptible host.
+
+[STIMULUS] A disease is known to affect the Pacific-coast states of the US (Alaska, Hawaii, California, Oregon, and Washington). Below is a table detailing disease cases in 2019 for each state.
+    | State | Number of Cases | Total State Population | Percentage of Cases |
+    | Alaska | 34,000 | 737,000 | [[q:12-1]] |
+    | Hawaii | 12,000 | 1,420,000 | [[q:12-2]] |
+    | California | 34,530 | 39,560,000 | [[q:12-3]] |
+    | Oregon | 23,590 | 4,191,000 | [[q:12-4]] |
+    | Washington | 89,000 | 7,536,000 | [[q:12-5]] |
+
+12-1. [frq, 1 pt] Row: Alaska - Percentage of Cases
+
+12-2. [frq, 1 pt] Row: Hawaii - Percentage of Cases
+
+12-3. [frq, 1 pt] Row: California - Percentage of Cases
+
+12-4. [frq, 1 pt] Row: Oregon - Percentage of Cases
+
+12-5. [frq, 1 pt] Row: Washington - Percentage of Cases
+
+12a. [frq, 5 pt] Complete the rightmost column of the table. You don't need to show your work for this part.
+
+12b. [frq, 2 pt] Calculate the mean of percentage of cases
+
+12c. [frq, 3 pt] Calculate the variance of percentage of cases
+
+12d. [frq, 2 pt] Calculate the standard deviation of percentage of cases
+
+12e. [frq, 3 pt] If Alaska were not included in this table, how much would the mean of percentage of cases change by?
+
+12f. [frq, 3 pt] The disease is known to generally affect an average 0.72% of the pacific coast population. The standard deviation across several years is 0.3%. Calculate the z-score for the 2019 average of case percentages.
+
+12g. [frq, 2 pt] We want to see if 2019 has a significantly higher rate of disease affliction than usual (0.72%). State the null hypothesis and alternative hypothesis for comparing the known mean to the calculated mean from 2019.
+
+12h. [frq, 1 pt] Below is a table comparing z-score values to p-value. Give an estimate of what the p-value could be based on the z-score you calculated in part f.
+    [IMAGE: ../images/2020_case_western_reserve_c__p7_3a18e4-00943323.webp]
+
+12i. [frq, 2 pt] At the 0.1 significance level, can we reject the null hypothesis? Why?
+
+12j. [frq, 2 pt] At the 0.05 significance level, can we reject the null hypothesis? Why?
+
+12k. [frq, 4 pt] Based on your answers in i and j, state a conclusion about if we can say for sure 2019 had a significantly higher than average occurrence of disease.
+
+12l. [frq, 3 pt] For parts l thru n, use a significance level of 0.05. Define a type I error. Calculate α, the probability of a type I error.
+
+12m. [frq, 4 pt] Define a type II error. Turns out the average rate of incidence over the past few years has been 1.12% with a standard deviation of 0.3%. Calculate the probability of a type II error
+
+12n. [frq, 4 pt] Define power of the test. Calculate the power of the test.

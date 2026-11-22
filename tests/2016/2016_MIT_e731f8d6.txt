@@ -1,0 +1,162 @@
+MIT — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  55 questions, 180.0 pts
+Source: scio.ly test archive id e731f8d6-2ba4-4cf6-8a27-b74bed905013  |  original files: https://drive.google.com/drive/folders/12glNVCaOyHKJLUIssIrZIgINnKhXBLUM
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+DIRECTIONS: Please remember to record all answers on your answer sheet. No penalty for guessing. Significant figures are not required. Units and work are required for all calculation questions. One 8.5x11" resource sheet is permitted per team. 2 non-programmable, non-graphing calculators are permitted.
+
+
+=== Exam Questions ===
+
+1a. [frq, 2 pt] Tuberculosis is designated a "reportable disease" in the United States. Why are certain diseases and conditions designated as "reportable" by public health institutions? What does this mean?
+
+1b. [frq, 2 pt] Who is responsible for disease reporting?
+
+1c. [frq, 6 pt] How can data on reportable diseases be used by researchers? Please provide THREE (3) examples.
+
+[STIMULUS] Please reference the following graphs related to ischemic (ischaemic) heart disease:
+    [IMAGE: ../images/2016_mit_c__p3_8bef1e-a25058c6.webp]
+
+2a. [frq, 2 pt] What relationship is suggested between the relative risk of ischemic heart disease and diastolic blood pressure?
+
+2b. [frq, 2 pt] What relationship is suggested between the relative risk of ischemic heart disease and fruit and vegetable intake?
+
+2c. [frq, 3 pt] What relationship is suggested between diastolic blood pressure and fruit and vegetable intake?
+
+2d. [frq, 3 pt] How do the relationships described in (2a) (2b) and/or (2c) help establish causality?
+
+[STIMULUS] (cont. 2) Consider this additional data:
+    [IMAGE: ../images/2016_mit_c__p4_eb4e9a-d590b627.webp]
+
+2e. [frq, 2 pt] What relationship is suggested between net family income and fruit and vegetable consumption?
+
+2f. [frq, 2 pt] Approximately what percentage of their income does a family in the 35th percentile of net family income typically spend on food?
+
+2g. [frq, 3 pt] From the data presented, how might family income be related to the risk of developing ischemic heart disease?
+
+[STIMULUS] 75 people in the small town of Croston, Texas (population: 27,500) become infected with Panda Flu. Local news outlets run headlines such as "PANDA PANDEMIC" and "DANGEROUS PANDEMIC IN CROSTON."
+
+3a. [frq, 1 pt] Is there a mistake with this terminology? Please provide correct definitions if needed.
+
+3b. [frq, 3 pt] How might this present a problem for the Croston Public Health Department?
+
+4. [frq, 18 pt] Please list the FIVE (5) components of the "Chain of Infection" in the correct order. For EACH component, please provide a brief definition and ONE (1) specific example of an associated preventative health measure.
+
+5. [frq, 2 pt] Identify and define the components of the traditional "epidemiological triad" – what does it represent?
+
+6a. [tf, 2 pt] True or False: Once a person is no longer experiencing symptoms of a disease, they are also no longer infectious.
+    A) True
+    B) False
+
+6a-corr. [frq, 1 pt] If the statement in 6a is false, provide corrections or an explanation to the statement.
+
+6b. [tf, 2 pt] True or False: It is not possible for an infectious agent to have more than one species of vector.
+    A) True
+    B) False
+
+6b-corr. [frq, 1 pt] If the statement in 6b is false, provide corrections or an explanation to the statement.
+
+6c. [tf, 2 pt] True or False: During an outbreak investigation, cases are often categorized as "confirmed," "probable," and "possible."
+    A) True
+    B) False
+
+6d. [tf, 2 pt] True or False: Participant attrition may introduce recall bias to an epidemiological study.
+    A) True
+    B) False
+
+6d-corr. [frq, 1 pt] If the statement in 6d is false, provide corrections or an explanation to the statement.
+
+6e. [tf, 2 pt] True or False: During drug trials, HIPPA requires that the patient is informed of whether or not they are receiving the experimental treatment.
+    A) True
+    B) False
+
+6f. [tf, 2 pt] True or False: It is not possible for an outbreak of a particular disease to occur in a population where that disease is already considered endemic.
+    A) True
+    B) False
+
+6g. [tf, 2 pt] True or False: Cohort studies can be retrospective, prospective, or a combination of both.
+    A) True
+    B) False
+
+6h. [tf, 2 pt] True or False: Pathogenicity refers to the ability of an agent to cause disease in a susceptible host.
+    A) True
+    B) False
+
+[STIMULUS] When you mention that you received a flu shot yesterday to your friends, several tell you why they won't be getting one this year. "I never get the flu shot, and I've never had the flu." "I don't like how it makes my arm sore." "I hate shots."
+
+7a. [frq, 3 pt] Why is it necessary for a large fraction of the population to be immunized for influenza?
+
+7b. [frq, 2 pt] Why must a new influenza vaccine be developed each year?
+
+7c. [frq, 2 pt] Please identify TWO (2) groups of people are protected from influenza when others receive their vaccinations in a timely manner?
+
+7d. [frq, 3 pt] Please identify THREE (3) factors which may influence the threshold of vaccination required to protect the population from different infectious diseases.
+
+8a. [frq, 5 pt] Epidemiologists may sometimes choose to design a study which specifically enrolls healthcare workers (ie nurses, doctors, hospital administrators, social workers, etc). In terms of an epidemiological study, what characteristics of healthcare workers may be unique or different compared to the general population? Please suggest such FIVE (5) such characteristics.
+
+8b. [frq, 6 pt] What type of bias(es) might be reduced with the inclusion of healthcare workers in an epidemiological study? Suggest TWO
+
+[STIMULUS] Beginning in 1976, the Nurse's Health Study followed 121,700 female nurses to assess risk factors for cancer and cardiovascular disease. One of the relationships evaluated was between cigarette smoking and the incidence rate of stroke:
+    [IMAGE: ../images/2016_mit_c__p6_cced13-40a3967d.webp]
+
+10a. [frq, 2 pt] What does the table mean by a "person-year" of observation?
+
+10b. [frq, 3 pt] Why is stroke incidence provided in terms of "per 100,000 person-years"?
+
+10c. [frq, 4 pt] What factors may result in the loss of follow-up data from a patient enrolled in an 8-year-long cohort study? Provide FOUR (4) – these may apply to any patient in any study, not just the Nurse's Health Study.
+
+[STIMULUS] Please reference the following:
+    [IMAGE: ../images/2016_mit_c__p7_f4a662-3e02553b.webp]
+
+11a. [frq, 1 pt] What type of diagram is shown above?
+
+11b. [frq, 2 pt] What are advantage(s) of this type of diagram?
+
+11c. [frq, 2 pt] What are disadvantage(s) of this type of diagram?
+
+11d. [frq, 4 pt] How can the diagram be modified to account for the disadvantage(s) suggested in part (c)?
+
+11e. [frq, 9 pt] Suppose an individual in New Mexico has the same risk of acquiring Lyme Disease as an individual in Pennsylvania. Please provide THREE (3) possible explanations for these findings.
+
+[STIMULUS] According to the Johns Hopkins Breast Center, "Adult women are encouraged to perform a breast self-exam at least once a month." This represents a screening test for breast cancer. Suppose in a fictional study, 10,000 women were asked to perform a breast self-exam. 5000 women (Group A) performed the breast self-exam after being given an informational pamphlet. The other 5000 women (Group B) performed the breast self-exam after being shown an instructional video. All women were the assessed for breast cancer (for the purpose of the question, please assume that this second test was 100% accurate). The researchers would like to know if the instructional video can improve the efficacy of the breast self-exam.
+
+The following (completely fictional) data was collected:
+    | GROUP A |  | Breast cancer | No breast cancer |
+    | Positive breast self-exam | 30 | 10 |  |
+    | Negative breast self-exam | 5 | 4955 |  |
+    | GROUP B |  | Breast cancer | No breast cancer |
+    | Positive breast self-exam | 33 | 10 |  |
+    | Negative breast self-exam | 3 | 4954 |  |
+
+12a. [frq, 2 pt] What is the purpose of a screening test such as the breast self-exam?
+
+12b. [frq, 6 pt] Please suggest THREE (3) general requirements for instituting an effective medical screening program (of any kind, not just screening for breast cancer).
+
+12c. [frq, 3 pt] Is the study described above "double-blind"? Why or why not?
+
+12d. [frq, 6 pt] In order to make Group A and Group B comparable in the study, certain patient characteristics are taken into account when assigning the women semi-randomly into Groups A and B. Please suggest SIX (6) such characteristics.
+
+12e. [frq, 2 pt] What is the procedure described in part (d) for semi-random group assignment in the study?
+
+12f. [frq, 2 pt] What is the purpose of the procedure described in part (d)?
+
+12h. [frq, 10 pt] Please calculate sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for Groups A and B. Compare and interpret your results. Don't forget to show work!
+
+12i. [frq, 4 pt] Please suggest TWO (2) disadvantages of implementing a screening test with low positive predictive value (PPV).
+
+13b. [frq, 1 pt] What type of study was performed?
+
+13c. [frq, 8 pt] Based on your answer from part (b), suggest TWO (2) advantages and TWO (2) disadvantages of this study type.
+
+13d. [frq, 5 pt] Calculate an appropriate measure of disease risk in this study. Interpret your results.
+
+[STIMULUS] Please refer to Article A ("Driving Under the Influence of Alcohol, Marijuana, and Alcohol and Marijuana Combined Among Persons Aged 16–25 Years — United States, 2002–2014") to answer the following questions:
+
+14a. [frq, 1 pt] What type of study was most likely performed?
+
+14b. [frq, 2 pt] In the context of this study, what does it mean for data to be "self-reported"?
+
+14c. [frq, 4 pt] Are there advantages or disadvantages to self-reporting in a study investigating driving under the influence? Please list TWO (2) examples of either advantages or disadvantages and explain your reasoning.
+
+14d. [frq, 2 pt] Name ONE (1) alternative method which may be used to collect data regarding driving under the influence.
+
+14e. [frq, 4 pt] What interventions are suggested in the article as having caused reduction in driving under the influence of alcohol among teenagers and young adults?

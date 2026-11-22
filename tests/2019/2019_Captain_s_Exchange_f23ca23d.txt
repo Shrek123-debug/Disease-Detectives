@@ -1,0 +1,167 @@
+Captain's Exchange — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  38 questions, 64.0 pts
+Source: scio.ly test archive id f23ca23d-4452-4057-bf2d-4d4f9a61a456  |  original files: https://drive.google.com/drive/folders/1L4HbEqCM46MFBc3k0oixjDkMpHhgxUsr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+
+=== Part 1: Multiple Choice ===
+
+1. [mcq, 1 pt] Which of the following is an example of a fomite?
+    A) A stagnant puddle infected with E. Coli
+    B) A hand towel infected with lice
+    C) A dog infected with lice
+    D) A bat infected with rabies
+
+2. [mcq, 1 pt] Ebola is most often transferred via
+    A) Food
+    B) Blood-and-blood contact
+    C) Airborne
+    D) Skin-and-skin contact
+
+3. [mcq, 1 pt] Which is an example of cross-contamination?
+    A) Mosquito bite transferring malaria
+    B) Someone sneezing into another person’s face
+    C) A milk bottle with a leak over an open container of pasta
+    D) The transfer of a virus from one population to another
+
+4. [mcq, 1 pt] Which of the following would be a good sample for a cross-sectional study?
+    A) mailing a brief health questionnaire to a random sample of houses once
+    B) splitting a sample of volunteers into a test group and control group
+    C) examining a group that is initially healthy to see changes in their disease status over time
+    D) Studying one specific case, analyzing their past to find a possible cause
+
+5. [mcq, 1 pt] The Spanish Flu in 1918 and the Black Plague in the Middle Ages were examples of a
+    A) endemics.
+    B) vehicles
+    C) epidemics
+    D) pandemics
+
+6. [mcq, 1 pt] Common symptoms of influenza include all of the following EXCEPT
+    A) Fever
+    B) Congestion
+    C) Fainting
+    D) Nausea
+
+7. [mcq, 1 pt] What type of pathogen is Zika?
+    A) Virus
+    B) Viron
+    C) Bacteria
+    D) Prion
+
+8. [mcq, 1 pt] Which of the following is not a form of pollution?
+    A) Noise
+    B) Water
+    C) Air
+    D) Underground
+
+9. [mcq, 1 pt] Which of the following is a disease most closely linked to air pollution?
+    A) COPD
+    B) Influenza
+    C) Brain cancer
+    D) Malaria
+
+10. [mcq, 1 pt] In an event of a flood, particularly in a third world country, which is the most likely disease to outbreak?
+    A) Cholera
+    B) Influenza
+    C) Marburg
+    D) Salmonella
+
+11. [mcq, 1 pt] What kind of epi curve is the graph above?
+    [IMAGE: ../images/2019_captain_s_exchange_c__p3_74028f-d0eb0633.webp]
+    A) Point source
+    B) Propagated
+    C) Continuous common source
+    D) None of the above
+    E) It is not an epi curve
+
+12. [mcq, 1 pt] After developing a hypothesis, what is the next step an epidemiologist should take in the event of an outbreak?
+    A) Inform the media
+    B) Cross check hypothesis to previous cases
+    C) Evaluate hypothesis analytically with a control group
+    D) Implement control and prevention measures
+
+13. [mcq, 1 pt] Natality
+    A) is the portion of infants who die shortly after birth
+    B) is the portion of live births that occur outside of hospitals and develop complications
+    C) is the total live births of a population during a specified period
+    D) is the total dead births of a population during a specified period
+
+14. [mcq, 1 pt] The total population growth for a given period could be expressed as
+    A) Natality + Mortality
+    B) Mortality - Natality
+    C) Natality - Mortality
+    D) Natality x Mortality
+
+15. [mcq, 1 pt] The resistance of a population to an attack by a disease to which a large proportion of the members of the group are immune is referred to as…
+    A) group resistance
+    B) population immunogenesis
+    C) herd immunity
+    D) the Panum Effect
+
+
+=== Part 2: Case Studies ===
+
+[STIMULUS] **Case Study 1**
+
+The city of Fremont, California has a population of 214,089. Before January 2015, there were 467 new cases of whooping cough (pertussis). An outbreak occurred in March at an elementary school in the west side of the city. After June 2015, there were 1209 more cases of whooping cough, with 19 confirmed deaths.
+
+Symptoms of whooping cough include severe/chronic coughing, apnea, fever, congestion, and sneezing.
+
+16. [frq, 2 pt] What is the overall attack rate of pertussis before the outbreak? After the outbreak?
+
+17. [frq, 1 pt] What is the prevalence of pertussis during the period January 2015 to June 2016?
+
+18a. [frq, 1 pt] Classify the following case: In April, a 5 year old who goes to the source elementary school complains of fatigue and severe coughing.
+
+18b. [frq, 1 pt] Classify the following case: A 18 year old visiting from college in August reports severe coughing and a fever.
+
+20. [frq, 1 pt] What is the mortality rate within the infected population?
+
+[STIMULUS] **Case Study 2**
+
+In an outbreak of tuberculosis among prison inmates in South Carolina in 1999, 28 of 157 inmates residing on the East wing of the dormitory developed tuberculosis, compared with 4 of 137 inmates residing on the West wing. (https://www.cdc.gov/ophss/csels/dsepd/ss1978/lesson3/section5.html)
+
+21. [frq, 4 pt] Fill in the 2x2 chart.
+
+22. [frq, 2 pt] Calculate the attack rates.
+
+23. [frq, 1 pt] Calculate the risk ratio and describe what it means.
+
+24. [frq, 1 pt] Calculate the incidence rate.
+
+25. [frq, 2 pt] List two ways the outbreak can be contained.
+
+[STIMULUS] **Case Study 3**
+
+An outbreak of botulism was pinned to a population of bus drivers in Argentina. The following food exposure information was collected through the cohort study. On January 19, the information was tabulated by epidemiologists from the Argentine MOH.
+
+(https://www.cdc.gov/epicasestudies/downloads/bot-stu-eng.pdf)
+    [IMAGE: ../images/2019_captain_s_exchange_c__p6_6dc6ed-6609fc04.webp]
+
+26. [frq, 8 pt] Calculate the associated risk ratio for each food item.
+
+27. [frq, 2 pt] What is the most likely source of the outbreak? Why?
+
+
+=== Part 3: Free Response ===
+
+28. [frq, 1 pt] What is the difference between a vector and a vehicle?
+
+29. [frq, 6 pt] List the Chain of Infection
+
+30. [frq, 4 pt] List two advantages and two disadvantages of a cohort study.
+
+31. [frq, 1 pt] What is the purpose of Hill’s Criteria?
+
+32. [frq, 1 pt] Describe the requirements of a hypothesis.
+
+33. [frq, 3 pt] What are the categories for indirect transmission?
+
+34. [frq, 1 pt] What is an example of tertiary prevention?
+
+35. [frq, 1 pt] What is the difference between morbidity and mortality?
+
+36. [frq, 1 pt] What is the descriptive epidemiology triad?
+
+37. [frq, 1 pt] What is information bias?
+
+38. [frq, 3 pt] What are the three characteristics of an agent?

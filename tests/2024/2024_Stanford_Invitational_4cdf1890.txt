@@ -1,0 +1,239 @@
+Stanford Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  48 questions, 90.0 pts
+Source: scio.ly test archive id 4cdf1890-b201-4f5a-8c33-40a2b5895ce2  |  original files: https://drive.google.com/drive/folders/1R4p-eoORhUaJfgd5Xx3SfSVaDtOE6Gge
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 21
+
+
+=== General Questions (10) ===
+
+1a. [frq, 1 pt] Define the following term: Iceberg Phenomenon
+
+1b. [frq, 1 pt] Define the following term: Vaccine
+
+1c. [frq, 1 pt] Define the following term: Fomite
+
+1d. [frq, 1 pt] Define the following term: Cluster
+
+1e. [frq, 1 pt] Define the following term: Reservoir
+
+2a. [frq, 2 pt] What was Edward Jenner known as, and what did he discover or do?
+
+[STIMULUS] A. Bacteria
+B. Virus
+C. Fungi
+D. Prion
+E. Parasite
+
+4-1. [mcq, 1 pt] Match the disease to the correct agent: Chicken pox
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-2. [mcq, 1 pt] Match the disease to the correct agent: Measles
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-3. [mcq, 1 pt] Match the disease to the correct agent: Pertissus
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-4. [mcq, 1 pt] Match the disease to the correct agent: Scabies
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-5. [mcq, 1 pt] Match the disease to the correct agent: Tuberculosis
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-6. [mcq, 1 pt] Match the disease to the correct agent: Encephalitis
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+4-7. [mcq, 1 pt] Match the disease to the correct agent: Ringworm
+    A) Bacteria
+    B) Virus
+    C) Fungi
+    D) Prion
+    E) Parasite
+
+5a. [frq, 1.5 pt] List the difference in the primary role of the clinical vs public health approach and response (do not list the steps). — Clinical approach
+
+5b. [frq, 1.5 pt] List the difference in the primary role of the clinical vs public health approach and response (do not list the steps). — Public health approach
+
+13a. [frq, 1 pt] Ford is reading about types of biases and comes across surveillance bias. What is surveillance bias, also known as detection bias or ascertainment bias?
+
+14a. [frq, 1 pt] Ford and Stan are making a poster on surveillance for their class project. Define active, passive, and sentinel surveillance. — Passive surveillance
+
+14b. [frq, 1 pt] Ford and Stan are making a poster on surveillance for their class project. Define active, passive, and sentinel surveillance. — Active surveillance
+
+14c. [frq, 1 pt] Ford and Stan are making a poster on surveillance for their class project. Define active, passive, and sentinel surveillance. — Sentinel surveillance
+
+
+=== Case Study 1: Norovirus Outbreak (23) ===
+
+[STIMULUS] At the end of 2022, a Norovirus outbreak was determined across multiple states in the US. The CDC and FDA linked the outbreak to oysters harvested in Galveston Bay, Texas, and a recall was placed on all raw oysters harvested at the bay. During the outbreak, the CDC collected 211 reports of Norovirus from 8 different states.
+
+CS1-1. [frq, 2 pt] Are health providers and local departments required to report cases of the Norovirus?
+
+CS1-2. [frq, 4 pt] List two diseases that health providers and local departments are required to report.
+
+CS1-3. [frq, 2 pt] Why are Norovirus outbreaks more likely to occur from November through April in the northern hemisphere?
+
+CS1-4. [frq, 2 pt] In response to the outbreak, the oysters were recalled. Explain what recalling is and what kind of prevention recalling is.
+
+CS1-5. [frq, 3 pt] What other actions should local restaurants and supermarkets do to prevent the outbreak from happening? List two actions.
+
+CS1-6. [frq, 2 pt] What are some symptoms of Norovirus? List two.
+
+CS1-7a. [frq, 1.5 pt] A professor at Standford eats raw oysters on December 1st, 2022 as a 6 am snack and gets the Norovirus. When would the professor first start to feel symptoms?
+
+CS1-7b. [frq, 1.5 pt] A professor at Standford eats raw oysters on December 1st, 2022 as a 6 am snack and gets the Norovirus. When would the professor be well enough to return to teaching?
+
+CS1-8. [frq, 2 pt] Your friend gets their hands on a batch of raw oysters that was sold during the recall time period. Your friend thinks that it will be okay if they cook the oysters, as that will kill the virus. Based on your knowledge, will cooking destroy the virus? If it does, is cooking and then consuming the oysters still a good idea?
+
+CS1-9. [frq, 2 pt] List two ways people can protect themselves against Norovirus.
+
+
+=== Case Study 2: UC Burkeley Food Poisoning Outbreak (37) ===
+
+[STIMULUS] In December 2023, UC Burkeley students were suffering from final exams. However, at the same time, an even more sinister malady was afoot. Burkeley students can eat at any of the four dining halls – Cafe 3.14, Feethill, Crosspaths, and Clock Kerr – all of which serve different foods from different sources/providers. Let us assume that all students tend to eat at the dining hall closest to their dorm, but will occasionally eat at a different one. Students also have the option of having their friends/roommates pick up food for them, and many sick students opt for pick up instead of going to eat in the dining halls themselves.
+
+A few days before finals start, students begin complaining about stomach pains, diarrhea, and vomiting. Visiting students from Standford, concerned about their fellow UC Burkeley students, suspect that there is a food poisoning outbreak and collect the following data on students over a period of a week (7 days):
+
+| Dining Hall | Number of sick students | Number of students that eat the dining hall regularly |
+|---|---|---|
+| Cafe 3.14 | 250 | 2,000 |
+| Feethill | 20 | 3,000 |
+| Crosspaths | 45 | 4,000 |
+| Clock Kerr | 5 | 1,000 |
+| Total | 320 | 10,000 |
+
+CS2-2. [frq, 2 pt] Given this type of case-study, is it appropriate to use the incidence rate to determine which dining hall caused the disease? If not, what statistic would be more appropriate?
+
+CS2-3. [mcq, 1 pt] From which dining hall did the sickness most likely originate?
+    A) Cafe 3.14
+    B) Feethill
+    C) Crosspaths
+    D) Clock Kerr
+
+[STIMULUS] After deducing the source of the outbreak, Standford students investigate the food served at that dining hall and the students who go there. Two students collect data: Stan surveys the 1st floor students who live in the dorms near the dining hall. Ford surveys every tenth student who enters the dining hall. They have the students self-report their sickness depending on how they are feeling and report what foods they have had.
+
+The two of them collect the following data on the foods present at the dining hall, the number of students who consumed each food, and whether sickness ensued:
+
+**Stan's Data:**
+
+| Total number of students surveyed | 100 |
+|---|---|
+| Total number of sick surveyed students | 13 |
+| Total number of healthy surveyed students | 97 |
+
+
+
+
+| Food eaten | Sick | Not sick |
+|---|---|---|
+| Halal Chicken | 10 | 60 |
+| Beef Brisket | 8 | 55 |
+| Pork Spareribs | 11 | 70 |
+| Beef Burgundy | 3 | 42 |
+
+**Ford's Data**
+
+| Total number of students surveyed | 90 |
+|---|---|
+| Total number of sick surveyed students | 7 |
+| Total number of healthy surveyed students | 83 |
+
+| Food eaten | Sick | Not sick |
+|---|---|---|
+| Halal Chicken | 4 | 62 |
+| Beef Brisket | 2 | 62 |
+| Pork Spareribs | 5 | 57 |
+| Beef Burgundy | 3 | 42 |
+
+CS2-4a. [frq, 3 pt] Are there problems with Stan's or Ford's sampling methods? Explain. If there is bias present, give the name of the bias. — Ford's sampling method
+
+CS2-4b. [frq, 3 pt] Are there problems with Stan's or Ford's sampling methods? Explain. If there is bias present, give the name of the bias. — Other problem 1
+
+CS2-4c. [frq, 3 pt] Are there problems with Stan's or Ford's sampling methods? Explain. If there is bias present, give the name of the bias. — Stan's sampling method
+
+CS2-4d. [frq, 3 pt] Are there problems with Stan's or Ford's sampling methods? Explain. If there is bias present, give the name of the bias. — Other problem 2
+
+CS2-5. [mcq, 1 pt] What kind of a study are Stan and Ford conducting?
+    A) Cross-sectional
+    B) Case-control
+
+CS2-6. [mcq, 1 pt] Should Stan and Ford use an odds ratio or relative risk?
+    A) Odds ratio
+    B) Relative risk
+
+CS2-7. [frq, 12 pt] Calculate the statistic from the previous question for each of the foods for both Stan and Ford's data
+
+CS2-8. [mcq, 1 pt] According to Stan's data, which food likely caused the sickness?
+    A) Halal Chicken
+    B) Beef Brisket
+    C) Pork Spareribs
+    D) Beef Burgundy
+
+CS2-9. [mcq, 1 pt] According to Ford's data, which food likely caused the sickness?
+    A) Halal Chicken
+    B) Beef Brisket
+    C) Pork Spareribs
+    D) Beef Burgundy
+
+[STIMULUS] Stan and Ford take this information to UC Burkeley staff and they spend all of winter break fixing the problem.
+
+CS2-12. [frq, 1 pt] What step in the Outbreak Investigation is this action? Give the step name, not just the number
+
+
+=== Case Study 3: Vaccines for babies (23) ===
+
+[STIMULUS] In the city of Standford, a mysterious disease has been plaguing the citizens. The disease seems to particularly affect babies and infants, and while older children and adults can catch the disease, they often remain asymptomatic. Researchers scramble to develop screening tests, since they have (somehow) discovered that when babies and infants get treatment during the early phases of infection, the babies and infants are more likely to recover quickly and with less complications. However, while the screening test that the researchers have developed is rather cheap, the treatment is very expensive. There is also an alternative laboratory test that is extremely accurate and precise that the researchers can perform, however that test is very expensive.
+
+Researchers take a random sample of newborn infants and babies and have them use the screening test and run lab tests on them to see if they are truly sick. They collect the data below:
+
+|  | Is Sick | Is not sick | Total |
+|---|---|---|---|
+| Positive Test | 185 | 20 | 205 |
+| Negative Test | 15 | 230 | 245 |
+| Total | 200 | 250 | 550 |
+
+CS3-4. [frq, 2 pt] Is the screening test good enough to be put on the market, or would it be better if the researchers changed it before releasing it into the market? Explain.
+
+CS3-5. [frq, 1 pt] Why might infants and babies be more prone to catching the disease and getting affected by it?
+
+[STIMULUS] Upon further research, scientists note that the R0 of the mysterious disease for infants and babies is approximately 2.3.
+
+CS3-6. [frq, 2 pt] What does an R0 of 2.3 mean?
+
+CS3-7. [frq, 3 pt] Given the R0, calculate the number of babies and infants that will need to be vaccinated in order to establish herd immunity if there are a total of 2000 infants and babies in Standford.
+
+[STIMULUS] Researchers consequently go about developing a vaccine against the mysterious disease. They conduct a study on a group of volunteers aged 4-8 and collect the data below.
+
+|  | Gets disease | No disease | Total |
+|---|---|---|---|
+| Vaccinated | 15 | 265 | 280 |
+| Not Vaccinated | 55 | 145 | 200 |
+| Total | 70 | 410 | 480 |
+
+CS3-8. [frq, 2 pt] The children in the study are given a placebo or a vaccine but are not told which they have received. Why is blinding important in the study? What phenomenon or effect are the scientists trying to mitigate?
+
+CS3-9. [frq, 3 pt] Calculate the efficacy of the vaccine.
+
+CS3-10. [frq, 2 pt] What does this efficacy value mean?

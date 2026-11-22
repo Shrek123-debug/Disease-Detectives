@@ -1,0 +1,253 @@
+UCR Highlander Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  59 questions, 59.0 pts
+Source: scio.ly test archive id 04d8bb39-066d-48c6-b8e7-dec42680e38b  |  original files: https://drive.google.com/drive/folders/17ounKibxg78Zs5K7ANTrKc2HZMbZWUdc
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 22
+
+DIRECTIONS: 5. You may round up to 2 decimal places. Show all work and units for partial credit.
+
+
+=== Section I: GENERAL KNOWLEDGE ===
+
+1. [mcq, 1 pt] What does the current CDC stand for?
+    A) Centers for Disease Control and Treatment
+    B) Centers for Disease Control and Prevention
+    C) Center for Disease Control and Prevention
+    D) Centers for Disease Control and Provision
+
+2. [mcq, 1 pt] Where is the current CDC Headquarters?
+    A) New York City, NY
+    B) Montgomery, Alabama
+    C) Atlanta, Georgia
+    D) Richmond, Virginia
+
+4. [mcq, 1 pt] What is the name of the United Nations agency dedicated to global health and safety?
+    A) WHO
+    B) UNESCO
+    C) UNIATF
+    D) IARC
+
+5. [mcq, 1 pt] How much money did CDC use to track overdoses and implement evidence-based prevention strategies in 2024?
+    A) $280 million
+    B) $2.2 undecillion
+    C) $160 million
+    D) $450 million
+
+6. [frq, 1 pt] Name three outbreaks that occurred in 2024 (can be domestic or international).
+    ____, ____, and ____
+
+[STIMULUS] Match the term to the activity that best describes it. 1 term per activity.
+
+WORD BANK: Application, Determinants, Distribution
+
+7a. [frq, 1 pt] Compare frequency of breast cancer in pregnant mothers with frequency in general population.
+
+7b. [mcq, 1 pt] Recommend that close contacts of a child recently reported with whooping cough receive antibiotics.
+    A) Application
+    B) Determinants
+    C) Distribution
+
+7c. [frq, 1 pt] Compare food histories between persons with E. coli food poisoning and those without.
+
+7d. [mcq, 1 pt] Tabulate the frequency of symptoms and laboratory findings among children with chickenpox in Richmond, Virginia.
+    A) Application
+    B) Determinants
+    C) Distribution
+
+7e. [mcq, 1 pt] Mark on a map the residences of all children born with birth defects within a 1.75 mile radius of a hazardous waste site.
+    A) Application
+    B) Determinants
+    C) Distribution
+
+[STIMULUS] Match the vocabulary to its correct definition/example with the corresponding letter. Make sure you write “aa”, “bb”, etc. for those after “z”.
+
+a. The constant presence of a disease or infectious agent within a given geographic area or population group; may also refer to the usual prevalence of a given disease within such an area or group.
+b. The occurrence of more cases of disease than expected in a given area or among a specific group of people over a particular period of time.
+c. An epidemic occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+d. Synonymous with epidemic. Sometimes the preferred word, as it may escape sensationalism associated with the word epidemic. Alternatively, a localized as opposed to generalized epidemic.
+e. An aggregation of cases of a disease or other health-related condition, particularly cancer and birth defects, which are closely grouped in time and place. The number of cases may or may not exceed the expected number; frequently the expected number is not known.
+f. A disease that occurs infrequently and irregularly.
+g. The probability that an event will occur, for instance, that a person will become ill or die within a stated period of time or age.
+h. An expression of the frequency with which an event occurs in a defined population.
+i. The value obtained by dividing one quantity by another.
+j. A type of ratio in which the numerator is included in the denominator.
+k. An animate intermediary in the indirect transmission of an agent that carries the agent from a reservoir to a susceptible host.
+l. A dish that carries infectious agents
+m. Number of microorganisms ingested from which a pathology is observed in the consumer
+n. During this time, an infected person can spread their infection to others
+o. The proportion of persons exposed to a causative agent who become infected by an infectious disease.
+p. The proportion of persons infected, after exposure to a causative agent, who then develop clinical disease.
+q. The carrier state may be of short or long duration
+r. Any factor, whether event, characteristic, or other definable entity, that brings about change in a health condition, or in other defined characteristics.
+s. Patient is prescribed medications that interact poorly, but they aren't warned about the risk
+t. Acquired in hospital settings
+u. Not transmissible directly from one person to another
+v. Inapparent pathologic changes following exposure, ending with the onset of symptoms of chronic disease
+w. Appear suddenly and last for a short time
+x. The carrier state may be long in duration
+y. A graph of a frequency distribution with values of the variable on the x-axis and the number of observations on the y-axis; data points are plotted at the midpoints of the intervals and are connected with a straight line.
+z. The first step in testing for statistical significance in which it is assumed that the exposure is not related to disease.
+aa. A visual display of the actual data points of a noncontinuous variable.
+bb. A map that indicates the location of each case of a rare disease or outbreak by a place that is potentially relevant to the health event being investigated, such as where each case lived or worked.
+cc. A measure of the dispersion shown by a set of observations, defined by the sum of the squares of deviations from the mean, divided by the number of degrees of freedom in the set of observations.
+dd. The degree to which a measurement actually measures or detects what it is supposed to measure.
+
+8. [frq, 1 pt] Sporadic
+
+10. [frq, 1 pt] Noncommunicable
+
+11. [frq, 1 pt] Infectious dose
+
+12. [frq, 1 pt] Proportion
+
+13. [frq, 1 pt] Risk
+
+15. [frq, 1 pt] Fomite
+
+17. [frq, 1 pt] Infectivity
+
+18. [frq, 1 pt] Nosocomial
+
+20. [frq, 1 pt] Endemic
+
+23. [frq, 1 pt] Determinant
+
+24. [frq, 1 pt] Pandemic
+
+26. [frq, 1 pt] Latent
+
+27. [frq, 1 pt] Rate
+
+28. [frq, 1 pt] Epidemic
+
+29. [frq, 1 pt] Ratio
+
+31. [frq, 1 pt] Outbreak
+
+32. [frq, 1 pt] Vector
+
+33. [frq, 1 pt] Pathogenicity
+
+34. [frq, 1 pt] Cluster
+
+35. [frq, 1 pt] Period of communicability
+
+37. [frq, 1 pt] Iatrogenic
+
+38. [mcq, 1 pt] Which of the following scientists developed a statistical procedure for stratified analysis of case-control studies?
+    A) McNemar
+    B) Fischer
+    C) Chi, Z, and T
+    D) Cochran, Maentel, and Haenszel
+
+39. [mcq, 1 pt] Which of the following was a Hungarian physician and early pioneer of antiseptic procedures such as washing hands between autopsies with chlorinated lime (calcium hypochlorite)?
+    A) Albert Szent-Györgyi
+    B) Edward Sydenstricker
+    C) Hans Selye
+    D) James Lind
+    E) Ignaz Semmelweis
+
+40. [mcq, 1 pt] The CDC lists which Greek physician as one of the earliest epidemiologists?
+    A) Alcmaeon
+    B) Hippocrates
+    C) Democritus
+    D) Herodicus
+    E) Praxagoras
+
+41. [frq, 1 pt] Give an example of large community-based trials that were implemented in the world during the twentieth century.
+
+42. [frq, 1 pt] Choose five of the eight epidemiologists and write a short description on their contributions.
+    
+    Edward Jenner, Ignaz Semmelweis, John Snow, Jonas Salk, John Graunt, Edward Sydenstricker, William Farr, Joseph Lister
+
+43. [frq, 1 pt] List three common HAIs.
+    ____, ____, ____
+
+44. [frq, 1 pt] List three 2024 National Notifiable Infectious Diseases on the list procured by the CDC.
+    ____, ____, ____
+
+[STIMULUS] Based on the following activities, fill out the corresponding prevention level.
+    | Activity | Prevention Level |
+    | Encouraging healthy eating habits in early childhood through education. | [[q:45-1]] |
+    | Providing mosquito nets to prevent malaria in endemic areas. | [[q:45-2]] |
+    | Educating patients about the risks of overtesting (e.g., excessive CT scans). | [[q:45-3]] |
+    | Providing cardiac rehabilitation programs after a heart attack. | [[q:45-4]] |
+    | Banning harmful substances, like trans fats, from the food supply. | [[q:45-5]] |
+    | Surgical interventions, like joint replacement, to restore mobility. | [[q:45-6]] |
+    | Pap smear tests to identify cervical cancer precursors. | [[q:45-7]] |
+
+45-1. [frq, 1 pt] Row: Encouraging healthy eating habits in early childhood through education. — Prevention Level
+
+45-2. [frq, 1 pt] Row: Providing mosquito nets to prevent malaria in endemic areas. — Prevention Level
+
+45-3. [frq, 1 pt] Row: Educating patients about the risks of overtesting (e.g., excessive CT scans). — Prevention Level
+
+45-4. [frq, 1 pt] Row: Providing cardiac rehabilitation programs after a heart attack. — Prevention Level
+
+45-5. [frq, 1 pt] Row: Banning harmful substances, like trans fats, from the food supply. — Prevention Level
+
+45-6. [frq, 1 pt] Row: Surgical interventions, like joint replacement, to restore mobility. — Prevention Level
+
+45-7. [frq, 1 pt] Row: Pap smear tests to identify cervical cancer precursors. — Prevention Level
+
+46. [frq, 1 pt] What does the acronym MOT TAF stand for?
+
+[STIMULUS] Based on the following, list the correct transmission.
+    | Scenario | Transmission |
+    | Touching a doorknob contaminated with flu virus. | [[q:47-1]] |
+    | Diphtheria through respiratory secretions. | [[q:47-2]] |
+    | Typhoid fever from unsafe drinking water. | [[q:47-3]] |
+    | Measles spread in poorly ventilated areas. | [[q:47-4]] |
+    | Listeriosis from unpasteurized dairy products. | [[q:47-5]] |
+
+47-1. [frq, 1 pt] Row: Touching a doorknob contaminated with flu virus. — Transmission
+
+47-2. [frq, 1 pt] Row: Diphtheria through respiratory secretions. — Transmission
+
+47-3. [frq, 1 pt] Row: Typhoid fever from unsafe drinking water. — Transmission
+
+47-4. [frq, 1 pt] Row: Measles spread in poorly ventilated areas. — Transmission
+
+47-5. [frq, 1 pt] Row: Listeriosis from unpasteurized dairy products. — Transmission
+
+48. [frq, 1 pt] You track a person through its stages of natural history. Label and place in chronological order.
+    
+    Plaques develop, narrowing arteries without causing symptoms.
+    Prolonged unhealthy lifestyle leads to plaque buildup in arteries.
+    A heart attack (myocardial infarction) may occur, requiring emergency care.
+    Risk factors include high cholesterol, smoking, and hypertension.
+    Reduced blood flow to the heart develops gradually.
+    Recovery with cardiac rehabilitation.
+    Chest pain (angina) or shortness of breath occurs during exertion.
+
+
+=== Section II: CASE STUDIES ===
+
+[STIMULUS] It was a scorching July in 2000, and the Gulf of Taranto, a picturesque corner of southern Italy, was alive with the usual summer buzz: sunburned tourists jostling for gelato, children squealing by the sea, and locals debating whether it was too hot even for espresso. But beneath the idyllic surface, trouble was brewing—not in the espresso machines, but in the stomachs of the resort-goers. A total of 456 guest rooms in 19 buildings, equipped with a restaurant, swimming pool, and resort management office.
+
+Through the 7th-31st, what began as a few whispered complaints of queasy bellies quickly spiraled into a full-blown outbreak, reporting diarrhea or vomiting. Sun-kissed travelers were now pale and wilted, clutching their stomachs. The local medical clinic was overrun, its waiting room packed with a mix of concerned tourists and grumbling locals wondering who had cursed their summer.
+
+Rumors began to swirl: Was it the seafood? The tap water? That suspiciously warm tiramisu at the buffet? As the theories grew wilder—alien microbes in the sea, a secret pasta conspiracy—it became clear that an expert was needed to cut through the chaos.
+
+Enter you, the amateur epidemiologist. With your crisp white lab coat (recently upgraded to include extra pockets for snacks) and a field kit at the ready, you were there first-hand.
+
+The resort’s manager, a man whose tan had faded dramatically over the past week, approached you with a desperate plea. "We need answers, doctor," he said, his sunglasses slipping down his nose. "And fast. These tourists didn’t pay for this kind of thrill."
+
+With a nod and a notepad in hand, you accepted the challenge. The game was afoot, and the Gulf of Taranto was about to see some serious sleuthing (Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC2738487/ )
+    [IMAGE: ../images/2025_ucr_highlander_invitational_b_c__p12_1bbcf1-0b3719f9.webp]
+
+49. [frq, 1 pt] You arrive on the 18th, already tasked with the first step: a local health unit and the Institute of Hygiene of the Faculty of Medicine located roughly 100 km away, need a case definition. Provide them the case definition.
+
+50. [frq, 1 pt] You are provided with a team, quickly sending out a standard questionnaire to all of the staff. What kind of study is this?
+
+52. [frq, 1 pt] These lab results were used by PCR. What does PCR stand for? What does it do?
+
+53. [mcq, 1 pt] Which of the following microbes would have most likely caused the outbreak?
+    A) Plasmodium falciparum
+    B) Norwalk-like virus
+    C) Rickettsia rickettsii
+    D) Streptococcus pneumoniae
+
+58. [frq, 1 pt] Each of the relative risks have 95% confidence intervals. What does this mean?
+
+61. [frq, 1 pt] You decide to make a graph. What is the following graph called?
+
+62. [frq, 1 pt] What type of graph is it? Justify your answer.

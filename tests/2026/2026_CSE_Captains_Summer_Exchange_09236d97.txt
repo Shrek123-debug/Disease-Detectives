@@ -1,0 +1,283 @@
+CSE (Captains Summer Exchange) — Disease Detectives (International Academy East)  |  Season 2026  |  Division C  |  Time limit 50 min  |  56 questions, 88.0 pts
+Source: scio.ly test archive id 09236d97-77c0-4a23-95f7-8d86bcc457c2  |  original files: https://drive.google.com/drive/folders/10PveYovCgCFrvqiCZswZkDJZoRfIyCb7
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+
+=== Section 1: Multiple Choice ===
+
+[STIMULUS] For the next three questions, select the type of surveillance that is being portrayed.
+
+2. [mcq, 1 pt] Healthcare specialists receive news that 15 hospitals out of their carefully purposefully selected network have reported cases of S. aureus in the past week.
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+
+3. [mcq, 1 pt] All healthcare providers have to report the number of measles cases to their local health department every week.
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+
+4. [mcq, 1 pt] A few CDC health officials noticed a large increase in the number of H1-N1 cases so they reached out to doctor offices, urgent care facilities, and hospitals to get data on the confirmed number of cases.
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+
+5. [mcq, 1 pt] Which is the largest determinant that influences health?
+    A) Social characteristics/total ecology
+    B) Health behaviors
+    C) Medical care
+    D) Genetics
+    E) None of the above
+
+[STIMULUS] Match the type of error to the scenario.
+
+a. Type I error
+b. Type II error
+
+6. [mcq, 2 pt] A study examines the potential association between air pollution and heart disease in a specific region. The study fails to detect a significant link, even though a real association exists.
+    A) Type I error
+    B) Type II error
+
+7. [mcq, 2 pt] A study investigating the link between a new dietary supplement and cancer prevention. The study mistakenly concludes the supplement reduces cancer risk even though it has no real effect in the population.
+    A) Type I error
+    B) Type II error
+
+8. [mcq, 2 pt] Researchers came to the conclusion that there was a link between being in the park and contracting salmonella, even though there wasn't.
+    A) Type I error
+    B) Type II error
+
+10. [mcq, 1 pt] In which stage of disease do pathological changes occur?
+    A) Stage of good health
+    B) Stage of susceptibility
+    C) Stage of subclinical disease
+    D) Stage of Clinical disease
+    E) Stage of recovery, disability, or death
+
+16. [mcq, 1 pt] Which of the following questions does analytic epidemiology ask?
+    A) When was the population affected?
+    B) Who was affected?
+    C) Where was the population affected?
+    D) How was the population affected?
+    E) Why was the sample selected?
+
+17. [mcq, 1 pt] Which of the following is NOT a part of the public health approach?
+    A) Health behaviors
+    B) Surveillance
+    C) Risk-factor identification
+    D) Intervention evaluation
+    E) Implementation
+
+18. [mcq, 1 pt] Immunity offered by an antibody produced in another host and acquired naturally by an infant from its mother or artificially by administration of an antibody-containing preparation (antiserum or immune globulin). Which of the following types of immunity is this?
+    A) Innate immunity
+    B) Active immunity
+    C) Adaptive immunity
+    D) Passive immunity
+    E) Herd immunity
+
+[STIMULUS] Label whether each scenario is clinical health (A) or public health (B).
+
+19. [mcq, 1 pt] There is a seminar for all students to learn about the dangers of smoking.
+    A) Clinical health
+    B) Public health
+
+20. [mcq, 1 pt] A doctor tells a patient to come in for further testing after an appointment.
+    A) Clinical health
+    B) Public health
+
+21. [mcq, 1 pt] Lettuce is recalled because of E. Coli outbreak.
+    A) Clinical health
+    B) Public health
+
+22. [mcq, 1 pt] You quarantine for 7 days after returning from vacations
+    A) Clinical health
+    B) Public health
+
+23. [mcq, 1 pt] A study investigating the association between smoking and lung cancer finds an odds ratio of 5. How can you interpret this finding?
+    A) Individuals who smoke are 5 times more likely to develop lung cancer compared to those who do not smoke.
+    B) Individuals who smoke are 5 times LESS likely to develop lung cancer compared to those who do not smoke.
+    C) The odds of developing lung cancer are the same for smokers and non-smokers.
+    D) The study cannot determine the direction of the association between smoking and lung cancer.
+    E) None of the above
+
+[STIMULUS] Match the Hill criteria that exemplify the following statements
+
+a. Strength of Association
+b. Biological Plausibility
+c. Analogy
+d. Dose Response
+e. Temporality
+
+24. [mcq, 1 pt] “We examined the relationship between computer-use and eye-strain and found a strong relationship between eye-strain and increasing hours of computer-use.”
+    A) Strength of Association
+    B) Biological Plausibility
+    C) Analogy
+    D) Dose Response
+    E) Temporality
+
+25. [mcq, 1 pt] “In this study, unsafe poultry handling was measured 1 week before food poisoning.”
+    A) Strength of Association
+    B) Biological Plausibility
+    C) Analogy
+    D) Dose Response
+    E) Temporality
+
+26. [mcq, 1 pt] “The association was substantial, with youth who used computers >5 hours per day being 5.99 times as likely to experience eye-strain than youth who watched 0 to 2 hours per day.”
+    A) Strength of Association
+    B) Biological Plausibility
+    C) Analogy
+    D) Dose Response
+    E) Temporality
+
+27. [mcq, 1 pt] “…the computer may be a source of entertainment. However eye-strain a bi-product of a chemical reaction that takes place when adolescents use a computer.”
+    A) Strength of Association
+    B) Biological Plausibility
+    C) Analogy
+    D) Dose Response
+    E) Temporality
+
+28. [mcq, 1 pt] In Rochester Hills, there have been 3 cases of a rare disease found in the population. Is this an outbreak?
+    A) Yes, this is an outbreak
+    B) No, this is not an outbreak
+    C) No, this is endemic
+    D) No, this is an epidemic
+    E) Not enough information to determine
+
+29. [mcq, 1 pt] Roles of the CDC include:
+    A) Funding the development of new medications and treatments
+    B) Regulating novel medications and treatments
+    C) Coordinating with local health providers
+    D) Declaring a pandemic
+    E) None of the above
+
+30. [mcq, 1 pt] The CDC assigns 100 hospitals in the country to look out for cases of measles. What type of surveillance is this?
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+    E) Medical
+
+31. [mcq, 1 pt] Which of the following is the best definition of a cluster?
+    A) An aggregation of cases closely grouped in time and space
+    B) An aggregation of cases closely grouped in time and space that is greater than typically expected
+    C) An aggregation of cases that occur at a similar time
+    D) An aggregation of cases that is more than typically expected over a long period of time
+    E) An aggregation of cases that occur in a similar area
+
+32. [mcq, 1 pt] Which of the following is a drawback of passive surveillance?
+    A) Too expensive
+    B) Difficult to ensure completeness of data
+    C) May not be effective for rare diseases
+    D) Only useful for cohort studies
+    E) None of these
+
+33. [mcq, 1 pt] Which of the following is an example of temporality?
+    A) A scientist checks previous studies to make sure his information matches.
+    B) A scientist considers multiple different possibilities before making a conclusion
+    C) An individual who had contracted salmonella began showing symptoms after eating from undercooked meat
+    D) Many scientists get salmonellosis at the same lab, pointing towards a common source of exposure in the lab
+    E) None of these
+
+
+=== Section 2: Outbreak Investigation ===
+
+[STIMULUS] On March 27, 2023, Suzie Hawkins, a student in the Troy School District, became violently sick with stomach pain and vomiting, the first person in the TSD to present such symptoms. Other students also reported muscle weakness and nausea but CDC epidemiologists could not figure out the cause. So far, 5 schoolchildren in Troy have died from this mysterious outbreak, signaling its severity. The Michigan Department of Health and Human Services funded you, a researcher at the University of Michigan, one year later, to conduct a study of schoolchildren in Troy at two Troy middle schools (n = 183) to understand this outbreak.
+
+34. [frq, 2 pt] Why is this scenario considered an outbreak?
+
+35. [frq, 1 pt] What type of case is Suzie Hawkins?
+
+36. [frq, 5 pt] Construct a working case definition for this scenario. Include at least three symptoms.
+
+37. [frq, 2 pt] What are two ways you can prepare for field work?
+
+44. [mcq, 1 pt] You make an epi curve of the outbreak and it looks like this: Which type of outbreak is this?
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p11_c5be792-91366c4c.webp]
+    A) Continuous Common Source
+    B) Point Source
+    C) Propagated Source
+    D) Intermittent Source
+
+46. [frq, 4 pt] What is a challenge in implementing a control measure in a resource poor developing nation and how can you address it?
+
+[STIMULUS] When you come back home, you’re inspired to research low cost screening tests that help defend against preventable household environment disease. You develop a screening test kit for lead poisoning with a sensitivity of 98% and a specificity of 92%. It was applied to a population of 1007 children in which the prevalence of lead poisoning is 43.198%. The current reference/gold standard for lead poisoning is the lead strip test.
+
+48. [frq, 1 pt] What is the formula for prevalence?
+
+49. [frq, 2 pt] Calculate the PPV for this scenario. Round to the nearest hundredth.
+
+50. [frq, 2 pt] Interpret the PPV in the context of this scenario
+
+51. [frq, 2 pt] Calculate the NPV for this trial. Round to the nearest hundredth.
+
+52. [frq, 2 pt] Interpret the NPV in the context of this scenario
+
+53. [frq, 2 pt] Considering your test is a screening test and not a diagnostic test, which of these four statistics should be prioritized and why?
+
+[STIMULUS] Looking through older pneumonitis outbreaks, you come across this graph:
+
+This outbreak occurred in a Birmingham neighborhood with 55 people in 2005. Before the shown data, there were 10 active cases and 1 death on September 1st, 2004, with the neighborhood population being 55. Round to the nearest hundredth if necessary.
+    [IMAGE: ../images/2026_cse_captains_summer_exchange_c__p13_0a890e-565aadab.webp]
+
+54. [frq, 5 pt] What is the point prevalence on October 1st, 2004?
+
+
+=== Section 3: Free Response ===
+
+56. [frq, 3 pt] What is the difference in the **Primary Role** of the Clinical Approach vs. Public Health Approach?
+
+57. [frq, 5 pt] What are five of the pieces of info needed in a line listing. List no more than five answers or you will lose all points.
+
+58. [frq, 3 pt] If a person already has a disease, can that person be selected as a control in a case-control study of that disease? Explain why or why not.
+
+59. [frq, 1 pt] Suppose that education level was found to be negatively associated with an individual's odds of having moderate and severe depression. If this association renders the association between depression and smoking as invalid, what type of factor is education?
+
+[STIMULUS] What does BEINGS stand for
+    | Label | Answer |
+    | B | [[q:60-B]] |
+    | E | [[q:60-E]] |
+    | I | [[q:60-I]] |
+    | N | [[q:60-N]] |
+    | G | [[q:60-G]] |
+    | S | [[q:60-S]] |
+
+60-B. [frq, 1.5 pt] Label B
+
+60-E. [frq, 1.5 pt] Label E
+
+60-I. [frq, 1.5 pt] Label I
+
+60-N. [frq, 1.5 pt] Label N
+
+60-G. [frq, 1.5 pt] Label G
+
+60-S. [frq, 1.5 pt] Label S
+
+
+=== Section 4: Bias ===
+
+[STIMULUS] Questions about Bias!
+
+
+
+Answer with the type of bias/effect with each scenario.
+
+61. [frq, 1 pt] Individuals in a study will modify their behavior due to their awareness that they are being studied
+
+62. [frq, 1 pt] Highschoolers being surveyed tend to under-report social behaviors such as drinking and vaping.
+
+63. [frq, 1 pt] Many news outlets have drawn attention to salmonella, which causes more people to wonder if they have the disease. This leads to more reports.
+
+64. [frq, 1 pt] In a clinical trial, one group undergoes serology testing while another group undergoes PCR testing.
+
+65. [frq, 1 pt] A white study participant is accidentally categorized into the people-of-color group for data collection.
+
+66. [frq, 1 pt] A proposed treatment for COVID-19 actually appears to cause COVID-19.
+
+67. [mcq, 1 pt] Researchers conduct a case-control study of the association between the diet of young children and diagnosis of childhood cancer. Which of the following potential control groups would be most likely to reduce the likelihood of recall bias?
+    A) Parents of children with no known health problems
+    B) Parents of children with other known, diagnosed serious health problems (aside from childhood cancer)
+    C) Parents of children with other known, diagnosed minor health problems
+    D) No control group exists for this purpose

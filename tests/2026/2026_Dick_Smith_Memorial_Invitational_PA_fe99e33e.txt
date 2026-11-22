@@ -1,0 +1,228 @@
+Dick Smith Memorial Invitational - PA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  48 questions, 46.0 pts
+Source: scio.ly test archive id fe99e33e-20d3-44c2-be58-0e76bebc171e
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+1. [mcq, 1 pt] In epidemiology, an agent is best defined as:
+    A) Any living organism that causes disease
+    B) A factor whose presence or absence is essential for disease to occur
+    C) An environmental factor that modifies disease risk
+    D) The person first infected in an outbreak
+
+2. [mcq, 1 pt] The incubation period is:
+    A) Time between exposure and onset of symptoms
+    B) Time between infection and death
+    C) Time from symptom onset to recovery
+    D) Time between case reporting and public health response
+
+3. [mcq, 1 pt] A disease in which cases occur at a fairly constant, expected rate over time in a population is:
+    A) Epidemic
+    B) Endemic
+    C) Pandemic
+    D) Sporadic
+
+4. [mcq, 1 pt] A vector-borne disease is transmitted primarily by:
+    A) Contaminated food
+    B) Contaminated water
+    C) Another living organism such as a mosquito or tick
+    D) Direct contact with blood
+
+5. [mcq, 1 pt] Which study design compares people with a disease to people without the disease and looks back in time to assess exposure?
+    A) Cohort study
+    B) Cross-sectional study
+    C) Case-control study
+    D) Randomized controlled trial
+
+6. [mcq, 1 pt] Which of the following is typically measured in a cohort study?
+    A) Odds ratio
+    B) Relative risk
+    C) Attributable odds
+    D) Diagnostic sensitivity
+
+7. [mcq, 1 pt] The numerator of an attack rate is:
+    A) Number of people exposed
+    B) Number of people at risk
+    C) Number of people ill
+    D) Number of people in the population overall
+
+8. [mcq, 1 pt] A point source outbreak is most likely to have which epidemic curve shape?
+    A) Slowly rising, long plateau, slow decline
+    B) Single sharp peak within one incubation period
+    C) Multiple progressively taller peaks
+    D) Irregular, scattered cases over a long period
+
+9. [mcq, 1 pt] Herd immunity refers to:
+    A) Immunity gained from prior infection
+    B) Immunity created by vaccination at the individual level
+    C) Protection of susceptible individuals when a high proportion of the population is immune
+    D) Immunity passed from animals to humans
+
+10. [mcq, 1 pt] Which measure is most appropriate to describe the burden of disease at a specific point in time?
+    A) Incidence rate
+    B) Cumulative incidence
+    C) Prevalence
+    D) Case fatality ratio
+
+11. [mcq, 1 pt] An epidemic that spreads person-to-person and shows progressively higher peaks one incubation period apart is:
+    A) Point source
+    B) Continuous common source
+    C) Intermittent common source
+    D) Propagated
+
+12. [mcq, 1 pt] Which of the following is not part of the classic epidemiologic triad?
+    A) Agent
+    B) Environment
+    C) Host
+    D) Vector
+
+13. [mcq, 1 pt] A confounder is:
+    A) A variable that lies on the causal pathway
+    B) A variable associated with both exposure and outcome that distorts the association
+    C) A variable that has no relationship with the exposure
+    D) A variable created by random error
+
+14. [mcq, 1 pt] Which of the following best describes bias?
+    A) Random error in measurement
+    B) Systematic error that leads to an incorrect estimate of effect
+    C) Increased sample size
+    D) Ethical misbehavior in research
+
+15. [mcq, 1 pt] Which of the following is an example of primary prevention?
+    A) Rehabilitation after a stroke
+    B) Screening for colon cancer
+    C) Vaccination against measles
+    D) Physical therapy to restore mobility
+
+16. [mcq, 1 pt] A disease with high incidence but low prevalence is most likely:
+    A) Very chronic with long duration
+    B) Very rare
+    C) Rapidly fatal or quickly cured
+    D) Neither fatal nor curable
+
+17. [mcq, 1 pt] A case definition that is very specific but less sensitive will:
+    A) Miss few cases but include many non-cases
+    B) Capture many mild or questionable cases
+    C) Capture nearly all cases but more false positives
+    D) Miss some true cases but rarely include non-cases
+
+18. [mcq, 1 pt] The measure that represents the proportion of people with a disease who die from it is:
+    A) Case fatality ratio
+    B) Mortality rate
+    C) Attack rate
+    D) Incidence density
+
+19. [mcq, 1 pt] Which of the following best describes surveillance?
+    A) One-time survey of a population
+    B) Ongoing, systematic collection, analysis, and interpretation of health data
+    C) Clinical treatment of patients
+    D) Laboratory diagnosis
+
+20. [mcq, 1 pt] A line list typically includes all of the following except:
+    A) Age and sex of cases
+    B) Date of symptom onset
+    C) Exposure history
+    D) Detailed narrative of each patient’s emotions
+
+21. [mcq, 1 pt] Which of the following is a continuous variable?
+    A) Number of children in a family
+    B) Blood pressure
+    C) Number of hospitalizations
+    D) Count of new cases in a week
+
+22. [mcq, 1 pt] In a 2×2 table, the “exposed and ill” cell is conventionally labeled:
+    A) A
+    B) B
+    C) C
+    D) D
+
+23. [mcq, 1 pt] You are investigating an outbreak of a gastrointestinal illness. The most important first step is to:
+    A) Perform a cohort study
+    B) Implement a vaccination campaign
+    C) Verify the diagnosis and confirm that an outbreak exists
+    D) Write the MMWR report
+
+24. [mcq, 1 pt] A secondary case is:
+    A) The first case identified by the investigator
+    B) The second person ever infected
+    C) A person infected by another ill person during the outbreak
+    D) A case with mild symptoms
+
+25. [mcq, 1 pt] Which of the following graphs is most appropriate for displaying the number of new cases over time during an outbreak?
+    A) Pie chart
+    B) Bar chart (histogram-style epidemic curve)
+    C) Scatterplot
+    D) Box-and-whisker plot
+
+26. [frq, 1 pt] Define attack rate in words and give its formula using letters.
+
+[STIMULUS] During a norovirus outbreak at a camp, 35 of 80 campers develop vomiting and diarrhea.
+
+27a. [frq, 1 pt] Calculate the attack rate.
+
+27b. [frq, 1 pt] Interpret this attack rate in one clear sentence.
+
+28. [numeric, 1 pt] A city has a population of 200,000 people. Over one year, 500 new cases of disease X are reported. What is the annual incidence rate per 100,000 population?
+
+29. [numeric, 1 pt] In the same city, at midyear, there are 1,200 existing cases of disease X. What is the prevalence per 1,000 population at that time?
+
+30. [frq, 1 pt] List two possible sources of bias in an interview-based case-control study.
+
+31. [frq, 1 pt] State one advantage and one disadvantage of a case-control study compared to a cohort study.
+
+32. [frq, 1 pt] A screening test for Disease Y has sensitivity of 90% and specificity of 80%. Briefly define sensitivity and specificity in words.
+
+[STIMULUS] In a vaccine trial, the incidence of disease in the vaccinated group is 2 per 1,000 person-years, and in the unvaccinated group it is 10 per 1,000 person-years.
+
+33a. [numeric, 0.5 pt] Calculate the relative risk (RR).
+
+33b. [numeric, 0.5 pt] Calculate the vaccine efficacy (%), using: Efficacy = (1-RR) * 100%
+
+[STIMULUS] You test a new diagnostic tool on 200 people known (by a gold standard test) to have Disease Z, and 300 people known not to have Disease Z. Among the diseased group, 170 test positive. Among the non-diseased group, 45 test positive.
+
+34a. [numeric, 0.5 pt] What is the sensitivity of the new test?
+
+34b. [numeric, 0.5 pt] What is the specificity?
+
+35. [frq, 1 pt] Explain the difference between active and passive surveillance and give one example of each
+
+[STIMULUS] A group of 110 coworkers attended a company picnic. Several foods were served. Within 4–24 hours after the picnic, many attendees developed acute vomiting and diarrhea. Investigators interviewed all 110 attendees about what they ate and whether they became ill.
+
+Table 1.
+
+|  | ill | not ill | total |
+|---|---|---|---|
+| ate | 50 | 20 | 70 |
+| did not eat | 5 | 35 | 40 |
+
+36. [numeric, 1 pt] Calculate the attack rate among those who ate the potato salad.
+
+[STIMULUS] Use the following information to answer Questions 41–48.
+
+A high school reports a sudden increase in students with fever, cough, and sore throat. School X has 1,000 students. Over a 2-week period in January, 80 students visit the nurse with these symptoms and are considered cases of "flu-like illness."
+
+An epidemiologist conducts a study to evaluate whether vaccination against influenza is protective.
+
+Table 2. Flu-like Illness by Vaccination Status
+
+|  | ill | not ill | total |
+|---|---|---|---|
+| vaccinated | 20 | 380 | 400 |
+| not vaccinated | 60 | 540 | 600 |
+| total | 80 | 920 | 1000 |
+
+41. [frq, 1 pt] What type of study design is this (case-control, cohort, cross-sectional, etc.)? Explain in one sentence
+
+42a. [numeric, 1 pt] Calculate the risk (attack rate) of flu-like illness in: a) Vaccinated students
+
+42b. [numeric, 1 pt] Calculate the risk (attack rate) of flu-like illness in: b) Non-vaccinated students
+
+43. [numeric, 1 pt] Calculate the relative risk of flu-like illness for vaccinated vs. non-vaccinated students.
+
+44. [frq, 1 pt] Interpret the RR from Question 43 in one sentence, in terms of protection or risk.
+
+45. [numeric, 1 pt] Calculate the vaccine effectiveness
+
+46. [frq, 1 pt] If you wished to identify risk factors other than vaccination (such as participation in choir, sports teams, or crowded classrooms), what general kind of study would you design next (e.g., cohort, case-control), and why?
+
+47. [frq, 1 pt] List two possible control measures the school could implement to reduce further transmission of illness
+
+48. [frq, 1 pt] Briefly explain one limitation of this investigation that might affect the interpretation of the association between vaccination and illness

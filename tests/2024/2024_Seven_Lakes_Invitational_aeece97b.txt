@@ -1,0 +1,482 @@
+Seven Lakes Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  126 questions, 167.0 pts
+Source: scio.ly test archive id aeece97b-0776-4aef-9e2d-18f864aada60  |  original files: https://drive.google.com/drive/folders/1sREKPfVw727c6hjGm3IARTL-COtEMRyQ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: There is no penalty for wrong answers. Units are required whenever giving a numerical answer. Follow the question guidelines. For calculation-related FRQs, please show all your work for full credit.
+
+
+=== Vocabulary Matching ===
+
+[STIMULUS] Fill in each blank with the correct term. Not all words in the word bank will be used. Some words may be used more than once.
+
+**Word Bank**:
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p2_ba878d-714da652.webp]
+
+P1-1. [frq, 1 pt] Implanting an attenuated pathogen or microbe into a person or organism
+
+P1-2. [frq, 1 pt] The level of prevention that aims to prevent overmedicalization
+
+P1-3. [frq, 1 pt] Proportion of population that has a condition at a specific point in time
+
+P1-4. [frq, 1 pt] Study of the cause or set of causes of a disease or condition
+
+P1-5. [frq, 1 pt] The cause of the disease
+
+P1-6. [frq, 1 pt] An infectious agent
+
+P1-7. [frq, 1 pt] Period after childbirth
+
+P1-8. [frq, 1 pt] The study of the distribution or determinants of health and disease in a defined population
+
+P1-9. [frq, 1 pt] Recombination of existing strains to make an entirely new subtype
+
+P1-10. [frq, 1 pt] Small mutations or changes in that cause gradual genetic variation
+
+P1-11. [frq, 1 pt] A type of endemic where essentially all of the population is infected, can be stratified by age group
+
+P1-12. [frq, 1 pt] Abnormal pathogenic agents that cause abnormal foldings in cellular proteins
+
+P1-13. [frq, 1 pt] Action taken to prevent disease before it occurs
+
+P1-15. [frq, 1 pt] A disease that is always present within a geographical area
+
+P1-16. [frq, 1 pt] The act of introducing a vaccine to produce protection from a specific disease
+
+P1-17. [frq, 1 pt] A pathogen's ability to cause damage to the host
+
+P1-18. [frq, 1 pt] The process by which an individual's body becomes fortified or immune against a specific disease
+
+P1-19. [frq, 1 pt] Proportion of population that has the characteristic over a certain time period
+
+P1-20. [frq, 1 pt] A disease spread between animals and humans
+
+P1-21. [frq, 1 pt] Prevention that aims to prevent risk factors
+
+
+=== MCQs and Short Answer ===
+
+[STIMULUS] **Public vs. Clinical Approach**
+For each scenario, determine the scenarios are clinical approaches (C) or public health approaches (P).
+
+P2-1. [mcq, 1 pt] Going to the doctor because you have COVID
+    A) Clinical (C)
+    B) Public Health (P)
+
+P2-2. [mcq, 1 pt] Getting a COVID test because you came into contact with someone who was exposed
+    A) Clinical (C)
+    B) Public Health (P)
+
+P2-3. [mcq, 1 pt] Your positive COVID test was reported to the state public health agency
+    A) Clinical (C)
+    B) Public Health (P)
+
+P2-4. [mcq, 1 pt] The state public health agency releases informatics warning people about COVID
+    A) Clinical (C)
+    B) Public Health (P)
+
+P2-5. [mcq, 1 pt] Getting an MRI at a public hospital
+    A) Clinical (C)
+    B) Public Health (P)
+
+P2-6. [mcq, 1 pt] A study that looks at the heart disease and potential factors in individuals of a small city
+    A) Clinical (C)
+    B) Public Health (P)
+
+[STIMULUS] **Spread of Disease**
+Define each of the following.
+
+P2-7. [frq, 1 pt] Hyperendemic:
+
+P2-8. [frq, 1 pt] Holoendemic:
+
+P2-9. [frq, 1 pt] Hypoendemic
+
+P2-10. [frq, 1 pt] Mesoendemic
+
+P2-11. [frq, 1 pt] Provide a real disease that meet the criteria of a Pandemic
+
+P2-12. [frq, 1 pt] Provide a real disease that meet the criteria of a Endemic
+
+P2-13. [frq, 1 pt] Provide a real disease that meet the criteria of a Epidemic
+
+P2-14. [frq, 1 pt] Provide a real disease that meet the criteria of a Cluster
+
+[STIMULUS] **Study Types**
+For each scenario, determine which study type best matches the given scenario.
+
+P2-15. [mcq, 1 pt] A new vaccine was created and a physician wants to compare it to the current vaccine. The physician randomly assigns volunteers to get the new vaccine and randomly assigns volunteers to get the current vaccine. Which study did the physician conduct?
+    A) Cohort Study
+    B) Case Control Study
+    C) Quasi Experimental Study
+    D) Randomized Controlled Trial
+
+P2-16. [mcq, 1 pt] There was a food borne illness present on Thanksgiving during a cruise. Shortly after, people were separated into whether they had the food borne illness or not. Then, people were interviewed on the foods they ate during that day to find the likely culprit. Which study was used?
+    A) Prospective Cohort
+    B) Retrospective Cohort
+    C) Case Control
+    D) Cross Sectional
+
+P2-17. [mcq, 1 pt] Which of the following case studies best measures prevalence?
+    A) Case Control Study
+    B) Retrospective Cohort Study
+    C) Cross Sectional Study
+    D) Prospective Cohort Study
+
+P2-18. [multi, 1 pt] Which of the following is not a strength of a Case Control study?
+    A) It is good for rare diseases
+    B) It is cheap
+    C) It is good for rare exposures
+    D) Is isn't impacted by Recall Bias
+    E) It is a good measure of prevalence
+
+P2-19. [multi, 1 pt] Which of the following case designs are descriptive?
+    A) Cohort
+    B) Case Control
+    C) Case Series
+    D) Case Report
+    E) Ecological Study
+
+P2-20. [frq, 1 pt] When are quasi experiments preferred over randomized controlled trials?
+
+P2-21. [frq, 1 pt] In some instances, can cohort studies use odds ratio? Explain your answer.
+
+P2-22. [frq, 1 pt] What is an Ecological Study?
+
+P2-23. [frq, 1 pt] Explain the difference between a retrospective cohort study and a case-control study.
+
+[STIMULUS] Immunity and Prevention
+
+P2-24. [frq, 1 pt] What is the difference between Primary and Primordial prevention?
+
+P2-25. [mcq, 1 pt] Antivenom is an example of Immunity
+    A) Passive, Natural
+    B) Passive, Artificial
+    C) Active, Natural
+    D) Active, Artificial
+
+P2-26. [frq, 1 pt] Which type of prevention is the following example? A patient is denied extra, unnecessary medicine to avoid any damages.
+
+P2-27. [frq, 1 pt] Which type of prevention is the following example? A patient is given a mammogram to screen for breast cancer.
+
+P2-28. [frq, 1 pt] Which type of prevention is the following example? In elementary schools, teachers inform children on proper dieting and exercise.
+
+P2-29. [frq, 1 pt] Which type of prevention is the following example? A patient is given antibiotics for salmonella to prevent it from worsening.
+
+P2-30. [mcq, 1 pt] Active Immunity is typically acquired ____ than Passive
+    A) Slower
+    B) Faster
+    C) Around the Same
+    D) Exactly the same
+
+P2-31. [mcq, 1 pt] Active Immunity lasts a ____ period of time compared to Passive
+    A) Longer
+    B) Shorter
+    C) Around the Same
+    D) Exactly the same
+
+[STIMULUS] **Bradford Hill Criteria for Causation**
+For each descriptions, determine which Bradford Hill Criteria best matches.
+
+P2-32. [frq, 1 pt] In different populations observed around the world, it has been found that there is a higher risk for malaria in mosquitoes concentrated areas.
+
+P2-33. [frq, 1 pt] The party only served fried chicken, and some of the guests got salmonella.
+
+P2-34. [frq, 1 pt] The more consumption of unsanitary food, the more likely someone will develop a food borne disease.
+
+P2-35. [frq, 1 pt] Past COVID 10 cases suggest that there would be more positive cases during the holiday season when everyone gathers around in close proximity.
+
+P2-36. [frq, 1 pt] Hailey started to feel sick after going to her friend's party.
+
+P2-37. [frq, 1 pt] List the 4 criteria of Koch's postulates
+
+P2-38. [frq, 1 pt] Which infectious disease violates all 4 postulates?
+
+P2-39. [frq, 1 pt] How are the 4 postulates proven wrong now with our current knowledge?
+
+[STIMULUS] **Surveillance Types**
+Choose the surveillance method each scenario describes
+
+P2-40. [mcq, 1 pt] In a recent case, epidemiology traveled urgently across the states to acquire data from a specific hospital
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P2-41. [mcq, 1 pt] Only gathering health data from selected health officials
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P2-42. [mcq, 1 pt] There are regulations set in place where the hospital sends a monthly data report back to the control center
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P2-43. [mcq, 1 pt] The data collection of medicine and other prescription purchases to identify where there might be a potential outbreak
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P2-44. [mcq, 1 pt] Epidemiologists call the hospital to find out more about specific cases
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P2-45. [frq, 1 pt] List and define the five-step process for surveillance
+
+P2-46. [frq, 1 pt] What is the difference between a syndromic and sentinel surveillance system?
+
+[STIMULUS] History of Epidemiology
+
+P2-47. [frq, 1 pt] Who is the Father of Epidemiology?
+
+P2-48. [frq, 1 pt] Explain how the British Doctor Study was conducted and what the findings were.
+
+P2-49. [frq, 1 pt] Who found out the cure for scurvy, and what was the cure?
+
+P2-50. [mcq, 1 pt] Who was known for accidentally discovering Penicillin?
+    A) Alexander Fleming
+    B) Ignaz Semmelweis
+    C) Mandy Cohen
+    D) Louis Pasteur
+
+P2-51. [frq, 1 pt] What disease was John Snow known for fighting? How did he determine the source of the disease?
+
+P2-52. [frq, 1 pt] What does NNDSS stand for and why is it important?
+
+P2-53. [frq, 1 pt] Who is the current director of CDC?
+
+P2-54. [frq, 1 pt] What are the only two diseases to have been successfully eradicated?
+
+P2-55. [frq, 1 pt] Who is the Father of Microbiology and what did they discover?
+
+[STIMULUS] **Transmission Types**
+C. Droplet borne
+D. Indirect transmission
+
+P2-56. [frq, 1 pt] If you are infected with Giardiasis, what are 2 different ways you could expect Giardia to have been transmitted to you?
+
+P2-57. [frq, 1 pt] Daniel recently went to his grandparent's farm where he helped out with their harvest. He got sick from bacteria in the soil, what type of transmission is this?
+
+P2-58. [frq, 1 pt] Explain the difference between Aerosol and Droplet transmission? Are they direct or indirect?
+
+P2-59. [mcq, 1 pt] What role do asymptomatic carriers play in disease transmission?
+    A) Do not contribute to the spread of diseases because most of them are unknowingly sick.
+    B) Contribute to spread of diseases; but are easy to assess.
+    C) Contribute to spread of diseases; but are unpredictable and largely undetected.
+    D) Do not contribute; and are easy to detect in models and predictions.
+
+P2-60. [mcq, 1 pt] Patrisha recently had a child, however during the pregnancy she got sick with an unknown disease. Now the doctors are afraid the unknown disease got transmitted to her baby, Nick. What type of transmission is this?
+    A) Fecal-Oral
+    B) Nosocomial
+    C) Horizontal
+    D) Perinatal
+
+P2-61. [mcq, 1 pt] Doctors wearing robes and gloves is to mainly protect patients against what type of transmission?
+    A) Contact transmission
+    B) Bloodborne transmission
+    C) Vector borne
+    D) Indirect transmission
+
+[STIMULUS] **Case Study 1**
+It is 2001 and the HIV epidemic is in full swing. With the potential for HIV spreading at an all time-high, a new test known as ELISA has come out. ELISA, the acronym for enzyme-linked immunosorbent assay, detects HIV-specific ligands using antibodies. You are an epidemiologist tasked with detecting HIV prevalence in the small, quaint town of Cleveland, Ohio using ELISA to determine if it is efficient.
+
+P2-63. [mcq, 1 pt] HIV is most prevalent in which of the following regions?
+    A) Sub-Saharan Africa
+    B) Northern Africa
+    C) Central Asia
+    D) Eastern Europe
+    E) Western Europe
+
+P2-64. [mcq, 1 pt] The HIV/AIDS epidemic was reduced in large part due to which program?
+    A) Targeted Naloxone Distribution
+    B) HRPs (harm reduction programs)
+    C) Medication-Assisted Treatment
+    D) Syringes Services Program
+    E) STD National Reduction Effort
+
+[STIMULUS] The following table represents the results when ELISA was used to determine whether the 867 chosen individuals has HIV or not.
+    |  | Had HIV | Did not have HIV |
+    | Tested positive | 432 | 165 |
+    | Tested negative | 43 | 227 |
+
+P2-65. [frq, 6 pt] Calculate the sensitivity, specificity, positive predictive value, and negative predictive value of ELISA based on the given data. You must show your work to receive credit. Give your answer as a non-percentage, rounded off to the nearest hundredth.
+
+P2-66. [frq, 2 pt] What is the overall accuracy of ELISA? You must show your work to receive credit. Give your answer as a non-percentage, rounded off to the nearest hundredth.
+
+P2-67. [frq, 4 pt] Determine whether each of the following values will either increase, decrease, or remain the same if the prevalence of HIV in Cleveland increases.
+    A. Sensitivity
+    B. Specificity
+    C. Positive Predictive Value
+    D. Negative Predictive Value
+
+[STIMULUS] **Case Study 2**
+There is a new clinical test being tested to find how effective it is compared to the gold standard. (You must show your work to receive credit. Give your answer as a non-percentage, rounded off to the nearest hundredth.)
+    |  | Positives | Negatives |
+    | Golden standard positives | 215 | 62 |
+    | Golden standard negatives | 35 | 354 |
+
+P2-69. [frq, 2 pt] Find the Sensitivity and explain what it means.
+
+P2-70. [frq, 2 pt] Find the Specificity and explain what it means.
+
+P2-71. [frq, 2 pt] Find the NPV and explain what it means.
+
+P2-72. [frq, 2 pt] Find the PPV and explain what it means.
+
+[STIMULUS] Fill in the expected table using the observed table above. (You must show your work to receive credit. Give your answer as a non-percentage, rounded off to the nearest hundredth.)
+    |  | Positives | Negatives |
+    | Golden standard positives | [[q:P2-73]] | [[q:P2-74]] |
+    | Golden standard negatives | [[q:P2-75]] | [[q:P2-76]] |
+
+P2-73. [frq, 1 pt] What is the value of a? (Row: Golden standard positives - Positives)
+
+P2-74. [frq, 1 pt] What is the value of b? (Row: Golden standard positives - Negatives)
+
+P2-75. [frq, 1 pt] What is the value of c? (Row: Golden standard negatives - Positives)
+
+P2-76. [frq, 1 pt] What is the value of d? (Row: Golden standard negatives - Negatives)
+
+P2-77. [frq, 3 pt] Determine the Chi-Square value.
+
+[STIMULUS] **Case Study 3**
+As the holiday season is coming up, Michael is having a Christmas party at his beach house on December 10. Because of the number of people attending the party, Michael made sure that there was enough food for everyone, the table was set with roasted turkey, Hot honey-glazed pork, fried chicken, and brownies for dessert. But a few days after the party, the guest started to experience headaches, vomiting, nausea, diarrhea, and abdominal pain.
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p9_4e11ad-05ea3d6c.webp]
+
+P2-78. [frq, 1 pt] Write a case definition
+
+P2-79. [frq, 1 pt] What is the name of the graph above?
+
+P2-80. [mcq, 1 pt] What transmission type does this graph show?
+    A) continuous common source
+    B) point source
+    C) intermittent
+    D) propagated
+
+[STIMULUS] As a disease detective, you successfully track down everyone who was at the party ask them what they ate at the party, and analyze what happened to the guest who was exposed to the contamination.
+
+P2-81. [frq, 2 pt] What is a possible bias that might be present from this method?
+
+P2-82. [frq, 2 pt] What is the study design and list 2 advantages and 2 disadvantages.
+
+P2-83. [frq, 2 pt] Which step out of the 13 steps to investigating an outbreak is recording data and finding cases systematically?
+
+P2-84. [frq, 3 pt] Find the attributable risk for turkey and round to the thousandths place.
+
+P2-85. [frq, 8 pt] Find the relative risk for each food, round to the thousandths place.
+
+P2-86. [frq, 3 pt] Which food is most likely the cause of the disease? What does this value mean?
+
+P2-87. [frq, 2 pt] What is a potential cause to why this food item cause the disease?
+
+[STIMULUS] Figure 2: Case Study 3
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p10_c4e9c3-d8f690f0.webp]
+
+[STIMULUS] **DAG/Pulse-Net/PFGE**
+
+Figure 3: DAG
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p11_a0ef8c-623cc365.webp]
+
+P2-88. [frq, 2 pt] Pulse Field switched from PFGE to which method to analyze DNA?
+
+P2-89. [frq, 2 pt] What does Pulse-Net do and how does it carry out their purpose?
+
+P2-90. [frq, 2 pt] Looking at the relationship between Obesity and Lung cancer, which variables are confounding?
+
+P2-91. [tf, 1 pt] True or False: In the Directed Acyclic Graph above, it can be seen that Diabetes is an effect modifier of Lung Cancer.
+    A) True
+    B) False
+
+[STIMULUS] **SEIR Model**
+
+Figure 4: Enter SEIR Model
+
+P2-92. [frq, 4 pt] Identify what each colored line represents in the SEIR Model.
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p12_bf542e-1667eaa4.webp]
+
+P2-93. [frq, 2 pt] How does Effective Reproductive Number differ from Basic Reproductive Number?
+
+P2-94. [frq, 3 pt] Given that the removal rate 14 is and the transmission rate is 12 at t = 20 in the graph above, solve for the effective reproductive number.
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p12_bf542e-1667eaa4.webp]
+
+
+=== All about Prions ===
+
+P3-95. [mcq, 1 pt] Which of the following best describes prions
+    A) An intrinsically disordered protein
+    B) Glyphosate based chemicals
+    C) A deactivated virus
+    D) An isometric protein
+
+P3-96. [mcq, 1 pt] Prions typically affect which body system?
+    A) Cardiovascular
+    B) Digestive
+    C) Lymphatic
+    D) Nervous
+
+P3-97. [mcq, 1 pt] Who discovered prions and when?
+    A) Alexander Fleming, 1886
+    B) Louis Pasteur, 1797
+    C) Stanley Pruisner, 1982
+    D) Subasri Narasimhan, 1996
+
+P3-98. [multi, 1 pt] Which of these diseases are caused by prions?
+    A) Chronic wasting disease(CWD)
+    B) Creutzfeldt-Jakob Disease(CJD)
+    C) Scrapie
+    D) Kuru
+
+P3-99. [mcq, 1 pt] There are currently no cures for prion related diseases
+    A) True
+    B) False
+
+P3-100. [mcq, 1 pt] BSE is a prion disease that typically affects which type of livestock?
+    A) Chickens
+    B) Cattle
+    C) Pigs
+    D) Horse
+
+
+=== Maps/Diagrams ===
+
+P4-101. [frq, 3 pt] Explain the purpose of Rothman's Causal pie charts? What is a complete pie called and what does it mean if a component is in every pie/pathway for that disease?
+
+P4-102. [mcq, 1 pt] Who created the first choropleth map?
+    A) VirusIgnaz Semmelweis
+    B) Baron Pierre Charles Dupin
+    C) Paul-louis simond
+    D) Girolamo fracastoro
+
+P4-103. [mcq, 1 pt] When are spot maps typically preferred?
+    A) When the disease has a high prevalence
+    B) When the disease has a high incidence
+    C) When the disease resides in a small area
+    D) When the disease is point source
+
+[STIMULUS] Figure 5: Enter Epidemic Curve
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p14_332947-fac49d77.webp]
+
+P4-104. [frq, 1 pt] What kind of graph is a Frequency polygon derived from?
+
+P4-105. [mcq, 1 pt] What is not a characteristic of Isopleth maps?
+    A) Shows spatial relationships
+    B) May not accurately represent gradual variations in data
+    C) Can be influenced by scale in which they are viewed
+    D) Represents discrete data
+
+P4-106. [mcq, 1 pt] Identify the type of outbreak being shown in the epicure below.
+    A) Intermittent Common source
+    B) Propagated
+    C) Continuous common source
+    D) Point source
+
+[STIMULUS] Figure 6: Map Of Sierra Leone
+    [IMAGE: ../images/2024_seven_lakes_invitational_c_3__p15_bc6767-f4588f20.webp]
+
+P4-107. [frq, 1 pt] The epidemiological map represents which disease endemic to Africa?
+
+P4-108. [frq, 1 pt] Approximate the amount of confirmed cases in Sierra Leone.

@@ -1,0 +1,309 @@
+SOLVI Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  77 questions, 121.5 pts
+Source: scio.ly test archive id 321e7e31-b628-420c-affe-ab56fc418b99  |  original files: https://drive.google.com/drive/folders/1HVPILYcjVVgm0Xh6TEgO8eaQobKox5BE
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+DIRECTIONS: - The amount of points each question is worth is indicated by brackets at the start of the question.
+- Show your work on questions that require math.
+- Multiple Choice Questions with multiple answers are indicated by the phrase “Select ALL that apply”.
+
+
+=== Section 1: Captivating Cholera [29.5] ===
+
+1. [frq, 2 pt] You’ve received a report of the occurrence of a cluster of cases of cholera. First, you determine that the cluster of cases is linked, and it far exceeds the number of cases typically expected. You then set up a set of guidelines that would classify a person as having or not having cholera based on their given characteristics. Which steps in the steps for an outbreak investigation have you just completed?
+
+2. [frq, 0.5 pt] Ranging from about 2 hours to 5 days after the time of exposure, the onset of symptoms may occur. What stage of the natural history of disease begins at the onset of symptoms?
+
+3. [frq, 0.5 pt] During what stage of the natural history of disease do pathological changes occur?
+
+4. [frq, 0.5 pt] During what stage of the natural history of disease is the patient usually diagnosed?
+
+5. [frq, 1 pt] You already have a somewhat strong idea of which exposures may be associated with this outbreak from clinical observations. In addition, the incubation period of cholera is considerably short, and thus attrition can be minimized. Which study type would you recommend conducting?
+
+6. [multi, 1 pt] What is an alternate name for this type of study? Select all that apply.
+    A) Longitudinal study
+    B) Retrospective study
+    C) Prospective study
+    D) Experimental study
+    E) Prevalence survey
+
+7. [frq, 1 pt] What risk measure should you use for this type of study?
+
+8. [frq, 2 pt] You receive the following data after surveying customers from the restaurant you’ve traced the cases back to. Out of 20 people who ate the shrimp, 12 became ill with cholera within a week. Out of 22 people who did not eat the shrimp, 16 did not show symptoms of cholera within a week. Calculate the risk measure you chose in #7 using this data.
+
+9. [frq, 2 pt] Interpret the numerical value of this risk measure. Is there a positive, negative, or no association?
+
+10. [frq, 2 pt] Could the odds ratio also be used for this type of study? If so, what does it measure?
+
+11. [frq, 3 pt] Give three conditions that must be met in order for the odds ratio to give a good approximation of the relative risk in the population for a case-control study.
+
+12. [frq, 3 pt] Give three potential sources of bias in this type of study.
+
+13. [frq, 2 pt] Give two examples of when this type of study may be impractical.
+
+14. [frq, 2 pt] Thanks to your answer to the previous question, you’ve been having doubts about whether your original type of study would be the best. Instead, you’ve been inspired to conduct a case-control study based on a defined cohort! You’ve researched two options: a nested case-control study and a case-cohort study. What is the primary difference between the two?
+
+15. [frq, 3 pt] Give three possible reasons why you may want to conduct a case-control study based on a defined cohort instead of using a cohort / case-control study on its own.
+
+17. [frq, 1 pt] When conducting an experiment, you realized that you accidentally applied different eligibility criteria for the cases and control! What type of bias does this exhibit?
+
+18. [mcq, 1 pt] Will this have a greater effect on the study’s internal or external validity?
+    A) Internal validity
+    B) External validity
+
+
+=== Section 2: The Custard Conundrum [43] ===
+
+19. [mcq, 1 pt] You’ve received a report from a local hospital of a new cluster of cases of S. aureus in the nearby town of Totoville, and you’ve been sent to investigate it! What is the most likely form of surveillance that was used for this initial report?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+20. [mcq, 1 pt] Uh oh! After testing, it appears that your strain of S. aureus causes a significantly higher mortality rate than previous strains. This strain is also much more difficult to diagnose, as previous laboratory tests have found to be less accurate, and new tests have yet to be developed. What type of surveillance would you suggest conducting?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+21. [frq, 2 pt] List one advantage and disadvantage of the type of surveillance you chose in #20.
+
+22. [mcq, 1 pt] Before you officially begin, your supervisor assigns you a quick quiz in order to ensure that you are familiar with the typical microbiota of the digestive system! Which of the following organs in the digestive system has the highest population of microbes in a healthy adult?
+    A) Mouth
+    B) Stomach
+    C) Small intestine
+    D) Large intestine
+
+24. [frq, 1 pt] You also know that a large proportion of the body's immune system is located in the digestive tract. What are lymphoid follicles, important for monitoring the populations of gut microbiota, found in the small intestine called?
+
+25. [frq, 1 pt] What cells, located in the epithelium, are responsible for translocating antigens and microorganisms to the other side in order to contact your answer in #24?
+
+26. [frq, 2 pt] Diseases of the digestive system can typically be split into two categories: infections and intoxications. What is the difference between the two?
+
+27. [frq, 2 pt] From your research, you know that S. aureus causes an intoxication. How do you predict the length of the incubation period to compare with that of an infection? Explain your answer.
+
+28. [frq, 2 pt] Would S. aureus be more or less likely to cause a fever, when compared with an infection? Explain your answer.
+
+29. [frq, 2 pt] Normally, intoxications affect the gastrointestinal tract. However, ingestion of one toxin is unique in that it will affect a different body system. Identify what microorganism this is and what body system it infects instead.
+
+30. [frq, 3 pt] Place the following events of a typical S. aureus outbreak in order, from start to finish.
+    I. Food containing toxins is ingested.
+    II. The food is contaminated by a worker, who has S. aureus on their hands.
+    III. The food, usually containing protein, is cooked.
+    IV. Staphylococcal intoxication occurs.
+    V. Food is left at room temperature.
+    VI. Bacteria have been eliminated.
+
+31. [tf, 1 pt] True or False: If the worker notices that the food has been left at room temperature after an hour and reheats it immediately, the food will be safe to ingest.
+    A) True
+    B) False
+
+32. [frq, 2 pt] Explain your answer to #31.
+
+33. [mcq, 1 pt] What class of microorganisms is S. aureus?
+    A) Bacteria
+    B) Fungi
+    C) Protozoa
+    D) Helminth
+
+34. [frq, 2 pt] How might the transmission of viruses differ from your answer in #33 in foodborne illnesses?
+
+36. [frq, 3 pt] What is the chain of infection for S. aureus? In your answer, include the six components of the chain of infection.
+
+37. [frq, 1 pt] S. aureus can also be acquired by patients who are receiving treatment for other conditions at a health care facility. What term describes these infections?
+
+38. [frq, 3 pt] The intersection of three factors leads to an increase in these infections that patients acquire at a health care facility. What are they?
+
+39. [mcq, 1 pt] At the hospital, transmission is often facilitated due to diagnostic and therapeutic hospital procedures. For example, many microorganisms can be transmitted through intravenous catheters, which pass through the skin and into a vein in order to provide fluids, nutrients, or medication. In this case, which of the following best describes the intravenous catheter?
+    A) Vector
+    B) Vehicle
+    C) Fomite
+
+40. [mcq, 1 pt] You also know that pathogens can be transmitted through the ventilation systems in a hospital. Which mode of transmission would be the most likely to be responsible in this case?
+    A) Direct contact
+    B) Indirect contact
+    C) Droplet spread
+    D) Airborne
+    E) Vehicleborne
+
+[STIMULUS] Ate Cheesecake:
+
+|  | Diarrhea | No diarrhea |
+|---|---|---|
+| Ate chocolate eclair | 45 | 16 |
+| Did not each chocolate eclair | 12 | 3 |
+
+Did not eat Cheesecake:
+
+|  | Diarrhea | No diarrhea |
+|---|---|---|
+| Ate chocolate eclair | 12 | 28 |
+| Did not each chocolate eclair | 7 | 23 |
+
+41. [numeric, 2 pt] What is the attack rate for people who ate both the cheesecake and chocolate eclair? Show your work and give your answer to three significant figures.
+
+42. [mcq, 1 pt] Which of the foods was most likely the infective item?
+    A) Cheesecake only
+    B) Chocolate eclair only
+    C) Both the cheesecake and chocolate eclair
+    D) No significant conclusion can be made
+
+43. [frq, 2 pt] After you have finished the investigation, you realize that you never noticed that your infective food, along with ham, is a high-risk food for S. aureus! Explain it, along with other custards, might be considered a high-risk food.
+
+
+=== Section 3: Classy Cholesterol [36.5] ===
+
+44. [frq, 1 pt] You've decided that you would like to investigate the development of coronary heart disease (CHD)! Researchers are investigating whether a new clinical drug that reduces the levels of cholesterol can prevent CHD. Given that cholesterol is essentially insoluble in the blood on its own, how is it carried in the blood plasma?
+
+45. [frq, 1 pt] What specific type of your answer in #44 contains high levels of cholesterol and contains apoB-100 as a primary constituent? Please give the full name of your answer.
+
+46. [frq, 3 pt] When excess amounts of cholesterol are present in the blood, how might macrophages be affected? Explain how they can contribute to atherosclerosis.
+
+47. [frq, 1 pt] In your study, you take a sample of 14,000 people. Initially, you determine that there are 683 cases of CHD at the start of the trial. The other, unaffected people are separated randomly and equally into two groups: those that are given the drug and those that are given a placebo. 10 years later, you follow up with the participants, and you learn that 872 people in the experimental group developed CHD, and 935 people in the placebo group developed CHD. What is the placebo effect?
+
+48. [frq, 2 pt] You know that your study was double-blind. What does this entail? Give one example of a bias it prevents.
+
+49. [frq, 1 pt] You also took care to randomize your groups. Why is this important?
+
+50. [numeric, 2 pt] Calculate the prevalence of CHD per 1000 persons at the start of the study. Show your work and give your answer to three significant figures.
+
+52. [mcq, 1 pt] While scouring the literature for more information about which risk factors may be correlated with CHD, you find the following study. The researchers had surveyed 500 male adults and asked them if they had high blood cholesterol levels. Based on the following data, they had made the conclusion that the risk of high blood cholesterol doubled every 10 years in people younger than 60 years old. Which of the following statements is true?
+    
+    | Age Range (years) | Percentage of People with High Cholesterol Levels |
+    |---|---|
+    | 18-29 | 4 |
+    | 30-39 | 8 |
+    | 40-49 | 16 |
+    | 50-59 | 32 |
+    | 60-69 | 50 |
+    | 70+ | 55 |
+    A) Their conclusion is correct.
+    B) Their conclusion is incorrect because the calculations only included males.
+    C) Their conclusion is incorrect because it was based on a proportion of the population, instead of the actual number of people per age range.
+    D) Their conclusion is incorrect because you cannot calculate the incidence.
+    E) Their conclusion is incorrect because incidence rates cannot represent risk.
+
+53. [multi, 1 pt] Another study has found that adults older than 60 had a higher prevalence of CHD when compared to those that are younger than 60. Which of the following statements are consistent with this conclusion? Select all that apply.
+    A) Adults younger than 60 have a higher incidence of CHD.
+    B) Incidence rates are consistent throughout age groups, but older adults have had CHD for a longer period of time.
+    C) Younger adults with CHD are more likely to visit a doctor when they feel symptoms.
+    D) Older adults have a higher case-fatality rate from CHD.
+    E) None of the above
+
+54. [mcq, 1 pt] A specific type of CHD has an incidence of 2 per 1000 people per year, and evidence has shown that 90% of those afflicted will die within the first year. In the year 2020, a new screening test was developed so that 80% of cases are detected at an average of 3 months before symptoms appear, compared with a previous test that could only identify 50% of cases. However, there is still no cure after diagnosis. Which of the following statements is true, comparing the incidence and prevalence in 2020 with the incidence and prevalence in 2019?
+    A) The incidence is higher in 2020, but the prevalence remains the same.
+    B) The incidence remains the same, but the prevalence is higher in 2020.
+    C) The incidence remains the same, but the prevalence is lower in 2020.
+    D) Incidence and prevalence are both higher in 2020.
+    E) Incidence and prevalence both remained the same in 2020.
+
+55. [mcq, 1 pt] How does the average duration of each case compare after the new test was developed?
+    A) The average duration increased.
+    B) The average duration decreased.
+    C) The average duration stayed the same.
+    D) No conclusion can be made.
+
+56. [mcq, 1 pt] How does the mortality rate of the disease compare after the new test was developed?
+    A) The mortality rate increased.
+    B) The mortality rate decreased.
+    C) The mortality rate stayed the same.
+    D) No conclusion can be made.
+
+57. [frq, 2 pt] You are excited because you've found another, more recently developed test for CHD! In this test, during an annual check-up, the doctor gives their patients a test that screens for CHD. The test has a sensitivity of 55% and a specificity of 90%. On average, the prevalence of CHD in this population is 60%. All patients that receive a positive result from the doctor are then referred to a cardiologist, who has a different test that has a sensitivity of 95% and a specificity of 98%. If the doctor has 1500 patients a year, how many patients will receive a positive result from the doctor's test?
+
+59. [frq, 2 pt] Calculate the PPV of the doctor's exam. Show your work and give your answer to three significant figures.
+
+66. [mcq, 0.5 pt] You suggest that annual blood tests for cholesterol and triglyceride levels in the blood are taken once a person has turned 40. What type of prevention does this demonstrate?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+67. [mcq, 0.5 pt] Once a person has already begun treatment for coronary heart disease, you advise physicians that they should refrain from conducting invasive testing that may ultimately do more harm than good. What type of prevention does this demonstrate?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+68. [mcq, 0.5 pt] You start a campaign to educate elementary school students about the risks of obesity. What type of prevention does this demonstrate?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+
+=== Section 4: Terrific Tuberculosis [39.5] ===
+
+69. [frq, 2 pt] You would like to investigate the respiratory system! There are actually many potentially pathogenic microorganisms that are found in the upper respiratory system, but strangely, they usually do not cause illness. Explain this phenomenon and provide a possible mechanism.
+
+70. [frq, 1 pt] Strangely enough, the lower respiratory tract, aside from the trachea, is sterile in healthy humans. How is this accomplished?
+
+71. [multi, 1 pt] Select all of the following diseases that are caused by viruses in the respiratory system.
+    A) Scarlet fever
+    B) Common cold
+    C) RSV
+    D) Tuberculosis
+    E) Pertussis
+
+72. [frq, 3 pt] One important respiratory disease is influenza. How does its type of genetic material contribute to it being capable of eluding host immunity?
+
+73. [tf, 1 pt] True or False: Influenza must produce a mRNA intermediate from its genetic material in order to reproduce.
+    A) True
+    B) False
+
+74. [frq, 2 pt] Is the previous statement in #73 true of all viruses that have the same type of genetic material (DNA or RNA) as influenza? Explain your answer.
+
+76. [frq, 2 pt] From an evolutionary point of view, for human viruses, would the influenza virus be more likely to accumulate mutations with high or low infectivity? Explain your answer.
+
+77. [frq, 2 pt] From an evolutionary point of view, for human viruses, would the influenza virus be more likely to accumulate mutations with high or low virulence? Explain your answer.
+
+78. [frq, 2 pt] Since the COVID-19 pandemic, there has been decreased activity of influenza and other respiratory viruses. Provide two possible explanations for this observation.
+
+79. [mcq, 1 pt] Now that you are a (self-proclaimed) master at understanding respiratory diseases, you have been sent off to do actual fieldwork! This time, you're investigating a marked increase in the cases of tuberculosis. A strain of tuberculosis has spread throughout your state, afflicting thousands of people. Which of the following terms would best describe this scenario?
+    A) Cluster
+    B) Outbreak
+    C) Epidemic
+    D) Pandemic
+
+80. [multi, 1 pt] As an epidemiologist, which of the following would you be responsible for studying in your investigation? Select all that apply.
+    A) Determining if smoking makes people more susceptible to tuberculosis.
+    B) Developing a possible treatment for those who have contracted tuberculosis.
+    C) Determining the method of transmission for tuberculosis.
+    D) Determining possible methods in order to contain the rise in cases of tuberculosis.
+
+81. [numeric, 2 pt] In the report you received, it is noted that your state has a population of 13 million people, and 225,000 deaths were recorded in the year 2021. This includes 60,000 deaths from tuberculosis, out of 200,000 individuals who contracted the disease. Calculate the case-fatality rate of tuberculosis in 2021.
+
+82. [multi, 1 pt] More information has allowed you to determine that not all 200,000 cases of tuberculosis in your state were contracted in 2021. Which of the following statements is false? Select all that apply.
+    A) The duration of tuberculosis can be longer than a year.
+    B) The case-fatality rate provides a reliable estimate of the incidence of tuberculosis.
+    C) The case-fatality rate provides a reliable estimate of the prevalence of tuberculosis.
+    D) The denominator of the case-fatality rate is equal to the incidence of tuberculosis in 2021.
+    E) The denominator of the case-fatality rate is equal to the prevalence of tuberculosis in 2021.
+
+83. [frq, 3 pt] Further research has informed you that tuberculosis has infected a high proportion of people who have been exposed to the bacillus. However, out of those, only a low proportion of people develop symptoms. However, many people who developed symptoms became severely ill. How would you characterize TB's pathogenicity, infectivity, and virulence? Give your answer as "high" or "low".
+
+84. [frq, 2 pt] Surprisingly, you recall learning that since tuberculosis had been so extensive throughout Europe, there was a strong selective pressure for genes that protect against TB in this population. Give two possible reasons why the number of cases of TB have been increasing in recent years.
+
+85. [frq, 1 pt] Data has shown that if the infecting dose of bacilli is low, most healthy individuals will defeat a potential infection without symptoms. Which immune cells are most likely responsible for this?
+
+86. [frq, 1 pt] The observation in #85 best represents which guideline in the Bradford-Hill criteria?
+
+87. [mcq, 1 pt] In which of the following studies would it be easiest to meet the temporality guideline in the Bradford-Hill criteria?
+    A) Retrospective cohort study
+    B) Prospective cohort study
+    C) Case-control study
+    D) Cross-sectional study
+    E) Ecological study
+
+89. [frq, 3.5 pt] You have seven sources of evidence from studies that have attempted to determine the best possible treatment for tuberculosis. Rank the sources in descending order of quality.
+    I. A cohort study that has specified their hypothesis before the analysis and accounted for confounding factors.
+    II. A case-series study that neglected to have a control group.
+    III. An experimental trial that was double-blind and had a placebo, but randomization did not occur.
+    IV. A case-control study that appears to suffer from post hoc fallacy.
+    V. An experimental trial that was randomized, double-blind, and contained a placebo.
+    VI. An experimental trial that was randomized and had a placebo, but it was single-blind.
+    VII. A time-series study that took confounding factors into account.
+
+90. [frq, 2 pt] When reviewing the quality of a source, give two examples of other factors you would take into consideration.

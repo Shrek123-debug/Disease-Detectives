@@ -1,0 +1,517 @@
+MIT Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  90 questions, 213.0 pts
+Source: scio.ly test archive id 03d592d1-210d-4b32-b78b-e3e5cd85c62d  |  original files: https://drive.google.com/drive/folders/19_dbGVXc0FGIM8Tnc7rOltC0itgIKiVu
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== Part I: Endophthalmitis in South Korea ===
+
+[STIMULUS] Endophthalmitis, or inflammation of the inner eye cavity, is a rare infection that can result in loss of vision if not treated promptly. In November of 2020, a surge of endophthalmitis cases occurred in South Korea.
+
+1. [multi, 2 pt] Epidemiologic triads can be used to generate hypotheses and assist in collecting important data about an outbreak. Which of the following are valid epidemiological triads? Select TWO.
+    A) Person place time
+    B) Agent host environment
+    C) Person agent environment
+    D) Vector host environment
+    E) Place time agent
+
+2. [multi, 2 pt] Although endophthalmitis usually isn't spread person to person, in communicable outbreaks, the reproductive rate (R₀) is often used. What can the reproductive rate tell us about an epidemic? Select ALL that apply.
+    A) The mode of transmission of the outbreak
+    B) Whether outbreak is propagated, point source, or common continuous source
+    C) Whether the outbreak will continue to grow or die out
+    D) The chance of getting infected after exposure
+    E) How many people are infected by a single case
+    F) The chance of developing disease after infection
+
+[STIMULUS] After some investigation, epidemiologists find that all cases occurred in people who had recently gotten cataract surgery. They hypothesize that infection somehow occurred during the operational process.
+
+4. [multi, 2 pt] This infection would be considered ____. Select ALL that apply.
+    A) Nosocomial
+    B) Systemic
+    C) Latent
+    D) Iatrogenic
+    E) Endogenous
+    F) Exogenous
+
+5. [multi, 2 pt] To track the outbreak, the Department of Health creates surveys and sends it to referral centers that treat endophthalmitis. This is an example of which types of surveillance? Select ALL that apply.
+    A) Sentinel
+    B) Active
+    C) Passive
+    D) Syndromic
+    E) Environmental
+
+[STIMULUS] Most post–cataract surgery endophthalmitis cases are caused by gram-positive bacteria.
+
+6. [tf, 1 pt] Gram positive bacteria are generally more susceptible to antibiotics than gram negative bacteria.
+    A) True
+    B) False
+
+7. [frq, 2 pt] Why? Answer in 1 sentence maximum.
+
+[STIMULUS] The latency period of some patients is calculated:
+    [IMAGE: ../images/2023_mit_invitational_c__p4_78f9b2-78317d73.webp]
+
+8. [numeric, 2 pt] Calculate the average latency period.
+
+9. [frq, 2 pt] In the context of infectious diseases, describe the difference between latency period and incubation period. (2 sentences max)
+
+[STIMULUS] Bacterial endophthalmitis typically have an incubation period of a week. As a result, epidemiologists conclude this was caused by a fungal infection.
+
+10. [multi, 2 pt] Which are ways fungal pathogens differ from bacteria, other than having a longer incubation period? Select ALL that apply.
+    A) Bacterium can cause harm by releasing toxins, fungi mainly cause harm through taking resources from the host
+    B) Serious fungal infection is far less common among non-immunocompromised individuals than bacterial infections
+    C) Food intoxication from fungi is more common than food intoxication from bacteria
+    D) In food, pathogenic fungi prefer acidic growth environments more than pathogenic bacteria
+    E) Higher temperatures are needed to kill pathogenic fungi than pathogenic bacteria in food
+
+[STIMULUS] Shown below is a map of the number of cases per region:
+    [IMAGE: ../images/2023_mit_invitational_c__p6_02d8c7-eabc7c97.webp]
+
+11. [multi, 2 pt] What is this map called? Select ALL that apply.
+    A) Spot map
+    B) Area map
+    C) Choropleth
+    D) Rate map
+
+[STIMULUS] "Microbiologic testing identified Fusarium spp. in ≈ 30% of 156 patient samples obtained."
+
+13. [frq, 2 pt] What is one reason why testing did not identify Fusarium spp. in all patients?
+
+14. [frq, 2 pt] Which one of Koch's postulates does this violate? (1 sentence maximum)
+
+15. [tf, 1 pt] Most diseases satisfy Koch's postulates.
+    A) True
+    B) False
+
+[STIMULUS] Since the infection happened during surgery, investigators suspect Ophthalmic Viscosurgical Devices (OVDs), injected into the eye during surgery. 159 case patients' records were examined to see what brand of OVDs were used during surgery.
+
+16. [multi, 2 pt] Identify this study type. Select ALL that apply.
+    A) Observation
+    B) Analytic
+    C) Descriptive
+    D) Experimental
+    E) Case control
+    F) Cohort
+    G) Cross sectional
+    H) Ecological
+    I) RCT
+    J) Retrospective
+    K) Prospective
+
+[STIMULUS] Most of the hospitals used OVDs from brands A and B. Assume there were a total of 500 surgeries and 175 infections drawn randomly from all the surgeries and infections in South Korea during the outbreak. The table below contains data regarding infections from the two different brands:
+    [IMAGE: ../images/2023_mit_invitational_c__p7_356c10-5a374740.webp]
+    | Label | Answer |
+    | **18.** Calculate the appropriate measure of risk for each OVD. |  |
+    | A OVD A | [[q:18-A]] |
+    | B OVD B | [[q:18-B]] |
+
+18-A. [frq, 2 pt] Label A OVD A
+
+18-B. [frq, 2 pt] Label B OVD B
+
+19. [frq, 4 pt] Explain what each measure of risk means.
+
+20. [frq, 8 pt] Write down the expected values for each OVD.
+
+22. [numeric, 2 pt] Calculate the incidence proportion.
+
+23. [frq, 9 pt] List the chain of infection and identify each component in this outbreak.
+
+24. [multi, 2 pt] For this study, all samples were taken from people in the hospital. Select ALL of the following biases may have occurred due to that.
+    A) Berkson's bias
+    B) Panel effect
+    C) Healthy worker effect
+    D) Observer bias
+    E) Selection bias
+
+
+=== Part II: Heavy Metal Contamination ===
+
+[STIMULUS] You've been appointed as part of a joint task force analyzing lead contamination of water. Lead poisoning and lead toxicity can impact heme synthesis, leading to anemia and poor cognitive development for children. Indeed, lead is listed as one of ten hazardous chemicals of public concern and accounts for over 900,000 deaths per year globally. Your team has been assigned to monitor lead levels in Cinangka Village, Bogor Regency, a small village in Indonesia shown on the map below:
+    [IMAGE: ../images/2023_mit_invitational_c__p10_ec9056-e62f1877.webp]
+
+[STIMULUS] More than 200 Used Lead-Acid Batteries (ULABs) recycling sites are found throughout Indonesia. Lead is a persistent chemical in the soil, constantly accumulating up to eventually toxic levels. ULAB recycling in Cinangka is known to be unsafe, as many smelt up ULABs into lead ingots as personal artifacts. Your team is particularly concerned with the impacts of lead levels on infants and young children.
+
+Local village health volunteers were recruited to assist with the identification of study participants: children between 1 and 5 years of age whose parents have lived in Cinangka for at least 3 years and are willing for their children to participate in the study. Socio-economic factors were assessed through interviews with parents while nutritional data was collected by measuring height and weight and comparing children's BMI with the average of their age. Additionally, blood sampling was performed to measure hemoglobin levels (Hb) (g/dL) and blood lead levels (BLL) (µg/dL).
+
+25. [mcq, 1 pt] What kind of study is this?
+    A) Cross-sectional
+    B) Case-control
+    C) Cohort
+    D) Experimental
+
+[STIMULUS] BLL data was plotted across age groups and compiled into a table stratified by normal and abnormal values for weight, height, and BMI. No statistically significant results were obtained.
+    [IMAGE: ../images/2023_mit_invitational_c__p11_9cd621-7d99e037.webp]
+    [IMAGE: ../images/2023_mit_invitational_c__p11_275c5e-2a14b927.webp]
+
+26. [mcq, 1 pt] Similar results to this study were obtained in the analysis of the height and weight of children exposed to lead in Mongolia and Australia. Which aspect of Hill's criteria does this satisfy?
+    A) Biological Plausibility
+    B) Strength of Association
+    C) Consistency
+    D) Coherence
+    E) Temporality
+
+27. [frq, 4 pt] Lead levels remain high in Cinangka despite cleanup efforts and the discontinuation of ULAB recycling. Provide two reasons why this may occur.
+
+28. [mcq, 1 pt] What is the average BLL among children enrolled in this study?
+    A) 20.52
+    B) 15.73
+    C) 18.94
+    D) 17.03
+    E) 16.22
+
+29. [frq, 4 pt] What kind of skew is present in the distribution of BLL? What does this suggest about lead exposure in general?
+
+[STIMULUS] Lead and other metal mining are particularly concerning in developing countries. China is one of the countries most impacted by heavy metal contamination and toxicity. The Qixia lead-zinc mining area in Jiangsu, China is one of the most important mining regions in China. Over the past 60 years of metal excavation, the surrounding environment has been devastated by heavy metal contamination. Three villages (V1, V2, and V3) near the mining site were studied and assessed for contamination risk. V1 is approximately 100m from the mine, V2 600m from the mine, and V3 1km from the mine. The orientation and location of the three villages are as shown:
+    [IMAGE: ../images/2023_mit_invitational_c__p12_d4c1eb-6eafe133.webp]
+
+[STIMULUS] Multiple samples were taken from each of the three villages for water, soil, air, and vegetables. These samples were then assessed for heavy metal content. Additionally, health exposure surveys were completed to determine risk factors such as health behaviors and daily lifestyles. These questionnaires were provided to 42 people in V1, 42 in V2, and 36 in V3 in 2012. Exposure levels were separately characterized quantitatively through collected hair samples. Exposure was first computed as Average Daily Intake (ADI), a measurement of the intake of metal over the body weight of an individual per unit time, as a function of the following inputs:
+
+[STIMULUS] 1. AT: Time period of average dose
+2. BW: Body weight
+3. C: Chemical concentration in the exposure medium
+4. ED: Exposure duration
+5. EF: Exposure frequency
+6. IR: Ingestion rate
+
+30. [frq, 2 pt] What are the likely units for ingestion rate?
+
+31. [frq, 4 pt] Using the above parameters, propose an equation for ADI
+
+[STIMULUS] Further measurements were then performed using a hazard quotient (HQ), defined as the ratio of ADI to a reference dose (RfD) as measured for an individual pathway and chemical. Note that the specific calculations of HQ, ADI, and the value of RfD change depending on the pathway and metal. For instance, dermal update would require modification of ADI by three additional factors: exposed skin surface area, adherence factor, and dermal absorption factor. The HQ values for the three villages are shown in the following table:
+    [IMAGE: ../images/2023_mit_invitational_c__p13_1a55d2-d33bb846.webp]
+
+32. [frq, 2 pt] The HQ values for each village and metal are shown to have a mean and standard deviation. Given that an HQ value should be specific for a metal, how are means and standard deviations found?
+
+33. [frq, 4 pt] Your team member Lamber tells you that she found some soil with an HQ for Zinc of 0.42. Is this a statistically significant deviation (p<0.05) from expected in V1?
+
+[STIMULUS] Summing HQs across all metals in a village is an estimation tool for the cumulative health risk posed by heavy metal contamination. The cumulative HQ probability distribution is shown in the following figure:
+    [IMAGE: ../images/2023_mit_invitational_c__p14_be3d0e-366fa0d8.webp]
+
+34. [mcq, 1 pt] What is the approximate value of the benchmark for the top 25% of HQ values in V1?
+    A) 8
+    B) 11
+    C) 17
+    D) 23
+    E) 27
+
+35. [multi, 2 pt] V1 appears to have a substantially higher risk than V2 and V3. What contaminants contribute greatly to this difference? Select ALL that apply.
+    A) Ag
+    B) Cd
+    C) Ni
+    D) Pb
+    E) Zn
+
+[STIMULUS] Hair samples were tested for heavy metal presence (mg/kg) and are shown in the following table
+    [IMAGE: ../images/2023_mit_invitational_c__p15_6d7194-d5bee936.webp]
+
+36. [mcq, 2 pt] You wish to determine whether there is a statistically significant difference in hair zinc concentration among individuals in V1 as compared to the global mean level. Which of the following statistical tests is most appropriate?
+    A) Student's t-test
+    B) Z test
+    C) ANOVA
+    D) Chi-squared test
+    E) Pearson's r
+
+37. [frq, 4 pt] Your group is particularly concerned about hair lead accumulation. A hair lead concentration of 10 µg/g is considered a significant lead exposure. Write a case definition for your group to use.
+
+[STIMULUS] Heavy metal contamination is not restricted to environmental water and soil contamination. You've been assigned to the team analyzing the potential adverse effects of heavy metal contaminants in urban street dust in Tianjin, China. Sample collection was performed in 87 locations from pavements near main roads when no rain had occurred in the last week. These samples were analyzed for concentration of various heavy metal contaminants.
+
+One metric that your team is particularly interested in is the Ecological Risk Index, which is defined as follows:
+
+C_fi = C_i / C_ni and E_i = T_i*C_fi, where for some metal i, C_fi is the single metal pollution factor, C_i is the concentration in street dust, and C_ni is reference value for the metal (the soil background level in Tianjin). E_i is a monomial potential ecological risk factor for each metal, where T_i is the response coefficient for the toxicity of a single metal (think of this as the toxic effect of a metal). Then, to find the total ecological risk index, RI, the summation of E_i for each metal is computed.
+
+The following table shows the ecological risk associated with various values of E_i and RI.
+    [IMAGE: ../images/2023_mit_invitational_c__p16_745324-fc4d926e.webp]
+
+38. [mcq, 1 pt] Consider a scenario where you have six contaminants of a soil with E values of 50, 60, 70, 80, and 90. What is the ecological risk category of this environment?
+    A) Low
+    B) Moderate
+    C) Considerable
+    D) High
+    E) Serious
+
+39. [frq, 3 pt] A new member of your team, Arthur, accidentally forgot to label the background soil sample and got it mixed up with a street dust sample with a particularly high metal content. What would this do to your calculations?
+
+[STIMULUS] Another method of ecological impact is found through the pollution index, which is defined as follows:
+
+P_i is the evaluation score of an individual metal where C_i is the value of extraction from Toxicity Characteristic Leaching Procedure (TCLP), a procedure to determine the mobility of contaminants. S_i is the maximum concentration of a contaminant for each level of toxicity characteristic (think of this as the maximum concentration in a range of values for a "level" of toxicity in an environment). P is the overall pollution index defined as ratio of metal concentration to geometric mean of background concentration. Evaluations of P are given in the following table:
+
+Consider the following hypothetical scenario with 4 contaminants: A, B, C, and D. The following table contains the measured concentrations and maximum concentration for toxicity characteristic values for each metal.
+    [IMAGE: ../images/2023_mit_invitational_c__p16_d756e9-3a2e0cd0.webp]
+    [IMAGE: ../images/2023_mit_invitational_c__p16_6b90d4-e5a4d7d8.webp]
+    [IMAGE: ../images/2023_mit_invitational_c__p17_766b62-ff8c7ff9.webp]
+    [IMAGE: ../images/2023_mit_invitational_c__p17_e70773-d17f84ef.webp]
+
+40. [frq, 3 pt] What is the pollution index for this ecosystem?
+
+41. [frq, 2 pt] When looking at your TCLP results for another contaminant E, you're highly concerned due to a incredibly high extraction value C_i for E to be over 1000 mg/L. However, your lab partners tells you that it's not a big deal. Why may this be the case?
+
+[STIMULUS] Beyond ecological impact, environmental contaminants have important effects on human health. One way to measure these effects is through chronic daily intake. Simplified Bioavailability Extraction Test (SBET) was used to measure the bioaccessibility of contaminants. The chronic daily intake (CDI) is defined similarly to average daily intake (ADI) referenced earlier. Again, the calculation yields a value that gives the amount of a contaminant ingested over the body weight of an individual per unit time. For each metal, the potential health risk can then be calculated as a Hazard Quotient (HQ), which was mentioned earlier, or a Cancer Risk (CR).
+
+Essentially, these two measures are finding the overall health risk (or cancer risk) for each contaminant and standardizing based on some reference dose relative to the chronic daily intake. Oral reference dose (RfD₀) and cancer slope factor (CSF₀) are found from screening levels, relative bioavailability (RBA) is the ratio of SBET extraction to total contents for each contaminant.
+
+42. [multi, 2 pt] Typically, total health effects are found by adding HQ across all contaminants. What are some reasons why this may fail to represent the entire picture? Select ALL that apply.
+    A) Some contaminants may have synergistic effects where the presence of one contaminant increases the bioavailability of another
+    B) Some metals that play a role in health risk may not be measured in this model
+    C) Wind patterns may change concentrations in different sites leading to poor measurements
+    D) Sweeping and other cleaning at road sites may lead to poor sampling
+
+43. [frq, 3 pt] The calculation for CDI is slightly different for carcinogens and other health hazards. Specifically, the average time (duration over which exposure occurs) is calculated using 70 years. Why may this be the case?
+
+[STIMULUS] The overall environmental risk for various contaminants in Tianjin were calculated with both methods and are compiled in the following table.
+    [IMAGE: ../images/2023_mit_invitational_c__p19_5febb0-e8a41560.webp]
+
+44. [mcq, 1 pt] Which contaminant is the biggest problem in Tianjin?
+    A) As
+    B) Pb
+    C) Cd
+    D) Cu
+    E) Cr
+
+45. [frq, 2 pt] During the study, contaminant concentration in dust samples varied greatly from region to region. What type of bias might this introduce to the study?
+
+46. [multi, 2 pt] Many things may contribute to street dust in cities. Which of the following are considerable contributors to urban street dust? Select ALL that apply.
+    A) Atmospheric deposition
+    B) Incineration
+    C) Fecal pollution
+    D) Vehicle brakes
+    E) Vehicle exhaust
+
+47. [frq, 6 pt] The results for E and P show different results in terms of ecological risk for each metal. From the calculation methods, why may P generally give lower results?
+
+
+=== Part III: Salmonellosis ===
+
+[STIMULUS] Salmonella enterica is a gram-negative bacteria that often infects livestock, primarily cattle and poultry. S. enterica can cause illness in humans and is the primary bacterial cause of foodborne illness in the United States, causing an estimated 1 million cases and 400 deaths every year. Salmonella patients typically exhibit symptoms consistent with acute gastroenteritis such as diarrhea, fever, and stomach cramps. Symptoms may begin as soon as six hours after exposure and usually last for four to seven days.
+
+The Centers for Disease Control and Prevention (CDC) coordinates PulseNet, a national surveillance network for DNA fingerprints of bacterial agents. DNA fingerprinting allows for the formation of clusters of disease caused by similar strains of a bacteria. Typically, salmonellosis outbreaks within the United States are identified through PulseNet.
+
+48. [mcq, 1 pt] What type of fingerprinting is most commonly performed for PulseNet analysis?
+    A) Whole-Genome Sequencing (WGS)
+    B) Reverse Transcriptase Polymerase Chain Reaction (RT-PCR)
+    C) Next Generation Sequencing (NGS)
+    D) Sodium Dodecyl Sulfate–Polyacrylamide Gel Electrophoresis (SDS-PAGE)
+    E) Pulsed-Field Gel Electrophoresis (PFGE)
+
+[STIMULUS] PulseNet typically relies on a national system of biolaboratories that submit and upload bacterial isolates from ill persons to a national database. Microbiologists and epidemiologists can then monitor subtypes of submitted samples to identify clusters of disease.
+
+49. [mcq, 1 pt] Which of the following is the best definition of a cluster?
+    A) An aggregation of cases closely grouped in time and space
+    B) An aggregation of cases closely grouped in time and space that is greater than typically expected
+    C) An aggregation of cases that occur at a similar time
+    D) An aggregation of cases that is more than typically expected over a long period of time
+    E) An aggregation of cases that occur in a similar area
+
+50. [mcq, 1 pt] Which type of surveillance is most similar to PulseNet?
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+    E) Clinical
+
+51. [frq, 4 pt] What are two disadvantages of this type of surveillance?
+
+52. [frq, 5 pt] What are the 5 steps for surveillance?
+
+[STIMULUS] Part of your initial job is to ensure that an outbreak is actually occurring. To do so, you plan on checking that all potential cases of Salmonella are from related serovars. Seven outbreak strains were identified: JF6X01.0022 (California only), JF6X01.0041, JF6X01.0045, JF6X01.0122, JF6X01.0258, JF6X01.0326, or JF6X01.0672. Individuals affected with Salmonella from one of these seven strains were reported across the country in 29 states and Puerto Rico with illness onset dates between March, 2013 and July, 2014. The distribution of cases by state is shown in the plot below:
+    [IMAGE: ../images/2023_mit_invitational_c__p22_1f3f9b-291fde97.webp]
+
+54. [mcq, 1 pt] What is this type of graph called?
+    A) Spot map
+    B) Epicurve
+    C) Gradient map
+    D) Choropleth
+    E) Contingency table
+
+55. [frq, 4 pt] Given that JF6X01.022 is the most common strain nationally, why might it have only been counted in California?
+
+56. [frq, 4 pt] Having verified that most potential cases were infected with one of seven outbreak strains, now propose a potential case definition for the study of this outbreak.
+
+[STIMULUS] Among the 634 identified cases for this outbreak, information was only available for 528 case-patients. Of these 528 individuals, 200 were hospitalized and none died. Only 273 case-patients completed a focused questionnaire. Among those, 201 reported eating chicken prepared at home. According to the nationally conducted FoodNet Population Survey, 65% of healthy individuals reported preparing chicken at home.
+
+57. [mcq, 1 pt] What type of study is this?
+    A) Cohort
+    B) Case-Control
+    C) Experimental
+    D) Cross-sectional
+    E) Ecological
+
+58. [mcq, 1 pt] What is the hospitalization rate for this outbreak?
+    A) 0
+    B) 0.32
+    C) 0.38
+    D) 0.73
+    E) 0.83
+
+60. [frq, 2 pt] Evaluate the strength of association (odds ratio) between eating home-prepared chicken and illness, comparing case-patients with the FoodNet survey population, in context.
+
+61. [frq, 5 pt] What is one specific weakness towards this particular method of measuring odds ratio?
+
+62. [frq, 2 pt] It was further discovered that many individuals consumed chicken parts (breasts, thighs, wings, etc) instead of whole chickens. Provide a possible explanation as to how this played a role in this outbreak.
+
+63. [mcq, 1 pt] One way to avoid foodborne illness from poultry is by properly cooking meat to a correct temperature. Which of the following temperatures should chicken thigh be cooked to?
+    A) 145 F
+    B) 150 F
+    C) 155 F
+    D) 160 F
+    E) 165 F
+
+64. [frq, 2 pt] The CDC recommends four steps to food safety. Other than cook, what are the other three steps?
+
+65. [frq, 8 pt] Provide two reasons each for why the severity of this outbreak may have been over and underestimated.
+
+[STIMULUS] The epicurve for this outbreak is shown above.
+    [IMAGE: ../images/2023_mit_invitational_c__p25_685b8e-1436568a.webp]
+
+66. [multi, 2 pt] The shape of the epicurve primarily shows characteristics of two epicurve patterns. Which patterns are they? Select ALL that apply.
+    A) Continuous common source
+    B) Intermittent common source
+    C) Common point source
+    D) Propagated
+
+67. [frq, 8 pt] Given the nature of this outbreak, provide a probable explanation for why it lasted so long.
+
+
+=== Part IV: Cardiovascular Disease and Depression ===
+
+[STIMULUS] The association between mental and physical health is becoming a research topic of increasing interest. Through the National Health and Nutrition Examination Survey, researchers investigated the relationship between depression and risk for cardiovascular disease (10 year risk and lifetime risk).
+
+Chronic illness is often considered in the domain of clinical epidemiology more than classical epidemiology.
+
+68. [multi, 1 pt] Which of the following would be more relevant to clinical epidemiology?
+    A) Determining vaccine efficiency of a new vaccine.
+    B) Encouraging higher vaccine coverage in a community through public health announcements.
+    C) Evaluating different drugs to see which is best to treat depression.
+    D) Determining which demographic groups are at higher risk of developing depression
+
+[STIMULUS] Scientists follow a cohort of 100 people, starting from 1990 and ending in 2015. These are the notable events.
+    [IMAGE: ../images/2023_mit_invitational_c__p26_4bfbfe-9ea6d3cd.webp]
+
+69. [frq, 4 pt] State 2 advantages and 2 disadvantages of a cohort study.
+
+71. [numeric, 1 pt] Calculate the lifetime prevalence of cardiovascular disease per 100 people.
+
+72. [numeric, 2 pt] Calculate the period prevalence of cardiovascular disease in 2003-2005 per 100 people. Assume prior CVD cases are not treated.
+
+[STIMULUS] A graph is created based on the (actual) data.
+    [IMAGE: ../images/2023_mit_invitational_c__p27_72951c-3e86d5f2.webp]
+
+73. [frq, 1 pt] What do these vertical lines represent?
+
+74. [mcq, 2 pt] The risk ratio for women with major depression is closest to:
+    A) 1.6
+    B) 1.3
+    C) 1.2
+    D) 1.4
+
+[STIMULUS] To diagnose cardiovascular disease faster, researchers develop a new test.
+    [IMAGE: ../images/2023_mit_invitational_c__p28_e885a2-59b7b529.webp]
+    | Label | Answer |
+    | **75.** Calculate the sensitivity and specificity. |  |
+    | Sensitivity | [[q:75-a]] |
+    | Specificity | [[q:75-b]] |
+    | **76.** Calculate the positive predictive value and negative predictive value. |  |
+    | PPV positive predictive value | [[q:76-PPV]] |
+    | NPV negative predictive value | [[q:76-NPV]] |
+
+75-a. [frq, 2 pt] Sensitivity
+
+75-b. [frq, 2 pt] Specificity
+
+76-PPV. [frq, 2 pt] Label PPV positive predictive value
+
+76-NPV. [frq, 2 pt] Label NPV negative predictive value
+
+77. [numeric, 2 pt] Calculate the accuracy of the test.
+
+78. [multi, 2 pt] Which of the following are influenced by prevalence of disease in the population? Select ALL that apply.
+    A) Sensitivity
+    B) Specificity
+    C) Positive predictive value
+    D) Negative predictive value
+    E) Accuracy
+
+81. [multi, 2 pt] Which of the following biases will lead to a false assumption that the diagnostic test improves disease outcome? Select ALL that apply.
+    A) Length bias
+    B) Immortal time bias
+    C) Healthy worker effect
+    D) Lead time bias
+    E) Berkson's bias
+
+[STIMULUS] For each of the following biases, match it to the correct example. Choose from: Length bias, Immortal time bias, Healthy worker effect, Lead time bias, Berkson's bias
+
+82b. [mcq, 1 pt] A new diagnostic test seems to improve survival time of people with a chronic disease, but in reality, it just detects the disease earlier than previous tests without actually improving survival time.
+    A) Length bias
+    B) Immortal time bias
+    C) Healthy worker effect
+    D) Lead time bias
+    E) Berkson's bias
+
+82c. [mcq, 1 pt] A diagnostic test for cancer catches only slowly progressing cases and not severe cases that quickly kill the patient, so the test seems to lead to improved survival times.
+    A) Length bias
+    B) Immortal time bias
+    C) Healthy worker effect
+    D) Lead time bias
+    E) Berkson's bias
+
+82d. [mcq, 1 pt] A study about CVD draws patients from the hospital and finds a correlation between brain cancer and CVD.
+    A) Length bias
+    B) Immortal time bias
+    C) Healthy worker effect
+    D) Lead time bias
+    E) Berkson's bias
+
+82e. [mcq, 1 pt] An experimental study on CVD measures survival time for two cohorts: treatment and no treatment. However, the survival time for the treatment group includes the time before treatment is administered.
+    A) Length bias
+    B) Immortal time bias
+    C) Healthy worker effect
+    D) Lead time bias
+    E) Berkson's bias
+
+[STIMULUS] Researchers at MIT develop a new drug to treat cardiovascular disease! Now they need to design a trial to see if it works.
+
+85. [frq, 2 pt] Suggest what treatment the control group should receive in one sentence or less.
+
+86. [multi, 2 pt] Who is blinded in a single-blind study? Select ALL that apply.
+    A) Experimental group
+    B) Control group
+    C) Doctors administering medicine
+    D) Nurses administering medicine
+    E) Experimentalists analyzing data
+
+87. [multi, 2 pt] Who is blinded in a double-blind study? Select ALL that apply.
+    A) Experimental group
+    B) Control group
+    C) Doctors administering medicine
+    D) Nurses administering medicine
+    E) Experimentalists analyzing data
+
+[STIMULUS] The study finds that the experimental group of 120 patients has an average survival time of 10 years, with an STD of 2.4 years. The control group of 200 patients has an average survival time of 9.45 years, with an STD of 3 years.
+    | Label | Answer |
+    | **89.** What would be the null hypothesis? The alternative hypothesis? |  |
+    | null hypothesis What would be the null hypothesis? | [[q:89-a]] |
+    | alternative hypothesis The alternative hypothesis? | [[q:89-b]] |
+
+89-a. [frq, 1 pt] null hypothesis What would be the null hypothesis?
+
+89-b. [frq, 1 pt] alternative hypothesis The alternative hypothesis?
+
+90. [frq, 3 pt] Does the treatment improve the outcome a statistically significant amount? Take alpha as 0.05.
+
+[STIMULUS] Describe alpha and beta in terms of Type I and Type II errors.
+    | Label | Answer |
+    | alpha | [[q:91-a]] |
+    | beta | [[q:91-b]] |
+
+91-a. [frq, 1 pt] Label alpha
+
+91-b. [frq, 1 pt] Label beta
+
+92. [frq, 2 pt] What is the formula for the power of the study, in terms of alpha and beta?
+
+93. [multi, 2 pt] Select all the ways to increase the power of a study. Select ALL that apply.
+    A) Increase control group size
+    B) Decrease control group size
+    C) Increase the alpha value
+    D) Decrease the alpha value
+
+94. [frq, 2 pt] When might it be appropriate to end an experiment early?

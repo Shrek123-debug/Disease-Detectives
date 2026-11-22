@@ -1,0 +1,297 @@
+University of Michigan Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  72 questions, 155.0 pts
+Source: scio.ly test archive id 0e942949-4831-4d81-ad7e-f72033465c41  |  original files: https://goo.gl/gGvBgW
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: No penalty for guessing
+Work and units required for each calculation question
+Round answers as needed (preferably at least to the hundredth place)
+Point values for a question are in parentheses after the question
+
+
+=== Vocabulary — Write the vocabulary term that corresponds to the definition. ===
+
+1. [frq, 1 pt] A countable instance in the population or study group of a particular disease, health disorder, or condition under investigation.
+
+2. [frq, 1 pt] The number or proportion of cases or events or conditions in a given population.
+
+3. [frq, 1 pt] The branch of science we disease detectives are studying.
+
+4. [frq, 1 pt] Amount of agent that must be consumed to give rise to symptoms of foodborne illness.
+
+5. [frq, 1 pt] The number of deaths from a specific cause.
+
+6. [frq, 1 pt] The identification and diagnosis of people who may have come into contact with an infected person.
+
+7. [frq, 1 pt] The temporal course of disease from onset (inception) to resolution.
+
+8. [frq, 1 pt] An organism (such as an insect) that transmits a pathogen.
+
+9. [frq, 1 pt] An observational study that analyzes data collected from a population, or a representative subset, at a specific point in time.
+
+10. [frq, 1 pt] The systematic collection, analysis, interpretation, and dissemination of health data on an ongoing basis, to gain knowledge of the pattern of disease occurrence and potential in a community, in order to control and prevent disease in the community.
+
+11. [frq, 1 pt] Inadvertent and preventable induction of disease or complications by the medical treatment or procedures of a physician or surgeon.
+
+12. [frq, 1 pt] An epidemic occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+
+13. [frq, 1 pt] The traits of an individual person or animal that affect susceptibility to disease, especially in comparison to other individuals.
+
+14. [frq, 1 pt] A comparison of the risk of some health-related event such as disease or death in two groups. Usually used in cohort studies.
+
+15. [frq, 1 pt] The U.S. federal executive department responsible for developing and executing federal laws related to farming, agriculture, forestry, and food.
+
+16. [frq, 1 pt] Any substance foreign to the body that evokes an immune response either alone or after forming a complex with a larger molecule (such as a protein) and that is capable of binding with a product (such as an antibody or T cell) of the immune response.
+
+[STIMULUS] Classify each disease (bacterial, viral, fungal, parasitic, helminth, prion, or protozoan/protist).
+    | Disease | Type (1) |
+    | Tapeworm | [[q:17-1]] |
+    | Chicken Pox | [[q:17-2]] |
+    | Chagas | [[q:17-3]] |
+    | Candidiasis | [[q:17-4]] |
+    | Chikungunya | [[q:17-5]] |
+    | Legionellosis | [[q:17-6]] |
+    | Scrapie | [[q:17-7]] |
+    | Syphilis | [[q:17-8]] |
+    | Giardiasis | [[q:17-9]] |
+    | Apicomplexa | [[q:17-10]] |
+    | Poliomyelitis | [[q:17-11]] |
+    | Tuberculosis | [[q:17-12]] |
+
+17-1. [mcq, 1 pt] Row: Tapeworm — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-2. [frq, 1 pt] Row: Chicken Pox — Type
+
+17-3. [frq, 1 pt] Row: Chagas — Type
+
+17-4. [mcq, 1 pt] Row: Candidiasis — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-5. [frq, 1 pt] Row: Chikungunya — Type
+
+17-6. [frq, 1 pt] Row: Legionellosis — Type
+
+17-7. [mcq, 1 pt] Row: Scrapie — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-8. [mcq, 1 pt] Row: Syphilis — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-9. [mcq, 1 pt] Row: Giardiasis — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-10. [mcq, 1 pt] Row: Apicomplexa — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+17-11. [frq, 1 pt] Row: Poliomyelitis — Type
+
+17-12. [mcq, 1 pt] Row: Tuberculosis — Type
+    A) bacterial
+    B) viral
+    C) fungal
+    D) parasitic
+    E) helminth
+    F) prion
+    G) protozoan/protist
+
+
+=== Case Study 1 ===
+
+[STIMULUS] Adapted from: Scott et al. “Notes from the Field: Campylobacteriosis Outbreak Associated with Consuming Undercooked Chicken Liver Pâté — Ohio and Oregon, December 2013–January 2014.” Morbidity and Mortality Weekly Report. April 17, 2015, vol. 64, no. 14, pp. 399.
+
+On January 8, 2014, the Ohio Department of Health notified the Oregon Public Health Division (OPHD) of campylobacteriosis in two Ohio residents recently returned from Oregon. The travelers reported consuming chicken liver pâté* at an Oregon restaurant. On January 10, OPHD received additional reports of campylobacteriosis in two persons who had consumed chicken liver pâté at another Oregon restaurant. Campylobacter jejuni was isolated in cultures of fecal specimens from three patients. OPHD investigated to determine the sources of the illnesses and to institute preventive measures.
+
+Both restaurants reported using undercooked chicken livers to prepare their pâté; an environmental health investigation revealed that the livers were purchased from the same U.S. Department of Agriculture Food Safety and Inspection Service (FSIS)–regulated establishment in the state of Washington. The establishment reported that livers were rinsed with a chlorine solution before packaging. However, culture of five of nine raw liver samples from both restaurants and from the establishment yielded C. jejuni; none of three pâté samples from the restaurants yielded C. jejuni. One human stool specimen and three liver samples were typed by pulsed-field gel electrophoresis (PFGE); the human isolate and one liver sample had indistinguishable PFGE patterns when digested by the restriction enzyme SmaI. The human isolate was susceptible to all antimicrobials tested by CDC's National Antimicrobial Resistance Monitoring System.
+
+A presumptive case was defined as diarrhea lasting >2 days, within 7 days after consumption of undercooked chicken liver; a confirmed case was defined as laboratory evidence of C. jejuni infection within 7 days after consumption of undercooked chicken liver. In all, three laboratory-confirmed and two presumptive cases of campylobacteriosis following consumption of chicken livers were reported in Ohio and Oregon. Illness onsets ranged from December 24, 2013, to January 17, 2014. Patient age range was 31–76 years; three were women. Based on OPHD's recommendation, both restaurants voluntarily stopped serving liver. The FSIS-regulated establishment also voluntarily stopped selling chicken livers.
+
+During the outbreak investigation, OPHD learned of a campylobacteriosis case in a Washington state resident who had eaten raw chicken livers that had been chopped into pill-sized pieces and frozen, as prescribed by a naturopathic physician. The livers were from the same establishment that supplied the Oregon restaurants. No isolate from the case was available for subtyping, but culture of frozen pieces of liver collected from this patient yielded C. jejuni.
+
+This report illustrates that follow-up of possible outbreaks identified by routine interviewing by health departments can identify sources of illnesses and result in control measures that protect public health. Campylobacter is thought to be the most common bacterial cause of diarrheal illness in the United States (6), and infection is now nationally notifiable.
+
+18. [frq, 1 pt] Why would chicken liver pâté be considered a risky food for foodborne illness transmission?
+
+19. [frq, 2 pt] Why would consumers have a difficult time checking if foods like chicken liver pâté are fully cooked? A picture of it is below, in the white serving dish.
+    [IMAGE: ../images/2018_university_of_michigan_invitational__p4_21f804-1a1136f0.webp]
+
+21. [frq, 2 pt] What temperature should chicken liver be cooked to in order to render it safe for consumption?
+
+22. [frq, 2 pt] “livers were rinsed with a chlorine solution before packaging.” Why was this done, and what is another way chlorine is used in the food industry?
+
+23. [frq, 1 pt] What is one of the compounds that use chlorine in the food industry?
+
+24. [frq, 6 pt] “One human stool specimen and three liver samples were typed by pulsed-field gel electrophoresis.” Explain how a sample would be typed, why PFGE typing is important to epidemiology, and what type of diseases PFGE can be used to type.
+
+25. [frq, 2 pt] “A presumptive case was defined as diarrhea.” What are two other symptoms of campylobacter?
+
+26. [frq, 1 pt] Assuming a typical incubation period for campylobacter, why is it irregular that the case definition included cases that started 7 days after contact?
+
+27. [frq, 2 pt] Specifically for campylobacter, what is the difference between a probable and confirmed case?
+
+28. [frq, 4 pt] “Patient age range was 31–76 years; three were women.” Compare the risk factors in this study to typical risk factors for campylobacter.
+
+29. [frq, 6 pt] What are two reasons this study could have been biased or inaccurate? Use evidence from the study to support your answer.
+
+31. [numeric, 1 pt] What was the total number of days in the period of onset days measured by this study?
+
+
+=== Disease Notification ===
+
+32. [frq, 1 pt] What does it mean for campylobacter to be nationally notifiable, as in Case Study 1?
+
+33. [frq, 2 pt] What are the four types of reporting that is done at the state level?
+
+[STIMULUS] What are the full names of these organizations, all related to food reporting?
+    | Label | Answer |
+    | NNDSS | [[q:34-a]] |
+    | CDC | [[q:34-b]] |
+    | FoodNet | [[q:34-c]] |
+    | NARMS | [[q:34-d]] |
+    | NORS | [[q:34-e]] |
+    | CTSE | [[q:34-f]] |
+
+34-a. [frq, 1 pt] NNDSS
+
+34-b. [frq, 1 pt] CDC
+
+34-c. [frq, 1 pt] FoodNet
+
+34-d. [frq, 1 pt] NARMS
+
+34-e. [frq, 1 pt] NORS
+
+34-f. [frq, 1 pt] CTSE
+
+35. [frq, 2 pt] What disease was added to the NNDSS for 2018?
+
+36. [frq, 5 pt] Why would the specific form of this disease, i.e. Carbapenemase producing, be a matter of public health concern?
+
+37. [frq, 2 pt] What are the two classifications for Salmonella necessary for the 2018 NNDSS?
+
+38. [frq, 6 pt] What is the most recent CTSE case definition for a foodborne illness outbreak?
+
+39. [frq, 2 pt] What are the two exceptions to this case definition?
+
+
+=== Case Study 2 ===
+
+[STIMULUS] Adapted from: Krishnasamy V, Mauldin MR, Wise ME, et al. Notes from the Field: Postexposure Prophylaxis for Rabies After Consumption of a Prepackaged Salad Containing a Bat Carcass — Florida, 2017. MMWR Morb Mortal Wkly Rep 2017; 66: 1154–1155. DOI: http://dx.doi.org/10.15585/mmwr.mm6642a7
+
+On April 3, 2017, two Florida residents consumed part of the same prepackaged salad before reportedly discovering the partial remains of a bat carcass in the salad. Bats are known reservoirs for rabies virus, which causes rabies disease in both animals and humans (1). The persons who ate the salad contacted the Florida Department of Health (FLDOH), which notified CDC’s Poxvirus and Rabies Branch. CDC and FLDOH determined that the immediate concern was for potential rabies virus exposure, because approximately 6% of bats submitted to U.S. public health departments annually test positive for rabies virus (2,3).
+
+Although percutaneous exposures are more likely to result in successful transmission of rabies virus to humans (1), transmission can occur when infectious material, such as saliva or nervous tissue from an infected animal, comes into direct contact with human mucosa (2). Infection with rabies virus causes an acute, progressive encephalitis that is nearly always fatal once clinical signs have begun. The disease is preventable if exposed persons receive timely postexposure prophylaxis (PEP), which includes human rabies immunoglobulin and 4 doses of inactivated rabies vaccine administered over 14 days (4).
+
+FLDOH submitted the bat carcass to CDC for rabies virus testing on April 4. Polymerase chain reaction and direct fluorescent antibody tests were inconclusive because of the deteriorated condition of the carcass. However, because the cranium of the bat was intact, exposure to brain material by the persons who consumed the salad was unlikely, although exposure to the bat’s organs or peripheral nervous tissue was possible. PEP was recommended because laboratory test results were inconclusive and exposure to nervous tissue could not be ruled out.
+
+The salad was purchased from a company A store location. After being notified of the investigation, company A removed the lot of prepackaged salad from all store locations on April 5. Company B (the prepackaged salad supplier) recalled the affected lot of salads on April 8. CDC advised consumers to contact their local health department for PEP evaluation only if the consumer had eaten a recalled prepackaged salad and had found animal material in the salad. CDC was not notified of any other reports of dead bats in prepackaged salads.
+
+To identify where the bat might have been introduced into the prepackaged salad, CDC performed genetic analyses on the bat to determine its subspecies. Based on morphology and phylogenetic analyses (Bayesian inference and haplotype network analyses) of mitochondrial DNA sequence data (Cytb and D-loop), the bat was identified as a Mexican free-tailed bat (Tadarida brasiliensis mexicana), which is found throughout the southwestern United States. It is genetically distinct from T. brasiliensis cynocephala, which occurs in the southeastern United States (Figure) (5).
+
+Several factors likely reduced the risk for rabies virus transmission to the two Florida consumers. No rabies virus was detected in the specimen, the bat’s cranium was intact, and the salad was rinsed before packaging, thereby diluting any potential virus. In addition, mucosal membrane exposures have rarely been proven to result in rabies disease, and rabies virus does not survive more than a few days outside a host (2). Although this exposure was likely of low risk, this investigation was an example of effective industry and government collaboration to remove a product of concern from the marketplace rapidly to protect consumers.
+
+40. [frq, 2 pt] How can rabies be spread as a foodborne illness?
+
+41. [frq, 3 pt] What is encephalitis? Classify it as viral, bacterial, fungal, parasitic, or any combination of the categories.
+
+43. [frq, 2 pt] The disease is preventable if exposed persons receive timely postexposure prophylaxis. What is prophylaxis?
+
+44. [frq, 2 pt] What’s an example of percutaneous exposure that might cause rabies?
+
+45. [frq, 4 pt] Title the above image.
+    [IMAGE: ../images/2018_university_of_michigan_invitational__p9_38db7a-30a06d1f.webp]
+
+46. [frq, 10 pt] Where do you think the bat carcasses entered the salad preparation carcass? Explain in detail.
+
+47. [frq, 4 pt] What are the top five germs that cause foodborne illness in the US?
+
+
+=== Case Study 3 ===
+
+[STIMULUS] Adapted in sections from: Long, M., Yu, H., Chen, L., Wu, G., Zhao, S., Deng, W., . . . Zou, L. (2017). Recovery of Salmonella isolated from eggs and the commercial layer farms. Gut Pathogens, 9(1). doi:10.1186/s13099-017-0223-8
+
+48. [mcq, 2 pt] How often is human salmonellosis transmitted via a foodborne method?
+    A) 100%
+    B) 95%
+    C) 80%
+    D) 60%
+    E) 20%
+
+49. [mcq, 2 pt] How often does human salmonellosis occur in the US annually?
+    A) 7.6 million
+    B) 5.2 million
+    C) 3.1 million
+    D) 1.4 million
+    E) 500000
+
+50. [frq, 2 pt] If Salmonellosis occurs in East Asia at the rate of 3980 cases per 100,000 person-years, how does this compare to a global incidence of 570 per 50000 person-years?
+
+51. [frq, 3 pt] Why are person years used to compare different incidence rates?
+
+[STIMULUS] Salmonella has been frequently recovered from laying hen house environments, suggesting that the environment of the poultry farm can act as a reservoir for Salmonella and contribute to the horizontal dissemination of Salmonella via animal-to-animal contact and contaminated feed [7–9]. In addition to feed, the water, feces, dust, cages and litter contaminated with Salmonella are important sources of infection [9–15]. Many studies focused on the distribution of Salmonella among different sample origins in poultry environments, or on antibiotic resistance, virulence, and control strategies [9, 14, 16, 17]. However, there have been few investigations of the association between Salmonella isolates recovered from the internal and external poultry environment and the relationship between isolates obtained from sequential points along the production chain. Recognition of these aspects is important in controlling the spread of Salmonella and reducing the prevalence of Salmonella in production settings.
+
+52. [frq, 4 pt] What is horizontal dissemination, and through what means does horizontal dissemination occur?
+
+53. [frq, 3 pt] Why is the recognition of aspects of Salmonella along sequential points of the production chain vital to reducing the prevalence of Salmonella?
+
+54. [frq, 4 pt] What are the two most common serotypes of Salmonella?
+
+55. [frq, 2 pt] What serotype of Salmonella has there been concern raised about due to multi drug resistant phenotypes?
+
+56. [frq, 2 pt] List two other salmonella serovars that have been known to cause outbreaks.
+
+57. [frq, 9 pt] Calculate the prevalence of Salmonella in each environment.
+    [IMAGE: ../images/2018_university_of_michigan_invitational__p12_6c7c81-964f57e7.webp]
+
+58. [frq, 6 pt] Choose THREE (3) of the following types of epidemiology and define them for full credit.
+    
+    Classical Epidemiology
+    Clinical Epidemiology
+    Experimental Epidemiology
+    Infectious Disease Epidemiology
+    Descriptive Epidemiology
+    Shoe Leather/Gum Boots Epidemiology
+    Theoretical Epidemiology
+
+59. [frq, 5 pt] Rank the following types of study designs in order of increasing usefulness in proving causation. Choose TWO (2) to define.
+    A. Cross-Sectional Study
+    B. Ecological Study
+    C. Cohort Study
+    D. Case Study
+    E. Case-Control Study
+    F. Randomized Controlled Trial

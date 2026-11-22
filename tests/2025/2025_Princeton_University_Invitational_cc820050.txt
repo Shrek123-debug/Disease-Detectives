@@ -1,0 +1,460 @@
+Princeton University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  49 questions, 123.0 pts
+Source: scio.ly test archive id cc820050-5a9b-493a-8eee-abc2c22e2423  |  original files: https://drive.google.com/drive/folders/1DqyyQI0j7aR-DQ5gAO5CbuVaSedHFsjX
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: This exam comprises multiple-select, fill-in-the-blank, calculation, and short answer questions. Partial credit will be granted in certain cases. Points values are denoted next to each question and part number.
+
+
+=== Part 1 - Background and Surveillance ===
+
+[STIMULUS] Matching Column
+
+1. [mcq, 1 pt] The property of causing disease following infection.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+2. [mcq, 1 pt] Stage of subclinical disease, for chronic diseases, extending from the time of exposure to onset of disease symptoms
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+3. [mcq, 1 pt] Agent leaves reservoir through portal of exit, and is conveyed by some mode of transmission, and enters the appropriate portal of entry to infect a susceptible host.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+4. [mcq, 1 pt] Occurs via droplets (typically mucous droplets) where droplets are liquids that remain airborne whether as aerosols (very small droplets) or associated with dust particles.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+5. [mcq, 1 pt] The sum of the time during which each individual in a population was at risk for a disease.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+6. [mcq, 1 pt] Almost anything an infected individual or reservoir can touch, upon which can be left a residue of contagious pathogen
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+7. [mcq, 1 pt] The number of people infected, divided by the total sample.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+8. [mcq, 1 pt] Professionals selected to represent a specific geographic area or group report health events to health agencies. This is used when high-quality data can't be obtained through passive surveillance.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+9. [mcq, 1 pt] Consequence of being coughed, sneezed, or spit on. Mucous droplets must still be traveling with the velocity imparted upon it leaving the mouth. As a rule of thumb, this is up to one meter after exiting the mouth.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+10. [mcq, 1 pt] An opening allowing the microorganism to enter the host; the route a pathogen takes to enter a host.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+11. [mcq, 1 pt] The rate of new cases of disease in a given population over a period of time.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+12. [mcq, 1 pt] Research similarities with traditional experimental design or RCT, but lack element of random assignment to treatment/control; participants are assigned a group based on non-random criteria
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+13. [mcq, 1 pt] Signs of the disease (such as school absences or prescription drug sales) are monitored as a proxy for the disease itself. The symptom must be infrequent and severe enough to warrant investigation of each identified case, and must be unique.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+14. [mcq, 1 pt] An infection that is acquired in a hospital.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+15. [mcq, 1 pt] compare people with and without exposures to see what happens to each. Can be prospective or retrospective.
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+16. [mcq, 1 pt] Displays no signs or symptoms, but is infected and can carry the disease
+    A) Portal of Entry
+    B) Cohort Study
+    C) Nosocomial Disease
+    D) Airborne Transmission
+    E) Sentinel Surveillance
+    F) Latency Period
+    G) Person-time
+    H) None of the Above
+    I) Quasi Experiments
+    J) Fomites
+    K) Attack rate
+    L) Pathogenicity
+    M) Asymptomatic
+    N) Syndromic Surveillance
+    O) Droplet Transmission
+    P) Chain of Infection
+
+[STIMULUS] Fill in the blanks as needed based on the Disease and Disease Transmission
+
+17. [frq, 5 pt] Last week Tyler was sick with COVID-19 which made him a ____. He didn’t realize he was sick until later that week when he started to experience symptoms like muscle aches, fever, and shortness of breath. This marks his entry into the stage of ____. Before this, during his ____ when he was still ____ he went out with his friends and passed the flu to all of them. After using the Spectrum of Disease to try and figure out who experienced ____ first, they realized Tyler got them all sick.
+
+[STIMULUS] The following questions are based on the Modes of Disease Transmission
+
+18. [mcq, 2 pt] Which of the following isn’t Contact Transmission?
+    A) Droplet Transmission
+    B) Direct Contact
+    C) Airborne Transmission
+    D) Indirect Transmission
+    E) B and C
+
+19. [mcq, 2 pt] Which pair includes Indirect Transmission?
+    A) Vehicles and Airborne Transmission
+    B) Vectors and Body lesions
+    C) Touching and Fomite transmission
+    D) Fomite transmission and Oral Secretion
+    E) None of the Above
+
+20. [mcq, 2 pt] In Vector Transmission, which of the following are part of the four portals of entry to the nervous system?
+    A) Through mucus membranes
+    B) By the blood
+    C) Via the lymphatic system
+    D) B and C
+    E) C and A
+
+21. [frq, 1 pt] What’s a difference between Airborne and Droplet Transmission?
+
+22. [frq, 3 pt] What was the first ever documented foodborne illness?
+
+[STIMULUS] The following questions is based on your knowledge of epidemiological history
+
+23. [frq, 4 pt] List the name and also the year of two people that created vaccines during the evolution of epidemiology? Which vaccines did they develop?
+
+24. [frq, 8 pt] Use 3 out of the 5 listed names and order them chronologically and describe what major impact they had in epidemiological research.
+    - Joseph Goldberger
+    - Mantel and Haenszel
+    - William Farr
+    - Hippocrates
+    - John Snow
+
+[STIMULUS] The following questions are based on Evan’s Postulates
+
+25. [mcq, 3 pt] Which of the following should be true about the prevalence of a disease related to a risk factor?
+    A) The prevalence should be equal in both exposed and unexposed groups.
+    B) The prevalence should be significantly higher in those exposed to the risk factor.
+    C) The prevalence should be significantly lower in those exposed to the risk factor.
+    D) The prevalence should not vary based on exposure.
+
+26. [mcq, 3 pt] What pattern should the incubation period of a disease follow after exposure to a risk factor?
+    A) Random distribution.
+    B) Uniform distribution.
+    C) Normal or log-normal distribution.
+    D) Exponential distribution.
+
+27. [mcq, 3 pt] Which of the following is a requirement for a host response to confirm the association between a disease and a risk factor?
+    A) The response should be stronger in unexposed individuals.
+    B) A measurable host response should increase after exposure to the risk factor.
+    C) The response should remain unchanged regardless of exposure.
+    D) The response should decrease after exposure to the risk factor.
+
+28. [mcq, 3 pt] What is the importance of the biological and epidemiological sense in Evan's Postulates?
+    A) It ensures findings are based on random associations.
+    B) It validates that all findings are logical and consistent.
+    C) It emphasizes the role of mathematical modeling over evidence.
+    D) It disregards patterns of host responses.
+
+[STIMULUS] The following questions are based on Study Designs
+
+Frist Frenzy
+
+As usual, there was a large event going on in Frist. One of the clubs on campus thought it would be a good idea to get boba as an incentive because many more people usually show up. So, the head of the club, Daisy, ordered 50 bobas from this well-known place on Nassau Street called Bubble Haven. The incentive worked, and a lot of people including five of Daisy’s friends showed up.
+
+Five days later, many of Daisy’s friends got sick, with similar symptoms. She has never seen this specific group of her friends together, EXCEPT for the day they got boba. So she was wondering if the boba was making them sick or if it was just that time of the year. She also knew of another group of her friends that went to Bubble Haven a day after because she talked so much about it. She decided to go see the other group of friends and ask them a bunch of questions. She also talked about this to people in the club who haven’t had the boba. She silently tracked the second group of friends and the people who hadn’t had the boba to see if there would be the same types of sickness as the first group of friends.
+
+29. [frq, 1 pt] What type of study is this?
+
+30. [frq, 2 pt] Does this study correlate to a “snapshot in time”? If not, what study has this nickname?
+
+31. [frq, 4 pt] Do you think this study is the best method for the scenario? If not, which study would have been better? Explain.
+
+32. [tf, 3 pt] True or False: Cohort studies compare people with or without the disease to see what effects take place.
+    A) True
+    B) False
+
+33. [frq, 4 pt] What is a Randomized Controlled Trial? What are two advantages and two disadvantages?
+
+
+=== Part 2 - Outbreak Investigation ===
+
+[STIMULUS] **Case Study #1:**
+
+You are an epidemiologist called to investigate an outbreak of gastroenteritis aboard a luxury cruise ship sailing the Caribbean in July 2023. From July 4th to July 6th, 75 passengers and crew members (out of a total of 450) reported symptoms of vomiting, diarrhea, nausea, and abdominal pain.
+
+34. [frq, 4 pt] How would you determine whether the reported cases of gastroenteritis on the cruise ship represent an outbreak rather than sporadic individual cases?
+
+35. [frq, 2 pt] What actions would you take to confirm the diagnosis and identify the causative agent of the gastroenteritis outbreak aboard the cruise ship? List 2.
+
+[STIMULUS] You determine this is an outbreak. You collect some more information on the patients and after microbiological sampling via RT-qPCR on all individuals, determine that these patients are infected with Norovirus.
+
+37. [frq, 4 pt] Norovirus outbreaks are often linked to contaminated food or water. What kind of environmental samples would you collect on the ship (list 2), and how would these help in pinpointing the source?
+
+38. [frq, 3 pt] Considering the high infectivity of Norovirus, what infection control measures would you implement immediately aboard the ship to contain the outbreak? List 3.
+
+40. [frq, 2 pt] Give two examples of questions you would ask the patients to determine the cause of the outbreak.
+
+41. [frq, 3 pt] Distinguish between primary and secondary cases in the context of this outbreak. How might you determine the attack rate for each?
+
+[STIMULUS] **Case Study #2:**
+
+In the mid-1980s, pancreatic cancer was among the top ten causes of cancer-related mortality worldwide. Approximately 35,000 new cases and 30,000 attributable deaths occurred annually in the United States alone. Pancreatic cancer's poor prognosis made identifying modifiable risk factors a public health priority. One area of interest was coffee consumption, a common habit among adults worldwide.
+
+To investigate this, researchers conducted a study starting in 1985. A total of 50,000 adults aged 30–79 years were enrolled and followed for 10 years to evaluate the relationship between coffee consumption and the incidence of pancreatic cancer. Baseline data on coffee consumption, smoking status, age, sex, and other dietary habits were collected using structured questionnaires. Participants were divided into two groups: coffee drinkers (≥1 cup/day) and non-coffee drinkers.
+
+The participants were followed annually, and any new cases of pancreatic cancer were confirmed through medical records and cancer registries. By the end of the study, 200 cases of pancreatic cancer were identified.
+
+44. [frq, 2 pt] What type of study design is used here, and why is it appropriate for investigating the association between coffee consumption and pancreatic cancer risk?
+
+[STIMULUS] **Table 1. Coffee consumption and pancreatic cancer incidence in a cohort of 50,000 adults**
+
+| Coffee Consumption | Person-Years of Follow-up | Pancreatic Cancer Cases |
+|---|---|---|
+| Coffee Drinkers | 300,000 | 150 |
+| Non-Coffee Drinkers | 200,000 | 50 |
+
+45. [frq, 3 pt] Calculate the incidence rate of pancreatic cancer for coffee drinkers and non-coffee drinkers.
+
+46. [frq, 5 pt] Calculate the appropriate measure of association that can be used to determine how the risk of pancreatic cancer differs between coffee drinkers compared to non-coffee drinkers. What does this indicate? Be sure to state the type of statistic calculated.
+
+47. [frq, 3 pt] What is the main advantage of using this type of statistic (used in the question above) in this type of study?
+
+48. [frq, 3 pt] How might smoking act as a confounder in this study?
+
+[STIMULUS] The data was stratified by smoking status:
+
+| Smoking Status | Coffee Drinkers (Cases/Person-Years) | Non-Coffee Drinkers (Cases/Person-Years) |
+|---|---|---|
+| Smokers | 100/150,000 | 40/100,000 |
+| Non-smokers | 50/150,000 | 10/100,000 |
+
+49. [frq, 8 pt] Compare the association between smokers and non-smokers. Does the strength of the association differ between these groups? What might this suggest?
+
+51. [frq, 4 pt] Suppose the researchers reported the following result with respect to pancreatic cancer for coffee drinkers compared to non-coffee drinkers: “The measure of association was 2.0 with a 95% confidence interval of 1.5 to 2.6.” Interpret these findings in terms of statistical significance and the strength of the association.
+
+
+=== Part 3 - Patterns, Control, Prevention ===
+
+55. [frq, 2 pt] What day was Wuhan, China placed into a lockdown because of COVID-19, and how long did it last?
+
+[STIMULUS] Using the picture of the Epi-Curve below answer the following questions.
+    [IMAGE: ../images/2025_princeton_university_invitational_c__p13_d9a952-572f8c83.webp]
+
+58. [frq, 3 pt] When is this type of curve–the one presented in the graph above–used?
+
+[STIMULUS] 
+    [IMAGE: ../images/2025_princeton_university_invitational_c__p14_c64df96-c645b397.webp]
+
+59. [tf, 3 pt] **True or False**: This is an area map. (If it’s false explain why with at least 2 full sentences)
+    A) True
+    B) False

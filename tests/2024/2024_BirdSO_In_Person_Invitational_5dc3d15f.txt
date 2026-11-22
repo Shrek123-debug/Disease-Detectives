@@ -1,0 +1,223 @@
+BirdSO In-Person Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  65 questions, 104.5 pts
+Source: scio.ly test archive id 5dc3d15f-a6ce-4baf-86bb-18e85e0bde88  |  original files: https://drive.google.com/drive/folders/1O5L_UAFupSa0GuBz8ZAD6FRDhRNrIOXf
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: Point values are indicated for all questions.
+Good luck!
+
+
+=== Section 1: Beebop Boondoggles ===
+
+[STIMULUS] Note: this section includes extensive spoilers for Cowboy Bebop episode 11 ("Toys in the Attic"), but no spoilers for the overall plot of the show.
+
+In episode 11 of the anime "Cowboy Bebop", a mysterious blob attacks several members of the crew of the Bebop and infects them with some sort of unknown disease.
+
+1. [frq, 1 pt] Characterize the transmission for this mysterious disease, assuming the blob is indeed a living creature (and not some sort of sentient AI robot!).
+
+2. [frq, 2 pt] Jet and Faye begin displaying symptoms of the unknown infection just a few minutes after being attacked by the blob. Describe the incubation period for the infection.
+
+3. [mcq, 1 pt] Every single patient who was bitten by the blob ended up showing symptoms. Does this mean the pathogenicity or the virulence was high?
+    A) Pathogenicity
+    B) Virulence
+
+4. [frq, 1 pt] After Jet is attacked, Spike attempts to treat him with some herbal medicine. Is this an example of the public health approach to fighting disease?
+
+5. [frq, 1 pt] What level of prevention would you characterize the medicinal treatment as?
+
+6. [frq, 1 pt] Spike attempts to carry out a laboratory test on Jet's infection, but there is no identifiable match. Which step of outbreak investigation would this be?
+
+7. [frq, 1 pt] Spike does not test Faye's infection, but she displays the same symptoms as Jet. What type of case is Faye's?
+
+8. [frq, 4 pt] Due to the distinctive bite marks on Faye and Jet, Spike suspects that someone or something on board the ship is attacking the crew members. Propose 2 control measures Spike could take to prevent further spread of this outbreak. Keep in mind that he doesn't know anything about the nature of the disease, and that everyone is struck aboard the ship together.
+
+9. [frq, 3 pt] At the very end of the episode, Spike discovers that the strange creature/blob attacking them was actually a lobster he had left in a fridge that had mutated! Based on this information, propose a prevention measure Spike could take to stop future outbreaks of the mysterious infection.
+
+10. [frq, 3 pt] Let's say the infection was caused by a virus in the lobster. Propose a chain of infection for this outbreak; include all 6 required elements.
+
+11. [frq, 4 pt] Suppose that Spike had been able to recover samples of this virus from all of the cases (Jet, Faye, and Ein), and from the lobster itself. Would this information alone fulfill Koch's postulates for linking the virus to the disease? If not, which postulates does it not fulfill?
+
+[STIMULUS] You are working on developing a vaccine for this novel space virus, and are successful in bringing it to a clinical trial.
+
+12. [frq, 2 pt] An important way to reduce bias in clinical trials is randomization. Differentiate between pure randomization and stratified randomization.
+
+13. [frq, 1 pt] You carry out this trial as a double blind study. Which two groups are "blinded"?
+
+[STIMULUS] For the following scenarios related to your clinical trial, name the type of bias this could introduce.
+
+14a. [frq, 1.5 pt] You exclusively recruit volunteers for your study by placing flyers around the Neptune Medical Center, where you work.
+
+14b. [frq, 1.5 pt] Some of the data you collect from the study is self reported by participants.
+
+14c. [frq, 1.5 pt] Your study is carried out over a number of years, and a significant amount of participants drop out.
+
+[STIMULUS] The following data were collected as part of the trial for your vaccine:
+    |  | **Diseased** | **Not diseased** |
+    | **Vaccinated** | 31 | 1145 |
+    | **Unvaccinated** | 221 | 876 |
+
+16. [mcq, 1 pt] Which would you expect to be higher, the vaccine efficacy, or the eventual effectiveness of your vaccine?
+    A) Vaccine efficacy
+    B) Eventual effectiveness
+
+[STIMULUS] The Solar System Health Organization (SSHO) publishes a set of guidelines to prevent future outbreaks of this space virus.
+
+19. [frq, 1 pt] One of these measures is to air a PSA educating the public about proper lobster storage practices. What level of prevention would this be?
+
+20. [frq, 1 pt] Another measure is that the SSHO will actively contact local hospitals across the solar system for reports on cases of this new virus. What type of surveillance is this?
+
+21. [frq, 1 pt] Other scientists at the Neptune Medical Center are working on formulating a new antiviral medication against the infection. What level of prevention would this be?
+
+
+=== Section 2: Genome Gymnastics ===
+
+22. [frq, 1 pt] There is an outbreak of influenza in Springfield, MO. Would PulseNet be used in this scenario?
+
+23. [frq, 2 pt] Why is the hyper-specificity (down to the exact serotype) that PulseNet prioritizes when sequencing important?
+
+24. [frq, 2 pt] PulseNet used to use PFGE for sequencing (though they now use WGS). Name 2 advantages does PFGE generally has over other techniques.
+
+25. [frq, 2 pt] Why use PFGE over just a normal restriction enzyme digest followed by gel electrophoresis for this type of sequencing?
+
+[STIMULUS] Take a look at the following figure:
+    [IMAGE: ../images/2024_birdso_in_person_invitational_b_c__p4_58a484-be3925f6.webp]
+
+26. [frq, 2 pt] Each lane is a different E. coli patient. Do any appear to have the same serotype? Number the lanes 1-8 starting from the left for your answer.
+
+27. [frq, 1 pt] I've deliberately excluded y-axis labels from this image; what units should the labels be if I want them to be approximately single digits?
+
+[STIMULUS] In theory, Whole Genome Sequencing improves upon PFGE. You want to quantify this improvement; therefore you perform both PFGE and WGS analysis on the same cohort of patient samples and compare. The following table shows the results:
+    |  | **WGS positive** | **WGS negative** |
+    | **PFGE positive** | 457 | 34 |
+    | **PFGE negative** | 45 | 345 |
+
+30. [frq, 1 pt] Which measure gives the likelihood someone with a negative test actually does not have the disease?
+
+31. [frq, 2 pt] We used WGS as the "gold standard" in this comparison, but WGS can be flawed as well—maybe due to a bad sequencing read, machine error, etc. How would this effect the validity of our results?
+
+32. [frq, 3 pt] A receiver operating characteristic (ROC) curve presents the accuracy of a test in graphical form. It plots sensitivity on the y-axis, vs 1-specificity on the x-axis. Each point on the graph is the (sensitivity, 1-specificity) at a given threshold value. For our specific comparison between WGS and PFGE, why would it be hard to use the same threshold value for both WGS and PFGE?
+    [IMAGE: ../images/2024_birdso_in_person_invitational_b_c__p4_rc261e8d-01aa0923.webp]
+
+33. [frq, 3 pt] What would be an example of a threshold value you could use for WGS? What would you be comparing the data to?
+
+34. [frq, 1 pt] What would you be comparing the data to for PFGE?
+
+35. [frq, 2 pt] For most tests, there will be a trade-off between sensitivity and specificity, which ROC curves try to represent. Let's think about WGS for a second and ignore PFGE. If WGS was able to perfectly sequence viral genomes, would there be a sensitivity vs specificity tradeoff?
+
+36. [frq, 2 pt] Beyond a tradeoff between sensitivity and specificity, there are other factors that go into choosing what diagnostic test to use. Even if there existed a sequencing technique with perfect accuracy, propose a hypothetical reason why a health agency might choose to not use it.
+
+[STIMULUS] Another genomic tool used in modern health science is SNP mapping. Since SNPS are definitionally single nucleotide changes, an individual SNP has very little effect on someone's overall genome; that being said, SNPs can actually have important effects relevant to modern medicine—for example, changing the binding sites or localization for proteins.
+
+37. [frq, 1 pt] How might a SNP affect someone's response to a drug?
+
+38. [frq, 1 pt] In theory, could we use WGS to identify susceptibility for disease, much as SNP mapping is used?
+
+39. [frq, 1 pt] By comparison to WGS, analyzing SNPs requires a much smaller region of the genome to be analyzed. Name one reason why this may be advantageous.
+
+40. [frq, 1 pt] In order to identify SNPs or just generally risk loci associated with the development of a disorder, scientists often use a GWAS (Genome-Wide Association Study). Essentially in a GWA study, participants' genomes are sequenced, and their phenotypes are compared. The scientists are looking to see if a genotypic difference at a specific chromosomal location is associated with a specific phenotypic difference. Can GWA studies be used to determine causality?
+
+41. [frq, 2 pt] There have been a number of GWA studies on schizophrenia that have identified CD4a and CD4b as risk loci of interest, which are somehow involved in regulating the levels of expression for a protein implicated in paring back white matter tracts in the human brain. Why would it be difficult to carry out a study investigating this association further?
+
+
+=== Section 3: Infectious Issues ===
+
+[STIMULUS] Christina tests positive for RSV via a mucus swab test on December 3rd, and they are the first case in their town. Tim had lunch with Christina on the 2nd, and he begins displaying symptoms of RSV (coughing, sneezing, runny nose) on the 7th.
+
+42. [frq, 1 pt] Based on the information above, what is the incubation period of RSV?
+
+43. [frq, 1 pt] Tim actually tested NEGATIVE for RSV on the 3rd, as soon as he found out Christina had tested positive. What does this tell us about the latent period of RSV?
+
+44. [frq, 2 pt] You are a CDC official tasked with investigating this RSV outbreak. From the data you collect, you determine the R0 value for the outbreak to be 2.9. What does this mean?
+
+[STIMULUS] The most straightforward way to calculate the R0 for an outbreak is using the SIR model. We define:
+• N to be the total population
+• S to be the number of susceptible individuals, and s = S/N
+• I to be the number of infected individuals, and i = I/N
+• R to be the number of removed individuals, and r = R/N
+
+To make this model work, we have to make a number of key assumptions that often are unrealistic. Firstly, we assume that the population, N, is constant and the population itself doesn't change.
+
+45. [frq, 2 pt] What is a hypothetical scenario where that may be problematic?
+
+46. [frq, 2 pt] Why is it probably fine to assume the population remains the same for the entirety of this RSV outbreak?
+
+47. [frq, 2 pt] Another key assumption we make is that the population is "well mixed". What does this mean?
+
+48. [frq, 2 pt] Again, this is probably a fine assumption to make for RSV, but might not be for another outbreak. Why would this have been a very questionable assumption to make about the COVID-19 pandemic in the US?
+
+[STIMULUS] We can also define the following equations:
+
+ds/dt = −βsi  (1)
+
+di/dt = βsi − vi  (2)
+
+dr/dt = vi  (3)
+
+β = τc̄  (4)
+
+Where:
+• τ is the transmissibility
+• c̄ is the average contact rate
+• d is the duration of infectiousness
+• v is the removal rate
+
+49. [mcq, 1 pt] At the beginning of our RSV outbreak, is ds/dt > or < 0?
+    A) Greater than (>)
+    B) Less than (<)
+
+50. [mcq, 1 pt] Is di/dt > or < 0?
+    A) Greater than (>)
+    B) Less than (<)
+
+51. [mcq, 1 pt] Is dr/dt > or < 0?
+    A) Greater than (>)
+    B) Less than (<)
+
+52. [frq, 4 pt] We say that R₀ = τc̄d. How can you arrive at this from the equations above at the very beginning of our outbreak? You need to provide some explanation beyond just math here.
+
+54. [frq, 1 pt] RSV is transmitted by touching contaminated surfaces. What type of transmission is this?
+
+55. [frq, 1 pt] Based on what you know so far, characterize the type of spread.
+
+
+=== Section 4: Australian Adventures ===
+
+[STIMULUS] In 2022 there was an outbreak of Japanese encephalitis in Australia, which is caused by the Japanese encephalitis virus (JEV).
+
+57. [tf, 1 pt] Although JEV is very rare in Australia, it is endemic in Papua New Guinea and Indonesia. True/false, endemic means intermittent outbreaks of a disease.
+    A) True
+    B) False
+
+58. [frq, 1 pt] JEV is transmitted by mosquitos, and cannot be transmitted person-to-person. What would be the R0 for an outbreak of JEV?
+
+59. [frq, 3 pt] Although scientists don't know for certain how JEV got to Australia in this instance, one hypothesis is that infected birds like herons and egrets carried the disease from other islands. What would be the 6 components of the chain of infection for this scenario?
+
+60. [frq, 2 pt] Heron and egrets are often susceptible to mosquito infections, they are able to travel some distance across water, and they are native to regions where JEV is known to be present in mosquito populations. Name one of Bradford Hill's Criteria for causation that this fulfills.
+
+61. [frq, 2 pt] Almost all of the cases of JEV in Australia were clustered around pig farms (pigs can be a reservoir for JEV). What is one control measure related to these pig farms you could take to stop the spread of the JEV outbreak?
+
+62. [frq, 2 pt] Given what you know about JEV, what is one prevention measure you could take related to these pig farms that you could take to stop further outbreaks.
+
+63. [mcq, 1 pt] Which of the following best describes this outbreak?
+    A) Point source
+    B) Propagated
+    C) Continuous common source
+
+64. [frq, 1 pt] You decide to also pursue a prevention measure related to the herons and egrets which may have carried the JEV to Australia in the first place—namely, health professionals assigned to specific regions where these birds are common regularly test them for JEV and report this information to the Australian CDC. What type of surveillance is this?
+
+65. [frq, 2 pt] Pigs and birds are just a few of many animals that can be a reservoir for JEV, making a disease reservoir a difficult target for prevention. Instead, you could target the mosquitos that transmit JEV. Propose a prevention measure that gets at this.
+
+66. [frq, 1 pt] There are a number of effective vaccines for JEV. What level of prevention would you characterize a mass vaccination campaign as?
+
+67. [mcq, 1 pt] Would this be an example of the clinical or public health approach to fighting disease?
+    A) Clinical
+    B) Public health
+
+68. [mcq, 1 pt] Would immunity conferred by a disease be considered adaptive or innate immunity?
+    A) Adaptive
+    B) Innate
+
+69. [mcq, 1 pt] Would it be considered passive or active immunity?
+    A) Passive
+    B) Active
+
+70. [frq, 1 pt] One symptom associated with JEV is cognitive impairment and memory loss due to brain inflammation. Although no effective cures have been developed for neurocognitive disorders, cognitive stimulation can be used to reduce the severity of some symptoms for certain patients. What level of prevention would you characterize this as?

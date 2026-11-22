@@ -1,0 +1,454 @@
+North Pocono — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  48 questions, 119.0 pts
+Source: scio.ly test archive id f549b321-9c53-41c5-847e-acdf2e9bb1e4  |  original files: https://drive.google.com/drive/folders/1lS2fUrYFAJH3-DHfcHLGj8dMCzcUKzZk
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: This is a 45 question test. Questions consist of multiple choice, matching, fill in the blank, and open-ended questions. You are permitted to split the test with your partner; however, the test must be stapled together in the correct order in order to receive credit for the page. High score wins. Each question is marked with the points it is worth for a total of 116 points. Ties will be broken by 3 Tie-Breakers, in the order in which they appear in the test.
+
+1. [mcq, 1 pt] Several people in Milan, Italy, have begun to report nausea, increase in gas, and abnormal weight loss. Epidemiologists are looking into the causes and possible sources of infection. Most people reported drinking from their tap recently leading epidemiologists to believe that____ could be a possible source of infection
+    A) Giardiasis
+    B) Chicken Pox
+    C) Common Cold
+    D) Salmonella
+
+2. [mcq, 1 pt] Yolanda is researching the medieval ages and comes upon the Bubonic Plague. What is the name for the bacterium that causes infection for the Bubonic Plague
+    A) Acidobacteria
+    B) Yersinia Pestis
+    C) E. Coli
+    D) Cyanobacteria
+
+3. [mcq, 1 pt] What does the CDC stand for?
+    A) Center for Disease Control
+    B) Center for Disease Cluster
+    C) Center for Disease Conjunction
+    D) Corporation of Disease Conditioning
+    E) Corporation for Disease Spread
+
+4. [mcq, 1 pt] Jake has chicken pox. What disease may he possibly be diagnosed with later in life?
+    A) AIDS
+    B) Shingles
+    C) Salmonella
+    D) Obesity
+
+5. [mcq, 1 pt] What does the acronym COPD stand for in relation to respiratory illnesses?
+    A) Chronic Obstructive Pulmonary Disorder
+    B) Coughing Obstructive Pulmonary Disease
+    C) Chronic Obstructive Polonium Disorder
+    D) Chronic Obstructive Pulmonary Disease
+    E) Chronic Obstructive Pulmonary Design
+
+6. [frq, 5 pt] Doug and Dany are walking to the store to meet up with Shivani and Erin. Doug is feeling ill and believes that he may have influenza. Dany, Erin, and Shivani are concerned that they may develop symptoms for influenza. What are five possible symptoms for Influenza?
+
+TB1. [frq, 1 pt] What is the family of influenza viruses called?
+
+7. [frq, 12 pt] Using the passage below, illustrate the chain of infection for Strep at Rosalind Franklin High School. You must explicitly say which part of the chain corresponds to the information in the passage in order.
+    
+    At Rosalind Franklin High School, several students have recently contracted Strep Throat. Strep is caused by a Gram-positive bacteria known as Streptococcus. A few days ago, everyone was fine and showed no signs of illness. However, on Wednesday, Ryan came to school with a sore throat, fever, and swollen lymph nodes. Despite not feeling his best, Ryan attended a Science Olympiad meeting with his fellow teammates. He decided to leave the meeting early, but as he was leaving, he took a sip of Josh's water to soothe his throat, with his permission. Two days later, Josh's throat became sore and had swollen lymph nodes.
+
+8. [frq, 13 pt] Name the 13 Steps of the Outbreak Investigation. Please number them in the correct order.
+
+[STIMULUS] For questions 9-14, use the study below to answer the questions:
+
+On September 25, 2021, a local restaurant hosted an event where they served hamburgers, grilled salmon, french fries, and grilled vegetables to its 1537 patrons. A total of 1335 patrons ate the hamburgers, 990 ate the salmon, 1456 ate the fries, and 654 ate the grilled vegetables. 12 hours after the meal, 1123 patrons came down with symptoms of diarrhea, fever, abdominal cramps, and vomiting. Of these 1123, 963 ate the hamburger, 874 ate the salmon, 1047 ate the fries, and 498 ate the vegetables. These patrons went to the urgent care where they were diagnosed with norovirus.
+
+9. [frq, 4 pt] Construct a case definition for the outbreak
+
+10. [frq, 16 pt] Construct a two-by-two table for each of the food items above
+
+11. [frq, 8 pt] Calculate the Relative Risk for each of the food items above. Must
+
+12. [frq, 2 pt] Based on your relative risk calculated above, which food is responsible for this outbreak? Justify your answer by interpreting the relative risk value you calculated above.
+
+13. [frq, 2 pt] Explain why foods in this study may have a high relative risk, but not be the source of Norovirus. Be sure to identify the specific food(s) you are referring to in your answer.
+
+14. [frq, 2 pt] Is this study a cross-sectional, case-control, cohort, or experimental study? How do you know?
+
+[STIMULUS] Identify the following with the level of prevention that the example is describing.
+
+15. [frq, 1 pt] ____ Henry receives immunotherapy treatments to combat his melanoma.
+
+16. [frq, 1 pt] ____ The sex education classes that the high school offers teaches the students the importance of safe sex practices to decrease the risk of STDs.
+
+17. [frq, 1 pt] ____ The chickenpox vaccine is administered to babies to prevent them from becoming symptomatic when exposed to the virus.
+
+18. [frq, 1 pt] ____ Noelle decides to run nine miles everyday since she knows that her family has a history of cardiovascular disease.
+
+19. [frq, 1 pt] ____ Katherine started feeling an extreme pain in her left arm. Her wife was concerned that she may be experiencing a heart attack so she gave her aspirin and called the ambulance.
+
+20. [frq, 1 pt] ____ Grace rolled her ankle after playing a game of pickup volleyball. Although she did not feel great, she decided not to go to the emergency room because her sickness was not as bad as it could have been.
+
+21. [frq, 1 pt] ____ A service group sponsored a road cleanup within a city combating a heroin epidemic. This group safely disposed of needles and syringes found around the city.
+
+[STIMULUS] Using the passage below, answer questions 22-26.
+
+A monospot test is one of many ways to establish the diagnosis of a mononucleosis infection. This spot test involves smearing a patient's blood on a microscope slide and mixed with a substance that attaches to antibodies against EBV to indicate whether or not the patient is infected with the virus. Suppose that the monospot test is 74% sensitive and 98% specific, and the prevalence of mono in a population is 10%.
+
+TB2. [frq, 1 pt] What is the full name for the virus that causes mononucleosis?
+
+22. [frq, 4 pt] In the table below (transfer to answer sheet), estimate the results of the test if you administer the monospot test to 3,000 people from the population.
+    [IMAGE: ../images/2022_north_pocono_c__p6_v3fdb00-f18a03e3.webp]
+
+23. [frq, 2 pt] Calculate the positive predictive value (PPV) of the test. Must.
+
+24. [frq, 2 pt] Calculate the negative predictive value (NPV) of the test. Must.
+
+25. [frq, 4 pt] Interpret your calculations for PPV and NPV.
+
+26. [multi, 2 pt] How is prevalence of the disease related to the PPV and NPV of a test? Select all that apply
+    A) As prevalence decreases, PPV decreases and NPV increases.
+    B) As prevalence decreases, PPV increases and NPV decreases.
+    C) As prevalence increases, PPV increases and NPV decreases.
+    D) As prevalence increases, PPV decreases and NPV increases.
+
+27. [frq, 5 pt] Label the missing parts of the Natural History and Spectrum of Disease
+    [IMAGE: ../images/2022_north_pocono_c__p7_v43aa46-4b2874a3.webp]
+
+28. [matching, 4 pt] Match the type of surveillance to its description. (Passive, Active, Syndromic, Sentinel)
+    - local or state health departments initiate the collection of information from laboratories, physicians, health care providers, or the general population  <->  Active
+    - Laboratories, physicians, or others regularly report cases of disease or death to the local or state health department  <->  Passive
+    - the use of a prearranged sample of sources who have agreed to report all cases of one or more notifiable diseases  <->  Sentinel
+    - the ongoing, systematic collection, analysis, interpretation, and application of real-time indicators for disease that allow for detection before public health authorities might otherwise identify them  <->  Syndromic
+
+TB3. [frq, 1 pt] What is the food-born illness that is currently being transmitted through packaged salads?
+
+[STIMULUS] For Questions 29-45, match the term with its definition. Write the letter next to the number.
+
+a. capacity to cause infection in a susceptible host
+b. constant low frequency of disease
+c. a localized epidemic – more cases of a particular disease than expected in a given area for a time
+d. departure from a state of physical or psychological well-being
+e. an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+f. an infectious disease that is transmissible from a animals to humans
+g. frequency of occurrence of deaths in a defined population during a specific interval of time
+h. the first appearance of signs and symptoms
+i. disease that can be spread from humans to animals
+j. relative pathogenicity of an infectious microorganism
+k. an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+l. large numbers of people over a wider geographic area affected by a disease
+m. worldwide epidemic
+n. capacity to cause disease in a host
+o. a factor whose presence, excessive presence or deficiency is necessary for disease
+p. the process by which an agent comes in contact with an animal or host such that disease ensues
+q. an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+29. [mcq, 1 pt] Match the term with its definition: endemic
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+30. [mcq, 1 pt] Match the term with its definition: vehicle
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+31. [mcq, 1 pt] Match the term with its definition: onset
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+32. [mcq, 1 pt] Match the term with its definition: virulence
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+33. [mcq, 1 pt] Match the term with its definition: mortality
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+34. [mcq, 1 pt] Match the term with its definition: pandemic
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+35. [mcq, 1 pt] Match the term with its definition: agent
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+36. [mcq, 1 pt] Match the term with its definition: exposure
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+37. [mcq, 1 pt] Match the term with its definition: epidemic
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+38. [mcq, 1 pt] Match the term with its definition: zoonosis
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+39. [mcq, 1 pt] Match the term with its definition: outbreak
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+40. [mcq, 1 pt] Match the term with its definition: anthroponosis
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+41. [mcq, 1 pt] Match the term with its definition: morbidity
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+42. [mcq, 1 pt] Match the term with its definition: vector
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+43. [mcq, 1 pt] Match the term with its definition: pathogenicity
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+44. [mcq, 1 pt] Match the term with its definition: cluster
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected
+
+45. [mcq, 1 pt] Match the term with its definition: infectivity
+    A) capacity to cause infection in a susceptible host
+    B) constant low frequency of disease
+    C) a localized epidemic – more cases of a particular disease than expected in a given area for a time
+    D) departure from a state of physical or psychological well-being
+    E) an inanimate intermediary in the indirect transmission of an agent from a reservoir to a susceptible host.
+    F) an infectious disease that is transmissible from a animals to humans
+    G) frequency of occurrence of deaths in a defined population during a specific interval of time
+    H) the first appearance of signs and symptoms
+    I) disease that can be spread from humans to animals
+    J) relative pathogenicity of an infectious microorganism
+    K) an animate intermediary in the direct transmission of an agent that carries the agent from a reservoir to a susceptible host
+    L) large numbers of people over a wider geographic area affected by a disease
+    M) worldwide epidemic
+    N) capacity to cause disease in a host
+    O) a factor whose presence, excessive presence or deficiency is necessary for disease
+    P) the process by which an agent comes in contact with an animal or host such that disease ensues
+    Q) an aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected

@@ -1,0 +1,216 @@
+University of Maryland Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  36 questions, 75.0 pts
+Source: scio.ly test archive id 49800e64-69f0-4164-b55c-4aeaa546b699  |  original files: https://drive.google.com/drive/folders/1CIN0Yq0nU0PokLvJ2RNIVZt2WmbJ492M
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: No abbreviations.
+
+2. [mcq, 1 pt] What can the rate of the occurrence of new cases each year also be called?
+    A) Incidence rate.
+    B) Prevalence rate.
+    C) Case-fatality rate.
+    D) Rate ratio.
+
+3. [mcq, 1 pt] Who is considered to be the father of epidemiology?
+    A) John Snow.
+    B) Jonas Salk.
+    C) Louis Pasteur.
+    D) Edward Jenner.
+
+4. [mcq, 1 pt] In Finland, during July 27-August 24 2021, a total of 57 men, women, and children became ill with E. coli O103 with the Shiga toxin 1 (stx1) gene recorded). Among the 40 patients, 15 were hospitalized, and 2 deaths were reported. What was the case-fatality rate of this outbreak?
+    A) 13.33%.
+    B) 37.5%.
+    C) 33.3%.
+    D) 5%.
+
+5. [mcq, 1 pt] In July 2015, the Iowa Department of Public Health reported 13 mumps cases at a large public university. What is this considered?
+    A) Outbreak.
+    B) Epidemic.
+    C) Pandemic.
+    D) Cluster
+
+6. [mcq, 1 pt] By the end of 1773, approximately 2 million persons were believed to have been died from the bubonic plague in Persia. Because it was primarily contained to one region of the world, what can it be considered?
+    A) Outbreak.
+    B) Epidemic.
+    C) Pandemic.
+    D) Cluster.
+
+8. [frq, 3 pt] In epidemiology, the interaction of what three elements are assessed before developing control measures?
+
+9. [mcq, 1 pt] A case definition includes which of the following information?
+    A) Clinical criteria, such as signs and symptoms.
+    B) Clinical criteria limited by person, place, and time.
+    C) Probable cause of the disease
+    D) Descriptive epidemiology
+
+10. [mcq, 1 pt] What is the definition of surveillance?
+    A) The ongoing, systematic collection analysis, interpretation, and dissemination of health data to help guide public health decision making and action.
+    B) The aspect of epidemiology that focuses on person, place, and time.
+    C) The study of the distribution and determinants of health conditions or events among populations and the application of that study to control health problems.
+    D) The aspect of epidemiology concerned with why and how a health problem occurs.
+
+11. [mcq, 1 pt] Which of the following determines what type of surveillance is used
+    A) The type of information that is collected.
+    B) The source of information that is collected.
+    C) How the information is analyzed.
+    D) How the information is collected.
+
+12. [mcq, 1 pt] The study of the distribution and determinants of health-related states in human populations and use of information from those studies to prevent and control disease refers to
+    A) public health
+    B) clinical medicine
+    C) surveillance
+    D) epidemiology
+
+13. [mcq, 1 pt] Which of the below is defined as a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame?
+    A) Incidence rate
+    B) Mortality rate
+    C) Prevalence rate
+    D) Proportionate morbidity ratio
+
+14. [mcq, 1 pt] Which of the following represents a key component of the definition of an outbreak?
+    A) The outbreak happens suddenly.
+    B) The outbreak involves a lot of people.
+    C) Certain persons are hospitalized or die.
+    D) More cases than expected are reported.
+    E) The outbreak is caused by an infectious agent.
+    F) The outbreak is widespread.
+
+15. [mcq, 1 pt] What term is used for systematic error caused by differences in accuracy or completeness of recall to memory of past events or experiences?
+    A) Control bias
+    B) Sample bias
+    C) Recall bias
+    D) Selection bias
+
+16. [mcq, 1 pt] What term is used for the type of bias where ill persons are more likely to participate than well ones?
+    A) Control bias
+    B) Sample bias
+    C) Recall bias
+    D) Selection bias
+
+17. [mcq, 1 pt] Clostiridium botulinum is a
+    A) Gram-positive bacterium
+    B) Gram-negative bacterium
+    C) Virus
+    D) Neurotoxin
+
+18. [mcq, 1 pt] The University of Maryland has implemented many new policies to prioritize learning about healthy eating and exercise. This education is to overall get people healthy. What type of preventative strategy is this?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+21. [mcq, 1 pt] Gabby falls down the stairs and gets admitted to the hospital. While in the hospital, she contracts MRSA due to incomplete sterilization of the hospital room she is staying in. What type of infection does this best describe?
+    A) Zoonotic
+    B) Ambidirectional
+    C) Nosocomial
+    D) Iatrogenic
+    E) Animaliatic
+
+22. [mcq, 1 pt] Alex is bitten by a tick before showing a bullseye rash. What type of infection has likely taken place?
+    A) Zoonotic
+    B) Ambidirectional
+    C) Nosocomial
+    D) Iatrogenic
+    E) Animaliatic
+
+23. [mcq, 1 pt] Gerry decides to host a party for his friends and puts out a large bowl of salsa and chips that unbeknownst to him, has been contaminated with E. coli. What do the tortilla chips which carry the disease represent?
+    A) Agent
+    B) Vehicle
+    C) Fomite
+    D) Vector
+    E) Carrier
+
+[STIMULUS] Example Case 1: Norovirus
+
+Scenario 1. In 2016, an outbreak of Norovirus occurred in Maryland. It began on April 21, 2016, when a hospital in Baltimore suspected a patient as having Norovirus. The hospital notified the local and state health department of the patient suspected of having norovirus. Within two hours, six more patients with norovirus-like signs and symptoms were reported. Later that afternoon, one patient died of respiratory failure shortly after arriving at the emergency department. All affected persons had eaten at the same conference banquet meal on April 19. The health department requested help from CDC disease detectives to confirm the diagnosis, identify and treat additional patients, and determine the source
+
+24. [mcq, 2 pt] Of the 39 patients who met the case definition, 30 persons were confirmed cases and 9 were probable cases. Which of the following would be part of the case definition for a confirmed case, but not for a probable case?
+    A) A laboratory test positive for norovirus.
+    B) One sign of norovirus.
+    C) One sign and one symptom of norovirus.
+    D) Attended the conference banquet.
+
+25. [mcq, 2 pt] In this outbreak, only one person died. What was the case-fatality rate?
+    A) 5.26%.
+    B) 76.92%.
+    C) 3.33%.
+    D) 2.56%
+
+26. [mcq, 2 pt] 37 of the 39 patients were interviewed. CDC disease detectives also interviewed 44 persons who attended the banquet dinner and 10 persons who ate leftovers from the banquet dinner and were not sick. Why did they attempt to interview all attendees (n = 83) of the banquet dinner?
+    A) To determine risk factors by comparing information from those who were sick with those who were not sick.
+    B) To identify which foods those who were sick ingested, compared with those who were not sick.
+    C) To identify additional cases.
+    D) All of the above.
+
+27. [mcq, 2 pt] During the interview, 80 of the 83 attendees of the banquet dinner were asked 55 questions about specific foods eaten, foods brought to the dinner, as well as demographic information. Because all persons attending the banquet were asked to participate, what is this study considered?
+    A) Case-control study.
+    B) Cross-sectional study.
+    C) Cohort study.
+    D) Ecological study.
+
+28. [mcq, 2 pt] What was the overall attack rate among those who ate banquet food?
+    A) 40%
+    B) 36%.
+    C) 47%.
+    D) 38%.
+
+31. [mcq, 2 pt] Food samples were collected from plates in the hotel dumpster. Chicken marsala samples and mashed potato samples were taken from 12 plates. Six tested positive for norovirus. Of those six, five of the plates contained microgreen salad and one contained mashed potatoes. Why did disease detectives collect and test samples from the dumpster?
+    A) To collect samples of the botulism neurotoxin for antitoxin development.
+    B) To confirm the epidemiologic findings with environmental studies.
+    C) To identify patterns in the food eaten by comparing plates found.
+    D) To determine the validity of the survey.
+
+[STIMULUS] Example Case 2: COVID-19. On January 21, the CDC confirmed the first US coronavirus case. This disease quickly began to spread in the community and has now become a large-scale pandemic. With COVID-19 case rates surging, a team of scientists is trying to develop a test-kit that allows you to accurately detect COVID-19. They have requested your help in identifying the effectiveness of their test kit. They have provided you the following chart which shows the effectiveness of their test kit over various false positive ranges:
+    [IMAGE: ../images/2022_university_of_maryland_invitational_c__p8_3c5746-c66cab1d.webp]
+
+32. [frq, 2 pt] What is the name of this type of plot which shows false positive vs true positive rates?
+
+33. [frq, 3 pt] If this test kit had perfect accuracy, what shape would you expect this graph to look like?
+
+34. [frq, 3 pt] If this test kit was no better than random chance guessing, what would you expect the graph to look like?
+
+35. [frq, 2 pt] What is the sensitivity of the test kit when the false positive rate is 0.1? Show your work if necessary.
+
+36. [frq, 2 pt] What is the specificity of the test kit when the false positive rate is 0.6?
+
+37. [frq, 3 pt] How would you determine whether this test kit is more effective than the current available ones? What metric would you use from the graph?
+
+[STIMULUS] Example Case 3: Unknown Disease. In 2021-2022, an unknown disease outbreak takes place. As an epidemiologist, you decide to look back at the case to determine the characteristics of this disease. You are provided the following clues and wish to identify the illness. You know that the incubation period of the disease, first detected case was October 16.
+
+Epi-Curve of the disease
+
+Line listing of diagnoses
+
+H=Headache
+R=Runny Nose
+A=Coughing
+F=Fever
+W=Rash on Skin
+Carnival=went to carnival
+    [IMAGE: ../images/2022_university_of_maryland_invitational_c__p9_ad9eb9-0269f174.webp]
+    | Case # | Initials | Age | Sex | Diagnosis | Date of Onset | H | R | A | F | W | Carnival |
+    | 1 | D. C. | 23 | F | Unknown Illness | 10/16 | Yes | No | Yes | Yes | No | Yes |
+    | 2 | K. L. | 17 | F | Unknown Illness | 12/8 | Yes | No | Yes | Yes | Yes | No |
+    | 3 | A. K. | 19 | M | Unknown Illness | 11/5 | Yes | Yes | Yes | Yes | Yes | Yes |
+    | 4 | J. S. | 56 | F | Unknown Illness | 12/8 | Yes | No | Yes | Yes | Yes | Yes |
+    | 5 | S. M. | 32 | M | Unknown Illness | 10/29 | Yes | Yes | Yes | Yes | Yes | Yes |
+    | 6 | J. K. | 11 | M | N/A | N/A | Yes | No | No | No | No | Yes |
+    | 7 | Y. L. | 64 | M | Unknown Illness | 12/24 | Yes | Yes | Yes | Yes | Yes | No |
+    | 8 | C. D. | 43 | F | Unknown Illness | 11/16 | Yes | Yes | Yes | Yes | Yes | Yes |
+    | 9 | M. C. | 42 | M | Unknown Illness | 12/8 | Yes | No | Yes | Yes | Yes | No |
+    | 10 | J. G. | 38 | M | N/A | N/A | No | No | Yes | Yes | No | No |
+    | 11 | J. C. | 32 | F | Unknown Illness | 12/2 | Yes | No | Yes | Yes | Yes | Yes |
+
+38. [frq, 4 pt] What type of epi curve is depicted? What does this information suggest?
+
+39. [frq, 3 pt] Given the incubation period for this disease at minimum is 7 days and at maximum is 21 days, what is the latest possible first exposure for this disease?
+
+40. [frq, 12 pt] Write a case definition for this unknown disease
+
+41. [mcq, 2 pt] Given the information you have found above, what is the most likely pathogen that is causing this disease?
+    A) Common Cold
+    B) Hepatitis B
+    C) Measles
+    D) Strep Throat
+    E) Athlete’s Foot
+
+42. [frq, 6 pt] Describe at least 3 preventative strategies to limit this type of outbreak in the future

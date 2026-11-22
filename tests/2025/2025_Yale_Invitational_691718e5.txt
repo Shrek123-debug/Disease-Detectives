@@ -1,0 +1,525 @@
+Yale Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  91 questions, 154.0 pts
+Source: scio.ly test archive id 691718e5-d1b6-4002-a6fe-3ed395b7f2bd  |  original files: https://drive.google.com/drive/folders/110ZUrDEHLFs7lYeW1y2gflINe7SwDaQo
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Section 1: MCQ and Short Answer ===
+
+1. [frq, 13 pt] List the 13 steps of outbreak investigation in order.
+
+2. [frq, 6 pt] Give the six conditions that support the growth of foodborne pathogens, known by the acronym FATTOM.
+
+3. [frq, 2 pt] Around 50-70% of MRSA infections are acquired in a hospital setting. This is an example of a(n) ____ infection (we will not accept hospital-acquired).
+
+[STIMULUS] For questions 4-13, match the terms with their definitions.
+a. Selection bias
+b. Recall bias
+c. Response bias
+d. Information bias
+e. Sampling error
+f. Surveillance bias
+g. Referral bias
+h. Reporting bias
+i. Interviewer bias
+j. Measurement bias
+
+4. [mcq, 1 pt] Occurs when study subjects are chosen for the study as a result of a third unmeasured variable which is associated with both the exposure and the outcome.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+5. [mcq, 1 pt] Occurs when disease ascertainment is considerably better with a closely monitored population.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+6. [mcq, 1 pt] Systematic error due to differences in accuracy or completeness of memory of past events or experiences.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+7. [mcq, 1 pt] Systematic error due to the inconsistent recruitment of subjects based on the identification of subjects by clinicians and other study subjects.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+8. [mcq, 1 pt] Caused by selective revealing or suppression of information about past medical history.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+9. [mcq, 1 pt] Systematic error due to differences in characteristics between those that choose or volunteer to take part in a study and those who do not.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+10. [mcq, 1 pt] The part of the total estimation error of a parameter caused by the random nature of the sample; also called sampling bias.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+11. [mcq, 1 pt] Systematic error due to interviewers subconscious or conscious gathering of selective data.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+12. [mcq, 1 pt] Occurs from systematic error in the assessment of a variable. Examples are response bias, interviewer bias, recall bias, etc.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+13. [mcq, 1 pt] Systematic error arising from inaccurate measurements of subjects on study variables.
+    A) Selection bias
+    B) Recall bias
+    C) Response bias
+    D) Information bias
+    E) Sampling error
+    F) Surveillance bias
+    G) Referral bias
+    H) Reporting bias
+    I) Interviewer bias
+    J) Measurement bias
+
+14. [mcq, 1 pt] A description of the characteristics of several patients is an example of a(n) ____.
+    A) Case report
+    B) Case series
+    C) Incidence study
+    D) Line listing
+
+15. [mcq, 1 pt] Coronavirus is often spread through contact with frequently-touched objects, like doorknobs, telephones, and handrails. This is an example of:
+    A) Direct contact transmission
+    B) Fomite transmission
+    C) Enteric transmission
+    D) Vector transmission
+
+[STIMULUS] These questions refer to the image below.
+    [IMAGE: ../images/2025_yale_invitational_c__p3_914a74-7a48f913.webp]
+
+16. [mcq, 1 pt] R₀, the reproductive number of a disease, is often used to measure how quickly a pathogen can spread. If everyone in red has been infected by a disease, what is the R₀ of the image on the left?
+    A) 0.5
+    B) 1
+    C) 2
+    D) 3
+
+17. [mcq, 1 pt] If some members of the population are vaccinated, or otherwise no longer susceptible to the disease, R₀ becomes R_e, the effective reproduction number. If the yellow people on the left have been vaccinated, what is the R_e of the disease?
+    A) 0
+    B) 0.5
+    C) 1
+    D) 2
+
+18. [mcq, 1 pt] The higher the R₀ or R_e, the faster and more a disease will spread. R₀, which assumes no one is protected, can be used to predict the minimum extent of immunization that a population requires for herd immunity. What is this percentage for the disease in the picture?
+    A) 25%
+    B) 50%
+    C) 75%
+    D) 90%
+
+19. [frq, 9 pt] What are the three factors to calculate R0? Provide the significance for each. Also, provide one way of prevention for each.
+
+20. [frq, 3 pt] What are three potential limiting factors in calculating an accurate reproductive number?
+
+[STIMULUS] What does R=1, R<1, R>1 mean?
+    | Label | Answer |
+    | R=1 | [[q:21-a]] |
+    | R<1 | [[q:21-b]] |
+    | R>1 | [[q:21-c]] |
+
+21-a. [frq, 1 pt] R=1
+
+21-b. [frq, 1 pt] R<1
+
+21-c. [frq, 1 pt] R>1
+
+22. [frq, 1 pt] Interestingly, R<1 can still self-perpetuate. Give an example of a disease with R<1.
+
+23. [frq, 1 pt] What does Rt stand for?
+
+[STIMULUS] Questions - refer to the table below. Match the formulas with their definitions.
+
+|  |  | True Values |  |
+|---|---|---|---|
+|  |  | Positive | Negative |
+| Test | Positive | A | B |
+|  | Negative | C | D |
+
+**Word Bank: Sensitivity, specificity, PPV, NPV**
+
+24. [mcq, 1 pt] Match the formula: A/(A+B)
+    A) Sensitivity
+    B) Specificity
+    C) PPV
+    D) NPV
+
+25. [mcq, 1 pt] Match the formula: A/(A+C)
+    A) Sensitivity
+    B) Specificity
+    C) PPV
+    D) NPV
+
+26. [mcq, 1 pt] Match the formula: D/(C+D)
+    A) Sensitivity
+    B) Specificity
+    C) PPV
+    D) NPV
+
+27. [mcq, 1 pt] Match the formula: D/(B+D)
+    A) Sensitivity
+    B) Specificity
+    C) PPV
+    D) NPV
+
+28. [frq, 4 pt] For each of the previous calculations, use a short sentence to describe what they are used for.
+
+29. [multi, 2 pt] Which of the following are advantages of cohort studies?
+    A) Best measure of exposure
+    B) Relatively inexpensive
+    C) Easy risk calculation
+    D) Good for rare exposures
+    E) Good for rare diseases
+    F) None of the above
+
+30. [mcq, 2 pt] The hierarchy of evidence is a core principle in the design of a study, where it ranks study types based on the strength and precision of their research methods. Which of the following ranks the highest?
+    A) Cohort studies
+    B) Case-control studies
+    C) Randomized controlled trials
+    D) Cross sectional studies
+    E) In vitro studies
+    F) Case reports
+
+31. [mcq, 2 pt] Which of the following pathogens cannot be acquired through vertical transmission?
+    A) HIV
+    B) Zika virus
+    C) Hand-foot-and-mouth disease
+    D) Malaria
+    E) Rubella
+    F) None of the above
+
+32. [multi, 2 pt] John Snow’s investigation of cholera is considered a model for epidemiologic field investigations because it included a:
+    A) Biologically plausible hypothesis
+    B) Comparison of a health outcome among exposed and unexposed groups
+    C) Multivariate statistical model
+    D) Spot map
+    E) Recommendation for public health action
+
+33. [mcq, 2 pt] The hallmark feature of an analytic epidemiologic study is:
+    A) Use of an appropriate comparison group
+    B) Laboratory confirmation of the diagnosis
+    C) Publication in a peer-reviewed journal
+    D) Statistical analysis using logistic regression
+
+[STIMULUS] Match the appropriate core function to each of the statements below.
+A. Public health surveillance
+B. Field investigation
+C. Analytic studies
+D. Evaluation
+E. Linkages
+F. Policy development
+
+34-1. [mcq, 1 pt] Reviewing reports of test results for Chlamydia trachomatis from public health clinics
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+34-2. [mcq, 1 pt] Meeting with directors of family planning clinics and college health clinics to discuss Chlamydia testing and reporting
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+34-3. [mcq, 1 pt] Developing guidelines/criteria about which patients coming to the clinic should be screened (tested) for Chlamydia infection
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+34-4. [mcq, 1 pt] Interviewing persons infected with Chlamydia to identify their sex partners
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+34-5. [mcq, 1 pt] Conducting an analysis of patient flow at the public health clinic to determine waiting times for clinic patients
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+34-6. [mcq, 1 pt] Comparing persons with symptomatic versus asymptomatic Chlamydia infection to identify predictors
+    A) Public health surveillance
+    B) Field investigation
+    C) Analytic studies
+    D) Evaluation
+    E) Linkages
+    F) Policy development
+
+[STIMULUS] Match:
+A: Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+B: Unexplained eosinophilia
+C: Signs and symptoms plus laboratory confirmation
+D: Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+E: Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+35-1. [mcq, 1 pt] Confirmed case:
+    A) Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+    B) Unexplained eosinophilia
+    C) Signs and symptoms plus laboratory confirmation
+    D) Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+    E) Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+35-2. [mcq, 1 pt] Probable case:
+    A) Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+    B) Unexplained eosinophilia
+    C) Signs and symptoms plus laboratory confirmation
+    D) Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+    E) Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+35-3. [mcq, 1 pt] Possible case:
+    A) Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+    B) Unexplained eosinophilia
+    C) Signs and symptoms plus laboratory confirmation
+    D) Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+    E) Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+35-4. [mcq, 1 pt] Suspect case:
+    A) Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+    B) Unexplained eosinophilia
+    C) Signs and symptoms plus laboratory confirmation
+    D) Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+    E) Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+35-5. [mcq, 1 pt] Not a case:
+    A) Failure to fulfill the criteria for a confirmed, probable, possible, or suspect case
+    B) Unexplained eosinophilia
+    C) Signs and symptoms plus laboratory confirmation
+    D) Acute onset of at least three of the following four features: myalgia, fever, facial edema, or eosinophil count greater than 500/mm3
+    E) Acute onset of two of the four features plus a physician diagnosis of trichinosis
+
+36-A. [tf, 1 pt] Sensitivity and specificity are prevalence-independent tests.
+    A) True
+    B) False
+
+36-B. [tf, 1 pt] A false negative error is a type II error.
+    A) True
+    B) False
+
+36-C. [tf, 1 pt] A false positive error is a null hypothesis rejection.
+    A) True
+    B) False
+
+36-D. [tf, 1 pt] ANOVA stands for Average Number of Variances Analyzed.
+    A) True
+    B) False
+
+36-E. [tf, 1 pt] A false negative example is: sick people incorrectly identified as healthy.
+    A) True
+    B) False
+
+36-F. [tf, 1 pt] Rt is taking account of the proportion of susceptible individuals.
+    A) True
+    B) False
+
+36-G. [tf, 1 pt] A t-test is used when the population variance is known.
+    A) True
+    B) False
+
+36-H. [tf, 1 pt] Paired t-tests compare the means of independent groups.
+    A) True
+    B) False
+
+36-I. [tf, 1 pt] A z-test is appropriate when the sample size is small and the population standard deviation is unknown.
+    A) True
+    B) False
+
+36-J. [tf, 1 pt] Fisher's Exact Test is used for analyzing continuous data.
+    A) True
+    B) False
+
+36-K. [tf, 1 pt] The Mantel-Haenszel Test is used to assess the association between two continuous variables.
+    A) True
+    B) False
+
+36-L. [tf, 1 pt] McNemar's Test is used for analyzing changes in continuous data.
+    A) True
+    B) False
+
+36-M. [tf, 1 pt] Z-tests are typically used for comparing population proportions.
+    A) True
+    B) False
+
+36-N. [tf, 1 pt] Specificity is also called the false positive rate.
+    A) True
+    B) False
+
+36-O. [tf, 1 pt] McNemar's Test is only applicable to nominal data in a 2x2 contingency table.
+    A) True
+    B) False
+
+[STIMULUS] Given the following diagram:
+    [IMAGE: ../images/2025_yale_invitational_c__p8_0b094a-2f9f5ac2.webp]
+
+37. [mcq, 2 pt] What kind of epicurve is this?
+    A) Point-source
+    B) Intermittent common source
+    C) Continuous common source
+    D) Propagated source
+
+[STIMULUS] What should the missing axes be labeled as?
+    | Label | Answer |
+    | X | [[q:38-X]] |
+    | Y | [[q:38-Y]] |
+
+38-X. [frq, 1 pt] Label X
+
+38-Y. [frq, 1 pt] Label Y
+
+40. [frq, 2 pt] Is there an outlier? If so, explain what it represents.
+
+
+=== Section 2: Investigation 1 ===
+
+[STIMULUS] Hepatitis A is a virus that is transmitted either with direct contact or ingestion of food or water that has been contaminated with the virus, through the fecal-oral route.
+
+On November 1, 2003, the Pennsylvania Department of Health was alerted by Restaurant A, reporting from Beaver County, PA, about an ongoing illness. The year prior, only one such case had been reported. That day, the Pennsylvania Department of Agriculture underwent an investigation and found no sanitary violations had occurred, but learned the case count was much higher: 13 employees had become ill after October 26. By the 7th, 111 cases had been reported.
+
+Knowing that Hepatitis A has an incubation period of 15 to 50 days, an investigation was prompted by looking at records starting from October 3rd. In Pennsylvania, cases were identified through electronic disease-surveillance systems, and an interview was attempted with every reported case, and any other residents who had eaten at Restaurant A. Suspected samples were taken into diagnostic laboratories to be confirmed via RNA sequence analysis, where a 315-nucleotide segment of VP1-P2A junction was amplified and compared to sequence surveillance databases at CDC. Those confirmed had serologic matching of acute infection with IgM antibody to hepatitis A virus.
+
+At the end of the outbreak on December 1st, out of the more than 9,300 restaurant goers, 601 patients had been identified. Three died; at least 124 were hospitalized. Of 425 patients who recalled a single dining date at the restaurant, 356 (84 percent) had dined there between October 3 and October 6.
+
+42. [frq, 1 pt] What family is hepatitis virus?
+
+43. [frq, 3 pt] What other viruses are in this family that cause disease in humans? The more you give the more points you get.
+
+44. [frq, 5 pt] Write a case definition.
+
+46. [frq, 1 pt] Based on the following diagram, what kind of transmission source is this?
+    [IMAGE: ../images/2025_yale_invitational_c__p10_0bf5be-8b487e1e.webp]
+
+47. [frq, 1 pt] What kind of study is this?
+
+48. [frq, 4 pt] List two advantages and disadvantages of this study design.
+
+53. [frq, 2 pt] During this outbreak, should contact tracing be conducted? Why or why not?
+
+54. [numeric, 1 pt] Calculate the fatality rate.
+
+55. [numeric, 1 pt] Calculate the estimated incidence rate per thousand. Round to hundredths.
+
+56. [frq, 2 pt] The large size of this outbreak could have several contributing factors. List two potential contributing factors.
+
+57. [frq, 3 pt] List three preventive control measures.
+
+58. [frq, 1 pt] In 1995, the U.S. Food and Drug Administration licensed the hepatitis A vaccine which is recommended in two doses for all children between 12 and 23 months of age. What type of prevention is this?
+
+
+=== Section 3: Investigation 2 - COVID-19 in the Middle East ===
+
+[STIMULUS] During the SARS-CoV-2 pandemic, Iran was one of the first countries outside China to be affected in a major way. By July 2021, the country was being impacted by a fourth wave of the disease. During this wave, scientists conducted a study with the aim of investigating the epidemiological characteristics and mapping the spatiotemporal trend of SARS-CoV-2 in the important city of Mashhad in Iran.
+
+Data was collected by the Mashhad University of Medical sciences, covering the 3 months from February 14, 2020 to May 11, 2020. Suspected cases were referred to healthcare centers and were confirmed either clinically or by laboratory tests. For unequivocal confirmation of infection, a Reverse Transcription PCR test was required. Information collected on confirmed cases included patients' residence address, sex, age, date of symptoms onset, Length of Stay (LOS) in the hospital, underlying diseases, common symptoms, exposure history, disease severity and disease outcome.
+
+Continuous variables were expressed as median and Inter Quartile Range (IQR). Categorical variables were expressed as number and percentage and compared by a Chi Squared test. To determine the effect of age, sex, ICU admission, LOS and co-morbidities on mortality, univariate logistic regression was used. Un-adjusted Odds Ratio with a 95% Confidence Interval was also applied. To do this, 2,943 patients with a certified outcome (death or recovery) were included.
+
+59. [frq, 2 pt] What type of study was used?
+
+60. [frq, 3 pt] Why is this type of study appropriate in this situation?
+
+61. [frq, 3 pt] What is surveillance, and what is its purpose?
+
+62. [frq, 2 pt] What type of surveillance is indicated by the actions of the MUMS, and how do you know?
+
+63. [frq, 2 pt] Give two examples of continuous variables from the study.
+
+64. [frq, 2 pt] Give two examples of categorical variables from the study.
+
+[STIMULUS] 
+    [IMAGE: ../images/2025_yale_invitational_c__p13_175d97-d5f54378.webp]
+
+65. [frq, 1 pt] From the graph above, which age group had the greatest frequency of death?
+
+66. [frq, 1 pt] Which age group had the greatest frequency of infection?
+
+67. [frq, 1 pt] Which age group had the highest mortality rate?
+
+68. [frq, 1 pt] From the above graph, what factors were most associated with the greatest odds of death?
+    [IMAGE: ../images/2025_yale_invitational_c__p13_6bcd8e-62ae5e67.webp]
+
+70. [frq, 2 pt] Sex has an odds ratio of about 1. Explain what this means in this scenario.
+
+71. [frq, 2 pt] Age has an odds ratio far above 1. Explain what this means in this scenario.
+
+73. [frq, 2 pt] The odds ratio for diabetes has a 95% confidence interval = 1.26 -1.99. How would you interpret this for a layperson?
+
+74. [frq, 2 pt] Does the range of the confidence interval for diabetes in the previous question (1.26 -1.99) imply statistical significance regarding the association between diabetes and death after infection of SARS-CoV-2?

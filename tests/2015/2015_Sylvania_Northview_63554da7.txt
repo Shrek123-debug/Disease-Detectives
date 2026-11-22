@@ -1,0 +1,470 @@
+Sylvania-Northview — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  77 questions, 77.0 pts
+Source: scio.ly test archive id 63554da7-5e6b-420a-bcb6-1c3e6198099c  |  original files: https://drive.google.com/drive/folders/1xNFgfwEACKRusYRXlTB-FqTvElPel0qE
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Identify the letter of the choice that best completes the statement or answers the question.
+
+
+=== Multiple Choice ===
+
+1. [mcq, 1 pt] Which of the following is NOT found in bacteria?
+    A) cell wall
+    B) membrane-bound nucleus
+    C) ribosome
+    D) plasma membrane
+
+2. [mcq, 1 pt] Bacteria that cause disease are called
+    A) viruses.
+    B) pathogens.
+    C) endospores.
+    D) antibiotics.
+
+3. [mcq, 1 pt] A method called Gram staining is used to tell
+    A) what shape a prokaryote has.
+    B) how a prokaryote obtains energy.
+    C) what kind of cell wall a prokaryote has.
+    D) whether a prokaryote has flagella.
+
+4. [mcq, 1 pt] Which of the following would a physician NOT do to protect against a the spread of a viral disease?
+    A) administer a vaccination
+    B) prescribe an antibiotic
+    C) encourage good hygiene
+    D) recommend bed rest to those who become ill
+
+5. [mcq, 1 pt] A virus’s DNA or RNA is surrounded by a(n)
+    A) protein coat.
+    B) nuclear membrane.
+    C) tail.
+    D) endospore.
+
+6. [mcq, 1 pt] Many cases of food poisoning are caused by bacterial
+    A) toxins.
+    B) decomposition.
+    C) resistance to antibiotics.
+    D) sterilization.
+
+7. [mcq, 1 pt] When treated with Gram stain, Gram-positive bacteria appear
+    A) purple.
+    B) pink.
+    C) yellow.
+    D) orange.
+
+8. [mcq, 1 pt] The instructions for making new copies of a virus are
+    A) a part of a virus’s tail.
+    B) coded in surface proteins attached to the protein coat.
+    C) coded in either RNA or DNA.
+    D) found only in bacteriophages.
+
+9. [mcq, 1 pt] A lytic cycle concludes with the
+    A) embedding of viral DNA into the host cell's DNA.
+    B) production of a bacteriophage.
+    C) bursting of the host cell.
+    D) production of messenger RNA.
+
+10. [mcq, 1 pt] Bacteria are sometimes called nature's recyclers because they
+    A) undergo conjugation.
+    B) break down nutrients in dead organisms.
+    C) can switch between respiration and fermentation.
+    D) carry out photosynthesis.
+
+11. [mcq, 1 pt] Viruses cause infection by
+    A) producing toxins that harm the body.
+    B) reproducing independently inside the body.
+    C) forming endospores in the body.
+    D) entering body cells and reproducing.
+
+12. [mcq, 1 pt] Which of the following do all disease-causing viruses need in order to reproduce?
+    A) reverse transcriptase
+    B) the equipment of the host cell
+    C) amino acids
+    D) a signal from other viruses
+
+13. [mcq, 1 pt] Some bacteria can survive extended periods of very harsh conditions by forming
+    A) plasmids
+    B) flagella
+    C) pili
+    D) endospores
+
+14. [mcq, 1 pt] The protozoan Plasmodium is carried by mosquitoes and causes the disease known as
+    A) African sleeping sickness.
+    B) amebic dysentery.
+    C) malaria.
+    D) algal bloom.
+
+15. [mcq, 1 pt] The funguslike protists that thrive on dead or decaying organic matter in water and are plant parasites on land are
+    A) water molds and downy mildews.
+    B) plasmodial slime molds.
+    C) cellular slime molds.
+    D) true fungi.
+
+16. [mcq, 1 pt] A person who comes down with malaria can infer that he or she contracted it from
+    A) contaminated water supplies.
+    B) infection by the protozoan Giardia.
+    C) the bite of a mosquito carrying Plasmodium.
+    D) the bite of the tsetse fly.
+
+17. [mcq, 1 pt] The destruction of the Irish potato crop in the mid-1800s was caused by a
+    A) cellular slime mold.
+    B) plasmodial slime mold.
+    C) dinoflagellate.
+    D) downy mildew.
+
+18. [mcq, 1 pt] The germ theory of disease states that infectious diseases are caused by
+    A) toxins.
+    B) pathogens.
+    C) heredity.
+    D) materials in the environment.
+
+19. [mcq, 1 pt] Which of the following is a way that an infectious disease might be transmitted?
+    A) through inhalation or physical contact
+    B) through contaminated water and food
+    C) by infected animals
+    D) all of the above
+
+20. [mcq, 1 pt] The body’s nonspecific defenses against invading pathogens include
+    A) antibiotics.
+    B) mucus, sweat, and tears.
+    C) antibodies.
+    D) T cells.
+
+21. [mcq, 1 pt] The inflammatory response can cause
+    A) permanent immunity.
+    B) pain, swelling, and redness.
+    C) antibodies to bind to antigens.
+    D) T cells to attack infected cells.
+
+22. [mcq, 1 pt] An immune response is triggered by a(an)
+    A) antibiotic.
+    B) antibody.
+    C) antigen.
+    D) histamine.
+
+23. [mcq, 1 pt] Humoral immunity originates from
+    A) T cells.
+    B) NK cells.
+    C) B cells.
+    D) macrophages.
+
+24. [mcq, 1 pt] If a person has memory B cells against a certain pathogen, the person is
+    A) likely to develop that disease.
+    B) not likely to develop the disease a second time.
+    C) able to spread the disease to others through physical contact.
+    D) probably still sick with the disease.
+
+25. [mcq, 1 pt] When a person receives a vaccine, his or her body
+    A) receives antibodies against a specific pathogen.
+    B) produces memory cells that provide resistance to that pathogen.
+    C) produces antigens to fight the specific pathogen.
+    D) immediately begins fighting the infection caused by the pathogens.
+
+26. [mcq, 1 pt] Unlike passive immunity, in active immunity antibodies are produced by
+    A) the mother of an infant.
+    B) your own body.
+    C) other animals.
+    D) an autoimmune disease.
+
+27. [mcq, 1 pt] Autoimmune diseases result when the immune system
+    A) fails to distinguish self from non-self.
+    B) overreacts to certain antigens.
+    C) is weakened by vaccines.
+    D) all of the above
+
+28. [mcq, 1 pt] HIV weakens the immune system by killing mainly
+    A) antibodies.
+    B) B cells.
+    C) helper T cells.
+    D) killer T cells.
+
+29. [mcq, 1 pt] An example of an autoimmune disease is
+    A) AIDS.
+    B) allergies.
+    C) multiple sclerosis.
+    D) strep throat.
+
+30. [mcq, 1 pt] An infectious disease is one that is caused by
+    A) heredity.
+    B) materials in the environment.
+    C) pathogens.
+    D) an organ transplant.
+
+31. [mcq, 1 pt] Which of the following is NOT a step in identifying the pathogen that causes a specific disease?
+    A) The pathogen should be found in the body of a healthy organism.
+    B) The pathogen should be isolated and grown in a pure culture.
+    C) The purified pathogens should cause the same disease in a new host.
+    D) The pathogen should be isolated from the second host.
+
+32. [mcq, 1 pt] An example of an infectious disease that is caused by a virus is
+    A) athlete’s foot.
+    B) trichinosis.
+    C) the common cold.
+    D) Lyme disease.
+
+33. [mcq, 1 pt] A person who has received a vaccine against polio
+    A) is able to produce antibodies against polio.
+    B) is more susceptible to the polio virus than someone who has not had the vaccine.
+    C) has polio antibodies in the bloodstream.
+    D) has antipolio killer T cells in the bloodstream.
+
+34. [mcq, 1 pt] The sneezing, runny nose and itchy eyes associated with allergies are caused when
+    A) smooth muscles reduce the size of air passageways in the lungs.
+    B) the immune system attacks the body’s own cells.
+    C) mast cells release histamine.
+    D) infected cells produce interferon.
+
+35. [mcq, 1 pt] The symptoms of the inflammatory response include
+    A) runny nose and a cough.
+    B) redness, heat, swelling, and pain.
+    C) unusual infections of the lungs, mouth, throat, and skin.
+    D) formation of a vaccine.
+
+36. [mcq, 1 pt] Which of the following presents a risk of spreading HIV?
+    A) abstaining from sex
+    B) sharing a needle
+    C) kissing someone on the check
+    D) using a sterile needle to receive a medical injection
+
+37. [mcq, 1 pt] All of the following are ways that HIV can be spread EXCEPT
+    A) sharing needles for intravenous drug use.
+    B) tending to another person's bleeding wound when you have a cut on your hand.
+    C) using another person's hairbrush.
+    D) sexual contact.
+
+38. [mcq, 1 pt] Which is NOT true of fungi?
+    A) single and multi-celled forms
+    B) absorb nutrients
+    C) photosynthesize
+    D) have nuclei
+
+39. [mcq, 1 pt] All bacteria
+    A) absorb nutrients
+    B) are motile
+    C) lack nuclei
+    D) lack a cell structure
+
+40. [mcq, 1 pt] What do bacteria, algae, viruses, protozoa, and fungi all have in common?
+    A) have a cell structure
+    B) are too small to study with the unaided eye
+    C) have nuclei
+    D) absorb nutrients
+
+41. [mcq, 1 pt] If you were setting up an experiment on viruses, which of the following would be important to maintain the viruses used in the experiment?
+    A) light
+    B) soil
+    C) nutrients for the virus
+    D) suitable living host cells
+
+42. [mcq, 1 pt] Which of the following is an example of a differential stain?
+    A) crystal violet stain
+    B) methylene blue stain
+    C) Gram stain
+    D) malachite green stain
+
+43. [mcq, 1 pt] What dye in the Gram stain do Gram positive bacteria retain?
+    A) safranin
+    B) iodine
+    C) crystal violet
+    D) methylene blue
+
+44. [mcq, 1 pt] The technique of heat-fixing a specimen is:
+    A) used to make wet mounts
+    B) a procedure that causes the microbial cells to adhere to the slide
+    C) only used in electron microscopy
+    D) none of the above
+
+45. [mcq, 1 pt] Which of the following is frequently found inside muscle tissue of hogs an rats?
+    A) Ascaris lumbricoides
+    B) Giardia lamblia
+    C) trichinella spiralis
+    D) none of these
+
+46. [mcq, 1 pt] The Gram stain is based on differences in the ____ of bacteria.
+    A) nuclear membrane
+    B) cell wall
+    C) cytoplasm
+    D) spores
+
+47. [mcq, 1 pt] Which of the following is mismatched?
+    A) coccus - round
+    B) coccobacilli - intermediate between round and rod
+    C) bacillus - flexible and wavy
+    D) spirillum - corkscrew shape
+
+48. [mcq, 1 pt] Which of the following allows bacterial cell motility?
+    A) plasmid
+    B) cilia
+    C) flagella
+    D) pili
+
+49. [mcq, 1 pt] A microbiologist is examining a sample of moist soil under the microscope and sees many green cells with nuclei and cell walls. Which of the following microorganisms is likely to be the cells seen in the sample?
+    A) yeasts
+    B) protozoa
+    C) algae
+    D) molds
+
+50. [mcq, 1 pt] While observing microbial cells you see a cell begin to engulf a smaller cell. Which of the following is true?
+    A) the smaller cell will eventually be present in a vacuole inside the larger cell.
+    B) active transport is occurring
+    C) the larger cell is probably a yeast cell.
+    D) exocytosis is occurring
+
+51. [mcq, 1 pt] A vector is
+    A) a contaminated inanimate object
+    B) a parasite
+    C) an organism that transfers a parasite to a host
+    D) none of these
+
+52. [mcq, 1 pt] Which of the following pertains to antibiotics?
+    A) chemicals produced by a microorganism that inhibit other microorganisms.
+    B) can only interfere with cell wall synthesis of the pathogen
+    C) always has toxic side effects for the patient
+    D) none of the above
+
+53. [mcq, 1 pt] Food borne disease
+    A) dptheria
+    B) tuberculosis
+    C) gas gangrene
+    D) botulism
+
+54. [mcq, 1 pt] This disease is caused by the same bacteria that causes strep throat:
+    A) scarlet fever
+    B) pertussis
+    C) yellow fever
+    D) tuberculosis
+
+55. [mcq, 1 pt] Disease that damages the lungs but could spread to other organs as well.
+    A) yellow fever
+    B) diptheria
+    C) tuberculosis
+    D) scarlet fever
+
+56. [mcq, 1 pt] A poor blood supply and painful swelling result from this disease:
+    A) scarlet fever
+    B) tuberculosis
+    C) pneumonia
+    D) gas gangrene
+
+57. [mcq, 1 pt] Pertussis or “whooping cough”:
+    A) prokaryotic
+    B) progressive
+    C) treated with antibiotics
+    D) all of the above
+
+58. [mcq, 1 pt] A stiff neck and fever are symptoms:
+    A) pneumonia
+    B) viral meningitis
+    C) tuberculosis
+    D) none of these
+
+59. [mcq, 1 pt] Disease that causes infection in the lungs but responds well to antibiotics:
+    A) tuberculosis
+    B) Scarlet fever
+    C) pneumonia
+    D) leptospirosis
+
+60. [mcq, 1 pt] Spontaneous generation is associated with which of the following:
+    A) germ theory of disease
+    B) life from non-living materials
+    C) pasteurization of milk
+    D) life from life (pre-existing cells)
+
+61. [mcq, 1 pt] Louis Pasteur:
+    A) developed the postulates that explained how to prove the “germ” theory of disease for most infectious agents.
+    B) was the first person to view microorganisms with a hand-held lens and became the Father of Microbiology.
+    C) disproved the theory of spontaneous generation.
+    D) developed antiseptic surgery techniques.
+
+64. [mcq, 1 pt] When would Koch’s Postulates be utilized?
+    A) determination of the cause of a patient’s illness in a hospital microbiology lab.
+    B) development of a new antibiotic in a pharmaceutical lab.
+    C) formulation of a vaccine against a new pathogen in a genetic engineering lab.
+    D) whenever the scientific method is used to investigate a microbiological problem.
+
+65. [mcq, 1 pt] The organism that grows in the tsetse fly (Glossina spp.) is
+    A) Trypanosoma
+    B) Onchocerca
+    C) Diphyllobothrium
+    D) Wucheresia
+
+66. [mcq, 1 pt] The organism that grows as a parasite in the Anopholes mosquito is
+    A) Giardia
+    B) Leshmania
+    C) Plasmodium
+    D) None of these
+
+67. [mcq, 1 pt] Control of flea infestation is different from control of lice. Why?
+    A) Fleas are much more resistant to insecticides.
+    B) Fleas reproduce off the host, laying eggs int he environment.
+    C) Fleas are larger than lice.
+    D) Fleas don’t need a blood meal.
+
+68. [mcq, 1 pt] Found in the feces of a patient complaining of abdominal distress and diarrhea.
+    A) Giardia lamblia
+    B) Trichomonas
+    C) Leshmania
+    D) None of these is correct.
+
+69. [mcq, 1 pt] What famous United States Army medical doctor was instrumental in eradicating yellow fever?
+    A) Carlos Finley
+    B) Louis Pasteur
+    C) Walter Reed
+    D) M.D. Anderson
+
+70. [mcq, 1 pt] Why is the development of a vaccine for Malaria so difficult?
+    A) the cost
+    B) the parasite changes and becomes more virulent in the liver.
+    C) rapid movement through the body.
+    D) human trials for the vaccine are difficult to conduct.
+
+71. [mcq, 1 pt] Bed nets to prevent malaria must be impregnated with
+    A) insecticide
+    B) vaccines
+    C) serum
+    D) none of these
+
+72. [mcq, 1 pt] Any arthropod or other living carrier that transports a pathogenic microorganism from an infected to a noninfected host is a ____
+    A) ectoparasite
+    B) endoparasite
+    C) reservoir host
+    D) vector
+
+73. [mcq, 1 pt] A parasite that establishes itself on or in the exterior surface of a host is a ____.
+    A) endoparasite
+    B) ectoparasite.
+    C) fomite
+    D) intermediate host
+
+74. [mcq, 1 pt] Trypanosoma causes
+    A) yellow fever
+    B) malaria
+    C) sleeping sickness
+    D) typhoid
+
+75. [mcq, 1 pt] Plasmodium and anopheles mosquitoes can be both drug- resistant and ____- resistant.
+    A) herbal
+    B) vaccine
+    C) insecticide
+    D) none of these
+
+76. [mcq, 1 pt] It is estimated that what percentage of all species of organisms are parasites?
+    A) 80%
+    B) 70%
+    C) 60%
+    D) 50%
+
+77. [mcq, 1 pt] Lice
+    A) are blood consumers
+    B) adhere to hair
+    C) spread from person to person
+    D) All of the above
+
+78. [mcq, 1 pt] Eosinophilia refers to:
+    A) eosinophils reacting to a pathogenic invasion.
+    B) an increase in white blood cells
+    C) a parasite living on the surface of a host.
+    D) Both A and B refer to Eosinophilia
+
+80. [mcq, 1 pt] Antibody-mediated immunity
+    A) works best against intracellular antigens.
+    B) is more important than cell-mediated immunity in graft rejection.
+    C) cannot be transferred from one person to another person.
+    D) is responsible for immediate hypersensitivity reactions.

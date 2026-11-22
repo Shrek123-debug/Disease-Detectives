@@ -1,0 +1,230 @@
+UPenn (SOUP) — Disease Detectives  |  Season 2017  |  Division C  |  Time limit 50 min  |  55 questions, 112.0 pts
+Source: scio.ly test archive id da2af5c0-6fdc-478f-b53d-6d0213d876af  |  original files: https://drive.google.com/drive/folders/1d8701uf1EyQ6hWWXAIcgd2fP8buZHb8W
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: Write all your answers on the provided answer sheet. You may write as much as you want on this exam paper, but it will not be graded. The number of marks on a question is not necessarily associated with the expected length/quantity of the response.
+
+
+=== SECTION 1 \ INTRODUCTION ===
+
+[STIMULUS] Welcome to Disease Detectives! Before we delve into our case studies today, I thought it'd be good for you to refresh yourself on some basic disease/epidemiology and maybe rack up some easy points. Think of it as a confidence booster.
+
+First, let's **define** some essential terms. Don't forget to write on your answer sheet!
+
+P1-1. [frq, 1 pt] Define: Index case
+
+P1-2. [frq, 1 pt] Define: Reservoir
+
+P1-2a. [frq, 4 pt] **Describe** the chain of infection, beginning with the reservoir.
+
+P1-3. [frq, 1 pt] Define: Vector
+
+P1-3a. [frq, 1 pt] **Differentiate** between a vector and a fomite.
+
+P1-4. [frq, 2 pt] Define: Attributable risk
+
+P1-4a. [frq, 2 pt] **Differentiate** between attributable risk and relative risk. You may explain this computationally.
+
+P1-5. [frq, 2 pt] Define: Bias
+
+P1-5a. [frq, 1 pt] Define: Selection bias
+
+P1-5b. [frq, 1 pt] Define: Information bias
+
+[STIMULUS] Whew! That wasn't so bad, was it? Now let's go through an overview of study design and statistics in epidemiology.
+
+P1-6. [frq, 2 pt] **Describe** two key differences between the designs of a retrospective cohort and a case-control study.
+
+P1-7. [frq, 3 pt] **Explain** why matching in case-control studies is not ideal.
+
+P1-8. [frq, 2 pt] **Explain** when you would use the Cochran-Mantel-Haenszel test.
+
+P1-9. [frq, 1 pt] **Explain** when and why you would use the Fisher's exact test over a chi-square test.
+
+P1-10. [frq, 1 pt] **Identify** the type of validity that is enhanced by random allocation.
+
+[STIMULUS] All right, let's get this disease trivia out of the way.
+
+**Classify** the following health outcomes as a result of a (A) virus, (B) bacterium, (C) fungus, (D) parasite, or (E) none of the above. [½ mark each]
+
+P1-11. [mcq, 0.5 pt] Classify the following health outcome: Influenza
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-12. [mcq, 0.5 pt] Classify the following health outcome: "Stomach flu"
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-13. [mcq, 0.5 pt] Classify the following health outcome: Cholera
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-14. [mcq, 0.5 pt] Classify the following health outcome: Candidiasis
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-15. [mcq, 0.5 pt] Classify the following health outcome: Ascariasis
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-16. [mcq, 0.5 pt] Classify the following health outcome: Scoliosis
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-17. [mcq, 0.5 pt] Classify the following health outcome: Strep throat
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-18. [mcq, 0.5 pt] Classify the following health outcome: Malaria
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-19. [mcq, 0.5 pt] Classify the following health outcome: Kuru
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+P1-20. [mcq, 0.5 pt] Classify the following health outcome: Cryptosporidiosis
+    A) virus
+    B) bacterium
+    C) fungus
+    D) parasite
+    E) none of the above
+
+[STIMULUS] And last but not least, the foodborne illness trivia…
+
+P1-21. [frq, 1 pt] **Name** the pathogen that contributes the most to incidence of domestically acquired foodborne illnesses in the US.
+
+P1-21a. [frq, 2 pt] **Describe** its most common symptoms.
+
+P1-22. [frq, 2 pt] Which two pathogens are responsible for the majority of deaths from domestically acquired foodborne illnesses in the US?
+
+P1-23. [frq, 1 pt] What is the most common form of outbreak deduced from an epi curve for the outbreak of a foodborne illness?
+
+P1-24. [frq, 3 pt] **Name** three federal organizations crucial to food safety in the US.
+
+P1-25. [frq, 1 pt] Which pathogen was responsible for an outbreak from Adams Farm beef products in 2016?
+
+
+=== SECTION 2 \ CASE STUDIES ===
+
+[STIMULUS] Finally! Let's get down to business. Today, you're presented with two problems in public health that may or may not be real events. You must use your knowledge and intuition of epidemiology to answer questions about these issues and work towards a solution … or at least a policy recommendation.
+
+[STIMULUS] **CASE STUDY 1: Wall Street Syndrome outbreak at Princeton University**
+
+Wall Street Syndrome (WSS), a disease of unknown cause, has emerged as an increasingly prevalent condition at several Ivy League institutions. Weaker indications for WSS may include overscheduling, academic distress, daily suit-wearing, and involvement in business fraternities. Students who probably have WSS may have a strong desire to transfer to economics or finance-related majors; Financial Engineering, in particular, is a major at Princeton University that is strongly associated with WSS. Applications to finance internships and interviewing for them are also probable indicators. Confirmed cases must have at least an internship at a top financial or consulting firm, a GPA above 3.7, and a completed LinkedIn profile. Of course, having a job offer from a Wall Street firm also confirms WSS.
+
+The students and faculty at PU alerted the administration in 2001 that they had been observing significantly elevated incidence of Wall Street Syndrome cases.
+
+P2-1. [frq, 5 pt] **Construct** a working case definition for WSS based on the information presented.
+
+[STIMULUS] PU administrators, in conjunction with the New Jersey Department of Public Health (NJDPH), established surveillance on WSS in which the University Health Service was supposed to report all cases to the NJDPH. This surveillance continued for five years.
+
+P2-2. [frq, 3 pt] **Identify** the crucial elements of the definition of public health surveillance.
+
+P2-3. [frq, 3 pt] **Define** incidence and prevalence, then **describe** the difference between the two.
+
+P2-4. [frq, 3 pt] **Differentiate** between active and passive public health surveillance, and **identify** the category under which this example of surveillance falls.
+
+[STIMULUS] Upon further investigation, the epidemiologists at the Central Jersey Department of Public Health justified the need for a case-control study to test the relationship between parental pressure and WSS at Princeton.
+
+P2-5. [frq, 1 pt] **Define** who the cases are in this case-control study.
+
+P2-6. [mcq, 1 pt] What is the **most accurate** way to find controls for this study?
+    A) Through matching on age, gender, and race
+    B) Through matching on academic interest
+    C) Through random selection from the susceptible population
+    D) Through matching with familiar persons (friends, classmates)
+    E) Through random selection from all college-aged persons in the area
+
+[STIMULUS] 248 persons were enrolled in the study. The 2x2 contingency table is as follows:
+    |  | **Case** | **Control** |
+    | **Pressured** | 73 | 114 |
+    | **Not pressured** | 19 | 42 |
+
+P2-9. [frq, 3 pt] **Interpret** the value for the measure of risk.
+
+P2-10. [frq, 2 pt] Assume the 95% confidence interval surrounding this measure of risk is defined by [risk]±0.4. Given this information, **determine** whether the value you calculated is statistically significant and **explain** why. (Note: do not attempt to calculate a p-value)
+
+[STIMULUS] This case-control study was included in a meta-analysis of research on the risk factors of WSS. By 2016, the web of causation for WSS has been much more completely elucidated, and parental pressure was ultimately found to be a sufficient cause for WSS.
+
+P2-11. [frq, 2 pt] **Define** Hill's criteria of causation.
+
+P2-12. [frq, 2 pt] **Explain** what a sufficient cause is and how it is different from a necessary cause.
+
+[STIMULUS] **CASE STUDY 2: Acute gastrointestinal illness at Penn**
+
+On the 19th of October 2016, the president of Mongolia Tsakhiagiin Elbegdorj visited the University of Pennsylvania to give a keynote lecture and meet with administrators and key members of the Trustees of the university. Following his lecture, a large-scale reception was held in Huntsman Hall for all students, faculty, and alumni who had attended. A magnificent banquet of the best cuisine Bon Appetit (Penn's dining provider) could offer was served, and received rave reviews from all who sampled their fare.
+
+Two days later, Student Health Service (SHS) sent a notice that a high number of students had reported symptoms such as nausea, vomiting, diarrhea, and abdominal pain. The Hospital of the University of Pennsylvania (HUP) also reported a greater number of admits presenting with similar symptoms. You, epidemiologists from the Philadelphia Department of Public Health, were assigned to take the call for the investigation of this outbreak.
+
+P3-1. [frq, 6 pt] **List** the CDC's 13 steps of an outbreak investigation.
+
+P3-2. [frq, 4 pt] What broad categories of diseases must be considered in determining the cause of an outbreak of GI illness?
+
+P3-3. [frq, 5 pt] **List** 5 questions or types of questions you should ask when you call individuals who were treated at SHS and HUP.
+
+[STIMULUS] After collecting information, you find that between October 12th and 18th, there were 2 reported cases of gastrointestinal illness at SHS and 15 at HUP (4 of whom were affiliated with Penn). Between the 19th and the 22nd, however, there were 25 cases of GI illness reported at SHS and 43 at HUP (40 of whom were affiliated with Penn).
+
+P3-4. [frq, 4 pt] **Explain** whether or not these cases seem to represent an outbreak.
+
+[STIMULUS] Given all the information presented to you, you conclude that you must further investigate the banquet served at President Elbegdorj's reception. With the help of the university, you ask each attendee for a list of foods they ate during the reception and associate this information with their infection status. The data are summarized below. (Out of those who ate at the reception, there were 63 persons infected and 86 uninfected.)
+    | Food item eaten | Infected | No infection | (Odds ratio) |
+    | Cold cuts | 45 | 28 |  |
+    | Grilled chicken | 47 | 11 |  |
+    | Desserts | 9 | 86 |  |
+    | Deviled eggs | 19 | 20 |  |
+    | Garden salad | 29 | 21 |  |
+    | Antipasti | 13 | 25 |  |
+    | ALL PERSONS: | 63 | 86 |  |
+
+P3-7. [frq, 2 pt] **Name** the kind of bias this collection method is particularly susceptible to and explain why.
+
+P3-8. [frq, 6 pt] **Calculate** the odds ratio for each food item and show your work on your answer sheet.
+
+P3-9. [frq, 4 pt] Which food item had the **highest** odds ratio? What does this mean?
+
+P3-10. [frq, 3 pt] You contact the university, Bon Appetit, and the Philadelphia Department of Public Health with this information. What do you tell them about your results? What policy recommendations would you propose?
+
+P3-11. [frq, 3 pt] **Name** three types of people you should consult to prevent an Bon Appetit outbreak like this from occurring again.
+
+
+=== SECTION 3 \ BONUS QUESTIONS!!!!
+
+Questions in this section were deemed too trivial or too savage to include in the rest of the exam. Best of luck. ===
+
+P4-3-1. [frq, 2 pt] Show mathematically that when a<<b and c<<d, odds ratio is a good approximation of relative risk.
+
+P4-3-2. [frq, 1 pt] Show the mathematical relationship between prevalence and incidence.
+
+P4-3-3. [frq, 1 pt] What is the key difference between cumulative incidence and incidence density?
+
+P4-3-4. [frq, 3 pt] Explain the sufficient-component cause model as conceived by Aschengrau and Seage.
+
+P4-3-5. [frq, 3 pt] Describe the hierarchy of evidence (not including expert opinions).

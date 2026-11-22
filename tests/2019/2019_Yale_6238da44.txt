@@ -1,0 +1,238 @@
+Yale — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  43 questions, 164.0 pts
+Source: scio.ly test archive id 6238da44-a267-4019-8c2c-7032eb808fd3  |  original files: https://drive.google.com/drive/folders/1A8WRYairNG_3r-I5TUEW61DnMGlOxnq4
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: Answer all questions on the answer sheet provided. You may split the test. You will have 50 minutes to complete the test. Have fun! Good luck ☺
+
+
+=== Scenario #1: Music to Die for ===
+
+[STIMULUS] The New Haven Clinic and Hospital have received an influx of flu cases from January 11-January 16. Many patients had symptoms such as vomiting, fever, chills, and extreme fatigue.
+
+| Date | # of Cases |
+|---|---|
+| 1/8 | 3 |
+| 1/9 | 2 |
+| 1/10 | 4 |
+| 1/11 | 9 |
+| 1/12 | 16 |
+| 1/13 | 30 |
+| 1/14 | 27 |
+| 1/15 | 16 |
+| 1/16 | 8 |
+| 1/17 | 5 |
+| 1/18 | 2 |
+| 1/19 | 2 |
+
+P1-1. [frq, 3 pt] What are some symptoms of the flu asides from the one mentioned above? Name 3.
+
+P1-2. [frq, 3 pt] What are some difference between the common cold and the flu? Name 3.
+
+P1-3b. [frq, 6 pt] Describe what these kinds of epicurve show:
+    Point source-
+    Continuous Common source-
+    Propagated-
+
+P1-3c. [frq, 1 pt] What type of epicurve best represents the data?
+
+P1-3d. [frq, 1 pt] What type of epicurve does the flu usually have?
+
+P1-3e. [frq, 3 pt] Do your answers to C) and D) match up? If no, why might this epicurve be different? What can the investigators do so that the data represented in the epicurve of this flu study is the type of epicurve that the flu usually has? If yes, DO NOT write anything if you want points.
+
+[STIMULUS] After interviewing many of the patients, it was determined that most of them went to a concert at Toads the night of January 10. The concert performers were an international band making a one-time visit to the USA who decided to have a one-time concert here as well, so most of the concert-goers are not residents of New Haven, but simply flew/drove in to watch it. According to the patients, the place was packed, and there was hardly any room to move. The floors were sticky from all the spilled drinks, and the place had a dark ambiance.
+
+P1-4. [frq, 4 pt] Make a case definition.
+
+P1-5. [frq, 1 pt] The flu spreads through what mode of transmission?
+
+P1-6. [frq, 3 pt] Given the testimony of the patients, how might have the flu spread in the concert?
+
+[STIMULUS] During the influx of flu patients, doctors at the New Haven Clinic conducted an RIDT for each patient that came in between 1/11 and 1/16. This was done to differentiate patients who had the flu and those who had the common cold so that they could better treat the patients and determine the facts of the outbreak
+
+|  | RIDT positive | RIDT negative |
+|---|---|---|
+| Patient had the flu | 70 | 36 |
+| Patient did not have the flu | 17 | 65 |
+
+P1-7. [frq, 2 pt] Find the prevalence within the given population in the table above.
+
+P1-8. [frq, 2 pt] Find sensitivity.
+
+P1-9. [frq, 2 pt] Find specificity.
+
+P1-10. [frq, 2 pt] Find PPV.
+
+P1-11. [frq, 2 pt] Find NPV.
+
+P1-12. [frq, 1 pt] What does RIDT stand for?
+
+[STIMULUS] The doctors decided to do an immunofluorescent antibody staining test since it is a more accurate test when determining if someone has the flu.
+
+|  | RIDT positive | RIDT negative |
+|---|---|---|
+| Patient had the flu | 84 | 22 |
+| Patient did not have the flu | 7 | 75 |
+
+P1-13. [frq, 4 pt] Since the immunofluorescent antibody staining test is more accurate than the RIDT, should sensitivity for the viral culture test be higher or lower? What about specificity? PPV? NPV?
+
+P1-14. [frq, 2 pt] Find sensitivity.
+
+P1-15. [frq, 2 pt] Find specificity.
+
+P1-16. [frq, 2 pt] Find PPV.
+
+P1-17. [frq, 2 pt] Find NPV.
+
+
+=== Scenario #2: Food to Die For ===
+
+[STIMULUS] In early December, Yale Health received an influx of patients experiencing symptoms including diarrhea, nausea, fever, and muscle aches. The doctors soon noticed this increase in patients with a food-borne illness, and contact the investigators to help look at this possible outbreak.
+
+P2-1. [frq, 3 pt] What food borne illness could this be? Name 3
+
+[STIMULUS] Investigators determine this is an outbreak. After series of testing, the doctors have determined this is an outbreak of listeriosis (DO NOT list this as a possible food-borne illness in question #1). All the students and faculty admitted had eaten in the dining halls during the past month.
+
+P2-2. [frq, 4 pt] Create a case definition for the investigators.
+
+[STIMULUS] The investigators and doctors put together a chart containing the number of cases admitted each day from 11/20 – 12/17.
+
+| Date of Onset | Number of Cases |
+|---|---|
+| 11/20 | 0 |
+| 11/21 | 1 |
+| 11/22 | 0 |
+| 11/23 | 3 |
+| 11/24 | 4 |
+| 11/25 | 2 |
+| 11/26 | 7 |
+| 11/27 | 15 |
+| 11/28 | 22 |
+| 11/29 | 19 |
+| 11/30 | 20 |
+| 12/1 | 26 |
+| 12/2 | 30 |
+| 12/3 | 26 |
+| 12/4 | 26 |
+| 12/5 | 25 |
+| 12/6 | 21 |
+| 12/7 | 21 |
+| 12/8 | 20 |
+| 12/9 | 17 |
+| 12/10 | 18 |
+| 12/11 | 16 |
+| 12/12 | 8 |
+| 12/13 | 3 |
+| 12/14 | 2 |
+| 12/15 | 0 |
+| 12/16 | 0 |
+| 12/17 | 1 |
+
+P2-3b. [frq, 3 pt] What type of epicurve is this? Why?
+
+[STIMULUS] The investigators believed that something consumed from the dining hall was the cause of this outbreak among the Yale student and faculty. Each student and faculty member was interviewed about what they’ve eaten and drank at the dining halls, and an interviewer went to the dining hall to question other students and faculty as well.
+
+|  | **Disease?** | **Ate?** |  |
+|---|---|---|---|
+| **Food Item** |  | **YesNo** |  |
+| Chicken | Yes No | 21a 36c 28b 15d |  |
+| French toast | Yes No | 39 5 43 13 |  |
+| Eggs | Yes No | 19 21 42 18 |  |
+| Pasta | Yes No | 12 30 39 19 |  |
+| Milk | Yes No | 53 11 5 31 |  |
+| Orange Juice | Yes No | 32 41 17 10 |  |
+| Banana | Yes No | 24 28 31 17 |  |
+| Broccoli | Yes No | 13 32 27 38 |  |
+| Lettuce | Yes No | 25 38 14 21 |  |
+| Coffee | Yes No | 42 17 20 21 |  |
+
+P2-4. [frq, 20 pt] Calculate the relative risk for each food item.
+
+P2-5. [frq, 3 pt] Describe what relative risk means in relation to 3 food items.
+
+P2-6. [frq, 2 pt] Which food has the highest relative risk? What does this say about this food item?
+
+P2-7. [frq, 4 pt] What food items have the second and third highest relative risk? What might explain why each food items have a higher relative risk?
+
+[STIMULUS] After determining the food item responsible for the outbreak, investigators tested it for listeriosis.
+
+P2-8. [frq, 2 pt] What kind of microbe is responsible for listeriosis? What is the name of the specific microbe that causes listeriosis?
+
+[STIMULUS] The investigators informed Yale Dining, who immediately removed that food item and replaced it with some from a different company for the time being. The food item’s manufacturer was also informed of this decided to launch a private investigation of how this happened and to see if any other shipments were affected. Other places that ordered from this manufacturer were also advised of this outbreak and told to exercise caution.
+
+P2-9. [frq, 20 pt] Write the ten steps of an outbreak investigation and describe how each step was carried out in this investigation.
+
+
+=== Multiple Choice ===
+
+[STIMULUS] Select only the choices that answer the question.
+
+P3-1. [multi, 4 pt] Which one these is a part of Koch’s postulate?
+    A) The pathogen cannot be present in any other disease unrelated to the disease being investigated.
+    B) Microorganism or other pathogen must be present in all cases of the disease
+    C) The pathogen from the pure culture can cause the disease when incubated into a healthy, susceptible lab animal.
+    D) The pathogen can be isolated from the diseased hosted in attempt to reproduce it in pure culture
+    E) The pathogen must be reinsulated from the new host and shown to be the same as the originally inoculated pathogen
+
+P3-2. [multi, 4 pt] Which of these are a part of Hill’s Criteria for Causation?
+    A) Temporality
+    B) Experimental evidence
+    C) Sensitivity
+    D) Coherence
+    E) Specificity
+
+P3-3. [multi, 4 pt] Which of these statements are true?
+    A) In a double-blind study, the individuals who administer the treatment/intervention cannot know what treatment/intervention the patient receives.
+    B) In a triple-blind study both the participant and experimenter do not know who gets what treatment/intervention.
+    C) For all nested case-control studies, only a subset of controls from the cohort are compared to the incident cases.
+    D) Correlative studies aim to correlate characteristics of the population with health issue frequency with several groups during the same time period.
+    E) Both the double-blind and triple-blind studies are retrospective.
+
+P3-4. [multi, 4 pt] Which of these studies must be prospective?
+    A) Case-control
+    B) Cohort
+    C) Double-blind
+    D) Triple-blind
+    E) Longitudinal study
+
+P3-5. [multi, 4 pt] Which of these are not true of case-control studies?
+    A) It is difficult to calculate the absolute risk.
+    B) They are useful for determining rare exposures for rare diseases.
+    C) It is difficult to select a control group
+    D) It is not suitable for long term diseases.
+    E) There are lots of ethical issues surrounding case-control studies that remain of controversy.
+
+P3-7. [multi, 4 pt] In which of these situations would you use the Mantel-Haenszel test?
+    A) Accounting for confounding error
+    B) Accounting for multiple non-causal relationships
+    C) Accounting for age-stratified data
+    D) Accounting for a dichotomous outcome or dichotomous risk factor
+    E) Accounting for a dichotomous outcome and dichotomous risk factor
+
+P3-8. [multi, 4 pt] Which of these are gram positive?
+    A) Bacillus anthracis
+    B) Salmonella enterica
+    C) Staphylococcus aureus
+    D) Proteus mirabilis
+    E) Dengue virus
+
+P3-9. [multi, 4 pt] Which of these are gram negative?
+    A) Variola major
+    B) Variola minor
+    C) Escherichia coli
+    D) Listeria monocytogeneses
+    E) Neisseria meningitidis
+
+
+=== Tiebreakers ===
+
+P4-TB1. [frq, 3 pt] Who discovered penicillin? Of what nationality was this person?
+
+P4-TB2. [frq, 4 pt] Who is the father of epidemiology (please give his full name)? What disease was responsible for the epidemic he investigated? What was the other field of medicine he was famous for?
+
+P4-TB3. [frq, 2 pt] Which strain of e. coli was the cause of the 1993 outbreak in the US? What is the name of the restaurants that was involved in this outbreak?
+
+P4-TB4. [frq, 5 pt] What strain of the influenza was the cause of the pandemic in 1918? What was the common name for this strain? What strain of influenza caused the pandemic back in 2008? What was this strain commonly known as? Despite the common name, where did the 2009 strain of influenza first originate from?
+
+P4-TB5. [frq, 3 pt] What does MRSA stand for? Why is it difficult to treat? Does it follow the SIR or SIRS model?
+
+P4-TB6. [frq, 6 pt] What test determines gram-positive/gram-negative? How is this procedure carried out? What results determine gram-positive and gram-negative? What do the gram-positive and gram-negative results mean?

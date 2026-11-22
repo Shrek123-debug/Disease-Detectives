@@ -1,0 +1,261 @@
+Belleville — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  54 questions, 68.0 pts
+Source: scio.ly test archive id bf23e276-adbf-48ab-87da-3aee7be043b5  |  original files: https://drive.google.com/drive/folders/1XAuIwaD3BjFstc0sHw46N_u_r1K24lKa
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: This test will be comprised of Multiple Choice, Fill in the Blank and Short Answer Questions
+
+1. [mcq, 1 pt] The disease **Candidiasis** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+2. [mcq, 1 pt] The disease **COVID - 19** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+3. [mcq, 1 pt] The disease **Smallpox** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+4. [mcq, 1 pt] The disease **Ebola** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+5. [mcq, 1 pt] The disease **Malaria** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+6. [mcq, 1 pt] The disease **Rabies** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+7. [mcq, 1 pt] The disease **Tetanus** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+8. [mcq, 1 pt] The disease **Ringworm** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+9. [mcq, 1 pt] The disease **Tuberculosis** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+10. [mcq, 1 pt] The disease **Toxoplasmosis** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+11. [mcq, 1 pt] The disease **Cholera** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+12. [mcq, 1 pt] The disease **Polio** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+13. [mcq, 1 pt] The disease **Giardiasis** is caused by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) fungus
+
+14. [mcq, 1 pt] The disease **Hepatitis A** is cause by a ____
+    A) virus
+    B) bacteria
+    C) protozoan
+    D) fungus
+
+15. [mcq, 1 pt] The infection **Athlete's Foot** is cause by a ____
+    A) virus
+    B) bacterium
+    C) protozoan
+    D) Fungus
+
+16. [mcq, 1 pt] Any disease of animals communicable to humans is called ____.
+    A) agent
+    B) bacteria
+    C) fomite
+    D) virus
+    E) zoonosis
+
+17. [mcq, 1 pt] A substance that causes an effect is called a ____
+    A) agent
+    B) bacteria
+    C) fomite
+    D) virus
+    E) zoonosis
+
+18. [mcq, 1 pt] An infectious agent that replicates itself only within cells of living hosts.
+    A) agent
+    B) bacteria
+    C) fomite
+    D) virus
+    E) zoonosis
+
+19. [mcq, 1 pt] A nonliving object that can be used in the transmission of disease.
+    A) agent
+    B) bacteria
+    C) fomite
+    D) virus
+    E) zoonosis
+
+20. [mcq, 1 pt] Microscopic single celled organisms that lack nuclei.
+    A) agent
+    B) bacteria
+    C) fomite
+    D) virus
+    E) zoonosis
+
+21. [mcq, 1 pt] A widespread outbreak of an infectious disease in a specified community.
+    A) epidemic
+    B) exposure
+    C) infection
+    D) pandemic
+    E) outbreak
+
+22. [mcq, 1 pt] Invasion of the body by pathogenic agents is called
+    A) epidemic
+    B) exposure
+    C) infection
+    D) pandemic
+    E) outbreak
+
+23. [mcq, 1 pt] A sudden occurrence of a disease in two or more people during a specified period of time.
+    A) epidemic
+    B) exposure
+    C) infection
+    D) pandemic
+    E) outbreak
+
+24. [mcq, 1 pt] A disease that occurs over a wide geographic area affecting an exceptionally high proportion of people.
+    A) epidemic
+    B) exposure
+    C) infection
+    D) pandemic
+    E) outbreak
+
+25. [mcq, 1 pt] To come in contact with an infectious agent in a way that promotes the transmission and likelihood of a the disease.
+    A) epidemic
+    B) exposure
+    C) infection
+    D) pandemic
+    E) outbreak
+
+26. [mcq, 1 pt] A system of doctors and health officials collecting and comparing data on infections or various diseases within communities is called
+    A) Incubation System Specialists
+    B) Pathogenic Research Specialists
+    C) Public Heath Surveillance
+    D) Disease Outcome Experts
+
+27. [mcq, 1 pt] A disease causing agent is called
+    A) incubation
+    B) a pathogen
+    C) a symptom
+    D) a vector
+
+28. [mcq, 1 pt] An organism such as a flea, tick or mosquito that transmits a pathogen is called
+    A) incubation
+    B) a pathogen spreader
+    C) a symptom
+    D) a vector
+
+29. [mcq, 1 pt] Evidence or sign of a disease or infection in called
+    A) incubation
+    B) pathogen
+    C) symptom
+    D) vector
+
+30. [frq, 1 pt] What does the acronym **CDC** stands for?
+
+31. [frq, 1 pt] Who is considered to be the founder "father" of epidemiology?
+
+32. [frq, 2 pt] List the top **two** pathogens responsible for foodborne illness and outbreaks.
+
+33. [frq, 1 pt] A ____ is and organism that harbors and infectious agent for a disease and can transmit it to others, but does not show signs of the disease.
+
+34. [frq, 1 pt] A ____ is an aggregation of cases over a particular period. Often the expected number of cases in not known.
+
+35. [frq, 1 pt] What type of observational study works backwards from effect or illness to suspected cause?
+
+36. [numeric, 1 pt] How many **steps** are there in Outbreak Investigation? (Type the # instead of writing it out) Example: 5, instead of five
+
+37. [frq, 3 pt] One of the four components used to define and identify cases is **Characteristics** (of the affected people). List the other **three** components.
+
+38. [frq, 1 pt] A ____ ____ is a chart of specific cases including information about each case.
+
+39. [frq, 1 pt] What does the acronym **WHO** stand for?
+
+40. [frq, 3 pt] List the **three** components used in in **Step 6** of Outbreak Investigation.
+
+41. [frq, 2 pt] Name the city and country where the first COVID-19 case was reported.
+
+42. [mcq, 1 pt] According the the **CDC** , when was the first case of COVID-19 reported in the United States?
+    A) December 31, 2020
+    B) January 21, 2020
+    C) February 15, 2020
+    D) March 1, 2020
+
+43. [mcq, 1 pt] One Wednesday, March 11, 2020, the **WHO** declared the COVID-19 health concern a ____.
+    A) Outbreak
+    B) Epidemic
+    C) Pandemic
+    D) Symptom
+
+44. [mcq, 1 pt] What country was the highly contagious **Delta variant** of COVID -19 first reported in?
+    A) Britain
+    B) Spain
+    C) France
+    D) India
+    E) United States
+
+[STIMULUS] At a small event in Texas, a berry dessert caused some of the attendees to become sick with flu-like symptoms. There were 24 total attendees at the event and 13 became ill. One of these attendees did not eat the berry dessert, but still became ILL. Also, one of the attendees who ate the berry dessert did not become ILL. (Tie Breaker # 2)
+
+Fill out the Table and calculate the attack rates for both the exposed and unexposed cases Also calculate the relative risk of eating the berry dessert and explain what this value means
+    |  | ILL (Disease, Yes) | WELL (Disease, No) |
+    | Exposed | [[q:45-1]] | [[q:45-2]] |
+    | Unexposed | [[q:45-3]] | [[q:45-4]] |
+
+45-1. [numeric, 1 pt] Table cell — Row: Exposed, Column: ILL (Disease, Yes)
+
+45-2. [numeric, 1 pt] Table cell — Row: Exposed, Column: WELL (Disease, No)
+
+45-3. [numeric, 1 pt] Table cell — Row: Unexposed, Column: ILL (Disease, Yes)
+
+45-4. [numeric, 1 pt] Table cell — Row: Unexposed, Column: WELL (Disease, No)
+
+45a. [frq, 2 pt] Calculate the attack rate for the exposed (ate the berry dessert).
+
+45c. [frq, 2 pt] Calculate the relative risk of eating the berry dessert and explain what this value means.
+
+46. [frq, 2 pt] What is the equation for calculating the odds ratio?
+
+[STIMULUS] In late 2018, an outbreak of Legionnaires’ disease infected 14 people at the UW Hospital in Madison, WI. Three of the patients at the hospital died from this outbreak. These patients also had other serious health conditions. Lab testing of a few patients confirmed that the strain of the disease was the same one previously found in the hospital’s water system. Legionnaires’ disease spreads in airborne droplets from hot water. - (Tie Breaker # 1)
+
+47a. [frq, 3 pt] List the most likely portal of entry of this disease for the hospital patients. Give an example of how this might occur.
+
+47b. [frq, 3 pt] What is the mortality rate of this particular case?
+
+47c. [frq, 2 pt] Assume the "disease detectives" in this case have properly verified the diagnosis of the outbreak. What is the next step in the Outbreak Investigation?

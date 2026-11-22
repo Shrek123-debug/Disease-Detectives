@@ -1,0 +1,228 @@
+Boyceville Mini — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  65 questions, 214.0 pts
+Source: scio.ly test archive id 3ebd1463-a01c-4685-a049-de6ff6b23b47  |  original files: https://drive.google.com/drive/folders/1rSovQYtt7hMQC-V4wbgDYUIfUYgPO7km
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Welcome to the Disease Detectives Event. You are permitted the use of a 8.5x11" sheet of paper with information from any source, as well as a stand-alone non-programmable, non-graphing calculator. You will have 50 minutes to complete this event with your partner. If you have problems, please use the ES chat to communicate with the ES.
+
+1. [frq, 2 pt] Epidemiology can be categorized into analytical and descriptive branches. How do these two branches of epidemiology differ from one another?
+
+2. [frq, 3 pt] What is the descriptive epidemiological triad?
+
+3. [frq, 2 pt] A diet program for persons with high blood pressure is renowned for its ability to reduce health risks associated with high blood pressure, but the full compliance in the program is low. Does this program demonstrate high efficacy or effectiveness? Explain.
+
+4. [frq, 2 pt] A recent outbreak of anthrax was tracked back to soil from a pasture where a decomposing cow was recovered. Is this an example of a common-source outbreak or a propagated outbreak? Explain.
+
+5. [frq, 4 pt] During the COVID-19 pandemic, several high-profile public officials have been reported suggesting using “herd immunity” as a strategy to combat the pandemic. Explain briefly why this is a bad strategy to pursue for an emerging infectious disease such as COVID-19.
+
+6. [frq, 3 pt] Refer to the figure provided. Given the three sufficient causes for disease, which component is necessary? Explain your choice.
+    [IMAGE: ../images/2021_boyceville_mini_c__p2_ad1608-49422a36.webp]
+
+7. [frq, 2 pt] Give an example of a component that is necessary but not itself sufficient to cause disease.
+
+8. [frq, 3 pt] Define and identify two categorical differences between primary and secondary disease prevention.
+
+[STIMULUS] Two maps of the United States show the prevalence of physical inactivity [red spots have high amounts of physical inactivity; blue spots have low amounts of physical activity] and the age-standardized mortality rate of cardiovascular diseases.
+    [IMAGE: ../images/2021_boyceville_mini_c__p3_22360f-ee10f33d.webp]
+    [IMAGE: ../images/2021_boyceville_mini_c__p3_e098a7-13297a08.webp]
+
+9. [frq, 1 pt] What conclusion would an epidemiologist make about cardiovascular health?
+
+10. [frq, 3 pt] Base upon the information in these maps, what are three recommendations that public health officials could propose to mitigate the risks of cardiovascular disease?
+
+[STIMULUS] John Snow’s cluster map revealed the probable source of the cholera outbreak in 1854 London.
+    [IMAGE: ../images/2021_boyceville_mini_c__p4_e33fc0-acc0cb59.webp]
+
+11. [mcq, 2 pt] What are some valid conclusions based upon this map?
+    I. The pump at Piccadilly Circus was probably uncontaminated.
+    II. The pump at Broad Street was probably contaminated.
+    III. Persons who got water from a clean pump did not get sick.
+    A) I only
+    B) II only
+    C) I & II
+    D) II & III
+    E) I, II, & III
+
+12. [frq, 2 pt] Using this cluster map, John Snow persuaded the local authorities to remove the handle to the contaminated well, which led to a decrease in severity of the cholera outbreak. What step of an outbreak investigation would this be in a modern case scenario?
+
+13. [frq, 4 pt] In some cases, the odds ratio is used to approximate the relative risk of a health condition, especially if the health condition is rare/uncommon compared to the total population size. Explain why this is the case briefly.
+
+14. [frq, 3 pt] Often in diseases, there is a lag between the initial exposure to a pathogen to the onset of symptoms. What is this period called and why does it occur?
+
+15. [frq, 1 pt] A person sick with influenza touches a doorknob; later, a susceptible person also touches the doorknob and develops influenza symptoms. What kind of transmission is this?
+
+16. [frq, 3 pt] A person sick with influenza starts to feel better and begins resuming “normal” (pre-sickness) activities. A day later, the person experiences a relapse of influenza symptoms and is unable to resume “normal” activities. What happened and why?
+
+17. [frq, 1 pt] The chickenpox (Varicella) incidence rate experiences seasonal shifts, peaking in winter/spring while experiencing lulls during the summer and autumn. What kind of pattern would you expect to see on a graph?
+
+18. [frq, 2 pt] Varicella infections are extremely common among infants and young children; in fact, some parents will intentionally infect their children in “chicken pox parties”. What is one benefit of intentionally infecting children with Varicella and what is one risk?
+
+19. [frq, 2 pt] Dengue fever is **endemic** to Africa and tropical Asia. What does this statement mean?
+
+20. [frq, 2 pt] Dengue fever was first diagnosed in Central/South America in the 1970’s, despite a long history of recorded instances from other regions since the 18th Century. Propose two valid explanations for the arrival of dengue fever in the Americas.
+
+21. [frq, 2 pt] Dengue fever is caused by a Type IV virus in the Baltimore classification. Describe two features of a Type IV virus.
+
+22. [frq, 2 pt] Dengue virus (among other Type-IV viruses) is also classified as an arbovirus. What does this mean and why is dengue virus classified as such?
+
+23. [mcq, 2 pt] Dengue fever is characterized by fever, nausea, body rashes, muscle and joint aches/pains, and leukopenia (low WBC count); severe cases are characterized by persistent vomiting, bloating (due to excess fluid developing outside of the blood vessels), mucosal bleeding, and a sudden increase in hematocrit accompanying a sudden decrease in platelet count. Which of the following individuals would be considered a suspect case of dengue fever?
+    I. A patient with leukopenia, fever, and severe diarrhea.
+    II. A patient with muscle pain, persistent vomiting, and fever.
+    III. A patient with body rashes, mucosal bleeding, and fever.
+    A) Patient I only
+    B) Patient III only
+    C) Patient I & II
+    D) Patient II & III
+    E) Patient I, II, & III
+
+24. [frq, 4 pt] In Southeast Asia, the summer of 2019 was characterized by a sharp increase in the incidence rate of dengue fever. Even though dengue fever is endemic to Southeast Asia, local health organizations described this sharp increase as an “epidemic”. Explain two reasons why.
+
+25. [frq, 2 pt] The 2019 epidemic developed into a coepidemic with the emerging COVID-19 pandemic. What are two challenges that a coepidemic poses to evaluating the dengue outbreak?
+
+26. [frq, 2 pt] Up to 80% of persons infected with the dengue virus are asymptomatic. Describe what this means and explain how this may pose challenges in any public health intervention methods.
+
+27. [frq, 3 pt] As a public health official in Central/South America, what are three recommendations that you could suggest as primary prevention measures?
+
+[STIMULUS] A free clinic in rural El Salvador recently admitted a sick man - approximately 40yo - who was complaining of a sudden onset of extreme muscle pain and high fever (>40°C). Upon arrival, the clinic recorded the man’s vital signs, recording a high pulse, abnormally high blood pressure, a body temperature of 40.4°C, and slightly elevated respiration rate; the man’s weight (72.5 kg) and height (163 cm) were also recorded. The man appeared flushed red with some petechial bleeding across his chest and arms, complaining of numbing back and muscle pain during the clinical observation. Upon asking the man where and when he first felt sick, the man reported that he had been working on a plantation for the past week. He only felt a little tired yesterday, but didn’t think much about it. It was only that morning when he couldn’t get out of bed that his friends and family helped bring him to the clinic. The clinician asked the man if he had been bitten by mosquitoes recently; the man reported that they always have mosquitoes at the plantations and revealed several mosquito bites on his arms and legs. The clinician took a blood sample for analysis in a lab; unfortunately, due to the lack of local resources, the lab sample was taken abroad to a CDC-affiliated lab, which revealed no measurable dengue virus nucleic acid or antibodies, but did note a WBC count below 5000 cells per microliter.
+
+28. [frq, 2 pt] What is the significance of the mosquito bites on the man?
+
+29. [frq, 3 pt] Identify the epidemiologic triad (agent, host, environment) for this case:
+
+30. [frq, 12 pt] Using the provided information, write a detailed case description for the sick man; be certain to indicate if this is a confirmed, probable, or suspected case of dengue
+
+31. [frq, 2 pt] This case is an example of which type of surveillance? Explain your choice.
+
+32. [frq, 2 pt] What is one explanation for the absence of dengue virus nucleic acid or antibodies in the blood? What would be a solution to this problem?
+
+[STIMULUS] In collaboration with other clinics in rural El Salvador, the numbers of cases of dengue-like symptoms are collected, along with common workplaces for patients; patients at two or more different workplaces were excluded. The following data is sent to the Pan-American Health Organization (PAHO) for further analysis:
+    | Workplace | Dengue-like symptoms | Asymptomatic/Other disease |
+    | Farms & Plantations | 67 | 13 |
+    | Factories & Refineries | 128 | 167 |
+    | Fishing | 17 | 20 |
+    | Construction | 47 | 119 |
+
+33. [frq, 2 pt] What kind of study design was used to generate this data analysis? Why?
+
+34. [frq, 12 pt] For each workplace (see the table above), calculate the odds ratio; show all work for complete credit.
+
+35. [frq, 1 pt] What is one limitation of using clinical cases to build an epidemic study for dengue fever in this instance?
+
+36. [frq, 2 pt] What are two reasons for the odds ratio calculated for the incidence of dengue fever among persons involved with fishing?
+
+37. [frq, 2 pt] Based upon the data obtained from the clinical cases, what are a couple of recommendations that the PAHO can issue to control the spread of dengue fever in El Salvador?
+
+[STIMULUS] The following scenario refers to questions 38 to 52
+
+**The year is 1984**, a year of pivotal change. The TED conference is founded and begins broadcasting great ideas in technology, engineering, and design; Tears of Endearment wins the Best Picture and other awards at the 56th Academy Awards; France wins the Euro Competition for the first time, defeating Spain in the final on home soil; the Games of the XIII Olympiad proceed in Los Angeles, despite a wide boycott from the USSR and members of the Warsaw Pact; President Reagan, in an unofficial broadcast, announces legislation that "will outlaw Russia forever; we begin bombing in five minutes", in what is later revealed to be a joke (the USSR did not appreciate the punchline).
+
+During the final days of summer, a sudden outbreak of Salmonellosis was recorded in a relatively rural community of Oregon called the Dalles (of Oregon Trail fame). Prior to the outbreak, no cases of Salmonellosis were recorded in the Dalles. Beginning on Sept. 9, cases of Salmonellosis began to be identified locally through passive surveillance. Over next month, a total of 751 cases were identified. Outbreak investigators used a case definition where at least three of the following criteria were satisfied: fever, chills, headache, nausea, vomiting, abdominal pain, and bloody stool. Some cases were confirmed by stool culture containing S. enterica type Typhimurium. Salmonellosis cases are also characterized with an incubation period of 12 to 72 hours, with symptoms persisting anywhere from 4 to 7 days.
+
+Early on, it was recognized that the local restaurants were likely associated with the Salmonellosis outbreak. Investigators interviewed patients to determine which restaurants were frequented during the outbreak; a total of 620 patients (including workers) with single restaurant exposures (SRE) were noted, with the remainder being associated with multiple restaurants, secondary, or unknown exposures. During the outbreak, a total of 45 individuals were hospitalized with severe symptoms; no deaths due to the outbreak were reported.
+
+For your analyses, additional data [adapted from Torok et. al. (1997)] from this outbreak are provided for specified questions.
+
+38. [frq, 2 pt] Salmonellosis is primarily caused by bacteria of the genus Salmonella, which has by some estimates over 2500 serovars, including the Typhimurium serovar recovered from this investigation. What is a serovar, and list one other serovar of Salmonella.
+
+39. [frq, 2 pt] Salmonella enterica is a Gram-negative bacillus bacterium. What does this mean?
+
+[STIMULUS] Refer to this graph when answering questions 40 to 43.
+    [IMAGE: ../images/2021_boyceville_mini_c__p11_77231e-74fb149d.webp]
+
+40. [frq, 2 pt] Describe the pattern of this outbreak.
+
+41. [frq, 2 pt] Does this pattern reflect a point-source or a continuous epidemic? Explain/justify your choice.
+
+42. [frq, 2 pt] What is the difference between a clinical case and culture-confirmed case?
+
+43. [frq, 2 pt] Most of the cases reported eating from an open salad bar. Consequently, on Sept. 25, 1984, the local health department closed all open salad bars. What effect did this have on the outbreak?
+
+[STIMULUS] Questions 44 to 47 use the following table of information.
+
+CDC investigators later grouped the 38 restaurants into 3 groups and tallied the total number of people who became sick with Salmonellosis for the month. Each group was classified based on the number of culture-confirmed cases. Cases with single restaurant exposure (SRE) were sorted by their restaurant grouping.
+    [IMAGE: ../images/2021_boyceville_mini_c__p12_7cffda-bfa6c3f0.webp]
+
+44. [numeric, 3 pt] If the population in the Dalles in 1984 was 10500, calculate the period prevalence rate (per thousand persons).
+
+45. [numeric, 3 pt] What is the probability that a SRE case came from a Group 1 restaurant?
+
+46. [numeric, 3 pt] What are the odds that a SRE case came from a Group 1 restaurant?
+
+47. [frq, 4 pt] Given this information, is it possible to calculate the attack rate for Salmonellosis? If so, calculate the attack rate. If not, explain why.
+
+48. [frq, 4 pt] Restaurants were not clustered by geography, but cases appeared to be clustered by time. Cases eating at one of the ten Group I restaurants were mapped across time, starting on Sept. 9, 1984 until Oct. 6, 1986. Based upon this data, what are two conclusions that are supported by the data on this chart?
+    [IMAGE: ../images/2021_boyceville_mini_c__p13_b205e8-808cc762.webp]
+
+49. [frq, 1 pt] The local health authorities closed all salad bars after Sept. 25; what effect did this have on people reporting sickness with Salmonellosis?
+
+[STIMULUS] For all culture-confirmed cases, laboratory tests confirmed that all cases were infected with the same bacteria. Laboratory tests of the food recovered from several restaurants revealed that no one common food item was contaminated with S. enterica Typhimurium. In one restaurant, the blue cheese dressing was contaminated, but not any of its raw ingredients; in another restaurant, the lettuce leaves were contaminated, even though the same supplier provided uncontaminated lettuce to two other restaurants.
+
+At the close of the investigation, the field teams conducted a survey of the local restaurant environment, to look for probable sources of S. enterica Typhimurium. The local water supplies contained no detectable amounts of any bacteria. Most of the restaurants did not share suppliers or distributors, which also served larger portions of Washington and Oregon. Sanitary practices revealed some minor violations, where food handling was not properly conducted and one restaurant lacked any soap dispenser in the employee restroom; otherwise, no probable source of the bacteria which caused the outbreak could be found in the local area.
+
+50. [frq, 2 pt] Which step(s) of the outbreak investigation are described in this passage?
+
+51. [frq, 2 pt] What is the significance of noting the sanitary practices of the different restaurants?
+
+52. [frq, 2 pt] This case baffled epidemiologists for a whole year, since there was multiple contradictory evidence. Eventually, the common source was determined to be a vial containing the same Salmonella culture. How did the bacteria culture contaminate the salad bars in the restaurants?
+
+[STIMULUS] The following scenario/text will be used in Questions 53 to 65.
+
+Disease Detectives are baffled by a recent outbreak of mysterious violent gastroenteritis: several individuals from different states seemingly fell ill with the shockingly similar symptoms. Through some careful investigation, it is revealed that each individual participated in a business conference about a week ago in Madison, WI. Further inquiry revealed that a total of 27 individuals participated in the same conference; among that number, a total of 16 people became sick with the same disease. Among the sick, every person reported explosive diarrhea that persisted for a couple days and weight loss; many others also experienced loss of appetite (14), fatigue (14), nausea (12), and stomach cramps (12). Due to the closed nature of the business meeting, investigators were able to obtain complete records of the foods that were served during the business conference.
+
+53. [frq, 4 pt] Given the information from this case, what type of study design should the disease detectives use to determine the source of the mystery outbreak? Justify your selection.
+
+54. [frq, 5 pt] Among the first steps of the outbreak investigation is to establish a working case definition for the affected individuals. Using the information from the passage, develop a working case definition that fits the affected individuals.
+
+55. [numeric, 3 pt] For this scenario, calculate the cumulative incidence rate for sickness.
+
+56. [frq, 8 pt] After evaluating the different foods consumed at the conference, two individual dishes were clearly associated with the illness. The Disease Detectives collected additional information about who ate which dishes and who became ill as a result, shown here in the table to the right.
+    
+    | **Berry Dessert** | **Sick** | **Not Sick** |
+    |---|---|---|
+    | **Ate** | 14 | 1 |
+    | **Did not Eat** | 2 | 10 |
+    | **Pork Chops** | **Sick** | **Not Sick** |
+    | **Ate** | 9 | 0 |
+    | **Did not Eat** | 7 | 11 |
+    
+    Using the information provided, calculate the relative risk for each dish; then, determine which item was the probable source of the outbreak.
+
+57. [frq, 2 pt] What are two confounding effects that might have affected calculations of the relative risk in the previous question?
+
+58. [frq, 4 pt] Lab analysis of the dish containing the probable source revealed the presence of Cyclospora, a species of parasitic protozoans (Phylum Apicomplexa) known to cause severe gastrointestinal discomfort and diarrhea. After the revelation, the Disease Detectives returned to the stool samples collected from each participant. Of the affected persons, only 13 had viable stool samples available; of the remaining unaffected persons, only 6 volunteered stool samples. In conducting Cyclospora detection in the lab, 12 of the affected samples tested positive, and 1 of the unaffected samples tested positive (all other samples tested negative).
+    
+    Calculate the sensitivity and the specificity of the Cyclospora test in the given population.
+
+59. [frq, 4 pt] For the previous question, what is one limitation in calculating the true sensitivity or specificity of the Cyclospora detection test?
+
+60. [frq, 10 pt] Using the available information, apply the Bradford-Hill Criteria (for your convenience, they are listed here) to determine the validity of Cyclospora causality in this outbreak.
+    
+    Statistical Strength
+    Statistical Consistency
+    Specificity
+    Temporality
+    Biologic gradient
+    Plausibility
+    Coherence
+    Analogy
+    Experimental Evidence
+
+61. [frq, 3 pt] Cyclosporiasis is transmitted by direct ingestion of foods or drinks contaminated with Cyclospora, usually passed from another infected individual; known cases of direct human-to-human transfer have not been recorded. Given this information, what are three recommended next steps for the Disease Detectives in trying to control a potential wider outbreak of Cyclosporiasis?
+
+[STIMULUS] Questions 62 to 65 will use following information.
+
+| | **Stool sample tests negative for Cyclospora; Symptoms relieved** | **Stool sample tests positive for Cyclospora; Symptoms relieved** | **Stool sample tests negative for Cyclospora; No Symptom Relief** | **Stool sample tests positive for Cyclospora; No Symptom Relief** |
+|---|---|---|---|---|
+| **Placebo** | 5 | 9 | 3 | 63 |
+| **Experimental** | 28 | 8 | 34 | 10 |
+
+Fortunately, a pharmaceutical company just announced a promising new Cyclosporiasis treatment. Initial clinical trials included a double-blind study in which 160 participants, split randomly into 2 equal-sized groups, were delivered treatments Doctors were sent randomized treatment samples to administer to their patients. Doctors also administered treatments to relieve symptoms. After 2 weeks, the doctors reported the results back to the pharmaceutical company, which collated the data in the provided table:
+
+62. [frq, 6 pt] All 160 participants completed the clinical trial; no fatalities were observed in the experimental period.
+    
+    The random double-blind study is the "gold standard" in experimental epidemiology. What are three benefits of this study design?
+
+63. [frq, 1 pt] What approach was used in the study design for this trial?
+
+64. [frq, 12 pt] Assume the null hypothesis (H₀) indicates that the experimental treatment is equally effective at removing the pathogen (Stool sample tests negative for Cyclospora) as the placebo treatment. Using the risk ratio, determine if the experimental treatment is more effective than the placebo treatment (critical 𝞆² value = 3.84 where 𝛂 = 0.05).
+
+65. [frq, 12 pt] Assume the null hypothesis (H₀) indicates that the experimental treatment is equally effective at relieving Cyclosporiasis symptoms as the placebo treatment. Using the risk ratio, determine if the experimental treatment is more effective than the placebo treatment (critical χ² value = 3.84 where α = 0.05).

@@ -1,0 +1,90 @@
+Triton (UCSD) Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  28 questions, 89.0 pts
+Source: scio.ly test archive id 64bd20e9-80c4-4418-931e-62871c180a81  |  original files: https://drive.google.com/drive/folders/1ebGfMbno4w_onAaER4weiSiCK-v69662
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 25
+
+
+=== Part I: Introduction ===
+
+[STIMULUS] Epidemiology is the study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.¹
+
+P1-1. [frq, 2 pt] Given the definition of epidemiology, explain how epidemiology and the public health approach differs from the clinical approach.
+
+P1-2. [tf, 1 pt] True or False: The public health approach is completely separate from the clinical approach.
+    A) True
+    B) False
+
+P1-3. [tf, 1 pt] True or False: The only goal of public health is to control and stop outbreaks.
+    A) True
+    B) False
+
+P1-4. [frq, 4 pt] Determinants are any characteristics that affect the health of a population. Give two examples of **HOST** determinants.
+
+P1-5. [frq, 2 pt] Explain why a case definition must be created before counting potential cases in an outbreak.
+
+P1-6. [frq, 2 pt] A student wants to know the difference between primordial and primary prevention. As an epidemiologist, what would your answer be? Explain in two sentences or less.
+
+P1-7. [frq, 8 pt] Give an example of each level of prevention listed below.
+    a. Primordial
+    b. Primary
+    c. Secondary
+    d. Tertiary
+
+[STIMULUS] Identify a contribution that the following individuals listed below made towards the development of epidemiology.
+    | Label | Answer |
+    | a John Snow | [[q:P1-8a-a]] |
+    | b John Graunt | [[q:P1-8a-b]] |
+    | c William Farr | [[q:P1-8a-c]] |
+    | d Albert Sabin | [[q:P1-8a-d]] |
+    | e Richard Doll and Bradford Hill | [[q:P1-8a-e]] |
+
+P1-8a-a. [frq, 2 pt] Label a John Snow
+
+P1-8a-b. [frq, 2 pt] Label b John Graunt
+
+P1-8a-c. [frq, 2 pt] Label c William Farr
+
+P1-8a-d. [frq, 2 pt] Label d Albert Sabin
+
+P1-8a-e. [frq, 2 pt] Label e Richard Doll and Bradford Hill
+
+P1-8b. [frq, 2 pt] Explain the main purpose of Koch’s postulates in the field of epidemiology.
+
+
+=== Part II: Malaria ===
+
+[STIMULUS] Malaria is a serious, life-threatening disease endemic to tropical areas of the world, including sub-Saharan Africa, South America, and Southeast Asia. It is caused by a protozoan parasite, Plasmodium falciparum, and spread by mosquitoes. Once in the bloodstream, P. falciparum travels to the liver where it matures and reproduces in a dormant state. After a period of time, the parasite can then travel back into the bloodstream where it infects and kills red blood cells. This results in a time of onset of around 10-15 days. Symptoms of malaria include chills, fever (often in waves), sweating, fatigue, and pain in the abdomen or muscles. Annually, there are around 263 million cases of malaria globally with a prevalence of 60 cases per 1000 individuals. The mortality rate of malaria hovers around 14 deaths per 100,000 individuals with around 600 thousand deaths per year. There is no vaccine for malaria, however antimalarial treatments do exist. If treated properly and early enough, malaria can be cured.
+
+P2-II-1. [frq, 3 pt] When constructing a case definition, some information is more important to consider than others. List the details about malaria presented above that you would expect to find in a case definition of malaria.
+
+P2-II-2. [frq, 1 pt] What other information could be included in this case definition so that you can more readily identify people who have malaria?
+
+P2-II-4. [frq, 4 pt] Propose two interventions that could break the chain of transmission of malaria. Make sure to include which chain the intervention(s) are breaking.
+
+P2-II-5. [frq, 4 pt] Plasmodium falciparum are protozoa, which are eukaryotic organisms. Explain why malaria might be harder to treat than bacterial or viral diseases.
+
+P2-II-8. [frq, 3 pt] Identify the purpose(s) of utilizing a line listing in outbreak investigation.
+
+P2-II-11. [frq, 2 pt] Examining the epi-curve you just constructed, you are confused about a certain region with no cases. Explain why surveillance systems might not pick up any cases in a given time period, despite the fact that there clearly are cases.
+
+P2-II-12. [frq, 6 pt] List three prevention strategies that could curb the spread of this malaria outbreak.
+
+
+=== Part III: Choppedchinovirus Outbreak Investigation ===
+
+[STIMULUS] As an aspiring epidemiologist, you've been tasked with investigating a novel outbreak in a town in Egypt (this is where you also wanted to buy a property) that started on 12/24/24, when an increased amount of cases of food poisoning were reported to the local health department (and recorded). Symptoms include uncontrollable projectile vomiting, headaches, chills, diarrhea, fever, and the growth of a really sharp jawline. Local microbiologists have identified a new virus circulating in wastewater, which they have called Choppedchinovirus; related viruses are known to cause foodborne illnesses. The source of the food poisonings has also been traced back to the Rizzler restaurant, which has since been closed by the local health department.
+
+P3-III-2. [frq, 2 pt] Where would a line listing fall under the Steps in an Outbreak Investigation?
+
+P3-III-3. [frq, 4 pt] Using the information provided above, generate a hypothesis about the possible source of this outbreak.
+
+P3-III-4. [frq, 8 pt] Now that you have a hypothesis, you must find a way to evaluate and test your hypothesis. As such, studies must be done to evaluate these hypotheses. However, your friend is confused about the difference between observational and experimental studies. In one to two sentences, explain the difference between the two and list an example of each.
+
+P3-III-5. [frq, 2 pt] Identify the "gold standard" epidemiological study.
+
+P3-III-6. [frq, 2 pt] Explain why the gold standard epidemiological study cannot be used in this scenario and in many other epidemiological contexts in two sentences or less.
+
+P3-III-13. [frq, 2 pt] Choppedchinovirus is, as the name suggests, a viral disease. However, not all foodborne illnesses are caused by viruses. List two other pathogens that can cause foodborne illnesses.
+
+P3-III-14. [frq, 8 pt] Identify two sources of bias that could negatively affect the determination of the source of the choppedchinovirus outbreak. Explain what each bias entails for this outbreak.
+
+P3-III-15. [frq, 6 pt] Choppedchinovirus is a large, dsDNA virus that is surrounded by a protein coat, a cytoplasm-like layer, and a lipid envelope. Name these three components.

@@ -1,0 +1,260 @@
+North Pocono — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  76 questions, 130.0 pts
+Source: scio.ly test archive id ed5c16c1-6c0f-458e-93cd-be693de437dc  |  original files: https://drive.google.com/drive/folders/1JQtnblDF4pMtj_MNcx_GYjcLgtjiy0_E
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: The test consists of 50 questions. There are 3 marked Tie-Breakers that will be used in order to declare a winner of a tie. Good luck!
+
+1. [frq, 1 pt] The constant low frequency of a disease is known as a(n) ____.
+
+2. [frq, 1 pt] A well-defined group of people who have a common experience or exposure is the definition of a(n) ____.
+
+3. [frq, 1 pt] A localized epidemic – more cases of a particular disease than expected in a given area for a time – is known as a(n) ____.
+
+4. [frq, 1 pt] A complex of signs and symptoms that tend to occur together and often characterize a disease is called a(n) ____.
+
+5. [frq, 1 pt] A(n) ____ is a when a large number of people over a wider geographic are affected by a disease.
+
+6. [frq, 1 pt] A(n) ____ is a worldwide epidemic.
+
+7. [frq, 1 pt] A factor whose presence, excessive presence or deficiency is necessary for disease is known as a(n) ____.
+
+8. [frq, 1 pt] The frequency of occurrence of deaths in a defined population during a specific interval of time is the ____.
+
+9. [frq, 1 pt] The departure from a state of physical or psychological well-being is known as the ____.
+
+10. [frq, 1 pt] A study design that starts at a present exposure and moves forward in time to investigate the outcome is known as a ____ cohort study.
+
+11. [frq, 1 pt] Indirect transmission by a vector in which the infectious agent does not undergo physiologic changes inside the vector is called ____ transmission.
+
+12. [frq, 1 pt] ____ is any definable factor that affects a change in a health condition and refers to who, when, where, and why.
+
+13. [frq, 1 pt] ____ is the study of the cause or origin of a disease.
+
+14. [frq, 1 pt] A(n) ____ is an individual who is infected with a virus, bacteria, or other microorganism to an unusually large amount of people.
+
+15. [frq, 1 pt] An infection by microorganisms that can cause disease only when a host’s resistance is low is known as a(n) ____ pathogen.
+
+16. [frq, 13 pt] Name the 13 Steps of the Outbreak Investigation.
+
+[STIMULUS] At Jonas Salk High School, several students have recently contracted Norovirus. A few days ago, everyone was fine and showed no signs of illness. However, on Tuesday, Lauren came to school feeling great but after a few hours, she went to the nurse complaining of nausea, vomiting, fever, and abdominal cramps. The nurse asked Lauren what she ate at lunch the day before to which she responded a hamburger served by her favorite lunch lady--Jen. Unfortunately, Jen doesn't always remember to wash her hands after going to the bathroom and she was later determined to be an asymptomatic carrier of the Norovirus. Many other students who went through the hamburger line had reported similar symptoms as Lauren. Luckily, Lauren and the other students recovered and were back in school the next day; however, her favorite lunch lady, Jen, was let go from Jonas Salk High School Cafeteria.
+
+17. [frq, 12 pt] Using the passage below, describe the chain of infection for Norovirus at Jonas Salk High School.
+
+18. [frq, 1 pt] What vaccine did Jonas Salk discover and what university did he discover it at?
+
+19. [frq, 5 pt] What are the five steps of surveillance?
+
+20. [frq, 8 pt] What are the four types of surveillance? Name and describe them.
+
+[STIMULUS] Using the four types of surveillance you listed above, identify the following examples:
+
+21. [frq, 1 pt] A nursing home reporting an unusual number of elderly patients with unexplained rashes is considered ____ surveillance.
+
+22. [frq, 1 pt] Hospital admittance records describing patients with symptoms of rashes is considered ____ surveillance.
+
+23. [frq, 1 pt] The University of Pittsburgh is conducting random COVID-19 tests to its students as a form of ____ surveillance.
+
+24. [frq, 1 pt] Networks of private practitioners reporting cases of Measles is considered ____ surveillance.
+
+[STIMULUS] Use this image to answer questions 25-29.
+    [IMAGE: ../images/2021_north_pocono_c__p4_c086ba-c790d6f1.webp]
+
+25. [mcq, 1 pt] Number 1 in the image above is referring to what?
+    A) Pathological Change
+    B) Exposure
+    C) Usual Time of Diagnosis
+    D) Onset of Symptoms
+    E) Stage of Recovery, Disability, or Death
+
+26. [mcq, 1 pt] Number 2 in the image above is referring to what?
+    A) Onset of Symptoms
+    B) Exposure
+    C) Pathologic Changes
+    D) Stage of Recovery, Disability, or Death
+    E) Usual Time of Diagnosis
+
+27. [mcq, 1 pt] Number 3 in the image above is referring to what?
+    A) Onset of Symptoms
+    B) Exposure
+    C) Pathologic Changes
+    D) Usual Time of Diagnosis
+    E) Stage of Recovery, Disability, or Death
+
+28. [mcq, 1 pt] Number 4 in the image above is referring to what?
+    A) Pathologic Changes
+    B) Exposure
+    C) Onset of Symptoms
+    D) Stage of Recovery, Disability, or Death
+    E) Usual Time of Diagnosis
+
+29. [mcq, 1 pt] Number 5 in the image above is referring to what?
+    A) Usual Time of Diagnosis
+    B) Pathologic Changes
+    C) Stage of Recovery, Disability or Death
+    D) Onset of Symptoms
+
+30. [mcq, 1 pt] What is this epi-curve called?
+    [IMAGE: ../images/2021_north_pocono_c__p5_c9b280-4f3535a2.webp]
+    A) intermittent
+    B) point source with index case
+    C) continuous common source
+    D) propagated
+
+32. [mcq, 1 pt] What is this epi-curve called?
+    [IMAGE: ../images/2021_north_pocono_c__p6_da87eb-77c8b73e.webp]
+    A) Continuous common source
+    B) Intermittent
+    C) Propagated
+    D) Point source with index case
+
+33. [mcq, 1 pt] What is this epi-curve called?
+    [IMAGE: ../images/2021_north_pocono_c__p6_86e083-c9cf5c59.webp]
+    A) Propagated
+    B) Point source with index case
+    C) Intermittent
+    D) Continuous common source
+
+[STIMULUS] For questions 34-45, use the study below to answer the questions.
+
+On October 23, 2020, the Eatery hosted an event where they served hamburgers, popcorn shrimp, french fries, and grilled vegetables to its 1581 students. A total of 1120 students ate the hamburgers, 640 ate the popcorn shrimp, 1226 ate the french fries, and 718 ate the grilled vegetables. 2 days after the meal, 1037 students came down with symptoms of diarrhea, abdominal cramps, and vomiting. Of these 1037 students, 835 ate the hamburgers, 420 ate the popcorn shrimp, 986 ate the french fries, and 515 ate the grilled vegetables. These students went to the urgent care where they were diagnosed with E. coli O157:H7.
+
+34. [frq, 4 pt] Construct a case definition for the outbreak.
+
+[STIMULUS] For questions 34-45, use the study below to answer the questions.
+
+On October 23, 2020, the Eatery hosted an event where they served hamburgers, popcorn shrimp, french fries, and grilled vegetables to its 1581 students. A total of 1120 students ate the hamburgers, 640 ate the popcorn shrimp, 1226 ate the french fries, and 718 ate the grilled vegetables. 2 days after the meal, 1037 students came down with symptoms of diarrhea, abdominal cramps, and vomiting. Of these 1037 students, 835 ate the hamburgers, 420 ate the popcorn shrimp, 986 ate the french fries, and 515 ate the grilled vegetables. These students went to the urgent care where they were diagnosed with E. coli O157:H7.
+
+Fill in the values for the 2x2 table for the Hamburgers. Each blank corresponds to a row in the table. Format your answers as well, ill, total (so if 1 was well and 2 were ill, your answer will read: 1, 2, 3)
+
+Hamburger
+    |  | Well | Ill | Total |
+    | (Box 1) Ate | [[q:35a]] | [[q:35b]] | [[q:35c]] |
+    | (Box 2) Didn't eat | [[q:35d]] | [[q:35e]] | [[q:35f]] |
+    | (Box 3) Total | [[q:35g]] | [[q:35h]] | [[q:35i]] |
+
+35a. [numeric, 0.44 pt] (Box 1) Ate — Well
+
+35b. [numeric, 0.44 pt] (Box 1) Ate — Ill
+
+35c. [numeric, 0.44 pt] (Box 1) Ate — Total
+
+35d. [numeric, 0.44 pt] (Box 2) Didn't eat — Well
+
+35e. [numeric, 0.44 pt] (Box 2) Didn't eat — Ill
+
+35f. [numeric, 0.44 pt] (Box 2) Didn't eat — Total
+
+35g. [numeric, 0.44 pt] (Box 3) Total — Well
+
+35h. [numeric, 0.44 pt] (Box 3) Total — Ill
+
+35i. [numeric, 0.48 pt] (Box 3) Total — Total
+
+[STIMULUS] For questions 34-45, use the study below to answer the questions.
+
+On October 23, 2020, the Eatery hosted an event where they served hamburgers, popcorn shrimp, french fries, and grilled vegetables to its 1581 students. A total of 1120 students ate the hamburgers, 640 ate the popcorn shrimp, 1226 ate the french fries, and 718 ate the grilled vegetables. 2 days after the meal, 1037 students came down with symptoms of diarrhea, abdominal cramps, and vomiting. Of these 1037 students, 835 ate the hamburgers, 420 ate the popcorn shrimp, 986 ate the french fries, and 515 ate the grilled vegetables. These students went to the urgent care where they were diagnosed with E. coli O157:H7.
+
+Fill in the values for the 2x2 table for the Popcorn Shrimp. Each blank corresponds to a row in the table. Format your answers as well, ill, total (so if 1 was well and 2 were ill, your answer will read: 1, 2, 3)
+
+Popcorn Shrimp
+    |  | Well | Ill | Total |
+    | (Box 1) Ate | [[q:36a]] | [[q:36b]] | [[q:36c]] |
+    | (Box 2) Didn't eat | [[q:36d]] | [[q:36e]] | [[q:36f]] |
+    | (Box 3) Total | [[q:36g]] | [[q:36h]] | [[q:36i]] |
+
+36a. [numeric, 0.44 pt] (Box 1) Ate — Well
+
+36b. [numeric, 0.44 pt] (Box 1) Ate — Ill
+
+36c. [numeric, 0.44 pt] (Box 1) Ate — Total
+
+36d. [numeric, 0.44 pt] (Box 2) Didn't eat — Well
+
+36e. [numeric, 0.44 pt] (Box 2) Didn't eat — Ill
+
+36f. [numeric, 0.44 pt] (Box 2) Didn't eat — Total
+
+36g. [numeric, 0.44 pt] (Box 3) Total — Well
+
+36h. [numeric, 0.44 pt] (Box 3) Total — Ill
+
+36i. [numeric, 0.48 pt] (Box 3) Total — Total
+
+[STIMULUS] For questions 34-45, use the study below to answer the questions.
+
+On October 23, 2020, the Eatery hosted an event where they served hamburgers, popcorn shrimp, french fries, and grilled vegetables to its 1581 students. A total of 1120 students ate the hamburgers, 640 ate the popcorn shrimp, 1226 ate the french fries, and 718 ate the grilled vegetables. 2 days after the meal, 1037 students came down with symptoms of diarrhea, abdominal cramps, and vomiting. Of these 1037 students, 835 ate the hamburgers, 420 ate the popcorn shrimp, 986 ate the french fries, and 515 ate the grilled vegetables. These students went to the urgent care where they were diagnosed with E. coli O157:H7.
+
+Fill in the values for the 2x2 table for the French Fries. Each blank corresponds to a row in the table. Format your answers as well, ill, total (so if 1 was well and 2 were ill, your answer will read: 1, 2, 3)
+
+French Fries
+    |  | Well | Ill | Total |
+    | (Box 1) Ate | [[q:37a]] | [[q:37b]] | [[q:37c]] |
+    | (Box 2) Didn't eat | [[q:37d]] | [[q:37e]] | [[q:37f]] |
+    | (Box 3) Total | [[q:37g]] | [[q:37h]] | [[q:37i]] |
+
+37a. [numeric, 0.44 pt] (Box 1) Ate — Well
+
+37b. [numeric, 0.44 pt] (Box 1) Ate — Ill
+
+37c. [numeric, 0.44 pt] (Box 1) Ate — Total
+
+37d. [numeric, 0.44 pt] (Box 2) Didn't eat — Well
+
+37e. [numeric, 0.44 pt] (Box 2) Didn't eat — Ill
+
+37f. [numeric, 0.44 pt] (Box 2) Didn't eat — Total
+
+37g. [numeric, 0.44 pt] (Box 3) Total — Well
+
+37h. [numeric, 0.44 pt] (Box 3) Total — Ill
+
+37i. [numeric, 0.48 pt] (Box 3) Total — Total
+
+38. [frq, 4 pt] Fill in the values for the 2x2 table for the Grilled Vegetables. Each blank corresponds to a row in the table. Format your answers as well, ill, total (so if 1 was well and 2 were ill, your answer will read: 1, 2, 3)
+    
+    Grilled Vegetables
+    
+    | | Well | Ill | Total |
+    |---|---|---|---|
+    | (Box 1) Ate | [[q:38-1]] | [[q:38-2]] | [[q:38-3]] |
+    | (Box 2) Didn't eat | [[q:38-4]] | [[q:38-5]] | [[q:38-6]] |
+    | (Box 3) Total | [[q:38-7]] | [[q:38-8]] | [[q:38-9]] |
+
+39. [numeric, 2 pt] Calculate the Relative Risk for the hamburgers. Round to two decimal places.
+
+40. [numeric, 2 pt] Calculate the Relative Risk for the shrimp. Round to two decimal places.
+
+41. [numeric, 2 pt] Calculate the Relative Risk for the french fries. Round to two decimal places.
+
+42. [numeric, 2 pt] Calculate the Relative Risk for the grilled vegetables. Round to two decimal places.
+
+43. [frq, 2 pt] Based on your relative risk calculated above, which food is responsible for this outbreak? Justify your answer by interpreting the relative risk value you calculated above.
+
+44. [frq, 2 pt] Explain why foods in this study may have a high relative risk, but not be the source of E. coli O157:H7. Be sure to identify the specific food(s) you are referring to in your answer.
+
+45. [frq, 4 pt] Is this study a cross-sectional, case-control, cohort, or experimental study? How do you know?
+
+46. [frq, 10 pt] Name and describe the 5 levels of disease prevention
+
+[STIMULUS] Using the passage below, answer questions 47-50.
+
+A rapid SARS-CoV-2 antigen test is one of many ways to establish the diagnosis of a COVID-19 infection. The test involves a nasopharyngeal swab being introduced into both nostrils and placed in a vial with buffer. Suppose this test is 75% sensitive and 65% specific, and suppose the prevalence of Coronavirus in a population is 25%.
+
+47. [frq, 4 pt] In the table below, estimate the results of the test if you administer the antigen tests to 1000 people from the population. Each row corresponds to a box. Please format your answer as: disease, no disease (so if 1 person has the disease and 2 do not, your answer will be: 1, 2). Round to the nearest whole number.
+    
+    | | Disease | No Disease |
+    |---|---|---|
+    | (Box 1) Positive Test | [[q:47-1]] | [[q:47-2]] |
+    | (Box 2) Negative Test | [[q:47-3]] | [[q:47-4]] |
+
+48. [numeric, 2 pt] Calculate the positive predictive value (PPV) of the test. Round to three decimal points.
+
+49. [numeric, 2 pt] Calculate the negative predictive value (NPV) of the test. Round to three decimal points.
+
+50. [frq, 4 pt] Interpret your calculations for PPV and NPV.
+
+51. [frq, 4 pt] How is prevalence of the disease related to the PPV and NPV of a test?
+
+52. [frq, 1 pt] Who is the current director of the CDC? (First and Last Name)
+
+53. [frq, 1 pt] Name 2 animals that have coronaviruses similar to the human coronavirus.

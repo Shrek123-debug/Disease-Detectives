@@ -1,0 +1,423 @@
+University of Michigan Invitational - MI — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  111 questions, 180.0 pts
+Source: scio.ly test archive id fa37047c-5bd2-4bc6-9e69-2dab17daca08
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 16
+
+DIRECTIONS: For “select all that apply” questions, scoring is all-or-nothing.
+
+
+=== Case Study A: There’s Something in the Water ===
+
+[STIMULUS] Discovery of pathogens through wastewater testing has been an epidemiological precedent since the 1800s.
+
+P1-1a. [frq, 1 pt] Which epidemiologist identified the spread of disease from the Broad Street pump in Soho, London?
+
+P1-1b. [frq, 1 pt] Which visual aid did that scientist pioneer the use of?
+
+P1-1c. [mcq, 1 pt] Select the disease responsible for the outbreak described above.
+    A) Typhoid
+    B) Cholera
+    C) Legionnaires’ disease
+    D) Dysentery
+
+P1-1d. [multi, 2 pt] If an investigator becomes ill after contact with wastewater, which mode(s) of transmission describe the disease? Select all that apply.
+    A) Direct
+    B) Droplet
+    C) Indirect
+    D) Vehicleborne
+    E) Contact
+    F) Mechanical vector
+    G) Airborne
+    H) Biological vector
+
+P1-1e. [frq, 2 pt] Which type of surveillance does wastewater testing fall under?
+
+P1-1f. [frq, 1 pt] Name the agency that oversees wastewater monitoring in the United States.
+
+P1-1g. [frq, 2 pt] Identify the level of prevention that wastewater testing generally falls under.
+
+P1-1h. [frq, 2 pt] H3N2 particles are detected in the Huron River. Thus, a patient in the region must, at minimum, be in which stage of the natural history of disease?
+
+P1-1i. [frq, 2 pt] The flu particles have most likely just completed which stage of the chain of infection to enter the waterway?
+
+[STIMULUS] One major limitation of wastewater testing is the distance between sampling sites and laboratories for analysis. To address this, a September 2025 study compared how well a portable nanoparticle modified polymerase chain reaction (RT-RPA) test detected SARS-CoV-2 particles compared to the gold-standard RT-qPCR (Huang et al.). A relevant table is reproduced below.
+
+| RT-qPCR | + | - |
+|---|---|---|
+| RT-RPA + | 39 | 0 |
+| RT-RPA - | 2 | 21 |
+
+P1-2a. [mcq, 1 pt] Is this study assessing the efficacy or effectiveness of the two materials?
+    A) Efficacy
+    B) Effectiveness
+
+P1-2b. [frq, 3 pt] Calculate the sensitivity of the test to two decimal places.
+
+P1-2c. [frq, 1 pt] The study also used a receiver operating characteristic (ROC) curve, which plots the true positive rate against the false positive rate. Based on this information, which axis represents sensitivity?
+
+P1-2d. [frq, 3 pt] Calculate the negative predictive value of the test to two decimal places.
+
+P1-2e. [mcq, 1 pt] Does this assessment of SARS-CoV-2 presence fall under the clinical or public health approach to healthcare?
+    A) Clinical
+    B) Public health
+
+
+=== Case Study B: Marburg Outbreak ===
+
+[STIMULUS] On November 17, 2025, Ethiopia, a country of 132.1 million people, confirmed an ongoing Marburg virus outbreak. The virus has high fatality rates and, like the related Ebolavirus, is highly infectious and pathogenic, with an average incubation period of 5–10 days. Illness is marked by flu-like symptoms and severe hemorrhaging. At the time of the announcement, there were 17 suspected cases and three deaths. Information regarding selected patients is shown below.
+
+| ID | Sex | Age | Symptoms | ELISA IgM |
+|---|---|---|---|---|
+| 1 | F | 36 | Muscle aches, unexplainable bleeding | Processing |
+| 2 | F | 51 | Sore throat, muscle aches, bloodshot eyes | + |
+| 3 | M | 67 | Chest rash, severe headache, muscle aches | + |
+| 4 | F | 28 | Severe headache, high fever, internal bleeding | Not tested |
+| 5 | M | 22 | Muscle aches, bloodshot eyes, diffuse rash | - |
+
+P2-3a. [frq, 1 pt] What is the specific type of table shown called?
+
+P2-3b. [frq, 2 pt] Why is the terminology “outbreak” used despite the relatively low number of cases?
+
+P2-3c. [mcq, 1 pt] Does Marburg virus have a high or low virulence?
+    A) High
+    B) Low
+
+P2-3e. [frq, 4 pt] Construct a working case definition for this outbreak. Be as specific as possible.
+
+[STIMULUS] Classify each of the cases in the table according to the working case definition.
+    | Label | Answer |
+    | 1 | [[q:P2-3f-1]] |
+    | 2 | [[q:P2-3f-2]] |
+    | 3 | [[q:P2-3f-3]] |
+    | 4 | [[q:P2-3f-4]] |
+    | 5 | [[q:P2-3f-5]] |
+
+P2-3f-1. [frq, 1 pt] Label 1
+
+P2-3f-2. [frq, 1 pt] Label 2
+
+P2-3f-3. [frq, 1 pt] Label 3
+
+P2-3f-4. [frq, 1 pt] Label 4
+
+P2-3f-5. [frq, 1 pt] Label 5
+
+P2-3g. [frq, 4 pt] Assume all of the suspected cases are eventually confirmed. Compute the case fatality rate for the outbreak.
+
+P2-3h. [frq, 2 pt] The reported fatality rate was 88%. Based on the natural history and spectrum of disease, why does the observed fatality rate make sense?
+
+P2-3i. [frq, 2 pt] Health professionals are recommended to avoid exposure to contaminated bodily fluids. Identify the most likely mode of transmission for Marburg virus.
+
+P2-3j. [frq, 2 pt] Subrecommendations indicate that soiled bedsheets are also to be avoided. In the context of disease transmission, what role do the sheets serve?
+
+[STIMULUS] Viral transmission is a popular candidate for compartmental modeling because of its intrinsically dynamic behavior — cases are relatively easily categorized into healthy, ill, and recovered. Consider the SIR model, as shown, where S represents the susceptible population, I represents the infected population, and R represents the recovered or “removed” population. N is the sum of these three groups. β and γ are constants.
+
+dS/dt = −β/N IS,
+dI/dt = β/N IS − γI,
+dR/dt = γI
+
+P2-4a. [mcq, 1 pt] If the second equation represents the change in the number of infected individuals, which of the following statements is true as an outbreak begins?
+    A) β < γ
+    B) β = γ
+    C) β > γ
+
+P2-4b. [frq, 5 pt] Derive an expression in terms of β and γ for the average number of people getting infected early on in an outbreak. Show your work, which should include five steps that simplify to an inequality setting the final expression greater than 1.
+
+P2-4c. [frq, 2 pt] Should epidemiologists expect the rate of infection to increase as an outbreak progresses? Give one brief reason.
+
+P2-5a. [frq, 1 pt] What stage of prevention do vaccines typically fall under?
+
+P2-5bi. [frq, 1 pt] For Marburg virus, 1.6 secondary cases arise, on average, from a single case. What is the name for this number?
+
+P2-5bii. [frq, 2 pt] Why is this value for diseases rarely below 1?
+
+P2-5biii. [frq, 2 pt] What is the herd immunity threshold for Marburg virus?
+
+P2-5ci. [frq, 2 pt] Suppose the vaccine currently in clinical trials has an efficacy of 78%. A common benchmark for vaccine efficacy is 95%. Which quantity would have to decrease in the study for the Marburg vaccine efficacy to increase? Include what that value measures in the study.
+
+
+=== Case Study C: Inexorably Joined in an Unholy Meat Obelisk ===
+
+[STIMULUS] **Introduction** Food processing has been hypothesised to play a role in cancer development; however, data from large-scale epidemiological studies are scarce. This study investigated the association between dietary intake according to the amount of food processing and risk of cancer at 25 anatomical sites using data from the European Prospective Investigation into Cancer and Nutrition (EPIC) study.
+
+**Methods** This study used data from EPIC which recruited participants between March 18, 1991, and July 2, 2001, from 23 centres in ten European countries. Participant eligibility was based on geographical or administrative boundaries. Participants were excluded if they had a cancer diagnosis before recruitment, had missing information for the NOVA food processing classification, or were within the top and bottom 1% for ratio of energy intake to energy requirement. Validated dietary questionnaires were used to obtain information on food and drink consumption. Participants with cancer were identified using cancer registries or during follow-up from a combination of sources, including cancer and pathology centres, health insurance records, and active follow-up of participants. We performed a substitution analysis to assess the effect of replacing 10% of processed foods and ultra-processed foods with 10% of minimally processed foods on cancer risk at 25 anatomical sites using Cox proportional hazard models.
+
+**Findings** 521324 participants were recruited into EPIC, and 450111 were included in this analysis (318686 [70·8%] participants were female individuals and 131425 [29·2%] were male individuals). In a multivariate model adjusted for sex, smoking, education, physical activity, height, and diabetes, a substitution of 10% of processed foods with an equal amount of minimally processed foods was associated with reduced risk of overall cancer (hazard ratio 0·96, 95% CI 0·95–0·97), head and neck cancers (0·80, 0·75–0·85), oesophageal squamous cell carcinoma (0·57, 0·51–0·64), colon cancer (0·88, 0·85–0·92), rectal cancer (0·90, 0·85–0·94), hepatocellular carcinoma (0·77, 0·68–0·87), and postmenopausal breast cancer (0·93, 0·90–0·97). The substitution of 10% of ultra-processed foods with 10% of minimally processed foods was associated with a reduced risk of head and neck cancers (0·80, 0·74–0·88), colon cancer (0·93, 0·89–0·97), and hepatocellular carcinoma (0·73, 0·62–0·86). Most of these associations remained significant when models were additionally adjusted for BMI, alcohol and dietary intake, and quality. This study suggests that the replacement of processed and ultra-processed foods and drinks with an equal amount of minimally processed foods might reduce the risk of various cancer types.
+
+P3-6a. [frq, 2 pt] What study design was used in this example? Be as specific as possible.
+
+P3-6b. [frq, 1 pt] What is the appropriate measure of association for the study?
+
+P3-6c. [frq, 4 pt] Interpret the given confidence interval for hepatocellular carcinoma when 10% of ultra-processed foods are substituted with 10% of minimally processed foods.
+
+P3-6d. [frq, 2 pt] What type of prevention is the intervention described in the text referring to?
+
+P3-6e. [frq, 4 pt] From the perspective of public health action at the statewide level, there are myriad preventive strategies that could be derived from this finding. Insurers support the implementation of some revisions to secondary prevention, while primary healthcare providers advocate for more wide-ranging, accessible prevention strategies. Provide one example of both.
+
+P3-6f. [frq, 2 pt] Explain the difference between statistical significance and public health significance in the context of this study. Include the effect of sample size
+
+P3-6h. [frq, 1 pt] Levels of food processing in this study were defined by the NOVA scale, which ranges from 1-4 with 1 being the least processed and 4 being the most. What type of scale does this represent?
+
+P3-6i. [frq, 1 pt] What type of surveillance system best describes routine linkage of cancer cases to national/international registries?
+
+P3-6j. [frq, 4 pt] Can the epidemiological triad still apply to chronic diseases? If not, explain why. If so, evaluate the different components as it pertains to this study.
+
+P3-6m. [frq, 1 pt] Secondary prevention is crucial for early detection of cancer and minimization of potential harm. During which stage of the natural history of disease is secondary prevention attempting to detect illness?
+
+P3-7a-i. [frq, 1 pt] The Bradford Hill Criteria is helpful for determining causation of disease. However, certain criteria cannot always be used. Identify a case where the following listed criterion cannot be used.
+    
+    i. Experiment
+
+P3-7a-ii. [frq, 1 pt] The Bradford Hill Criteria is helpful for determining causation of disease. However, certain criteria cannot always be used. Identify a case where the following listed criterion cannot be used.
+    
+    ii. Dose-response gradient
+
+[STIMULUS] Some Bradford-Hill criteria can be adapted to aid evaluation with the GRADE approach. For each of the criteria listed, answer with (a) what the criteria could look like in a GRADE approach and (b) what results mean for the conclusions of a GRADE analysis.
+
+i. Temporality
+    | Label | Answer |
+    | a what the criteria could look like in a GRADE approach | [[q:P3-7b-i-a]] |
+    | b what results mean for the conclusions of a GRADE analysis | [[q:P3-7b-i-b]] |
+
+P3-7b-i-a. [frq, 1 pt] Label a what the criteria could look like in a GRADE approach
+
+P3-7b-i-b. [frq, 1 pt] Label b what results mean for the conclusions of a GRADE analysis
+
+[STIMULUS] Some Bradford-Hill criteria can be adapted to aid evaluation with the GRADE approach. For each of the criteria listed, answer with (a) what the criteria could look like in a GRADE approach and (b) what results mean for the conclusions of a GRADE analysis.
+
+ii. Consistency
+    | Label | Answer |
+    | a what the criteria could look like in a GRADE approach | [[q:P3-7b-ii-a]] |
+    | b what results mean for the conclusions of a GRADE analysis | [[q:P3-7b-ii-b]] |
+
+P3-7b-ii-a. [frq, 1 pt] Label a what the criteria could look like in a GRADE approach
+
+P3-7b-ii-b. [frq, 1 pt] Label b what results mean for the conclusions of a GRADE analysis
+
+[STIMULUS] Answer the following subparts about the figure below, which partially reproduces information found in the previous study to show processed food and cancer as the exposure and outcome, respectively.
+    [IMAGE: ../images/2026_university_of_michigan_invitational_mi_b_c__p11_6245c8-a6468140.webp]
+
+P3-7c-i. [multi, 2 pt] Select all of the following variables that are confounders.
+    A) Race
+    B) High BMI
+    C) Chronic inflammation
+    D) Alcohol
+
+P3-7c-ii. [frq, 2 pt] Identify the competing exposure(s).
+
+P3-7c-iii. [frq, 3 pt] Suppose researchers run a regression relating cancer (C) to chronic inflammation (I) and alcohol (A) as follows: C ∼ βI + γA. What does the coefficient β quantify?
+
+P3-7c-iv. [frq, 1 pt] There is a fallacy where the coefficient γ may be interpreted in the same manner as β. What is it called?
+
+P3-7c-v. [frq, 2 pt] For the original EPIC study, which epidemiological ratio, risk, or proportion best aligns with the meaning of the coefficient β?
+
+P3-7c-vi. [frq, 2 pt] In the context of the natural history and progression of disease, why are DAGs necessarily acyclic?
+
+
+=== Case Study D: Listeria? I Hardly Even Know 'Er! ===
+
+[STIMULUS] A product supplied by Nate's Fine Foods, Inc. tested positive for Listeria monocytogenes in September 2025. After some of these products were served at an internal Fishigan Science Olympiad event, its organizers decided to conduct a study to confirm the source of the outbreak. Out of the 50 people who attended the event, 34 became ill. Investigators were nevertheless able to quickly contact attendees to ask what they ate at the event. Their data are reproduced below.
+
+| Item | Healthy | Ill |
+|---|---|---|
+| Shrimp scampi pasta | 6 | 23 |
+| Fish tacos | 15 | 1 |
+| Cheese pizza | 16 | 5 |
+| Caesar salad | 14 | 33 |
+| Chorizo burgers | 12 | 2 |
+| Pink lemonade | 15 | 27 |
+
+P4-8a. [frq, 1 pt] Which study design was used?
+
+P4-8c. [frq, 3 pt] Interpret the meaning of the measure of risk for shrimp scampi pasta.
+
+P4-9a-i. [frq, 2 pt] Based on these results, Fishigan Science Olympiad runs some tests. The first test is the gold standard of bacterial typing, pulsed-field gel electrophoresis (PFGE).
+    
+    Which feature of PFGE is responsible for its relatively high resolution?
+
+P4-9b-i. [frq, 1 pt] To obtain more accurate results, the team turns towards whole-genome sequencing. The lab that performs the sequencing turns over its data through a standardized system to federal authorities. What is this system called?
+
+P4-9c. [frq, 2 pt] Which features of the sequenced genome can be used to trace related outbreaks?
+
+[STIMULUS] Shrimp scampi pasta was eventually identified as home to significant levels of L. monocytogenes. On the other hand, Caesar salad had no detectable colonies present.
+
+P4-10a. [frq, 1 pt] What role does the pasta serve in the chain of infection?
+
+P4-10b. [frq, 1 pt] What role does the pasta serve in the context of Listeria transmission?
+
+P4-10c. [frq, 2 pt] Assuming the tests were completely accurate, what could explain the relative strengths of association between the pasta and salad?
+
+[STIMULUS] Event organizers created histograms of cases over the timeframe of the outbreak.
+    [IMAGE: ../images/2026_university_of_michigan_invitational_mi_b_c__p14_a1b045-fabd625c.webp]
+
+P4-11a. [mcq, 1 pt] Which epi curve (a–d) best represents the expected shape of this outbreak?
+    A) a
+    B) b
+    C) c
+    D) d
+
+[STIMULUS] Identify each of the epi curve forms.
+    | Label | Answer |
+    | a | [[q:P4-11b-a]] |
+    | b | [[q:P4-11b-b]] |
+    | c | [[q:P4-11b-c]] |
+    | d | [[q:P4-11b-d]] |
+
+P4-11b-a. [frq, 1 pt] Label a
+
+P4-11b-b. [frq, 1 pt] Label b
+
+P4-11b-c. [frq, 1 pt] Label c
+
+P4-11b-d. [frq, 1 pt] Label d
+
+P4-11c. [frq, 1 pt] What is the terminology for disease frequencies that can be modeled by curve c?
+
+[STIMULUS] Identify the incubation periods for all curves. Give answers as a single length, not a range. If finding the incubation period is not possible, write "N/A".
+    | Label | Answer |
+    | a | [[q:P4-11d-a]] |
+    | b | [[q:P4-11d-b]] |
+    | c | [[q:P4-11d-c]] |
+    | d | [[q:P4-11d-d]] |
+
+P4-11d-a. [frq, 1 pt] Label a
+
+P4-11d-b. [frq, 1 pt] Label b
+
+P4-11d-c. [frq, 1 pt] Label c
+
+P4-11d-d. [frq, 1 pt] Label d
+
+P4-11e. [frq, 2 pt] Provide an example of a disease that could produce the pattern observed in curve a.
+
+P4-12a. [frq, 2 pt] Use the previous information to partially construct a GRADE evidence profile for a recommendation relevant to this case study.
+    
+    Identify the most likely evidence-based recommendation that results from this outbreak.
+
+[STIMULUS] Designate each of the following burdens of the outcomes as assumed or corresponding risks.
+
+P4-12b-ii. [mcq, 1 pt] Measure of risk listed in retrospective summary of outbreak
+    A) Assumed
+    B) Corresponding
+
+P4-12b-iii. [mcq, 1 pt] Measure of risk for consuming shrimp scampi pasta at Fishigan SO event
+    A) Assumed
+    B) Corresponding
+
+
+=== Case Study E: American Policy Is a Flat Circle ===
+
+[STIMULUS] Epidemiology is, at its core, the confluence of statistics, biology, and bureaucracy. Enjoy the following brief and highly oversimplified introductions to three American scourges of varying historical significance.
+
+**File 1: Fleas on California Ground Squirrels or Whatever That Song Said**
+
+P5-13b-i. [frq, 1 pt] Identify which Bradford-Hill criterion is met by each description.
+    i. Cases of the bubonic plague in Hong Kong follow an identical natural history to cases in San Francisco.
+
+P5-13b-ii. [frq, 1 pt] Identify which Bradford-Hill criterion is met by each description.
+    ii. Murine typhus is connected to fleas in the western seaboard of the U.S.
+
+P5-13b-iii. [frq, 1 pt] Identify which Bradford-Hill criterion is met by each description.
+    iii. Plague transmission from fleas is hypothesized to occur via biofilm-induced regurgitation.
+
+P5-13c. [frq, 1 pt] What role does the flea serve in the context of disease transmission?
+
+P5-13d-i. [frq, 1 pt] Joseph Kinyoun, who had earlier directed the United States Hygienic Laboratory that preceded the NIH, ran a quarantine station in San Francisco Bay.
+    i. Identify the single feature that distinguishes quarantine from isolation.
+
+P5-13d-ii. [frq, 1 pt] Joseph Kinyoun, who had earlier directed the United States Hygienic Laboratory that preceded the NIH, ran a quarantine station in San Francisco Bay.
+    ii. For ships with deceased crew members or stowaways, postmortem cultures confirmed disease. Which scientist would argue this is evidence for causation?
+
+P5-13d-iv. [multi, 1 pt] Joseph Kinyoun, who had earlier directed the United States Hygienic Laboratory that preceded the NIH, ran a quarantine station in San Francisco Bay.
+    iv. Which of the following values is appropriate to determine the length of a quarantine? Select all that apply.
+    A) Incubation period
+    B) Duration of the stage of subclinical disease
+    C) Prodromal period
+    D) Infectious period
+    E) Duration of the stage of clinical disease
+    F) Time until diagnosis
+
+[STIMULUS] **File 2: C. Everett Koop, Anthony Fauci, and Angels in America Walk Into the Senate**
+
+America's HIV/AIDS epidemic began in the 1980s and continues to the present. Due to a series of staggering policy failures at the federal level and popular misinformation on its spread, the disease proliferated in marginalized populations. Use the extremely simplified directed acyclic graphs below to answer the following parts.
+    [IMAGE: ../images/2026_university_of_michigan_invitational_mi_b_c__p17_197815-c6e5a35b.webp]
+
+P5-14b. [frq, 2 pt] Following initial symptomatic infection, HIV undergoes periods of dormancy. How does this violate the conventional natural history of disease?
+
+P5-14c. [frq, 2 pt] For students, the HIV epidemic is an excellent mathematical simplification of the SIR model. What characteristic of the natural history of HIV lends itself to this?
+
+[STIMULUS] Consider the graph on the right.
+    | Label | Answer |
+    | PEP Which type of prevention is PEP? | [[q:P5-14d-a]] |
+    | PrEP What about PrEP? | [[q:P5-14d-b]] |
+
+P5-14d-a. [frq, 1 pt] Label PEP Which type of prevention is PEP?
+
+P5-14d-b. [frq, 1 pt] Label PrEP What about PrEP?
+
+P5-14f. [frq, 1 pt] AZT stops HIV from replicating. What type of prevention is this?
+
+P5-14g-i. [frq, 1 pt] Surgeon General of the Reagan administration C. Everett Koop released a 36-page report recommending a few key prevention methods. As they are listed below, identify the type of prevention they fall under.
+    i. Educating students as young as third grade on HIV transmission
+
+P5-14g-ii. [frq, 1 pt] Surgeon General of the Reagan administration C. Everett Koop released a 36-page report recommending a few key prevention methods. As they are listed below, identify the type of prevention they fall under.
+    ii. Confidential testing for marginalized groups such as queer, drug-using, and racial minority populations
+
+P5-14g-iv. [frq, 1 pt] Surgeon General of the Reagan administration C. Everett Koop released a 36-page report recommending a few key prevention methods. As they are listed below, identify the type of prevention they fall under.
+    iv. Practicing safe sex
+
+P5-14g-v. [frq, 1 pt] Surgeon General of the Reagan administration C. Everett Koop released a 36-page report recommending a few key prevention methods. As they are listed below, identify the type of prevention they fall under.
+    v. Koop notably did not include the idea to create a national registry of individuals diagnosed with AIDS, popular among the president's advisors. Taking the registry as a survey study, which bias would it likely suffer?
+
+P5-14g-vi. [frq, 2 pt] Surgeon General of the Reagan administration C. Everett Koop released a 36-page report recommending a few key prevention methods. As they are listed below, identify the type of prevention they fall under.
+    vi. Suppose the registry aimed to show the distribution of AIDS diagnoses across the country. Which type of data representation is most appropriate?
+
+P5-14h. [frq, 3 pt] Note that the graph on the right represents prevention strategies, not causative factors. What is the relationship between types of strategies and the ancestors of HIV prevention? What is the significance of the amount of children each node has?
+
+[STIMULUS] **File 3: A Basket Full of Puppies**
+
+As much as epidemiology relies on empirical scientific principles, it is also defined by its policymaking.
+
+P5-15a. [frq, 1 pt] Provide the name that completes the tag Secretary of the Department of Health and Human Services (A).
+    [IMAGE: ../images/2026_university_of_michigan_invitational_mi_b_c__p15_rc66fa2b-9c8615ff.webp]
+
+P5-15b. [frq, 1 pt] Which Atlanta-based agency fills in label (B)? Provide its full name, not an acronym.
+
+P5-15c. [frq, 1 pt] The two data types listed at the bottom of the tree are collected as workplaces and hospitals submit data to the state. Which type of surveillance is this?
+
+P5-15d. [frq, 2 pt] However, some diseases and conditions are required to be reported directly to Agency **B** itself. Which system facilitates this?
+
+P5-15e. [frq, 2 pt] Suppose the state hopes to identify cases of a rare disease that has characteristic signs. Which type of surveillance should be used?
+
+P5-15f. [frq, 2 pt] A widespread outbreak has occurred. To reduce the total amount of data received, which type of surveillance should the state implement?
+
+P5-15g-i. [frq, 4 pt] Suppose Agency **B** analyzes some data and creates the following outbreak case definition: Previously healthy individuals who have, in the past two weeks, developed either eschar and skin lesions or pneumonia and respiratory dysfunction following exposure to material shipped to the United States containing anthrax toxin. Either culture of Bacillus spp. producing anthrax toxin or significant antibody titers are acceptable confirmatory lab results.
+    
+    Name the three components of the descriptive triad and pair them each with the corresponding details of the case definition.
+
+P5-15g-ii. [frq, 6 pt] Suppose Agency **B** analyzes some data and creates the following outbreak case definition: Previously healthy individuals who have, in the past two weeks, developed either eschar and skin lesions or pneumonia and respiratory dysfunction following exposure to material shipped to the United States containing anthrax toxin. Either culture of Bacillus spp. producing anthrax toxin or significant antibody titers are acceptable confirmatory lab results.
+    
+    Surveillance case definitions differ slightly from the example above. List the three classifications a surveillance case definition would include and their likely descriptions for this case study.
+
+P5-15g-iii. [frq, 1 pt] Suppose Agency **B** analyzes some data and creates the following outbreak case definition: Previously healthy individuals who have, in the past two weeks, developed either eschar and skin lesions or pneumonia and respiratory dysfunction following exposure to material shipped to the United States containing anthrax toxin. Either culture of Bacillus spp. producing anthrax toxin or significant antibody titers are acceptable confirmatory lab results.
+    
+    Using data collected about cases under this case definition, Agency **B** begins to develop recommendations for the FDA to follow when approving treatments. Which step of the surveillance process is this?
+
+P5-15g-iv. [mcq, 1 pt] Suppose Agency **B** analyzes some data and creates the following outbreak case definition: Previously healthy individuals who have, in the past two weeks, developed either eschar and skin lesions or pneumonia and respiratory dysfunction following exposure to material shipped to the United States containing anthrax toxin. Either culture of Bacillus spp. producing anthrax toxin or significant antibody titers are acceptable confirmatory lab results.
+    
+    When following the process of an outbreak investigation, should descriptive epidemiology or analytic epidemiology come first?
+    A) Descriptive epidemiology
+    B) Analytic epidemiology
+
+P5-15g-v. [frq, 2 pt] Suppose Agency **B** analyzes some data and creates the following outbreak case definition: Previously healthy individuals who have, in the past two weeks, developed either eschar and skin lesions or pneumonia and respiratory dysfunction following exposure to material shipped to the United States containing anthrax toxin. Either culture of Bacillus spp. producing anthrax toxin or significant antibody titers are acceptable confirmatory lab results.
+    
+    Which step of outbreak investigation is most logically followed by shoe leather epidemiology?
+
+P5-16. [frq, 1 pt] Provide the term for any group of cases, including the ones observed in anthrax.
+
+P5-17a. [frq, 1 pt] A leading theory for the 2001 "Amerithrax" bioterrorism attacks is that Dr. Bruce Ivins mailed samples of anthrax spores that he cultivated in his lab. Identify the vocabulary that describes other possible origins of infection.
+    
+    In other outbreaks, anthrax is associated with deer-skin drums. Which types of outbreaks are these?
+
+P5-17c. [frq, 1 pt] A leading theory for the 2001 "Amerithrax" bioterrorism attacks is that Dr. Bruce Ivins mailed samples of anthrax spores that he cultivated in his lab. Identify the vocabulary that describes other possible origins of infection.
+    
+    Anthrax, thankfully, cannot be spread through childbirth. What type of transmission is this?

@@ -1,0 +1,168 @@
+Rice — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  45 questions, 63.0 pts
+Source: scio.ly test archive id a1cdc40a-c755-49d8-a517-f4a8a0322f7a  |  original files: https://drive.google.com/drive/folders/1i1mrH-_DdR-ksbvjjfwaYqHER1kgYeOB
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+DIRECTIONS: Read each question carefully and do your best. Please type in the chat to the event supervisor if you have any questions during the event. Ties will be broken comparing the number of questions correct starting from the end of the test.
+
+
+=== For Questions 1-9 write the vocabulary word that corresponds to the definition. ===
+
+1. [frq, 1 pt] A person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+
+2. [frq, 1 pt] An inanimate object that can be the vehicle for transmission of an infectious agent
+
+3. [frq, 1 pt] Disease; any departure, subjective or objective, from a state of physiological or psychological health and well-being
+
+4. [frq, 1 pt] The separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+
+5. [frq, 1 pt] The separation of infected persons to prevent transmission to susceptible ones
+
+6. [frq, 1 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+
+7. [frq, 1 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+
+8. [frq, 1 pt] The ability of a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+
+9. [frq, 1 pt] The ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+
+
+=== For Questions 10-14 match the following terms to the scenario that best embodies them. ===
+
+[STIMULUS] sporadic, cluster, epidemic, pandemic, hyperendemic
+
+10. [mcq, 1 pt] A town has consistently high incidence and prevalence levels of dengue fever.
+    A) sporadic
+    B) cluster
+    C) epidemic
+    D) pandemic
+    E) hyperendemic
+
+11. [mcq, 1 pt] COVID-19 is present in a substantial portion of the population over multiple countries.
+    A) sporadic
+    B) cluster
+    C) epidemic
+    D) pandemic
+    E) hyperendemic
+
+12. [mcq, 1 pt] Legionnaires’ disease is infrequent and irregular in one particular region.
+    A) sporadic
+    B) cluster
+    C) epidemic
+    D) pandemic
+    E) hyperendemic
+
+13. [mcq, 1 pt] An aggregation of Salmonella cases appear during the first week of June.
+    A) sporadic
+    B) cluster
+    C) epidemic
+    D) pandemic
+    E) hyperendemic
+
+14. [mcq, 1 pt] The incidence of Measles in an area suddenly rises to above normal numbers
+    A) sporadic
+    B) cluster
+    C) epidemic
+    D) pandemic
+    E) hyperendemic
+
+15. [frq, 1 pt] In what ways can outbreaks be distinguished from epidemics?
+
+
+=== For Questions 16-19
+Provide the Hill's Criteria of Causation represented in the following situations. ===
+
+16. [frq, 1 pt] The more salad a person ate at a Christmas Party the more likely they were to get E. Coli.
+
+17. [frq, 1 pt] There are multiple hypotheses that need to be considered when it comes to an outbreak of salmonella.
+
+18. [frq, 1 pt] The association between the source and spread of a new variant of COVID-19 agrees with the currently accepted pathological processes
+
+19. [frq, 1 pt] For all the cases in this outbreak, they attended a party before they contracted the disease
+
+
+=== For Questions 20-23
+Classify each case as possible, probable, confirmed, or not a case based on the following case definition. ===
+
+[STIMULUS] A person that had norovirus between 1/1 and 1/18 in a small town. The most common symptoms of norovirus are diarrhea, vomiting, nausea, and stomach pain.
+
+20. [mcq, 1 pt] A person that experienced diarrhea and nausea on 1/9
+    A) possible
+    B) probable
+    C) confirmed
+    D) not a case
+
+21. [mcq, 1 pt] A person that experienced diarrhea, vomiting, and nausea on 1/15 and had a laboratory test confirming they contracted norovirus
+    A) possible
+    B) probable
+    C) confirmed
+    D) not a case
+
+22. [mcq, 1 pt] A person that experienced vomiting, nausea and stomach pain on 1/10 but is still waiting for their test results
+    A) possible
+    B) probable
+    C) confirmed
+    D) not a case
+
+23. [mcq, 1 pt] A person that contracted norovirus on 1/19 and has a laboratory test confirming the diagnosis
+    A) possible
+    B) probable
+    C) confirmed
+    D) not a case
+
+24. [frq, 1 pt] What are all four of Koch’s Postulates?
+
+25. [frq, 1 pt] Describe the difference between the Clinical Approach and the Public Health Approach and the primary goals of each.
+
+26. [frq, 2 pt] What is the Hawthorne Effect?
+
+27. [frq, 2 pt] What is confounding bias?
+
+28. [frq, 6 pt] Define active, passive, and syndromic surveillance and write an example of each for influenza.
+
+29. [frq, 2 pt] What are the 5 steps of surveillance?
+
+35. [frq, 2 pt] Who is known as the “father of field epidemiology” and what disease did he most famously study?
+
+36. [frq, 1 pt] What does MMWR stand for?
+
+37. [frq, 1 pt] Who is the current director of the CDC?
+
+[STIMULUS] Following a deadly wildfire in California, approximately 1,100 evacuees from the fire sought emergency shelter. During November 8–30, a total of 292 patients with Acute Gastroenteritis were identified among nine evacuation shelters. Shelter IPC assessments revealed gaps in illness surveillance, isolation practices, cleaning, disinfection, and handwashing.
+
+The following case study is adapted from:
+Karmarkar E, Jain S, Higa J, et al. Outbreak of Norovirus Illness Among Wildfire Evacuation Shelter Populations — Butte and Glenn Counties, California, November 2018. MMWR Morb Mortal Wkly Rep 2020;69:613–617. DOI: http://dx.doi.org/10.15585/mmwr.mm6920a1external icon
+
+38. [frq, 1 pt] What is the prevalence of gastroenteritis among the shelter population?
+
+39. [frq, 5 pt] List the five levels of prevention.
+
+41. [frq, 3 pt] What are the 6 parts of the chain of infection?
+
+[STIMULUS] The following figure was provided and shows the number of patients with probable or confirmed acute gastroenteritis, by onset date among eight Camp Fire evacuation shelter populations
+    [IMAGE: ../images/2022_rice_c__p8_a0643f-8c8f33cd.webp]
+
+43. [frq, 1 pt] What type of epicurve is this?
+
+44. [frq, 1 pt] What is the first case called?
+
+[STIMULUS] In order to pinpoint the exact cause of this outbreak you conduct interviews with 200 people at the shelters, 96 of whom had acute gastroenteritis and 104 who didn't.
+
+From these interviews, you collected information regarding the food they had eaten from the first food distribution at the shelters.
+
+46. [frq, 2 pt] Is this study analytical or experimental?
+
+[STIMULUS] The following data was collected regarding the foods eaten. Calculate the relative risk for each food to two decimal places.
+
+48. [numeric, 1 pt] Calculate the relative risk for food A to two decimal places.
+
+49. [numeric, 1 pt] Calculate the relative risk for food B to two decimal places.
+
+50. [numeric, 1 pt] Calculate the relative risk for food C to two decimal places.
+
+51. [numeric, 1 pt] Calculate the relative risk for food D to two decimal places.
+
+52. [numeric, 1 pt] Calculate the relative risk for food E to two decimal places.
+
+53. [numeric, 1 pt] Calculate the relative risk for food F to two decimal places.
+
+54. [frq, 3 pt] Which food(s) seem most implicated in causing the outbreak? How do you know?

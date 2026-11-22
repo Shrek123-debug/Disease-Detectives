@@ -1,0 +1,396 @@
+University of Georgia Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  51 questions, 151.0 pts
+Source: scio.ly test archive id e99cff89-6ff1-4e95-86a6-6fa1461db1a6  |  original files: https://drive.google.com/drive/folders/1zn5zzR_Nr-PPdjRJybrtQwKhfkRG3IJC
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Section 1: General Knowledge MC ===
+
+1. [mcq, 3 pt] What is it called when a large proportion of people within a given population is consisted infected?
+    A) Macroendemic
+    B) Holoendemic
+    C) Hypoendemic
+    D) Mesoendemic
+
+2. [mcq, 3 pt] What type of bias occurs when cases detected between screening programs have worse prognosis than those detected by screening programs?
+    A) Length time bias
+    B) Ascertainment bias
+    C) Lead time bias
+    D) Attrition bias
+
+3. [mcq, 3 pt] What type of study is described: People who have and have not eaten mashed potatoes are enrolled in the study and tracked over a period of time to determine if they develop stomach cancer as a means of determining whether eating mashed potatoes is a risk factor for colon cancer.
+    A) Case-Control
+    B) Cross-Sectional
+    C) Experimental
+    D) Cohort
+
+4. [mcq, 3 pt] Given the epidemic curve for cases of Salmonella Typhimurium Infection from peanut butter in the US from 2008 to 2009, what is the mode of spread?
+    [IMAGE: ../images/2023_university_of_georgia_invitational_c__p1_f1c13c-941279d1.webp]
+    A) Point Source
+    B) Common Continuous Source
+    C) Propagated Source
+    D) None of the above
+
+5. [mcq, 3 pt] Which of the following statements is true?
+    I. Intervention studies are analyzed in analytic studies.
+    II. Descriptive epidemiology involves determining when the population was affected, how the population was affected and who was affected.
+    III. Epidemiologists rely on the comparisons between different groups to determine the role of different risk factors in analytic observational study.
+    A) I only
+    B) II only
+    C) II and III only
+    D) I and III only
+
+6. [mcq, 3 pt] An epi curve provides information about all the following except:
+    A) Mode of transmission
+    B) Frequency of diseases
+    C) Incubation period
+    D) Source of exposures
+
+7. [mcq, 3 pt] In what scenario is histogram more useful than line listing?
+    A) Recording individual data entry into the information system for interpretation
+    B) Visualizing the distribution and frequency of outbreaks with limited case
+    C) Visualizing the distribution and frequency of continuous data
+    D) Both b and d
+
+8. [mcq, 3 pt] Identify the level of prevention: To prevent obesity in adulthood and its complications, Tom aims to lose excess weight, achieve an optimal diet, and increase physical exercise.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+9. [mcq, 3 pt] Which of the following shows the events in chronological order.
+    I. Largest formal human experiment was during the field trial of the Salk polio vaccine.
+    II. John Snow developed and tested a hypothesis for the origin of cholera in London.
+    III. Robert Koch established postulates to identify organisms with infectious disease.
+    IV. Edward Jenner developed the small smallpox vaccine.
+    A) II, IV, III, I
+    B) IV, III, II, I
+    C) II, III, IV, I
+    D) IV, II, III, I
+
+10. [mcq, 3 pt] Who is known for developing a statistical procedure for stratified analysis of case control studies?
+    A) MacMahon
+    B) Mantel and Haenszel
+    C) Edward Sydenstricker
+    D) James Lind
+
+11. [mcq, 3 pt] Which type of surveillance is being described: While monitoring the data from the internet searches, the public health professionals became alerted of a possible issue due to the sudden increase of people searching for symptoms of sore throats accompanied by fevers and itchy rashes.
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+
+12. [mcq, 3 pt] Which of the following is false regarding the clinical and public health approach to health care?
+    A) The clinical health approach focuses on the prevention and treatment of illness in individuals.
+    B) The public health approach places more emphasis on the control and prevention of diseases in a population.
+    C) The paradigm of clinical health approach is only based on medical care.
+    D) The paradigm of public health is based on interventions aimed at improving the environment, well-being and lifestyles of the population including medical care.
+
+13. [mcq, 3 pt] Mary has recently traveled to Nepal - a country where Hepatitis A is a main concern. After three weeks of her travel, she begins to experience diarrhea, nausea, fever and abdominal pain. Worried, Mary searched the internet for her symptoms and found that it is very similar to Hepatitis A. Based on the scenario, which type of case would you identify this to be?
+    A) Confirmed
+    B) Probable
+    C) Possible
+    D) Unconfirmed
+
+14. [mcq, 3 pt] Which measure of disease frequency is useful for accessing the overall burden of disease in the population planning a policy change?
+    A) Prevalence
+    B) Incidence rate
+    C) Mortality Rate
+    D) Attack rate
+
+15. [mcq, 3 pt] Which transmission methods are Infectious diseases most likely to spread through?
+    A) Hand-to-hand contact
+    B) Breathing in the infectious droplets from the air
+    C) Eating contaminated food
+    D) Direct person-to-person contact
+
+[STIMULUS] Use the following diagram to answer questions 16-18.
+    [IMAGE: ../images/2023_university_of_georgia_invitational_c__p4_52be73-10a0e4db.webp]
+
+16. [mcq, 3 pt] Which map represents an epidemic?
+    A) A
+    B) B
+    C) C
+
+17. [mcq, 3 pt] Which map represents a pandemic?
+    A) A
+    B) B
+    C) C
+
+18. [mcq, 3 pt] Which map represents an endemic?
+    A) A
+    B) B
+    C) C
+
+
+=== Section 2: Definitions ===
+
+[STIMULUS] Match the words to their definitions.
+a. vector
+b. cluster
+c. etiology
+d. virulence
+e. holoendemic
+f. epidemic
+g. pathogenicity
+h. zoonosis
+i. hyperendemic
+j. reservoir
+k. fomite
+l. pandemic
+
+19. [mcq, 2 pt] The constant presence at high incidence and prevalence of an agent or health condition within a given geographic area or popular.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+20. [mcq, 2 pt] An epidemic occurring over a widespread area (e.g. multiple countries) and usually affecting a substantial proportion of the population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+21. [mcq, 2 pt] An infectious disease that is transmissible from animals to humans.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+22. [mcq, 2 pt] The habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+23. [mcq, 2 pt] An inanimate object that can be the vehicle for transmission of an infectious agent.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+24. [mcq, 2 pt] An aggregation of cases of a disease, injury, or other health condition in a circumscribed area during a particular period without regard to whether the number of cases is more than expected.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+25. [mcq, 2 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+26. [mcq, 2 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of people during a particular period.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+27. [mcq, 2 pt] Characterized by the infection of essentially every individual in a defined population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+28. [mcq, 2 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+29. [mcq, 2 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+30. [mcq, 2 pt] The cause or causes of a disease or abnormal condition.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) hyperendemic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+
+=== Section 3: Short Answers ===
+
+31. [frq, 3 pt] List three diseases which are nationally notifiable.
+
+32. [frq, 4 pt] List two limitations of Koch's postulates.
+
+33. [frq, 8 pt] Describe the difference between prevalence and incidence rate in terms of how they are calculated and the information they provide?
+
+34. [frq, 2 pt] If an epidemiologist wants to identify the risk factors for a new disease, which measure of frequency should they use to help them accomplish this?
+
+35. [frq, 2 pt] What is PulseNet?
+
+36a. [frq, 2 pt] Given measles high R₀ value of 15, explain what the R₀ value describes.
+
+36b. [frq, 2 pt] Given measles high R₀ value of 15, what percent of the population needs to be vaccinated to achieve herd immunity?
+
+37. [frq, 6 pt] After constructing a working case definition, what are the three next steps in outbreak investigation?
+
+38. [frq, 4 pt] What are the stages in the natural history of disease in order?
+
+
+=== Section 4: Outbreak Investigations ===
+
+[STIMULUS] Case 1: Salmonella in the South
+In 2018, an outbreak of Salmonella occurred in Atlanta, GA. It began on June 2, when a hospital in Atlanta suspected a patient as having Salmonella. The hospital notified the health department of the patient. Within two hours, six more patients with similar signs and symptoms (i.e. diarrhea, fever, and abdominal cramps) were reported as well. Later that evening, one patient died of sepsis shortly after arriving at the ER. All affected persons had eaten at the same conference banquet meal on May 29. The health department requested help from the disease detectives to confirm the diagnosis, identify and treat additional patients, and determine the source.
+
+39. [frq, 3 pt] Formulate a case definition for this outbreak.
+
+40. [mcq, 3 pt] Of the 26 patients who met the case definition, 15 persons were confirmed cases and 11 were probable cases. Which of the following would be part of the case definition for a confirmed case, but not for a probable case?
+    A) Three symptoms of Salmonella
+    B) One sign of Salmonella
+    C) A laboratory test positive
+    D) Conference banquet attendance
+
+41. [mcq, 3 pt] For the interview, 60 of the 64 attendees of the banquet dinner were asked questions about specific foods eaten as well as demographic information. Because all persons attending the potluck were asked to participate, what is this study considered?
+    A) Case-control study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Ecological study
+
+44. [mcq, 3 pt] Food samples were collected from plates in the hotel dumpster. Samples were taken from 12 plates. Six tested positive for salmonella. Five, of the six, contained samples of roasted chicken. The other contained salad. Why were samples collected and tested from the dumpster?
+    A) To collect samples of Salmonella enterica for antibiotic development
+    B) To confirm the epidemiologic findings with environmental studies
+    C) To identify patterns in the food eaten by comparing plates found
+    D) To determine the validity of the survey
+
+[STIMULUS] Case 2: Bad Business Banquet
+233 people were invited to attend a business banquet. Afterward, some people became sick and have constipated diarrhea followed by a fever. It was suspected that the ham sandwich was causing the illness. The 233 attendees were then surveyed, and the result is shown below.
+
+|  | Contracted Illness | No Illness |
+|---|---|---|
+| Exposed (ate ham sandwiches) | 125 | 17 |
+| Unexposed (no ham sandwiches) | 11 | 80 |
+
+45. [mcq, 3 pt] Based on the scenario, what type of study is this likely to be?
+    A) Retrospective cohort
+    B) Prospective cohort
+    C) Case control
+    D) Experimental control
+
+[STIMULUS] Using the Case 2 table above, calculate the attack rate of the people in the exposed and unexposed group. Be sure to show all work to receive full credit.
+    | Label | Answer |
+    | Exposed | [[q:47-a]] |
+    | Unexposed | [[q:47-b]] |
+
+47-a. [frq, 2 pt] Exposed
+
+47-b. [frq, 2 pt] Unexposed
+
+48. [frq, 4 pt] Calculate the relative risk, and explain what it means in the context of this scenario.
+
+[STIMULUS] Case 3: Bronchitis Outbreak at the University of Georgia (hypothetically)
+During an investigation, disease detectives surveyed the 890 freshmen who developed symptoms of bronchitis: coughing, mucus production and difficulty breathing in the residence community. They believe there might be a correlation between housing conditions and the illness. The following data is collected. Suppose the exposed means exposure to old dorms and the non exposed mean exposure to new dorms.
+
+| Exposure | Case patients | Controls | Total |
+|---|---|---|---|
+| Yes | 279 | 80 | 359 |
+| No | 67 | 464 | 531 |
+| Total | 346 | 544 | 890 |
+
+49. [frq, 3 pt] What is the control group in the context of this scenario?
+
+50. [frq, 4 pt] Calculate the odds ratio and explain what it means in the context of this scenario.
+
+51. [frq, 6 pt] List and explain three parts of the Bradford Criteria can be used to verify the cause of this outbreak.
+
+52. [frq, 4 pt] Now that the source of the outbreak has been identified, what are two preventable measures for the disease?

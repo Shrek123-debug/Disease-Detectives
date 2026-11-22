@@ -1,0 +1,891 @@
+Mira Loma — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  103 questions, 139.0 pts
+Source: scio.ly test archive id 7c806026-e7dc-4f35-a7b2-7152124d27f1  |  original files: https://drive.google.com/drive/folders/1PRvXpXq5mdxzEPMjlUl4RaJtVSpRiJ_k
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+
+=== Part 1 Multiple Choice 40 points ===
+
+P1-1. [mcq, 1 pt] The focus of epidemiologic studies is on:
+    A) Individuals
+    B) Populations
+    C) Skin
+
+P1-2. [mcq, 1 pt] The occurrence in a community or region of cases of an illness, specific health-related behavior, or other health-related events clearly in excess of normal expectancy is a/an:
+    A) Pandemic
+    B) Endemic
+    C) Epidemic
+
+P1-3. [mcq, 1 pt] Any factor that brings about change in a health condition or other defined characteristic is a/an:
+    A) Determinant
+    B) Quantification
+    C) Outcome
+
+P1-4. [mcq, 1 pt] The level of prevention that takes place during the early phases of pathogenesis and includes activities that limit the progression of disease is:
+    A) Primary Prevention
+    B) Secondary Prevention
+    C) Tertiary Prevention
+
+P1-5. [mcq, 1 pt] The implementation of health education programs is an example of:
+    A) Primary Prevention
+    B) Secondary Prevention
+    C) Tertiary Prevention
+
+P1-6. [mcq, 1 pt] Epidemiologic studies that are concerned with characterizing the amount and distribution of health and disease within a population are called:
+    A) Analytic
+    B) Descriptive
+    C) Observational
+
+P1-7. [mcq, 1 pt] The Black Death is thought to have been a pandemic of:
+    A) Bubonic Plague
+    B) Cholera
+    C) Smallpox
+
+P1-8. [mcq, 1 pt] Sir Percival Pott made the astute observation that chimney sweeps had a high incidence of:
+    A) Lung Cancer
+    B) Stomach Cancer
+    C) Scrotal Cancer
+
+P1-9. [mcq, 1 pt] The probability that an event will occur, e.g., that an individual will become ill or die within a stated period of time or by a certain age is:
+    A) Epidemiologic Transition
+    B) Risk
+    C) Hypothesis
+
+P1-10. [mcq, 1 pt] Prevalence refers to:
+    A) The number of existing cases of a disease or health condition, or deaths in a population at some designated time
+    B) The occurrence of new disease or mortality within a defined period of observation in a specific population
+    C) A summary rate based on the actual number of events in a population over a given time period
+
+P1-11. [mcq, 1 pt] This classifies the occurrence of disease according to the variables of person, place, and time:
+    A) Descriptive Epidemiology
+    B) Analytic Epidemiology
+    C) Environmental Epidemiology
+
+P1-12. [mcq, 1 pt] Which of the following is an example of a type of descriptive epidemiologic study?
+    A) Case-Control Study
+    B) Case Reports
+    C) Cohort Study
+
+P1-13. [mcq, 1 pt] Race and socioeconomic status are examples of:
+    A) Person Variables
+    B) Secular Trends
+    C) Clustering
+
+P1-14. [mcq, 1 pt] A term that refers to the place of origin of the individual or his or her relatives:
+    A) Habitat
+    B) Community
+    C) Nativity
+
+P1-15. [mcq, 1 pt] Point epidemics and clustering are examples of disease occurrence according to:
+    A) Place
+    B) Time
+    C) Person
+
+P1-17. [mcq, 1 pt] The Texas Sharpshooter Effect is related to:
+    A) Point Epidemics
+    B) Secular Trends
+    C) Clustering
+
+P1-18. [mcq, 1 pt] Which of the following terms denotes the time interval between invasion by an infectious agent and the appearance of the first sign or symptom of the disease?
+    A) Generation Time
+    B) Incubation Period
+    C) Virulence
+
+P1-19. [mcq, 1 pt] Clostridium botulinum is an example of an agent of:
+    A) Sexually Transmitted Disease
+    B) Foodborne Illness
+    C) Vector-Borne Disease
+
+P1-20. [mcq, 1 pt] Malaria is an example of a:
+    A) Sexually Transmitted Disease
+    B) Foodborne Illness
+    C) Vector-Borne Disease
+
+P1-21. [mcq, 1 pt] Which of the following diseases is not at present (2014) classified as vaccine-preventable?
+    A) HIV/AIDS
+    B) Tetanus
+    C) Measles
+
+P1-22. [mcq, 1 pt] Which of the following terms refers to disease that can be transmitted from vertebrate animals to human beings?
+    A) Sexually Transmitted Disease
+    B) Zoonotic Disease
+    C) Foodborne Illness
+
+P1-23. [mcq, 1 pt] The period between exposure and first symptoms is the:
+    A) stage of susceptibility
+    B) subclinical stage of disease
+    C) stage of clinical disease
+    D) stage of disability
+
+P1-24. [mcq, 1 pt] This stage of prevention is intended to reduce complications and disabilities.
+    A) primary prevention
+    B) secondary prevention
+    C) tertiary prevention
+
+P1-25. [mcq, 1 pt] The "natural history of disease" refers to:
+    A) the progress of a disease in an individual over time
+    B) the period between exposure and first symptoms
+    C) the period from first symptoms to recovery, disability, or death
+    D) the broad scope of manifestations of a disease in different individuals
+
+P1-26. [mcq, 1 pt] A disease that occurs rarely and without regularity is said to be:
+    A) sporadic
+    B) endemic
+    C) epidemic
+    D) pandemic
+
+P1-27. [mcq, 1 pt] A particular infectious disease can display a broad scope of manifestations and severities. This is known as the:
+    A) incubation period
+    B) gradient of infection
+    C) endemic level of disease
+    D) stage of susceptibility
+
+P1-28. [mcq, 1 pt] Indirect and direct causes of disease may form a complex network of events that determines the level of disease in a community. The complex inter-relation of events is called the:
+    A) necessary cause of disease
+    B) iceberg phenomenon
+    C) causal web
+    D) caeteris parabus
+
+P1-29. [mcq, 1 pt] The "epidemiologic triad" includes all of the following except:
+    A) agent
+    B) host
+    C) environment
+    D) behavioral factors
+
+P1-30. [mcq, 1 pt] Which of the following can act as reservoirs?
+    A) animals
+    B) carriers
+    C) cases
+    D) all of the above
+
+P1-31. [mcq, 1 pt] Which of the following can act as a portal?
+    A) skin
+    B) cardiovascular system
+    C) kidneys
+    D) animals
+
+P1-32. [mcq, 1 pt] The incubation period is the interval between:
+    A) The time of infection and death
+    B) Appearance of clinical symptoms and death
+    C) The time of infection and appearance of clinical symptoms
+    D) Time of infection and appearance of antibodies
+    E) Time of infection and the appearance of IgM agent specific immunoglobulins
+
+P1-33. [mcq, 1 pt] A "fomite" is:
+    A) An agent conducting aerosol
+    B) A blanket, door handle or other inanimate article on the surface of which the agent resides
+    C) A vector between an arthropod and the susceptible host
+    D) An agent bearing substance that is eaten or drunk
+    E) b. and d. above
+
+P1-37. [mcq, 1 pt] The proportion of the global supply of water that is available for drinking, irrigation, and industrial purposes is:
+    A) <1%
+    B) 5%
+    C) 10%
+    D) 50%
+    E) 78%
+
+P1-38. [mcq, 1 pt] The most common cause of diarrhea globally is:
+    A) E. coli
+    B) Compylobacter
+    C) Rotavirus
+    D) V. cholerae
+    E) Cyclospora cayetanensis
+
+P1-39. [mcq, 1 pt] Treatment of acute diarrhea includes:
+    A) Oral rehydration and penicillin
+    B) Oral rehydration, zinc supplementation
+    C) Intravenous saline and penicillin
+    D) Oral rehydration, energy-rich food, and zinc supplementation
+    E) Energy-rich food and zinc supplementation
+
+P1-40. [mcq, 1 pt] The animal linked to Ebola virus is the:
+    A) Bat
+    B) Rabbit
+    C) Ferret
+    D) Guinea pig
+    E) Pigs
+
+
+=== Part 2 ===
+
+P2-1. [frq, 5 pt] What are the ten steps to investigating an outbreak?
+
+P2-2. [frq, 12 pt] List the four types of study designs and two advantages associated with each.
+
+P2-3. [frq, 6 pt] Define primary, secondary, and tertiary disease prevention.
+
+
+=== Part 3 ===
+
+P3-1. [mcq, 1 pt] Which of the following could be the result of indirect transmission through a fomite?
+    A) Yellow Fever
+    B) Ringworm
+    C) Cholera
+    D) Schistosomiasis
+
+P3-2. [mcq, 1 pt] Toward the end of World War I, there was an outbreak of Spanish Influenza. An estimated 43,000 servicemen mobilized for WWI died of influenza. Which of the following describes this outbreak?
+    A) localized infection
+    B) epidemic
+    C) pandemic
+    D) cluster
+
+P3-3. [frq, 1 pt] The Spanish Influenza outbreak was most virulent among those aged 20 to 40. How does this compare with current Influenza outbreaks?
+
+P3-4. [frq, 1 pt] Pictured above are nurses working during the Spanish flu outbreak. What do you find disturbing about what is pictured and why is it significant?
+    [IMAGE: ../images/2015_mira_loma_c__p9_vefa293-f6d59676.webp]
+
+
+=== Part 4: Chain of Infection  (9) ===
+
+[STIMULUS] Above is a representation of the Chain of Infection.
+    [IMAGE: ../images/2015_mira_loma_c__p10_v8e2f37-c6ffc7df.webp]
+
+P4-1a. [frq, 1 pt] Identify the Infectious agent link in the chain for the disease malaria.
+
+P4-1b. [frq, 1 pt] Identify the Reservoirs link in the chain for the disease malaria.
+
+P4-1f. [frq, 1 pt] Identify the Susceptible host link in the chain for the disease malaria.
+
+P4-2. [frq, 2 pt] Describe two ways in which this chain of infection for malaria could be broken.
+
+P4-3. [frq, 1 pt] What is the Genus of the infectious agent for malaria?
+
+
+=== Part 5. Matching. ===
+
+[STIMULUS] A. tick-borne
+B. blood / sexual transmission
+C. food borne / fecal-oral
+D. Mosquito-borne
+E. Unknown
+    [IMAGE: ../images/2015_mira_loma_c__p9_vefa293-f6d59676.webp]
+
+P5-1. [mcq, 1 pt] Match the disease with the mode of transmission: Hepatitis A
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-2. [mcq, 1 pt] Match the disease with the mode of transmission: Hepatitis B
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-3. [mcq, 1 pt] Match the disease with the mode of transmission: HIV
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-4. [mcq, 1 pt] Match the disease with the mode of transmission: Ebola Hemmoragic Fever
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-5. [mcq, 1 pt] Match the disease with the mode of transmission: West Nile Virus
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-6. [mcq, 1 pt] Match the disease with the mode of transmission: Rotavirus
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-7. [mcq, 1 pt] Match the disease with the mode of transmission: Lyme Disease
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-8. [mcq, 1 pt] Match the disease with the mode of transmission: Malaria
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-9. [mcq, 1 pt] Match the disease with the mode of transmission: Rocky Mountain Spotted Fever
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+P5-10. [mcq, 1 pt] Match the disease with the mode of transmission: E. coli 0157:H7
+    A) tick-borne
+    B) blood / sexual transmission
+    C) food borne / fecal-oral
+    D) Mosquito-borne
+    E) Unknown
+
+[STIMULUS] A. Active Immunity
+B. Agent
+C. Attack Rate
+D. Cluster
+E. Endemic
+F. Epidemic
+G. Fomite
+H. Herd Immunity
+I. Host
+J. Incubation period
+K. Morbidity
+L. Outbreak
+M. Pandemic
+N. Passive Immunity
+O. Period Prevalence
+P. Reservoir
+Q. Vector
+R. Virulence
+
+P5-11. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Re-used hypodermic needles, possibly
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-12. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Cholera in Zimbabwe
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-13. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: The common cold in the U.S.
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-14. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Anopholes mosquitoes
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-15. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Time between infection and first appearance of symptoms
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-16. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Ability of a pathogen to cause disease
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-17. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Proportion of exposed population which is infected
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-18. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: A number of cases grouped geographically
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-19. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: A higher than expected number of cases in a particular region and time period
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-20. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Why most vaccinated people in the US do not get polio
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+P5-21. [mcq, 1 pt] Write the letter of the term which best corresponds with the definition or description: Why most unvaccinated people in the US do not get polio
+    A) Active Immunity
+    B) Agent
+    C) Attack Rate
+    D) Cluster
+    E) Endemic
+    F) Epidemic
+    G) Fomite
+    H) Herd Immunity
+    I) Host
+    J) Incubation period
+    K) Morbidity
+    L) Outbreak
+    M) Pandemic
+    N) Passive Immunity
+    O) Period Prevalence
+    P) Reservoir
+    Q) Vector
+    R) Virulence
+
+[STIMULUS] (A) Prevalence
+(B) Incidence
+(D) Risk Ratio
+(E) Risk Difference
+(F) Attributable Fraction
+
+P5-22. [mcq, 1 pt] Match the definition with one of the following terms: This statistic describes the excess in risk associated with an exposure in relative terms. When it is 1, there is no additional risk associated with the exposure.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+P5-23. [mcq, 1 pt] Match the definition with one of the following terms: This statistic describes the probability that someone selected at random from the population will have the disease in question.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+P5-24. [mcq, 1 pt] Match the definition with one of the following terms: This statistic describes the excess in risk in absolute terms. It shows the additional number of cases expected per m exposures.
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+P5-25. [mcq, 1 pt] Match the definition with one of the following terms: This statistic is used to estimate the risk of acquiring a disease. It may be measured as a rate or a proportion
+    A) Prevalence
+    B) Incidence
+    C) Risk Ratio
+    D) Risk Difference
+    E) Attributable Fraction
+
+[STIMULUS] (A) deaths per total infected
+(B) disease associated with animals but can be transmitted to humans
+(C) acquired at a hospital
+(D) science concerned with the prevalence and distribution of disease
+(E) relative pathogenicity of infectious microorganism
+(F) constant low frequency of disease
+(G) number of new cases during a period divided by total population
+(H) number of cases in a susceptible population of 100,000
+(I) disease occurring in a population at a higher than normal frequency
+(J) percent of total population that has the disease at a given time
+(K) worldwide epidemic
+(L) various arthropods that transmit pathogenic organism from one host to another
+(M) site where infectious disease is maintained between outbreaks
+(N) sudden high incidence of disease in a given population
+(O) infected individual who transmit an infection to another
+
+P5-26. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: epidemiology
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-27. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: endemic
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-28. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: nosocomial infections
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-29. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: morbidity rate
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-30. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: Epidemic
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-31. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: virulence
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-32. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: zoonosis
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-33. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: vector
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-34. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: reservoir
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+P5-35. [mcq, 1 pt] Match each epidemiological term with its best description, formula or example: carrier
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infectious microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmit an infection to another
+
+
+=== Part 6 Case Studies ===
+
+[STIMULUS] Scenario 1 Ebola Reston Virus (ERV) in the Phillipines
+
+Background: On 23 January 2009, the Government of the Philippines announced that a person thought to have come in contact with sick pigs had tested positive for Ebola Reston Virus (ERV) antibodies (IgG). Ebola Reston Virus (ERV) was first described in a population of Philippine monkeys Macaca fascicularis. On 30 January 2009 the Government announced that a further four individuals had been found positive for ERV antibodies: two farm workers in Bulacan and one farm worker in Pangasinan - the two farms currently under quarantine in northern Luzon because of ERV infection was found in pigs - and one butcher from a slaughterhouse in Pangasinan. The person announced on 23 January to have tested positive for ERV antibodies is reported to be a backyard pig farmer from Valenzuela City - a neighborhood within Metro Manila. The investigation team reported that it was possible that all 5 individuals had been exposed to the virus as a result of direct contact with sick pigs. The use of personal protective equipment (PPE) is not common practice among these animal handlers.
+
+From these observations and previous studies of ERV, the virus has shown it can be transmitted to humans, without resulting in illness. However, the evidence available relates only to healthy adults and it would be premature to conclude the health effects of the virus on all population groups. The threat to human health is likely to be low for healthy adults but is unknown for all other population groups, such as immuno-compromised persons, persons with underlying medical conditions, pregnant women and children.
+
+Investigators collected swab samples from individuals whose occupation increases their risk of exposure to the virus. Blood samples from positive swab individuals were also collected. These were processed and tested for virulence. Here are the results:
+
+Table 1: Distribution of farm workers carrying ERV in saliva and blood
+    [IMAGE: ../images/2015_mira_loma_c__p10_v8e2f37-c6ffc7df.webp]
+    | Occupation | Number of Individuals sampled | Number of positives - mouth swab | Number of positives - blood sample |
+    | breeding | 2 | 0 | 1 |
+    | farrowing | 10 | 1 | 2 |
+    | weaning | 8 | 3 | 3 |
+    | fattening | 12 | 1 | 1 |
+    | handler | 18 | 2 | 2 |
+    | butcher | 2 | 2 | 2 |
+    | unspecified | 1 | 0 | 0 |
+    | Totals | 53 | 9 | 11 |
+
+P6-1. [frq, 2 pt] Which group has the highest prevalence of individuals carrying Ebola Reston Virus (ERV)?
+
+P6-2. [frq, 3 pt] What is the overall prevalence of carriers of Ebola Reston Virus (ERV)?
+
+P6-3. [frq, 3 pt] In subsequent testing none of the members of the investigating team tested positive despite being in close contact to exposed individuals and sick pigs. Give an explanation for this finding.
+
+[STIMULUS] Scenario 2 Ebola hemorrhagic fever (EbHF) in Zaire
+
+Background: Ebola Zaire is a strain virulent to humans. An outbreak of Ebola hemorrhagic fever (EbHF) occurred in Zaire in 1976. Epidemiologists conducted studies to investigate the modes of transmission, incubation period attack rates and relate risk factors. The cause of the epidemic was searched for attempts to find the index case and evidence of Ebola virus in some animals and insects.
+
+The epidemiological investigations attempted to describe the outbreak of Ebola hemorrhagic fever (EbHF) by its distribution in time, in geography and amongst persons. Factors related to spread were also studied. These included possible modes of transmission, the incubation period, secondary attack rates and related risk factors. Serological surveys were undertaken to find evidence of prior Ebola virus disease in the area and asymptomatic infections occurring during the epidemic. The cause of the epidemic (1) was searched for by attempts to find the index case and evidence of Ebola virus in some animal and insects (2).
+
+Description of the epidemic area: The epidemic focus was in north-central Zaire. This collectivity has about 35 000 persons and the Bumba Zone has about 275 000 persons. Half of the population is less than 15 years of age. Over 75% of the population lives in forest villages of less than 5 000, most in small localities of fewer than 500. The area forms part of the Zaire River basin and is essentially tropical rainforest. The Zaire River forms the southern boundary of the zone and effectively separates geographically the most northern sectors from the remainder of the country.
+
+Traditionally, the people are hunters and have contact with a wide variety of wild animals.
+
+In 1976, before the epidemic, the hospital had 120 beds and a medical staff of 17 directed by a Zairian paramedical assistant. Included in the medical staff were three Belgian nursing nuns. Five syringes and needles were issued to the nursing staff each morning for use at the outpatient department, the prenatal clinic and the inpatient wards. These syringes and needles were sometimes rinsed between patients in a pan of warm water. At the end of the day they were sometimes boiled. The surgical theatre had its own ample supply of instruments, syringes and needles which were kept separately.
+
+P7-1. [frq, 3 pt] Given the description above provide likely explanations for both the initial outbreak and subsequent spread of the disease.
+
+P7-4. [frq, 3 pt] The Ministry of Health of the Democratic Republic of the Congo (DRC) on 16 February 2009 declared the end of a recent Ebola epidemic in the Mweka and Luebo health zones in the Province of Kasai Occidental. The last person to be infected by the virus died on 1 January 2009. The first case of Ebola in this outbreak was reported on November 23rd, 2008. Provide a justification for the Ministry of Health declaration.
+
+P7-5a. [frq, 1 pt] If Ebola Reston Virus (ERV) becomes virulent in the human population provide the following: Vectors
+
+P7-5b. [frq, 1 pt] If Ebola Reston Virus (ERV) becomes virulent in the human population provide the following: Reservoirs
+
+P7-5c. [frq, 1 pt] If Ebola Reston Virus (ERV) becomes virulent in the human population provide the following: Modes of transmission
+
+P7-5d. [frq, 1 pt] If Ebola Reston Virus (ERV) becomes virulent in the human population provide the following: Modes of control/prevention
+
+[STIMULUS] Table 2: Age and sex distribution of EbHF cases
+    | Age | Male n1 | Male % | Female n1 | Female % | Total n | Total % |
+    | Newborn & Infant | 10 | 3.1% | 14 | 4.4% | 24 | 7.5% |
+    | 1-14 years | 18 | 5.7% | 22 | 6.9% | 40 | 12.6% |
+    | 15-29 | 31 | 9.7% | 60 | 18.9% | 91 | 28.6% |
+    | 30-49 | 57 | 17.9% | 52 | 16.4% | 109 | 34.3% |
+    | 50or> | 23 | 7.2% | 26 | 8.2% | 49 | 15.4% |
+    | Unknown | 2 | 0.6% | 3 | 0.9% | 5 | 1.6% |
+    | Total | 141 | 44.3% | 177 | 55.7% | 318 |  |
+
+P8-2. [frq, 2 pt] Give the definition of "Epidemic".
+
+[STIMULUS] Scenario 3.
+
+Cholera in Zimbabwe
+
+Zimbabwe is a country in southern Africa with a population of approximately 13,349,000 which is currently experiencing an epidemic of cholera which has taxed its already inadequate health care system to the breaking point. As of 25 December 2008, a total of 26 497 cases, including 1 518 deaths, have been reported by the Ministry of Health in Zimbabwe. The epidemiological week ending 20 December saw over 5 000 new cases.
+
+P9-1. [frq, 2 pt] Is the number of reported cases likely to be accurate? Why or why not?
+
+P9-2. [numeric, 1 pt] Calculate the Case Fatality Rate.
+
+P9-3. [frq, 1 pt] The typical Case Fatality Rate for cholera in large outbreaks is usually between 1%-2%. What most likely explains this difference?
+
+P9-4. [frq, 1 pt] With proper treatment, deaths from cholera can be avoided completely. What treatment should be given to cholera patients?
+
+P9-5. [numeric, 2 pt] Calculate the incidence rate for the week ending December 20.
+
+P9-6. [frq, 2 pt] 1,279 cases have been reported from neighboring regions of South Africa, and an indeterminate number from Botswana as well. Would a quarantine of affected areas in Zimbabwe be justified? Why or why not?
+
+[STIMULUS] Scenario 4
+
+Cholera in Bangladesh
+
+A study in Bangladesh conducted by the International Center for Diarrheal Disease Research collected data from individuals who shared residence with 269 selected cholera patients in order to investigate the possible effect of blood type on risk of cholera infection and on the progress of the disease. The following tables summarize that data. Some infected individuals were excluded from the severity analysis because their symptoms appeared too late in the study to be properly evaluated.
+    | Blood type | Infected | Not infected | Total |
+    | O | 74 | 190 | 264 |
+    | Not O | 186 | 343 | 529 |
+    | Total | 260 | 533 | 793 |
+
+P10-1. [frq, 2 pt] State one advantage and one disadvantage of the researchers' decision to choose individuals who shared residence with cholera patients.
+
+P10-2. [numeric, 1 pt] Calculate the odds ratio for cholera infection for type O versus non-O individuals.
+
+P10-3. [numeric, 1 pt] Calculate the odds ratio for severe diarrhea for type O versus non-O individuals.
+
+P10-4. [frq, 2 pt] On the basis of this study, what can you conclude about the relationship between blood type and cholera?

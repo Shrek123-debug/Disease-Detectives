@@ -1,0 +1,204 @@
+Johns Creek Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  49 questions, 55.0 pts
+Source: scio.ly test archive id 8af8ca07-a6ed-4c26-a2d1-d30279b41f7b  |  original files: https://drive.google.com/drive/folders/1O3cmlJEC5AvUUc8IwOy2k9oMt8ifKPQq
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+
+=== For questions #1-5, identify the type of epidemiological study being utilized ===
+
+1. [mcq, 1 pt] Epidemiologists identify a population that is exposed to a suspected carcinogen and a non-exposed population and track them to determine who develops leukemia.
+    A) cohort study
+    B) case-control study
+    C) cross-sectional study
+    D) occupational epidemiological study
+
+2. [mcq, 1 pt] We want to study prenatal exposure to electric and magnetic fields and the effect on a baby's birthweight. To do so, we identify a number of pregnant women, characterize their exposure during almost their entire pregnancies and assess the babies' weights at birth.
+    A) cohort study
+    B) case-control study
+    C) cross-sectional study
+    D) occupational epidemiological study
+
+3. [mcq, 1 pt] We want to study prenatal exposure to electric and magnetic fields and the effect on a baby's birthweight. To do so, we will review birth certificates of several thousand newborns and find a certain number that exhibited low birthweight — 50 to 100, for example — and a comparable number of normal birthweights, and compare them with respect to electric and magnetic field exposures.
+    A) cohort study
+    B) case-control study
+    C) cross-sectional study
+    D) occupational epidemiological study
+
+4. [mcq, 1 pt] We want to study prenatal exposure to electric and magnetic fields and the effect on a baby's birthweight. To do so, we will compare birthweights of babies whose mothers worked at the electric company and were exposed to electromagnetic radiation.
+    A) cohort study
+    B) case-control study
+    C) cross-sectional study
+    D) occupational epidemiological study
+
+6. [mcq, 1 pt] Which statement is NOT true about cross-sectional studies?
+    A) The cross-sectional study is the one in which we assess a group's health status and exposure status simultaneously
+    B) it does not allow for changes over time, and thus cannot accommodate diseases that take time to develop.
+    C) Implicit in the cross-sectional study is the assumption that the study population has been exposed for a long time and will continue to be exposed unless some intervention is effected.
+    D) the cross-sectional study is used to confirm definite causes.
+
+8. [mcq, 1 pt] The ____ study has the disadvantage of selecting cases and controls after both the outcome and the assumption of risk have occurred. The main advantage of the ____ study is that it enables us to study rare health outcomes without having to follow thousands of people, and is therefore generally quicker, cheaper and easier to conduct than the cohort study. One primary disadvantage of a ____ study is a greater potential for bias.
+    A) cohort study
+    B) case-control study
+    C) cross-sectional study
+    D) occupational epidemiological study
+
+9. [mcq, 1 pt] Epidemiology has its hazards. Which is NOT one of the common problems epidemiologists face in conducting their studies and interpreting results?
+    A) confounding
+    B) cohort selection
+    C) misclassification
+    D) recall bias
+    E) selection bias
+
+10. [mcq, 1 pt] Epidemiologists use statistical methods to determine whether the differences they see are real or due to chance fluctuations. Which is NOT one of the statistical methods used?
+    A) P-values
+    B) 95 percent confidence interval
+    C) statistical power
+    D) exposure differential
+
+12. [tf, 1 pt] True or False: Infectious diseases are more likely to be distributed to others in a larger population.
+    A) True
+    B) False
+
+13. [mcq, 1 pt] In cohort studies of the role of a suspected factor in the etiology of a disease, it is essential that:
+    A) There be an equal number of persons in both study groups
+    B) At the beginning of the study, those with the disease and those without the disease have equal risks of having the factor
+    C) The study group with the factor and the study group without the factor be representative of the general population
+    D) The exposed and non-exposed groups under study be as similar as possible with regard to possible confounding factors
+    E) Both b and c
+
+14. [mcq, 1 pt] Which of the following is not an advantage of having a prospective cohort study?.
+    A) It usually costs less than a case control
+    B) Precise measurements of exposure is possible
+    C) Incidence rates can be calculated
+    D) Recall bias is minimized compared to a case control study
+    E) Many disease outcomes can be studied simultaneously
+
+15. [mcq, 1 pt] A major problem resulting from the lack of randomization in a cohort study is:
+    A) The possibility that a factor that led to the exposure, rather than the exposure itself might have caused the disease
+    B) The possibility that a greater proportion of the people in the study may have been exposed
+    C) The possibility that a smaller proportion of people in the study may have been exposed
+    D) That, without randomization, the study may take longer to carry out
+    E) Planned crossover is more likely
+
+16. [mcq, 1 pt] A case control study is characterized by all of the following except:
+    A) It is relatively inexpensive compared with most other epidemiologic study designs
+    B) Patients with the disease (cases) are compared with persons without the disease (controls)
+    C) Incidence rates may be computed directly
+    D) Assessment of past exposure may be biased
+    E) Definition of cases may be difficult
+
+17. [mcq, 1 pt] In a case-control study, which of the following is true?
+    A) The proportion of cases with the exposure is compared with the proportion of controls with the exposure.
+    B) Disease rates are compared for people with the factor of interest and for the people without the factor of interest.
+    C) The investigator may choose to have multiple comparison groups
+    D) Recall bias is a potential problem
+    E) a, c, and d
+
+18. [mcq, 1 pt] In which of the following types of study designs does a subject serve as his own control?.
+    A) Prospective cohort study
+    B) Retrospective cohort study
+    C) Case-control study
+    D) Case-crossover study
+    E) Case-cohort study
+
+19. [mcq, 1 pt] Ecological fallacy refers to:
+    A) Assessing exposure in large groups rather than in many groups
+    B) Assessing outcome in large groups rather than in small groups
+    C) Ascribing the characteristics of a group to every individual in that group
+    D) Examining correlations of exposure and outcomes rather than time periods
+    E) Failure to examine the temporal relationships between exposures and outcomes
+
+20. [mcq, 1 pt] What type of epidemiological curve is shown below?
+    [IMAGE: ../images/johns_creek_invitational__p4_b556e6-547506d6.webp]
+    A) propagated source
+    B) continuous common source
+    C) point source
+    D) normalizing source
+
+21. [mcq, 1 pt] What type of epidemiological curve is shown below?
+    [IMAGE: ../images/johns_creek_invitational__p4_97763b-9c1737a5.webp]
+    A) propagated source
+    B) continuous common source
+    C) point source
+    D) normalizing source
+
+22. [mcq, 1 pt] What type of epidemiological curve is shown below?
+    [IMAGE: ../images/johns_creek_invitational__p5_9fa164-47f8f39a.webp]
+    A) propagated source
+    B) continuous common source
+    C) point source
+    D) normalizing source
+
+23. [mcq, 1 pt] What type of epidemiological curve is shown below?
+    [IMAGE: ../images/johns_creek_invitational__p5_0ab559-b67d6a50.webp]
+    A) propagated source
+    B) continuous common source
+    C) point source
+    D) normalizing source
+
+24. [mcq, 1 pt] What type of epidemiological curve is shown below?
+    [IMAGE: ../images/johns_creek_invitational__p5_b0bdf6-ec9c0625.webp]
+    A) propagated source
+    B) continuous common source
+    C) point source
+    D) normalizing source
+
+26. [frq, 5 pt] Calculate the odds ratio for this exposure using the following data.
+    
+    | | Case | Control |
+    |---|---|---|
+    | Exposed | 12 | 15 |
+    | Unexposed | 13 | 10 |
+
+27. [frq, 3 pt] In an outbreak or an epidemic, evidence is accumulated linking disease to a causative organism or substance. What is the name of the criteria used to prove that an organism causes a disease?
+
+29a. [frq, 1 pt] Define the following term: Fomite
+
+29b. [frq, 1 pt] Define the following term: Vector
+
+29c. [frq, 1 pt] Define the following term: Zoonosis
+
+29d. [frq, 1 pt] Define the following term: Epidemic
+
+29e. [frq, 1 pt] Define the following term: Outbreak
+
+29f. [frq, 1 pt] Define the following term: Cluster
+
+29g. [frq, 1 pt] Define the following term: Surveillance
+
+29h. [frq, 1 pt] Define the following term: Etiology
+
+29i. [frq, 1 pt] Define the following term: Pathogen
+
+29j. [frq, 1 pt] Define the following term: Virus
+
+30a. [frq, 1 pt] List the ten steps of an outbreak: Step a
+
+30b. [frq, 1 pt] List the ten steps of an outbreak: Step b
+
+30c. [frq, 1 pt] List the ten steps of an outbreak: Step c
+
+30d. [frq, 1 pt] List the ten steps of an outbreak: Step d
+
+30e. [frq, 1 pt] List the ten steps of an outbreak: Step e
+
+30f. [frq, 1 pt] List the ten steps of an outbreak: Step f
+
+30g. [frq, 1 pt] List the ten steps of an outbreak: Step g
+
+30h. [frq, 1 pt] List the ten steps of an outbreak: Step h
+
+30i. [frq, 1 pt] List the ten steps of an outbreak: Step i
+
+30j. [frq, 1 pt] List the ten steps of an outbreak: Step j
+
+32a. [frq, 1 pt] List the components of the epidemiological triad: a.
+
+32b. [frq, 1 pt] List the components of the epidemiological triad: b.
+
+32c. [frq, 1 pt] List the components of the epidemiological triad: c.
+
+33a. [frq, 1 pt] Describe the following type of bias: Selection bias
+
+33b. [frq, 1 pt] Describe the following type of bias: Recall bias
+
+33c. [frq, 1 pt] Describe the following type of bias: Information bias

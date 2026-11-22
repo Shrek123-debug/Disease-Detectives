@@ -1,0 +1,462 @@
+University of Georgia Invitational — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  47 questions, 47.0 pts
+Source: scio.ly test archive id 9e0cba76-ce5f-4c08-a2bd-2fad182bb34f  |  original files: https://drive.google.com/drive/folders/1pY6RKvz8KGr6Z9tlKIJALtfbg58jDd1u
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+
+=== Part I: Terminology ===
+
+[STIMULUS] Agent, Bacteria, Epidemic, Outbreak, Virus, Symptom, Public Health Surveillance, Exposure, Infection, Pathogen, Pandemic, Onset, Vector, Zoonosis, Fomite
+
+P1-1. [mcq, 1 pt] A widespread outbreak of an infectious disease in a specified community
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-2. [mcq, 1 pt] System of doctors and health officials collecting and comparing data on various diseases or infections within communities
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-3. [mcq, 1 pt] Ultramicroscopic infectious agent that replicates itself only within cells of living hosts
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-4. [mcq, 1 pt] An organism that transmits a pathogen
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-5. [mcq, 1 pt] A disease causing agent
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-6. [mcq, 1 pt] Invasion of the body by pathogenic agents
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-7. [mcq, 1 pt] A substance that causes an effect
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-8. [mcq, 1 pt] An inanimate object that can be used in the transmission of diseases
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-9. [mcq, 1 pt] Time of the appearance of the first symptoms of an illness
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-10. [mcq, 1 pt] Any disease of animals communicable to humans
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-11. [mcq, 1 pt] Microscopic, single-celled organisms that lack chlorophyll and nuclei
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-12. [mcq, 1 pt] A sudden occurrence of disease in two or more people during a specified period of time
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-13. [mcq, 1 pt] A disease that occurs over a wide geographic area and affecting an exceptionally high proportion of people
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-14. [mcq, 1 pt] To come in contact with an infectious agent in a manner that promotes transmission and the likelihood of disease
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+P1-15. [mcq, 1 pt] Evidence or sign of disease or infection
+    A) Agent
+    B) Bacteria
+    C) Epidemic
+    D) Outbreak
+    E) Virus
+    F) Symptom
+    G) Public Health Surveillance
+    H) Exposure
+    I) Infection
+    J) Pathogen
+    K) Pandemic
+    L) Onset
+    M) Vector
+    N) Zoonosis
+    O) Fomite
+
+
+=== Part II: Multiple Choice ===
+
+P2-16. [mcq, 1 pt] Select the choices that lists all the true statements out of the following:
+    I. Observational studies work backward from an effect to a suspected cause
+    II. Cohort studies work forward from the cause to the effect
+    III. Cohort studies can be performed retrospectively or prospectively
+    A) I and II
+    B) none
+    C) II and III
+    D) I, II, and III
+
+P2-17. [mcq, 1 pt] Case definitions are established with these four components:
+    A) clinical information, characteristics of affected people, place, time sequence
+    B) clinical information, characteristics of disease, place, time sequence
+    C) lab reports, characteristics of disease, place, time sequence
+    D) lab reports, characteristics of affected people, place, time sequence
+
+P2-19. [mcq, 1 pt] Which of the following refers to the total number of individuals infected in a population at any one time?
+    A) Morbidity rate
+    B) Prevalence rate
+    C) Mortality rate
+    D) Epidemic rate
+
+P2-20. [mcq, 1 pt] Which of the following is an important part of the first step of the epidemiologic process?
+    A) examining pre-existing medical statistics for the area to establish the existence of an outbreak
+    B) making sure all diagnoses are not due to lab error
+    C) gathering supplies and researching the disease applicable to the investigation
+    D) creating a case definition
+
+P2-21. [mcq, 1 pt] The first link in the infectious cycle is the
+    A) source.
+    B) pathogen.
+    C) replication cycle.
+    D) mutation rate.
+    E) antimicrobial susceptibility.
+
+P2-22. [mcq, 1 pt] Which of the following harbors a pathogen for a long period of time?
+    A) Casual carrier
+    B) Acute carrier
+    C) Transient carrier
+    D) Chronic carrier
+    E) All of the above
+
+P2-23. [mcq, 1 pt] Which of the following control measures is designated to break the connection between the source of the infection and susceptible individuals?
+    A) Quarantine and isolation of cases and/or carriers
+    B) Destruction of an animal reservoir of infection
+    C) Treatment of sewage to reduce water contamination
+    D) Therapy that reduces or eliminates infectivity of the individual
+    E) Destruction of vectors by spraying with insecticides
+
+P2-24. [mcq, 1 pt] The Morbidity and Mortality Weekly Report published by the U.S. Centers for Disease Control is an example of:
+    A) Active surveillance
+    B) Passive surveillance
+
+P2-25. [mcq, 1 pt] Virulence is the:
+    A) Ability to cause clinical disease
+    B) Ability to cause severe disease
+    C) The ability to evoke an immune response
+    D) All of the above
+    E) a. and b. above
+
+P2-26. [mcq, 1 pt] The primary goal of public health is to:
+    A) Protect the uninfected
+    B) Protect the infected
+    C) Protect the identity of those who have died from an infectious disease
+    D) a. and c. above
+    E) b. and c. above
+
+
+=== Part III: Case Studies and Data Analysis ===
+
+[STIMULUS] For each of the following epidemiological measures, indicate whether it is a rate, a proportion or that it is neither.
+
+P3-25a. [mcq, 1 pt] Incidence Density
+    A) rate
+    B) proportion
+    C) neither
+
+P3-25b. [mcq, 1 pt] Prevalence
+    A) rate
+    B) proportion
+    C) neither
+
+P3-25c. [mcq, 1 pt] Relative Risk
+    A) rate
+    B) proportion
+    C) neither
+
+P3-26. [mcq, 1 pt] What is the fraction of cases with the disease among the exposed that is attributable to the exposure?
+    
+    | | Unexposed | Exposed |
+    |---|---|---|
+    | Disease | 9 | 17 |
+    | No disease | 7 | 5 |
+    A) 0.27
+    B) 0.60
+    C) 0.30
+    D) 0.77
+
+P3-27. [mcq, 1 pt] When studying diet and risk of chronic diseases, a cohort study generally has the following advantage compared to a case-control study:
+    A) Potential confounders can be taken into account
+    B) Selection bias does not occur
+    C) Various dietary exposures can be studied at the same time
+    D) It has higher internal validity
+
+P3-28. [mcq, 1 pt] During a study of 20 years, 5 people are followed to measure the occurrence of an upper respiratory tract infection. As this infection can occur more than once, all disease events are included in this study.
+    • 1 person does not continue to follow-up after 1.5 years.
+    • 2 people died respectively after 10 and 15 years from a different cause.
+    • 1 person got the first respiratory tract infection after seven years and the second infection after 12 years of follow-up. Both infections take half a year of recovery. This person is followed-up until the end of the study.
+    • 1 person followed-up the whole period without occurrence of disease.
+    What is the incidence rate in this study?
+    A) 0.06 per person-year
+    B) 0.03 per person-year
+    C) 0.15 per person-year
+    D) 0.08 per person-year
+
+P3-29. [mcq, 1 pt] An epidemiologist performed a double-blind, randomized, placebo-controlled trial to examine the effect of fish oil supplementation on memory complaints. In the group that received fish oil, 19% of the participants forgot to take their daily supplements during the study whereas this was only 3% in the placebo group. Is this a problem?
+    A) Yes, because this affects the external validity of the study.
+    B) Yes, because the study outcome can be biased.
+    C) No, because participants and investigators were blinded towards the type of treatment in both groups
+    D) No, because all confounders were equally distributed over both groups due to randomization
+
+P3-30. [mcq, 1 pt] The problem of confounding variables can be solved by
+    A) choosing a prospective design.
+    B) increasing the precision of the measurements.
+    C) stratification during data analysis.
+    D) this cannot be solved.
+
+P3-31. [mcq, 1 pt] A cohort study shows an RR (relative risk) of 1.8 (95% CI (confidence interval) 1.4-2.2) for alcohol consumption and breast cancer. Another cohort study shows an RR of 1.8 (95% CI 0.6-3.5) for smoking and breast cancer.
+    What can be concluded from the results of this study?
+    A) Both associations are likely to be due to chance.
+    B) Both associations are biased.
+    C) The study on smoking is probably smaller than the study on alcohol.
+    D) Alcohol and smoking both cause breast cancer.
+
+P3-32. [mcq, 1 pt] In 1965, 400 soldiers were exposed to radiation from a bomb explosion. A total of 50 soldiers were 25 yards away, 100 soldiers were 1000 yards away, 200 soldiers were 2000 yards away, and 75 soldiers were 5000 yards away when the bomb exploded. A disease detective wants to determine the correlation of this radiation exposure and these soldiers developing cancer. What data analysis would you perform?
+    A) Odds ratio
+    B) Attack rate
+    C) Relative risk
+    D) Incidence rate
+
+
+=== Part IV: Short Answer ===
+
+[STIMULUS] An outbreak of Clostridium difficile occured in Boise, Idaho in March of 2014. The epidemic of C. difficile was investigated by local epidemiologists. In May of 2014, Central District Health reported:
+2 cases of C. diff in female children ages 4-12 who used the restroom at restaurant X.
+10 cases of C. diff in male children ages 4-12 who used the restroom at restaurant X.
+6 cases of C. diff in female teenagers ages 13-19 who used the restroom at restaurant X.
+38 cases of C. diff in male teenagers ages 13-19 who used the restroom at restaurant X.
+16 cases of C. diff in female adults aged 20 and over who used the restroom at restaurant X.
+26 cases of C. diff in male adults aged 20 and over who used the restroom at restaurant X.
+Investigators were able to locate and interview 360 females and 439 males (children and adults) who used the restroom at restaurant X in the same month who did not have C. diff.
+
+P5-36a. [frq, 1 pt] What is the attack rate for this outbreak?
+
+P5-36b. [frq, 1 pt] Were men or women more likely to contract C. diff?
+
+[STIMULUS] 90 people attended a conference in Little Rock, Arkansas. 2 different hospitals in the area treated 57 attendees who complained of nausea and stomach vomiting; several were hospitalized overnight. A health official noted that all of the attendees ate lunch at the conference served by the convention center. The hotel served a meat dish, a chicken dish, and a vegetarian dish. Patients had eaten all different types of dishes, showing no dish to be immune. Health officials have not yet determined the source of the outbreak, and convention staff are cooperating and halting food preparation.
+
+P6-38a. [frq, 1 pt] Give at least three reasons why this problem is worth investigating and explain your reasoning.
+
+P6-38b. [frq, 1 pt] 90 people attended a conference in Little Rock, Arkansas. 2 different hospitals in the area treated 57 attendees who complained of nausea and stomach vomiting; several were hospitalized overnight. A health official noted that all of the attendees ate lunch at the conference served by the convention center. The hotel served a meat dish, a chicken dish, and a vegetarian dish. Patients had eaten all different types of dishes, showing no dish to be immune. Health officials have not yet determined the source of the outbreak, and convention staff are cooperating and halting food preparation.
+    
+    Describe the steps you would take to address this problem, describing the data needed and providing examples of that data.
+
+P6-38c. [frq, 1 pt] 90 people attended a conference in Little Rock, Arkansas. 2 different hospitals in the area treated 57 attendees who complained of nausea and stomach vomiting; several were hospitalized overnight. A health official noted that all of the attendees ate lunch at the conference served by the convention center. The hotel served a meat dish, a chicken dish, and a vegetarian dish. Patients had eaten all different types of dishes, showing no dish to be immune. Health officials have not yet determined the source of the outbreak, and convention staff are cooperating and halting food preparation.
+    
+    Develop a probable hypothesis to explain the cause, source, and spread of the outbreak.
+
+P6-38d. [frq, 1 pt] 90 people attended a conference in Little Rock, Arkansas. 2 different hospitals in the area treated 57 attendees who complained of nausea and stomach vomiting; several were hospitalized overnight. A health official noted that all of the attendees ate lunch at the conference served by the convention center. The hotel served a meat dish, a chicken dish, and a vegetarian dish. Patients had eaten all different types of dishes, showing no dish to be immune. Health officials have not yet determined the source of the outbreak, and convention staff are cooperating and halting food preparation.
+    
+    Provide recommendations for controlling the problem and preventing similar problems in the future.
+
+[STIMULUS] In the James River Basin, there have been elevated levels of disease among fish and a recent outbreak of stomach illness among commercial fishermen. Virginia officials are concerned that dying fish could result in a large economic impact as fish sales decline, and health officials are concerned that a toxin similar to one found in fish in the Chesapeake Bay years ago could be responsible. No illnesses from consumption of fish from ordinary citizens have been reported yet.
+
+P6-39a. [frq, 1 pt] Despite no citizens falling ill, give three reasons this could be an important problem to respond to.
+
+P6-39b. [frq, 1 pt] In the James River Basin, there have been elevated levels of disease among fish and a recent outbreak of stomach illness among commercial fishermen. Virginia officials are concerned that dying fish could result in a large economic impact as fish sales decline, and health officials are concerned that a toxin similar to one found in fish in the Chesapeake Bay years ago could be responsible. No illnesses from consumption of fish from ordinary citizens have been reported yet.
+    
+    Describe how health officials would take action and what their data collection would look like.
+
+P6-39c. [frq, 1 pt] In the James River Basin, there have been elevated levels of disease among fish and a recent outbreak of stomach illness among commercial fishermen. Virginia officials are concerned that dying fish could result in a large economic impact as fish sales decline, and health officials are concerned that a toxin similar to one found in fish in the Chesapeake Bay years ago could be responsible. No illnesses from consumption of fish from ordinary citizens have been reported yet.
+    
+    If this is an outbreak, develop a hypothesis as to how it began and spread.
+
+P6-39d. [frq, 1 pt] In the James River Basin, there have been elevated levels of disease among fish and a recent outbreak of stomach illness among commercial fishermen. Virginia officials are concerned that dying fish could result in a large economic impact as fish sales decline, and health officials are concerned that a toxin similar to one found in fish in the Chesapeake Bay years ago could be responsible. No illnesses from consumption of fish from ordinary citizens have been reported yet.
+    
+    Give suitable recommendations for controlling this problem.
+
+
+=== Part VI: Bonus! ===
+
+[STIMULUS] This question is based on a true story. In 1846 at Vienna General Hospital, women were dying at extremely high mortality rates shortly after giving birth from puerperal fever. New doctor Ignaz Semmelweis set out to investigate. He compared two maternity wards in the hospital- one which was staffed by doctors and medical students who worked in other parts of the hospital, including the morgue, the pediatric unit, the surgery unit, and more, and one staffed solely by midwives working only in that ward. By recording data, he realized the death rate in the ward staffed by doctors and medical students was five times higher. Doctors had also fallen ill to the puerperal fever; not only pregnant women were susceptible.
+
+P7-40a. [frq, 1 pt] Why was the rate in the ward staffed by doctors and medical students so much higher than the midwives rate?
+
+P7-40b. [frq, 1 pt] What prevention method did Ignaz Semmelweis suggest that almost immediately dropped the mortality rate down to normal levels?

@@ -1,0 +1,98 @@
+Solon Invitational (C only) — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  15 questions, 74.0 pts
+Source: scio.ly test archive id 456384be-f092-4ff0-a390-ab5e62c56e13  |  original files: https://drive.google.com/drive/folders/1W9lanA5clZz7F-37ni0jn3zXr6Dv6qBt
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+DIRECTIONS: All pertinent Science Olympiad rules apply. The test itself consists of two related scenarios, a major scenario, Scenario I, relating to the analysis of the spread of an epidemic and a minor scenario, Scenario II, related to further analysis, explanation, and prevention. The point worth of all questions is noted.
+
+
+=== SCENARIO I ===
+
+[STIMULUS] The Gulf Coast area [A = 603 km²] represented on the map was struck by two storms of the century, one in 2015 and one earlier this year, and in the aftermath of each storm, cases of an unidentified infection were recorded as were fatalities after the 2017 storm. The area in question is primarily rural, supporting both lowland and upland agriculture, the former primarily rice and cotton and the latter grazing land and a newly planted GM maize crop located north of the 60 m contour line; a crop which has been designed to be resistant to herbicides used in this area, e.g. Roundup, but requires special fertilizer with high concentrations of phosphate and zinc. Although this region of the Gulf Coast is rural by character, it supports nine municipalities where almost 87% of the population of this region resides.
+
+Table 1.
+
+| MUNICIPALITY | CASES |
+|---|---|
+| 1. SLOUGHVILLE | 23 |
+| 2. BIRK | 7 |
+| 3. TWO BRIDGES | 12 |
+| 4. KINDLON | 4 |
+| 5. SLIPSVILLE | 6 |
+| 6. RIGHTFORK | 2 |
+| RURAL CASES | 0 |
+
+[STIMULUS] Figure 1 represents the change in mean annual temperature [MAT] over time with regression lines imposed to show a change in MAT.
+
+Figure 2 represents a comparison between the change in MAT and any attendant change in the frequency of decadal magnitude storms or greater.
+    [IMAGE: ../images/solon_invitational_c_only__p3_880932-557e6fdf.webp]
+    [IMAGE: ../images/solon_invitational_c_only__p3_4e23e0-04b4d4d0.webp]
+
+1. [frq, 8 pt] * Briefly describe the graphical trends represented in Figures 1 & 2 specifically noting any significant changes.
+
+[STIMULUS] TABLE 2.
+
+| MUNICIPALITY | 9/9 | 9/16 | 9/23 | 9/30 | 10/7 | 10/14 | 10/21 | 10/28 | N | α |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1. SLOUGHVILLE | 7 | 13 | 2 | 6 | 16 | 9 | 1 | 6 | 4111 | 3 |
+| 2. BIRK | 4 | 12 | 17 | 2 | 6 | 6 | 11 | 2 | 1106 | 0 |
+| 3. TWO BRIDGES | 1 | 5 | 6 | 4 | 2 | 21 | 5 | 9 | 2020 | 2 |
+| 4. KINDLON | 5 | 6 | 0 | 9 | 3 | 3 | 9 | 3 | 1587 | 4 |
+| 5. SLIPSVILLE | 0 | 3 | 10 | 2 | 17 | 9 | 6 | 1 | 3002 | 6 |
+| 6. RIGHTFORK | 1 | 0 | 4 | 12 | 7 | 11 | 2 | 2 | 2708 | 1 |
+| RURAL CASES | 0 | 0 | 6 | 1 | 0 | 0 | 5 | 1 | 1709 | 0 |
+
+The number to the left of each municipality name corresponds to a map location. N = municipality population size. α = deaths. The cases and deaths recorded in this table occurred in 2017.
+
+5. [frq, 4 pt] What is the significance of the graphical trends in Figs. 1 & 2 with respect to the data represented in Tables 1 & 2?
+
+[STIMULUS] 
+    [IMAGE: ../images/solon_invitational_c_only__p5_vf1fa95-1e97f97c.webp]
+
+8. [frq, 4 pt] Determine the mortality for the entire region.
+
+[STIMULUS] *The symptoms of this disease are fever, malaise, respiratory distress and in severe cases extreme respiratory distress, internal hemorrhaging, and ultimately death. These symptoms most closely parallel those of SARS. Determine both the specificity and sensitivity of a test designed for SARS in which 28 out of 51 cases tested positive and in which 13 out of a random sample of 45 also tested positive.
+    | Label | Answer |
+    | Specificity | [[q:10-a]] |
+    | Sensitivity | [[q:10-b]] |
+
+10-a. [frq, 3 pt] Specificity
+
+10-b. [frq, 3 pt] Sensitivity
+
+12. [frq, 4 pt] Given the results of #10, should the disease be identified as SARS? Please explain.
+
+13. [frq, 4 pt] Determine the incidence of the cases given in Table 2. Assume the week to be the unit of time.
+
+14. [frq, 4 pt] *What is the most likely medium of transmission, e.g. vector-borne, air-borne, et al?
+
+[STIMULUS] Table 3.
+
+| MUNICIPALITY | 11/3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | N | Deaths |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6. RIGHTFORK | 5 | 10 | 17 | 6 | 2 | 0 | 5 | 15 | 49 | 20 | 3 | 0 | 2708 | 10 |
+| 7. WALLACE | 0 | 0 | 3 | 24 | 36 | 16 | 1 | 8 | 42 | 76 | 39 | 9 | 3477 | 25 |
+| 8. DARWIN | 0 | 0 | 6 | 18 | 12 | 4 | 0 | 2 | 5 | 23 | 13 | 5 | 1350 | 5 |
+| 9. HOOKER | 0 | 2 | 6 | 4 | 1 | 1 | 2 | 5 | 2 | 1 | 0 | 0 | 813 | 1 |
+
+16d. [frq, 4 pt] What statistical test could be used to show the goodness of fit of expected results to observed results?
+
+
+=== SCENARIO II ===
+
+[STIMULUS] The problem now becomes one of distinguishing causes between the first and second outbreaks, showing relatedness between the two outbreaks, and predicting the geographic pattern of the second outbreak. Please continue.
+    [IMAGE: ../images/solon_invitational_c_only__p8_rc990728-4da8ffea.webp]
+
+17. [frq, 6 pt] Consult Figure 3, a simulation of the result of electrophoresis of five different viral samples taken from cases occurring in Kindlon, Rightfork, Wallace, Darwin, and Hooker. How are the genetic profiles of this diagram related to the origin of the second outbreak?
+
+18. [frq, 8 pt] *Prepare a cladogram, written out as its branching order in text, based on the electrophoresis evidence presented in Figure 3.
+
+19. [frq, 6 pt] Describe the geographic direction of this outbreak by listing the municipalities in order of occurrence with arrows, →, separating a previous profile from a new profile.
+
+20. [frq, 4 pt] Name the genetic mechanism by which a new genetic profile emerges.
+
+[STIMULUS] Each diagram in Figure 4 represents a specific combination of latent/infectious and incubate clinical phases of disease progression. The total horizontal length of each diagram represents the duration of infection, and the horizontal lengths of the sub-diagrams represent their relative durations.
+    [IMAGE: ../images/solon_invitational_c_only__p9_rc1e5201-df39f552.webp]
+
+22. [frq, 6 pt] *Consult Figure 4 above and identify (first, second, third, or fourth) the diagram that most likely represents the relationship between latent/infectious and incubate/clinical. Explain your choice.
+
+24. [frq, 6 pt] *Suggest the potential for further outbreaks in the future, support your suggestion, and suggest one public health measure to reduce the impact of further flooding.

@@ -1,0 +1,922 @@
+UT Austin Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  131 questions, 149.0 pts
+Source: scio.ly test archive id ba71056c-b156-4d3a-b0a5-4bfe9aa6a41c  |  original files: https://drive.google.com/drive/folders/1HDZvUwrqPeYFIkbDlZ7RF8mGYMO8nnwJ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 21
+
+
+=== Part 1: Background ===
+
+1. [frq, 2 pt] Define Epidemiology
+
+[STIMULUS] Match the following terms to their definitions.
+
+A. the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+B. the state or condition of being subject to death
+C. a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+D. an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+E. the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+F. the separation of infected persons to prevent transmission to susceptible ones
+G. the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+H. an event that occurs infrequently and irregularly.
+I. an inanimate object that can be the vehicle for transmission of an infectious agent
+J. the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+K. a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+L. the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+M. the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+N. a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+O. a symptom or disease that is sudden and severe in onset
+P. a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+Q. a disease or infection originating in a hospital
+R. any departure, subjective or objective, from a state of physiological or psychological health and well-being
+S. the study of the cause of a disease
+T. capable of being transmitted from one person to another by contact or close proximity.
+
+2a. [mcq, 1 pt] Carrier
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2b. [mcq, 1 pt] Fomite
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2c. [mcq, 1 pt] Etiology
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2d. [mcq, 1 pt] Fulminant
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2e. [mcq, 1 pt] Mortality
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2f. [mcq, 1 pt] Nosocomial
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2g. [mcq, 1 pt] Virulence
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2h. [mcq, 1 pt] Quarantine
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2i. [mcq, 1 pt] Outbreak
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2j. [mcq, 1 pt] Isolation
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2k. [mcq, 1 pt] Infectivity
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2l. [mcq, 1 pt] Cluster
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2m. [mcq, 1 pt] Morbidity
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2n. [mcq, 1 pt] Specificity
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2o. [mcq, 1 pt] Health
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2p. [mcq, 1 pt] Pathogenicity
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2q. [mcq, 1 pt] Life expectancy
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2r. [mcq, 1 pt] Hypothesis
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2s. [mcq, 1 pt] Contagious
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+2t. [mcq, 1 pt] Sporadic
+    A) the separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period
+    B) the state or condition of being subject to death
+    C) a person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease
+    D) an aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    E) the ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    F) the separation of infected persons to prevent transmission to susceptible ones
+    G) the ability or a test, case definition, or surveillance system to exclude persons without the health condition of interest; the proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system
+    H) an event that occurs infrequently and irregularly.
+    I) an inanimate object that can be the vehicle for transmission of an infectious agent
+    J) the ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die
+    K) a state of complete physical, mental, and social well-being and not merely the absence of disease or other infirmity
+    L) the occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way.
+    M) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease
+    N) a statistical projection of the average number of years a person of a given age is expected to live, if current mortality rates continue to apply
+    O) a symptom or disease that is sudden and severe in onset
+    P) a supposition, arrived at from observation or reflection, that leads to refutable predictions; any conjecture cast in a form that will allow it to be tested and refuted
+    Q) a disease or infection originating in a hospital
+    R) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    S) the study of the cause of a disease
+    T) capable of being transmitted from one person to another by contact or close proximity.
+
+[STIMULUS] Place the following steps of the Chain of Infection in order and give the correct Influenza example for each step. The first row has been done for you as an example.
+
+Chain of infection steps
+A. Infectious agent
+B. susceptible host
+C. mode of transmission
+D. portal of entry
+E. portal of exit
+F. reservoir
+
+Influenza Example
+G. Influenza A virus
+H. Very young and elderly
+I. Human Body
+J. Mucosal tissues
+K. Respiratory tract
+L. droplet transmission
+
+| Chain of Infection Step | Influenza Example |
+|---|---|
+| A. Infectious agent | G. Influenza A virus |
+
+4. [frq, 10 pt] Place the following steps in the Chain of Infection in the chart below and then place the correct example for it in the space below it.
+
+5a. [frq, 1 pt] Match the level of prevention to the following example: Immunization against measles, mumps, and rubella from a young age.
+
+5b. [frq, 1 pt] Match the level of prevention to the following example: Public regulation on the promotion of cigarettes and other tobacco products due to their potential to cause lung cancer
+
+5c. [frq, 1 pt] Match the level of prevention to the following example: Chemotherapy to prevent the further metastasis of a leukemia
+
+5d. [frq, 1 pt] Match the level of prevention to the following example: Regular mammography exams for women once they reach a certain age
+
+6a. [frq, 1 pt] Define the following term: Hyperendemic
+
+6b. [frq, 1 pt] Define the following term: Holoendemic
+
+6c. [frq, 1 pt] Define the following term: Hypoendemic
+
+6d. [frq, 1 pt] Define the following term: Pandemic
+
+6e. [frq, 1 pt] Define the following term: Epidemic
+
+7. [frq, 2 pt] What is the difference between Hyperendemic and Holoendemic diseases?
+
+[STIMULUS] Label the following situation as hyperendemic, holoendemic, hypoendemic, or pandemic:
+
+8a. [mcq, 1 pt] Onchocerciasis (river blindness) caused by the parasite Onchocercavolvulus has very low incidence in certain areas of Africa
+    A) hyperendemic
+    B) holoendemic
+    C) hypoendemic
+    D) pandemic
+
+8b. [mcq, 1 pt] In 2019, a novel influenza A (H1N1) virus emerged and quickly spread throughout the entire world
+    A) hyperendemic
+    B) holoendemic
+    C) hypoendemic
+    D) pandemic
+
+8c. [mcq, 1 pt] Dengue fever has a consistent high presence in New Delhi India, due to the circulation of multiple serotypes of the virus
+    A) hyperendemic
+    B) holoendemic
+    C) hypoendemic
+    D) pandemic
+
+8d. [mcq, 1 pt] The strain of malaria caused by Plasmodium falciparum was found in almost the entire population of parts of sub-Saharan Africa, with children under 5 especially susceptible
+    A) hyperendemic
+    B) holoendemic
+    C) hypoendemic
+    D) pandemic
+
+[STIMULUS] Match the following nine Bradford Hill Criteria of Causation with their definitions.
+
+A. Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+B. The use of similarities between the observed association and any other associations.
+C. A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+D. Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+E. Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+F. Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+G. The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+H. The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+I. A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9a. [mcq, 1 pt] Strength
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9b. [mcq, 1 pt] Consistency
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9c. [mcq, 1 pt] Specificity
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9d. [mcq, 1 pt] Temporality
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9e. [mcq, 1 pt] Biological gradient
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9f. [mcq, 1 pt] Plausibility
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9g. [mcq, 1 pt] Coherence
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9h. [mcq, 1 pt] Experiment
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+9i. [mcq, 1 pt] Analogy
+    A) Causation is likely if there is a very specific population at a specific site and disease with no other likely explanation. The more specific an association between a factor and an effect is, the bigger the probability of a causal relationship.
+    B) The use of similarities between the observed association and any other associations.
+    C) A small association does not mean that there is not a causal effect, though the larger the association, the more likely that it is causal.
+    D) Greater exposure should generally lead to greater incidence of the effect. However, in some cases, the mere presence of the factor can trigger the effect. In other cases, an inverse proportion is observed: greater exposure leads to lower incidence.
+    E) Consistent findings observed by different persons in different places with different samples strengthen the likelihood of an effect.
+    F) Agreement between epidemiological and laboratory findings increases the likelihood of an effect.
+    G) The cause and effect may be tested with an experiment. If the experimental evidence is aligned with the observed effects, a causal effect is highly likely.
+    H) The effect has to occur after the cause (and if there is an expected delay between the cause and expected effect, then the effect must occur after that delay).
+    I) A logical mechanism between cause and effect is helpful (but the knowledge of the mechanism may be limited by current knowledge)
+
+10a. [frq, 1 pt] Indicate which Bradford-Hill criterion this example fulfills: The more shellfish a person ate at a beachside restaurant the more likely they were to get vibriosis
+
+10b. [frq, 1 pt] Indicate which Bradford-Hill criterion this example fulfills: The association between the source and spread of a new variant of COVID-19 agrees with the currently accepted pathological processes
+
+10c. [frq, 1 pt] Indicate which Bradford-Hill criterion this example fulfills: All cases in this outbreak had gone and attended the same outdoor picnic and presented with the same variant of the disease
+
+10d. [frq, 1 pt] Indicate which Bradford-Hill criterion this example fulfills: The outbreak of the disease occurred after the expected incubation period from the time of exposure
+
+[STIMULUS] Complete the following diagram of the natural history of disease.
+    [IMAGE: ../images/2022_ut_austin_invitational_b_c__p5_4d52c7-b7b6703c.webp]
+    | Label | Answer |
+    | A | [[q:11a]] |
+    | B | [[q:11b]] |
+    | C | [[q:11c]] |
+    | D | [[q:11d]] |
+    | E | [[q:11e]] |
+
+11a. [frq, 1 pt] Identify the part labeled A in the figure.
+
+11b. [frq, 1 pt] Identify the part labeled B in the figure.
+
+11c. [frq, 1 pt] Identify the part labeled C in the figure.
+
+11d. [frq, 1 pt] Identify the part labeled D in the figure.
+
+11e. [frq, 1 pt] Identify the part labeled E in the figure.
+
+12. [mcq, 1 pt] Koch’s postulates are four criteria that lead to the establishment of a causal relationship between a microbe and a disease. Which one of the following choices is not among the four postulates?
+    A) The microorganism must be found in abundance in all organisms suffering from the disease, but should not be found in healthy organisms.
+    B) The microorganism must be able to be isolated from a diseased organism and genetically analyzed
+    C) A cultured version of the microorganism should cause disease when introduced into a healthy organism.
+    D) The microorganism must be reisolated from the inoculated, diseased experimental host and identified as being identical to the original specific causative agent.
+
+14a. [frq, 1 pt] Define active immunity.
+
+14b. [frq, 1 pt] Define passive immunity.
+
+14c. [frq, 1 pt] Define herd immunity.
+
+15. [frq, 1 pt] Is vaccination a form of active or passive immunity?
+
+16. [numeric, 1 pt] Calculate the herd immunity threshold for a disease with a basic reproduction number of 5.
+
+[STIMULUS] Match the following terms to their definitions.
+
+A. Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+B. The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+C. Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+D. The specific infectious agent no longer exists in nature or in the laboratory.
+E. Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+17a. [mcq, 1 pt] Control
+    A) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    B) The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+    D) The specific infectious agent no longer exists in nature or in the laboratory.
+    E) Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+17b. [mcq, 1 pt] Elimination of disease
+    A) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    B) The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+    D) The specific infectious agent no longer exists in nature or in the laboratory.
+    E) Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+17c. [mcq, 1 pt] Elimination of infections
+    A) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    B) The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+    D) The specific infectious agent no longer exists in nature or in the laboratory.
+    E) Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+17d. [mcq, 1 pt] Eradication
+    A) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    B) The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+    D) The specific infectious agent no longer exists in nature or in the laboratory.
+    E) Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+17e. [mcq, 1 pt] Extinction
+    A) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    B) The reduction of disease incidence, prevalence, morbidity or mortality to a locally acceptable level as a result of deliberate efforts; continued intervention measures are required to maintain the reduction.
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts; continued intervention measures are required
+    D) The specific infectious agent no longer exists in nature or in the laboratory.
+    E) Reduction to zero of the incidence of infection caused by a specific agent in a defined geographical area as a result of deliberate efforts; continued measures to prevent re-establishment of transmission are required.
+
+18a. [frq, 1 pt] Determine if the current status of Neonatal tetanus falls under control, elimination of disease, elimination of infections, eradication, or extinction.
+
+18b. [frq, 1 pt] Determine if the current status of Smallpox falls under control, elimination of disease, elimination of infections, eradication, or extinction.
+
+18c. [frq, 1 pt] Determine if the current status of Measles falls under control, elimination of disease, elimination of infections, eradication, or extinction.
+
+19a. [numeric, 1 pt] One population consists of 1,320 people and 350 of these people have a specified disease. 115 of these people die from this disease. Calculate the mortality rate. Write your answer as a percentage rounded to one decimal place.
+
+19b. [numeric, 1 pt] One population consists of 1,320 people and 350 of these people have a specified disease. 115 of these people die from this disease. Calculate the case-fatality rate. Write your answer as a percentage rounded to one decimal place.
+
+20a. [numeric, 1 pt] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the prevalence of disease. Write your answer as a percentage rounded to one decimal place.
+
+20b. [numeric, 1 pt] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the sensitivity. Write your answer as a percentage rounded to one decimal place.
+
+20c. [numeric, 1 pt] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the specificity. Write your answer as a percentage rounded to one decimal place.
+
+20d. [numeric, 1 pt] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the positive predictive value. Write your answer as a percentage rounded to one decimal place.
+
+20e. [numeric, 1 pt] 153 people are tested for mononucleosis. There are 36 positive results. Of these 36 positive results, there are 25 true positive results. Of the 117 negative results, there are 109 true negatives. Calculate the negative predictive value. Write your answer as a percentage rounded to one decimal place.
+
+
+=== Part 2: Case Study 1 ===
+
+[STIMULUS] Read the details of the Case Study below and answer the following questions to the best of your ability.
+
+Disclaimer: this case study has been adapted from MMWR for the purposes of this test, some details have been changed and this test should not be taken as an accurate representation of the monkeypox outbreak
+
+Citation: Philpott D, Hughes CM, Alroy KA, et al. Epidemiologic and Clinical Characteristics of Monkeypox Cases — United States, May 17–July 22, 2022. MMWR Morb Mortal Wkly Rep 2022;71:1018-1022. DOI: http://dx.doi.org/10.15585/mmwr.mm7132e3
+
+Monkeypox, a zoonotic infection caused by an orthopoxvirus, is endemic in parts of Africa. On August 4, 2022, the U.S. Department of Health and Human Services declared the U.S. monkeypox outbreak, which began on May 17, to be a public health emergency
+
+21. [frq, 1 pt] What does MMWR stand for?
+
+22. [frq, 1 pt] Monkeypox has been a “zoonotic disease” what does this mean?
+
+23. [frq, 2 pt] What is a public health emergency and who can declare one?
+
+[STIMULUS] Partway into the outbreak, on August 1, the CDC officially made monkeypox a nationally notifiable condition.
+
+24. [frq, 1 pt] Define a notifiable disease.
+
+25a. [frq, 1 pt] What are the 5 steps of surveillance? Step 1
+
+25b. [frq, 1 pt] What are the 5 steps of surveillance? Step 2
+
+25c. [frq, 1 pt] What are the 5 steps of surveillance? Step 3
+
+25d. [frq, 1 pt] What are the 5 steps of surveillance? Step 4
+
+25e. [frq, 1 pt] What are the 5 steps of surveillance? Step 5
+
+26a. [frq, 1 pt] Define active surveillance.
+
+26b. [frq, 1 pt] Define passive surveillance.
+
+26c. [frq, 1 pt] Define syndromic surveillance.
+
+27a. [mcq, 1 pt] Classify the following surveillance example as active, passive, or syndromic: Contacting hospitals with monkeypox cases to collect samples for testing
+    A) active
+    B) passive
+    C) syndromic
+
+27b. [mcq, 1 pt] Classify the following surveillance example as active, passive, or syndromic: General tracking of nationally notifiable diseases
+    A) active
+    B) passive
+    C) syndromic
+
+[STIMULUS] On June 3, 2022, CDC released a case report form for health departments to report monkeypox cases. Common monkeypox symptoms include rash, fever, chills, exhaustion, swollen lymph nodes, muscle aches, headache, and respiratory symptoms. Data collected include possible exposures during the 3 weeks preceding symptom onset, symptoms during the illness course, and distribution of rash, defined as at least one lesion on the skin or mucous membranes.
+
+28a. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 1
+
+28b. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 2
+
+28c. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 3
+
+28d. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 4
+
+28e. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 5
+
+28f. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 6
+
+28g. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 7
+
+28h. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 8
+
+28i. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 9
+
+28j. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 10
+
+28k. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 11
+
+28l. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 12
+
+28m. [frq, 1 pt] What are the Epidemiologic Steps to Outbreak Investigation? Step 13
+
+29. [frq, 3 pt] Create a case definition for this outbreak.
+
+[STIMULUS] The following graph is a representation of the progression of the outbreak.
+    [IMAGE: ../images/2022_ut_austin_invitational_b_c__p10_a784e7-e6720afc.webp]
+
+31. [frq, 1 pt] The above graph is an epidemic curve (epi curve), define epicurve.
+
+32. [frq, 1 pt] What type of epicurve is this graph?
+
+33. [frq, 2 pt] Name two other types of epicurves.
+
+34. [frq, 1 pt] What is an index case?
+
+35. [frq, 1 pt] In this outbreak what date was the index case recorded?
+
+
+=== Part 3: Case Study 2 ===
+
+[STIMULUS] Read the details of the Case Study below and answer the following questions to the best of your ability.
+
+Disclaimer: this case study has been created for the purposes of this test, the details are not representative of a known outbreak.
+
+You are an epidemiologist working for the CDC and you’re asked to investigate an outbreak of Salmonella in a high school in Houston, Texas. Between September 3rd and September 9th, 55 students, all seniors at the local high school presented with symptoms consistent with Salmonella including diarrhea, fever, and abdominal cramps. All the seniors at the high school were invited to a back-to-school party with an attendance of 350 on September 2nd. A survey was sent out to all 350 attendees to discover what foods they had eaten at the party and pinpoint the exact cause of the disease; 312 responses were received. The results are found in the table below.
+
+| Food | People who ate — Sick | People who ate — Well | People who didn’t eat — Sick | People who didn’t eat — Well |
+|---|---|---|---|---|
+| Pizza | 111 | 108 | 56 | 37 |
+| Chicken Wings | 45 | 43 | 110 | 114 |
+| Potato Chips | 33 | 54 | 112 | 113 |
+| Fries | 71 | 83 | 80 | 78 |
+| Fresh Fruit | 45 | 70 | 98 | 99 |
+| Burgers | 97 | 57 | 61 | 97 |
+| Hotdogs | 54 | 23 | 98 | 137 |
+| Cake | 132 | 135 | 22 | 23 |
+| Ice Cream | 87 | 92 | 67 | 66 |
+
+36. [frq, 1 pt] Define incubation period.
+
+37. [frq, 1 pt] What is the difference between incubation period and latency period?
+
+38. [frq, 2 pt] What is the typical incubation period for salmonella? Does this fit what we know about the oubreak?
+
+39a. [frq, 1 pt] Define a descriptive study.
+
+39b. [frq, 1 pt] Define an analytical study.
+
+40. [mcq, 1 pt] Is this study descriptive or analytical?
+    A) descriptive
+    B) analytical
+
+41a. [frq, 1 pt] Define an observational study.
+
+41b. [frq, 1 pt] Define an experimental study.
+
+42. [mcq, 1 pt] Is this study observational or experimental?
+    A) observational
+    B) experimental
+
+43. [frq, 1 pt] What type of study was this?
+
+44a. [frq, 1 pt] Name two benefits of this type of study and two drawbacks. Benefit 1
+
+44b. [frq, 1 pt] Name two benefits of this type of study and two drawbacks. Benefit 2
+
+44c. [frq, 1 pt] Name two benefits of this type of study and two drawbacks. Drawback 1
+
+44d. [frq, 1 pt] Name two benefits of this type of study and two drawbacks. Drawback 2
+
+45. [frq, 1 pt] What is the appropriate statistic to calculate here?
+
+47. [frq, 2 pt] Which food(s) seem most implicated in causing the outbreak?
+
+48a. [frq, 1 pt] List two reasonable prevention strategies to avoid a similar outbreak occurring in the future. Strategy 1
+
+48b. [frq, 1 pt] List two reasonable prevention strategies to avoid a similar outbreak occurring in the future. Strategy 2
+
+49. [frq, 1 pt] Define recall bias.
+
+50. [frq, 1 pt] How may recall bias have affected the data of this case study?
+
+
+=== Part 4: Current Events and History ===
+
+52. [frq, 2 pt] Who is known as the “father of field epidemiology” and what disease did he most famously study?
+
+53. [frq, 1 pt] What ancient greek physician was the first epidemiologist?
+
+54. [numeric, 1 pt] What year was the World Health Organization established?

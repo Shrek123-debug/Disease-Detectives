@@ -1,0 +1,218 @@
+UGA — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  53 questions, 68.0 pts
+Source: scio.ly test archive id a385ea34-ffb9-4715-93f0-6e6e21fcea35  |  original files: https://drive.google.com/drive/folders/1Ohncv_-yIsmg5vgE0IQ2XxL9An8cUen0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: This is a 42 question exam, where you can earn a total of 86 possible points. You will be allotted 50 minutes to complete the exam. Please pace yourself accordingly. Figures are not necessarily drawn to scale. There is no penalty for questions left unanswered or for questions answered incorrectly.
+
+
+=== Section I: Basics and Definitions ===
+
+1. [frq, 1 pt] Patient zero is also known as ____.
+
+2. [frq, 1 pt] ____ is the rate of death, while ____ is the rate of disease.
+
+3. [frq, 1 pt] A ____ disease can be transmitted from animals to humans.
+
+4. [frq, 1 pt] A cluster is what?
+
+5. [frq, 1 pt] Please give an example of cross-contamination.
+
+6. [frq, 1 pt] What is the difference between the Incubation period and the Latent period?
+
+[STIMULUS] What are the nine criteria to establish a cause-and-effect relationship?
+    | Label | Answer |
+    | a | [[q:7a]] |
+    | b | [[q:7b]] |
+    | c | [[q:7c]] |
+    | d | [[q:7d]] |
+    | e | [[q:7e]] |
+    | f | [[q:7f]] |
+    | g | [[q:7g]] |
+    | h | [[q:7h]] |
+    | i | [[q:7i]] |
+
+7a. [frq, 1 pt] Label (a)
+
+7b. [frq, 1 pt] Label (b)
+
+7c. [frq, 1 pt] Label (c)
+
+7d. [frq, 1 pt] Label (d)
+
+7e. [frq, 1 pt] Label (e)
+
+7f. [frq, 1 pt] Label (f)
+
+7g. [frq, 1 pt] Label (g)
+
+7h. [frq, 1 pt] Label (h)
+
+7i. [frq, 1 pt] Label (i)
+
+8. [frq, 1 pt] What are these nine criteria commonly referred to as?
+
+[STIMULUS] Please answer the following with True (T) or False (F):
+
+9. [tf, 1 pt] True or False: Mad cow disease is caused by proteins.
+    A) True
+    B) False
+
+10. [tf, 1 pt] True or False: All foodborne illnesses can be prevented by proper pasteurization and refrigeration.
+    A) True
+    B) False
+
+11. [tf, 1 pt] True or False: Tertiary prevention may prevent progression into symptomatic disease.
+    A) True
+    B) False
+
+12. [tf, 1 pt] True or False: The Black Plague is an example of a pandemic.
+    A) True
+    B) False
+
+13. [tf, 1 pt] True or False: A person has to directly consume the infested food item in order to become sick.
+    A) True
+    B) False
+
+15. [tf, 1 pt] True or False: Herd Immunity requires about 80% of a community to be vaccinated in order to work.
+    A) True
+    B) False
+
+16. [tf, 1 pt] True or False: Selection bias only occurs when the organizers specifically choose their study participants.
+    A) True
+    B) False
+
+[STIMULUS] Please rank the ten steps to investigate an outbreak in order.
+
+A. Establish the existence of an outbreak
+B. Refine hypotheses and carry out additional studies
+C. Describe and orient the data in terms of person, place, and time
+D. Verify the diagnosis
+E. Develop hypotheses
+F. Communicate findings
+G. Prepare for field work
+H. Implement control and prevent measures
+I. Define and identify cases
+J. Evaluate hypotheses
+
+17. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 17)
+
+18. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 18)
+
+19. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 19)
+
+20. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 20)
+
+21. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 21)
+
+22. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 22)
+
+23. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 23)
+
+24. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 24)
+
+25. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 25)
+
+26. [frq, 1 pt] Rank the ten steps to investigate an outbreak in order. (Step 26)
+
+27. [frq, 12 pt] List the different study designs and give their advantages and disadvantages
+    [IMAGE: ../images/2018_uga_c__p4_vcc5654-f50d43a4.webp]
+
+
+=== Section II: Case Studies ===
+
+[STIMULUS] Use the following information to answer questions 28-33:
+
+A local high school has had a recent food poisoning outbreak. Below is a table of instances over the course of two weeks. Assume that the reporting is complete and accurate. There are 800 students, 75 teachers, and 25 staff at this school.
+    [IMAGE: ../images/2018_uga_c__p4_v310eac-ac9f6126.webp]
+    [IMAGE: ../images/2018_uga_c__p4_va94971-e8ba6ad8.webp]
+    | Day | N cases amongst students | N cases amongst teachers | N cases amongst staff |
+    | 1 | 10 | 2 | 1 |
+    | 2 | 10 | 2 | 2 |
+    | 3 | 20 | 3 | 3 |
+    | 4 | 40 | 5 | 4 |
+    | 5 | 40 | 7 | 5 |
+    | 6 | 60 | 4 | 3 |
+    | 7 | 80 | 2 | 2 |
+    | 8 | 100 | 1 | 1 |
+    | 9 | 70 | 0 | 0 |
+    | 10 | 50 | 0 | 0 |
+    | 11 | 30 | 0 | 0 |
+    | 12 | 30 | 0 | 0 |
+    | 13 | 10 | 0 | 0 |
+    | 14 | 0 | 0 | 0 |
+
+29. [mcq, 1 pt] Which classification of an epidemic curve does your answer from question 11 fall into?
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated (Progressive) Source
+
+30. [frq, 1 pt] What day was the peak of the outbreak?
+
+31. [frq, 1 pt] What is the relative risk for the students?
+
+32. [frq, 2 pt] What is the relative risk for the teachers compared to the relative risk for the staff?
+
+33. [frq, 2 pt] After an initial investigation, it was decided that the school-provided lunch was the cause of the food poisoning. The common items amongst the students were chicken nuggets, french fries, mashed potatoes, ham, milk, water, cake, and jello. The attack rates were .85, .53, .48, .32, .60, .20, .37, .13, .79, respectively. What two items are the most likely sources for the food poisoning outbreak?
+
+
+=== Section III: Applied Knowledge ===
+
+[STIMULUS] Influenza can be spread by airborne transmission, yet the total number of cases in the US currently is not known. Researchers want to test 1000 randomly selected people in Athens, Georgia every week for an entire year. One of the researchers states that income levels may have an effect on transmission.
+
+34a. [frq, 1 pt] Income is an example of what type of variable in this study?
+
+34b. [frq, 1 pt] How might the researchers account for income disparity without sampling the entire US?
+
+35. [mcq, 1 pt] Which of the following would decrease the incidence of a chronic disease in a population?
+    A) Prolonging the lives of the people with the disease
+    B) Secondary prevention
+    C) Primary prevention
+    D) Decreasing the case-fatality rate for the disease
+
+36. [mcq, 1 pt] A physician is studying the effects of drug A, drug B, and drug C on cognitive performance in Alzheimer patients. She administers a memory tests to all three groups of subjects and compares their mean scores. What statistics test would be most effective?
+    A) T-test
+    B) ANOVA
+    C) Linear regression
+    D) Chi-squared
+
+[STIMULUS] You your Science Olympiad team agree to have a “Scioly-Style” thanksgiving, because your Scioly family is your real family. There are fifteen members on your team. A few days after thanksgiving, several members of the team exhibit similar symptoms including diarrhea, fever, and nausea. Of the 12 that had turkey, 9 got sick. Of the three that had the eggs, 1 got sick. 8 people had a burger, and 4 got sick.
+
+37a. [frq, 3 pt] Calculate the attack rate of each dish.
+
+[STIMULUS] You are hosting a Science Olympiad tournament (that is certainly not at UGA). Students report feeling nauseated, vomiting, and receiving chills up to a week after the tournament. The symptoms range from 0-36 hours long. Approximately 500 of the students ate food provided at the tournament. 230 show symptoms.
+
+38a. [frq, 1 pt] Calculate the incidence rate among students who attended the competition.
+
+38b. [frq, 1 pt] Calculate the incidence rate among students who ate the food at the tournament.
+
+38c. [frq, 1 pt] Does this report indicate that stomach issues are due to the food consumed at the tournament?
+
+38d. [frq, 1 pt] Does this constitute an epidemic?
+
+39. [mcq, 1 pt] Malaria that exists permanently in a specific part of Africa can best be described as an
+    A) Epidemic
+    B) Pandemic
+    C) Endemic
+    D) None of the above
+
+40. [mcq, 1 pt] You have isolated an infectious agent from the serum of an infected individual. You’ve determined that the infectious agent contains both carbohydrates and proteins, and is between 20 and 300 nm. This is most likely a:
+    A) Virus
+    B) Bacteria
+    C) Protists
+    D) Fungi
+
+41. [mcq, 1 pt] This type of outbreak occurs when one source has infected individuals over a prolonged period of time.
+    A) Point source outbreak
+    B) Continuing common source outbreak
+    C) Propagated Outbreak
+    D) None of the above
+
+[STIMULUS] A new method for diagnosing pancreatic cancer is established. Testing results yielded this two by two table:
+    |  | Has pancreatic cancer | Does not have Pancreatic cancer | Total |
+    | Positive Test Result | 45 | 55 | 100 |
+    | Negative Test Result | 20 | 80 | 100 |
+    | Total | 65 | 135 | 200 |
+
+42a. [frq, 1 pt] Calculate the sensitivity of the method:
+
+42b. [frq, 1 pt] Calculate the specificity of the method:

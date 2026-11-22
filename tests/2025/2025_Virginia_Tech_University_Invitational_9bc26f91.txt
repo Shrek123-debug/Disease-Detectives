@@ -1,0 +1,356 @@
+Virginia Tech University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  66 questions, 146.0 pts
+Source: scio.ly test archive id 9bc26f91-a2c5-4f5a-beca-3cce1ae21103  |  original files: https://drive.google.com/drive/folders/1uv_aNdDVI8ZS1jmfVil6X9VnU3MyuS55
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 16
+
+DIRECTIONS: Complete each of the following questions to your best ability. Point values for the problems are noted at the end of each question in parentheses.
+
+
+=== i– Background & Surveillance ===
+
+[STIMULUS] Word bank:
+1. William Farr
+2. Edward Sydenstricker
+3. Jonas Salk
+4. Louis Pasteur
+
+1a. [mcq, 1 pt] Using the word bank, fill in the blank with the name of a main contributor to public health: "Confirmed the germ theory and developed a vaccine for anthrax."
+    A) William Farr
+    B) Edward Sydenstricker
+    C) Jonas Salk
+    D) Louis Pasteur
+
+1b. [mcq, 1 pt] Using the word bank, fill in the blank with the name of a main contributor to public health: "An American researcher who created the polio vaccine."
+    A) William Farr
+    B) Edward Sydenstricker
+    C) Jonas Salk
+    D) Louis Pasteur
+
+1d. [mcq, 1 pt] Using the word bank, fill in the blank with the name of a main contributor to public health: "Known as the 'father of modern vital statistics'."
+    A) William Farr
+    B) Edward Sydenstricker
+    C) Jonas Salk
+    D) Louis Pasteur
+
+2. [mcq, 2 pt] Which scientist developed the first successful vaccine?
+    A) Edward Jenner
+    B) Louis Pasteur
+    C) Alexander Fleming
+    D) Jonas Salk
+    E) None of the above
+
+3. [mcq, 2 pt] Who is credited with conducting the first controlled clinical trial in history while studying scurvy among sailors?
+    A) Mantel and Haenszel
+    B) Edward Jenner
+    C) William Farr
+    D) James Lind
+    E) None of the above
+
+4. [mcq, 2 pt] Which event marked the initiation of large-scale community trials for cardiovascular disease risk factors?
+    A) North Karelia Project
+    B) Framingham Study
+    C) Surgeon General's Report on Smoking
+    D) Salk Polio Vaccine Trials
+
+5. [mcq, 2 pt] Which epidemiologist's research linked dietary deficiencies to pellagra?
+    A) Alexander Fleming
+    B) Joseph Goldberger
+    C) James Lind
+    D) John Graunt
+    E) None of the above
+
+6. [mcq, 2 pt] Black Death lasted from 1346 to 1353, and it spread from China to Germany, Switzerland, and Austria alongside the Silk Road. Which pattern of disease does this scenario represent?
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Syndemic
+
+7. [tf, 2 pt] A syndemic involves the interaction of multiple diseases or health conditions that exacerbate each other's effects within a population.
+    A) True
+    B) False
+
+[STIMULUS] Match the following scenarios to the correct epidemiological pattern for questions 9-11.
+
+9. [mcq, 2 pt] Scenario 1: Increased cases of diabetes and cardiovascular disease in a population due to high rates of obesity and lack of physical activity.
+    A) Pandemic
+    B) Syndemic
+    C) Epidemic
+    D) Endemic
+    E) None of the above
+
+10. [mcq, 2 pt] Scenario 2: Cholera outbreak in a small town after a contaminated water source is identified.
+    A) Pandemic
+    B) Syndemic
+    C) Epidemic
+    D) Endemic
+    E) None of the above
+
+11. [mcq, 2 pt] Scenario 3: A health department reports 500 cases of influenza this season, consistent with the annual average over the past 10 years. Which pattern of disease does this represent?
+    A) Endemic
+    B) Sporadic
+    C) Pandemic
+    D) Epidemic
+    E) None of the above
+
+[STIMULUS] A patient is diagnosed with tuberculosis. Identify the following components of the Chain of Infection.
+
+12i. [frq, 2 pt] Identify the Reservoir.
+
+12ii. [frq, 2 pt] Identify the Portal of Exit.
+
+12iii. [frq, 2 pt] Identify the Mode of Transmission.
+
+12iv. [frq, 2 pt] Identify the Portal of Entry.
+
+12v. [frq, 2 pt] Identify the Susceptible Host.
+
+13. [mcq, 2 pt] Which of the following health determinants is most directly related to an individual's lifestyle choices and habits that influence their health?
+    A) Genes and biology
+    B) Social and societal characteristics
+    C) Health behaviors
+    D) Access to and use of health services and medical care
+    E) All of the above
+
+14. [mcq, 2 pt] Which of the following best represents the relationship between pathogenicity and virulence?
+    A) Pathogenicity measures exposure while virulence measures infection rates
+    B) Pathogenicity refers to infected persons developing clinical disease while virulence refers to the severity of illness
+    C) They are interchangeable terms measuring disease severity
+    D) Pathogenicity measures death rates while virulence measures infection rates
+
+15. [mcq, 2 pt] What are features of descriptive epidemiological studies?
+    A) Risk factors
+    B) Characterization of the problem
+    C) Comparison groups
+    D) All of the above
+
+17. [mcq, 2 pt] During which stage of disease does secondary prevention typically occur?
+    A) Susceptibility
+    B) Subclinical
+    C) Clinical
+    D) Recovery
+
+18. [mcq, 2 pt] What phase of the natural history of disease do symptoms typically occur?
+    A) Before stage of susceptibility
+    B) Between stage of susceptibility and subclinical
+    C) Between stage of subclinical and clinical
+    D) Between stage of clinical and recovery
+
+19. [frq, 4 pt] Differentiate descriptive and analytical epidemiology.
+
+20. [mcq, 2 pt] In 2024, public health officials noticed a rise in respiratory infections. They initiated an investigation by sending teams to interview patients and collect data, including samples, from affected regions. Upon request, a select group of healthcare facilities monitored and reported weekly trends in respiratory symptoms and noticed coughing and nasal congestion among the most reported. They continued this process over the next 6 months. What types of surveillance are being used in this scenario?
+    A) Passive and sentinel
+    B) Active and sentinel
+    C) Active and passive
+    D) Sentinel only
+    E) None of the above
+
+21. [mcq, 2 pt] The Schiffert Health center located across from McComas Hall routinely submits monthly reports of Hokie Plague cases from patient visits to the state health department. What type of surveillance is used in this scenario?
+    A) Active
+    B) Sentinel
+    C) Syndromic
+    D) A and B
+    E) None of the above
+
+22. [frq, 4 pt] Name and differentiate each of the five steps of the public health surveillance process.
+
+
+=== ii. Patterns, Control, and Prevention & Outbreak Investigation ===
+
+24. [numeric, 3 pt] In a population of 20,000 people, 10,000 are vaccinated against a particular virus. Over the next year, 30 vaccinated individuals and 80 unvaccinated individuals contract the virus. Calculate the vaccine effectiveness in this real-world scenario. Show your work for full credit (ROUND TO THE TENTH PLACE OF PERCENTAGE).
+
+25. [mcq, 2 pt] Which of the following Bradford Hill Criteria for assessing causality in epidemiology is NOT crucial for determining cause?
+    A) Strength of association
+    B) Temporality
+    C) Biological plausibility
+    D) Specificity of the association
+
+26. [multi, 2 pt] Which of the following is/are features of the adjusted Bradford-Hill "temporality" criterion in Evan's postulates? Choose all that apply.
+    A) Disease should follow exposure.
+    B) Exposure should follow disease.
+    C) The distribution of incubation periods should be a bell-shaped curve.
+    D) The time of onset of illness between patients 0 and 1 should be equal to the time of onset of illness between patients 100 and 101.
+
+27. [mcq, 2 pt] What is the primary focus of Koch's postulates?
+    A) Determining the strength of association between a microorganism and the number of people who will be affected.
+    B) Establishing causality by isolating and reproducing a microorganism from a diseased host.
+    C) Assessing the temporal relationship between exposure and disease.
+    D) Evaluating the consistency of an association in multiple studies.
+
+[STIMULUS] For questions 30-31, refer to the following figure:
+    [IMAGE: ../images/2025_virginia_tech_university_invitational_c__p8_e1be5c-794cf7e4.webp]
+
+30. [frq, 1 pt] Name the type of causality model shown above [PubMed source].
+
+31. [frq, 2 pt] The illustration provided in the previous question was designed to describe a study estimating the effect of the number of sexual partners on the development of cervical cancer. What type of bias is shown by the illustration?
+
+32. [frq, 2 pt] What value, X, is achieved using the following calculation?
+    
+    X = Σ[(current life expectancy) - (age at death)] for each person who died earlier than current life expectancy
+
+33. [mcq, 2 pt] For the calculation shown and identified in the previous question, you are interested in studying the impact of COVID-19 (during 2019-2022) on Bucks County. To perform this calculation, the summation should be taken for…
+    A) All Bucks County residents during 2019-2022.
+    B) All Bucks County residents who died during 2019-2022.
+    C) All Bucks County residents who died as a result of COVID-19 during 2019-2022.
+    D) All Bucks County residents who died as a result of COVID-19 at an age younger than the current life expectancy during 2019-2022.
+
+34. [mcq, 2 pt] During an outbreak investigation, which group is most likely to be affected by recall bias?
+    A) Epidemiologists
+    B) Control group members
+    C) Health department officials
+    D) Affected individuals
+
+35. [mcq, 2 pt] What is a significant disadvantage of cohort studies?
+    A) They are prone to recall bias.
+    B) They are expensive and time-consuming.
+    C) They cannot identify rare diseases.
+    D) They cannot determine disease prevalence.
+
+41. [frq, 3 pt] The total number of people living with ovarian cancer is estimated to be 0.15% of females (300,000 women living with ovarian cancer in the United States / 200,000,000 females in the United States). The ovarian cancer prevalence is often incorrectly reported as 0.09%. What data analysis or calculation mistake likely leads to this inaccurate value?
+
+42. [numeric, 3 pt] The annual incidence of prolactinomas is approximately 1.65 / 100,000 people annually in the United States. The median survival at the time of diagnosis is approximately 18 months. What is the prevalence of prolactinomas in the US?
+
+43. [mcq, 2 pt] What level of disease prevention is described here?
+    
+    Disease of Interest: Type 2 diabetes
+    Intervention: Constructing safe sidewalks in a neighborhood to promote exercise
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+44. [mcq, 2 pt] What level of disease prevention is described here?
+    
+    Disease of Interest: Stroke
+    Intervention: Taking daily aspirin after a first stroke to prevent a second stroke
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+45. [mcq, 2 pt] What level of disease prevention is described here?
+    
+    Disease of Interest: Breast cancer
+    Intervention: County-wide mammography clinic for breast cancer screening
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+46. [mcq, 2 pt] What level of disease prevention is described here?
+    
+    Disease of Interest: Mental health conditions
+    Intervention: Conduct review and ensuring fulfillment of all evidence-based diagnostic criteria before prescribing anxiolytics
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+47. [mcq, 2 pt] A town, Fairfact, is dealing with an increase in cases of food-borne illnesses. What primary approach should be prioritized to address this issue?
+    A) Distribution of probiotics
+    B) Vaccination campaigns
+    C) Improving food safety regulations
+    D) Implementing indoor residual spraying of insecticides
+
+[STIMULUS] For questions 48-52, refer to the following:
+
+The VT's Science Olympiad of 128 students was having a potluck in Blacksburg on April 20th, 2019. The experimental design group brought sandwiches, which include lettuce, tomatoes, mayonnaise, and roasted chicken. The forensics group brought hot dogs, composed mainly of buns and sausages. The ecology group brought desserts, including ice cream and cookies. The disease detectives group brought drinks, including apple juice and milk tea. Within 3-4 days, the SciOly groups began to complain of sickness. Their symptoms all included nausea, vomiting, fever, watery diarrhea, muscle pain, stiff neck, and headaches.
+
+|  | Attended the potluck | Did not attend the potluck |
+|---|---|---|
+| Case | 65 | 2 |
+| Control | 43 | 18 |
+
+48. [frq, 3 pt] Construct a case definition based on information given.
+
+49. [frq, 2 pt] Which type of epidemiological study should be implemented? And for that type, what is the appropriate measure of risk?
+
+50. [numeric, 3 pt] Calculate the appropriate measure of risk you picked above for this study. Show your work for full credit (ROUND TO 2 DECIMAL PLACES).
+
+51. [frq, 2 pt] Interpret the result of the previous question.
+
+52. [frq, 2 pt] Why are the sandwiches a possible confounder?
+
+[STIMULUS] For questions 53-58, refer to the following:
+
+Sandwiches have been ruled out as a possible confounder; therefore, they are not continuing to be studied.
+
+| Food | Ate - Case | Ate - Control | Ate - Total | Did not eat - Case | Did not eat - Control | Did not eat - Total |
+|---|---|---|---|---|---|---|
+| Hot dogs | 39 | 23 | 62 | 11 | 27 | 38 |
+| Ice Cream | 40 | 47 | 87 | 10 | 3 | 13 |
+| Cookies | 21 | 25 | 46 | 19 | 35 | 54 |
+| Apple Juice | 7 | 14 | 21 | 69 | 10 | 79 |
+| Milk Tea | 24 | 50 | 74 | 20 | 6 | 26 |
+
+53. [frq, 10 pt] Calculate the attack rate for each of the listed foods above. Show your work for full credit (EXPRESS THEM IN PERCENTAGES TO THE TENTH PLACE).
+
+54. [frq, 2 pt] Given the results you calculated, which food had the greatest risk of transmitting the illness?
+
+55. [mcq, 2 pt] With all the information given so far, which disease is this most likely to be?
+    A) Salmonella
+    B) Botulism
+    C) E. coli
+    D) Vibrio
+    E) Listeriosis
+
+56. [frq, 2 pt] What is the most common test to detect a foodborne illness?
+
+58. [frq, 2 pt] What is the difference between vertical and horizontal transmission? Would the transmission of this illness be considered either, both, or none of these two transmissions?
+
+59. [frq, 4 pt] What are the 4 types of errors? Define and give an example for each.
+
+[STIMULUS] For questions 60-67, refer to the following:
+
+There has been an outbreak of bacterial pneumonia among children in Charlottesville, Virginia. The first case was reported on April 20, and today is April 25. As of today, 68 children have come down with pneumonia, and there have been 10 deaths. Common symptoms include cough, fever, best pain, shortness of breath, and fatigue. The incubation period is estimated to be around 1-3 days. Children are contagious through droplet transmission for about 2 days after symptoms begin.
+
+| Date | # of Cases |
+|---|---|
+| 4/20 | 3 |
+| 4/21 | 17 |
+| 4/22 | 6 |
+| 4/23 | 19 |
+| 4/24 | 10 |
+| 4/25 | 13 |
+
+61. [frq, 2 pt] What is an index case? What date did the index case show up in this scenario?
+
+62. [frq, 2 pt] Using the case data and the information above, what type of epi-curve is this outbreak and why?
+    [IMAGE: ../images/2025_virginia_tech_university_invitational_c__p15_rcb4f68d-3c62529d.webp]
+
+63. [frq, 3 pt] Calculate the case-fatality rate. Show your work for full credit (EXPRESS IT IN A PERCENTAGE TO THE TENTHS PLACE).
+
+64. [frq, 1 pt] What is droplet transmission?
+
+65. [frq, 3 pt] What are 3 ways to prevent contracting bacterial pneumonia?
+
+66. [frq, 2 pt] What is the difference between quarantine and isolation? Which would you put the infected children into?
+
+67. [frq, 2 pt] Define nosocomial infection. Why would this not always be considered a nosocomial infection?
+
+[STIMULUS] TIEBREAKER: Fill in the blank. The stage of subclinical disease is usually called the ____ period for infectious diseases, while it is called the ____ period for chronic diseases. During this period, the disease is known to be ____.
+
+68-1. [frq, 1 pt] The stage of subclinical disease is usually called the ____ period for infectious diseases, while it is called the (…) period for chronic diseases. During this period, the disease is known to be (…).
+
+68-2. [frq, 1 pt] The stage of subclinical disease is usually called the (…) period for infectious diseases, while it is called the ____ period for chronic diseases. During this period, the disease is known to be (…).
+
+68-3. [frq, 1 pt] The stage of subclinical disease is usually called the (…) period for infectious diseases, while it is called the (…) period for chronic diseases. During this period, the disease is known to be ____.
+
+[STIMULUS] For questions 69-71, refer to the following:
+
+On June 7, 2020, the Virginia Department of Health confirmed a case of malaria. The patient had travel history outside the United States, and it was found that the patient's family members were experiencing similar symptoms of chills, fatigue, and fever. A week later, the Virginia Department of Health received reports of more people who had symptoms that resembled that of malaria. It was discovered that a commonality between the group of people is that they recently traveled to Niger for either a business or vacation trip. The first person who came back to the US among the group of people infected with malaria was on June 1, 2020.
+
+Then, 773 RDT tests were ordered, but only 151 were laboratory positive cases of malaria. The Virginia Department of Health was concerned about positive false negatives, so they decided to determine the RDT validity against the standard test which was used to diagnose malaria. Results were as follows:
+
+Table 1: Results of RDT Validity against standard malaria test
+
+|  | Standard Test Positive | Standard Test Negative |
+|---|---|---|
+| RDT Positive | 135 | 90 |
+| RDT Negative | 16 | 532 |
+
+69. [frq, 2 pt] What type of infectious disease is malaria? What is the genus of the microorganism which causes malaria?
+
+70. [frq, 3 pt] Calculate RDT sensitivity. Show your work for full credit (MAKE SURE TO ANSWER IN PERCENTAGES TO THE HUNDREDTH PLACE).

@@ -1,0 +1,575 @@
+Rickards Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  70 questions, 133.0 pts
+Source: scio.ly test archive id 36e38bad-ce08-4db0-b465-1d82e8fb3db6  |  original files: https://drive.google.com/drive/folders/13yNsNguUT7TDjLAdM3b6kffzSh7rgR5A
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: Welcome to RSO's Disease Detectives test!
+Good luck!
+This test is sponsored by Florida State University's College of Arts and Sciences
+
+
+=== Part 1. Foodborne Outbreak ===
+
+[STIMULUS] On March 15, 2024 date, Birdsville hospital reports that two of their patients have died. The patients did not know each other. You receive the following information from them.
+
+**Angie**
+Age 48, Female
+- Ate lunch with her family at Timmy’s restaurant around 12:30 PM on March 13
+- Developed severe nausea, vomiting, and diarrhea on the same day around 1:45 PM
+- Hospitalized at 4:43 PM on the same day
+- Died at 6:04 AM on March 15
+
+**Kavi**
+Age 27, Male
+- Ate dinner at Timmy’s restaurant around 7:00 PM on March 15
+- severe nausea, vomiting, and diarrhea around 8:00 PM
+- Hospitalized around 8:30 PM
+- Discharged from emergency department 9:00 PM, after being given painkillers and fluids
+- Died around 10 PM on March 15
+
+1. [frq, 6 pt] Give 3 reasons you might want to investigate this outbreak.
+
+2. [mcq, 3 pt] Given what you know about the case so far, which of the following statements are true?
+    A) The illness was likely caused by norovirus.
+    B) The illness was likely caused by salmonella.
+    C) The illness was likely caused by listeria.
+    D) The illness was likely caused by a parasite.
+    E) The illness was likely caused by a prion.
+    F) None of the above.
+
+4. [multi, 3 pt] At this point in the investigation, what are actions you should take?
+    A) Tell people to stop eating at Timmy’s restaurant
+    B) Contact other hospitals to ask about similar cases
+    C) Perform more tests to determine the causative agent
+    D) Prepare for field work
+    E) Create a probable and confirmed case definition
+
+[STIMULUS] Your team looks for more information and learns the following. 46 other people reported severe gastrointestinal illness after eating at Timmy’s restaurant. Since the majority of them report having eaten a specialty sushi dish made with raw salmon and morel mushrooms, you and your team decide to investigate that further.
+
+5. [frq, 2 pt] Your team notices that people who ate more pieces of sushi became more ill. Which of Hill’s criteria does this satisfy?
+
+6. [multi, 3 pt] Which of the following can you learn/estimate from an epi curve?
+    A) Range of incubation period
+    B) Average duration of illness
+    C) When patient 0 got ill
+    D) Natural history of disease
+    E) R0 of disease
+    F) Prevalence during peak of outbreak
+
+7. [frq, 6 pt] You and your team take samples of the food and environment and deliver it to a lab. The lab does not find any common pathogens or toxins in any samples. List 3 possible reasons why.
+
+8. [frq, 2 pt] A fellow epidemiologist asks if you want to take more environmental samples to further this investigation. What do you think?
+
+9. [mcq, 3 pt] To better identify the cause, you decide to conduct a matched case-control study. Which are true about a matched case control study?
+    A) Matching means finding controls that have similar factors (ie age or sex)
+    B) The ratio between controls:cases will be 1:1 in a matched case controls study
+    C) Matching will help control all confounding factors
+    D) A matched (or conditional) analysis is needed to analyze matched case-control studies
+
+10. [frq, 2 pt] Your fellow epidemiologist suggests drawing study participants from the hospital. What possible bias could arise from this?
+
+14. [multi, 3 pt] Concerned that other people may also be at risk, you trace the source of the mushrooms, revealing that they were imported from overseas and distributed to 6 other restaurants across the US. All of them have served the mushrooms, but none of them have reported any illness. Which federal departments would be involved in this investigation?
+    A) FDA
+    B) CDC
+    C) DoJ
+    D) EPA
+    E) APHIS
+
+15. [frq, 1 pt] What is the scientific name of the morel mushroom?
+
+16. [frq, 3 pt] You ask the head chef how the mushrooms were prepared. Timmy tells you that on February 20th, boiling butter was poured over the mushrooms, which were then marinated in a warm sauce. On March 13th, the mushrooms were marinated in a cold sauce only. In general, the people who ate the sushi on the 20th got less ill than those who ate it on the 13th. Which of Hill’s criteria does this satisfy?
+
+18. [frq, 6 pt] Speculate on the exact cause of the illness. Reasonable but incorrect answers earn half credit.
+
+
+=== Case 2. Heart Failure ===
+
+[STIMULUS] Heart failure describes an inability of the heart to fill with blood, which makes it less effective at pumping blood to the body. Since every part of the body relies on the oxygen blood carries, it can lead to severe health consequences and even death.
+
+19. [mcq, 1 pt] Prior to the 1800s, what was the main cause of mortality in humans?
+    A) Cancer
+    B) Infectious disease
+    C) Accidents / violence
+    D) Heart disease / stroke
+
+20. [mcq, 1 pt] Currently, what is the main cause of mortality in humans?
+    A) Cancer
+    B) Infectious disease
+    C) Accidents / violence
+    D) Heart disease / stroke
+
+21. [frq, 1 pt] High blood pressure, physical inactivity, and smoking are ____ factors for heart disease.
+
+23. [mcq, 1 pt] After a patient suffers from heart failure, they are prescribed ACE inhibitors. Which of the following types of prevention is this?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quarternary
+
+24. [mcq, 2 pt] The ACC/AHA introduced the following four stages of heart failure: high risk of HF, but no structural changes; structural heart disorder without symptoms; symptoms of HF managed by medication, advanced stage disease requiring hospitalization, palliative care, or transplant. This describes the
+    A) Stages of prevention
+    B) Spectrum of disease
+    C) Etiology of heart disease
+    D) Natural history of disease
+
+25. [numeric, 3 pt] According to a paper by Groenewegen et al., the incidence rate of heart failure in 2010 in the US was about 2.2 cases per 1000 person years. Assuming the US had a population of 300 million people and 6 million people have heart failure, and the incident rate stays constant during this time, how many new cases of heart failure would you expect to see from 2010-2015? Round to the nearest integer.
+
+26. [multi, 3 pt] The Framingham criteria was developed during a study of heart failure where residents of Framingham, Massachusetts were followed to study potential risk factors for heart disease. This is a ____ study. Select all words that can go into the blanks.
+    A) Cross-sectional
+    B) Longitudinal
+    C) Cohort
+    D) Case-control
+    E) Experimental
+    F) Observational
+
+27. [frq, 4 pt] Two studies show that the burden of heart failure is increasing in people under the age of 60. Some proposed reasons for this shift are: increasing rates of obesity and related comorbidities, better survival of patients with congenital heart disease, increase in new causes of heart failure (ie Chagas disease, a vectorborne disease that can lead to chronic cardiovascular issues), and improved diagnostics.
+    
+    Suggest a way to estimate the number of heart failure cases that were overlooked in the past due to worst diagnostic tests.
+
+28. [mcq, 4 pt] Likely, all of the factors listed above contribute to the increase of heart failure burden in people under 60. If you wanted to study how much of the increase is from better survival of patients with congenital heart disease, what would be the best study design? (Assume unlimited time and resources.)
+    A) Experimental
+    B) Quasi-experimental
+    C) Cohort
+    D) Case-control
+    E) Cross-sectional
+    F) Time series
+
+29. [frq, 6 pt] Regardless of your answers above, assume you decide to run a study by taking a group of infants in the hospital, some with congenital heart failure and some without, and following them through adulthood. List 3 potential issues with your plan.
+
+30. [mcq, 6 pt] You obtain a p-value of 0.04. What does this mean?
+    A) If the null hypothesis was true, this outcome would have a 0.04 chance of happening
+    B) If the null hypothesis wasn't true, this outcome would have a 0.04 chance of happening
+    C) If the alternative hypothesis was true, this outcome would have a 0.04 chance of happening
+
+31. [mcq, 2 pt] After you publish your study, you see that other scientists published papers about the other possible causes. You decide to take all the results and study them further to draw more general conclusions. This would be an example of a
+    A) Literature review
+    B) Meta-analysis
+    C) Plagiarism
+    D) Clinical trial
+    E) Observational study
+
+33. [mcq, 2 pt] According to recent studies, the age-adjusted incidence of heart failure has stabilized. Assuming the rate stays constant, what does this mean for the number of heart failure cases in the US in the next century?
+    A) The number of heart failure cases will also stabilize
+    B) The number of heart failure cases will increase
+    C) The number of heart failure cases will decrease
+    D) Not enough information
+
+34. [multi, 3 pt] Select which of the following are public health interventions.
+    A) Encouraging doctors to give statins to patients with high LDL cholesterol
+    B) Build bike lines to encourage more physical activity
+    C) Education campaign to encourage people to eat more nutritious food
+    D) Developing a new screening test for people at risk of heart failure
+
+35. [mcq, 1 pt] Your city starts a surveillance program for heart disease. They ask providers to report when they diagnose someone with heart disease. This is an example of
+    A) Active surveillance
+    B) Passive surveillance
+    C) Sentinel surveillance
+    D) Ecological surveillance
+
+36. [multi, 3 pt] Which of the following are qualities of a well-conducted epidemiological surveillance system?
+    A) Acceptable
+    B) Flexible
+    C) High PPV
+    D) High NPV
+    E) Large geographic scale
+
+37. [mcq, 2 pt] To study possible causes of heart failure, Charlie visits the hospital to ask patients currently recovering from heart attacks about their risk factors. Which of the following biases may affect his study?
+    A) Immortal time bias
+    B) Incidence/Neyman's bias
+    C) Surveillance bias
+    D) Observer bias
+    E) Lead time bias
+    F) Length bias
+
+38. [multi, 3 pt] You develop a new screening test for heart disease and test it in an experimental study. In the study, you notice the patients who were given the screening test and given treatment sooner are surviving longer! Unfortunately, your assistant informs you that the treatment you were giving your patients was found to be ineffective. What bias explains why the patients screened seemed to survive longer?
+    A) Lead time bias
+    B) Berkson's bias
+    C) Neyman's bias
+    D) Length bias
+    E) Recall bias
+    F) Observer bias
+
+
+=== TQD Outbreak! ===
+
+[STIMULUS] An outbreak of the infamous Turkish Quandale Dingle (TQD) disease and you have been assigned to investigate. Good luck!
+
+
+
+A pharmaceutical company called TikTok Rizz Party Incorporated (TRP Inc.) has developed a test called the Brain Rot Detector to detect TQD. Here are the results of the Brain Rot Detector evaluation study.
+
+Answer the questions 39 to 43 using this table. Round all answers to the nearest hundredth and leave as decimals (do not convert to percentages). If the answer is .5 write as .5, not 0.5 or 0.50 (no extra zeros).
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p10_cd1be1-ffeea578.webp]
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p11_d14feb-13cbea2d.webp]
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p11_9bfbef-3191a8e4.webp]
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p12_1505c5-edae59d6.webp]
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p12_32d8b3-5985fa78.webp]
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p12_e08a44-7344d4ef.webp]
+
+39. [numeric, 1 pt] What is the prevalence of TQD in this study?
+
+40. [numeric, 1 pt] What is the sensitivity of the Brain Rot Detector test?
+
+41. [numeric, 1 pt] What is the specificity of the Brain Rot Detector test?
+
+42. [numeric, 1 pt] What is the Positive Predictive Value (PPV) of the Brain Rot Detector test?
+
+43. [numeric, 1 pt] What is the Negative Predictive Value (NPV) of the Brain Rot Detector test?
+
+44. [mcq, 1 pt] The treatment cost for TQD is $1 novemnonagintillion (10³⁰⁰) due to the severity of the disease. Given this information, this test would be best suited as a diagnostic test (compared to a screening test)?
+    A) True
+    B) False
+
+46. [mcq, 1 pt] The scientists at TRP Inc., seeing the huge treatment cost of TQD, finally locked in and developed a perfect Brain Rot Detector test. Which graph below most nearly depicts the perfect performance of this new Brain Rot Detector? The red point shows the evaluation metrics of the test. Each answer choice corresponds to the image below the letter.
+    A) A
+    B) B
+    C) C
+    D) D
+    E) E
+
+47. [mcq, 1 pt] Seeing as the treatment cost is so high for TQD, TRC Inc. first focused on developing a vaccine containing a live attenuated form of the TQD pathogen, the tiktok virus. Assuming their endeavor was successful, what level of prevention would this be?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quartenary
+
+48. [mcq, 1 pt] Which other vaccine is a live-attenuated vaccine?
+    A) Moderna COVID-19 vaccine
+    B) Hepatitis B vaccine
+    C) MMR combined vaccine
+    D) Inactivated poliovirus vaccine (IPV)
+    E) Rabies vaccine
+
+49. [mcq, 1 pt] Which of the following best describes the mechanism of action for a live-attenuated vaccine?
+    A) Uses a killed version of the germ that causes a disease
+    B) Uses a weakened form of the germ that causes a disease
+    C) Uses a live form of the germ that causes a disease
+    D) Uses an alternative form (from another species) of the germ that causes a disease
+    E) Uses a component of the germ that causes a disease
+
+50. [mcq, 1 pt] Since the vaccine was shown to cause adverse-side effects in immunocompromised patients, an alternative serum therapy which administers antibodies to target the TikTok virus. What type of immunity would be given by serum therapy?
+    A) Artificial Active Immunity
+    B) Artificial Passive Immunity
+    C) Natural Active Immunity
+    D) Natural Passive Immunity
+    E) Innate Immunity
+
+51. [frq, 1 pt] However, the first vaccine from TRP Inc. was replaced by a superior mRNA vaccine. Please list three advantages of this type of vaccine compared to a live-attenuated vaccine.
+
+52. [mcq, 1 pt] The new mRNA vaccine is modeled after the Moderna COVID-19 vaccine. Which of the following best describes the mechanism of action for this vaccine?
+    A) The vaccine delivers a harmless, live virus that replicates slowly, stimulating the immune system
+    B) The vaccine delivers mRNA encoding antibody proteins which helps fight the virus
+    C) The vaccine delivers mRNA encoding antiviral peptides which help fight the virus
+    D) The vaccine delivers mRNA encoding spike proteins which trigger antibody production
+    E) The vaccine delivers mRNA encoding apoptotic proteins which trigger cell death in infected cells to prevent spread of infection
+
+53. [frq, 1 pt] The below graphic displays statistics about several viral diseases. What does R₀ stand for? Interpret the R₀ value for the TikTok Virus (go to the nearest whole number for R₀ value estimation).
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p14_ca7558-9febee02.webp]
+
+54. [mcq, 1 pt] What are the units of R₀?
+    A) seconds
+    B) seconds⁻¹
+    C) meters⁻¹
+    D) meters
+    E) None of the above
+
+55. [mcq, 1 pt] Which virus is most likely to be represented by the red dot from question 53?
+    [IMAGE: ../images/2024_rickards_invitational_b_c__p14_ca7558-9febee02.webp]
+    A) Rubella virus
+    B) SARS-CoV-1
+    C) Ebola virus
+    D) Contagion virus
+    E) Measles virus
+
+
+=== History and Background Knowledge ===
+
+[STIMULUS] The following list of people are important figures in the history of epidemiology. Link each one with their contribution. **Only enter the number, not the name.**
+
+- 1\. Jonas Salk
+- 2\. Edward Jenner
+- 3\. Louis Pasteur
+- 4\. Ignaz Semmelweis
+- 5\. Joseph Lister
+- 6\. John Snow
+- 7\. William Farr
+- 8\. Florence Nightingale
+- 9\. James Lind
+- 10\. Doll & Hill
+
+56. [mcq, 1 pt] Father of epidemiology
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+57. [mcq, 1 pt] Rabies vaccine, sterilization by heat
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+58. [mcq, 1 pt] Antiseptic surgery
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+59. [mcq, 1 pt] Lowered childbirth mortality by handwashing between deliveries
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+60. [mcq, 1 pt] Lowered mortality on battlefield wounds by implementing strict hygiene practices in treating soldiers
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+61. [mcq, 1 pt] Ran one of the first clinical trials (studied scurvy)
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+62. [mcq, 1 pt] Smallpox vaccine
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+63. [mcq, 1 pt] Found association between smoking and lung cancer
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+64. [mcq, 1 pt] Developed a systematic way to record morbidity and causes of death
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+65. [mcq, 1 pt] Polio vaccine (one of them)
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+66. [mcq, 2 pt] Your colleague proposes the following surveillance plan for tick borne diseases, but one of the steps is missing! Where in the plan is the missing step?
+    
+    - Contact local health departments across the state for the number of cases of tick borne illnesses.
+    - Map where the diseases are and the temporal trend of tick borne illnesses.
+    - Release the data to the media and on a website.
+    - Use the data to determine where to target tick awareness campaigns.
+    A) Before "Contact local health departments"
+    B) Between "Contact local health departments" and "Map where the diseases are"
+    C) Between "Map where the diseases are" and "Release the data"
+    D) Between "Release the data" and "Use the data"
+    E) After "Use the data"
+
+[STIMULUS] Consider the following words. Match each word to a definition. **Use the number, not the word itself.**
+
+- 1\. Carrier
+- 2\. Determinant
+- 3\. Efficacy
+- 4\. Endemic
+- 5\. Exposure
+- 6\. Fomite
+- 7\. Virulence
+- 8\. Infectious
+- 9\. Contagious
+- 10\. Vector
+
+67. [mcq, 1 pt] Living thing that spreads disease
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+68. [mcq, 1 pt] Can transmit disease, but exhibits no symptoms
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+69. [mcq, 1 pt] Ability to produce intended results under ideal circumstances
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+70. [mcq, 1 pt] Usual prevalence of a condition in a population
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+71. [mcq, 1 pt] Cause of a change in a health condition
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+72. [mcq, 1 pt] Easy to transmit with a small dose
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+73. [mcq, 1 pt] Easily spread between people
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+74. [mcq, 1 pt] Contact with a cause of disease
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+75. [mcq, 1 pt] Severity of disease
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+76. [mcq, 1 pt] Inanimate object that spreads illness
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+    G) 7
+    H) 8
+    I) 9
+    J) 10
+
+78. [mcq, 2 pt] Viruses, in particular, will always violate one specific Koch's postulate. Which of Koch's postulate is it?
+    A) The microorganism must be found in abundance in all organisms suffering from the disease but should not be found in healthy organisms.
+    B) The microorganism must be isolated from a diseased organism and grown in pure culture.
+    C) The cultured microorganism should cause disease when introduced into a healthy organism.
+    D) The microorganism must be re-isolated from the inoculated, diseased experimental host and identified as being identical to the original specific causative agent.
+
+79. [mcq, 2 pt] You want a model of causation that can best depict possible confounding factors so you can control for them in the experiment. Which model should you use?
+    A) Hill's Criteria
+    B) GRADE
+    C) Causal Pie
+    D) Directed Acyclic Graph

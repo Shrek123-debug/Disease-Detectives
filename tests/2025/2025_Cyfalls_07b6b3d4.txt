@@ -1,0 +1,160 @@
+Cyfalls — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  27 questions, 59.0 pts
+Source: scio.ly test archive id 07b6b3d4-fac7-468b-9f11-398b819ba490  |  original files: https://drive.google.com/drive/folders/1S08MXG3lDtmjFRHL4SHrooA4xJYQqZIP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+P1-1. [mcq, 1 pt] A scientist who studies the origin and distribution of all types of diseases is :
+    A) Biochemist
+    B) Social worker
+    C) Epidemiologist
+    D) Demographer
+    E) None of the above
+
+P1-2. [mcq, 1 pt] Which of the following is true about incidence and prevalence?
+    A) Prevalence is used to analyze the rate new cases occur.
+    B) Incidence and prevalence are interchangeable
+    C) Incidence is reported in raw numbers, prevalence is reported as a ratio.
+    D) The incidence for a given disease can be low at the same time its prevalence is high
+    E) None of the above
+
+P1-3. [mcq, 1 pt] If a researcher is interested in reporting how many people in a community were diagnosed with a particular disease in the past month he/she would measure the :
+    A) Incidence
+    B) Prevalence
+    C) Raw data rate
+    D) Age-specific data
+    E) None of the above
+
+P1-4. [mcq, 1 pt] Which if the following is NOT a factor in the increasing emergence of epidemics?
+    A) Increase in international transportation channels
+    B) Migration from rural areas into urban cities.
+    C) Increase in public sanitation
+    D) All of the above
+    E) None of the above
+
+P1-5. [mcq, 1 pt] In epidemiology, a case refers to
+    A) An investigation into an outbreak of disease or illness.
+    B) The classification of a disorder, illness, or injury.
+    C) A collection of a single type of disorder, illness, or injury.
+    D) A single episode of a disorder, illness or injury involving an individual
+    E) None of the above.
+
+P1-6. [mcq, 1 pt] Which of the following best describes influenza pandemics?
+    A) They occur frequently minimal worldwide threat.
+    B) They have been mostly eliminated due to vaccines such as Tamiflu.
+    C) They are unpredictable and occur at irregular intervals.
+    D) They are easily contained to a specific region.
+    E) None of the above
+
+P1-7. [mcq, 1 pt] In a food-borne illness the complaint is most likely to identify a food safety problem from which of the following?
+    A) One person reported becoming ill after eating at the restaurant.
+    B) Several friends became ill with vomiting 4 hours of eating at the restaurant
+    C) Family members ate at the restaurant and developed diarrhea 6 hours later.
+    D) Two people became ill, one with a headache and one with diarrhea.
+    E) None of the above.
+
+P1-8. [mcq, 1 pt] A case definition might include all of the following except.
+    A) Symptoms of the illness
+    B) Laboratory test results
+    C) Food that is the suspected source of the outbreak
+    D) Date of illness outbreak
+    E) None of the above
+
+P1-9. [mcq, 1 pt] A cluster of E. Coli infections is detected with cases from 30 states. Among the cases 66%were under 19 years of age and 71% were female. What is the most likely mode of transmission?
+    A) Person to Person
+    B) Public water supply
+    C) Recreational water
+    D) Food
+    E) None of the above
+
+P1-10. [mcq, 1 pt] Which of the following characteristics would make an outbreak the highest priority for further investigation?
+    A) It has been 3 months since the last onset of the illness.
+    B) Listeria is the causative agent
+    C) Affected people and staff who attended an office dinner.
+    D) Several cases of campylobacteriosis were identified
+    E) None of the above
+
+P1-11. [mcq, 1 pt] What is the measure of association for a case-control study?
+    A) Odds ratio
+    B) Relative risk
+    C) p-value
+    D) Confidential interval
+    E) None of the above
+
+
+=== True false ===
+
+P1-12. [tf, 1 pt] Through Pulsenet, CDC scientists review DNA fingerprints from an electronic data base to identify bacteria that making people sick .
+    A) True
+    B) False
+
+P1-13. [tf, 1 pt] People most likely get Campylobacter infections by eating raw or undercooked poultry.
+    A) True
+    B) False
+
+P1-14. [tf, 1 pt] The development of Penicillin was the main reason Bubonic plague was irradicated in the 1750s.
+    A) True
+    B) False
+
+P1-16. [tf, 1 pt] Improper food handling is not the main causative reason for foodborne disease outbreaks in the United States.
+    A) True
+    B) False
+
+P1-17. [tf, 1 pt] Vectors such as mosquitos and ticks carry pathogens from one host to another, facilitating the spread of disease.
+    A) True
+    B) False
+
+P1-18. [tf, 1 pt] Epidemiology is the branch of medicine that deals with the incidence, distribution, and control of diseases in populations.
+    A) True
+    B) False
+
+P1-19. [tf, 1 pt] Public health measures like social distancing, mask-wearing, and travel restrictions does little to reduce disease transmission.
+    A) True
+    B) False
+
+P1-20. [tf, 1 pt] Environmental changes such as deforestation, urbanization, and climate change can bring in new pathogens.
+    A) True
+    B) False
+
+
+=== SHORT ANSWER
+5 points each ===
+
+[STIMULUS] Over the last few weeks there have been many commercials regarding the health hazards of asbestos. The claim is that asbestos can cause certain cancers including lung cancer. Data was posted on the findings below.
+
+**SMOKERS**
+
+| | ASBESTOS + | ASBESTOS- |
+|---|---|---|
+| LUNG CANCER + | 75 | 5 |
+| LUNG CANCER - | 20 | 80 |
+
+**NON-SMOKERS**
+
+| | ASBESTOS+ | ASBESTOS- |
+|---|---|---|
+| LUNG CANCER+ | 5 | 10 |
+| LUNG CANCER- | 18 | 72 |
+
+**ALL MEN IN STUDY**
+
+| | ASBESTOS+ | ASBESTOS- |
+|---|---|---|
+| LUNG CANCER+ | 80 | 15 |
+| LUNG CANCER- | 38 | 152 |
+
+P2-4A. [numeric, 5 pt] Calculate the overall odds ratio for the study.
+
+P2-4B. [numeric, 5 pt] Calculate the odds ratio for smokers.
+
+P2-4C. [numeric, 5 pt] Calculate the odds ratio for non-smokers.
+
+[STIMULUS] Recently 75 cases from 30 states discovered an infection of Salmonella Hartford, a type of serotype. The investigation showed that the only common experience shared by the people was a visit to a popular theme park. The affected people all participated in “character breakfasts”. The case further showed that 97% of the affected people had consumed fresh-squeezed unpasteurized orange juice from a single producer and processed from the same plant.
+
+P2-5A. [frq, 5 pt] Would you consider this an outbreak? Why or why not?
+
+P2-5B. [frq, 5 pt] What made this a case-control study?
+
+P2-5C. [frq, 5 pt] What is the vector in this case?
+
+P2-5D. [frq, 5 pt] What could be done at the plant to prevent further contamination?
+
+P2-6. [frq, 5 pt] Describe the epidemiologic triad.

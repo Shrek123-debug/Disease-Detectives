@@ -1,0 +1,416 @@
+UCR Highlander Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  61 questions, 91.0 pts
+Source: scio.ly test archive id 75881785-ab25-49af-a62b-d3a6a7bb890b  |  original files: https://drive.google.com/drive/folders/1Si1tRRWFxhpZmO3IEyA07xAS7aMY7oyX
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+DIRECTIONS: Read questions carefully. For decimals, round to whatever the question specifies.
+
+
+=== Section 1: Multiple-Select Questions and MCQs ===
+
+1. [multi, 3 pt] In the definition of epidemiology, “distribution” refers to:
+    A) Who
+    B) When
+    C) Where
+    D) Why
+
+2. [multi, 3 pt] In the definition of epidemiology, “determinants” generally includes:
+    A) Agents
+    B) Causes
+    C) Control measures
+    D) Risk factors
+    E) Sources
+
+3. [mcq, 1 pt] A propagated epidemic is usually the result of what type of exposure?
+    A) Point source
+    B) Continuous common source
+    C) Intermittent common source
+    D) Person-to-person
+
+4. [mcq, 1 pt] Epidemiologists are investigating a spike in respiratory illnesses at a high school in a subrural town in the 1950s. After interviewing parents and reviewing medical records, they find that many cases occurred after a sick child attended. What type of study best fits this scenario?
+    A) Cohort study
+    B) Case-control study
+    C) Cross-sectional study
+    D) Experimental study
+
+5. [mcq, 1 pt] After an outbreak of influenza in a community, public health officials recommend vaccination for all unvaccinated individuals. This is an example of:
+    A) Secondary prevention
+    B) Tertiary prevention
+    C) Quaternary prevention
+    D) Primary prevention
+
+6. [mcq, 1 pt] A hospital implements a new syndromic surveillance system to monitor cases of food-borne illness in real time. This aligns with which step in the surveillance process?
+    A) Data Collection
+    B) Data Dissemination
+    C) Data Interpretation
+    D) Link to Action
+
+7. [mcq, 1 pt] Who earned a Nobel Prize for the work of identifying the retrovirus of AIDS?
+    A) Françoise Barré-Sinoussi
+    B) Albert Sabin
+    C) Hippocrates
+    D) Stanley Prusiner
+
+8. [mcq, 1 pt] Who was best known for developing the oral vaccine of polio?
+    A) Joseph Lister
+    B) Nostradamus
+    C) Françoise Barré-Sinoussi
+    D) Albert Sabin
+
+9. [mcq, 1 pt] Who coined the term “prion”?
+    A) Stanley Prusiner
+    B) Albert Sabin
+    C) Edward Jenner
+    D) Florence Nightingale
+
+10. [mcq, 1 pt] Which of the following is an example of direct transmission?
+    A) Droplet spread
+    B) Mosquito-borne
+    C) Foodborne
+    D) Doorknobs or toilet seats
+
+11. [multi, 3 pt] Common uses and applications of public health surveillance include which of the following?
+    A) Helping public health officials decide how to allocate their disease control resources.
+    B) Identifying changes over time in the proportion of children with elevated blood lead levels in a community.
+    C) Documenting changes in the incidence of varicella (chickenpox), if any, after a law requiring varicella vaccination took effect.
+    D) Changing the rules of administration of a vaccine on a whim
+
+12. [mcq, 1 pt] Mucormycosis is a serious, often fatal infection, caused by molds. In December 2014, a cluster of mucormycosis infection was identified. Health department personnel first characterized the cases by person, place, and time. What type of epidemiology did they perform?
+    A) Descriptive
+    B) Analytic
+    C) Experimental
+    D) Clinical
+
+13. [mcq, 1 pt] In 2017 from January 4th to September 22nd the CDC recorded the largest number of Salmonella infections linked to contact with backyard poultry (chickens and ducks). Of 1120 reported cases from 48 states, 249 were hospitalized and 1 death was reported. What was the case-fatality rate of this outbreak?
+    A) 0.09%
+    B) 0.22%
+    C) 4.35%
+    D) 8.93%
+
+14. [mcq, 1 pt] Which of the following scenarios does not include a fomite?
+    A) Lice on a brush
+    B) Bacteria on handrails
+    C) Fleas on a dog
+    D) Bacteria on straws
+
+15. [mcq, 1 pt] A given set of data was analyzed by t tests for continuous variables. What is the t test?
+    A) Test for which variable has the most variation
+    B) Statistical test of differences between two variables
+    C) Mathematical test to determine which data can be trusted
+    D) Test which bases all calculations against the total number of variables
+
+16. [mcq, 1 pt] Lead-time bias most directly affects interpretation of:
+    A) Incidence
+    B) Prevalence
+    C) Survival time
+    D) Case fatality
+
+17. [mcq, 1 pt] Which screening test characteristic is most critical when targeting the early pathogenic phase?
+    A) High specificity
+    B) High sensitivity
+    C) High PPV
+    D) High NPV
+
+18. [mcq, 1 pt] The “preclinical phase” in natural history is best defined as:
+    A) Disease present but not yet detectable
+    B) Disease detectable but asymptomatic
+    C) Disease symptomatic but untreated
+    D) Disease resolved but still detectable
+
+19. [mcq, 1 pt] Which criterion is *necessary* for causation across all three frameworks of postulations and criterion (Koch, Hill, Evans)?
+    A) Strength of association
+    B) Consistency
+    C) Temporality
+    D) Biological plausibility
+
+20. [mcq, 1 pt] A subdivided table reveals that the crude association reverses direction after stratification. This is most consistent with:
+    A) Effect modification
+    B) Simpson’s Paradox
+    C) Selection bias
+    D) Information bias
+
+21. [mcq, 1 pt] PulseNet’s primary epidemiologic function is to:
+    A) Track antibiotic resistance patterns
+    B) Link geographically dispersed outbreaks
+    C) Identify environmental reservoirs
+    D) Perform routine clinical diagnostics
+
+22. [mcq, 1 pt] Evans’ postulates differ from Koch’s primarily because Evans:
+    A) Requires molecular evidence of pathogenicity
+    B) Allows for multifactorial causation
+    C) Rejects the need for temporality
+    D) Requires experimental reproduction of disease
+
+23. [mcq, 1 pt] Which of the following is *most inconsistent* with Koch’s original postulates?
+    A) Asymptomatic carriers
+    B) Culturing the organism in pure form
+    C) Reproducing disease in experimental animals
+    D) Identifying the organism in all diseased hosts
+
+24. [mcq, 1 pt] In the sufficient-component cause model, removing a single component cause from a sufficient cause:
+    A) Eliminates all disease incidence
+    B) Prevents disease only if that component is necessary
+    C) Prevents disease from that sufficient cause
+    D) Has no effect unless the component is causal in all pathways
+
+25. [mcq, 1 pt] A rural hospital system evaluates whether a newly adopted telemedicine triage protocol reduces 30-day mortality. Three observational cohorts show a consistent 35–42% reduction, but each cohort has substantial residual confounding from differential access to in-person care. However, one cohort demonstrates a monotonic gradient: the more telemedicine encounters a patient had, the lower their mortality. Under GRADE, which action is most justified?
+    A) Downgrade for inconsistency
+    B) Upgrade for dose–response despite confounding
+    C) Downgrade for imprecision
+    D) No upgrade because the gradient may reflect confounding by severity
+
+26. [mcq, 1 pt] A meta-analysis of 11 quasi-experimental studies shows a moderate protective effect of a new occupational safety policy. However, 9 of the 11 studies used surrogate outcomes (e.g., “near-miss events”) rather than actual injuries. Under GRADE, which domain is most affected?
+    A) Indirectness
+    B) Inconsistency
+    C) Imprecision
+    D) Publication bias
+
+27. [mcq, 1 pt] A researcher removes a component cause that appears in 3 of 5 sufficient causes for a disease. What happens?
+    A) Disease incidence drops to zero
+    B) Disease incidence drops but does not disappear
+    C) Disease incidence increases due to compensatory pathways
+    D) No change occurs
+
+29. [mcq, 1 pt] A national outbreak involves cases in 11 states. Local PFGE patterns vary slightly, but SNP analysis reveals a tight cluster with <5 SNP differences. PulseNet would interpret this as:
+    A) Multiple unrelated outbreaks
+    B) A single outbreak with minor PFGE variation
+    C) No outbreak due to PFGE inconsistency
+    D) A sequencing contamination event
+
+30. [mcq, 1 pt] A subdivided table shows that the crude RR = 1.8, but after stratifying by age, all age-specific RRs are ~1.0. What is the most likely explanation?
+    A) Effect modification
+    B) Confounding by age
+    C) Selection bias
+    D) Collider stratification
+
+
+=== Section 2: Matching ===
+
+[STIMULUS] For questions 31-34, match to the appropriate answer listed below. Answers may be used once, more than once, or not at all.
+a. Population based surveillance
+b. Antibiogram based surveillance
+c. Sentinel surveillance
+d. Interventive screening
+e. Preventative screening
+
+31. [mcq, 1 pt] Blood donors are given surveys to determine if there are risk-factors in using their blood in blood transfusions.
+    A) Population based surveillance
+    B) Antibiogram based surveillance
+    C) Sentinel surveillance
+    D) Interventive screening
+    E) Preventative screening
+
+32. [mcq, 1 pt] Useful in monitoring prevalence in high risk groups.
+    A) Population based surveillance
+    B) Antibiogram based surveillance
+    C) Sentinel surveillance
+    D) Interventive screening
+    E) Preventative screening
+
+33. [mcq, 1 pt] Lack of patient-specific data (e.g. risk factors, demographics) and case-specific information eliminates the opportunity for more thorough analyses which might be needed.
+    A) Population based surveillance
+    B) Antibiogram based surveillance
+    C) Sentinel surveillance
+    D) Interventive screening
+    E) Preventative screening
+
+34. [mcq, 1 pt] Most appropriate to evaluate the success of programs such as vaccination campaigns.
+    A) Population based surveillance
+    B) Antibiogram based surveillance
+    C) Sentinel surveillance
+    D) Interventive screening
+    E) Preventative screening
+
+[STIMULUS] For questions 35-41, match each of the following statements with ONE of the Hill criteria that best fits. Each criterion may be used once, multiple times, or not at all.
+a. Strength of association (effect size)
+b. Consistency
+c. Specificity
+d. Temporality
+e. Biological gradient
+f. Plausibility
+g. Coherence
+h. Experiment
+i. Analogy
+
+35. [mcq, 1 pt] 5 different research groups have reported a link between dolphin exposure and euphoria.
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+36. [mcq, 1 pt] Men with 40 pack-years of smoking have more severely low sperm counts (oligospermia) than those with 20 pack-years of smoking.
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+37. [mcq, 1 pt] Lee et al. report that residents of Florida who don’t use sunscreen are 10 times more likely to develop melanoma in their 50s compared to those who do use sunscreen (p<0.0001).
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+38. [mcq, 1 pt] 80% of passengers on a cruise develop gastroenteritis 12-24 hours after consuming a dish called “Chef’s Shellfish Surprise.”
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+39. [mcq, 1 pt] Rats fed GMO Honeycrisp apple pie did not experience increased incidence of health problems compared to the control group rats, which were fed non-GMO apple pie.
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+40. [mcq, 1 pt] Workers exposed to high levels of crystalline silica develop lung damage after inhalation of silica.
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+41. [mcq, 1 pt] Lung biopsy shows silica particles accumulating in their lungs.
+    A) Strength of association (effect size)
+    B) Consistency
+    C) Specificity
+    D) Temporality
+    E) Biological gradient
+    F) Plausibility
+    G) Coherence
+    H) Experiment
+    I) Analogy
+
+[STIMULUS] Use the following answer choices to match the diseases with their respective modes of transmission for questions 42-46.
+a. Airborne transmission
+b. Water-borne transmission
+c. Food-borne transmission
+d. Vector transmission
+
+42. [mcq, 1 pt] Tuberculosis
+    A) Airborne transmission
+    B) Water-borne transmission
+    C) Food-borne transmission
+    D) Vector transmission
+
+44. [mcq, 1 pt] Chagas disease
+    A) Airborne transmission
+    B) Water-borne transmission
+    C) Food-borne transmission
+    D) Vector transmission
+
+45. [mcq, 1 pt] Giardiasis
+    A) Airborne transmission
+    B) Water-borne transmission
+    C) Food-borne transmission
+    D) Vector transmission
+
+46. [mcq, 1 pt] Hepatitis
+    A) Airborne transmission
+    B) Water-borne transmission
+    C) Food-borne transmission
+    D) Vector transmission
+
+
+=== Section 3: Case Studies ===
+
+[STIMULUS] Riverside, CA, a quiet rural town with a population of 18,432 tucked between rolling fields and a slow-moving river, had always been known more for its dairy farms than for industry. That changed in **March 1990**, when **BrightStar Electronics**, a mid-sized manufacturer of circuit boards, expanded its operations and introduced a new cleaning agent, **Solvent-92**, into its production line. By **December 1990**, Riverside’s clinicians began noticing something unusual: a slow but steady rise in adults reporting persistent coughs. At first, the reported issue was quickly flagged as suspicious, but slow administrative actions resulted in low notice for the general population. At first, it seemed like a bad winter season. Unfortunately, the pattern didn’t fade with spring.
+
+In **January 1991**, a small team from the county health department arrived to investigate. They began tracking workers from all three BrightStar facilities, following them from **January 3, 1991 through March 7, 1992**. Thus, you were called into attention!
+
+
+    [IMAGE: ../images/2026_ucr_highlander_invitational_b_c__p10_cb99289-2f001649.webp]
+
+47. [frq, 2 pt] What kind of study do the investigators conduct?
+
+48. [frq, 2 pt] Is the exposure assigned randomly or nonrandomly? How do you know?
+
+49. [frq, 2 pt] Is the study observational or experimental? Explain.
+
+58. [frq, 4 pt] What two assumptions are required for causal identification?
+
+59. [frq, 3 pt] What problems remain even after adjusting for all measured variables?
+
+68. [frq, 2 pt] Why are DAGs not perfect representations of reality?
+
+
+=== Section 4: Mini Cases ===
+
+[STIMULUS] Scientists have developed a new at-home diagnostic test for COVID-19. In order to examine how well the new COVID-19 test works, the test is administered to people who are already known to have COVID-19 (87 people) and people who are already known to not have COVID-19 (65 people). Of the 87 people with COVID-19, 85 of them test positive using the new diagnostic test. Of the 65 people without COVID-19, 3 of them test positive using the new diagnostic test.
+
+69. [frq, 4 pt] With this information, create a 2x2 table to calculate the Positive Predictive Value of the new diagnostic test for COVID-19.
+
+[STIMULUS] On February 27th, a hospital in Happyville reported to local health officials an uptick in admitted patients with severe stomach cramps, vomiting, and bloody diarrhea. Serological analysis confirms the presence of Shiga-toxin producing Escherichia coli (STEC).
+
+Upon investigation, you learn that the 4 patients in the hospital were all at the same party on February 18th. After gaining contact information for all 17 people at the party, you interview each party-goer and learn that 10 other people also fell ill.
+
+70. [frq, 1 pt] Write a case definition for this scenario.
+
+[STIMULUS] Your disease detective assistants create this graph displaying the number of cases per day of symptom onset.
+    [IMAGE: ../images/2026_ucr_highlander_invitational_b_c__p13_876734-d2dac52f.webp]
+
+71. [frq, 1 pt] What is this kind of graph called?
+
+72. [frq, 2 pt] Define incubation period, and estimate what the incubation period for STEC in this scenario is.
+
+[STIMULUS] At the party, there were only 3 foods served. Tacos, hamburgers, and ice cream. The line listing of ill party-goers is shown below.
+
+| ID# | Symptom onset date | Diagnosis | Eat Tacos | Eat Hamburgers | Eat Ice Cream |
+|---|---|---|---|---|---|
+| 1 | 2/22 | probable STEC | yes | yes | yes |
+| 2 | 2/22 | probable STEC | yes | no | yes |
+| 3 | 2/22 | STEC | yes | yes | no |
+| 4 | 2/23 | probable STEC | no | yes | yes |
+| 5 | 2/21 | probable STEC | no | yes | yes |
+| 6 | 2/24 | STEC | yes | no | yes |
+| 7 | 2/20 | probable STEC | yes | yes | no |
+| 8 | 2/22 | probable STEC | no | yes | yes |
+| 9 | 2/21 | probable STEC | yes | yes | yes |
+| 10 | 2/23 | STEC | no | yes | yes |
+| 11 | 2/22 | probable STEC | yes | yes | yes |
+| 12 | 2/21 | probable STEC | no | yes | yes |
+| 13 | 2/21 | STEC | no | yes | yes |
+| 14 | 2/21 | probable STEC | yes | yes | yes |
+
+75. [frq, 1 pt] What kind of study is this?
+
+76. [frq, 2 pt] What are 2 potential risk factors that might have made the 4 people in the hospital more susceptible to STEC complications?
+
+77. [frq, 2 pt] What are 2 steps that the people in charge of food at the party could have taken to prevent this outbreak?
+
+[STIMULUS] Pertussis is a respiratory infection that can be spread via aerosolized droplets. Luckily, there is a vaccine for it. Let's imagine that a village with a population of 350 called Coughville has limited access to vaccines, and only 100 of the people are vaccinated for Pertussis. Little Johnny goes on vacation and comes back infected with Pertussis - uh oh. The average person in Coughville comes into contact with 10 people a day. The chance of pertussis spreading from Johnny to another person upon contact is 20%, and Johnny stays infectious for 7 days.
+
+78. [frq, 4 pt] With this information, calculate the reproductive number of pertussis in Coughville, the effective reproductive number, and the herd immunity threshold.
+
+79. [frq, 2 pt] Interpret the meaning of your herd immunity threshold value.
+
+80. [frq, 3 pt] What does an R₀ greater than 1, less than 1, and equal to 1 mean?
+
+81. [frq, 4 pt] When a disease has a high mortality rate, does that increase or decrease the reproductive number and why? Explain in terms of variables from the equation used in Q78.

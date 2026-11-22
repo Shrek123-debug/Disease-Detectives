@@ -1,0 +1,404 @@
+USC Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  49 questions, 101.0 pts
+Source: scio.ly test archive id a7cf410a-6fa3-4724-af96-e328139d82cb  |  original files: https://drive.google.com/drive/folders/1hwbtfm8m2V6Hj4HYIo7SS45tmgf36g8v
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== Part I: Introduction ===
+
+1. [frq, 5 pt] Epidemiology has become increasingly prevalent and visible in society, especially within the last few years. However, many still don't understand the purpose and aim of epidemiology. In one or two sentences, define epidemiology and its overarching purpose.
+
+[STIMULUS] Classify the following public health measure as either primary, secondary, tertiary, quaternary, or primordial prevention.
+
+2a. [mcq, 1 pt] Receiving physical therapy after undergoing knee surgery.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+2b. [mcq, 1 pt] Giving healthy individuals the 2024 trivalent influenza vaccine.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+2c. [mcq, 1 pt] Regular screenings for colon cancer for those above 45.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+2d. [frq, 1 pt] Taking aspirin after experiencing a stroke.
+
+2e. [mcq, 1 pt] Doctors generally limit the prescription of drugs that cause severe side effects for affected groups, even if they are effective in treating a disease.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+3e. [frq, 2 pt] Identify the historical figure that made this contribution to epidemiology:
+    
+    This figure is often credited for the invention of the smallpox vaccine based on an observation that milkmaids would survive smallpox epidemics.
+
+4b. [frq, 1 pt] Identify the type of public health surveillance being performed.
+    
+    Healthcare providers are required to share any cases of measles with the California Department of Public Health (CDPH).
+
+4c. [frq, 1 pt] Identify the type of public health surveillance being performed.
+    
+    After an outbreak occurs, local public health agency often reach out to nearby hospitals for a list of cases.
+
+5a. [frq, 1 pt] The latency period for Salmonella is around 6 to 48 hours. Define what a latency period is.
+
+5b. [frq, 1 pt] Identify the stage(s) of the Natural History of Disease timeline that latency period falls under.
+
+6. [frq, 4 pt] Bovine spongiform encephalopathy (BSE), also known as mad cow disease, is a fatal brain disease within cattle caused by prions. Provide two reasons why prion diseases are more dangerous than other pathogens.
+
+[STIMULUS] Match the following terms to the most correct definition or description.
+
+a. Attack rate
+b. Dose-response
+c. Isolation
+d. Morbidity
+e. Mortality
+f. Necessary cause
+g. Notifiable disease
+h. Pathogenicity
+i. Phylogenetic tree
+j. Quarantine
+k. Seasonality
+l. Sensitivity
+m. Specificity
+n. Sufficient cause
+o. Virulence
+
+7-1. [mcq, 1 pt] Match the term to the definition: Taking more than the recommended dose of Tylenol can result in organ failure.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-2. [mcq, 1 pt] Match the term to the definition: RSV cases usually peak in the United States in the winter, meaning it displays ____.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-3. [mcq, 1 pt] Match the term to the definition: Individuals can be put in ____ when they are suspected, but not confirmed, to be ill.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-4. [mcq, 1 pt] Match the term to the definition: Individuals not exposed to HSV-1 do not develop cold sores, making this a(n) ____.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-5. [mcq, 1 pt] Match the term to the definition: Capsules allow bacteria to have ____ due to its evasion of the host immune system.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-6. [mcq, 1 pt] Match the term to the definition: Screening tests with high ____ have a lower type I error rate.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-7. [mcq, 1 pt] Match the term to the definition: Scientists use this to visualize and trace the lineage of new Sars-CoV-2 variants.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-8. [mcq, 1 pt] Match the term to the definition: Also known as an incidence proportion, this can be used to calculate risk ratios.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-9. [mcq, 1 pt] Match the term to the definition: Ebola, while not highly infectious, was dangerous because it had a high ____ rate.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-10. [mcq, 1 pt] Match the term to the definition: After developing symptoms for COVID-19, an individual stays at home for a week.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-11. [mcq, 1 pt] Match the term to the definition: Public health surveillance must have high ____ if it is tracking a deadly disease.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-12. [mcq, 1 pt] Match the term to the definition: These diseases must be reported to the state health department.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-13. [mcq, 1 pt] Match the term to the definition: A pathogen does not have ____ if it cannot harm or cause disease in an infected host.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-14. [mcq, 1 pt] Match the term to the definition: A combination of cold weather and being around sick individuals can lead to illness.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+7-15. [mcq, 1 pt] Match the term to the definition: The incidence rate of living people with asthma can measure ____ rates for the disease.
+    A) Attack rate
+    B) Dose-response
+    C) Isolation
+    D) Morbidity
+    E) Mortality
+    F) Necessary cause
+    G) Notifiable disease
+    H) Pathogenicity
+    I) Phylogenetic tree
+    J) Quarantine
+    K) Seasonality
+    L) Sensitivity
+    M) Specificity
+    N) Sufficient cause
+    O) Virulence
+
+
+=== Part II: McDonald's E. Coli Outbreak ===
+
+[STIMULUS] As an epidemiologist, you are tasked with investigating a multi-state outbreak of E. coli O157:H7. From 9/27/24 to 10/21/24, multiple cases of E. coli related food poisoning were reported across multiple states, with symptoms such as severe stomach cramps, fever, diarrhea, nausea, vomiting, and fatigue. Further investigation showed that the most likely source of contamination was from McDonald's, a fast food burger chain.
+
+II-1. [frq, 3 pt] Provide a case definition for this outbreak using the person, place, time triad.
+
+II-2a. [frq, 1 pt] Multistate outbreaks like this one are typically identified using PulseNet, a national network of public health and food regulatory laboratories. Identify the DNA fingerprinting method used by PulseNet **today** to detect outbreaks and to identify specific strains of bacteria/pathogens that caused specific outbreaks.
+
+II-2b. [frq, 2 pt] Multistate outbreaks like this one are typically identified using PulseNet, a national network of public health and food regulatory laboratories.
+    
+    PulseNet previously relied on Pulsed Field Gel Electrophoresis (PFGE). Identify two specific advantages the new fingerprinting method has over PFGE.
+
+[STIMULUS] As of 10/21/24, there have been 104 reported cases in this outbreak. The dates on which each case began experiencing symptoms was plotted on the graph below.
+    [IMAGE: ../images/2025_usc_invitational_b_c__p5_2e4161-18083b26.webp]
+
+II-3. [frq, 1 pt] What is this type of graph called?
+
+II-5. [frq, 3 pt] Explain why the graph above cannot account for all possible cases in this outbreak.
+
+II-6a. [frq, 1 pt] You decide to conduct an epidemiological study in order to pinpoint the source of the outbreak by surveying people who have eaten at McDonald's since the outbreak began. What type of study is best suited for this investigation?
+
+II-6b. [mcq, 1 pt] You decide to conduct an epidemiological study in order to pinpoint the source of the outbreak by surveying people who have eaten at McDonald's since the outbreak began. Is this study an observational or experimental study?
+    A) Observational
+    B) Experimental
+
+II-6c. [frq, 2 pt] You decide to conduct an epidemiological study in order to pinpoint the source of the outbreak by surveying people who have eaten at McDonald's since the outbreak began. List two advantages of using this type of study.
+
+II-6d. [frq, 2 pt] You decide to conduct an epidemiological study in order to pinpoint the source of the outbreak by surveying people who have eaten at McDonald's since the outbreak began. List two disadvantages of using this type of study.
+
+II-6e. [frq, 3 pt] You decide to conduct an epidemiological study in order to pinpoint the source of the outbreak by surveying people who have eaten at McDonald's since the outbreak began. Which measure of association should be used in this type of study? Explain your reasoning.
+
+II-10. [frq, 4 pt] What further investigative steps should be taken to definitively determine the cause of the outbreak and to tie the outbreak to a specific organism? Summarize the steps in 2-3 sentences.
+
+II-11. [frq, 2 pt] What are some public health interventions that can be used to stop the spread of this foodborne outbreak? Provide two specific examples that could be used for this outbreak.
+
+
+=== Part III: RSV ===
+
+[STIMULUS] Respiratory syncytial virus, or RSV, is a common respiratory virus that causes cold-like symptoms. While often mild, it can cause severe disease in infants and the elderly. Nearly all children in the United States experience one or more RSV infections by age one. Respiratory syncytial virus is a negative sense, single stranded RNA (-ssRNA) virus, and common symptoms include nasal congestion, runny nose, redness of eyes, sore throat, cough, and fever.
+
+III-1. [frq, 1 pt] There is still heavy debate surrounding whether or not viruses, like RSV, can be considered to be alive. In one sentence, explain why, generally, viruses do not meet the basic criteria for life.
+
+[STIMULUS] RSV-net is a surveillance system that monitors laboratory-confirmed hospitalizations associated with RSV in 161 counties within the United States. It covers an estimated 30 million people. In the following graph of RSV associated hospitalizations from 2023-2024, a clear peak in RSV can clearly be seen in December/January. Answer the following questions regarding RSV-net and RSV.
+
+III-2a. [frq, 1 pt] Identify the most likely form of surveillance conducted by RSV-net.
+
+III-2b. [frq, 4 pt] List two explanations as to why rates of RSV associated hospitalizations peak around December/January.
+
+III-2c. [frq, 4 pt] RSV-net, like all surveillance systems, has its limitations that could prevent researchers from generalizing the data reported nationally. List two potential limitations that RSV-net could face when trying to track RSV cases.
+
+III-2d. [frq, 2 pt] Given what you know about respiratory illnesses and the graph of RSV associated hospitalizations provided above, identify the most likely type of outbreak associated with RSV.
+    [IMAGE: ../images/2025_usc_invitational_b_c__p9_f070fa-1739bde9.webp]
+
+[STIMULUS] In epidemiology, the SIR model can be used to model the spread of a disease under appropriate conditions. S, I, and R are variables that stand for susceptible, infected, and recovered/removed. These variables represent people at a specific stage of disease and can be made into functions of time (S(t), I(t), and R(t)). Note that people can move from these variables as a disease progresses. N, or the total population, is equal to S(t) + I(t) + R(t). The rate of change, or derivative, of each of these functions can be derived to model the change in S, I, and R (which, in turn, models the spread of disease). dS/dt is inversely proportional to S*I, as the change in susceptible population is dependent on the probability of susceptible and infected populations coming into contact (dS/dt = -βSI, where β is a constant). dI/dt is equal to the inverse of dS/dt minus the proportion of infected people who become recovered/removed (dI/dt = βSI - γI, where β and γ is a constant). Finally, dR/dt is equal to the inverse of dI/dt (dR/dt = γI, where γ is a constant). Combined, these three equations make up a nonlinear system of differential equations that is capable of modeling the spread of many infectious diseases.¹
+
+1 Note that the SIR model rests on four assumptions: 1. There is a constant, closed population (N), 2. There is a constant rate of transmission and removal, 3. There are no births or deaths, and 4. A well mixed population.
+    | Label | Answer |
+    | **III-6.** Using the information provided above, label the following flow chart for an SIR model. |  |
+    | a | [[q:III-6-a]] |
+    | b | [[q:III-6-b]] |
+    | c | [[q:III-6-c]] |
+
+III-7. [frq, 9 pt] R₀ is actually equal to βSI/γ > 1, if an epidemic is occurring. Assuming that S ≈ 1 at t=0, simplify the R₀ equation into terms of β and γ. Show **ALL** of your work.
+
+III-8. [frq, 4 pt] The equation you have just derived gives the number of people that an infected person will transmit a disease to, on average. As you can see, the equation for an epidemic states that R₀ is greater than 1. Explain what would happen to an outbreak if the R₀ is exactly equal to 1.
+
+III-9. [numeric, 6 pt] If the average rate of contact between those susceptible and those infected is 1.7 contacts/day, the rate of removal is 5 infections/week, and the transmissibility is 1.5 infections per 2 contacts for this RSV outbreak, calculate the R₀. Show **ALL** of your work and express your answer to the thousandths place. Hint: R₀ is a dimensionless number.
+
+III-10. [numeric, 6 pt] Using the R₀ value calculated for the RSV outbreak (or R₀ = 1.223 for half credit), calculate the percentage of the population that needs to be vaccinated to achieve herd immunity. Assume that the vaccine is 85% effective. Show **ALL** of your work and express your answer, as a percentage, to the tenths place.
+
+III-11. [frq, 4 pt] Herd immunity is incredibly important in not only stopping the spread of an epidemic, but also protecting the most vulnerable in society (i.e. the young and elderly). In practice, however, herd immunity is often hard to achieve. List two reasons why it might be hard to achieve herd immunity, despite the fact that an effective vaccine is available.

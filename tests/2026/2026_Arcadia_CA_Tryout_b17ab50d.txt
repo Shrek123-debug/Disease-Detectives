@@ -1,0 +1,332 @@
+Arcadia - CA Tryout — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  77 questions, 93.5 pts
+Source: scio.ly test archive id b17ab50d-f05d-46fa-ac6b-a873093626df
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Round to the nearest hundredth unless otherwise stated.
+
+Partial credit allowed with free-response questions.
+
+
+=== Section I: Background and Surveillance (36) ===
+
+[STIMULUS] Match each of the following descriptions with the clinical or public health approach.
+    | Description | Approach |
+    | Emphasizes diagnosis and treatment | [[q:1a]] |
+    | Specializations include cardiology and oncology | [[q:1b]] |
+    | Primary focus on the individual | [[q:1d]] |
+
+1a. [mcq, 0.5 pt] Emphasizes diagnosis and treatment — Approach
+    A) Clinical
+    B) Public health
+
+1b. [mcq, 0.5 pt] Specializations include cardiology and oncology — Approach
+    A) Clinical
+    B) Public health
+
+1d. [mcq, 0.5 pt] Primary focus on the individual — Approach
+    A) Clinical
+    B) Public health
+
+[STIMULUS] Identify each important epidemiologist by first and last name based on their description.
+    | Description | Epidemiologist |
+    | Developed anthrax vaccine and germ theory | [[q:2a]] |
+    | 19th century father of modern vital statistics and surveillance | [[q:2b]] |
+    | Studied British sailors to identify scurvy | [[q:2c]] |
+    | Developed smallpox vaccine in the 18th century | [[q:2d]] |
+    | Father of field epidemiology who investigated cholera | [[q:2e]] |
+    | Founder of demography active in the 1600s | [[q:2f]] |
+
+2a. [frq, 1 pt] Developed anthrax vaccine and germ theory — Epidemiologist
+
+2b. [frq, 1 pt] 19th century father of modern vital statistics and surveillance — Epidemiologist
+
+2c. [frq, 1 pt] Studied British sailors to identify scurvy — Epidemiologist
+
+2d. [frq, 1 pt] Developed smallpox vaccine in the 18th century — Epidemiologist
+
+2e. [frq, 1 pt] Father of field epidemiology who investigated cholera — Epidemiologist
+
+2f. [frq, 1 pt] Founder of demography active in the 1600s — Epidemiologist
+
+3. [frq, 2 pt] In order, list the four stages of the natural history of disease.
+
+4. [frq, 2 pt] Define the spectrum of disease and provide an example.
+
+[STIMULUS] Categorize each of the following agents as infectious or noninfectious.
+    | Agent | Category |
+    | Radiation | [[q:5a]] |
+    | Lead | [[q:5b]] |
+    | Virus | [[q:5c]] |
+    | Mercury | [[q:5d]] |
+    | Bacteria | [[q:5e]] |
+    | Prion | [[q:5f]] |
+
+5a. [frq, 0.5 pt] Radiation
+
+5b. [frq, 0.5 pt] Lead
+
+5c. [mcq, 0.5 pt] Virus
+    A) Infectious
+    B) Noninfectious
+
+5d. [frq, 0.5 pt] Mercury
+
+5e. [mcq, 0.5 pt] Bacteria
+    A) Infectious
+    B) Noninfectious
+
+5f. [mcq, 0.5 pt] Prion
+    A) Infectious
+    B) Noninfectious
+
+[STIMULUS] Define each of the following terms.
+    | Term | Definition |
+    | cluster | [[q:6a]] |
+    | convalescent | [[q:6b]] |
+    | epidemic | [[q:6c]] |
+    | holoendemic | [[q:6d]] |
+    | iatrogenic | [[q:6e]] |
+    | index case | [[q:6f]] |
+    | morbidity | [[q:6g]] |
+    | natality | [[q:6h]] |
+    | nosocomial | [[q:6i]] |
+    | zoonosis | [[q:6j]] |
+
+6a. [frq, 1 pt] cluster — Definition
+
+6b. [frq, 1 pt] convalescent — Definition
+
+6c. [frq, 1 pt] epidemic — Definition
+
+6d. [frq, 1 pt] holoendemic — Definition
+
+6e. [frq, 1 pt] iatrogenic — Definition
+
+6f. [frq, 1 pt] index case — Definition
+
+6g. [frq, 1 pt] morbidity — Definition
+
+6h. [frq, 1 pt] natality — Definition
+
+6i. [frq, 1 pt] nosocomial — Definition
+
+6j. [frq, 1 pt] zoonosis — Definition
+
+7. [frq, 3 pt] In order, list the 5 steps of surveillance.
+
+[STIMULUS] For active surveillance, give one advantage, one disadvantage, and a description.
+    | Label | Answer |
+    | Advantage Active | [[q:8-a-a]] |
+    | Disadvantage Active | [[q:8-a-b]] |
+    | Description Active | [[q:8-a-c]] |
+
+8-a-a. [frq, 0.667 pt] Advantage Active
+
+8-a-b. [frq, 0.667 pt] Disadvantage Active
+
+8-a-c. [frq, 0.667 pt] Description Active
+
+[STIMULUS] For passive surveillance, give one advantage, one disadvantage, and a description.
+    | Label | Answer |
+    | Advantage Passive | [[q:8-b-a]] |
+    | Disadvantage Passive | [[q:8-b-b]] |
+    | Description Passive | [[q:8-b-c]] |
+
+8-b-a. [frq, 0.667 pt] Advantage Passive
+
+8-b-b. [frq, 0.667 pt] Disadvantage Passive
+
+8-b-c. [frq, 0.667 pt] Description Passive
+
+[STIMULUS] For sentinel surveillance, give one advantage, one disadvantage, and a description.
+    | Label | Answer |
+    | Advantage Sentinel | [[q:8-c-a]] |
+    | Disadvantage Sentinel | [[q:8-c-b]] |
+    | Description Sentinel | [[q:8-c-c]] |
+
+8-c-a. [frq, 0.667 pt] Advantage Sentinel
+
+8-c-b. [frq, 0.667 pt] Disadvantage Sentinel
+
+8-c-c. [frq, 0.667 pt] Description Sentinel
+
+[STIMULUS] For syndromic surveillance, give one advantage, one disadvantage, and a description.
+    | Label | Answer |
+    | Advantage Syndromic | [[q:8-d-a]] |
+    | Disadvantage Syndromic | [[q:8-d-b]] |
+    | Description Syndromic | [[q:8-d-c]] |
+
+8-d-a. [frq, 0.667 pt] Advantage Syndromic
+
+8-d-b. [frq, 0.667 pt] Disadvantage Syndromic
+
+8-d-c. [frq, 0.667 pt] Description Syndromic
+
+
+=== Section II: Outbreak Investigation (50) ===
+
+[STIMULUS] Classify each of the following study types as experimental or observational.
+    | Study Type | Classification |
+    | Cross-sectional study | [[q:9a]] |
+    | Randomized control trial | [[q:9b]] |
+    | Case series | [[q:9c]] |
+    | Ecological Study | [[q:9d]] |
+
+9a. [mcq, 0.5 pt] Cross-sectional study
+    A) Experimental
+    B) Observational
+
+9b. [mcq, 0.5 pt] Randomized control trial
+    A) Experimental
+    B) Observational
+
+9c. [mcq, 0.5 pt] Case series
+    A) Experimental
+    B) Observational
+
+9d. [mcq, 0.5 pt] Ecological Study
+    A) Experimental
+    B) Observational
+
+[STIMULUS] Identify two advantages and two disadvantages of each of the following types of studies.
+    | Study Type | Advantages | Disadvantages |
+    | Case-control | [[q:10a]] | [[q:10b]] |
+    | Cohort | [[q:10c]] | [[q:10d]] |
+
+10a. [frq, 1 pt] Case-control — Advantages
+
+10b. [frq, 1 pt] Case-control — Disadvantages
+
+10c. [frq, 1 pt] Cohort — Advantages
+
+10d. [frq, 1 pt] Cohort — Disadvantages
+
+11. [order, 7 pt] Rearrange the following steps of outbreak investigation into the correct order.
+    
+    - As necessary, reconsider, refine, and re-evaluate hypotheses
+    - Communicate findings
+    - Compare and reconcile with laboratory and/or environmental studies
+    - Construct a working case definition
+    - Develop hypotheses
+    - Establish the existence of an outbreak
+    - Evaluate hypotheses epidemiologically
+    - Find cases systematically and record information
+    - Implement control and prevention measures
+    - Initiate or maintain surveillance
+    - Perform descriptive epidemiology
+    - Prepare for field work
+    - Verify the diagnosis
+    A) As necessary, reconsider, refine, and re-evaluate hypotheses
+    B) Communicate findings
+    C) Compare and reconcile with laboratory and/or environmental studies
+    D) Construct a working case definition
+    E) Develop hypotheses
+    F) Establish the existence of an outbreak
+    G) Evaluate hypotheses epidemiologically
+    H) Find cases systematically and record information
+    I) Implement control and prevention measures
+    J) Initiate or maintain surveillance
+    K) Perform descriptive epidemiology
+    L) Prepare for field work
+    M) Verify the diagnosis
+
+[STIMULUS] CASE STUDY #1: Arcadia
+
+Oh no! A disease is afflicting high school students in the town of Arcadia, CA, causing mass reports of nausea, vomiting, and diarrhea.
+
+Here is a diagram summarizing the case data from the cluster:
+
+| | Exposed to school water | Not exposed to school water |
+|---|---|---|
+| Has disease | 525 | 963 |
+| Does not have disease | 701 | 811 |
+
+Here is a diagram displaying new cases of disease over time:
+
+The cluster started on February 1, 2025 and has not ended as of April 1, 2025 (assumed to be now). It is believed that the source of the illness is a contaminated water supply in the reservoir tank for the school. Environmental water testing is positive for norovirus.
+    [IMAGE: ../images/2026_arcadia_ca_tryout_c__d_81c5b5-d1c1284b.webp]
+
+12. [frq, 3 pt] Identify the components of the descriptive epidemiology triad in this case study.
+
+13. [frq, 2 pt] Construct a working case definition based on the information given.
+
+14. [frq, 2 pt] What type of diagram is displaying the new cases of disease over time? What type of this diagram is pictured above?
+
+15. [frq, 1 pt] What type of diagram is displaying the case data from the cluster?
+
+16. [frq, 3 pt] Construct the epidemiological triad as it relates to this case.
+
+18. [frq, 2 pt] Calculate the attack rate for each of the exposed and unexposed.
+
+19. [frq, 3 pt] Calculate the appropriate measure of association.
+
+20. [frq, 2 pt] Interpret the value calculated for measure of association. Draw a conclusion on the likelihood that the school water caused the illness based on this value.
+
+21. [frq, 2 pt] Apply any two of Bradford Hill's Criteria to this case study by providing examples which fulfill the criteria chosen in context.
+
+22. [frq, 2 pt] Under the GRADE methods, identify two criteria for which certainty can be marked down and two criteria for which certainty can be marked up.
+
+23. [frq, 1 pt] Assume the R₀ for this illness is 5. Interpret the R₀ value.
+
+24. [frq, 2 pt] Calculate the herd immunity threshold for a disease with an R₀ of 5.
+
+25. [frq, 2 pt] What differentiates R₀ from Rₑ?
+
+[STIMULUS] Identify each of the following biases by their descriptions.
+    | Description | Bias |
+    | Selection bias based on determining who is a case and who is a control in a case-control study. | [[q:26a]] |
+    | Expectation of performance impacts results. | [[q:26b]] |
+    | People respond in a more favorable/preferable way and underreport less favorable behaviors/conditions. | [[q:26c]] |
+    | Several surveys are taken to get information/data, causing confusion and potentially noting specific characteristics that appear multiple times. | [[q:26d]] |
+    | Occurs due to timing of when cases are included in a study; timing of the study can miss fatal or mild cases. | [[q:26e]] |
+    | Rate of survival appears higher due to better illness identification, which allows more people to get treatment during early development. | [[q:26f]] |
+    | Reactivity where individuals modify their behavior because they know they are being observed. | [[q:26g]] |
+    | Failing to reject the null hypothesis when it is false; false negative. | [[q:26h]] |
+
+26a. [frq, 0.5 pt] Selection bias based on determining who is a case and who is a control in a case-control study. — Bias
+
+26b. [frq, 0.5 pt] Expectation of performance impacts results. — Bias
+
+26c. [frq, 0.5 pt] People respond in a more favorable/preferable way and underreport less favorable behaviors/conditions. — Bias
+
+26d. [frq, 0.5 pt] Several surveys are taken to get information/data, causing confusion and potentially noting specific characteristics that appear multiple times. — Bias
+
+26e. [frq, 0.5 pt] Occurs due to timing of when cases are included in a study; timing of the study can miss fatal or mild cases. — Bias
+
+26f. [frq, 0.5 pt] Rate of survival appears higher due to better illness identification, which allows more people to get treatment during early development. — Bias
+
+26g. [frq, 0.5 pt] Reactivity where individuals modify their behavior because they know they are being observed. — Bias
+
+26h. [frq, 0.5 pt] Failing to reject the null hypothesis when it is false; false negative. — Bias
+
+
+=== Section III: Patterns, Control, and Prevention (14) ===
+
+27. [frq, 4 pt] List the four levels of disease control and give a brief description for each.
+
+28. [frq, 2 pt] Which levels of disease control require continued intervention measures?
+
+29. [frq, 6 pt] Fill out the following table regarding the levels of prevention.
+    
+    | Level | Description | Example |
+    |---|---|---|
+    | Primordial | | |
+    | Primary | | |
+    | Secondary | | |
+    | Tertiary | | |
+    | Quaternary | | |
+
+[STIMULUS] Identify what each of the following acronyms stands for.
+    | Label | Answer |
+    | 1 FAT TOM: | [[q:30-1]] |
+    | 2 CDC: | [[q:30-2]] |
+    | 3 NNDSS: | [[q:30-3]] |
+    | 4 MRSA: | [[q:30-4]] |
+
+30-1. [frq, 0.5 pt] Label 1 FAT TOM:
+
+30-2. [frq, 0.5 pt] Label 2 CDC:
+
+30-3. [frq, 0.5 pt] Label 3 NNDSS:
+
+30-4. [frq, 0.5 pt] Label 4 MRSA:

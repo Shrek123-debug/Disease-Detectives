@@ -1,0 +1,861 @@
+Yale — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  96 questions, 96.0 pts
+Source: scio.ly test archive id 8435fe07-9f30-43ef-9018-095b67c8623b  |  original files: https://drive.google.com/drive/folders/1AMT-Ua4SkHmEaTZKbplT9iJodq-6BaYb
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+
+=== A. Matching. Mark all answers on your answer sheet. ===
+
+[STIMULUS] a. An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+b. A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+c. Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+d. an infectious disease that is transmissible under normal conditions from animals to humans
+e. Infection acquired at a hospital
+f. Organism that can be infected by an agent under natural conditions
+g. an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+h. first case or instance of a patient coming to the attention of authorities
+i. reappearance of a disease in a host
+j. A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+k. an inanimate objects that serves to transmit an infectious agent from person to person
+l. the frequency of occurrence of death in a defined population during a specified interval of time
+m. An intermediate, temporary, but necessary part in parasitic life style
+n. an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+o. Increase of immunity by introducing an infective agent as a vaccine
+p. A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+q. a microbial organism with the ability to cause disease
+r. a mist of infectious particles is released by cough/sneeze to another
+s. Frequency with which a disease appears in a population
+t. The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+1. [mcq, 1 pt] Host
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+2. [mcq, 1 pt] Host Factor
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+3. [mcq, 1 pt] agent
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+4. [mcq, 1 pt] intermediate host
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+5. [mcq, 1 pt] morbidity rate
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+6. [mcq, 1 pt] vector
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+7. [mcq, 1 pt] incidence rate
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+8. [mcq, 1 pt] immunogenicity
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+9. [mcq, 1 pt] carrier
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+10. [mcq, 1 pt] inoculum
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+11. [mcq, 1 pt] nosocomial infection
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+12. [mcq, 1 pt] index case
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+13. [mcq, 1 pt] mortality rate
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+14. [mcq, 1 pt] susceptible host
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+15. [mcq, 1 pt] vehicle
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+16. [mcq, 1 pt] Biologic transmission
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+17. [mcq, 1 pt] aerosol transmission
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+18. [mcq, 1 pt] recrudescence
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+19. [mcq, 1 pt] fomite
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+20. [mcq, 1 pt] zoonosis
+    A) An animator intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    B) A person/animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others
+    C) Ability of vaccine to stimulate immune system, measured by proportion of T cells produced.
+    D) an infectious disease that is transmissible under normal conditions from animals to humans
+    E) Infection acquired at a hospital
+    F) Organism that can be infected by an agent under natural conditions
+    G) an inanimate intermediary in the indirect transmission of an agent that carriers the agent from a reservoir to a susceptible host
+    H) first case or instance of a patient coming to the attention of authorities
+    I) reappearance of a disease in a host
+    J) A person who cannot resist a microorganism invading the body, multiplying, and resulting in infections
+    K) an inanimate objects that serves to transmit an infectious agent from person to person
+    L) the frequency of occurrence of death in a defined population during a specified interval of time
+    M) An intermediate, temporary, but necessary part in parasitic life style
+    N) an intrinsic factor which influences an individual’s exposure, susceptibility, or response to a causative agent.
+    O) Increase of immunity by introducing an infective agent as a vaccine
+    P) A measure of the frequency with which an event, such as a new cause of illness, occurs in a population over a period of time
+    Q) a microbial organism with the ability to cause disease
+    R) a mist of infectious particles is released by cough/sneeze to another
+    S) Frequency with which a disease appears in a population
+    T) The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host
+
+
+=== B. Short Answer. Answer all the questions to the best of your knowledge. ===
+
+21. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 21)
+
+22. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 22)
+
+23. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 23)
+
+24. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 24)
+
+25. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 25)
+
+26. [frq, 1 pt] In the chain of infection, the 21.____ leaves the 22.____ through a 23. ____ and is conveyed by some 24.____ and enters the appropriate 25.____ to infect a 26.____. (Blank 26)
+
+27. [frq, 1 pt] What are the three routes of entry into the body? (Route 1)
+
+28. [frq, 1 pt] What are the three routes of entry into the body? (Route 2)
+
+29. [frq, 1 pt] What are the three routes of entry into the body? (Route 3)
+
+30. [frq, 1 pt] What are the three components of the epidemiological triad? (Component 1)
+
+31. [frq, 1 pt] What are the three components of the epidemiological triad? (Component 2)
+
+32. [frq, 1 pt] What are the three components of the epidemiological triad? (Component 3)
+
+33. [frq, 1 pt] List and explain Koch's Postulates: (Postulate 1)
+
+34. [frq, 1 pt] List and explain Koch's Postulates: (Postulate 2)
+
+35. [frq, 1 pt] List and explain Koch's Postulates: (Postulate 3)
+
+36. [frq, 1 pt] List and explain Koch's Postulates: (Postulate 4)
+
+37. [frq, 1 pt] What is an endotoxin?
+
+38. [frq, 1 pt] Define natality.
+
+39. [mcq, 1 pt] The Spanish Flu in 1918 and the Black Plague in the Middle Ages were examples of
+    A) endemics
+    B) vehicles
+    C) epidemics
+    D) pandemics
+
+40. [mcq, 1 pt] The resistance of a population to an attack by a disease to which a large proportion of the members of the group are immune is referred to as ____.
+    A) group resistance
+    B) population immunogenesis
+    C) herd immunity
+    D) the Panum Effect
+
+41. [frq, 1 pt] What is the term for the nine criteria that must be bet to establish a cause-and-effect relationship?
+
+42. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 1)
+
+43. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 2)
+
+44. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 3)
+
+45. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 4)
+
+46. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 5)
+
+47. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 6)
+
+48. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 7)
+
+49. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 8)
+
+50. [frq, 1 pt] List the nine criteria from the previous question. (Criterion 9)
+
+51. [frq, 1 pt] Define epidemic curve
+
+52. [frq, 1 pt] What are three other uses of an epidemic curve besides evaluating the pattern of the spread of disease? (Use 1)
+
+53. [frq, 1 pt] What are three other uses of an epidemic curve besides evaluating the pattern of the spread of disease? (Use 2)
+
+54. [frq, 1 pt] What are three other uses of an epidemic curve besides evaluating the pattern of the spread of disease? (Use 3)
+
+55. [frq, 1 pt] Identify and label the type of epidemic curve.
+    [IMAGE: ../images/2015_yale_c__p4_1c64f5-dc3f3654.webp]
+
+56. [frq, 1 pt] Identify and label the type of epidemic curve.
+    [IMAGE: ../images/2015_yale_c__p4_25a522-0bfabaf2.webp]
+
+57. [frq, 1 pt] Explain how you show a baseline disease level on a epidemic curve.
+
+
+=== C. Historical Outbreaks ===
+
+[STIMULUS] Match the outbreak settings to the agent that caused the outbreak.
+a. E. coli
+b. Ebola / Ebola related viruses
+c. Rubella
+d. Salmonella
+e. West Nile Virus
+f. Botulism
+g. Hepatitis A
+h. Hantavirus
+
+58. [mcq, 1 pt] Meatpacking plant employees, Omaha, 1999
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+59. [mcq, 1 pt] Salad bar, Oregon, 1987
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+60. [mcq, 1 pt] Laboratory Monkeys, Reston, VA, 1989
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+61. [mcq, 1 pt] New Mexico/Arizona, Four Corners, 1993
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+62. [mcq, 1 pt] Resaturant-associated, Kearney, 1999
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+63. [mcq, 1 pt] Jack-in-the-Box, Pacific NW, 1993
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+64. [mcq, 1 pt] Public school students eating frozen strawberries, USA, 1997
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+65. [mcq, 1 pt] Mosquitoes, NYC, 1999
+    A) E. coli
+    B) Ebola / Ebola related viruses
+    C) Rubella
+    D) Salmonella
+    E) West Nile Virus
+    F) Botulism
+    G) Hepatitis A
+    H) Hantavirus
+
+
+=== Section II: Data Analysis ===
+
+[STIMULUS] ()You flip the next paper and find this chart before you. A large number of students reported stomach pains after consuming the food at this dining hall.
+"Oh no! Why are some of the numbers missing?! Do you think you could fill in the rest?"
+    | Food | Case: Ate | Case: Didn't Eat | Case: Total | Case: % Eat | Control: Ate | Control: Didn't Eat | Control: Total | Control: % Eat |
+    | Froyo | [[q:67]] | 43 | 75 | [[q:68]] | [[q:72]] | [[q:73]] | 50 | 50% |
+    | Cookies | 50 | 20 | [[q:69]] | [[q:70]] | 5 | 45 | 50 | [[q:74]] |
+    | Nutella | 31 | 29 | 60 | [[q:71]] | [[q:75]] | 15 | [[q:76]] | 25% |
+
+67. [numeric, 1 pt] Row: Froyo - Case: Ate
+
+68. [numeric, 1 pt] Row: Froyo - Case: % Eat
+
+72. [numeric, 1 pt] Row: Froyo - Control: Ate
+
+73. [numeric, 1 pt] Row: Froyo - Control: Didn't Eat
+
+69. [numeric, 1 pt] Row: Cookies - Case: Total
+
+70. [numeric, 1 pt] Row: Cookies - Case: % Eat
+
+74. [numeric, 1 pt] Row: Cookies - Control: % Eat
+
+71. [numeric, 1 pt] Row: Nutella - Case: % Eat
+
+75. [numeric, 1 pt] Row: Nutella - Control: Ate
+
+76. [numeric, 1 pt] Row: Nutella - Control: Total
+
+77. [frq, 1 pt] "While you're at it, which food has the highest risk associated with it?"
+
+78. [frq, 1 pt] "Which food has the lowest risk?"
+
+79. [frq, 1 pt] "Could you help find the odds ratio for the food with the highest risk? And show the calculation."
+
+80. [frq, 1 pt] "Wait, what does this odd ratio tell me?"
+
+81. [frq, 1 pt] "Could you help find the odds ratio for the food with the lowest risk? And show the calculation."
+
+82. [frq, 1 pt] "And what does this odd ratio tell me?"
+
+83. [frq, 1 pt] "So which food do you think caused this outbreak?"
+
+84. [frq, 1 pt] "Shoot! I think I only asked the diseased freshmen and forgot to ask upperclassmen! Will this be a problem? What is this type of bias called?"
+
+[STIMULUS] ()Then, you flip onto the next page and to your utter dismay, you realize there's another incomplete table.
+"Darn! I just interviewed all these students so I could figure out which activities they were participating in. I wonder where all these numbers went! Can you fill this one out too?"
+    | Risk Factor | Sick | Not Sick | Risk Specific Attack Rate |
+    | Hugging Others | 30 | [[q:85]] | 62.5% |
+    | Dancing | 57 | 15 | [[q:86]] |
+    | Giving High Fives | [[q:87]] | 45 | 25% |
+
+85. [numeric, 1 pt] Row: Hugging Others - Not Sick
+
+86. [numeric, 1 pt] Row: Dancing - Risk Specific Attack Rate
+
+87. [numeric, 1 pt] Row: Giving High Fives - Sick
+
+88. [frq, 1 pt] "Awesome! So which activity is the riskiest?"
+
+89. [frq, 1 pt] "What is the riskiest activity's relative risk compared to other activities? Let me see your calculations too!"
+
+[STIMULUS] ()You and your partner exchange glances and both give a deep sigh. There's more. The next paper reads these sentences:
+There were 150 students that gave you data on this illness, of which 90 actually got sick. 80 students were not diagnosed with the disease, but of these 80, 40% were false negatives.
+
+90. [frq, 1 pt] "This really confuses me. Could you create a 2x2 table to portray this information better?"
+
+91. [frq, 1 pt] "Help me calculate the sensitivity! Show work too!"
+
+92. [frq, 1 pt] "And calculate the specificity! And show work!"
+
+93. [frq, 1 pt] “When would I likely rather use a sensitivity calculation over the specificity one?”
+
+[STIMULUS] ()It’s the last page! You continue reading:
+You were able to find the test scores on biology tests of some students that got sick. Out of 80 students, the mean was 82.65, the median was 86.46, and the standard deviation was 2.40. Turns out, the frantic epidemiologist you’re with also took this biology test and he scored a 91. You are also allowed to use any or none of the following tables (see next page) for possible calculations:
+
+[STIMULUS] Table A Standard normal probabilities
+Table entry for z is the probability lying below z.
+
+| z | .00 | .01 | .02 | .03 | .04 | .05 | .06 | .07 | .08 | .09 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| -3.4 | .0003 | .0003 | .0003 | .0003 | .0003 | .0003 | .0003 | .0003 | .0003 | .0002 |
+| -3.3 | .0005 | .0005 | .0005 | .0004 | .0004 | .0004 | .0004 | .0004 | .0004 | .0003 |
+| -3.2 | .0007 | .0007 | .0006 | .0006 | .0006 | .0006 | .0006 | .0005 | .0005 | .0005 |
+| -3.1 | .0010 | .0009 | .0009 | .0009 | .0008 | .0008 | .0008 | .0008 | .0007 | .0007 |
+| -3.0 | .0013 | .0013 | .0013 | .0012 | .0012 | .0011 | .0011 | .0011 | .0010 | .0010 |
+| -2.9 | .0019 | .0018 | .0018 | .0017 | .0016 | .0016 | .0015 | .0015 | .0014 | .0014 |
+| -2.8 | .0026 | .0025 | .0024 | .0023 | .0023 | .0022 | .0021 | .0021 | .0020 | .0019 |
+| -2.7 | .0035 | .0034 | .0033 | .0032 | .0031 | .0030 | .0029 | .0028 | .0027 | .0026 |
+| -2.6 | .0047 | .0045 | .0044 | .0043 | .0041 | .0040 | .0039 | .0038 | .0037 | .0036 |
+| -2.5 | .0062 | .0060 | .0059 | .0057 | .0055 | .0054 | .0052 | .0051 | .0049 | .0048 |
+| -2.4 | .0082 | .0080 | .0078 | .0075 | .0073 | .0071 | .0069 | .0068 | .0066 | .0064 |
+| -2.3 | .0107 | .0104 | .0102 | .0099 | .0096 | .0094 | .0091 | .0089 | .0087 | .0084 |
+| -2.2 | .0139 | .0136 | .0132 | .0129 | .0125 | .0122 | .0119 | .0116 | .0113 | .0110 |
+| -2.1 | .0179 | .0174 | .0170 | .0166 | .0162 | .0158 | .0154 | .0150 | .0146 | .0143 |
+| -2.0 | .0228 | .0222 | .0217 | .0212 | .0207 | .0202 | .0197 | .0192 | .0188 | .0183 |
+| -1.9 | .0287 | .0281 | .0274 | .0268 | .0262 | .0256 | .0250 | .0244 | .0239 | .0233 |
+| -1.8 | .0359 | .0351 | .0344 | .0336 | .0329 | .0322 | .0314 | .0307 | .0301 | .0294 |
+| -1.7 | .0446 | .0436 | .0427 | .0418 | .0409 | .0401 | .0392 | .0384 | .0375 | .0367 |
+| -1.6 | .0548 | .0537 | .0526 | .0516 | .0505 | .0495 | .0485 | .0475 | .0465 | .0455 |
+| -1.5 | .0668 | .0655 | .0643 | .0630 | .0618 | .0606 | .0594 | .0582 | .0571 | .0559 |
+| -1.4 | .0808 | .0793 | .0778 | .0764 | .0749 | .0735 | .0721 | .0708 | .0694 | .0681 |
+| -1.3 | .0968 | .0951 | .0934 | .0918 | .0901 | .0885 | .0869 | .0853 | .0838 | .0823 |
+| -1.2 | .1151 | .1131 | .1112 | .1093 | .1075 | .1056 | .1038 | .1020 | .1003 | .0985 |
+| -1.1 | .1357 | .1335 | .1314 | .1292 | .1271 | .1251 | .1230 | .1210 | .1190 | .1170 |
+| -1.0 | .1587 | .1562 | .1539 | .1515 | .1492 | .1469 | .1446 | .1423 | .1401 | .1379 |
+| -0.9 | .1841 | .1814 | .1788 | .1762 | .1736 | .1711 | .1685 | .1660 | .1635 | .1611 |
+| -0.8 | .2119 | .2090 | .2061 | .2033 | .2005 | .1977 | .1949 | .1922 | .1894 | .1867 |
+| -0.7 | .2420 | .2389 | .2358 | .2327 | .2296 | .2266 | .2236 | .2206 | .2177 | .2148 |
+| -0.6 | .2743 | .2709 | .2676 | .2643 | .2611 | .2578 | .2546 | .2514 | .2483 | .2451 |
+| -0.5 | .3085 | .3050 | .3015 | .2981 | .2946 | .2912 | .2877 | .2843 | .2810 | .2776 |
+| -0.4 | .3446 | .3409 | .3372 | .3336 | .3300 | .3264 | .3228 | .3192 | .3156 | .3121 |
+| -0.3 | .3821 | .3783 | .3745 | .3707 | .3669 | .3632 | .3594 | .3557 | .3520 | .3483 |
+| -0.2 | .4207 | .4168 | .4129 | .4090 | .4052 | .4013 | .3974 | .3936 | .3897 | .3859 |
+| -0.1 | .4602 | .4562 | .4522 | .4483 | .4443 | .4404 | .4364 | .4325 | .4286 | .4247 |
+| -0.0 | .5000 | .4960 | .4920 | .4880 | .4840 | .4801 | .4761 | .4721 | .4681 | .4641 |
+
+Table A (Continued)
+
+| z | .00 | .01 | .02 | .03 | .04 | .05 | .06 | .07 | .08 | .09 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 0.0 | .5000 | .5040 | .5080 | .5120 | .5160 | .5199 | .5239 | .5279 | .5319 | .5359 |
+| 0.1 | .5398 | .5438 | .5478 | .5517 | .5557 | .5596 | .5636 | .5675 | .5714 | .5753 |
+| 0.2 | .5793 | .5832 | .5871 | .5910 | .5948 | .5987 | .6026 | .6064 | .6103 | .6141 |
+| 0.3 | .6179 | .6217 | .6255 | .6293 | .6331 | .6368 | .6406 | .6443 | .6480 | .6517 |
+| 0.4 | .6554 | .6591 | .6628 | .6664 | .6700 | .6736 | .6772 | .6808 | .6844 | .6879 |
+| 0.5 | .6915 | .6950 | .6985 | .7019 | .7054 | .7088 | .7123 | .7157 | .7190 | .7224 |
+| 0.6 | .7257 | .7291 | .7324 | .7357 | .7389 | .7422 | .7454 | .7486 | .7517 | .7549 |
+| 0.7 | .7580 | .7611 | .7642 | .7673 | .7704 | .7734 | .7764 | .7794 | .7823 | .7852 |
+| 0.8 | .7881 | .7910 | .7939 | .7967 | .7995 | .8023 | .8051 | .8078 | .8106 | .8133 |
+| 0.9 | .8159 | .8186 | .8212 | .8238 | .8264 | .8289 | .8315 | .8340 | .8365 | .8389 |
+| 1.0 | .8413 | .8438 | .8461 | .8485 | .8508 | .8531 | .8554 | .8577 | .8599 | .8621 |
+| 1.1 | .8643 | .8665 | .8686 | .8708 | .8729 | .8749 | .8770 | .8790 | .8810 | .8830 |
+| 1.2 | .8849 | .8869 | .8888 | .8907 | .8925 | .8944 | .8962 | .8980 | .8997 | .9015 |
+| 1.3 | .9032 | .9049 | .9066 | .9082 | .9099 | .9115 | .9131 | .9147 | .9162 | .9177 |
+| 1.4 | .9192 | .9207 | .9222 | .9236 | .9251 | .9265 | .9279 | .9292 | .9306 | .9319 |
+| 1.5 | .9332 | .9345 | .9357 | .9370 | .9382 | .9394 | .9406 | .9418 | .9429 | .9441 |
+| 1.6 | .9452 | .9463 | .9474 | .9484 | .9495 | .9505 | .9515 | .9525 | .9535 | .9545 |
+| 1.7 | .9554 | .9564 | .9573 | .9582 | .9591 | .9599 | .9608 | .9616 | .9625 | .9633 |
+| 1.8 | .9641 | .9649 | .9656 | .9664 | .9671 | .9678 | .9686 | .9693 | .9699 | .9706 |
+| 1.9 | .9713 | .9719 | .9726 | .9732 | .9738 | .9744 | .9750 | .9756 | .9761 | .9767 |
+| 2.0 | .9772 | .9778 | .9783 | .9788 | .9793 | .9798 | .9803 | .9808 | .9812 | .9817 |
+| 2.1 | .9821 | .9826 | .9830 | .9834 | .9838 | .9842 | .9846 | .9850 | .9854 | .9857 |
+| 2.2 | .9861 | .9864 | .9868 | .9871 | .9875 | .9878 | .9881 | .9884 | .9887 | .9890 |
+| 2.3 | .9893 | .9896 | .9898 | .9901 | .9904 | .9906 | .9909 | .9911 | .9913 | .9916 |
+| 2.4 | .9918 | .9920 | .9922 | .9925 | .9927 | .9929 | .9931 | .9932 | .9934 | .9936 |
+| 2.5 | .9938 | .9940 | .9941 | .9943 | .9945 | .9946 | .9948 | .9949 | .9951 | .9952 |
+| 2.6 | .9953 | .9955 | .9956 | .9957 | .9959 | .9960 | .9961 | .9962 | .9963 | .9964 |
+| 2.7 | .9965 | .9966 | .9967 | .9968 | .9969 | .9970 | .9971 | .9972 | .9973 | .9974 |
+| 2.8 | .9974 | .9975 | .9976 | .9977 | .9977 | .9978 | .9979 | .9979 | .9980 | .9981 |
+| 2.9 | .9981 | .9982 | .9982 | .9983 | .9984 | .9984 | .9985 | .9985 | .9986 | .9986 |
+| 3.0 | .9987 | .9987 | .9987 | .9988 | .9988 | .9989 | .9989 | .9989 | .9990 | .9990 |
+| 3.1 | .9990 | .9991 | .9991 | .9991 | .9992 | .9992 | .9992 | .9992 | .9993 | .9993 |
+| 3.2 | .9993 | .9993 | .9994 | .9994 | .9994 | .9994 | .9994 | .9995 | .9995 | .9995 |
+| 3.3 | .9995 | .9995 | .9995 | .9996 | .9996 | .9996 | .9996 | .9996 | .9996 | .9997 |
+| 3.4 | .9997 | .9997 | .9997 | .9997 | .9997 | .9997 | .9997 | .9997 | .9997 | .9998 |
+
+Table B  t distribution critical values
+Table entry for p and C is the point t* with probability p lying above it and probability C lying between -t* and t*.
+
+| df | .25 | .20 | .15 | .10 | .05 | .025 | .02 | .01 | .005 | .0025 | .001 | .0005 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 1.000 | 1.376 | 1.963 | 3.078 | 6.314 | 12.71 | 15.89 | 31.82 | 63.66 | 127.3 | 318.3 | 636.6 |
+| 2 | .816 | 1.061 | 1.386 | 1.886 | 2.920 | 4.303 | 4.849 | 6.965 | 9.925 | 14.09 | 22.33 | 31.60 |
+| 3 | .765 | .978 | 1.250 | 1.638 | 2.353 | 3.182 | 3.482 | 4.541 | 5.841 | 7.453 | 10.21 | 12.92 |
+| 4 | .741 | .941 | 1.190 | 1.533 | 2.132 | 2.776 | 2.999 | 3.747 | 4.604 | 5.598 | 7.173 | 8.610 |
+| 5 | .727 | .920 | 1.156 | 1.476 | 2.015 | 2.571 | 2.757 | 3.365 | 4.032 | 4.773 | 5.893 | 6.869 |
+| 6 | .718 | .906 | 1.134 | 1.440 | 1.943 | 2.447 | 2.612 | 3.143 | 3.707 | 4.317 | 5.208 | 5.959 |
+| 7 | .711 | .896 | 1.119 | 1.415 | 1.895 | 2.365 | 2.517 | 2.998 | 3.499 | 4.029 | 4.785 | 5.408 |
+| 8 | .706 | .889 | 1.108 | 1.397 | 1.860 | 2.306 | 2.449 | 2.896 | 3.355 | 3.833 | 4.501 | 5.041 |
+| 9 | .703 | .883 | 1.100 | 1.383 | 1.833 | 2.262 | 2.398 | 2.821 | 3.250 | 3.690 | 4.297 | 4.781 |
+| 10 | .700 | .879 | 1.093 | 1.372 | 1.812 | 2.228 | 2.359 | 2.764 | 3.169 | 3.581 | 4.144 | 4.587 |
+| 11 | .697 | .876 | 1.088 | 1.363 | 1.796 | 2.201 | 2.328 | 2.718 | 3.106 | 3.497 | 4.025 | 4.437 |
+| 12 | .695 | .873 | 1.083 | 1.356 | 1.782 | 2.179 | 2.303 | 2.681 | 3.055 | 3.428 | 3.930 | 4.318 |
+| 13 | .694 | .870 | 1.079 | 1.350 | 1.771 | 2.160 | 2.282 | 2.650 | 3.012 | 3.372 | 3.852 | 4.221 |
+| 14 | .692 | .868 | 1.076 | 1.345 | 1.761 | 2.145 | 2.264 | 2.624 | 2.977 | 3.326 | 3.787 | 4.140 |
+| 15 | .691 | .866 | 1.074 | 1.341 | 1.753 | 2.131 | 2.249 | 2.602 | 2.947 | 3.286 | 3.733 | 4.073 |
+| 16 | .690 | .865 | 1.071 | 1.337 | 1.746 | 2.120 | 2.235 | 2.583 | 2.921 | 3.252 | 3.686 | 4.015 |
+| 17 | .689 | .863 | 1.069 | 1.333 | 1.740 | 2.110 | 2.224 | 2.567 | 2.898 | 3.222 | 3.646 | 3.965 |
+| 18 | .688 | .862 | 1.067 | 1.330 | 1.734 | 2.101 | 2.214 | 2.552 | 2.878 | 3.197 | 3.611 | 3.922 |
+| 19 | .688 | .861 | 1.066 | 1.328 | 1.729 | 2.093 | 2.205 | 2.539 | 2.861 | 3.174 | 3.579 | 3.883 |
+| 20 | .687 | .860 | 1.064 | 1.325 | 1.725 | 2.086 | 2.197 | 2.528 | 2.845 | 3.153 | 3.552 | 3.850 |
+| 21 | .686 | .859 | 1.063 | 1.323 | 1.721 | 2.080 | 2.189 | 2.518 | 2.831 | 3.135 | 3.527 | 3.819 |
+| 22 | .686 | .858 | 1.061 | 1.321 | 1.717 | 2.074 | 2.183 | 2.508 | 2.819 | 3.119 | 3.505 | 3.792 |
+| 23 | .685 | .858 | 1.060 | 1.319 | 1.714 | 2.069 | 2.177 | 2.500 | 2.807 | 3.104 | 3.485 | 3.768 |
+| 24 | .685 | .857 | 1.059 | 1.318 | 1.711 | 2.064 | 2.172 | 2.492 | 2.797 | 3.091 | 3.467 | 3.745 |
+| 25 | .684 | .856 | 1.058 | 1.316 | 1.708 | 2.060 | 2.167 | 2.485 | 2.787 | 3.078 | 3.450 | 3.725 |
+| 26 | .684 | .856 | 1.058 | 1.315 | 1.706 | 2.056 | 2.162 | 2.479 | 2.779 | 3.067 | 3.435 | 3.707 |
+| 27 | .684 | .855 | 1.057 | 1.314 | 1.703 | 2.052 | 2.158 | 2.473 | 2.771 | 3.057 | 3.421 | 3.690 |
+| 28 | .683 | .855 | 1.056 | 1.313 | 1.701 | 2.048 | 2.154 | 2.467 | 2.763 | 3.047 | 3.408 | 3.674 |
+| 29 | .683 | .854 | 1.055 | 1.311 | 1.699 | 2.045 | 2.150 | 2.462 | 2.756 | 3.038 | 3.396 | 3.659 |
+| 30 | .683 | .854 | 1.055 | 1.310 | 1.697 | 2.042 | 2.147 | 2.457 | 2.750 | 3.030 | 3.385 | 3.646 |
+| 40 | .681 | .851 | 1.050 | 1.303 | 1.684 | 2.021 | 2.123 | 2.423 | 2.704 | 2.971 | 3.307 | 3.551 |
+| 50 | .679 | .849 | 1.047 | 1.299 | 1.676 | 2.009 | 2.109 | 2.403 | 2.678 | 2.937 | 3.261 | 3.496 |
+| 60 | .679 | .848 | 1.045 | 1.296 | 1.671 | 2.000 | 2.099 | 2.390 | 2.660 | 2.915 | 3.232 | 3.460 |
+| 80 | .678 | .846 | 1.043 | 1.292 | 1.664 | 1.990 | 2.088 | 2.374 | 2.639 | 2.887 | 3.195 | 3.416 |
+| 100 | .677 | .845 | 1.042 | 1.290 | 1.660 | 1.984 | 2.081 | 2.364 | 2.626 | 2.871 | 3.174 | 3.390 |
+| 1000 | .675 | .842 | 1.037 | 1.282 | 1.646 | 1.962 | 2.056 | 2.330 | 2.581 | 2.813 | 3.098 | 3.300 |
+| ∞ | .674 | .841 | 1.036 | 1.282 | 1.645 | 1.960 | 2.054 | 2.326 | 2.576 | 2.807 | 3.091 | 3.291 |
+
+50%  60%  70%  80%  90%  95%  96%  98%  99%  99.5%  99.8%  99.9%
+    [IMAGE: ../images/2015_yale_c__p8_ve29cb1-5824bf2e.webp]
+    [IMAGE: ../images/2015_yale_c__p9_v7218b9-93c07c24.webp]
+    [IMAGE: ../images/2015_yale_c__p10_v8e073f-0db64dff.webp]
+
+94. [frq, 1 pt] "Just out of curiosity, what's my z-score for this test? Show your calculation too!"
+
+95. [frq, 1 pt] "Can you explain what that z-score value tells you?"
+
+97. [frq, 1 pt] "What does standard deviation measure?"
+
+98. [frq, 1 pt] "How do calculate the mean?"

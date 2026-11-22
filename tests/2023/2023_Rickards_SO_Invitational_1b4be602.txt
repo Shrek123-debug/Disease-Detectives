@@ -1,0 +1,623 @@
+Rickards SO Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  72 questions, 166.0 pts
+Source: scio.ly test archive id 1b4be602-1058-40f7-b885-cadbf428bf2e  |  original files: https://drive.google.com/drive/folders/1vwoNOyhkEiPYZoCP1k3lRfh5E9V7_Vvu
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+[STIMULUS] Match each term with the correct definition below. Each letter is only used once.
+
+A. the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+B. the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+C. any departure, subjective or objective, from a state of physiological or psychological health and well-being
+D. Death
+E. the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+F. the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+G. the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+H. the ability of an intervention or program to produce the intended or expected results under ideal conditions
+I. the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+J. any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+K. an inanimate object that can be the vehicle for transmission of an infectious agent
+L. association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+M. The aspect of epidemiology concerned with why and how a health problem occurs.
+N. a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+O. a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+P. any factor that brings about change in a health condition or in other defined characteristics
+Q. a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+R. the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+S. the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+T. the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-1. [mcq, 3 pt] Arbovirus
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-3. [mcq, 3 pt] Cohort
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-4. [mcq, 3 pt] Determinant
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-5. [mcq, 3 pt] Dose-response
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-6. [mcq, 3 pt] Efficacy
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-7. [mcq, 3 pt] Endemic
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-8. [mcq, 3 pt] Analytic Epidemiology
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-9. [mcq, 3 pt] Descriptive Epidemiology
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-10. [mcq, 3 pt] Fomite
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-11. [mcq, 3 pt] Null Hypothesis
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-13. [mcq, 3 pt] Incubation period
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-14. [mcq, 3 pt] Line listing
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-15. [mcq, 3 pt] Morbidity
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-16. [mcq, 3 pt] Mortality
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-18. [mcq, 3 pt] Pathogenicity
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-19. [mcq, 3 pt] Reservoir
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+P1-20. [mcq, 3 pt] Virulence
+    A) the ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    B) the incidence rate calculated as the number of new cases among a population divided by the cumulative person-time of that population, usually expressed as the number of events per persons per unit of time.
+    C) any departure, subjective or objective, from a state of physiological or psychological health and well-being
+    D) Death
+    E) the proportion of persons with a particular condition (e.g., patients) to those who die from that condition
+    F) the constant presence of an agent or health condition within a given geographic area or population; can also refer to the usual prevalence of an agent or condition.
+    G) the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+    H) the ability of an intervention or program to produce the intended or expected results under ideal conditions
+    I) the aspect of epidemiology concerned with organizing and summarizing data regarding the persons affected, time, and place
+    J) any of a group of viruses that are transmitted between hosts by mosquitoes, ticks, and other arthropods
+    K) an inanimate object that can be the vehicle for transmission of an infectious agent
+    L) association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure increases.
+    M) The aspect of epidemiology concerned with why and how a health problem occurs.
+    N) a well-defined group of persons who have had a common experience or exposure and are then followed up, as in a cohort study or prospective study, to determine the incidence of new diseases or health events
+    O) a type of epidemiologic database, organized similar to a spreadsheet with rows and columns in which information from cases or patients are listed; each column represents a variable, and each row represents an individual case or patient.
+    P) any factor that brings about change in a health condition or in other defined characteristics
+    Q) a measure of the frequency with which new cases of illness, injury, or other health condition occur, expressed explicitly per a time frame
+    R) the time interval from exposure to an infectious agent to the onset of symptoms of an infectious disease.
+    S) the capacity of an (infectious) agent to cause severe disease, measured proportionally as who with disease will become severely ill or die
+    T) the supposition that two (or more) groups do not differ in the measure of interest
+
+[STIMULUS] Label each situation discription with the letter of the correct bias/effect from the bank below. Use the most specific term possible. Each bias/effect may be used more than once and not all biases/effects in the test bank may be used.
+
+a. Selection bias
+b. Voluntary response bias
+c. Hawthorne effect
+d. Length time bias
+e. Lead time bias
+f. Information bias
+
+P1-21. [mcq, 1 pt] a. When only a select amount of people respond to an optional restaurant rating survey leading to a high number of negative responses.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Information bias
+
+P1-22. [mcq, 1 pt] b. When patients that are diagnosed earlier in a study seem to live longer as they have had symptoms for less time before diagnosis compared to others.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Information bias
+
+P1-23. [mcq, 1 pt] c. When including a large number of workers in a health study leads to skewed results.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Information bias
+
+[STIMULUS] Label each situation description with the letter of the correct bias/effect from the bank below. Use the most specific term possible. Each bias/effect may be used more than once and not all biases/effects in the test bank may be used.
+
+a. Selection bias
+b. Voluntary response bias
+c. Hawthorne effect
+d. Length time bias
+e. Lead time bias
+f. Observer bias
+
+P1-24. [mcq, 1 pt] a. When a certain group is included more in a study and could skew the results.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Observer bias
+
+P1-25. [mcq, 1 pt] b. The overestimation of mean survival time because of the high amount of cases detected that are asymptomatically slowly progressing, while fast progressing cases are detected after giving symptoms.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Observer bias
+
+P1-26. [mcq, 1 pt] c. When a researcher is biased in their recording of information seen in subjects.
+    A) Selection bias
+    B) Voluntary response bias
+    C) Hawthorne effect
+    D) Length time bias
+    E) Lead time bias
+    F) Observer bias
+
+P1-27. [frq, 1 pt] Explain why experimental studies are so important for analytic epidemiology.
+
+P1-28. [frq, 6.5 pt] List the thirteen steps to investigating an outbreak.
+
+P1-29. [frq, 6 pt] List and describe three possible actions step 1 could indicate.
+
+P1-30. [frq, 2 pt] List the 4 parts of a case definition.
+
+P1-31. [frq, 2 pt] List 2 possible misleading factors for classifying an outbreak.
+
+[STIMULUS] Use the scenario below to answer the following questions.
+
+Between March 28th and April 3rd, multiple cases of rotavirus were reported to the local county health center of Tallahassee. Those presented were adults who attended a communit picnic on March 25th. They had symptoms ranging from abdominal pain, nausea, watery diarrhea, vomiting, stomach cramps, fever, dehydration, dizziness when standing up, and unusual lethargy. Some of the information for a sample of the cases is given below.
+
+| Case # | Gender | Symptoms | Lab Status |
+|---|---|---|---|
+| 1 | Male | Abdominal pain, dehydration, lethargy | Positive |
+| 2 | Male | Nausea, stomach cramps, vomiting | Pending |
+| 3 | Female | Dizziness when standing up, fever | Positive |
+| 4 | Male | Fever, dehydration | Negative |
+| 5 | Female | Dizziness, lethargy | Pending |
+| 6 | Female | Abdominal pain | Pending |
+| 7 | Male | Abdominal pain, nausea, lethargy | Positive |
+| 8 | Female | None | Positive |
+| 9 | Male | Nausea, watery diarrhea, vomitting | Negative |
+
+[STIMULUS] For each of the following scenarios/descriptions write the appropriate Hill's criteria for causation. Also write which number is the weakest
+    | Label | Answer |
+    | 1 Single cause single effect | [[q:P1-32-a]] |
+    | 2 More exposure = more risk | [[q:P1-32-b]] |
+    | 3 Cause is before the effect | [[q:P1-32-c]] |
+    | 4 Agrees with confirmed biological processes and previous research | [[q:P1-32-d]] |
+    | 5 Epidemiological findings agree with laboratory findings | [[q:P1-32-e]] |
+    | Weakest Which number is the weakest | [[q:P1-32-f]] |
+
+P1-32-a. [frq, 0.333 pt] 1 Single cause single effect
+
+P1-32-b. [frq, 0.333 pt] 2 More exposure = more risk
+
+P1-32-c. [frq, 0.333 pt] 3 Cause is before the effect
+
+P1-32-d. [frq, 0.333 pt] 4 Agrees with confirmed biological processes and previous research
+
+P1-32-e. [frq, 0.333 pt] 5 Epidemiological findings agree with laboratory findings
+
+P1-32-f. [frq, 0.333 pt] Weakest Which number is the weakest
+
+P1-33. [frq, 1 pt] What is the table above called?
+
+P1-34. [frq, 1 pt] What other information should be added to the table in order to make it more complete? Justify your answer.
+
+P1-35. [frq, 1.5 pt] List the cases with their status (confirmed, probable, possible, or not a case).
+    1-3:
+
+P1-38. [frq, 3 pt] Give 2-3 reasons why patient 9 could have had a negative lab result despite exhibiting symptoms.
+
+P1-39. [frq, 1 pt] Give a case definition for this outbreak
+
+P1-40. [frq, 1 pt] Identify the surveillance method used in the study
+
+[STIMULUS] Below are 3 2x2 tables for exposures to different foods at the picnic. Answer the following questions about them.
+
+|  | Positive | Negative |
+|---|---|---|
+| Ate taco | 70 | 138 |
+| Did not eat taco | 131 | 327 |
+
+|  | Positive | Negative |
+|---|---|---|
+| Ate ice cream | 181 | 27 |
+| Did not eat ice cream | 20 | 439 |
+
+|  | Positive | Negative |
+|---|---|---|
+| Ate ham sandwich | 152 | 56 |
+| Did not eat ham sandwich | 49 | 409 |
+    | Label | Answer |
+    | **P1-41.** Calculate the risk ratios for each of the 3 exposures to 3 significant figures. Input your answers in the order taco, ice cream, then ham sandwich. |  |
+    | taco | [[q:P1-41-a]] |
+    | ice cream | [[q:P1-41-b]] |
+    | ham sandwich | [[q:P1-41-c]] |
+
+P1-41-a. [frq, 1 pt] taco
+
+P1-41-b. [frq, 1 pt] ice cream
+
+P1-41-c. [frq, 1 pt] ham sandwich
+
+25b. [frq, 3 pt] Interpret each of your answers to the last question
+
+28b. [mcq, 1 pt] Is odds ratio or risk ratio a better fit for this study?
+    A) Odds ratio
+    B) Risk ratio
+
+29b. [frq, 2 pt] In what kind of scenario would the other measure be more accurate? Assume the study design stays the same.
+
+[STIMULUS] Answer the following questions about surveillance
+
+30b. [frq, 1 pt] Identify the type of surveillance: The local health authority monitors the sales of over-the-counter fever relievers to control flu outbreaks.
+
+31b. [frq, 1 pt] Identify the type of surveillance: The CDC calls local hospitals for case numbers.
+
+32b. [frq, 1 pt] Identify the type of surveillance: A few hospitals in a region are given the responsibility of reporting disease cases
+
+33b. [frq, 1 pt] Which of the above surveillance methods is the most expensive?
+
+34b. [frq, 1 pt] Give an example of a situation where passive surveillance would be used.
+
+35b. [frq, 1 pt] How should possible bioterrorism agents be reported?
+
+37b. [frq, 2.5 pt] List the 5 steps of surveillance
+
+38b. [frq, 2.5 pt] Explain the 5 steps of surveillance.
+
+39b. [frq, 2 pt] Who is Robert Koch? What is he known for?
+
+40b. [frq, 4 pt] Define the four main types of statistical errors.
+
+41b. [frq, 6 pt] Define alpha, beta, and p values then compare alpha and p values. Describe how these values can be used to determine how to rejecting the null hypothesis.
+
+[STIMULUS] Use the above SIR model to answer the following questions
+    [IMAGE: ../images/2022_rickards_so_invitational_b_c__p9_ec731b-98b62231.webp]
+
+P2-43. [frq, 2 pt] What is the meaning of β and γ in the context of these rate equations? In other words, what do β and γ control in this model?
+
+P2-44. [frq, 4 pt] If we are no longer in the early stage of the pandemic, and so the number of susceptible individuals has decreased by a significant amount, is R0 still a good indicator of the epidemic's progression? Why or why not?
+
+P2-45. [frq, 2 pt] What happens to β and r (transmissibility) if the mayor implements a citywide mask mandate?
+
+P2-46. [frq, 2 pt] What are the most distinctive features of the SEIRS model versus the SIR model?
+
+P2-47. [frq, 2 pt] Describe the graph of the infected individuals over time according to the SEIRS model.
+
+P2-48. [frq, 2.5 pt] Describe how to calculate the z-score and then interpret what an extremely high z-score means for a data point.
+
+P2-49. [frq, 3 pt] When was the CDC founded(only year), who was the main founder, and where was it founded originally?
+
+P2-50. [frq, 1 pt] When was the WHO founded?(Year only)
+
+P2-51. [frq, 8 pt] List a plausible chain of transmission for measles, and then write who invented the vaccine for this disease. Is measles an eradicated, eliminated, or controlled disease?
+
+P2-52. [frq, 1 pt] What is prophylaxis?
+
+P2-53. [frq, 1 pt] What was James Lind famous for?
+
+P2-54. [frq, 1.5 pt] What 3 virulent reference strains was the Salk Polio vaccine based off of?
+
+P2-55. [mcq, 1 pt] Comparing numbers and rates of illness in a community, rates are preferred for:
+    A) Conducting surveillance for communicable diseases
+    B) Deciding how many doses of immune globulin are needed
+    C) Estimating subgroups at highest risk
+    D) Telling physicians which strain of influenza is most prevalent
+
+P2-56. [frq, 15 pt] What are the two main types of experimental studies? What is the main difference between the two and the reason for it? Describe 3 advantages and 3 disadvantages for each.
+
+P2-57. [frq, 3 pt] Which type of experimental would be considered the gold standard and why? Which type would be used in a study on the research about the taste of a cotton candy brand and explain why?

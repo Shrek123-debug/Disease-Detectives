@@ -1,0 +1,161 @@
+Golden Gate (GGSO) Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  42 questions, 104.0 pts
+Source: scio.ly test archive id 5b8d0e56-0cb2-49f0-9c43-09f1bb471da1  |  original files: https://drive.google.com/drive/folders/1CA5XHwhdFOZCJ2ES7ITprWoksCWORtX8
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 15
+
+DIRECTIONS: For all questions: include formulas, round to 3 decimal places, and show all work.
+
+
+=== Case I: A Spicy Challenge ===
+
+[STIMULUS] As part of their senior year celebrations, Anya and her friends decided to recreate their version of the Spicy Hot Wings Challenge. Anya, who has very low spice tolerance, has to have some cold milk nearby. During the challenge, they also eat copious amounts of fruit, ice cream, and cold cheese slices. They held the challenge during the first week of their summer vacation, on Saturday, June 10, 2023.
+
+Two days later, Anya awakes with a fever and immediately runs to the restroom, where she experiences diarrhea and bloody stools. She also feels extremely dizzy and must keep drinking water to stay conscious.
+
+1. [multi, 3 pt] Based on the information given, what disease(s) could Anya have? Select all that apply.
+    A) Botulism
+    B) Listeriosis
+    C) Shigellosis
+    D) Brucellosis
+    E) Stomach flu
+    F) Salmonella
+
+5. [frq, 5 pt] What are the CDC’s 5 strategies to prevent foodborne illnesses? List them and provide a BRIEF description of each.
+
+[STIMULUS] A week after Anya’s recovery, Anya’s small, sleepy suburban hometown is slammed with the news that there has been an outbreak of the illness that Anya was one of the first cases for! And what’s more, all of them occurred in people ages 15-40 who’d used the same foods that Anya and her friends used for their challenge (the town only has one supermarket)! Since it is senior year summer and Anya and her friends have nothing else to do, they decide to put their expertise and insight as Science Olympiad alumna to noble use. They acquire the following data about the exposures of the cases for this outbreak:
+    | Food | Ate, Got Sick | Ate, Didn’t Get Sick | Didn’t Eat, Got Sick | Didn’t Eat, Didn’t Get Sick |
+    | Hot Wings | 5 | 12 | 2 | 7 |
+    | Milk | 10 | 8 | 4 | 4 |
+    | Strawberries | 14 | 3 | 4 | 5 |
+    | Ice Cream | 7 | 5 | 5 | 9 |
+    | Cheese | 13 | 3 | 3 | 7 |
+
+8. [frq, 2 pt] What epidemiological triad do case definitions correspond to?
+
+11. [frq, 2 pt] What is the relationship between the odds ratio calculated from the table above and relative risk?
+
+[STIMULUS] As part of their Science Olympiad obsession, Anya and her friends all pitched in to splurge on a new PFGE gel kit before graduation. When Anya was bedridden and delirious, she thought it would be a great opportunity to put her gel kit to good use. Somehow, she gets her hands on the DNA sample the hospital laboratory extracted from her stool, and her friends go back to take samples of all the food used in their Spicy Hot Wings Challenge. Afterwards, they ran these samples through their PFGE gel machine and obtained these samples:
+    [IMAGE: ../images/2024_golden_gate_ggso_invitational_c__p6_9d9512-6793ce7b.webp]
+
+13. [frq, 2 pt] What does PFGE stand for?
+
+14. [frq, 4 pt] Briefly describe the process of PFGE.
+
+15. [frq, 2 pt] What is the most common gel used in PFGE, and what feature of the gel allows DNA to move freely through the gel?
+
+16. [mcq, 2 pt] PFGE DNA fragments are separated by their:
+    A) Sequence
+    B) Size
+    C) Genome
+    D) Bases
+
+17. [frq, 3 pt] What could be the identity of Sample 1?
+
+18. [frq, 4 pt] You had to do this experiment twice because you initially forgot to apply the electric field at an angle! Why is electricity applied at an alternating angle when conducting PFGE, and what angle is it?
+
+19. [frq, 2 pt] What does each pulsotype represent?
+
+20. [frq, 3 pt] Based on the results of the PFGE, what is the most likely source of Anya's sickness? Does this match up with the results obtained from the risk measure calculations?
+
+21. [frq, 5 pt] Recently, many public health laboratories and agencies have been transitioning from PFGE to a similar methodology that allows epidemiologists to identify outbreaks with greater accuracy. Identify this new technique and briefly explain its main difference from PFGE. You do NOT need to explain its procedure.
+
+
+=== Case II: Tick-Borne Encephalitis ===
+
+[STIMULUS] This case references the CDC report of TBE in November, 2023.
+
+“Tick-borne encephalitis (TBE) virus is focally endemic in parts of Europe and Asia. The virus is primarily transmitted to humans by the bites of infected: Ixodes scapularis ticks.
+
+The main TBE virus transmission season is April–November when ticks are most active because of warmer weather in the Northern Hemisphere. Peak transmission generally occurs for multiple weeks during the warm, humid summer months, typically during June–August in European countries. However, in central and northern Europe, two peaks might occur in summer and early fall.”
+
+22. [mcq, 2 pt] In areas where TBE is endemic, approximately 5,000–10,000 new cases are reported annually. This number most likely represents a/an:
+    A) Accurate representation of the true number of cases
+    B) Underestimate of the actual number of cases due to underdiagnosis or underreporting
+    C) Underestimate of the actual number of cases resulting from the exclusion of mild or asymptomatic cases from the reported figures
+    D) Overestimate of the actual number of cases caused by inaccurate diagnostic methods inflating the numbers
+    E) Overestimate of the actual number of cases resulting from the inclusion of non-TBE related illnesses in the reported cases
+
+23. [mcq, 2 pt] What surveillance methods would be most effective in monitoring TBE virus transmission during peak transmission?
+    A) Serological surveys of the general population
+    B) Regular tick population sampling in endemic areas
+    C) Clinical diagnosis of TBE cases in hospitals
+    D) Monthly temperature records in affected regions
+
+24. [frq, 2 pt] Identify each element in the context of the epidemiological triad.
+
+[STIMULUS] “Approximately three fourths of TBE virus infections are asymptomatic. Among patients who develop clinical symptoms after a bite from an infected tick, the incubation period is typically 7–14 days. TBE can have a monophasic or biphasic illness course. When biphasic illness occurs, the initial phase includes nonspecific symptoms (e.g., fever, headache, malaise, myalgia, nausea, and vomiting). These symptoms usually last for a median of approximately 4 days, followed by a period of remission of approximately 7 days, followed by the second (neurologic) phase. Neurologic signs and symptoms of TBE vary but can include meningeal signs, altered mental status, cognitive dysfunction, ataxia, rigidity, tremors, and cranial nerve and limb paresis or palsies.”
+
+25. [frq, 2 pt] Why might biphasic illness pose obstacles in epidemiological monitoring?
+
+28. [frq, 2 pt] What causes the second increase in cases? Briefly explain.
+
+[STIMULUS] “Magnetic resonance imaging (MRI) occasionally detects abnormalities in the brain or spinal cord; however, sensitivity is low for diagnosis of TBE.” Your team wants to develop a novel neuroimaging screening test, NEURO A, and use it simultaneously with another screening test, NEURO B, among 2000 people.
+
+29. [frq, 4 pt] Why would low sensitivity be a concern?
+
+31. [mcq, 2 pt] When you increase sensitivity, you focus on:
+    A) Increasing how well a test identifies individuals who truly have the condition.
+    B) Increasing how well a test identifies individuals who truly do not have the condition.
+    C) Increasing the probability that a positive test result is accurate.
+    D) Increasing the probability that a negative test result is accurate.
+
+32. [frq, 3 pt] Why is there a trade-off between sensitivity and specificity?
+
+33. [frq, 2 pt] Why do we want to minimize false positives?
+
+34. [frq, 2 pt] Why do we want to minimize false negatives?
+
+37. [frq, 3 pt] In practice, we don’t know the number of true and false positives and negatives. How can the values for sensitivity and specificity be calculated?
+
+
+=== Case III: Eating Disorders and Social Media ===
+
+[STIMULUS] This case references the journal article published by Sidani et al. in 2016.
+
+“Feeding and eating disorders, known more colloquially as eating disorders, represent an important clinical and mental health issue in the U.S., especially among adolescents and young adults. Researchers at the National Institutes of Health sought to examine the association between social media usage and eating concerns in a large, nationally representative sample of U.S. young adults aged 19-32 years old. Participants consisted of 1765 young adults aged 19-32 years old, all of whom were randomly selected from a national probability-based online non-volunteer panel. From March - April 2013, a total of 3254 participants ages 18 to 30 years completed an Internet-based survey as a baseline assessment. In October 2014, the NIH sent a follow-up survey to those who had completed the baseline survey, who were then aged 19 to 32 years. Those participants were asked additional questions regarding social media use and eating concerns, and this represented the sample for the current study.”
+
+38. [frq, 2 pt] Based on the initial information provided, what are 2 potential issues that may occur in this study?
+
+39. [frq, 2 pt] Based on the initial information provided, what are 2 specific biases that may occur in this study?
+
+41. [frq, 1 pt] In the natural history of disease, which stage does the occurrence of eating concerns fall into?
+
+42. [frq, 2 pt] What are two potential issues with using the traditionally accepted National History of Disease timeline in the context of eating disorders?
+
+43. [frq, 2 pt] What type of test seeks to identify possible health problems or diseases among an at-risk and asymptomatic population?
+
+44. [frq, 2 pt] What are four determinants that may increase an eating disorder’s pathogenicity in an individual?
+
+45. [frq, 2 pt] Social contexts have played an increasingly prominent role in mental health issues. What are four social determinants of health?
+
+[STIMULUS] “Participants were presented with five items that were adapted from the SCOFF assessment tool and the Eating Disorder Screen for Primary Care (ESP), both of which were designed as brief screening assessments to identify primary care patients at risk for eating disorders and in need of more specialized care. Example specific items were: “Losing control over how much I eat concerns me” and “Food dominates my life.” Items were formatted as statements with a 5-point Likert-type agreement scale with response categories of definitely no, probably no, don’t know, probably yes, and definitely yes. The summed raw score ranged from zero to twenty because there were five items, each of which was scored from zero to four. Based on the non-normal distribution of the data, these scores were collapsed into tertiles. “Low” eating concerns consisted of scores ranging from 0-3; “medium” ranged from 4-9; “high” ranged from 10-20.
+
+Social media use was assessed with multiple items that were used to create two distinct social media use measures. First, participants were asked to estimate their volume (time per day, in hours and minutes) of social media use. The second set of items assessed frequency of use by asking participants to indicate how often they visited the following social media platforms each week: Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit. Seven response categories for each of these items included: I don’t use this platform (0), less than once a week (1), 1-2 days a week (2), 3-6 days a week (3), about once a day (4), 2-4 times a day (5), and 5 or more times a day (6). These data were used to estimate participants’ summary frequency (visits per week) by converting the response categories into numeric averages. For example, “1-2 days a week” was recoded as “1.5” and “2-4 times a day” was recoded as “21 (three times per day, or 21 times per week).””
+
+The following table displays the results of the study:
+    [IMAGE: ../images/2024_golden_gate_ggso_invitational_c__p17_e0a237-fca934b3.webp]
+
+46. [frq, 2 pt] What type of study design did the researchers conduct?
+
+47. [frq, 2 pt] List 2 advantages and 2 disadvantages of the study you identified in question 46.
+
+48. [frq, 2 pt] Interpret the p-value for the results obtained from frequency of social media use.
+
+49. [tf, 2 pt] True or False: A p-value less than the significance level verifies that your alternative hypothesis is true.
+    A) True
+    B) False
+
+50. [tf, 2 pt] True or False: Using an α = 0.05 means that 5% or less of your data should be due to chance.
+    A) True
+    B) False
+
+51. [frq, 2 pt] Explain one confounding variable that could have impacted the results of this study.
+
+52. [frq, 2 pt] Identify the Type I errors and Type II errors that may occur in the context of this study.
+
+54. [frq, 2 pt] Although the SIR model is traditionally used to understand and predict the course of an epidemic, why might researchers apply the model to eating disorders?
+
+55. [frq, 2 pt] Identify the two scientists who developed the SIR model.
+
+57. [frq, 4 pt] What are four proposals that the NIH could implement to reduce the prevalence of eating disorders among young adults?
+
+58. [frq, 4 pt] Identify the levels of prevention associated with each of the proposals you identified in question 57.

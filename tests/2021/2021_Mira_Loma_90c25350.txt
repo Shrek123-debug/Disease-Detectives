@@ -1,0 +1,392 @@
+Mira Loma — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  82 questions, 102.0 pts
+Source: scio.ly test archive id 90c25350-d134-4244-a13f-197d73f67b29  |  original files: https://drive.google.com/drive/folders/14nG-0koJBKDQ_zN9WuuLleC_-gbIIeQp
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: While taking the test, keep the following in mind:
+1. Unless otherwise specified, provide calculation answers to the second decimal place.
+2. Some questions will necessitate multiple answers (e.g. part a, part b, part c, etc). For these questions, provide your answer in this form:
+a. ______
+b. ______
+c. ______
+3. Read instructions for each question carefully. Certain questions will provide specific instructions on how to answer.
+
+Good luck!
+
+1. [mcq, 1 pt] Which of the following best describes the epidemiological definition of incidence?
+    A) Quantity of cases in a population at any given time
+    B) Quantity of cases in a population developed in a given time frame
+    C) Proportion of cases in a population at any given time
+    D) Proportion of cases in a population developed in a given time frame
+
+2. [mcq, 1 pt] Which of the following is the best definition of epidemiology?
+    A) The study of disease prevention
+    B) The field of disease eradication
+    C) The study of disease distribution and causes
+    D) The field working to improve global health
+
+3. [mcq, 1 pt] Which are the 3 main components of descriptive epidemiology?
+    A) Population size, time, source
+    B) Person, time, place
+    C) Identification, investigation, eradication
+    D) Distribution, control, prevention
+
+4. [mcq, 1 pt] While the average annual national incidence of cardiovascular stroke in Country A is 986 per 100,000 cases, the same statistic within County 3 within Country A is 1367 per 100,000 cases. County 3 is at what level of disease?
+    A) Endemic
+    B) Hyperendemic
+    C) Outbreak
+    D) Epidemic
+
+5. [mcq, 1 pt] Which of the following options shows a mismatch between an agent type and agent example?
+    A) Biological - bacterial endotoxins
+    B) Chemical - lead
+    C) Physical - noise
+    D) Nutritional - malnutrition
+
+6. [mcq, 1 pt] Which of the following is not a characteristic of effective surveillance systems?
+    A) High specificity of data collection
+    B) Representativeness of population
+    C) Ability to collect data
+    D) Accuracy of diagnoses
+
+7. [mcq, 1 pt] Every year, CDC officials and local public health officials track seasonal flu symptoms. This is a form of what kind of surveillance?
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+8. [frq, 1 pt] What is the name of the passive surveillance system used by the CDC to collect data on diseases and conditions under national surveillance? (note: acronym is accepted)
+
+9. [mcq, 1 pt] After experiencing muscle spasms over a period of 3 weeks, Robert is taken to the hospital due to having trouble breathing and is then placed on mechanical ventilation. The doctor diagnoses him with tetanus and tells Robert's wife that he is most likely also experiencing acute renal failure. What stage of the Natural History of Disease is the patient most likely in?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery, Disability, or Death
+
+10. [mcq, 1 pt] If the majority of cases in a given outbreak can be categorized within the third stage of the Natural History of Disease, which level of prevention is the most appropriate?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+[STIMULUS] Identify the following as naturally acquired active immunity, naturally acquired passive immunity, artificially acquired active immunity, or artificially acquired passive immunity:
+
+Note: Write letter and then answer.
+
+11a. [frq, 1 pt] Receiving a TDap vaccine as a child
+
+11b. [frq, 1 pt] Becoming infected with chickenpox and becoming immune after
+
+11c. [frq, 1 pt] Injection of gamma globulins
+
+11d. [frq, 1 pt] Passing of antibodies from the maternal to fetal bloodstream.
+
+[STIMULUS] Identify each of the following as one of the five major tasks of epidemiology:
+
+12a. [frq, 1 pt] The ongoing, systematic collection, analysis, interpretation, and dissemination of health data to help guide public health decision making and action.
+
+12b. [frq, 1 pt] Action taken to investigate the causes of the outbreak, requiring the coordinated efforts of many people to characterize the extent of the epidemic and identify additional ill persons.
+
+12c. [frq, 1 pt] A study that utilizes a valid comparison group to identify causes, modes of transmissions, and call for appropriate control and prevention methods.
+
+12d. [frq, 1 pt] Connections between members that work in a public health setting; examples included nurses, clinical staff, laboratorians, infectious control, government workers, or any other professional that is relevant to the investigations.
+
+13. [mcq, 1 pt] An epidemiologist is analyzing the following case description within the scope of a norovirus outbreak: A 6-year-old child who has a fever, and ate at a Chipotle 2 days ago. Viral test shows recent infection of Norovirus. What case category does the description fall into?
+    A) Suspected
+    B) Probable
+    C) Confirmed
+    D) Not a case
+
+14. [mcq, 1 pt] An epidemiologist is analyzing the following case description within the scope of a norovirus outbreak: A man who resides in Sacramento, California, and ate at Chipotle (the suspected site of the outbreak) 3 days ago. He had an onset of acute diarrhea and dehydration 1 day ago. What case category does the description fall into?
+    A) Suspected
+    B) Probable
+    C) Confirmed
+    D) Not a case
+
+15. [frq, 3 pt] Fill in the following statement about the Chain of Infection.
+    
+    The Chain of Infection is made up of six connected categories: the infectious agent, ____, ____, mode of transmission, ____, and susceptible host.
+    
+    Note: none of these terms contain the word 'the' and each blank may or may not have multiple words.
+
+16. [mcq, 1 pt] Which of the following options would not be a method of breaking the chain of infection for the disease malaria?
+    A) Aedes aegypti targeted indoor residual spraying
+    B) Testing blood before transfusions for possible malaria infections
+    C) Malaria prophylactics
+    D) Elimination of standing water sources
+
+17. [mcq, 1 pt] Select the correct order regarding the following statements regarding epidemiological proportions: (1) ____ refers to the proportion of infected individuals who develop clinically apparent disease. (2) ____ refers to the proportion of clinically apparent cases that are severe or fatal. (3) ____ refers to the proportion of exposed persons who become infected.
+    A) Infectivity, Pathogenicity, Virulence
+    B) Pathogenicity, Virulence, Infectivity
+    C) Virulence, Pathogenicity, Infectivity
+    D) Pathogenicity, Infectivity, Virulence
+
+18. [mcq, 1 pt] Which of the following correctly describes the relationship between these epidemiological proportions?
+    A) Pathogenicity / Virulence = Infectivity
+    B) Infectivity = Virulence x Pathogenicity
+    C) Virulence / Infectivity = Pathogenicity
+    D) Infectivity - Virulence = Pathogenicity
+
+19. [mcq, 1 pt] The composition of flu vaccines is revised and updated annually. What biological process is the reason for this revision?
+    A) Gene recombination
+    B) Vaccine-induced mutations
+    C) Antigenic shift
+    D) None of the above
+
+20. [multi, 3 pt] Which of the following diseases are viral in nature:
+    A) Cholera
+    B) Kuru
+    C) Trichomoniasis
+    D) Aspergillosis
+    E) Dengue Fever
+    F) Shingles
+
+21. [frq, 2 pt] Fill in the blanks within the following statement: ____(a)____ is the transfer of a disease from person to person through direct or indirect contact, while ____(b)____ is the transfer of a disease from mother to fetus, resulting in congenital disease.
+    
+    Note: These answers do not contain the word 'the' and each of these blanks may or may not contain multiple words.
+
+22. [multi, 3 pt] Which of the following diseases can engage in the type of disease transfer described in the (b) blank in the previous question? Select all that apply.
+    A) Herpes simplex
+    B) Rubella
+    C) Tuberculosis
+    D) Toxoplasmosis
+    E) Syphilis
+    F) Hepatitis B
+
+23. [frq, 1 pt] In order to determine causality between alcoholism and strokes, a public health official examines and satisfies multiple different conditions, including proof that consistent alcohol exposure always occurs before strokes in observed patients. What is the official name for the list of these conditions?
+
+24. [frq, 1 pt] Refer to the list in the previous question. The public health researcher has proved that no factor with the exception of alcoholism led to strokes in observed patients. What specific "condition" of the aforementioned "list" is the researcher satisfying?
+
+25. [mcq, 1 pt] Which of the following is not an accepted scientific exception to Koch's postulates?
+    A) A singular pathogen can cause multiple diseases / conditions
+    B) Certain pathogens will only induce diseases in organisms with other diseases or conditions.
+    C) Certain pathogens only cause disease in humans
+    D) Resistance to malaria through the possession of a sickle cell allele prevents certain humans from having the disease if the malaria pathogen is introduced.
+
+26. [mcq, 1 pt] Which of the following is not an epidemiological fomite?
+    A) Tablecloth
+    B) Instrument mouthpiece
+    C) Bench
+    D) Contaminated water
+
+27. [mcq, 1 pt] Parkinson's disease is a common neurological disorder afflicting over 6 million people globally that can lead to loss of balance, shaking, tremors, and difficulty with basic motor tasks. The disease is caused by damage to dopamine neurons in the area of the brain responsible for movement.
+    
+    70 individuals aged 50 years old with early symptoms of Parkinson's disorder are enrolled in a study. Individuals are sent yearly surveys regarding their ability to engage in everyday activities, and meet with a physician every 2 years for an analysis of neuron degradation in the brain. All individuals are monitored until they reach the age of 64.
+    
+    What type of study is being conducted?
+    A) Case control
+    B) Cohort
+    C) Randomized control trial
+    D) None of the above
+
+[STIMULUS] Use the following information to answer questions 28-35.
+
+Post-traumatic stress disorder (PTSD) describes a condition affecting individuals that have been in an extreme traumatic experience. Symptoms can include nightmares, flashbacks anxiety, pain, nausea, and more. Researchers conduct a study investigating the risk of attaining PTSD for those who have survived a near death experience but witnessed the death of another nearby individual. No study enrollment criteria is based on the type or duration of danger experienced by the individuals.
+
+451 individuals between the age of 20 and 40 who have served in the military during a war and have lived through a near death experience are enrolled in the study. Of these individuals, 143 have witnessed the death of a fellow soldier during a traumatic experience. Of these 143 individuals, researchers see symptoms consistent with post-traumatic stress disorder in 68 individuals. Of the remaining 308 individuals that have not witnessed the death of a comrade during their near-death experience(s), 26 have PTSD.
+
+28. [mcq, 1 pt] What is the exposure being investigated in this study?
+    A) Traumatic experience
+    B) Near-death experience
+    C) Near-death experience with the loss of nearby individual
+    D) Near-death experience without loss of a nearby individual
+
+29. [mcq, 1 pt] Which of the following would be of highest concern to the validity of the results of this study?
+    A) Survivorship bias
+    B) Confounding bias
+    C) Recall bias
+    D) Sampling bias
+
+30. [mcq, 1 pt] Which of the following would be of least concern to the validity of the results of this study?
+    A) Survivorship bias
+    B) Confounding bias
+    C) Recall bias
+    D) Sampling bias
+
+32. [numeric, 2 pt] Calculate the relative risk for developing PTSD in individuals who have survived a near-death experience with the loss of a nearby individual.
+    
+    Note: display the answer with two decimal points.
+
+34. [frq, 2 pt] Based on the ratio you calculated in 32 (the **initial** relative risk), interpret the relationship between survival of near death experiences with observance of death of a nearby individual and development of PTSD.
+
+35. [frq, 2 pt] Based on the ratio you calculated in 33 (the **revised** relative risk), interpret the relationship between survival of near death experiences with observance of death of a nearby individual and development of PTSD.
+
+[STIMULUS] The following questions (Q36 - Q53) concern the following case study:
+
+On June 7th, 2021, the Sacramento General Hospital admits 21 patients who all report symptoms of high fevers, headaches, and general body aches. 5 of the 21 patients also report diarrhea. On June 13th, 2021, 10 of the patients begin to report a dry cough and 17 of the patients develop pneumonia.
+
+After this is reported to the city public health department, public health officials realize that there have been a total of 74 similar cases admitted to other Sacramento county on or after June 7th. Similarly to the initial 21 patient cohort, the majority of these patients have also developed pneumonia and several report dry coughs after approximately 5 days.
+
+36. [frq, 1 pt] Based on the reported symptoms and relevant time intervals, what disease do these patients have?
+
+37. [frq, 1 pt] What kind of transmission is associated with this disease?
+
+38. [mcq, 1 pt] What is the most appropriate analytical study that public health officials should carry out in order to determine the cause of the outbreak?
+    A) Cross-sectional
+    B) Case control
+    C) Retrospective cohort
+    D) Clinical trial
+
+39. [mcq, 1 pt] Which of the following isn't / are not characteristics of the study design selected in Q38?
+    A) Cheap and fast
+    B) Useful for diseases with rare causes
+    C) Weak indicator of causation
+    D) Both A and C
+    E) All of the above
+
+40. [frq, 1 pt] Write a short and correct description of the "place" aspect of a case definition for this outbreak.
+
+41. [frq, 1 pt] Write a short and correct description of the "time" aspect of a case definition for this outbreak.
+
+[STIMULUS] Case study update:
+
+After media reports on the outbreak, Sacramento citizens express concern and panic after having recently experienced the COVID-19 outbreak (clarification: this disease is not COVID-19 again).
+
+42. [mcq, 1 pt] Which of the following is a compelling reason for public health officials to act immediately to determine the cause of the outbreak?
+    A) Public concern and panic
+    B) Severity of the disease
+    C) Similarities to and proximity in time to the COVID-19 pandemic
+    D) Both A and C
+    E) Both A and B
+    F) All of the above
+
+43. [mcq, 1 pt] Which of the following is not a factor that could have contributed to a false increase in cases?
+    A) Generalized symptoms may be a result of multiple diseases
+    B) Seasonal fluctuations causing a rise in flu-like illness
+    C) Recent improvement in reporting systems and procedures
+    D) High levels of recent immigration and travel
+
+[STIMULUS] Case study update:
+
+CDC officials are brought in by the public health department in order to investigate the outbreak. They quickly determine that the outbreak is of Disease X (or your answer to Q36). Luckily, there has been development of a new test for Disease X known as Resp A. Resp A has a 85% positive predictive rate and a 88% sensitivity rate. CDC officials utilize the Resp A test on 100 individuals with symptoms. 60 individuals test positive and 40 individuals test negative for Disease X.
+
+44. [frq, 1 pt] Resp A replaced a previously used test due to its increased accuracy and availability. For this reason, what type of test is it referred to in medicine?
+
+45. [numeric, 1 pt] Within the cohort of 100 individuals who were tested with Resp A, how many individuals are expected to be false positives?
+
+46. [numeric, 1 pt] Within the cohort of 100 individuals who were tested with Resp A, how many individuals are expected to be false negatives?
+
+47. [numeric, 2 pt] Calculate the overall accuracy of the test and provide a percentage value with 2 decimal places.
+
+[STIMULUS] Case study update:
+
+After testing the initial 95 person cohort, 70 individuals test positive and are confirmed to have the disease. CDC officials interview these 70 individuals in Sacramento county to determine where they had been between May 29th and June 7th. 43 people reported having been to the Galleria Mall. They also solicited volunteers to fill out a form and found that out of 500 healthy individuals living in Sacramento, 212 people reported having been to the Galleria Mall within the time frame of interest.
+
+[STIMULUS] Report the appropriate numbers within the following contingency table:
+    |  | Has Disease X | Does not have Disease X | Total |
+    | Mall |  |  |  |
+    | No Mall |  |  |  |
+    | Total | 70 | 500 | 570 |
+
+48a. [numeric, 1 pt] Row: Mall - Has Disease X
+
+48b. [numeric, 1 pt] Row: Mall - Does not have Disease X
+
+48c. [numeric, 1 pt] Row: Mall - Total
+
+48d. [numeric, 1 pt] Row: No Mall - Has Disease X
+
+48e. [numeric, 1 pt] Row: No Mall - Does not have Disease X
+
+48f. [numeric, 1 pt] Row: No Mall - Total
+
+49. [numeric, 1 pt] Calculate the correct epidemiological statistic to determine the relationship between visiting the Galleria Mall and obtaining Disease X. Report your answer with two decimal places.
+
+50. [frq, 2 pt] Based on the ratio you calculated in Q49, interpret the relationship between visiting the Galleria Mall and obtaining Disease X
+
+51. [mcq, 1 pt] Assuming that the Galleria Mall was the cause of the outbreak, which of the following epidemic curve patterns is the most likely?
+    A) Point source
+    B) Common continuous
+    C) Intermittent
+    D) Propagated
+
+52. [frq, 3 pt] Assuming that the Galleria Mall was the primary source of the outbreak, provide a hypothesized agent, host, environment triad for this outbreak.
+
+53. [multi, 3 pt] Select all of the 10 steps of an outbreak investigation that still need to be completed.
+    A) Define and identify cases
+    B) Prepare for field work
+    C) Refine hypotheses
+    D) Communicate findings
+    E) Describe cases in terms of person, place and time
+    F) Implement control measures
+
+54. [mcq, 1 pt] Which of the following describes the most accurate set of steps that need to be taken to prevent the spread of food-borne diseases?
+    A) Cook, chill and then heat foods, report cases, record current food practices
+    B) Clean, cook and chill food appropriately; separate different foods; report cases
+    C) Heat food; separate different foods; store in clean containers; report cases
+    D) Report cases; identify source of disease; implement control measures
+
+55. [mcq, 1 pt] For a foodborne illness, epidemiologists are investigating whether taking a drug can reduce pathogenic risk. To evaluate their hypothesis that the drug reduces risk of pathogenesis they calculate the following ratio after experimentation with 100 healthy individuals, half without and half with the drug, after exposure to the disease vector in apple pie:
+    
+    Ratio = ( # diseased individuals with drug x # healthy individuals without drug) / (# diseased individuals without drug x # healthy individuals with drug)
+    
+    Which value for the ratio would support the epidemiologists' claim that drug exposure reduces risk of pathogenesis?
+    A) 0.0
+    B) 0.3
+    C) 1.0
+    D) 1.3
+
+56. [mcq, 1 pt] In City X, there are 100,000 total individuals, 56 of whom are suffering from pneumonia. Out of the 56, 3 have passed away. What epidemiological calculation provides the frequency of individuals who have passed away from pneumonia over the total population?
+    A) Cause-specific mortality rate
+    B) Attributable proportion
+    C) Case-fatality rate
+    D) Proportional mortality rate
+
+57. [frq, 1 pt] Calculate the statistic determined by the previous question. Provide an answer in the form "x per 100,000 ____".
+
+58. [mcq, 1 pt] In City Y, out of 2600 live births, 35 babies have died under 28 days of age. What epidemiological calculation provides the frequency of baby deaths under 28 days of age over live births?
+    A) Neonatal mortality rate
+    B) Age-specific mortality rate
+    C) Neonatal death-case ratio
+    D) Prenatal mortality rate
+
+59. [frq, 1 pt] Calculate the statistic determined by the previous question. Provide an answer in the form "x per 1,000 ____".
+
+60. [mcq, 1 pt] In City Z, 3000 individuals are inflicted with congenital heart defects. In 2018, 65 individuals passed away total, and 34 of those individuals passed away due to congenital heart defects. What epidemiological calculation provides the frequency that expresses how many cases of congenital heart defects result in death?
+    A) Cause-specific mortality rate
+    B) Death-case ratio
+    C) Case mortality rate
+    D) Proportionate mortality
+
+61. [frq, 1 pt] Calculate the statistic determined by the previous question. Provide an answer in the form "x per 1,000 ____".
+
+62. [mcq, 1 pt] In City K, there are 20,000 females over 70 at the midpoint of 2017. Throughout the year, 340 of those females over 70 pass away. What epidemiological calculation provides mortality for this specific group?
+    A) Gender specific mortality rate
+    B) Age and sex specific mortality rate
+    C) Population specific mortality rate
+    D) None of the above
+
+63. [multi, 3 pt] At a renowned organic restaurant, an outbreak of E. coli erupts due to poor quality of food safety in the kitchen. Select all reasonable preventative measures.
+    A) Washing utensils daily
+    B) Purchasing new utensils regularly
+    C) Having annual trainings on food safety for all kitchen staff
+    D) Serving only hot food
+    E) Emphasizing handwashing with signs and reminders
+    F) Throwing out refrigerated foods once a week
+
+64. [multi, 3 pt] An outbreak of listeriosis occurs at a daycare center, after a teacher brings homemade ice cream to serve to her kids. Select all of the following options that are not appropriate measures for primary prevention of a future similar outbreak.
+    A) Providing sick kids with fluids to mitigate the outbreak
+    B) Treating kids with antibiotics for recovery
+    C) Bringing store-bought food only
+    D) Creating a center-wide policy on food safety
+
+[STIMULUS] Label each of the following outbreak scenarios with the appropriate epidemic curve (point source, common continuous, intermittent, or propagated):
+
+65a. [frq, 1 pt] A three week long Norovirus outbreak on a cruise ship
+
+65b. [frq, 1 pt] A Salmonella outbreak resulting from eggs served as a special at Chili's on 4 consecutive weekends
+
+65c. [frq, 1 pt] A respiratory illness resulting from contaminants being accidentally released from an industrial center every two weeks
+
+65d. [frq, 1 pt] A Measles outbreak occurring over the span of 1 month
+
+[STIMULUS] For Q66-70, identify the correct bias corresponding to each definition.
+
+66. [frq, 1 pt] Discrepancies in the ability to correctly remember certain events occurring in the past.
+
+67. [frq, 1 pt] Difference in the method of selecting groups can result in bias towards one group.
+
+68. [frq, 1 pt] The tendency to interpret new results a certain way so that it supports existing beliefs.
+
+69. [frq, 1 pt] The bias resulting from the awareness that someone is being observed in a study.
+
+70. [frq, 1 pt] The bias resulting from an apparent correlation that is in reality being affected by a third unknown variable.

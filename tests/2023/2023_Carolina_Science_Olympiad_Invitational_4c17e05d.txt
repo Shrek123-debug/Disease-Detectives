@@ -1,0 +1,305 @@
+Carolina Science Olympiad Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  60 questions, 80.0 pts
+Source: scio.ly test archive id 4c17e05d-0bbc-4e8f-a5eb-90da0a73fd7c  |  original files: https://drive.google.com/drive/folders/1MQ3tvV9HZYVtBL5rgvEFKqCwIMX7n69g
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+
+=== Section 1: Background & Surveillance ===
+
+[STIMULUS] In the following examples from the life of John Snow, the founder of epidemiology, identify moments where he utilized the clinical approach, public health approach, or both.
+
+1. [mcq, 1 pt] As a surgeon-apothecary apprentice in 1832, he worked in the coal-mining town of Killingworth and treated many victims of the cholera epidemic.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+2. [mcq, 1 pt] Investigating cholera cases in areas of London served by different water companies, Snow hypothesized that cholera was spread via contaminated drinking water rather than through “bad air,” as suggested by the prevailing miasma theory.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+3. [mcq, 1 pt] After studying the deaths of several patients administered chloroform via the method of covering their face with a cloth dipped in the substance, Snow published his findings advocating for safer dosages and designed a mask to administer chloroform.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+4. [mcq, 1 pt] As a leading expert in anesthetics, Snow was invited to administer chloroform for Queen Victoria’s 8th and 9th children.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both
+
+[STIMULUS] Match each scenario to a step in the public health surveillance process.
+Data Collection
+Data Analysis
+Data Interpretation
+Data Dissemination
+Link to Action
+
+5. [mcq, 1 pt] Expanded fitness programs are implemented in metropolitan schools identified to have high rates of childhood obesity.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Link to Action
+
+6. [mcq, 1 pt] An observed increase in botulism cases in the Triangle area over the course of a month prompts further investigation into possible sources.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Link to Action
+
+7. [mcq, 1 pt] The NC Department of Health posts a newsletter summarizing the details of an ongoing outbreak.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Link to Action
+
+8. [mcq, 1 pt] When a patient is discharged from the hospital, an electronic health record is made of the visit.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Link to Action
+
+9. [mcq, 1 pt] A chart is used to display the frequencies of reported influenza cases across several NC counties and weeks.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Link to Action
+
+10. [frq, 4 pt] List the four determinants of the health of a population.
+
+[STIMULUS] Of the determinants listed above, identify the determinant with the least effect AND the determinant with the most effect.
+    | Label | Answer |
+    | Least the determinant with the least effect | [[q:11-a]] |
+    | Most the determinant with the most effect | [[q:11-b]] |
+
+11-a. [frq, 1 pt] Least: the determinant with the least effect
+
+11-b. [frq, 1 pt] Most: the determinant with the most effect
+
+[STIMULUS] According to the CDC’s Public Health 101 series, the Public Health Approach consists of: 1) surveillance, 2) risk factor identification, 3) intervention evaluation, and 4) implementation. What is the main question being asked at each step?
+    | Label | Answer |
+    | 1 surveillance | [[q:12-1]] |
+    | 2 risk factor identification | [[q:12-2]] |
+    | 3 intervention evaluation | [[q:12-3]] |
+    | 4 implementation | [[q:12-4]] |
+
+12-1. [frq, 1 pt] Label 1 surveillance
+
+12-2. [frq, 1 pt] 2 risk factor identification
+
+12-3. [frq, 1 pt] 3 intervention evaluation
+
+12-4. [frq, 1 pt] 4 implementation
+
+13. [mcq, 1 pt] Which of the following is NOT one of the ten most important public health concerns in the US?
+    A) Teen pregnancy
+    B) HIV
+    C) Food safety
+    D) Tobacco use
+    E) Heart disease and stroke
+    F) Motor vehicle injury
+    G) All of the above are among the topmost concerns in the US
+    H) None of the above are among the topmost concerns in the US
+
+14. [mcq, 1 pt] In this form of epidemiological study, the investigators can be in control of certain factors within the study. It can also be referred to as an interventional study.
+    A) Experimental
+    B) Analytic
+    C) Observational
+    D) Descriptive
+
+15. [mcq, 1 pt] This stage of the natural history of disease can be further divided into the incubation period for infectious diseases and the latency period for chronic illnesses.
+    A) Susceptibility
+    B) Subclinical disease
+    C) Clinical disease
+    D) Recovery, disability, or death
+
+16. [mcq, 1 pt] This segment of the chain of transmission includes the following examples: people, water, and food.
+    A) Mode of transmission
+    B) Portal of entry
+    C) Reservoir
+    D) Portal of exit
+    E) Susceptible host
+
+17. [mcq, 1 pt] An animate intermediary that carries an infectious agent from a reservoir to a host.
+    A) Parasite
+    B) Vector
+    C) Fomite
+    D) Zoonosis
+
+18. [mcq, 1 pt] The NC Department of Health and Human Services suspects that an outbreak of botulism has begun in the Triangle. They contact all health providers in the area to search for cases that match the case definition. What type of surveillance is described in this scenario?
+    A) Syndromic
+    B) Sentinel
+    C) Active
+    D) Passive
+
+19. [mcq, 1 pt] ____ refers to the proportion of infected persons who develop clinical disease.
+    A) Virulence
+    B) Infectivity
+    C) Contagiousness
+    D) Pathogenicity
+
+[STIMULUS] The following are definitions of epidemiology terms used to describe disease frequency over an area. Identify each term.
+
+20. [frq, 1 pt] Occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+
+21. [frq, 1 pt] More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+
+22. [frq, 1 pt] Disease or condition present among a population at all times.
+
+23. [frq, 1 pt] A disease that occurs infrequently and irregularly.
+
+
+=== Section 2: Outbreak Investigation ===
+
+[STIMULUS] Use the following paragraph to answer the questions in this section.
+
+As of February 14, 2020, a total of 165 people infected with the outbreak strain of Salmonella Javiana were reported from 14 states. The majority of illnesses were reported in Delaware, New Jersey, New York, and Pennsylvania. Most ill people from the other states reported traveling to at least one of these 4 states in the week before their illness started.
+
+Illnesses started on dates ranging from November 7, 2019 to January 11, 2020. Ill people ranged in age from less than 1 to 92 years, with a median age of 44. Fifty-three percent of ill people were female. Of 111 ill people with information available, 73 were hospitalized. No deaths were reported.
+
+Most people infected with Salmonella develop diarrhea, fever, and stomach cramps 6 hours to 6 days after being exposed to the bacteria. The illness usually lasts 4 to 7 days, and most people recover without treatment. In some people, the illness may be so severe that the patient needs to be hospitalized.
+
+24. [frq, 4 pt] Create a case definition for this outbreak based on the information above.
+
+25. [frq, 2 pt] Is this likely the actual number of cases? Why or why not?
+
+26. [frq, 5 pt] After seeing this briefing, two CDC epidemiologists decide that they need to figure out the cause of this outbreak. The epidemiologists set out to interview the cases on their possible past exposures. Additionally, they interviewed other residents of the affected states to create a group of controls.
+    
+    What step of outbreak investigation are the epidemiologists currently on? What steps precede this?
+
+27. [frq, 3 pt] What should they ask the different patients? Write three questions that would be useful.
+
+28. [frq, 1 pt] What type of error might the epidemiologists encounter by interviewing cases?
+
+29. [frq, 1 pt] What type of study are the epidemiologists implementing?
+
+30. [frq, 2 pt] What are two strengths of this study design?
+
+[STIMULUS] For questions 37-39, identify the appropriate Bradford-Hill criteria to verify the cause of the outbreak.
+
+37. [frq, 1 pt] A woman fell ill after eating contaminated food in November. Later in January, a man also fell ill after eating the same food.
+
+38. [frq, 1 pt] A woman fell ill approximately 72 hours after consuming the contaminated food.
+
+39. [frq, 1 pt] It was observed that those who ate more of the contaminated food had a higher risk of falling ill.
+
+40. [frq, 3 pt] List three control measures that the epidemiologists should implement now that they know the source of the outbreak.
+
+
+=== Section 3: Patterns, Control, and Prevention ===
+
+41. [mcq, 1 pt] The UNC Student Health Action Coalition provides free, rapid, and confidential HIV and STI testing for students. Which of the following control strategies does this service promote?
+    A) Control method regarding the reservoir of infection of HIV and STIs
+    B) Control method regarding the mode of transmission of HIV and STIs
+    C) Control method regarding the susceptible host of HIV and STIs
+
+42. [mcq, 1 pt] Ignaz Semmelweis was a Hungarian physician and early proponent of antiseptic and hand disinfection procedures. He is credited for discovering that these practices reduced the incidence of puerperal fever (also known as childbed fever). Which of the following control strategies did these practices align with?
+    A) Control method regarding the reservoir of infection of puerperal fever
+    B) Control method regarding the mode of transmission of puerperal fever
+    C) Control method regarding the susceptible host of puerperal fever
+
+43. [mcq, 1 pt] In 1980, the World Health Organization declared smallpox to be the only infectious disease to achieve what distinction?
+    A) Controlled
+    B) Eliminated
+    C) Eradicated
+    D) Extinct
+
+44. [tf, 1 pt] True or False: Injury epidemiologists always operate under the assumption that injuries are preventable.
+    A) True
+    B) False
+
+45. [tf, 1 pt] True or False: Injury and violence prevention research encourages the use of the term 'accident' when referring to unintentional injury.
+    A) True
+    B) False
+
+46. [tf, 1 pt] True or False: Spot maps are useful to determine the risk of a public health event occuring in a particular place.
+    A) True
+    B) False
+
+[STIMULUS] Categorize each of the following epidemiologic measures as a ratio, proportion, or rate
+
+47. [mcq, 1 pt] Point prevalence
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+48. [mcq, 1 pt] Relative risk
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+49. [mcq, 1 pt] Odds ratio
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+50. [mcq, 1 pt] Attack rate
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+51. [mcq, 1 pt] Mortality rate
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+52. [mcq, 1 pt] Period prevalence
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+53. [mcq, 1 pt] Birth rate
+    A) Ratio
+    B) Proportion
+    C) Rate
+
+[STIMULUS] The North Carolina COVID-19 Dashboard monitors trends and patterns in the pandemic. Use the graph below to answer the following questions. Note that data from more recent weeks may be incomplete.
+    [IMAGE: ../images/2023_carolina_science_olympiad_invitational_c__p8_74a909-4fc6cdd9.webp]
+
+54. [frq, 2 pt] List two ways to improve this visualization.
+
+55. [frq, 1 pt] What is one reason that this figure may be a misrepresentation of the actual distribution of COVID-19 variants in North Carolina?
+
+[STIMULUS] The figure below (Powell-Wiley et al.) demonstrates the biology of adversity, or the relationships between social determinants of health and known biologic pathways that lead to chronic inflammation and cardiovascular disease. Use the figure as an aid to answer questions 64-66.
+    [IMAGE: ../images/2023_carolina_science_olympiad_invitational_c__p10_f16394-7bb2287a.webp]
+
+[STIMULUS] Match each of the following prevention strategies for cardiovascular disease to the level of prevention at which it operates.
+
+Primordial
+Primary
+Secondary
+Tertiary
+
+60. [mcq, 1 pt] Rent and utility assistance programs
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+61. [mcq, 1 pt] A coronary artery stent placed to prevent a blocked artery from closing up after an angioplasty
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+62. [mcq, 1 pt] Proper treatment of diabetes
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+63. [mcq, 1 pt] Maintaining a healthy diet and exercise regimen
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+
+64. [frq, 2 pt] Propose one reasonable prevention strategy for cardiovascular disease that targets one of the chronic psychosocial or environmental stressors identified in the figure above. Question 60 is an example, but you may not repeat this strategy.
+
+65. [frq, 2 pt] Is the prevention strategy you proposed in Question 64 a population-based or high-risk/individual-based approach? Justify your answer.
+
+66. [frq, 2 pt] Identify one strength and one weakness of the prevention strategy you proposed in Question 64.

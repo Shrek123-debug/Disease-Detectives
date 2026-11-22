@@ -1,0 +1,333 @@
+Crystal Lake Central — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  31 questions, 53.0 pts
+Source: scio.ly test archive id ccdda83f-a83a-4170-ab25-ccba4b171552  |  original files: https://drive.google.com/drive/folders/1RTov_KdaVsneXfzqpHsxuPyFV-j6wIE-
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+
+=== Match each epidemiological term with its best description, formula or example. ===
+
+[STIMULUS] (A) deaths per total infected
+(B) disease associated with animals but can be transmitted to humans
+(C) acquired at a hospital
+(D) science concerned with the prevalence and distribution of disease
+(E) relative pathogenicity of infections microorganism
+(F) constant low frequency of disease
+(G) number of new cases during a period divided by total population
+(H) number of cases in a susceptible population of 100,000
+(I) disease occurring in a population at a higher than normal frequency
+(J) percent of total population that has the disease at a given time
+(K) worldwide epidemic
+(L) various arthropods that transmit pathogenic organism from one host to another
+(M) site where infectious disease is maintained between outbreaks
+(N) sudden high incidence of disease in a given population
+(O) infected individual who transmits an infection to another
+
+1. [mcq, 1 pt] ____ epidemiology
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+2. [mcq, 1 pt] ____ endemic
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+3. [mcq, 1 pt] ____ nosocomial infections
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+4. [mcq, 1 pt] ____ morbidity rate
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+5. [mcq, 1 pt] ____ epidemic
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+6. [mcq, 1 pt] ____ virulence
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+7. [mcq, 1 pt] ____ zoonosis
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+8. [mcq, 1 pt] ____ vector
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+9. [mcq, 1 pt] ____ reservoir
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+10. [mcq, 1 pt] ____ carriers
+    A) deaths per total infected
+    B) disease associated with animals but can be transmitted to humans
+    C) acquired at a hospital
+    D) science concerned with the prevalence and distribution of disease
+    E) relative pathogenicity of infections microorganism
+    F) constant low frequency of disease
+    G) number of new cases during a period divided by total population
+    H) number of cases in a susceptible population of 100,000
+    I) disease occurring in a population at a higher than normal frequency
+    J) percent of total population that has the disease at a given time
+    K) worldwide epidemic
+    L) various arthropods that transmit pathogenic organism from one host to another
+    M) site where infectious disease is maintained between outbreaks
+    N) sudden high incidence of disease in a given population
+    O) infected individual who transmits an infection to another
+
+
+=== Disease Reporting Pathway ===
+
+[STIMULUS] Fill in the blanks:
+    [IMAGE: ../images/2020_crystal_lake_central_c__p3_vf5aa8a-62265a8f.webp]
+
+13. [mcq, 1 pt] ____ What step comes just before "Link to Action" in the Surveillance Process
+    A) Data Analysis
+    B) Data Collection
+    C) Data Dissemination
+    D) Data Interpretation
+
+14. [frq, 2 pt] Describe the difference between Passive and Active surveillance.
+
+15. [mcq, 1 pt] ____ Which type of surveillance uses reports from local healthcare providers to start an investigation?
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+16. [mcq, 1 pt] ____ Which type of surveillance uses reports of certain symptoms to anticipate an outbreak?
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+[STIMULUS] Scenario: The Village of Gold
+Number sick: 1400
+Hospitalizations: 1150
+Deaths: 400
+Location: Nigeria
+
+Your mission:
+Your help is needed in a terrible outbreak that's affecting children! More than 100 children in a remote corner of Nigeria have died.
+An international group that aids the sick has discovered a horrifying health emergency: more than 100 children in a remote corner of Nigeria have died, and many more are extremely sick.
+The sick aren't responding to anti-malaria medicine or antibiotics. They desperately need your help to solve the outbreak!
+
+Clue #1
+Doctors Without Borders has been doing some routine health work in northwestern Nigeria. This is a remote area, with dusty mountainous terrain. People here are very poor. Most are farmers or miners who dig for precious minerals like gold.
+The doctors discovered that 3 villages are in the midst of a horrible outbreak: 118 children (many of them younger than 5) are dead. Many more are sick, with symptoms including vomiting, abdominal pain, headache, and convulsions (sudden, violent, uncontrollable shaking).
+Note: The villages of Zamfara Province are in a remote northwestern section of Nigeria, far from any city or paved roads.
+
+17. [mcq, 1 pt] It could take days to reach the village. What should you do?
+    A) Recommend that Nigerian authorities take a closer look first.
+    B) Closely monitor the situation from CDC headquarters in Atlanta.
+    C) Go to Nigeria immediately.
+
+[STIMULUS] Clue #2
+It's a major undertaking, but you and your team make it to the villages. There you find a terrible scene. Outside the villages is a graveyard with more than 100 newly dug small graves.
+Parents of children who died tell you that their kids had seizures, and you see that many of the sick kids are still having seizures. Others are listless, and some have gone blind.
+Most of the sick are children. There are some sick adults, too, but they aren't as bad off and no adults have died.
+Notes: The Zamfara Province of Nigeria is a very poor, isolated area. Just reaching the villages was a huge challenge: after a long flight, you then had to drive for 2 days across hundreds of miles of dirt roads, over mountains, while hauling a huge amount of gear. You had medical equipment, environmental testing equipment, computers, large batteries for power and more.
+GPS doesn't work out here, so simply finding the villages was an adventure. Sometimes you had to follow puzzling directions that people offered, like "turn left at the river."
+You also need a team of security guards, and you work closely with the local emir (religious leader) so that people know you're here to help.
+
+Cases:
+There are 3 villages in this area. Each village consists of open-air dwellings with dirt floors, separated by low walls. People from extended families live in compounds (a number of dwellings close together, enclosed by a common wall).
+Some of the compounds have their own well for drinking water, but people in other compounds use a common village well.
+Village children fill water containers at the common village well. A few of the villagers begin to wonder if the drinking water is contaminated.
+
+18. [mcq, 1 pt] What should you do next?
+    A) Take samples of the sick people's blood immediately.
+    B) Get permission from the village elders, then take the samples.
+    C) Get everyone away from the villages immediately.
+
+[STIMULUS] Clue #3
+Now you have taken blood tests of all the sick people in the village, including children under 5.
+While doing your research in the villages, you notice that in many cases entire families are involved in mining. Many children work in the mines and even very young children help their mothers break down rocks or dry the ore in their own family compound.
+The blood tests show that the sick children have extremely high levels of lead in their blood, which means they have lead poisoning, a serious and often fatal condition. The sick children need immediate treatment, but you only have a limited amount of medicine.
+
+19. [frq, 3 pt] What is lead poisoning? What age group is most vulnerable to lead poisoning and why?
+
+20. [frq, 5 pt] What are the most common sources of lead poisoning in children in the United States?
+
+[STIMULUS] Villages Involved in Mining, and Rates of Sickness
+    [IMAGE: ../images/2020_crystal_lake_central_c__p7_v2e8b35-f295ad43.webp]
+
+21. [frq, 2 pt] Looking at the pie charts what do you discover about the villages?
+
+22. [frq, 2 pt] What do you believe to be the blame for the outbreak? Why?
+
+[STIMULUS] Note: The people who mine gold don't have sophisticated machinery or protective equipment. They collect large rocks and then crush them (with simple tools or their hands) without wearing facemasks, goggles, or gloves. And they don't do this work solely in a mine, either. Much of the work is done in the village, and some is even done in family compounds, by mothers and children.
+
+23. [mcq, 1 pt] You have a limited amount of medicine. Whom should you give it to first?
+    A) Children who are least sick and have the best chance of recovery.
+    B) Children who are the most sick and have seizures or in a coma.
+    C) Children under 5 years old, beginning with the youngest.
+
+[STIMULUS] Clue #4
+
+24. [frq, 2 pt] You start treating with chelation therapy. It is a treatment that is given over the course of many weeks. What is this form of treatment used for?
+
+25. [frq, 3 pt] Chelation therapy saves lives. However it doesn't reverse any damage that has already been done to the child's brain. What permanent damage could the children have from the outbreak?
+
+[STIMULUS] You've learned that two-thirds of the families from the sicker villages are mining gold. The mining could be responsible for the deaths, but because the villagers are so poor and this is the only way they can make money, they don't want to stop mining.
+
+You need to determine what parts of mining put the villagers at highest risk. When interviewing the families, you ask about the types of mining activities they do. You need to figure out which of these activities are most dangerous.
+
+Data:
+There are several steps to mining the gold. Some people break the rocks into smaller gravel, some grind the rocks into a fine powder, some wash and dry the ore powder to separate the gold out, and some use heat to vaporize the mercury out.
+
+To figure out which steps are most dangerous, you have to talk with mothers who have healthy children as well as mothers who have sick children. In all, you gather data about 52 healthy kids and 50 sick kids. Then, you ask the parents about each mining activity they do so you can calculate the "attack rate" for each activity.
+
+[STIMULUS] Attack Rates for Activities Conducted by Parents of Sick and Healthy Children
+    [IMAGE: ../images/2020_crystal_lake_central_c__p9_v6289fd-9da40ff4.webp]
+
+26. [frq, 2 pt] Calculate the attack rate to complete the table. What formula did you use to find the attack rate?
+
+27. [frq, 2 pt] What is the likely source of the outbreak?
+
+28. [mcq, 1 pt] Based on your data, which children are most likely to get sick in the villages?
+    A) Kids whose parents grind rocks into powder, releasing toxic dust.
+    B) Kids whose parents wash and dry ore.
+    C) Kids whose parents perform the most mining activities.
+
+[STIMULUS] Clue #5
+Four weeks after arriving in the villages, you've given chelation therapy to the sick. Most of them have improved, though many may still have permanent disabilities. Teams of Nigerian workers and environmental specialists thought it was best to remove the top layer of contaminated earth from the villages to reduce the number of people who get sick, so it was removed and buried far outside the villages. They had to hurry, because the rain season is coming, and such work will be impossible then.
+
+You've been working hard to educate the miners about the risks of this kind of mining. You tell them not to mine from inside their own compounds. They should always keep their living areas free of mining activities.
+
+Still, they don't have good protective equipment. And even when they follow your advice, most of the miners come home covered in dust, tracking the dust when they walk to and from the village.
+
+[STIMULUS] Data
+You've kept careful track of the number of cases since the epidemic started by using an epi curve.
+
+29. [frq, 2 pt] What is an epi curve?
+
+30. [frq, 4 pt] What can an epi curve tell you?
+
+[STIMULUS] Cases of Lead Poisoning Reported Between March 1 and April 18
+    [IMAGE: ../images/2020_crystal_lake_central_c__p10_v33278c-f0e923a2.webp]
+
+31. [frq, 3 pt] Looking at the epi curve for this outbreak would you say it is spread by a point source, continuous common source or propagated outbreak? Why?
+
+32. [mcq, 1 pt] Based on the epi curve, which of the following do you think is happening?
+    A) The epidemic is better, but hasn't gone away. The treatment hasn't worked.
+    B) The epidemic is better, but miners are still getting too much lead near their kids.
+    C) The epidemic appears to be ending.
+
+33. [frq, 3 pt] Form a conclusion statement as to why you believe this is happening.

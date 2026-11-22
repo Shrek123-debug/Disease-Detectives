@@ -1,0 +1,438 @@
+Mason Satellite Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  59 questions, 119.0 pts
+Source: scio.ly test archive id 8de03979-154c-40f8-a017-829916926dbb  |  original files: https://drive.google.com/drive/folders/1xoVEkV1YEXa6dTuFEzXKIo-QgZj84MAP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Partial credit will be awarded, so attempt as many questions as you can!
+
+This test is broken up into 4 sections, including 2 case studies in Sections 3 and 4.  For all calculations, be sure to **show all work** in order to receive partial credit. Good luck, have fun, and YOU’VE GOT THIS!!
+
+
+=== Section A: General Knowledge ===
+
+[STIMULUS] **Word Bank**
+
+a. Transient Carrier
+b. Classical Epidemiology
+c. Outbreak
+d. Convalescent Carrier
+e. Morbidity
+f. Specificity
+g. Asymptomatic
+h. Risk
+i. Infectivity
+j. Pathogenicity
+k. Clinical Epidemiology
+l. Sensitivity
+m. Virulence
+n. Cluster
+o. Odds
+
+
+P1-1. [mcq, 2 pt] "a large amount of cases aggregated in a certain area in a certain population during a certain timeframe"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-2. [mcq, 2 pt] "an individual who is recovered from an illness but can still spread it"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-3. [mcq, 2 pt] "the ability of a test to identify individuals who do not have a disease"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-5. [mcq, 2 pt] "the rate of occurrence of a certain cause in a population"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-6. [mcq, 2 pt] "is a carrier of a disease for a short period of time"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-7. [mcq, 2 pt] "someone with no symptoms of chest pain or shortness of breath but high blood pressure"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-8. [mcq, 2 pt] "an unusually high amount of cases of a certain condition in a certain region during a certain timeframe"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-9. [mcq, 2 pt] "the likelihood of developing a certain condition"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-11. [mcq, 2 pt] "the severity of the infection of a pathogen"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-12. [mcq, 2 pt] "the ability of a pathogen to cause infection"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-13. [mcq, 2 pt] "the ability of a test to identify individuals who do have a disease"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+P1-16. [mcq, 2 pt] "the study of the distribution and determinants of disease in a population"
+    A) Transient Carrier
+    B) Classical Epidemiology
+    C) Outbreak
+    D) Convalescent Carrier
+    E) Morbidity
+    F) Specificity
+    G) Asymptomatic
+    H) Risk
+    I) Infectivity
+    J) Pathogenicity
+    K) Clinical Epidemiology
+    L) Sensitivity
+    M) Virulence
+    N) Cluster
+    O) Odds
+
+
+=== Section B: Listeria Hysteria ===
+
+[STIMULUS] Between May and August 2024, a multi-state **listeria outbreak** was recorded in the continental US, resulting in several recorded illnesses and even deaths [1]. Listeriosis, the disease caused by the bacterium *Listeria monocytogenes*, is often contracted through the consumption of raw vegetables, unpasteurized milk, or, in this case, **contaminated meat**. Though the majority of listeria infections are mild, in severe cases, it can result in blood infection or meningitis (inflammation of the brain or spinal cord), which can be fatal [2]. Individuals who are especially at risk include pregnant women, infants and small children, and those who are immunocompromised (65+ years old, underlying health conditions, and so forth) [2]. Through their efforts in addressing the outbreak, the CDC traced the outbreak to a certain meat processed by **Boar’s Head**, a popular deli meat brand.
+
+As an esteemed epidemiologist and fellow processed deli meat enthusiast, you decide to take this case into your own hands.
+
+**Part I** - Let’s begin! As a token of gratitude, the CDC provides you with the following graph to help with your investigation.
+    [IMAGE: ../images/2024_mason_satellite_invitational_b_c__p3_e6de40-1e8e0baa.webp]
+
+P2-1. [mcq, 1 pt] What type of surveillance was used by the CDC in this case?
+    A) Active
+    B) Passive
+    C) Syndromic
+    D) Sentinel
+
+P2-2. [frq, 2 pt] Provide two pros and two cons of using the method identified in Question 2.1.
+
+P2-4. [frq, 2 pt] What kind of graph did the CDC provide you? What does it help epidemiologists visualize?
+
+P2-5. [frq, 3 pt] What mode of spread is being depicted in the graph? How do you know?
+
+P2-6. [mcq, 1 pt] Decisions, decisions! Which study design should you implement to determine the source of the outbreak?
+    A) Case-control
+    B) Case-crossover
+    C) Cross-sectional
+    D) Prospective Cohort
+    E) Retrospective Cohort
+
+P2-7. [frq, 4 pt] Use the “cookie cutter” below to construct a working case definition for this outbreak.
+    
+    People in ____, with onset of ____ after ____ . Confirmed cases are those with a positive laboratory result for ____ and have ____. Probable cases are those ____ , but have ____.
+
+[STIMULUS] **Part II** - Yum yum, but not in your tum tum :( After collecting data from all of the afflicted individuals, you determine that the contamination must have come from one of the four deli meats processed by Boar’s Head.
+
+| **Deli Meat** | **# People Who Ate Food** | **# People With Symptoms** |
+|---|---|---|
+| Bologna | 33 | 12 |
+| Prosciutto | 42 | 19 |
+| Mortadella | 45 | 20 |
+| Liverwurst | 51 | 44 |
+
+P2-8. [mcq, 1 pt] What is the appropriate measure of risk for this outbreak?
+    A) Relative Risk
+    B) Odds Ratio
+    C) Attack Rate
+    D) Serial Interval
+
+[STIMULUS] Calculate the appropriate measure of risk for each of the four deli meats, using the Part II table above.
+    | Label | Answer |
+    | Bologna | [[q:P2-9-a]] |
+    | Prosciutto | [[q:P2-9-b]] |
+    | Mortadella | [[q:P2-9-c]] |
+    | Liverwurst | [[q:P2-9-d]] |
+
+P2-9-a. [frq, 3 pt] Bologna
+
+P2-9-b. [frq, 3 pt] Prosciutto
+
+P2-9-c. [frq, 3 pt] Mortadella
+
+P2-9-d. [frq, 3 pt] Liverwurst
+
+P2-10. [frq, 1 pt] Identify the type of Boar’s Head contaminated meat connected with the listeria outbreak.
+
+[STIMULUS] **Part III** - Good work! With your expert skills in identifying the contaminated meat, the CDC was able to trace the defective products back to Boar’s Head plant in Jarratt, Virginia. Not only was the facility found to violate several safety codes, but the contamination was found to be directly related to the specific packaging technique used only at the Jarratt plant. The Boar’s Head plant is an important facet of Jarrett’s economy, employing thousands of workers in the area.
+
+In response, Boar’s Head decides to **shut down** the entire plant indefinitely, in compliance with federal requirements. In addition, they decide to discontinue their sale of that specific type of deli meat indefinitely.
+
+P2-11. [frq, 2 pt] What step in the outbreak investigation does this action represent? List the number and the name.
+
+P2-12. [frq, 2 pt] List two pros and cons of this course of action.
+
+
+=== Section C: Polio Case Study ===
+
+[STIMULUS] Poliomyelitis, commonly known as polio, is an infectious disease caused by the poliovirus and attacks the spinal cord cells. Symptoms can range from fever and headache to permanent paralysis.
+
+P3-C1. [frq, 4 pt] Polio has a very low incidence and prevalence globally, especially in first-world nations. In fact, from 1979 to 2022, there were no new cases of polio in the United States. Define incidence and prevalence in the context of epidemiology.
+
+P3-C2. [frq, 2 pt] Rarely, some Polio infections lead to post-polio syndrome, where symptoms of polio can show up again, years after the initial infection. Like polio, other infectious diseases can have a recurrence of symptoms as well, this phenomenon is known as a post-acute infection syndrome. Name another disease that may be followed by a post-acute infection syndrome.
+
+P3-C3. [frq, 2 pt] When most people think of polio, they think of paralysis, most notably the short leg that some patients develop. However, paralysis as a symptom is quite rare. In fact, most polio cases are asymptomatic. What does asymptomatic mean?
+
+P3-C4. [frq, 1 pt] Polio was extremely widespread in the early twentieth century. In 1916, there were over 27,000 cases of polio and 7,000 deaths in the United States alone. Even one U.S. president had polio. Who was it? Give the full name.
+
+P3-C5. [frq, 4 pt] Polio cases had a massive decline in the second half of the twentieth century due to an extensive global vaccination program. Who is credited for the creation of the first polio vaccine, called the inactivated polio vaccine (IPV), and what year was it created?
+
+P3-C6. [frq, 2 pt] Although the IPV came first, a second vaccine developed in 1961 called the oral polio vaccine (OPV) was more widely used in the global vaccination campaign against polio due to its ease of use and low resource cost. Who was accredited for the discovery of this vaccine?
+
+P3-C7. [frq, 3 pt] Although the OPV was widely used during the twentieth century, as of 2000, the IPV vaccine is the only polio vaccine in use in the United States. Suggest a reason why the IPV is used over the OPV despite the improved protection and lowered cost.
+
+P3-C8. [frq, 2 pt] Recently, in the Gaza strip, PVDVs have sprung up, leading to an outbreak of polio cases. Because of this, a ceasefire was called for a mass vaccination campaign. What type of prevention does this demonstrate?
+
+P3-C9. [mcq, 1 pt] cVDPVs are an example of which of the following?
+    A) Antigenic drift
+    B) Contamination
+    C) Stimulus response
+    D) Global warming
+
+P3-C10. [numeric, 4 pt] You are horrified by the damage that polio is inflicting on New York. Because of this, you reinvent the polio vaccine to save generations of people from polio. At the time, the population of New York is 9,848,000, and your vaccine has 99% effectiveness. If the r₀ value of polio is 5, how many New Yorkers need to get vaccinated for New York to achieve herd immunity?
+
+P3-C11. [frq, 2 pt] You notice that there seem to be a high amount of cases in a certain part of New York City after a middle school dance and decide to investigate. You obtain the medical records of 50 students who went to the dance and 50 who did not. What type of study is this? Be specific.
+
+P3-C12. [frq, 2 pt] You collect some data, but suddenly realize that patient medical records are protected information. Are you going to get arrested? Explain.
+
+[STIMULUS] You decide that your data is suspicious and conjecture it is because the polio tests are not good and decide to make your own test. You collect the following data after running trials for your own test.
+    [IMAGE: ../images/2024_mason_satellite_invitational_b_c__p8_4dc0f0-ed0095a8.webp]
+
+P3-C13. [numeric, 3 pt] Calculate the sensitivity.
+
+P3-C14. [numeric, 3 pt] Calculate the specificity.
+
+P3-C15. [numeric, 3 pt] Calculate the NPV.
+
+P3-C16. [numeric, 3 pt] Calculate the PPV.
+
+P3-C17. [numeric, 3 pt] Calculate the false positive rate.
+
+P3-C18. [numeric, 3 pt] Calculate the false negative rate.
+
+
+=== Section D: Is the Answer [D] for Disease? ===
+
+[STIMULUS] **Part I** - Guess! That! Scientist!! (It's not Pikachu)
+
+P4-D1. [mcq, 1 pt] English physician known as the Father of Epidemiology, developed anesthesia and famously studied cholera.
+    A) Robert Koch
+    B) Edward Jenner
+    C) John Snow
+    D) Louis Pasteur
+
+P4-D2. [mcq, 1 pt] Studied radiation-induced illness among workers at the Hanford plutonium production plant in 1956.
+    A) Alice Stewart
+    B) Edward Sydenstricker
+    C) Jonas Salk
+    D) Robert Koch
+
+P4-D3. [mcq, 1 pt] First experiment with a control group, determined limes prevent scurvy.
+    A) William Farr
+    B) James Lind
+    C) Ignaz Semmelweis
+    D) Robert Koch
+
+P4-D4. [mcq, 1 pt] Father of germ theory, dispelled spontaneous germination, created the rabies vaccine (with Roux).
+    A) Edward Jenner
+    B) Louis Pasteur
+    C) Mary Mallon
+    D) Stanley Prusiner
+
+P4-D5. [mcq, 1 pt] Bonus! Immune to typhoid, but spread it to over 50 people due to their lack of hygiene practices.
+    A) William Farr
+    B) Einken Sigelwitz
+    C) Mary Mallon
+    D) Kuey Sowe
+
+[STIMULUS] **Part II** - Who's your Bias?
+
+P4-D6. [mcq, 1 pt] AstraZeneca conducts a study to test the effectiveness of a novel treatment for rheumatoid arthritis. They decide to contact patients with rheumatoid arthritis at random from a hospital's registry, but unknowingly, most of the individuals selected regularly visit the hospital and follow strict treatment regimens. These patients tend to be healthier and more invested in their health compared to the broader population of people with the disease. This is an example of…
+    A) Social Desirability Bias
+    B) Information Bias
+    C) Selection Bias
+    D) Ascertainment Bias
+
+P4-D7. [frq, 2 pt] Suggest a modification AstraZeneca can make to their study to reduce this bias.
+
+P4-D8. [mcq, 1 pt] Dr. Jana Koffman is a cardiologist and researcher at the University of Science Olympiad (USO). She is currently conducting a study focused on the relationship between exercise habits and heart disease, and she is confident that regular exercise reduces the risk of heart disease. During the interview, she unintentionally reacts to each groups' responses differently, asking more leading questions to the heart disease group about their levels of physical activity. This is an example of…
+    A) Social Desirability Bias
+    B) Information Bias
+    C) Selection Bias
+    D) Ascertainment Bias
+
+P4-D9. [frq, 2 pt] Suggest a modification Dr. Koffman can make to her study in order to reduce this bias.
+
+[STIMULUS] **Part III** - Stop Right There!
+
+The bubonic plague, dubbed "The Black Death" during the Middle Ages due to the high mortality rates experienced throughout Eurasia, is an acute bacterial infection caused by *Yersinia pestis*. This bacterium is spread by the bite of an infected flea, and is visually characterized by the presence of "buboes" — swollen lymph nodes throughout the body. Though it can be treated early with antibiotics, if allowed to progress, it may progress to pneumonic or septicemic plague, which can prove fatal.
+
+As epidemiologists, we know that prevention is a central part of any good disease response. Additionally, prevention can look differently depending on which part of the chain of transmission we are attempting to disrupt. After reading the following three means of preventing the bubonic plague, **classify** them as primary, secondary, tertiary, or quaternary prevention, and **identify** the step in the chain of transmission that it aims to break.
+
+P4-D10a. [mcq, 1 pt] Control overall rat and flea populations by implementing better sanitation methods. — Level of Prevention
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+P4-D10b. [frq, 1 pt] Control overall rat and flea populations by implementing better sanitation methods. — Step in Chain
+
+P4-D11a. [mcq, 1 pt] Isolating individuals who have been diagnosed with bubonic plague from the rest of the community, providing them with the appropriate treatments (streptomycin, doxycycline) and support to help them recover. — Level of Prevention
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+P4-D11b. [frq, 1 pt] Isolating individuals who have been diagnosed with bubonic plague from the rest of the community, providing them with the appropriate treatments (streptomycin, doxycycline) and support to help them recover. — Step in Chain
+
+[STIMULUS] Third means (from the Part III passage above): Monitoring communities where outbreaks of bubonic communities have been reported, especially high-risk areas.
+    | Label | Answer |
+    | Level of Prevention | [[q:P4-D12-a]] |
+    | Step in Chain | [[q:P4-D12-b]] |
+
+P4-D12-a. [frq, 1 pt] Level of Prevention
+
+P4-D12-b. [frq, 1 pt] Step in Chain

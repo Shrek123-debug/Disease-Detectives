@@ -1,0 +1,1499 @@
+GullSO Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  94 questions, 175.0 pts
+Source: scio.ly test archive id 14a36cdf-1f4e-4b99-9965-aaa6556f361d  |  original files: https://drive.google.com/drive/folders/1rgYOuLSE0nN4YiokMhNHmRTtzo2EBsHw
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Unless otherwise indicated, all MCQs are worth 2 points.
+
+
+
+For calculations, show your work for full points and/or partial credit.
+
+
+=== Section 1: Define This — Write the term next to its definition. ===
+
+[STIMULUS] **Word Bank:**
+Morbidity
+Mortality
+Quarantine
+Secondary Attack rate
+Syndromic Surveillance
+Vaccine efficiency
+Variance
+Vector
+Vehicle
+Virulence
+Attributable risk
+Bias
+Case Control study
+Case Fatality rate
+Communicability period
+Confounding
+Contact tracing
+Convalescent Carrier
+Cross Sectional
+Cumulative frequency
+Determinant
+Dose- Response
+Ecological Study
+Epidemic curve
+Herd Immunity
+Holoendemic
+Hyperendemic
+Iatrogenic
+Incubation period
+Isolation
+
+P1-1. [mcq, 1 pt] A living intermediary typically an arthropod, that actively transmits pathogen from infected host to a susceptible host
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-2. [mcq, 1 pt] An observational study that analyzes data at the group level to examine relationships between exposures and outcomes
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-3. [mcq, 1 pt] An infectious disease that is highly prevalent in a specific region, most infections happen early in life and decrease later in life
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-4. [mcq, 1 pt] The number of people in a population who are ill or have a particular disease at a given time.
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-5. [mcq, 1 pt] An infectious disease that has persistent rate and affects all age groups equally with high transmission and no significant age-related difference in infection rates
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-6. [mcq, 1 pt] The number of deaths caused by a disease in a population
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-7. [mcq, 1 pt] The difference in rate of a disease between an exposed group and unexposed group, shows how much the disease can be directly linked to the exposure
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-8. [mcq, 1 pt] An individual who recovered from the disease but, continues to harbor and transmit the infectious agent to others
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-9. [mcq, 1 pt] A systematic pattern in which magnitude of a biological effect shifts in accordance with the intensity of the exposure
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-10. [mcq, 1 pt] The quantitative intensity of pathogenicity, describes how effectively an infectious agent can damage the host, determining the severity of the disease
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-11. [mcq, 1 pt] The proportionate reduction in disease incidence among vaccinated individuals compared to unvaccinated individuals under real-world conditions
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-12. [mcq, 1 pt] An retrospective observational study that systematically compares individuals with specific outcome to those without it to identify and evaluate prior exposures or risk factors, relies on self-reported data rather than direct temporal observation
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-13. [mcq, 1 pt] The temporal proportion of confirmed cases of a disease that die, reflects the lethality of the disease among confirmed cases
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-14. [mcq, 1 pt] The proportion of susceptible individuals who become infected within a specific group after exposure to a primary case
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-15. [mcq, 1 pt] A statistical measure that quantifies the average squared deviation of each data, reflects the degree of dispersion or spread within a dataset
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-16. [mcq, 1 pt] The running total of frequencies up to a specified data point or class interval, provides summative representation of the distribution’s accumulation and relative positioning within the dataset
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-17. [mcq, 1 pt] A distortion of the apparent effect of an exposure on an outcome caused by a third factor
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-18. [mcq, 1 pt] The systematic identification and monitoring of individuals who have been exposed to a disease, aims to interrupt transmission chains
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-19. [mcq, 1 pt] Monitoring system using real-time data collection and analysis of health related data based on clinical syndromes rather than confirmed diagnoses
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-20. [mcq, 1 pt] A factor that directly or indirectly influences the outcome of a health related condition in a population
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-21. [mcq, 1 pt] The separation of individuals who have been exposed to disease but are not yet symptomatic
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-22. [mcq, 1 pt] Systematic error in a study that leads to distorted estimates of the association between exposure and outcome
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-23. [mcq, 1 pt] The indirect protection from an infectious disease that occurs when high proportion of a population is immune, reduces likelihood of disease spread even among susceptible individuals
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-24. [mcq, 1 pt] Graphical representation that shows the number of new cases of a disease over time, visualize that outbreak’s pattern
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-25. [mcq, 1 pt] An observational study that analyzes exposure and outcome variables are simultaneously assessed within a defined population, estimates of prevalence and potential correlations with establishing temporal causality
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-26. [mcq, 1 pt] The ability of an infectious agent to be transmitted from one host to another, often quantified by the ease and efficiency with which the disease spreads within population
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-27. [mcq, 1 pt] An adverse disease or complication that is caused unintentionally by medical treatment or procedure
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-28. [mcq, 1 pt] The separation of individuals who are known to be infected with a disease from those who are healthy
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-29. [mcq, 1 pt] The time interval between exposure to an infectious agent and the appearance of the first symptoms of a disease.
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+P1-30. [mcq, 1 pt] A non-living intermediary that inadvertently carries and transmits infectious agents from a source to a susceptible host
+    A) Morbidity
+    B) Mortality
+    C) Quarantine
+    D) Secondary Attack rate
+    E) Syndromic Surveillance
+    F) Vaccine efficiency
+    G) Variance
+    H) Vector
+    I) Vehicle
+    J) Virulence
+    K) Attributable risk
+    L) Bias
+    M) Case Control study
+    N) Case Fatality rate
+    O) Communicability period
+    P) Confounding
+    Q) Contact tracing
+    R) Convalescent Carrier
+    S) Cross Sectional
+    T) Cumulative frequency
+    U) Determinant
+    V) Dose- Response
+    W) Ecological Study
+    X) Epidemic curve
+    Y) Herd Immunity
+    Z) Holoendemic
+    [) Hyperendemic
+    \) Iatrogenic
+    ]) Incubation period
+    ^) Isolation
+
+
+=== Section 2: MCQs ===
+
+2-1. [mcq, 2 pt] A number of studies are carried out in the Mayo Clinic, Cleveland Clinic, and MD Anderson looking at the effectiveness of a new surgical procedure in those highly specialized centers. The results are found to only be of limited applicability to local hospitals with less experienced physicians. According to the GRADE method, this is an example of which criteria
+    A) Imprecision
+    B) Indirectness
+    C) Risk of bias
+    D) Inconsistency of results
+
+2-2. [mcq, 2 pt] You are developing a new drug and you test it by administering it to one group of patients while giving a placebo to another group. You measure the drug's effectiveness and potential side effects, with neither the participants nor the researchers knowing who is in each group. What kind of study is this?
+    A) Cohort study
+    B) Case-control study
+    C) Randomized controlled trial
+    D) Meta-analysis
+
+2-3. [mcq, 2 pt] Which of the following are false about confounding:
+    A) In ecological studies, it is more difficult to control for confounders at the aggregate level of data.
+    B) Must be associated with the outcome either as cause, or proxy for cause
+    C) Must be associated with the exposure as either a cause or an effect of the exposure
+    D) None of the above
+
+2-4. [mcq, 2 pt] What is the panel effect?
+    A) Subjects are told which group they are in, influencing their behavior
+    B) Subjects are given too many interviews in a row, causing exhaustion
+    C) Subjects are interviewed by too many people at once, causing nervousness
+    D) Subjects are given too much information at once, causing them to become confused
+
+2-5. [mcq, 2 pt] Which of the following are true about endemic equilibrium?
+    A) Pathogens cannot continue to circulate, mutate, and (re)infect members of the population
+    B) R0 < 1
+    C) Asymptotically stable
+    D) All of the above
+    E) None of the above
+
+2-6. [mcq, 2 pt] The term herd immunity can refer to
+    A) Percentage of people needed to be immune for rate of new infection to decline
+    B) percentage of a population with immunity, whether it exceeds a given threshold or not;
+    C) the indirect benefit afforded by collective immunity to those who are less immune
+    D) A and C only
+    E) C and B only
+    F) A, B, and C
+
+2-7. [mcq, 2 pt] In the SEIR model, sigma or σ refers to:
+    A) Incubation rate
+    B) Recovery rate
+    C) Exposure rate
+    D) Contact rate
+    E) Susceptibility rate
+
+2-8. [mcq, 2 pt] In a certain population of seagulls, eating more french fries makes them develop nausea. However, as the seagulls eat more fries, their nausea worsens, but eventually disappears after they eat a certain threshold of fries. Which of Bradford-Hill’s criteria does this violate?
+    A) Consistency
+    B) Temporality
+    C) Dose-Response
+    D) Specificity
+
+2-9. [mcq, 2 pt] The BA-2 variant of Covid 19 infects a higher proportion of infected persons. This variant is therefore said to have
+    A) Lower pathogenicity
+    B) Greater infectivity
+    C) Lower virulence
+    D) Higher infectious dose
+
+2-10. [mcq, 2 pt] In which one of the following circumstances would the prevalence of a disease in the population increase, if everything else was held constant?
+    A) The incidence rate falls.
+    B) The recovery time of the disease is faster.
+    C) The survival time increases.
+    D) The population increases.
+
+2-11. [tf, 2 pt] In a case-control study, the study base is a pool of those who, if they developed the disease, could have been counted as cases.
+    A) True
+    B) False
+
+2-12. [tf, 2 pt] An epi curve indicates the number of cases but does not provide information regarding the outbreak's source or spread.
+    A) True
+    B) False
+
+2-13. [tf, 2 pt] An epi curve is a histogram.
+    A) True
+    B) False
+
+2-14. [tf, 2 pt] Epidemiological methods can be applied to the study of iatrogenic causes of a disease such as surgical mistakes.
+    A) True
+    B) False
+
+2-15. [tf, 2 pt] Cohort studies can be retrospective and prospective.
+    A) True
+    B) False
+
+2-17. [mcq, 2 pt] Being exposed to seagull droppings can cause sickness through pathogens like Salmonella. Due to a recent outbreak at CVHS, you conduct a study where you track where the droppings are, who sat near them, and what the outcomes were. Identify the type of study you performed.
+    A) Randomized controlled trial.
+    B) Case-control study.
+    C) Cohort study.
+    D) Ecological study.
+    E) Cross-sectional study.
+
+2-18. [mcq, 2 pt] Studying an outbreak by comparing those who touched the droppings and those who didn't is...
+    A) Experimental and Descriptive
+    B) Experimental and Analytic
+    C) Observational and Descriptive
+    D) Observational and Analytic
+
+2-19. [mcq, 2 pt] The Salmonella outbreak from these droppings is an example of a:
+    A) endemic disease
+    B) point source outbreak
+    C) propagated source outbreak
+    D) common source outbreak
+
+2-20. [multi, 2 pt] Which of the following is/are true regarding R0:
+    A) a descriptive statistic derived from observations of the early phases of simulated epidemics.
+    B) a characteristic of the pathogen
+    C) observed R0 for any given pathogen should be similar in different populations,
+    D) different methods for deriving R0 produce widely divergent value
+    E) transmission patterns may vary over time
+
+2-23. [mcq, 2 pt] Which of the following is a limitation of sentinel surveillance?
+    A) Unable to identify long-term trends
+    B) Unable to provide high-quality data about a specific disease
+    C) Relies on passive reporting
+    D) Less effective at monitoring rare diseases
+
+
+=== Section 3: Biases and Confounding ===
+
+[STIMULUS] A group of scientists published the results of a randomized clinical trial designed to assess how well 2 treatments for diabetes prevented fatal complications. Table below presents the crude data comparing the treatment (the drug Gulltudazide) with placebo, with respect to the total mortality over a period of 15yrs. Unfortunately, results indicated that the total mortality was greater in the Gulltudazide group vs the placebo group. **The table** at right reflects these results:
+
+**Table 2.1**
+
+|  | Gulltudazide | Placebo |
+|---|---|---|
+| Deaths | 30 | 21 |
+| Surviving | 174 | 184 |
+
+3-2. [numeric, 2 pt] The results above estimate that subjects that receive Gulltudazide face an additional risk of ____% of dying over the 15yrs compared with subjects receiving placebo.
+
+[STIMULUS] The results led to a heated debate amongst scientists as to how to interpret this data. Although this study was a randomized control trial, scientists determined that error in the analysis of the data might have led to the mortality rate result they found in the crude data.
+
+A set of scientists wanted to see the data in a different way and the results are below **(Table 2.2)**:
+
+**Age < 55**
+
+|  | Gulltudazide | Placebo |
+|---|---|---|
+| Deaths | 8 | 5 |
+| Surviving | 83 | 115 |
+
+**Age > 55**
+
+|  | Gulltudazide | Placebo |
+|---|---|---|
+| Deaths | 37 | 16 |
+| Surviving | 76 | 69 |
+
+To address the error, the scientists decided to use stratification. When the data is stratified, scientists discovered that the average difference between the mortality of those taking Gulltudazide vs Placebo is significantly lower than what was found in the crude data.
+
+3-3. [numeric, 2 pt] From Table 2.2, what percentage of subjects taking Gulltudazide were ages 55 and above?
+
+3-4. [numeric, 2 pt] From Table 2.2, what percentage of subjects taking the Placebo were ages 55 and above?
+
+3-5. [frq, 3 pt] Explain the error in how this study was carried out that could have led to the higher mortality rate in the crude data in **Table 2.1**?
+
+[STIMULUS] **For the questions below, use this word bank. Some may be used more than once; some may not be used at all.**
+
+Baader-Meinhof
+Simpson's paradox
+Loss to follow up bias
+Hawthorne effect
+Voluntary bias
+Undercoverage bias
+Publication bias
+Pygmalion effect
+Neyman bias
+Ecological fallacy
+Differential misclassification bias
+Social desirability bias
+Non-differential misclassification
+Berkson's bias
+Length time bias
+Lindley's paradox
+
+3-6. [mcq, 2 pt] Case-control study investigating the link between lead exposure and neurological diseases, cases are observed to remember even minor past exposures, such as previous history of imported cosmetics or use of imported housewares. Control participants without a diagnosis of a neurological condition might forget or underreport such minor, distant exposures
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-7. [mcq, 2 pt] The lead scientist who developed Gulltudazide wants to test the effectiveness of his wonder drug for diabetes. He conducts a new study to test his drug, but his confidence in the drug's effectiveness influences the outcome of the study.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-8. [mcq, 2 pt] A case-control study is carried out using prevalent lung cancer cases. Study concludes that smoking is protective against lung cancer (OR < 1) because the sample is missing severe cases. In reality, smoking significantly increases risk.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-9. [mcq, 2 pt] A survey asks if you drink soda on a daily basis. Nearly all respondents answer "no".
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-10. [mcq, 2 pt] A statistical phenomenon in which an observed association between two variables at the population level (e.g., positive, negative, or independent) can surprisingly change, disappear, or reverse when one examines the data further at the level of subpopulations
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-11. [mcq, 2 pt] Participants recruited to a study to test out smoking cessation interventions amongst low (1-2 cigarettes/day), moderate (half a pack/day), and highly smokers (pack/day); only those that are low to moderate smokers end up completing the study.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-12. [mcq, 2 pt] Researchers comparing various countries, found that the incidence of Lyme disease was significantly lower in regions where fat consumption was very high when compared with regions where fat consumption was low. The conclusion is that individuals who eat fatty foods are less likely to get Lyme disease
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-13. [mcq, 2 pt] In a study investigating the link between lifetime exercise habits and a disease, researchers might use a questionnaire to assess participants' past exercise habits. The questionnaire is very detailed and tedious; participants in both the group with the disease and the group without the disease have difficulty accurately reporting their history of exercise habits
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-14. [mcq, 2 pt] After attending a neurology conference, a doctor notices an increase in patients coming into the clinic with confusion, memory loss, gait ataxia; these are all suggestive of Wernicke's encephalopathy diagnosis. The increase in cases may simply be due to heightened awareness.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-15. [mcq, 2 pt] A survey regarding binge drinking is assessed only using a protocol that only make calls out to telephone landlines listed in a directory
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-16. [mcq, 2 pt] A study on informed consent practices prior to invasive procedures revealed that the rate of adherence to informed consent practices via secure messaging was 68% during a period where doctors knew their messaging inbox was being actively monitored. However, a review of patient records for the same physicians (during a period where doctors believed monitoring had ended) revealed the rate was 23%.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+3-17. [mcq, 2 pt] A study on rheumatoid arthritis ends up overestimating mean survival time because of the high amount of cases detected that are asymptomatically slowly progressing, while fast progressing cases are detected with a newly developed screening test for observable symptoms.
+    A) Baader-Meinhof
+    B) Simpson's paradox
+    C) Loss to follow up bias
+    D) Hawthorne effect
+    E) Voluntary bias
+    F) Undercoverage bias
+    G) Publication bias
+    H) Pygmalion effect
+    I) Neyman bias
+    J) Ecological fallacy
+    K) Differential misclassification bias
+    L) Social desirability bias
+    M) Non-differential misclassification
+    N) Berkson's bias
+    O) Length time bias
+    P) Lindley's paradox
+
+
+=== Section 4: Case Study on 'Walnut Grove' ===
+
+[STIMULUS] **Adapted from MMWR, Volume 74, Issue 38 — November 27, 2025 - CDC**
+
+Previously, STEC O157 outbreaks in the United States have rarely been linked to tree nuts. STEC has an average incubation period of 4 days (with incubation minimum of 1 day, a maximum of 10 days). On March 1st, 2025, the Washington State Department of Health alerted CDC to 50 STEC O157 infections from walnuts in Washington after determining that the isolates were related. On March 2nd, 2025, CDC began an investigation using PulseNet.
+
+Patients in the ‘Walnut Grove’ outbreak who could be contacted were interviewed with a questionnaire and they reported eating ‘organic’ walnuts during the week preceding illness onset, and, as the investigation progressed, no other food item was found to be associated with illness.
+    [IMAGE: ../images/2026_gullso_invitational_c__p9_475d5c-42220dfc.webp]
+
+4-1. [frq, 3 pt] What is the primary goal of CDC's PulseNet system?
+
+4-2. [frq, 2 pt] What does the abbreviation STEC stand for?
+
+P5-3a. [frq, 1 pt] What does the abbreviation MLVA stand for?
+
+P5-3b. [frq, 2 pt] Name 2 advantages of performing an MLVA in this outbreak.
+
+P5-3c. [frq, 6 pt] Describe the steps for an MLVA in the diagram shown. Be specific and descriptive.
+    [IMAGE: ../images/2026_gullso_invitational_c__p8_4307ee-be916bce.webp]
+
+P5-3d. [frq, 3 pt] On another note, when PulseNet is investigating a new mysterious illness with outbreaks occurring over the past 2 years across various counties, which molecular genotyping process would they most likely use? Justify your answer with 2 reasons.
+
+P5-5. [frq, 2 pt] From the information given thus far, what type of outbreak is this? Give a justification for your answer.
+
+P5-6. [frq, 3 pt] Can you calculate the most likely period of exposure from the information above? Give a justification for your answer.
+
+P5-7. [frq, 4 pt] Outbreaks of STEC O157 infections are associated primarily with beef and fresh vegetables. Given that this outbreak involved walnuts harvested from one particular orchard, what would be 2 potential sources of contamination that health officials would be interested in looking at when visiting the orchard?
+
+
+=== Section 5: Case Study on Metabolic Meals ===
+
+[STIMULUS] Adapted from https://www.cdc.gov/salmonella/outbreaks/homedeliverymeals-09-25/index.html
+
+CDC and public health officials in California, Minnesota, and Missouri are investigating a multistate outbreak of Salmonella infections linked to home delivery meals made by Metabolic Meals. Officials contacted and identified customers (6 cases, 16 healthy) who had consumed meals during the week of July 28th, 2025. The following information was obtained in **Table 5.1**:
+    [IMAGE: ../images/2026_gullso_invitational_c__p10_cef052-9571e101.webp]
+
+P6-5-1. [frq, 2 pt] What type of study design was used?
+
+P6-5-3. [frq, 2 pt] Based on the contingency table above for 'Chickpea Quinoa' and the study design, calculate the appropriate measure of association. Show your work; round number to 1 decimal place.
+
+[STIMULUS] 
+
+
+
+Calculate the measure of association for the rest of the exposures and fill in the following table (Show your work, round to 1 decimal place):
+    |  |  |
+    | 4 Cheese Tortellini | [[q:P6-5-4a]] |
+    | Low Carb Chicken Teriyaki | [[q:P6-5-4b]] |
+    | Sirloin with Roasted Peanut Sauce | [[q:P6-5-4c]] |
+    | Balsamic Chicken | [[q:P6-5-4d]] |
+    | Chickpea Quinoa | [[q:P6-5-4e]] |
+    | Tuscan Chicken | [[q:P6-5-4f]] |
+
+P6-5-4a. [frq, 1.67 pt] 4 Cheese Tortellini
+
+P6-5-4b. [frq, 1.67 pt] Low Carb Chicken Teriyaki
+
+P6-5-4c. [frq, 1.67 pt] Sirloin with Roasted Peanut Sauce
+
+P6-5-4d. [frq, 1.67 pt] Balsamic Chicken
+
+P6-5-4e. [frq, 1.67 pt] Chickpea Quinoa
+
+P6-5-4f. [frq, 1.65 pt] Tuscan Chicken
+
+P6-5-5. [frq, 1 pt] Which exposure was the most likely cause of the Metabolic Meals outbreak?
+
+P6-5-6. [frq, 2 pt] Complete the sentence: Salmonella is gram ____, ____-shaped bacteria.
+
+P6-5-7a. [frq, 3 pt] What does the acronym FATTOM stand for?
+
+P6-5-7b. [frq, 6 pt] Would adjusting A, O factors in the meal above suffice in addressing future outbreaks involving this particular menu item? For A, O factors, 1) YES or NO on whether that factor would help address future outbreaks for that menu item 2) Justify your answer.
+    
+    A:
+    Justification:
+    O:
+    Justification:
+
+[STIMULUS] The investigators decide to perform a chi square test on the highest measure of association to find out if it is statistically significant. List the expected values for the four cells (a, b, c, d) of the 2x2 table (ill/healthy × exposed/unexposed) for this particular menu item (round to 1 decimal place).
+    | Label | Answer |
+    | a Ate the menu item / Salmonellosis | [[q:P6-5-8-a]] |
+    | b Ate the menu item / Healthy | [[q:P6-5-8-b]] |
+    | c Did not eat the menu item / Salmonellosis | [[q:P6-5-8-c]] |
+    | d Did not eat the menu item / Healthy | [[q:P6-5-8-d]] |
+
+P6-5-8-a. [frq, 2 pt] Label a Ate the menu item / Salmonellosis
+
+P6-5-8-b. [frq, 2 pt] Label b Ate the menu item / Healthy
+
+P6-5-8-c. [frq, 2 pt] Label c Did not eat the menu item / Salmonellosis
+
+P6-5-8-d. [frq, 2 pt] Label d Did not eat the menu item / Healthy
+
+P6-5-9. [numeric, 1 pt] How many degrees of freedom are in this data?
+
+P6-5-10. [frq, 8 pt] Provide the formula for chi-square and calculate the chi square value for this meal. (round to 2 decimal places)
+
+P6-5-11. [frq, 3 pt] Interpret the chi-square value for this outbreak at α = 0.05 and by referencing the table provided.
+    [IMAGE: ../images/2026_gullso_invitational_c__p11_9aeab0-5ca9da8a.webp]

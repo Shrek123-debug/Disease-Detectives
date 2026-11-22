@@ -1,0 +1,290 @@
+South Forsyth — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  48 questions, 104.0 pts
+Source: scio.ly test archive id 6c488816-ceec-4bc3-9257-01f1a2fa639c  |  original files: https://drive.google.com/drive/folders/1JkXVblj2xcGGItGKBwH_5UamuJvlrBnJ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Science Olympiad South Forsyth Invitational
+
+October 12, 2019
+
+Test Length: 50 Minutes
+
+
+=== Part ONE: Background and Surveillance ===
+
+[STIMULUS] Match the vocabulary words to their definitions
+
+a. Infectivity
+b. Disease
+c. Virulence
+d. Contagious
+e. Pathogenicity
+f. Infectious
+g. Infection
+
+1. [mcq, 1 pt] A disease that can easily spread from one person to the next:
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+2. [mcq, 1 pt] The invasion of a living organism, the host, by another living organism, the agent
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+3. [mcq, 1 pt] The derangement in the function of the whole body of the host or any of its parts
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+4. [mcq, 1 pt] A measure of the severity of a disease caused by a specific agent
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+5. [mcq, 1 pt] The measure of the ability of a disease agent to establish itself in the host
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+6. [mcq, 1 pt] A disease that can not usually transfer directly from person to person, but can cause disease using other modes of transmission
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+7. [mcq, 1 pt] The ability of a particular agent to produce disease in a range of hosts under a range of environmental conditions: pathogenicity
+    A) Infectivity
+    B) Disease
+    C) Virulence
+    D) Contagious
+    E) Pathogenicity
+    F) Infectious
+    G) Infection
+
+[STIMULUS] Match the patterns of disease to the correct description
+
+a. Pandemic
+b. Sporadic
+c. Outbreak
+d. Cluster
+e. Epidemic
+f. Endemic
+
+8. [mcq, 1 pt] 22 cases of legionellosis occurred within 3 weeks among residents of a particular neighborhood (usually 0 to 1 per year)
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+9. [mcq, 1 pt] Over 20 million people worldwide died from influenza in 1918-1919
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+10. [mcq, 1 pt] A single case of histoplasmosis was diagnosed in a community due to seasonal fungal spores
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+11. [mcq, 1 pt] 364 cases of pulmonary tuberculosis per 100,000 population occurred in a country, when the year prior there were only 34 cases per 100,000 population that occurred in the same country
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+12. [mcq, 1 pt] About 60 cases of strep throat are usually reported in this region per week, slightly lower than the national average
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+13. [mcq, 1 pt] 10 cases of salmonella infection occurred in visitors who attended a city's farmers market on July 20th (expected numbers unknown)
+    A) Pandemic
+    B) Sporadic
+    C) Outbreak
+    D) Cluster
+    E) Epidemic
+    F) Endemic
+
+[STIMULUS] Use FIGURE A to answer the following questions
+    [IMAGE: ../images/2020_south_forsyth_c__d_13f18e-f1408fd0.webp]
+
+14. [frq, 1 pt] What epidemiologic model is being represented in Figure A?: ____
+
+15. [frq, 1 pt] Onset of symptoms: ____
+
+16. [frq, 1 pt] Usual time of diagnosis: ____
+
+17. [frq, 1 pt] Exposure: ____
+
+18. [frq, 1 pt] Incubation Period is from ____ to ____
+
+19. [frq, 1 pt] Early detection possible due to pathologic changes: ____
+
+20. [frq, 2 pt] In non-infectious diseases, instead of using the term “incubation period” we would use the term: ____
+
+[STIMULUS] Fill in the Chain of Infection:
+    [IMAGE: ../images/2020_south_forsyth_c__d_0d96c8-34d9ceb8.webp]
+
+27. [frq, 2 pt] Concerning modes of transmission, describe the other type of direct contact other than actual person to person contact.
+
+28. [frq, 6 pt] List and explain the three types of indirect contact:
+
+29. [frq, 2 pt] Explain the difference between active and passive surveillance
+
+30. [frq, 5 pt] Name the five steps of surveillance in order:
+
+
+=== PART TWO: Outbreak Investigation ===
+
+31. [frq, 8 pt] Put the following steps of an outbreak in order:
+    
+    A. ____: Develop hypotheses
+    B. ____: Perform Descriptive Epidemiology
+    C. ____: Establish outbreak and Verify Diagnosis
+    D. ____: Initiate and maintain surveillance
+    E. ____: Construct a Working Case Definition
+    F. ____: Implement control and prevention measures
+    G. ____: Find cases and record information
+    H. ____: Evaluate hypothesis epidemiologically
+
+32. [frq, 1 pt] What are the main components of a case definition?
+
+33. [frq, 4 pt] Name 4 of the Bradford Hill Criteria:
+
+[STIMULUS] Match the description to the type of study and the formula you would use in the study:
+
+a. Experimental
+b. Case-Control
+c. Cohort
+d. Cross Sectional
+
+34. [mcq, 1 pt] Uses Relative Risk
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+35. [mcq, 1 pt] Can include therapeutic and preventative trails
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+36. [mcq, 1 pt] Follows a population over time, some of which are exposed, other who are not, and tracks those who become cases and who do not.
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+37. [mcq, 1 pt] Measures statistics and exposures/disease at one single point in time (simultaneously)
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+38. [mcq, 1 pt] Uses Odds Ratio
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+39. [mcq, 1 pt] Compares people who have the disease with people who do not, attempts to determine the cause by looking at past exposures.
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+40. [mcq, 1 pt] Credibility of causal inferences relies upon randomization (to reduce confounding) and “blind” groups (to reduce bias).
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+41. [mcq, 1 pt] Because causal inference cannot be made (what came first, exposure or disease), usually only uses prevalence.
+    A) Experimental
+    B) Case-Control
+    C) Cohort
+    D) Cross Sectional
+
+[STIMULUS] In September 14, 2013, the CDC launched an investigation to determine the cause of a multistate outbreak of West Nile Fever. CDC medical officials identified 27 patients between the ages of 18-55 who had developed fever and two or more of the following symptoms: body ache/pain, headache, skin rash or swollen lymph nodes. Cases appeared in New York State, Connecticut, and Massachusetts. 25 of 27 patients agreed to interviews with CDC Officials in order to determine the cause of the illness.
+
+42. [frq, 2 pt] What kind of disease is West Nile? What is it caused by?
+
+43. [frq, 3 pt] Name 3 diseases that are transmitted the same way as West Nile.
+
+44. [frq, 2 pt] What type of case study would best be used to determine the cause of the disease? Why?
+
+[STIMULUS] FIGURE B: Acute Gastrointestinal Outbreak Cases at Borderview Nursing Home during the “Spring with Seniors” Family Event (4/18)
+    [IMAGE: ../images/2020_south_forsyth_c__d_c512f3-94010800.webp]
+
+45. [frq, 1 pt] FIGURE B is referred to as a: ____
+
+47. [frq, 4 pt] Write a case definition using the information you have gathered from FIGURE B
+
+48. [frq, 5 pt] Using the information from FIGURE B calculate the odds ratio to determine which food item, chocolate ice cream or vanilla ice cream, was most likely to cause illness. (Appropriate 2 x 2s) for full points.
+
+
+=== Part THREE: Patterns, Controls, and Prevention ===
+
+[STIMULUS] Identify what type of epidemic pattern is illustrated within each epicurve (one point each):
+    [IMAGE: ../images/2020_south_forsyth_c__d_0ee1e8-d5ace7e6.webp]
+
+[STIMULUS] Mononucleosis is caused by a virus that can spread through person to person contact and vehicles in contact with saliva (food, water bottles, makeup, etc.). Mono is often spread easily within adolescent populations. School administrators have noticed an alarming surge in mono cases. School officials want to limit the spread of mono within the 175 student population, so the school nurse began monitoring the number of cases and collected the following data.
+    | Week | New Cases of Mononucleosis |
+    | 1 | 9 |
+    | 2 | 17 |
+    | 3 | 46 |
+    | 4 | 5 |
+
+53. [frq, 1 pt] Calculate the RATE of new cases. (one point)
+
+54. [frq, 4 pt] Calculate the Prevalence for weeks 1-4 separately. Express the rates as decimals and then convert to percentages
+
+[STIMULUS] 
+    [IMAGE: ../images/2020_south_forsyth_c__d_7f56ce-fdda9428.webp]
+
+55. [frq, 16 pt] Using the data above calculate the incidence of Measles (rate per week) between January,1,2016 to December, 31, 2016 in the United States for each age group. Include units in your final answer.
+
+56. [frq, 2 pt] Calculate the crude attack rate of Measles in the United States
+
+57. [frq, 2 pt] What age group has the greatest incidence rate? Give a possible reason why
+
+58. [frq, 2 pt] Explain how herd immunity can work to prevent the spread of Measles.
+
+59. [frq, 3 pt] Name the levels of prevention

@@ -1,0 +1,510 @@
+Columbia Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  53 questions, 139.0 pts
+Source: scio.ly test archive id d771a2c5-175d-41a3-8822-884e7cdf92e0  |  original files: https://drive.google.com/drive/folders/1U_83pft8DJMgjFhUgGlNx3-RODVYWi3R
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+
+=== Match the definition letter to the best term. Each definition is used only once. ===
+
+[STIMULUS] a. an infectious disease that is transmissible from animals to humans
+
+b. a living intermediary that carries an agent from a reservoir to a susceptible host
+
+c. any indication of disease noticed or felt by a patient
+
+d. the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+
+e. capable of being transmitted from one person to another by contact or close proximity
+
+f. an epidemic over a widespread area and usually affecting a substantial portion of the population.
+
+g. the occurrence of more cases of disease than expected in a given area or group in a time period.
+
+h. a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+
+i. The number of new cases of a disease occurring in a specified population within a specified time period.
+
+j. The number of existing cases of a disease occurring in a specified population.
+
+k. the time interval from exposure to an infectious agent to the onset of symptoms
+
+l. the ability of an agent to cause disease after infection
+
+m. an inanimate object that can be the vehicle for transmission of an infectious agent
+
+n. a type of epidemiologic database, similar to a spreadsheet
+
+o. the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+
+p. death
+
+q. disease
+
+1. [mcq, 2 pt] ____ herd immunity
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+2. [mcq, 2 pt] ____ incubation period
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+3. [mcq, 2 pt] ____ line listing
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+4. [mcq, 2 pt] ____ prevalence
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+5. [mcq, 2 pt] ____ incidence
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+6. [mcq, 2 pt] ____ morbidity
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+7. [mcq, 2 pt] ____ symptom
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+8. [mcq, 2 pt] ____ contagious
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+9. [mcq, 2 pt] ____ confounding
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+10. [mcq, 2 pt] ____ mortality
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+11. [mcq, 2 pt] ____ epidemic
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+12. [mcq, 2 pt] ____ pandemic
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+13. [mcq, 2 pt] ____ virulence
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+14. [mcq, 2 pt] ____ zoonoses
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+15. [mcq, 2 pt] ____ fomite
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+16. [mcq, 2 pt] ____ vector
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+17. [mcq, 2 pt] ____ epidemic curve
+    A) an infectious disease that is transmissible from animals to humans
+    B) a living intermediary that carries an agent from a reservoir to a susceptible host
+    C) any indication of disease noticed or felt by a patient
+    D) the resistance to an infectious agent of an entire group or community as a result of a substantial proportion of the population being immune to the agent
+    E) capable of being transmitted from one person to another by contact or close proximity
+    F) an epidemic over a widespread area and usually affecting a substantial portion of the population.
+    G) the occurrence of more cases of disease than expected in a given area or group in a time period.
+    H) a histogram displaying the course of an outbreak by plotting the number of cases by time of onset.
+    I) The number of new cases of a disease occurring in a specified population within a specified time period.
+    J) The number of existing cases of a disease occurring in a specified population.
+    K) the time interval from exposure to an infectious agent to the onset of symptoms
+    L) the ability of an agent to cause disease after infection
+    M) an inanimate object that can be the vehicle for transmission of an infectious agent
+    N) a type of epidemiologic database, similar to a spreadsheet
+    O) the distortion of the association between an exposure and a health outcome by a third variable that is related to both.
+    P) death
+    Q) disease
+
+
+=== Label each as either (D) for Direct or (I) for Indirect contact of disease transmission. ===
+
+18. [mcq, 1 pt] ____ Hookworm from soil
+    A) Direct
+    B) Indirect
+
+19. [mcq, 1 pt] ____ Lyme from ticks
+    A) Direct
+    B) Indirect
+
+20. [mcq, 1 pt] ____ Cholera from water
+    A) Direct
+    B) Indirect
+
+21. [mcq, 1 pt] ____ Mononucleosis from kissing
+    A) Direct
+    B) Indirect
+
+22. [mcq, 1 pt] ____ Pertussis from sneezing
+    A) Direct
+    B) Indirect
+
+23. [mcq, 1 pt] ____ Measles from suspended airborne droplets
+    A) Direct
+    B) Indirect
+
+24. [mcq, 1 pt] ____ Botulism from a can
+    A) Direct
+    B) Indirect
+
+[STIMULUS] On December 28, 2017, CDC put out a media statement. They, with State and Local Health Agencies, are investigating an outbreak of Shiga toxin-producing *E. coli O157:H7* infections. There are 17 cases in 13 states with onset dates between November 15th and December 8th. The Public Health Agency of Canada is also investigating an outbreak in Canada.
+
+25. [frq, 3 pt] The main way that local public health officials find the cause of *E. coli O157:H7* infections is by asking the infected people what they ate within ____ days before they got sick.
+
+26. [mcq, 2 pt] The CDC Media statement said that whole DNA genome sequencing was being performed on samples of the bacteria making people sick in the United States. What reason did they give for doing the sequence?
+    A) “[T]o give us information about whether these illnesses are related to the illnesses in Canada.”
+    B) “[T]o compare the bacteria’s polypeptides for possible gene splicing immunizations.”
+    C) “[T]o give us information in ascertaining that the infection is *E. coli O157:H7*.”
+    D) “[T]o obtain the bacteria’s mitochondria levels and ascertain the infection’s virulence.”
+
+27. [frq, 4 pt] Based on your answer above, how would the genome sequencing help CDC?
+
+28. [frq, 3 pt] The diagram below (of an earlier outbreak of *E. coli O157:H7*) is called a(n) ____.
+    [IMAGE: ../images/columbia_invitational__d_02de54-efaad0c1.webp]
+
+
+=== Label the 5 different study examples with their unique study type of Case-Control (CA), Cohort (CO), Cross Sectional (CR), Ecological (E), and Interventional (I). ===
+
+29. [mcq, 3 pt] ____ A comparison of obesity rates in France versus the United States.
+    A) Case-Control
+    B) Cohort
+    C) Cross Sectional
+    D) Ecological (E)
+    E) Interventional (I)
+
+30. [mcq, 3 pt] ____ A study following Doctors who smoke and don’t smoke over many years to see who acquires cancer.
+    A) Case-Control
+    B) Cohort
+    C) Cross Sectional
+    D) Ecological (E)
+    E) Interventional (I)
+
+31. [mcq, 3 pt] ____ A study of the various foods eaten by sick and healthy individuals at a restaurant where an outbreak occurred.
+    A) Case-Control
+    B) Cohort
+    C) Cross Sectional
+    D) Ecological (E)
+    E) Interventional (I)
+
+32. [mcq, 3 pt] ____ A study of the current prevalence rates of cancer among those who use cell phones and those who do not.
+    A) Case-Control
+    B) Cohort
+    C) Cross Sectional
+    D) Ecological (E)
+    E) Interventional (I)
+
+33. [mcq, 3 pt] ____ A study of reported bike accident injuries between a State whose Health Department mandates helmets and another State that does not.
+    A) Case-Control
+    B) Cohort
+    C) Cross Sectional
+    D) Ecological (E)
+    E) Interventional (I)
+
+34. [mcq, 2 pt] In Epidemiological, the concern of an ***Analytic*** Study that is only tangential of a Descriptive Study is: ____
+    A) Time, Place, and Person
+    B) Causation
+    C) Associations
+    D) A 2 x 2 table
+
+[STIMULUS] Name the three links in the Chain of Infection and for each give an example of an action that may be recommended by a Health Organization to lessen the spread of infection.
+
+35b. [frq, 4 pt] Name the first link in the Chain of Infection and give an example action for it:
+
+36b. [frq, 4 pt] Name the second link in the Chain of Infection and give an example action for it:
+
+37b. [frq, 4 pt] Name the third link in the Chain of Infection and give an example action for it:
+
+38. [mcq, 2 pt] Which of the following would be ***least*** likely to be part of a multidisciplinary disease detective team?
+    A) Epidemiologist
+    B) Lab Technician
+    C) Computer Analyst
+    D) Geologist
+
+39. [frq, 3 pt] How often does a new MMWR come out?
+
+40. [frq, 3 pt] Who puts out the MMWR?
+
+44. [frq, 3 pt] Which disease can have symptom onset in just 1 hour after eating?
+
+45. [frq, 3 pt] The *Vibrio parahaemolyticus* infection comes from eating ____
+
+46. [frq, 3 pt] The leading cause of illness and outbreaks from contaminated food in the US is ____
+
+47. [frq, 3 pt] A disease that may cause bloody diarrhea is ____
+
+
+=== A Hypothetical Outbreak (Give final answers to the nearest 10th) ===
+
+[STIMULUS] A Hepatitis A outbreak occurred sickening 15 people at a catered wedding rehearsal. There were only two main entrees of hamburgers and shellfish with a dessert of various fresh fruits.
+
+The common foods ate by the 15 who were infected were 11 who ate the hamburger entrée with 10 eating the lettuce garnishment; for dessert the common fruit eaten was grapes by 13 infected people. For the 55 who did not get sick the numbers were 40 who ate the hamburgers, 25 who ate the lettuce, and everyone ate the grapes.
+
+Do a 2 x 2 table and give the Odds Ratio for each item.
+
+48. [frq, 4 pt] Hamburger 2 x 2 table:
+
+49. [frq, 4 pt] Hamburger Odds Ratio:
+
+50. [frq, 4 pt] Lettuce 2 x 2 table:
+
+51. [frq, 4 pt] Lettuce Odds Ratio:
+
+53. [frq, 6 pt] Grapes Odds Ratio:
+
+54. [frq, 4 pt] What conclusion of cause would you come to based on what the odds show?
+
+55. [frq, 4 pt] How would the absence of a control group affect your conclusion?
+
+56. [mcq, 3 pt] About how long after the Wedding Rehearsal would the outbreak be known?
+    A) 1 day
+    B) 3 days
+    C) 1 week
+    D) 1 month
+
+57. [frq, 4 pt] Let’s switch gears and say that the suspected food item had similar distributions from the same producer and lot checked and no contamination was found. Since it is Hepatitis A what would you check next? Note: this would probably be checked first in real life.

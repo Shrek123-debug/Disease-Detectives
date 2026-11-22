@@ -1,0 +1,355 @@
+Dick Smith Memorial (DSM) — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  80 questions, 200.0 pts
+Source: scio.ly test archive id e74c55a7-ef85-48fe-b5c7-c79b45bf2f7f  |  original files: https://drive.google.com/drive/folders/1j30sISntdLIAfG-z73BFVTv12ff-UZZ_
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: Please read all questions carefully, paying special attention to any negatives (ie. NOT) in the questions and/or answers. For open-ended questions, unless you are explicitly asked to explain an answer, single words/phrases or bullets are acceptable. There is no need to write in full sentences. Be concise and answer only what is specifically asked of you.
+
+1. [mcq, 1 pt] Epidemiologists often break down surveillance data by age group. Which of the following classification systems is most preferred?
+    A) There is no uniform preferred grouping. It depends on the disease.
+    B) 6-month age groups
+    C) 1-year age groups
+    D) 5-year age groups
+    E) 10-year age groups
+
+2. [mcq, 1 pt] Why is William Farr considered the father of modern surveillance?
+    A) He was the first to explain disease occurrence from a rational, rather than a supernatural, perspective.
+    B) He led the first large-scale effort to systematically collect and analyze vital statistics (including, but not limited to, mortality data) to report to health authorities.
+    C) He published the first-known analysis of mortality data.
+    D) He conducted studies of cholera outbreaks in mid-1800s London and identified the cause as polluted water.
+    E) He was the first to extend epidemiological methods to non-infectious diseases.
+
+3. [mcq, 1 pt] The Tuskegee Syphilis Study is often cited as a major contributor to the erosion of the trust of the African-American population in public health authority. What aspect of syphilis were the researchers investigating during this 40-year-long longitudinal study?
+    A) Spectrum of Disease
+    B) Natural History of Disease
+    C) Appropriate Surveillance Strategies
+    D) Confounding Variables
+    E) Strategies of Disease Control
+
+4. [mcq, 1 pt] Which of the following statements about the Natural History of Disease is NOT true?
+    A) Researchers testing possible therapeutic interventions for a disease are studying the Natural History of Disease and applying it translationally to the clinical setting.
+    B) The placebo effect makes study of the Natural History of Disease difficult, as examination, diagnosis, and follow-up with a physician may lead to changes in behavior or cognitive state.
+    C) Follow-up cohort studies are a necessary step in ideally defining the Natural History of Disease.
+    D) The Natural History of Disease does not focus on the ways an exposure to a causative agent leads to variants and varying severity of the same disease.
+    E) Patterns of recurrence of a disease are commonly considered valuable components of the Natural History of Disease.
+
+5. [mcq, 1 pt] You are an epidemiologist studying the Natural History of Disease for a new prion disease in the Pennsylvania deer population. You find that exposure to the agent (the prion) seems to have no discernable effect on a subset of the deer population. You conclude that...
+    A) this type of response is not important, because Natural History of Disease is concerned only with disease progression in susceptible hosts.
+    B) this type of response is not important, because the level of exposure must have been too low.
+    C) this type of response is not important, because there is, strictly speaking, no true Natural History of Disease to be observed.
+    D) this type of response is important, because the illness must have been rapidly contained by the deer's immune system.
+    E) this type of response is important, because it may elucidate how to protect at-risk individuals with similar exposure who are more susceptible to symptomatic illness.
+
+6. [frq, 4 pt] Name 2 alterations to the Natural History of Disease that could change the Population Pattern of Disease
+
+7. [mcq, 1 pt] Which of the following is NOT one of the commonly-used criteria for a screening program (a public health program designed to identify and begin treatment for diseases early in their Natural History or of low severity in the Spectrum of Disease)?
+    A) Is there an accepted treatment for individuals with the disease?
+    B) Is there a prior understanding of the Natural History of Disease for this specific condition?
+    C) Is the cost of case-finding through screening a rational expenditure?
+    D) Is there an agreed-upon public health policy outlining which patients to treat (a public health triage system)?
+    E) Is there no latent or early symptomatic stage of disease?
+
+8. [frq, 2 pt] Which type of surveillance is described here?
+    The PA State Department of Health traps a subset of the mosquito population in each county every summer to test for prevalence of Eastern Equine Encephalitis virus.
+
+9. [frq, 2 pt] Which type of surveillance is described here?
+    Patients on a cruise ship begin to reports symptoms of gastrointestinal distress after the Captain's Birthday Bash. Even though he does not have access to diagnostic equipment, the ship's physician asks every passenger and crew member to fill out a survey describing his or her symptoms and whereabouts on the ship over the last 3 days.
+
+10. [frq, 2 pt] Which type of surveillance is described here?
+    Every month, all hospitals in Allegheny County are asked to report the number of infants born in their maternity ward, the number of cases of vertical transmission of Group B Streptococcus, and the number of those cases that led to neonatal sepsis and/or meningitis.
+
+11. [mcq, 1 pt] Which of the following is NOT a true statement about the agent/host/environment triad?
+    A) Environmental factors may be physical, biological, or socioeconomic.
+    B) Risk factors are factors intrinsic to a host which influence its exposure, susceptibility, and response to a particular agent.
+    C) An agent may be an infectious microorganism or pathogen, chemical contaminant, or physical force.
+    D) Cardiovascular disease is well-characterized by the agent/host/environment triad.
+    E) Malaria is well-characterized by the agent/host/environment triad.
+
+12. [mcq, 1 pt] The Centers for Disease Control and Prevention attempt to solve health problems via the...
+    A) Clinical Approach
+    B) Epidemiological Approach
+    C) Public Health Approach
+    D) Prevention Approach
+    E) Observational Approach
+
+13. [frq, 4 pt] The approach used by the CDC referenced in the previous question has 4 steps in its attempt to solve public health problems. Name all 4 steps in the correct order.
+
+14. [multi, 1 pt] Which questions do analytical studies attempt to answer?
+    A) Who?
+    B) What?
+    C) When?
+    D) Where?
+    E) Why?
+    F) How?
+
+15. [multi, 1 pt] Which questions do descriptive studies attempt to answer?
+    A) Who?
+    B) What?
+    C) When?
+    D) Where?
+    E) Why?
+    F) How?
+
+16. [mcq, 1 pt] Which of the following is a correct statement about vectors, fomites, and vehicles?
+    A) Vectors and vehicles are both living, while fomites are non-living.
+    B) All fomites are vehicles, but not all vehicles are fomites.
+    C) A vehicle transmits an infectious agent from person to person.
+    D) An example of a vector is a hairbrush with lice on its bristles shared by a group of college roommates.
+    E) A fomite transmits an infectious disease from a host to a reservoir.
+
+17. [mcq, 1 pt] Which of the following is the correct order of disease occurrence, from smallest (most localized) to largest (most expansive)?
+    A) epidemic, cluster, outbreak, pandemic
+    B) cluster, outbreak, pandemic, epidemic
+    C) cluster, outbreak, epidemic, pandemic
+    D) outbreak, cluster, pandemic, epidemic
+    E) outbreak, cluster, epidemic, pandemic
+
+18. [frq, 4 pt] Define etiology. Why would an epidemiologist find it useful to investigate etiology?
+
+19. [frq, 4 pt] Define index case. Why would an epidemiologist find it useful to consider the index case in a study of etiology?
+
+20. [frq, 6 pt] Define isolation. Define quarantine. What is the difference between the two public health practices?
+
+21. [mcq, 1 pt] Which of the following statements about signs and symptoms is true?
+    A) All symptoms are signs, but not all signs are symptoms.
+    B) Signs are subjective, while symptoms are objective.
+    C) When an OB/GYN asks a pregnant woman if she has experienced nausea, he is asking about a symptom.
+    D) When a emergency room physician asks a patient if he has gastrointestinal distress, he is asking about a sign.
+    E) When a radiologist notices an abnormality on an MRI scan, he has identified a symptom.
+
+22. [mcq, 1 pt] Which of the following statements about pathognomonic signs is NOT true?
+    A) Pathognomonic signs are useful in the clinical approach as disease identifiers.
+    B) An example of a pathognomonic sign is resting tremor in Parkinson's disease.
+    C) Determining whether a given sign is truly pathognomonic is based on an individual patient's medical history.
+    D) Very few infectious diseases are characterized by a single pathognomonic sign.
+    E) It is more common for a disease to be identified by a pathognomonic result of a medical test than for a disease to be identified by a pathognomonic sign.
+
+23. [mcq, 1 pt] What type of vector is most closely described here?
+    
+    Matt received a positive COVID-19 test result 3 days ago. Six days ago, Matt's roommate tested positive for COVID-19. Five days ago, Matt attended an indoor symphony concert and woke up the next morning with a fever, sore throat, and runny nose.
+    A) convalescent vector
+    B) incubatory vector
+    C) chronic vector
+    D) genetic vector
+    E) transient vector
+
+24. [mcq, 1 pt] What type of vector is most closely described here?
+    
+    Jack and Jill are newlyweds hoping to have their first child together. Jack knows that he carries one copy of the cystic fibrosis transmembrane conductance regulator (CFTR) mutation.
+    A) convalescent vector
+    B) incubatory vector
+    C) chronic vector
+    D) genetic vector
+    E) transient vector
+
+25. [mcq, 1 pt] What type of vector is most closely described here?
+    
+    Hannah tested positive for COVID-19 six days ago. After having a 101° fever, cough, sore throat, and runny nose for four days, her symptoms seem to have subsided this morning. She decides to go to her friend's house to celebrate Friendsgiving tonight.
+    A) convalescent vector
+    B) incubatory vector
+    C) chronic vector
+    D) genetic vector
+    E) transient vector
+
+26. [mcq, 1 pt] Which type of vector is most closely described here?
+    
+    An individual with HIV takes antiretroviral therapy daily as prescribed but occasionally experiences viral load 'blips.'
+    A) convalescent vector
+    B) incubatory vector
+    C) chronic vector
+    D) genetic vector
+    E) transient vector
+
+27. [mcq, 1 pt] Which type of vector is most closely described here?
+    
+    An individual with HIV is prescribed daily antiretroviral therapy but decides not to take it only intermittently due to the side effects or prohibitive cost.
+    A) convalescent vector
+    B) incubatory vector
+    C) chronic vector
+    D) genetic vector
+    E) transient vector
+
+28. [frq, 2 pt] Name the most common portal of entry.
+
+29. [frq, 6 pt] Name the three (3) most common portals of exit.
+
+30. [frq, 4 pt] What is the difference between infectivity and pathogenicity?
+
+31. [frq, 4 pt] What is the difference between pathogenicity and virulence?
+
+32. [mcq, 1 pt] Which of the following is a correct statement about the involvement of droplets in disease transmission?
+    A) Droplets are implicated in both direct transmission (via droplet nuclei) and indirect transmission (via droplet spread).
+    B) Droplets are implicated in both direct transmission (via droplet spread) and indirect transmission (via droplet nuclei).
+    C) Droplets are implicated in only direct transmission, through droplet spread.
+    D) Droplets are implicated in only direct transmission, through droplet nuclei.
+    E) Droplets are implicated in only indirect transmission, through droplet spread.
+
+33. [mcq, 1 pt] Which of the following is NOT a correct statement about modern factors contributing to the emergence of vector-borne infections?
+    A) The increased ease and frequency of global travel allow infected persons to efficiently spread an infection to a new area.
+    B) Rapid urbanization in the major cities of the tropics has created slums characterized by extreme density of human populations.
+    C) The profusion of nonbiodegradable containers has limited breeding sites for mosquitoes in proximity to large human populations.
+    D) Building large dams and water projects provides new breeding sites for mosquito vectors.
+    E) Climate change may expand the geographic range in which mosquito-borne illnesses are endemic due to the creation of new warm-water breeding grounds,
+
+34. [mcq, 1 pt] Which of the following statements about the reproductive number (R) is NOT true?
+    A) The reproductive number is the number of secondary cases expected to be caused by a single, typical infected individual in a population with some level of susceptibility.
+    B) The reproductive number is the primary metric used to quantify the transmission of a disease in infectious disease dynamics.
+    C) The reproductive number changes over time based on population susceptibility.
+    D) Vaccination is one factor that may alter the reproductive number.
+    E) The speed of growth of an outbreak is directly linked to the basic reproductive number in a unifactorial manner.
+
+35. [mcq, 1 pt] Which statement identifies the correct epidemiological approach to calculating herd immunity?
+    A) Based on the relationship between susceptibility and pathogenicity, epidemiologists can calculate the proportion of the population that must be immune for herd immunity to occur.
+    B) Based on the relationship between susceptibility and the reproductive number, epidemiologists can calculate the proportion of the population that must be immune for herd immunity to occur.
+    C) Based on the relationship between pathogenicity and the reproductive number, epidemiologists can calculate the proportion of the population that must be immune for herd immunity to occur.
+    D) Based on the relationship between the serial interval and the reproductive number, epidemiologists can calculate the proportion of the population that must be immune for herd immunity to occur.
+    E) The critical vaccination threshold is one variable epidemiologists can use to calculate the proportion of the population that must be immune for herd immunity to occur.
+
+36. [mcq, 1 pt] Which of the following is a correct epidemiological interpretation of a herd immunity calculation?
+    A) Herd immunity is achieved if and only if the reproductive number is less than 1.
+    B) Herd immunity is achieved if and only if the reproductive number is equal to 1.
+    C) Herd immunity may be achieved if the reproductive number is less than 1 but is also used to refer to the protection that susceptible individuals in the population get from the immunity of others, regardless of the reproductive number.
+    D) Herd immunity may be achieved if the reproductive number is greater than 1 but is also used to refer to the protection that susceptible individuals in the population get from the immunity of others, regardless of the reproductive number.
+
+37. [mcq, 1 pt] Which of the following was NOT one of Koch's postulates for establishing the etiology of infectious disease?
+    A) The microorganism must be found in all cases of the disease, but must not be found in those not suffering from the disease.
+    B) The microorganism should be isolated from a diseased body and should be grown in vitro and in pure culture for several generations.
+    C) When the organism from a pure culture is introduced into a healthy body or animal, the typical disease must be the result.
+    D) The same organism must then be reisolated from the lesion/animal of such an experimentally caused disease.
+    E) All of the above are true statements of Koch's postulates.
+
+[STIMULUS] Questions 39-68 refer to the following scenario:
+
+A renewable energy company based in Oslo, Norway, also has operational locations in South Africa. Recently, a group of employees traveled to South Africa from Norway to perform a routine inspection of the facility in Johannesburg, South Africa, before returning to Norway on November 22. The company held its annual Christmas party indoors on November 26 and all of the employees who had traveled to South Africa were in attendance. Guests were vaccinated and tested before the party, and yet the gathering has turned into one of the largest COVID-19 Omicron variant "super-spreaders" outside of South Africa, where this new variant recently originated. More than half of the attendees have already tested positive for COVID-19, and further testing is necessary to determine whether or not these cases are Omicron variant-related. You are an epidemiologist who has been hired by the renewable energy company to analyze the outbreak.
+
+39. [mcq, 1 pt] What type of epidemiological study will you be performing?
+    A) observational study
+    B) experimental study
+    C) hybrid study
+
+40. [frq, 3 pt] Is it appropriate to label the group of COVID-19 cases an outbreak, or is "cluster" a more appropriate label? Explain your rationale.
+
+41. [frq, 4 pt] The energy company asks you to identify the index case so that their administrators can look into whether the employee followed all proper COVID precautions while performing job duties. You tell them this may be difficult to reliably ascertain. What is an "index case," and why might it be difficult to ascertain in this scenario?
+
+42. [frq, 4 pt] After looking at the seating chart of the company Christmas party, the planners identify attendees they consider to have been exposed to the employees who traveled to South Africa as those who were **seated at dinner** (when guests were unmasked) within 15 feet of the employees who traveled to South Africa. After receiving testing results, the company gives you the following 2x2 table:
+    
+    | | COVID-19 Positive | COVID-19 Negative |
+    |---|---|---|
+    | Exposed | 108 | 96 |
+    | Not Exposed | 55 | 102 |
+    
+    Based on the above table, will you be performing a case-control study, a cohort study, or a randomized controlled trial? Why?
+
+43. [frq, 4 pt] Name 1 advantage and 1 disadvantage of a case-control study.
+
+44. [frq, 4 pt] Name 1 advantage and 1 disadvantage of a cohort study.
+
+45. [numeric, 2 pt] Based on the Table in Question 42, calculate the attack rate in the exposed guests, to the nearest hundredth of a percent.
+
+46. [numeric, 2 pt] Based on the Table in Question 42, calculate the attack rate in the non-exposed guests, to the nearest hundredth of a percent.
+
+48. [numeric, 2 pt] Based on the table in Question 42, calculate the relative risk to the nearest hundredth.
+
+50. [numeric, 2 pt] The energy company gives you another exposure definition to try. Every year at the company Christmas party, they host a large gift exchange. Each employee brings a gift and place it under a Christmas tree in the middle of the room. When the first Christmas carol comes over the loudspeakers, all employees rush to the tree and grab the first present they can obtain. This usually results in some broken limbs, bruised knees, and even more bruised feelings, but it's tradition! Some of the older employees decided to sit out of this tradition this year, citing mobility concerns and general caution about diving into the pile of gift-grabbers this year. All employees who traveled to South Africa participated in the tradition. This exposure definition considers exposed individuals to be those who **participated in the gift-grabbing tradition**. Consider the 2x2 table below:
+    
+    | | COVID-19 Positive | COVID-19 Negative |
+    |---|---|---|
+    | Exposed | 85 | 139 |
+    | Not Exposed | 78 | 59 |
+    
+    Calculate the attack rate for exposed individuals in the above chart, to the nearest hundredth of a percent.
+
+51. [numeric, 2 pt] Based on the table in Question 50, calculate the attack rate for the non-exposed individuals, to the nearest hundredth of a percent.
+
+53. [numeric, 2 pt] Based on the table in Question 50, calculate the relative risk, to the nearest hundredth.
+
+55. [frq, 4 pt] The energy company officials ask you if they should consider participating in a gift-grabbing tradition to be a way to decrease one's risk of contracting COVID-19. Define confounding variable. Identify one confounding variable that makes this an unreliable conclusion.
+
+56. [numeric, 2 pt] WAIT! The energy company just remembered one other party tradition they want you to consider as a source of exposure. Every year, the two 50-member company Christmas choirs -the Holly Hollerers and the Norwegian Nutcrackers--have a Christmas carol sing-off. They stand on choir risers on opposite sides of the stage of the banquet hall and take turns singing carols. The other party attendees serve as judges. This year, the choir members took off their masks to sing so that the microphones could pick up their sound more clearly (anything to get a competitive edge!). They were shoulder-to-shoulder on the risers but more than 30 feet away from any of the other guests. This exposure definition considers exposed individuals to be those who are **members of the company Christmas choirs**. Consider the 2x2 table below:
+    
+    | | COVID-19 Positive | COVID-19 Negative |
+    |---|---|---|
+    | Exposed | 86 | 14 |
+    | Not Exposed | 77 | 184 |
+    
+    Calculate the attack rate for the exposed group in this new exposure definition, to the nearest hundredth of a percent.
+
+57. [numeric, 2 pt] Based on the table in Question 56, calculate the attack rate for the non-exposed individuals, to the nearest hundredth of a percent.
+
+58. [frq, 4 pt] Explain the attack rates calculated in Questions 56 and 57. What do they tell you? Is this what you would expect if participation in the company Christmas choirs was the only source of exposure?
+
+59. [numeric, 2 pt] Based on the table in Question 56, calculate the relative risk, to the nearest hundredth.
+
+60. [frq, 4 pt] Explain the relative risk calculated in Question 59. What does it tell you? What does it not tell you (ie. what is still uncertain)?
+
+61. [frq, 2 pt] Identify one limitation in the exposure group definition of participating in the company Christmas choirs. How does this obscure comparison of this exposure definition to the other two that the company has offered?
+
+62. [frq, 2 pt] What is 1 additional factor you would like to know about the non-exposed group in this exposure definition?
+
+63. [frq, 4 pt] Before you send information about your findings to the energy company and interested officials from the Norwegian government, you ask all company Christmas party attendees to undergo a round of COVID-19 testing with a "gold standard" testing kit to confirm the results of the initial rapid testing on which you have based your analysis. You are interested in the sensitivity and specificity of the initial rapid testing. What is the difference between these two metrics?
+
+64. [frq, 4 pt] The energy company is getting impatient. Which of these three exposure definitions, if any, do you find most plausible? Knowing the dynamics of a Christmas party, what are the limitations of these exposure definitions?
+
+65. [frq, 8 pt] Considering all three possible exposure definitions (exposures based on a specific feature of the company Christmas party), you have considered the "strength of association" criterion of Bradford Hill's Criteria for Verifying the Cause. Turning to the other 8 criteria, which of these Bradford Hill Criteria do they satisfy? Which do they fail to satisfy? Note: 1 point is earned for each of the remaining 8 criteria correctly identified AND placed in the proper category (satisfied vs. not satisfied).
+
+66. [numeric, 2 pt] Here are the results from the "gold standard" testing method:
+    
+    | | COVID-19 Positive Using "Gold Standard" Testing Kit | COVID-19 Negative Using "Gold Standard" Testing Kit |
+    |---|---|---|
+    | Guests Who Initially Tested Positive for COVID-19 | 133 | 30 |
+    | Guests Who Initially Tested Negative for COVID-19 | 45 | 153 |
+    
+    Calculate the sensitivity of the initial COVID-19 rapid testing, to the nearest hundredth.
+
+67. [numeric, 2 pt] Using the table in Question 66, calculate the specificity of the initial COVID-19 rapid testing, to the nearest hundredth.
+
+68. [frq, 2 pt] The initial rapid COVID-19 tests were performed by professionals and are marketed with a 95% sensitivity promise. Assuming the tests were administered properly and the samples were analyzed accurately, name two possible explanations for your sensitivity measurement of the initial COVID-19 rapid testing.
+
+69. [frq, 2 pt] Define prevalence. Name a scenario/condition for which it would be a more appropriate measurement than incidence.
+
+70. [frq, 2 pt] Define incidence. Name a scenario/condition for which it would be a more appropriate measurement than prevalence.
+
+[STIMULUS] Questions 71-85 refer to the following scenario:
+
+You have just been named the Commissioner of Public Health for Wobegon County. You walk into your office on Day 1 and receive news that the town is the subject of a federal investigation into its NICU infant mortality rate, the highest in the state. You immediately summon the chief medical officers from every hospital in the country and demand data from their labor & delivery, NICU, and emergency room units over the last 12 months. Your staff compiles the following table of infant deaths at each of the 4 hospitals:
+
+|  | January | February | March | April | May | June | July | August | September | October | November | December |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Lake Wobegon Lutheran Hospital | 0 | 0 | 1 | 0 | 2 | 2 | 2 | 2 | 0 | 1 | 1 | 2 |
+| St. Mary of the Lake Hospital | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+| Shady Pines Children's Hospital | 1 | 1 | 3 | 2 | 3 | 4 | 5 | 3 | 1 | 2 | 2 | 1 |
+| Green Acres Women's and Children's Hospital | 0 | 2 | 1 | 0 | 0 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |
+
+71. [frq, 2 pt] You also ask your staff to gain more information on each of these cases to break down the data by the age of the infant, age of the mother, race of the mother, socioeconomic status of the mother, average annual income of the family, and housing conditions of the family. Low socioeconomic status of the mother and poor housing conditions of the family (as characterized by metrics provided by the US Department of Housing and Urban Development) are often seen in cases of infant mortality. These are examples of what phenomenon?
+
+72. [frq, 2 pt] You are willing to work based on this data, but you want to verify that this table is including not only NICU nosocomial-infection-related deaths but also counting deaths occurring upon emergency room visit (ie. the result of a specific trauma, accident, etc.) and outside of the hospital setting altogether (ie. a team of paramedics from the hospital determined death on scene). What is a nosocomial infection?
+
+73. [frq, 2 pt] You are assured that this data includes all infant deaths from the calendar year. You read in an appendix to a recent MMWR issued by the CDC that the infant mortality rate in your state was 6.7 per 1,000 live births during the year in question. What is the MMWR?
+
+74. [numeric, 2 pt] There were 5,021 live births in Wobegon County during the year in question. Based on the table, calculate the infant mortality rate for Wobegon County as a whole (assuming the 4 hospitals have accurately recorded all infant deaths) for the year in question, in deaths per 1000 live births, to the nearest tenth.
+
+75. [mcq, 1 pt] Which hospital seems to have the worst record with respect to infant mortality rates?
+    A) Lake Wobegon Lutheran Hospital
+    B) St. Mary of the Lake Hospital
+    C) Shady Pines Children's Hospital
+    D) Green Acres Women's and Children's Hospital
+    E) There is not enough information to determine this.
+
+76. [frq, 6 pt] You receive a call from a family hoping to sue Shady Pines Children's Hospital for their failed disease control policies in the NICU. You caution the parents that infants in the NICU are already at high risk for nosocomial infections, so it will be difficult to prove the hospital's negligence. What are 3 reasons you give to explain the high risk of NICU patients?
+
+77. [frq, 2 pt] However, you had a feeling something was going on at Shady Pines based on the initial data your staff collected. You make a surprise inspection of the Shady Pines NICU and are informed that there are 3 infants in the NICU with Group B Streptococcus (GBS) infections after one known incident of vertical transmission of GBS. What is vertical transmission?
+
+78. [frq, 6 pt] With 1 incident of vertical transmission and 3 cases of neonatal GBS, it seems like Shady Pines Children's Hospital's disease control strategies are ineffective. What are 3 disease control transmission-based practices you expect the hospital staff to implement immediately to prevent further spread?
+
+79. [frq, 6 pt] What are 3 standard disease control precautions you would expect the hospital staff to take at all times, even without the immediate GBS concern?
+
+80. [frq, 2 pt] You get back to your office and read the latest bulletin on infant mortality from the CDC, which has now set a target of no more than 5.0 infant deaths per 1,000 live births. Wobegon County has a long way to go. You call the medical director of St. Mary on the Lake hospital and ask for advice. His hospital has had only 1 nosocomial-infection-related infant death in the last year (the rest were emergency room cases). He tells you that all of his hospital's neonatologists have been trained to perform regular NICU surveillance testing for all common nosocomial infections. This is an example of what level of disease prevention?
+
+81. [frq, 2 pt] He also tells you that one of his neonatologists is an MD-PhD who has recently developed and received a patent for a new PPE sterilization technique used by all of the hospital workers who come into contact with the infants in the NICU. This is an example of what level of disease prevention?
+
+82. [frq, 2 pt] Finally, he tells you that his neonatologists attempt to limit the number of invasive testing procedures they must perform by using a triadic approach of careful monitoring, physical therapy interventions, and pharmaceutical interventions. This is an example of which level of disease prevention?
+
+83. [frq, 4 pt] The medical director also expresses his concern about the emergency room infant deaths, especially those that peak in the summer. He identifies two common causes of infant mortality which he expects have the highest incidence rate in the summer months. What are they?
+
+84. [frq, 2 pt] You share his concerns, noting the rise in infant deaths at each of the 4 hospitals during the summer months. You tell him of your plans to initiate a public education campaign in the spring to raise awareness about this issue and offer educational materials and classes to interested parents. This is an example of which level of prevention?
+
+85. [frq, 10 pt] After 6 years on the job, you are able to reduce Wobegon County's infant mortality rate to 4.6 deaths per 1,000 live births. There is still more work to do, but this is an incredible accomplishment. You have now established a regular surveillance system in all 4 NICUs in the county, based on the 5 Step Process for Surveillance. Name each of the 5 Steps.

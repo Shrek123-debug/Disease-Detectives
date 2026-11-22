@@ -1,0 +1,370 @@
+Hawk and Hornet Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  57 questions, 73.0 pts
+Source: scio.ly test archive id 5abbe506-1cb1-484d-b733-afbdc1eb482b  |  original files: https://drive.google.com/drive/folders/1cZVE8xtgVZrh8nOsyyZMenTw8cvatutz
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 20
+
+DIRECTIONS: Points will not be deducted for rounding IF numbers are recognizable. To be safe, round to the nearest hundredth for questions. Partial credit will not be given for work.
+
+
+=== Section I: Background & Surveillance ===
+
+[STIMULUS] Match the following terms to the definitions to which they best correspond.
+
+a. Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+b. The number of cases of disease having their onset during a prescribed period of time.
+c. Diseases which can spread between people and animals
+d. An inanimate object that can be the vehicle for the transmission of an infectious agent.
+e. The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+ab. The probability that an event will occur.
+ac. Without apparent symptoms.
+ad. Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+ae. The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+1. [mcq, 1 pt] ____ Fomite.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+2. [mcq, 1 pt] ____ Host factor.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+3. [mcq, 1 pt] ____ Herd immunity.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+4. [mcq, 1 pt] ____ Incidence.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+5. [mcq, 1 pt] ____ Subclinical.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+6. [mcq, 1 pt] ____ Prevalence.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+7. [mcq, 1 pt] ____ Risk.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+8. [mcq, 1 pt] ____ Zoonosis.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+9. [mcq, 1 pt] ____ Efficacy.
+    A) Indirect protection from an infectious disease that happens when a population is immune either through vaccination or experience of a previous infection.
+    B) The number of cases of disease having their onset during a prescribed period of time.
+    C) Diseases which can spread between people and animals
+    D) An inanimate object that can be the vehicle for the transmission of an infectious agent.
+    E) The number of cases of a disease, number of infected people, or number of people with some other attribute present during a particular interval of time.
+    F) The probability that an event will occur.
+    G) Without apparent symptoms.
+    H) Items such as age, ethnicity, or behaviors which affect one's exposure, susceptibility, or response to an agent.
+    I) The ability of an intervention or program to produce the intended or expected results under ideal conditions.
+
+10. [tf, 1 pt] Receiving lyme disease from a tick bite is an example of a direct contact for disease transmission.
+    A) True
+    B) False
+
+11. [tf, 1 pt] One's BMI can be considered a continuous variable.
+    A) True
+    B) False
+
+12. [tf, 1 pt] Examples of enabling factors include poor nutrition and low income.
+    A) True
+    B) False
+
+13. [tf, 1 pt] Iatrogenic diseases are those caused by medical or diagnostic procedures.
+    A) True
+    B) False
+
+14. [tf, 1 pt] Falls are the current (2025) leading cause of death in the U.S.
+    A) True
+    B) False
+
+15. [mcq, 1 pt] Symptoms of bacterial foodborne illnesses may still be exhibited by individuals who eat food with no live bacterial populations. This is due to the presence of:
+    A) The placebo effect
+    B) Mycrotoxins
+    C) Enterotoxins
+    D) Vectors
+
+16. [mcq, 1 pt] National regulations which dictate the amount of acceptable heavy metals in certain foods is an example of:
+    A) Primary prevention
+    B) Secondary prevention
+    C) Tertiary prevention
+    D) Quaternary prevention
+
+17. [mcq, 1 pt] John Snow was an epidemiologist credited with the tracing of a ____ outbreak to a well in London.
+    A) Colitis
+    B) Salmonella
+    C) Cholera
+    D) Syphilis
+
+18. [mcq, 1 pt] Which of the following is not a component of the epidemiological triangle?
+    A) Host
+    B) Environment
+    C) Agent
+    D) Time
+
+19. [mcq, 1 pt] To what type of study is a McNemar test applicable to?
+    A) Cross-sectional
+    B) Case-control
+    C) Cohort
+    D) More than one of the above
+
+20. [mcq, 1 pt] What does VAERS stand for?
+    A) Vaccine Adverse Event Reporting System
+    B) Vector and Endemic Regulatory Sites
+    C) Veterans Affairs External Report System
+    D) Vaccine and Environment Repertoire Scale
+
+21. [mcq, 1 pt] What type of surveillance does VAERS utilize?
+    A) Active surveillance
+    B) Passive surveillance
+    C) Sentinel surveillance
+    D) Clinical surveillance
+
+23. [mcq, 1 pt] Subjects in an insomnia study act differently because they know they are being monitored. This is due to:
+    A) Interviewer bias
+    B) The Hawthorne effect
+    C) Selection bias
+    D) The placebo effect
+
+24. [mcq, 1 pt] This type of test is applicable to small samples (n < 30) to test for significant association between two categorical variables. It often involves a 2x2 contingency table.
+    A) Z-test
+    B) T-test
+    C) McNemar test
+    D) Fisher's Exact test
+
+25. [mcq, 1 pt] Measures designed to preserve health are known as:
+    A) Metaphalaxis
+    B) Epistaxis
+    C) Prophylaxis
+    D) Anaphylaxis
+
+26. [mcq, 1 pt] Latency describes the time between ____ and infectiousness.
+    A) Exposure
+    B) Display of symptoms
+    C) Incubation
+    D) None of the above
+
+27. [mcq, 1 pt] Who was responsible for first quantifying factors such as birth, death, and disease occurrence in 1662?
+    A) John Snow
+    B) John Graunt
+    C) William Farr
+    D) Irving Langmuir
+
+28. [mcq, 1 pt] Which of the following diseases is not bacterial in origin?
+    A) Botulism
+    B) Shigella
+    C) Histoplasmosis
+    D) MRSA
+
+29. [mcq, 1 pt] A certain experiment involves having anonymous test subjects randomly assigned to researchers who then administer placebo or a new drug X (the researchers are unaware of which they are administering). Raw data from this trial is then reported to another team of researchers who are not told about the experimental conditions present. In this case, this experiment is best described as:
+    A) Open
+    B) Single-blind
+    C) Double-blind
+    D) Triple-blind
+
+[STIMULUS] Match the following components of the chain of transmission to the example which they best exemplify
+
+a. Candida albicans (fungus).
+b. Healthcare workers who carry Candida on their skin.
+c. IV catheter insertion sites in healthy patients.
+d. Sweat containing Candida of infected healthcare workers.
+e. Contaminated medical equipment.
+ab. An immunocompromised patient in the ICU.
+
+30. [mcq, 1 pt] ____ Portal of entry.
+    A) Candida albicans (fungus).
+    B) Healthcare workers who carry Candida on their skin.
+    C) IV catheter insertion sites in healthy patients.
+    D) Sweat containing Candida of infected healthcare workers.
+    E) Contaminated medical equipment.
+    F) An immunocompromised patient in the ICU.
+
+32. [mcq, 1 pt] ____ Portal of exit.
+    A) Candida albicans (fungus).
+    B) Healthcare workers who carry Candida on their skin.
+    C) IV catheter insertion sites in healthy patients.
+    D) Sweat containing Candida of infected healthcare workers.
+    E) Contaminated medical equipment.
+    F) An immunocompromised patient in the ICU.
+
+33. [mcq, 1 pt] ____ Reservoir.
+    A) Candida albicans (fungus).
+    B) Healthcare workers who carry Candida on their skin.
+    C) IV catheter insertion sites in healthy patients.
+    D) Sweat containing Candida of infected healthcare workers.
+    E) Contaminated medical equipment.
+    F) An immunocompromised patient in the ICU.
+
+34. [mcq, 1 pt] ____ Infectious agent.
+    A) Candida albicans (fungus).
+    B) Healthcare workers who carry Candida on their skin.
+    C) IV catheter insertion sites in healthy patients.
+    D) Sweat containing Candida of infected healthcare workers.
+    E) Contaminated medical equipment.
+    F) An immunocompromised patient in the ICU.
+
+35. [mcq, 1 pt] ____ Susceptible host.
+    A) Candida albicans (fungus).
+    B) Healthcare workers who carry Candida on their skin.
+    C) IV catheter insertion sites in healthy patients.
+    D) Sweat containing Candida of infected healthcare workers.
+    E) Contaminated medical equipment.
+    F) An immunocompromised patient in the ICU.
+
+
+=== Sections II & III: Outbreak Investigation & Patterns, Control, Preventation ===
+
+[STIMULUS] Identify whether the following descriptions correspond best to a case-control study (A), cohort study (B), cross-sectional study (C), or experimental (D) study. Some labels may be used more than once, while some may not be used at all.
+
+38. [mcq, 1 pt] ____ A sample of persons from a population is enrolled and their exposures and health outcomes are measured simultaneously.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+39. [mcq, 1 pt] ____ Individuals diagnosed with a new strain of Brainrot disease are asked how often they go outside the house, speak to friends, etc. Two times the number of individuals without this disease are also asked the same set of questions, with their responses being compared.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+40. [mcq, 1 pt] ____ A random, representative sample of residents of the city of Troy are called and asked how often they exercise each week. They are then asked whether they have ever been diagnosed with narcolepsy.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+41. [mcq, 1 pt] ____ Subjects from a children's hospital are randomly given one of two new vaccines against measles. The subjects' parents would then be called a week later for a follow-up survey for side effects by attending nurses.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+42. [mcq, 1 pt] ____ A randomized control trial is an example of this type of study.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+[STIMULUS] **Case Study 1:** You are hosting a party at a town known as Dirtmouth. Unfortunately, some of the 203 total attendees report feeling hopelessness, bloat, fever, chills, and vomiting for a week after the party. You suspect that some punch served at the party may be the cause for this sickness. Of the 150 partygoers who drank the punch, 67 became sick for up to 72 hours afterwards. Though, 36 other partygoers also reported being sick even when they did not drink the punch.
+
+43. [frq, 4 pt] Write hypotheses based on this scenario for a chi-squared test.
+
+44. [numeric, 2 pt] How many degrees of freedom would be applicable to this chi-squared test?
+
+45. [numeric, 1 pt] Calculate the incidence rate among partygoers who drank the punch.
+
+46. [numeric, 1 pt] Calculate the odds ratio for this scenario.
+
+47. [numeric, 1 pt] Calculate the relative risk for this scenario.
+
+48. [frq, 1 pt] Based on your calculations, is it likely that the symptoms reported by attendees are due to the punch offered at the party?
+
+[STIMULUS] **Pseudoscience Study!** In 1998, Andrew Wakefield published a study in The Lancet claiming a link between the MMR vaccine and autism. It described a small group of patients (12 children) who shared certain clinical features– gastrointestinal symptoms and developmental regression (autism-like symptoms)- after receiving the MMR vaccine.
+
+The study was later found to be fraudulent; Wakefield had undisclosed conflicts of interest and manipulated data. Multiple large-scale studies found no link between vaccines and autism. In 2010, The Lancet fully retracted the paper, and Wakefield lost his medical license. Despite this, the claim sparked a persistent conspiracy theory that fueled vaccine hesitancy, particularly in the U.S. and U.K., and continues to impact public health efforts today.
+
+Multiple lines of evidence demonstrate that vaccination, including the MMR vaccine, is not causally linked to autism. The onset of autism symptoms is not related to the timing of vaccination, and the incidence of autism does not increase with the number of vaccines received. Follow-up studies show no significant rise in blood mercury levels (something believed to cause neurodevelopmental issues) after vaccination. Autism also occurs in unvaccinated children, and not every child who receives the MMR vaccine develops autism.
+
+Scenario above is adapted from Effiong (2016) with supplemental data from Rao & Andrade (2011) doi: 10.4103/0019-5545.82529.
+
+49. [frq, 2 pt] What kind of study was originally employed by Wakefield?
+
+50. [frq, 1 pt] Identify one flaw present with this type of study in general.
+
+[STIMULUS] Identify details provided above which correspond to the following components of Hill’s criteria which are NOT met in Wakefield’s claims.
+
+52. [frq, 1 pt] Specificity.
+
+[STIMULUS] Although randomized control trials are considered the 'gold standard' for evaluating causation, this type of analysis is not always possible. In these cases, other methods such as counterfactual modeling and generalized propensity scoring can be used to supplement other ways to identify causation.
+
+57. [frq, 2 pt] Identify two downsides to randomized control trials.
+
+58. [frq, 1 pt] Briefly define what counterfactual modeling is.
+
+[STIMULUS] **Case Study 2:** In October 2023, the County of San Diego Health and Human Services Agency notified the California Department of Public Health (CDPH) of eight cases of salmonellosis (diarrhea, fever, vomiting, or abdominal pain) in persons who reported consuming brand A raw milk, produced exclusively by dairy farm A. Several outbreak-associated Salmonella Typhimurium cases were identified through review of standardized salmonellosis case report forms and a search of PulseNet. A graphical representation of the outbreak is generated and displayed to the right.
+
+Adapted from Weinstein et al., (2025). doi: 10.15585/mmwr.mm7427a1.
+    [IMAGE: ../images/2026_hawk_and_hornet_invitational_c__p6_2cec55-e3133859.webp]
+
+59. [frq, 3 pt] What are the first three steps which should be taken to investigate this outbreak?
+
+60. [frq, 4 pt] Write a case definition for this outbreak.
+
+62. [frq, 2 pt] Briefly, what is CDC’s PulseNet?
+
+63. [frq, 2 pt] Identify the type of epi-curve classification associated with the outbreak shown.
+
+[STIMULUS] **Case Study 3:** Campylobacter jejuni is the most common bacterial cause of diarrheal illness in the United States. Early in the morning of November 15th, you (an epidemiologist) receive a call from Hawk High School. A teacher at this school reports one of the students on their Science Olympiad team has come down sick with a Campylobacter jejuni infection. Six other students on the team have also gone to the doctor and reported having the same infection (for 7 total infected students). The Hawk Science Olympiad team consists of 45 kids.
+
+Hawk Science Olympiad is also good friends with Hornet Science Olympiad, with the two teams having a potluck together relatively recently. Worried about a potential outbreak on your hands, you want to determine where the Campylobacter jejuni infection came from. Another student from the neighboring Hornet Science Olympiad team is also down with a Campylobacter jejuni infection.
+
+Adapted from Ribot et al. (2001), https://doi.org/10.1128/jcm.39.5.1889-1894.2001
+
+73. [frq, 1 pt] What does PFGE stand for?
+
+74. [frq, 2 pt] Why might a PFGE gel be used for this case rather than SNP mapping?
+
+76. [frq, 2 pt] What type of epidemiological study should you conduct for the most accurate measure of risk of Campylobacter jejuni infection in the Hawk Science Olympiad team?
+
+77. [frq, 2 pt] If you wanted to determine whether exposure to infected students was linked to illness or not, would you use an odds or a relative risk ratio?

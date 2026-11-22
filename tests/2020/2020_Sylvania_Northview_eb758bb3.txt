@@ -1,0 +1,217 @@
+Sylvania-Northview — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  31 questions, 36.0 pts
+Source: scio.ly test archive id eb758bb3-24f4-4ca4-aa3d-96a60338fe3c  |  original files: https://drive.google.com/drive/folders/1-ID9w4FZxFdFSJVjObOktPJ7tYZecz2m
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+
+=== Part I: Background and Surveillance ===
+
+1. [mcq, 1 pt] The traditional epidemiological triad models holds that infectious diseases result from interactions between which of the following?
+    A) Reservoir, portal of entry, host
+    B) Agent, host, environment
+    C) Agent, host, reservoir
+    D) Host, environment, reservoir
+
+2. [mcq, 1 pt] Which of the following statement is true regarding human reservoirs?
+    A) Very few infectious diseases have human reservoirs
+    B) Human reservoirs require an intermediary, such as a tick, to transmit infection
+    C) Human reservoirs frequently transmit infections to animals
+    D) Human reservoirs may or may not show effects of illness
+
+3. [mcq, 1 pt] What must an epidemiologist do before determine the number of cases of disease in a given population?
+    A) Identify factors that may be contributing to disease
+    B) Report results and recommend public health action
+    C) Perform descriptive epidemiology according to time, place, and person
+    D) Determine a set of standard criteria for classifying a case of disease
+
+4. [mcq, 1 pt] The term endemic is best defined as…
+    A) The desired level of disease in a community, usually zero.
+    B) The amount of a particular disease that is usually present in a community.
+    C) An aggregation of cases of disease grouped in a place and time.
+    D) An increase in the number of cases of a disease above what is normally expected in that population in that area.
+
+5. [mcq, 1 pt] Which of the following is NOT an example of an indirect mode of transmission?
+    A) Droplet spread
+    B) Vehicle borne
+    C) Airborne
+    D) Vector borne
+
+6. [mcq, 1 pt] Which of the following is most likely to result in an epidemic?
+    A) A decrease in the virulence of the agent
+    B) The recent introduction of the agent into a setting where it has not been before
+    C) A decrease in host exposure
+    D) A decrease in the susceptibility of the host
+
+7. [mcq, 1 pt] The stage of subclinical disease in which the disease process has been triggered, but the pathological changes are occurring without the individual being aware of them, may be called the incubation period or the latency period. What is the primary difference between incubation period and latency period?
+    A) Latency period is used for infectious diseases, and incubation period is used for chronic diseases
+    B) Latency period is used for chronic diseases, and incubation period is used for infectious diseases
+    C) Latency period is used for diseases in which subclinical disease lasts for less than one week, and incubation period is used for diseases in which the subclinical disease lasts for more than one week
+    D) Latency period is used for diseases in which subclinical disease lasts for more than one week, and incubation period is used for diseases in which the subclinical disease lasts for less than one week
+
+8. [mcq, 1 pt] Which of the following factors is most likely to decrease the prevalence of a given disease?
+    A) Longer duration of disease
+    B) Increase in incidence of disease
+    C) Improved diagnostic facilities
+    D) High case-fatality rate from the disease
+
+9. [mcq, 1 pt] The total population growth for a given period of time could be expressed as
+    A) Mortality – Natality
+    B) Natality – Mortality
+    C) Natality + Mortality
+    D) Natality x Mortality
+
+10. [mcq, 1 pt] A health department receives a case report for measles, a serious and vaccine-preventable disease. The public health practitioners then begin searching for other cases, calling doctors’ offices, checking with laboratories, and following up with exposed individuals. This can best be described as
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+11. [mcq, 1 pt] In recent years, health department staff have begun to use pharmacy sales data for respiratory over-the-counter products to detect unusual increases in respiratory disease. This type of surveillance can best be described as a novel form of
+    A) Passive surveillance
+    B) Active surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+12. [mcq, 1 pt] Public health surveillance can be described primarily as which of the following?
+    A) A system for monitoring persons who have been exposed to a communicable disease
+    B) A system for collecting and storing health-related information
+    C) A method to monitor occurrences of public health problems
+    D) A program to control disease outbreaks
+
+13. [mcq, 1 pt] A state health department decides to strengthen its notifiable disease reporting. The one best action is to
+    A) Allow reporting through the internet
+    B) Require more disease-specific forms from local health departments
+    C) Ensure that all persons with a responsibility to report understand the requirements and reasons for reporting and how the report will be used
+    D) Reduce the number of diseases on the list
+
+
+=== Part II: Outbreak Investigation ===
+
+[STIMULUS] Directions: Use the following case study to answer questions 16-18.
+
+The Department of Health received a telephone call from a university student stating that she and her roommate were suffering from nausea, vomiting, and diarrhea. Both had become ill overnight. She had taken an over-the-counter medication that had given some relief to her symptoms. Neither she nor her roommate had seen a doctor or gone to the emergency room. The students believed their illness was due to the salads they had eaten at a local restaurant the night before. They asked if they should attend class that day in order to take their biology final exam.
+
+16. [mcq, 1 pt] Which of the following is best practice for investigating a potential food-borne illness such as the one in this case?
+    A) Take a food history that includes only the last food or meal consumed before the onset of illness.
+    B) Take a 24-hour food history that includes all the foods, beverages, meals consumed 24 hours before the onset of illness.
+    C) Take a 5-day food history because the incubation period for diarrheal diseases tend to be longer.
+    D) No food history needs to be collected.
+
+17. [mcq, 1 pt] Upon investigation, the health department worker learns some additional information. Which of the following pieces of information would most likely lead to the health department worker concluding no further investigation is warranted?
+    A) Seven additional complaints have been made the day before by students with similar symptoms who also attend the same university
+    B) The students’ symptoms become much more severe and they need to report to the emergency department
+    C) The roommate indicates she has a sore throat, fever, and chills along with her continued nausea and vomiting, while the caller describes having had diarrhea overnight but no other signs or symptoms.
+    D) A foodhandler at the dining hall where the caller and her roommate frequently eat has been diagnosed with a confirmed case of Norovirus.
+
+19. [mcq, 1 pt] Which of the following is a significant difference between cross-sectional studies and case-control studies?
+    A) Case-control studies are longitudinal, while cross-sectional studies measure exposure and effect at a single point in time
+    B) Cross sectional studies are better for investigating rare diseases, while case-control studies are better for studying common diseases
+    C) Case-control studies are much cheaper and easier to conduct than cross-sectional studies
+    D) Case-control studies measure the prevalence of disease, while cross-sectional studies do not measure prevalence of disease
+
+20. [mcq, 1 pt] A study in which older adults are randomly assigned to receive either a newly formulated vaccine or the currently available vaccine, and are then followed to monitor for side effects and effectiveness of each vaccine, is an example of which type of study?
+    A) Experimental
+    B) Observational
+    C) Cohort
+    D) Case-control
+
+21. [mcq, 6 pt] The hallmark feature of an analytic epidemiological study is
+    A) Laboratory confirmation of the diagnosis
+    B) Publication in a peer-reviewed journal
+    C) Use of an appropriate comparison group
+    D) Statistical analysis using logistic regression
+
+[STIMULUS] Directions: Use the following case study to answer questions 22-25.
+
+A number of passengers on a cruise ship from Miami to the Panama Canal have recently developed a gastrointestinal illness compatible with norovirus. Testing for norovirus is not available on any nearby island, and the test takes several days where available. You are the epidemiologist called on to board the ship and investigate the possible outbreak.
+
+22. [mcq, 1 pt] Your case definition should include, at a minimum
+    A) Clinical features and the exposure(s) you most suspect
+    B) Suspect cases
+    C) The national agreed standard case definition for disease reporting
+    D) Clinical criteria and specification of time, place, and person
+
+23. [mcq, 1 pt] How would you display the time course of the outbreak?
+    A) Endemic curve
+    B) Epidemic curve
+    C) Seasonal trend
+    D) Secular trend
+
+24. [mcq, 1 pt] If you suspected that the norovirus may have been transmitted by ice made and served aboard the ship, how might you display the “place”?
+    A) Spot map by cabin
+    B) Shaded map by birthplace
+    C) Shaded map of the cruise ship by distance traveled to the ship
+    D) Spot map assigned by dinner seating location
+
+26. [mcq, 1 pt] Researchers at Nationwide Children's Hospital completed the ReAct study through enrolling 14,832 youth athletes and then following them for 5 years. If the youth athletes were diagnosed with a concussion during that time frame, they were then monitored daily for physical and cognitive rest, post-concussive symptoms, and other concussion outcomes. Researchers were interested in the relationship between physical and cognitive rest and the subsequent concussion outcomes. This is an example of which type of study?
+    A) Experimental
+    B) Observational
+    C) Clinical trial
+    D) Case-control
+
+27. [mcq, 1 pt] A key feature of a cross-sectional study is that
+    A) It is limited to health outcomes rather than health behaviors
+    B) It is more useful for descriptive epidemiology than it is for analytic epidemiology
+    C) It usually provides information on prevalence rather than incidence
+    D) It is synonymous with clinical trial
+
+
+=== Part III: Patterns, Control, and Prevention ===
+
+[STIMULUS] Directions: For each of the following situations, identify the type of epidemic spread with which it is most consistent. You may use each type, once, twice, or not at all.
+a. Point source
+b. Intermittent
+c. Propagated
+
+31. [mcq, 1 pt] 21 cases of shigellosis among children and workers at a day care center over a period of 6 weeks, no external source identified (the incubation period for shigellosis is usually 1-3 days)
+    A) Point source
+    B) Intermittent
+    C) Propagated
+
+33. [mcq, 1 pt] 43 cases of norovirus infection over 2 days traced to the ice machine on a cruise ship (incubation period for norovirus is usually 24–48 hours)
+    A) Point source
+    B) Intermittent
+    C) Propagated
+
+[STIMULUS] Directions: Match the epi curve with the outbreak description.
+    [IMAGE: ../images/2020_sylvania_northview_c__p7_4372bf-099d69f3.webp]
+    [IMAGE: ../images/2020_sylvania_northview_c__p7_f7f8b9-7116a877.webp]
+
+37. [mcq, 1 pt] The common cold is passed from classmate to classmate at a high school.
+    A) Point source
+    B) Intermittent
+    C) Propagated
+
+38. [mcq, 1 pt] In an outbreak of varicella (chickenpox) in Oregon in 2008, varicella was diagnosed in 18 of 142 vaccinated children compared with 3 of 7 unvaccinated children. Calculate the risk ratio.
+    A) .12
+    B) .30
+    C) 1.3
+    D) .89
+
+40. [mcq, 1 pt] Many of the students at the boarding school, including 8 just coming down with varicella, went home during the Thanksgiving break. About 2 weeks later, 3 siblings of these 8 students (out of 10 total siblings) developed varicella. The secondary attack rate among siblings was, therefore,
+    A) 3/8
+    B) 3/10
+    C) 3/16
+    D) 8/10
+
+[STIMULUS] Directions: Use the following information for questions 41 through 45.
+
+Within 12 days of attending a team dinner, an outbreak of cyclosporiasis occurred among the players. Of the 83 guests, 79 were interviewed; 54 of the 79 met the case definition. The following two-by-two table shows consumption of the salad and illness status.
+    [IMAGE: ../images/2020_sylvania_northview_c__p8_cb096d-6491bc3d.webp]
+
+43. [mcq, 1 pt] The best measure of association to use for these data is a/an
+    A) Food-specific attack rate
+    B) Odds ratio
+    C) Rate ratio
+    D) Risk ratio
+
+44. [mcq, 1 pt] The best estimate of the association between salad and illness is
+    A) 6.1
+    B) 7.7
+    C) 83.7
+    D) 91.7
+
+45. [mcq, 1 pt] The attributable proportion for salad is
+    A) 6.1%
+    B) 7.7%
+    C) 68.4%
+    D) 83.7%

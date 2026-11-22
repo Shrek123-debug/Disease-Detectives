@@ -1,0 +1,249 @@
+Mason-WWP Scrimmage — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  69 questions, 110.0 pts
+Source: scio.ly test archive id a9fa35e2-4813-48f1-90d4-3292c5f86934  |  original files: https://drive.google.com/drive/folders/1sRgzVFtw8xHwE7lr1vi2VMVnlXtwSFic
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+
+=== Part 1: The Baratie Restaurant ===
+
+[STIMULUS] The Don Krieg pirate crew recently visited the Baratie restaurant ship. After attempting to extort a meal, a curly eyebrow cook kindly gave them enough food for everyone in the crew to eat. A few hours later, many of the pirates reported feeling sick with diarrhea, fever, and abdominal cramps. As a top-notch quality aspiring disease detective hoping to join the marines as a doctor, you decide to investigate this sudden outbreak and submit a report to the World Government.
+    | Food | Cases - Ate | Cases - Didn't | Cases - Total | Cases - %Ate | Controls - Ate | Controls - Didn't | Controls - Total | Controls - %Ate |
+    | Ham | 27 | 40 | 67 | 40.3 | 13 | 10 | 23 | 56.5 |
+    | Steak | 18 | 49 | 67 | 26.9 | 13 | 10 | 23 | 56.5 |
+    | Potatoes | 12 | 55 | 67 | 17.9 | 8 | 15 | 23 | 34.8 |
+    | Pasta | 38 | 29 | 67 | 56.7 | 3 | 20 | 23 | 13 |
+    | Crab | 34 | 33 | 67 | 50.7 | 5 | 18 | 23 | 21.7 |
+    | Lobster | 16 | 51 | 67 | 23.9 | 2 | 21 | 23 | 8.7 |
+    | Cake | 54 | 13 | 67 | 80.6 | 11 | 12 | 23 | 47.8 |
+    | Beer | 9 | 58 | 67 | 13.4 | 4 | 19 | 23 | 17.4 |
+    | Liquor | 7 | 60 | 67 | 10.4 | 1 | 22 | 23 | 4.3 |
+
+1. [frq, 2 pt] Fill in the missing parts of the table.
+
+2. [frq, 2 pt] If all of the cases had inhaled poison gas that day, what would this be called?
+
+3. [frq, 1 pt] Which food has the highest risk of illness associated with it?
+
+4. [frq, 1 pt] Out of all the foods in the control group, which one has the lowest risk associated with it?
+
+5. [frq, 2 pt] Calculate the odds ratio of the food with the highest risk.
+
+6. [frq, 2 pt] Calculate the odds ratio of the food with the lowest risk.
+
+7. [frq, 2 pt] If you collected data on two different days and had varying degrees of friendliness during the interviews on the two days, what would this be called?
+
+8. [frq, 1 pt] What kind of study was used in this case?
+
+9. [frq, 2 pt] Based on the results of the study, which of the foods caused the outbreak?
+
+10. [frq, 2 pt] If the majority of your subjects have concussion-like symptoms and seem to be suffering from some kind of other trauma that makes their memory hazy, what would you call this?
+
+11. [frq, 2 pt] Identify the pathogen that caused this outbreak.
+
+12. [frq, 2 pt] Explain how you know this.
+
+13. [frq, 2 pt] If a suspected disease causing agent was found in the cake but also in the pasta and ham and some of the other foods, would this satisfy Koch's postulates?
+
+14. [frq, 2 pt] If a suspected disease causing agent was cultured and introduced to a healthy organism, and that healthy organism developed the disease, would this satisfy Koch's postulates?
+
+15. [frq, 2 pt] What are Koch's postulates?
+
+
+=== Part 2: Sakura Kingdom ===
+
+[STIMULUS] With the return of their legit, quality doctors Sakura Kingdom has once again regained its prominence as one of the best places in the world to practice quality, legit medicine. However when you arrive on the island they seem to be rather overworked. Further inquiries reveal that they are attempting to deal with a widespread outbreak of a flu-like illness. The good person inside of you tells you to help investigate, while the phony tells you to submit a report to the World Government and try to get on good terms with the country's king. With both voices in your head satisfied, you dive into the case.
+
+Patients report flu-like symptoms and fever over 38 °C. Some patients report shortness of breath and some have been reported develop pneumonia. The first case appeared on July 3ʳᵈ and the last on August 8ᵗʰ. You are informed that you are the only one who has traveled to the island since the outbreak began. The situation seems to remind you of a case you studied located somewhere called Hong Kong.
+
+16. [frq, 2 pt] Identify the disease.
+
+17. [frq, 2 pt] Identify the type of pathogen that caused the outbreak.
+
+18. [frq, 1 pt] What is the term for diseases caused by new or previously unrecognized microorganisms, such as the one in the Sakura Kingdom outbreak?
+
+19. [frq, 1 pt] This particular microorganism is believed to have originated in what nonhuman vertebrate?
+
+20. [frq, 1 pt] Knowing this, what adjective can you use when describing this disease?
+
+21. [frq, 3 pt] Create a working suspect case definition for the Sakura Kingdom outbreak.
+
+22. [frq, 2 pt] What would turn a suspected case into a probable case of the disease (list all possibilities)?
+
+24. [frq, 1 pt] Add a title to the epi-curve below.
+    [IMAGE: ../images/2016_mason_wwp_scrimmage_c__p6_4b943c-74e30d21.webp]
+
+25. [frq, 2 pt] What kind of outbreak is this?
+
+26. [frq, 2 pt] According to the curve, what is the incubation period of the disease?
+
+27. [frq, 2 pt] What is the actual incubation period of the disease? (use the longest time)
+
+
+=== Part 3: Alabasta ===
+
+[STIMULUS] Arriving in the capital Alubarna of this magnificent desert kingdom, you find yourself in a local bar to try and stave off the heat. Unexpectedly though, it begins to rain as soon as you walk into the bar. Ignoring the sudden change in weather, you enter the bar anyways. Inside the bar you hear stories of a group of daring pirates saving the country and earning the royal family's favor, but also of a population spiking in number and growing in problems. Intrigued, you offer your help to the king the next day. He is happy to have it, and you set off on your work right away.
+
+28. [frq, 2 pt] Identify what type of population pyramid this is.
+    [IMAGE: ../images/2016_mason_wwp_scrimmage_c__p7_2d519c-a95d84f4.webp]
+
+29. [frq, 2 pt] What does a wider base mean on a population pyramid?
+
+30. [frq, 1 pt] What is wrong with the population pyramid in question 28?
+
+31. [frq, 2 pt] Name and describe two other types of population pyramids
+
+32. [frq, 2 pt] Identify two elements to reading a population pyramid besides width of base
+
+33. [frq, 1 pt] What is another name for the 'Malthusian growth model'?
+
+34. [frq, 2 pt] Name the two types of population growth and describe the shape of each
+
+35. [frq, 1 pt] What is the difference between them?
+
+36. [frq, 1 pt] Identify which type of growth is occurring in Alabasta
+
+37. [frq, 2 pt] Is this the same or different type of growth as humans have in the world we live in?
+
+38. [frq, 2 pt] Which stage of demographic transition is Alabasta in?
+
+39. [frq, 2 pt] The doubling time is the time required for a population to double in size. What is the formula for approximating the doubling time of a population?
+
+40. [frq, 2 pt] Give one reason why increased population size and urbanization leads to an increase in risk for contracting chronic diseases.
+
+41. [frq, 2 pt] Explain why more developed countries like Alabasta often see an increase in degenerative diseases.
+
+
+=== Part 4: The Game-Game Fruit ===
+
+[STIMULUS] After leaving Alabasta wondering where all of the test writer's effort into making every question fitting the scenario went, you are randomly challenged by a guy who says he has a 'Game-Game' devil fruit. Utterly bewildered by something non-canon and in the wrong chronological order according to GODA's timeline, you for some reason accept his challenge, and somehow find yourself in a fierce match of quick and easy to write questions seemingly designed to take up space and fill pages, kind of like most of Naruto and Bleach. Ignoring some awful comma splicing and what you perceive to be horrible grammar, you try to do your best as the questions shift to something that actually makes sense…
+
+42. [frq, 1 pt] What is the incubation period of EVD?
+
+43. [frq, 1 pt] What does MERS stand for?
+
+44. [frq, 1 pt] What are the two types of public health surveillance?
+
+45. [frq, 1 pt] Name the three forms of plague.
+
+46. [frq, 1 pt] Why is it important to keep an entire or close to an entire population vaccinated?
+
+47. [frq, 1 pt] Where was the most recent MERS outbreak?
+
+48. [frq, 1 pt] What kind of transmission is droplet spread?
+
+49. [frq, 1 pt] Where did the most famous outbreak of legionellosis occur?
+
+[STIMULUS] (was going to be 32 points, but idk how many it is right now)
+(It's 33 right now…. lol)
+"A+ memes"
+    [IMAGE: ../images/2016_mason_wwp_scrimmage_c__p10_42b89e-b6685e21.webp]
+
+
+=== Part 1: The Green Wedding ===
+
+[STIMULUS] A wedding is being held in King's Landing, and all the lords and ladies of the court are to attend, including yourself! During the reception, many of the guests fall ill with Joffreyitis, a disease characterized by redness of the eyes, foaming at the mouth, mania, and, in some cases, death. Being the concerned young citizen you are, you put your sickness tracking super skills to the test. You find that of the 146 guests at the reception, 87 become sick. Of the 253 guests who were at the wedding but did not attend the reception, 35 contract the disease.
+
+52. [frq, 1 pt] What is the above figure called?
+    [IMAGE: ../images/2016_mason_wwp_scrimmage_c__p11_rc2670fe-cb438e59.webp]
+
+53. [frq, 2 pt] What is the attack rate among the exposed?
+
+54. [frq, 2 pt] What is the attack rate among the unexposed?
+
+55. [frq, 2 pt] Calculate the relative risk and interpret its meaning.
+
+[STIMULUS] After returning home to the lovely Winterfell, you decide to do some extra research into Joffreyitis. Finding some potentially helpful books in the newly renovated library, you get to work digging for information on this rare and fatal disease. Stumbling across a collection of health statistics from a long time ago in a galaxy far, far away - a place known as America, you finally find the word you'd been searching for: Joffreyitis.
+
+56. [frq, 2 pt] What is the name of the publication you have found?
+
+[STIMULUS] Looking through historical outbreaks, you find one town that was particularly hard hit by Joffreyitis called "Mason", in the state of "Ohio." Trawling through the copious data provided by an organization called the "CDC," you decide to ask yourself some questions.
+
+57. [frq, 1 pt] What does "CDC" stand for?
+
+58. [frq, 2 pt] Joffreyitis is caused by a virus closely related to the ones that cause Atnerinitis and Jeffenities. Because of the overlap in symptoms, they are often hard to distinguish. Name two laboratory tests you could use to confirm Joffreyitis.
+
+59. [frq, 5 pt] The CDC conducts all sorts of research and helps keep illness under control. It also conducts investigations into reported outbreaks. List the steps to conduct an outbreak investigation.
+
+
+=== Part 2: An Exotic Excursion ===
+
+[STIMULUS] After conducting an investigation on Joffreyitis, you decide to take a break from the stresses of Westeros to the lands of Old Valyria. Where the Stone Men, infected with Dragonscale, live out their days in exile.
+
+60. [frq, 1 pt] Dragonscale is originated as a rash in the ancient dragons. Name the term that refers to the transmission of disease between animals and humans.
+
+61. [mcq, 1 pt] Dragonscale is a fungal infection transmitted by contact with infected skin. What type of transmission is this?
+    A) Droplet
+    B) Direct
+    C) Vertical
+    D) Indirect
+
+62. [frq, 3 pt] Thousands of years ago, it was found that the spores of fangium fierso were the cause of the scaly rash. Name 6 criteria for causation likely used to establish this relationship.
+
+
+=== Part 3: A Maester in Training ===
+
+[STIMULUS] After returning to Westeros, you take the Kingsroad to the Wall where it seems Maester Aemon didn't complete his lessons to Samwell, who needs some assistance in figuring out how to treat certain maladies. Some potions treat bacterial afflictions, while tonics treat viral ailments. Help Samwell treat these diseases by matching them up with their agents.
+
+a. Bacteria
+b. Virus
+c. Fungal
+d. Prion
+
+63. [mcq, 1 pt] Cryptococcosis
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+64. [mcq, 1 pt] Kuru
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+65. [mcq, 1 pt] Rheumatic fever
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+66. [mcq, 1 pt] Cattle plague
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+67. [mcq, 1 pt] Ehrlichiosis
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+68. [mcq, 1 pt] Ohio Valley Disease
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+69. [mcq, 1 pt] Hoof and Mouth Disease
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+70. [mcq, 1 pt] TSE
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+71. [mcq, 1 pt] Ornithosis
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion
+
+72. [mcq, 1 pt] Blastomycosis
+    A) Bacteria
+    B) Virus
+    C) Fungal
+    D) Prion

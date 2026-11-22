@@ -1,0 +1,277 @@
+Science Olympiad at Penn State (SOAPS) Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  54 questions, 132.0 pts
+Source: scio.ly test archive id 857481a5-bbae-4ac4-9080-20c93b278e7b  |  original files: https://drive.google.com/drive/folders/1WrhBeK56tbBmvTn2k6Hx6aBObxxv_GPv
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+
+=== Section I: Multiple Choice ===
+
+[STIMULUS] Directions: Choose ONE correct answer to each of the following questions. 1 point each
+
+P1-1. [mcq, 1 pt] Which of these would not be considered a property of an epi curve?
+    A) Seeing if there are any unusual cases recorded as part of the outbreak.
+    B) The average recovery rate of those infected by the disease.
+    C) Determining whether or not the distribution of cases follows a normal distribution or if it's skewed.
+    D) An estimate of the incubation period of the disease.
+    E) The relative size of the outbreak.
+
+P1-2. [mcq, 1 pt] Which of the following is NOT an emphasis of the Public Health Approach to Health Care?
+    A) Prevention
+    B) Health Promotion
+    C) Treatment
+    D) Whole Community
+
+P1-3. [mcq, 1 pt] Who is known as the “father of field epidemiology” for forming and testing a hypothesis on the origin of cholera as waterborne transmission?
+    A) William Farr
+    B) John Snow
+    C) Edward Sydenstricker
+    D) James Lind
+
+P1-4. [mcq, 1 pt] All of the following pertains to the Clinical Approach to Health Care EXCEPT for?
+    A) Focus on the individual
+    B) Immunizations
+    C) Interventions aimed at environment
+    D) Obesity counseling
+
+P1-5. [mcq, 1 pt] Which of the following are true of Passive Surveillance?
+    A) diseases are reported to health care providers
+    B) simple and inexpensive
+    C) limited by incompleteness of reporting and variability of quality
+    D) All of the above
+
+P1-6. [mcq, 1 pt] Which of the following is the correct combination of components to the Public Health Approach to Health Care?
+    A) Surveillance, Risk Factor Identification, Intervention Evaluation, and Response.
+    B) Surveillance, Risk Factor Identification, Intervention Evaluation, and Implementation.
+    C) Surveillance, Risk Factor Identification, Intervention Evaluation, and Prevention.
+    D) Surveillance, Risk Factor Identification, Intervention Evaluation, and Treatment.
+
+P1-7. [mcq, 1 pt] Which of the following four major determinants is 75% of what determines our health as a population?
+    A) Total Ecology
+    B) Medical Care
+    C) Health Behaviors
+    D) Genes and Biology
+
+P1-8. [mcq, 1 pt] All of the following are purposes of Epidemiology in public health practice except for?
+    A) Determine the agent, host, and environmental factors that affect health
+    B) Determine the relative importance of causes of illness, disability, and death
+    C) Identify those segments of the population that have the greatest risk from specific causes of ill health
+    D) Establish health programs and services to improve population health
+
+P1-9. [mcq, 1 pt] Which of the following are the correct 5 steps in the Public Health Surveillance Process?
+    A) Data Collection, Data Interpretation, Data Analysis, Data Dissemination, and Link to Action.
+    B) Data Collection, Data Analysis, Data Interpretation, Data Dissemination, and Link to Action.
+    C) Data Collection, Data Dissemination, Data Interpretation, Data Analysis, and Link to Action.
+    D) Data Collection, Data Interpretation, Link to Action, Data Analysis, and Data Dissemination
+
+P1-10. [mcq, 1 pt] Which of the following is NOT a purpose of surveillance?
+    A) Assess public health status
+    B) Define public health priorities
+    C) Evaluate programs
+    D) None of the above
+
+P1-11. [mcq, 1 pt] Which of the following is an experimental study?
+    A) Cross-sectional Study
+    B) Cohort Trial
+    C) Case-control Study
+    D) Cohort Study
+
+P1-12. [mcq, 1 pt] Gram-positive bacteria…
+    A) Retain the color of the crystal violet stain in the gram stain
+    B) Lose the stain and take a red counterstain
+    C) Have a thin layer of peptidoglycan
+    D) None of the above
+
+P1-13. [mcq, 1 pt] Which of the following diseases are not vaccine preventable?
+    A) Syphilis
+    B) Hepatitis B
+    C) Varicella
+    D) Diphtheria
+
+P1-14. [mcq, 1 pt] This type of plague occurs when the bacteria spreads to or first infect the lungs and is the most lethal, while being caused by person to person interaction.
+    A) Bubonic
+    B) Pneumonic
+    C) Septicemic
+    D) Chronic
+
+P1-15. [mcq, 1 pt] A trend that appears in several groups of data but disappears or reverses when these groups are combined is called…
+    A) Exclusion Bias
+    B) Panel Effect
+    C) Simpson’s Paradox
+    D) Late Look Bias
+
+P1-16. [mcq, 1 pt] Which of the following is not a stage of the Natural History of Disease?
+    A) Stage of Clinical Disease
+    B) Stage of Inhibition
+    C) Stage of Subclinical Disease
+    D) Stage of Susceptibility
+
+
+=== Section II: Short Answer ===
+
+[STIMULUS] Answer the following questions. Point values are listed with each question.
+
+P2-17. [frq, 10 pt] Below are 10 steps to control and prevent communicable disease. Use the space provided to explain why each step slows the spread of disease.
+    
+    1. DIAGNOSIS
+    2. NOTIFICATION
+    3. ISOLATION
+    4. TREATMENT
+    5. QUARANTINE
+    6. INVESTIGATION
+    7. DISINFECTION
+    8. BLOCKING OF TRANSMISSION
+    9. IMMUNIZATION
+    10. HEALTH EDUCATION
+
+P2-18. [frq, 3 pt] Correctly label the images below as a Pandemic, Epidemic, or Endemic.
+    [IMAGE: ../images/2022_science_olympiad_at_penn_state_soaps_invitational_c__p6_b93189-2171d194.webp]
+
+P2-19. [frq, 2 pt] Define prevalence and incidence. Where are prevalence and incidence used and why are they helpful?
+
+P2-21. [frq, 5 pt] List the 9 criteria (Hill's criteria) for causation.
+
+P2-22. [frq, 2 pt] How do Clinical and Classical Epidemiology differ?
+
+P2-23. [frq, 5 pt] What are the 5 objectives of epidemiology?
+
+P2-24. [frq, 5 pt] List the 10 most important public health problems and concerns per the CDC in no particular order.
+
+P2-25. [frq, 3 pt] What are 3 possible examples of health inequities around the world today?
+
+P2-26. [frq, 3 pt] Over the past several decades, surveillance has been key in controlling outbreaks and infections. However, surveillance has its limitations, too. What are 3 overall limitations to surveillance?
+
+P2-27. [frq, 5 pt] Name the 5 stages of Disease Progression, and provide a brief description of each.
+
+P2-28. [frq, 3 pt] With COVID-19 being rampant worldwide, many people have seeked to take the vaccine in an effort to deal with the disease better. However, there is still a portion of the population that have not received the vaccine yet, or choose not to take it. What are 3 challenges of having a population unvaccinated?
+
+P2-29. [frq, 4 pt] What are the 4 health determinants, and rank them based on how important they are.
+
+P2-30. [frq, 2 pt] What are 2 problems with R(0), or the basic reproductive rate?
+
+P2-31. [frq, 5 pt] In a previous question, surveillance was mentioned as being key in controlling the spread of disease/outbreak or keeping track of one. However, in order for a surveillance system to be effective, it needs to have 9 certain attributes. Name these.
+
+P2-32. [frq, 2 pt] You perform a chi-squared test to determine the association between an outbreak of E. coli and the consumption of the chicken caesar salad at the wedding venue. Give the null and alternative hypotheses for this test.
+
+P2-34. [frq, 3 pt] You notice a sudden increase in the number of cases of disease X at Penn State, however it is not classified as an outbreak. Give three reasons for the increase in the number of cases.
+
+P2-35. [frq, 2 pt] A test with a very low specificity may indicate that a ____ error has occurred while a test with a very low sensitivity may indicate that a ____ error has occurred.
+
+
+=== Section III: Application ===
+
+[STIMULUS] Table 1: Number, rate, and change in rate* of breast cancer incidence† among women aged ≥20 years, by race/ethnicity and age group — United States, 1999–2018
+
+Abbreviations: AAPC = average annual percent change; AI/AN = American Indian or Alaska Native; APC = annual percent change; A/PI = Asian or Pacific Islander.
+
+* Per 100,000 population; overall rates were age-adjusted to the 2000 U.S. standard population. AAPC and APC were calculated using joinpoint regression, which allowed different slopes for four periods; the year at which slopes changed could vary by age and race/ethnicity.
+
+† Cancer incidence data were compiled from cancer registries that meet U.S. Cancer Statistics data quality criteria (https://www.cdc.gov/cancer/npcr/standards.htm), covering 97% of the U.S. population.
+
+§ Mutually exclusive racial/ethnic groups are based on information about race/ethnicity that was collected separately and combined for this report. Race/ethnicity were grouped as non-Hispanic AI/AN, non-Hispanic A/PI, non-Hispanic Black, Hispanic, and non-Hispanic White. Hispanic persons can be any race. Data are not presented for those with unknown or other race or unknown ethnicity (n = 25,329).
+
+¶ APC was significantly different from zero at the α = 0.05 level.
+
+AAPC was significantly different from zero at the α = 0.05 level.
+
+Source: https://www.cdc.gov/mmwr/volumes/71/wr/mm7102a2.htm?s_cid=mm7102a2_w
+    [IMAGE: ../images/2022_science_olympiad_at_penn_state_soaps_invitational_c__p11_a6f1b7-161a90f5.webp]
+
+P3-36. [frq, 2 pt] The data from this report was taken from the United States Cancer Statistics, which has data collection as listed: "USCS includes incidence data from central cancer registries reporting to CDC's National Program of Cancer Registries and National Cancer Institute's Surveillance, Epidemiology, and End Results (SEER) Program." If SEER collects its cancer data based on a system where hospitals and healthcare providers report all of their cancer information at a regular interval to the program, what type of surveillance is this?
+
+P3-37. [frq, 2 pt] The information on the MMWR report says that the data represents 97% of the country's population. What is one possible limitation of the surveillance system being used that prevent this from being 100%?
+
+P3-39. [frq, 4 pt] What can be said of the overall trend in the difference in incidence rates of breast cancer in the United States from 1999 to 2018? List two reasons why this difference may exist.
+
+P3-41. [frq, 3 pt] The notes to the table indicate that significance testing was conducted at α=0.05. What is a p-value and how do you use that to determine if differences in data for this table are significant or not?
+
+[STIMULUS] Table 2: Estimated prevalences* and adjusted prevalence ratios (aPRs) of current drinking† and binge drinking§ reported by pregnant women aged 18–44 years (N = 6,814), by selected characteristics — Behavioral Risk Factor Surveillance System, United States, 2015–2017
+
+Abbreviations: CI = confidence interval; NA = not available.
+
+* Percentages weighted to represent nationwide estimates of the U.S. population.
+
+† Defined as having consumed at least one alcohol drink in the past 30 days.
+
+§ Defined as having consumed four or more alcohol drinks on one occasion at least once in the past 30 days.
+
+¶ Model includes age, race/ethnicity, education, employment status, and marital status.
+
+Estimate might be unstable because the relative standard error is 0.2–0.3.
+
+†† Estimate suppressed because the relative standard error is >0.3.
+
+Source: https://www.cdc.gov/mmwr/volumes/68/wr/mm6816a1.htm?s_cid=mm6816a1_w
+
+The data analyzed in this study came from the BRFSS. Per the MMWR, “BRFSS is a random-digit–dialed landline and cellphone telephone survey that measures behavioral risk factors from a representative sample of civilian, noninstitutionalized adults aged ≥18 years, conducted by all U.S. states and participating U.S. territories, in collaboration with CDC ( https://www.cdc.gov/brfss/index.html ).”
+    [IMAGE: ../images/2022_science_olympiad_at_penn_state_soaps_invitational_c__p14_4091ec-13e7c2e3.webp]
+
+P3-42. [frq, 6 pt] What kind of study is this? Is it experimental or observational? Give two advantages and two disadvantages of using this type of study.
+
+P3-43. [frq, 4 pt] List and describe two different types of bias that might be present in this study.
+
+P3-44. [frq, 2 pt] Why does it make sense for the report to refrain from reporting prevalence values for the cells labeled “N/A”?
+
+P3-46. [frq, 2 pt] Why is it necessary for the prevalence ratio to be adjusted (aPR instead of PR)?
+
+[STIMULUS] An Investigation on Jospehine coli (not a real species of bacteria, 21 points)
+
+Recently, Penn State University has seen an uptick of a new disease, which manifests itself in the form of coughing, peeling oranges with knives, and mispronouncing biology terms. After further investigation, scientists have coined the disease as Jospehine coli, and have identified a few genes that might be responsible for a toxin that causes aforementioned symptoms.
+
+You have been invited to analyze the results of an RT-qPCR conducted by lab scientists. RT-qPCR is a procedure that measures the level of gene expression through polymerase chain reaction (PCR). PCR rapidly amplifies the original template DNA (the template is cDNA, synthesized from mRNA produced by the genes).
+
+The figure above depicts the result of the RT-qPCR experiment.
+    [IMAGE: ../images/2022_science_olympiad_at_penn_state_soaps_invitational_c__p17_bd8342-93d54ba9.webp]
+
+P3-48. [frq, 2 pt] Line E represents the cycle threshold of this RT-qPCR experiment. What is the significance of the C_t (cycle threshold)?
+
+P3-49. [frq, 4 pt] Line A refers to the results of the gene JWA3, line B refers to the gene ADE5, line C refers to the gene SSI8, and line D refers to the gene SPO2. Given that the toxin is heavily expressed in Jospehine coli, which gene is responsible for producing the toxin? Explain with evidence from the graph.
+
+P3-50. [frq, 2 pt] The toxin in question is found to be released after the death of individual bacteria. What type of toxin is released by Jospehine coli?
+
+[STIMULUS] In an effort to alleviate the strange symptoms that PSU students have been experiencing, a lab has created a vaccine to combat Jospehine coli. In order to determine the efficacy of the vaccine, a study is conducted. Results of the study are depicted below.
+
+|  | Contracted J. coli | Did not contract J. coli |
+|---|---|---|
+| Vaccinated | 74 | 107 |
+| Unvaccinated | 126 | 93 |
+
+P3-51. [frq, 4 pt] Calculate the vaccine efficacy. Show work to receive credit.
+
+P3-52. [frq, 3 pt] Why might administering a vaccine against J. coli not be effective?
+
+P3-53. [mcq, 2 pt] The administration of vaccines falls under which stage of prevention:
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+
+=== Section IV: Tiebreakers ===
+
+P4-55. [frq, 2 pt] During the stage of subclinical disease, the time of exposure to onset of disease symptoms is referred to as either the incubation period or the latency period. Explain when each term would be used.
+
+P4-56. [frq, 1 pt] What is a drawback of an ecological study?
+
+P4-57. [frq, 2 pt] During an outbreak investigation one must verify the diagnosis. List two common verifications completed during this process.
+
+P4-58. [frq, 1 pt] Who formalized standards to identify organisms with infectious diseases?
+
+P4-59a. [frq, 1 pt] Calculate the sensitivity for the following table, which conveys information about tuberculosis testing.
+    
+    | | Has TB | Does not have TB |
+    |---|---|---|
+    | Tested positive for TB | 38 | 6 |
+    | Tested negative for TB | 4 | 41 |
+    
+    Sensitivity = ____
+
+P4-59b. [frq, 1 pt] Calculate the specificity for the following table, which conveys information about tuberculosis testing.
+    
+    | | Has TB | Does not have TB |
+    |---|---|---|
+    | Tested positive for TB | 38 | 6 |
+    | Tested negative for TB | 4 | 41 |
+    
+    Specificity = ____
+
+P4-60. [frq, 2 pt] For the previous question, interpret the sensitivity.

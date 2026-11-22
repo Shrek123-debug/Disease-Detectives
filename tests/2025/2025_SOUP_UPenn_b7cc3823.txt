@@ -1,0 +1,391 @@
+SOUP (UPenn) — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  59 questions, 138.0 pts
+Source: scio.ly test archive id b7cc3823-8834-4720-81d5-7a9ae3240c5e  |  original files: https://drive.google.com/drive/folders/1aUVSo-q37Q4r4jIEo7u4dC_SFTNEhtUQ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 16
+
+
+=== Part 1: Background and Surveillance ===
+
+P1-1. [mcq, 2 pt] Which of the following is NOT a CDC responsibility?
+    A) Monitor and prevent health threats
+    B) Provide funding for new medications and treatments
+    C) Work with local health providers
+    D) Research and analyze diseases
+
+[STIMULUS] For questions 2-11 use the word bank to match each scenario with the best definition.
+
+Etiology · epidemic · fulminant · Primary case · Sporadic · cluster · Clinical epidemiology · Index case · Classical epidemiology · determinant
+
+P1-2. [mcq, 2 pt] Health officials report an unusual spike in cases of "winter cough" just before the holiday season. This spread of the disease is a/an ____
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-3. [mcq, 2 pt] Study in which Dr. Penn uncovers the cause of the mysterious outbreak at the summer camp to be a contaminated batch of soup.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-4. [mcq, 2 pt] After eating a soup, a swimmer acquires an illness that escalates from mild discomfort to a critical state within an hour.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-5. [mcq, 2 pt] Researchers investigate rising rates of asthma in the city, suspecting that urban pollution and dietary changes are key contributors.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-6. [mcq, 2 pt] Every few years, in a small town, a lone case of the "desert fever" pops up unexpectedly.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-7. [mcq, 2 pt] A local health team notices a sudden grouping of mysterious rashes among beachgoers visiting the same spot along the shore. This spread of the disease is a/an ____
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-8. [mcq, 2 pt] Franklin was the first person found by epidemiologists to have Legionnaires disease.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-9. [mcq, 2 pt] In a hospital, a research team examines patterns in patient data, hoping to refine the diagnosis and treatment of rheumatoid arthritis.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-10. [mcq, 2 pt] High humidity was the secret factor that allowed the Quaker disease to spread in the hospital. High humidity is the ____
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+P1-11. [mcq, 2 pt] Benjamin is the first person who had contact with an infected animal causing the Ebola outbreak.
+    A) Etiology
+    B) epidemic
+    C) fulminant
+    D) Primary case
+    E) Sporadic
+    F) cluster
+    G) Clinical epidemiology
+    H) Index case
+    I) Classical epidemiology
+    J) determinant
+
+[STIMULUS] For the questions 12-16 identify whether the information about the history of epidemiology is true (T) or false (F).
+
+P1-13. [tf, 2 pt] Joseph Lister proposed antisepsis in 1848, after which Ignaz Semmelweis pioneered the practice of hand washing with chlorine in 1865.
+    A) True
+    B) False
+
+P1-14. [tf, 2 pt] John Snow came up with the prevention of cholera using scientific method for the first time.
+    A) True
+    B) False
+
+P1-15. [tf, 2 pt] Framingham heart study is a case study, set to investigate factors that contribute to cardiovascular diseases.
+    A) True
+    B) False
+
+P1-16. [tf, 2 pt] Gircolama Fracastoro named syphilis and came up with the rational germ theory.
+    A) True
+    B) False
+
+P1-17. [mcq, 2 pt] At HUP, a couple hours after his surgery, Mr Smith was eating when a fly landed on his food. However, Mr. Smith caught it and continued eating. Four days later, Mr. Smith was sick. Later that week more cases arose at HUP. What type of disease did everyone acquire?
+    A) Nosocomial
+    B) Foodborne
+    C) Biological vector
+    D) Mechanical vector
+
+[STIMULUS] For the questions 18-23, identify whether each statement is an example of clinical approach or public health approach.
+
+P1-19. [mcq, 1 pt] UPenn conducts a campaign to educate the community about the dangers of smoking. They partner with local schools and workplaces to distribute informational pamphlets, hold workshops on quitting strategies, and share success stories from former smokers.
+    A) Clinical approach
+    B) Public health approach
+
+P1-20. [mcq, 1 pt] In response to rising diabetes rates, a local government hires healthcare workers to conduct individual screenings for blood sugar levels at community centers. Participants receive personalized advice based on their results and are referred to specialists for further care if necessary.
+    A) Clinical approach
+    B) Public health approach
+
+P1-21. [mcq, 1 pt] A physician collaborates with a nutritionist to design a dietary intervention for patients with high cholesterol. They set long-term goals for the patients, schedule regular follow-ups to track progress, and adjust the plans as needed.
+    A) Clinical approach
+    B) Public health approach
+
+P1-22. [mcq, 1 pt] A city health department launches a campaign to distribute free water filtration systems in neighborhoods with unsafe drinking water. Alongside this, they provide community workshops on the health risks of contaminated water and the importance of proper hydration.
+    A) Clinical approach
+    B) Public health approach
+
+P1-23. [mcq, 1 pt] A community center implements a program encouraging physical activity by building walking trails and promoting group exercise sessions. The program includes tracking tools for residents to monitor their progress and organizes monthly health events to keep participation high.
+    A) Clinical approach
+    B) Public health approach
+
+P1-24. [frq, 4 pt] Hospitals are an example of partners that the public health surveillance team can contact in order to gather information to help them identify potential outbreaks. List 4 other partners.
+
+P1-25. [mcq, 2 pt] During which of the following steps is the information organized into person, place, and time graphs.
+    A) Data collection
+    B) Data interpretation
+    C) Data analysis
+    D) Data dissemination
+
+P1-26. [mcq, 2 pt] Which of the following is NOT a reason why linking collected public health data to action is critical?
+    A) To allocate resources for prevention and intervention efforts.
+    B) To guide public health policies and decision-making.
+    C) To implement targeted health programs based on identified needs.
+    D) To validate the statistical methods used in data analysis.
+
+P1-27. [mcq, 2 pt] Which of the following is NOT a purpose or goal of public health surveillance?
+    A) To identify populations where early diagnosing is required to prevent a certain disease
+    B) To provide antibiotics and vaccines which will be administered to populations with high risk of certain diseases.
+    C) To assess the effectiveness of previous public health measures and controls
+    D) To estimate the magnitude of a health problem.
+
+P1-28. [mcq, 2 pt] Which of the following scenarios demonstrates the timeliness of the surveillance?
+    A) The rapid adaptation of the AIDS surveillance system to include advancements in the understanding of the disease.
+    B) A disease reporting system that allows healthcare providers to submit case information through a simple online form, accelerating the process.
+    C) The rapid reporting of an adverse health event to a public health agency, allowing timely implementation of control and prevention measures.
+    D) The gonorrhea surveillance system's ability to expand and include special tracking for penicillinase-producing Neisseria gonorrhoeae.
+
+[STIMULUS] For questions 29-32 match the surveillance types to the scenario.
+
+A) Active
+B) Passive
+C) Sentinel
+D) Syndromic
+
+P1-29. [mcq, 1 pt] The physicians have been reporting cases of influenza which is currently endemic.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P1-30. [mcq, 1 pt] After a recent cluster of pneumonia in Philly, the 3 university clinics were required to report all the cases of pneumonia.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P1-31. [mcq, 1 pt] A public health agency tracks and analyzes emergency department visit records to identify patterns of symptoms.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+P1-32. [mcq, 1 pt] The hospitals in Havertown have been required to submit any cases of Rheumatic fever due to an epidemic in the city.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] **Scenario 1: Foodborne Listeriosis**
+
+Listeriosis is a disease caused by the bacterium *Listeria monocytogenes*. Infected individuals can experience vomiting, diarrhea, and flu-like symptoms (e.g. fever, muscle aches, and tiredness). The bacteria is most commonly spread through raw or undercooked food, although vertical mother-to-fetus transmission is also possible. Horizontal transmission does not occur. Listeriosis has a typical incubation period of <24 hours and a duration of 1-5 days.
+
+You are a public health official investigating a sudden increase in cases of listeriosis in Montgomery County, PA. You notice that many of these patients recently purchased sliced meats from local shops. Furthermore, all of the confirmed cases so far have experienced onset between January 9th and January 25th, 2025.
+
+P2-1. [frq, 13 pt] List the 13 steps of outbreak investigation.
+
+P2-2. [frq, 4 pt] A sudden increase in cases is not always a sign of a true outbreak. List 2 other factors that could have accounted for this increase in cases.
+
+P2-3. [frq, 4 pt] Construct a working case definition for this outbreak.
+
+P2-4. [mcq, 2 pt] Given your case definition and the clinical features of listeriosis, what is the most likely mode of spread for this outbreak?
+    A) Propagated source
+    B) Seasonal spread
+    C) Point source
+    D) Continuous common source
+
+[STIMULUS] You gather samples from a number of confirmed listeriosis patients and send them to a local lab for DNA fingerprinting. The lab produces the following PFGE gel (shown below), and reports their data to the CDC.
+
+Source: Peiris 2011
+    [IMAGE: ../images/2025_soup_upenn_c__p7_1766c2-79f8451e.webp]
+
+P2-9. [frq, 2 pt] This lab belongs to a national network dedicated to the early identification of foodborne illness outbreaks via DNA fingerprinting. What is the name of this network?
+
+P2-10. [mcq, 2 pt] How many unique strains of *L. monocytogenes* can be seen on the PFGE gel? Note: lanes 3 and 10 contain DNA ladders.
+    A) 2
+    B) 3
+    C) 4
+    D) 5
+
+P2-11. [mcq, 2 pt] You find that one of these strains contains a mutation that confers resistance to ampicillin, a common antibiotic. Compared to other strains, you would expect this strain to display all of the following, EXCEPT:
+    A) Increased prevalence
+    B) Increased incidence
+    C) Longer average duration of disease
+    D) Increased mortality rate
+
+[STIMULUS] After some research, you identify three stores of interest that sell sliced meats. Below is a table showing the disease outcomes of individuals who purchased from each shop.
+
+| Store | Contracted listeriosis | Did not contract listeriosis |
+|---|---|---|
+| Horse Bed Deli | 12 | 22 |
+| Penn Soup & Broth Research Center | 10 | 49 |
+| Pinnacle Supermarket | 15 | 62 |
+| Total (all interviewees) | 52 | 188 |
+
+P2-13. [frq, 3 pt] Using the table above, calculate the relative risk of each shop.
+
+P2-15. [mcq, 2 pt] Which shop appears to offer the greatest protective effect against listeriosis?
+    A) Horse Bed Deli
+    B) Penn Soup & Broth Research Center
+    C) Pinnacle Supermarket
+
+
+=== Part 2: Outbreak Investigation (cont.) ===
+
+[STIMULUS] **Scenario 2: Trichodysplasia Spinulosa**
+
+You are a researcher studying trichodysplasia spinulosa (TS), an extremely rare skin condition that appears almost exclusively in immunocompromised patients (usually organ transplant recipients on regimens of immunosuppressive drugs). The disease is characterized by bumps and keratin spines on the face. There is evidence that TS is caused by trichodysplasia spinulosa polyomavirus (TSPyV). TSPyV is capable of person-to-person transmission, primarily from mother to child and between siblings. Although the precise route of transmission is unknown, there is evidence that the upper respiratory tract may be an important site of infection.
+
+P3-16. [mcq, 2 pt] Which of the following study types is best suited to studying TS?
+    A) Case control
+    B) Cohort
+    C) Ecological
+    D) Cross sectional
+
+P3-17. [frq, 4 pt] List Koch's Postulates.
+
+P3-18. [mcq, 2 pt] Can Koch's Postulates be used to establish a causal relationship between TS and TSPyV?
+    A) Yes, because it is biologically plausible that a virus can cause TS.
+    B) Yes, because TSPyV often causes disease when introduced into a healthy person.
+    C) No, because viruses are incapable of growing in pure culture.
+    D) No, because the biological gradient for viruses flattens beyond a certain dosage.
+
+P3-19. [mcq, 2 pt] Which of the following would be the most feasible strategy for a public health agency trying to reduce the spread of TS?
+    A) Stop administering immunosuppressants for organ transplant recipients
+    B) Provide prophylactic antiviral medication for immunocompromised patients
+    C) Isolate patients infected with TSPyV
+    D) Regularly test individuals for TSPyV infection
+
+P3-20. [frq, 3 pt] While conducting an experiment, you forget to properly discard a needle used on a TS patient. The next day, another immunocompromised individual (who does not have TS) accidentally pricks themselves on the needle. Given what you know about TS, what is the likelihood that they will develop the disease? Explain your answer.
+
+P3-22. [numeric, 2 pt] Suppose that, on average, a TS patient will infect 2.1 other individuals (the real value is unknown). What is the lowest possible herd immunity threshold for this disease? Express your answer as a percentage.
+
+[STIMULUS] New studies discover that drinking gazpacho (a type of delicious cold soup!) can protect against TS, because the vegetables contain antibodies against TSPyV.
+
+P3-24. [mcq, 2 pt] What type of immunity is conferred by drinking gazpacho?
+    A) Herd immunity
+    B) Innate immunity
+    C) Passive immunity
+    D) Active immunity
+
+P3-25. [frq, 3 pt] Does drinking gazpacho protect against TSPyV infection more or less effectively than a traditional vaccine? Why or why not?
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+[STIMULUS] Blastomycosis is a fungal disease caused by inhalation of *Blastomyces* spores from the environment that can result in severe pulmonary illness and high hospitalization rates. In early March 2023, Public Health Delta and Menominee Counties (Michigan) reported a cluster of blastomycosis cases among paper mill workers to the Michigan Department of Health and Human Services (MDHHS). Assessment of 645 mill workers identified 162 cases of blastomycosis with illness onset during November 1, 2022–May 15, 2023, with the weekly case count peaking at 21 cases in early March 2023.
+
+P4-1. [frq, 2 pt] What type of epidemic curve would blastomycosis generate? Why? (one sentence explanation; keep it brief)
+
+P4-2. [numeric, 2 pt] Calculate the prevalence of blastomycosis for the assessed mill workers over the outbreak period. Show your work and express rate per 100 mill workers.
+
+[STIMULUS] The paper mill is located adjacent to a river and occupies 2,200 acres, including the indoor mill buildings, outdoor woodyards, water treatment lagoons, and landfill. Mill buildings contained approximately 400 heating, ventilation, and air conditioning (HVAC) systems. The ventilation assessment involved visual assessment of the air handling units and makeup air units (these units supply fresh air from outside the building into the occupied space). *Blastomyces* spores typically inhabit soil or air vents and spread through air currents.
+
+P4-3. [frq, 3 pt] What is the appropriate control and prevention measure at this step?
+
+P4-4. [frq, 3 pt] Based on your answer to 3, what is the next appropriate control and prevention measure?
+
+P4-6. [frq, 2 pt] Epidemiologists can infer several characteristics of a disease from its epidemic curve. Name two of these potential characteristics:
+
+P4-7. [frq, 4 pt] Identify the type of epi curves A & B are and provide the name of **one** potential pathogen for each epicurve.
+    [IMAGE: ../images/2025_soup_upenn_c__p12_896ded-3009ec6b.webp]
+
+[STIMULUS] CONTROLLING BIAS: Experimental studies use multiple techniques to minimize bias. Among these are randomization, blinding, and the use of a placebo group. Please match the descriptions with the appropriate technique.
+
+A. Randomization
+B. Placebo
+C. Blinding
+
+P4-10. [mcq, 1 pt] 
+    
+    Eliminates conscious bias due to physician or patient selection
+    A) Randomization
+    B) Placebo
+    C) Blinding
+
+P4-11. [mcq, 1 pt] 
+    
+    Often impossible in nondrug studies
+    A) Randomization
+    B) Placebo
+    C) Blinding
+
+P4-15. [mcq, 1 pt] 
+    
+    Effective at controlling for unmeasured confounding effects
+    A) Randomization
+    B) Placebo
+    C) Blinding
+
+[STIMULUS] In 1967, The World Health Organization launched an intensified plan to eradicate smallpox. Widespread immunization and surveillance were conducted around the world for several years. The last known natural case was in Somalia in 1977. In 1980 WHO declared smallpox eradicated – the only infectious disease to achieve this distinction. This remains among the most notable and profound public health successes in history. The R₀ (reproductive factor) of smallpox is 4.5.
+
+P4-16a. [frq, 3 pt] What are three characteristics of smallpox that made it a candidate for eradication? (Each correct characteristic earns 1 point)
+
+P4-16b. [numeric, 3 pt] Please calculate the minimum number of individuals in a population of a 100 that would have to be vaccinated in order to achieve herd immunity.
+
+P4-16c. [numeric, 6 pt] Suppose that smallpox was allowed to circulate freely (i.e. no control & prevention measures are installed) in this same immunized population. The case fatality rate of smallpox is 30%. Assuming vaccinated individuals do not get ill and that everyone who is not immunized is infected, what is the expected number of smallpox-related mortalities? (round to one decimal place)

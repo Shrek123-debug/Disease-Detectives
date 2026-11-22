@@ -1,0 +1,198 @@
+University of Maryland — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  45 questions, 120.0 pts
+Source: scio.ly test archive id 50392eaf-19b4-4eb1-a031-607d2cfbf57b  |  original files: https://drive.google.com/drive/folders/1JywDSm3XqRDIJDsqN7xwL3G8LY599iA0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+
+=== Fill in the blank ===
+
+[STIMULUS] **Fill in the blank**: Please fill in the blanks with the vocabulary word that best summarizes the idea. A word bank is provided. Only words contained in the word bank below are acceptable answers. You may use a word more than once.
+
+| Primary Prevention | Secondary Prevention | Tertiary Prevention |
+|---|---|---|
+| Quaternary Prevention | Active Surveillance | Passive Surveillance |
+| Sentinel Surveillance | Syndromic Surveillance | Public Health |
+| Prions | Fomite | Vector |
+| Epidemic | Pandemic | Outbreak |
+| Quarantine | Isolation | Protease |
+| Incubation Period | Latency Period | Virus |
+| Accuracy | Sensitivity | Specificity |
+| Propagated Source | Point Source | Epi Curve |
+
+P1-1. [frq, 1 pt] Pathogen that causes disease without nucleic acid.
+
+P1-2. [frq, 1 pt] The separation of well persons to monitor for illness.
+
+P1-3. [frq, 1 pt] From ages 3 to 6, children have their vision and hearing screened every year. This is an example of: ____
+
+P1-4. [frq, 1 pt] Health departments initiating collection of information from heath care providers or labs is an example of: ____
+
+P1-5. [frq, 1 pt] The ability to correctly determine the true positive rate (identifying the true amount of people with a disease of interest: ____
+
+P1-6. [frq, 1 pt] Length of time from exposure to a pathogen to the development of visible symptoms.
+
+P1-7. [frq, 1 pt] Receiving an HPV vaccination to prevent the occurrence of cervical cancer is an example of: ____
+
+P1-8. [frq, 1 pt] Following with rehabilitation and treatment to treat a symptomatic disease or reduce harm is an example of: ____
+
+P1-9. [frq, 1 pt] Using an ongoing collection and interpretation of health related data, allowing for quick detection or anticipation of outbreaks.
+
+P1-10. [frq, 1 pt] Applying sunscreen and following with a dermatologist to treat multiple benign nevi, which could potentially lead to melanomas, is an example of: ____
+
+P1-11. [frq, 1 pt] If in a study, researchers were to interview people with lung cancer who had excessive exposure to polycyclic aromatic hydrocarbons (PAHs), this study would be utilizing: ____
+
+P1-12. [frq, 1 pt] Non-living object that transmits infectious agent: ____
+
+P1-13. [frq, 1 pt] Time in between exposure to a pathogen and infection: ____
+
+P1-14. [frq, 1 pt] If a hospital were to estimate the number of cases of fatal reovirus serotype 3-induced meningoencephalitis within Howard County, what would this be an example of?
+
+
+=== Multiple choice ===
+
+[STIMULUS] **Multiple choice**: Choose the best answer for each of the questions.
+
+P2-15. [mcq, 3 pt] Who is considered the father of the field of epidemiology?
+    A) Edward Jenner
+    B) John Snow
+    C) John Gaunt
+    D) William Farr
+    E) Richard Doll
+
+P2-16. [mcq, 3 pt] Variolation was a practice used to treat which virus?
+    A) Human Immunodeficiency Virus
+    B) Norovirus
+    C) Smallpox virus
+    D) Yellow Fever virus
+    E) West Nile virus
+
+P2-17. [mcq, 3 pt] The Bradford Hill criteria, also known as Hill's criteria for causation, contains all of the following EXCEPT:
+    A) Reproducibility
+    B) Plausibility
+    C) Effect Size
+    D) a and c
+    E) None of the Above
+
+P2-18. [mcq, 3 pt] The term used to describe the resistance of a population to spread an infectious organism due to the immunity of a high proportion of the population.
+    A) Virulence
+    B) Population Resilience
+    C) Herd Immunity
+    D) Passive Immunity
+    E) Mass Vaccination
+
+P2-19. [mcq, 3 pt] A company developed helmets to help shape infants with plagiocephaly. One group of parents opted to use helmet therapy for their 4 month old child. A second group of parents did not utilize helmet therapy. Suppose a study were conducted comparing the shapes of the children’s head at 2 years old. What type of study is this classified as?
+    A) Observational Cohort
+    B) Observational Case-Control
+    C) Observational Cross-Sectional
+    D) Experimental
+    E) None of the Above
+
+P2-20. [mcq, 3 pt] Which of the following is NOT an example of a virus?
+    A) Salmonella
+    B) Hepatitis A
+    C) Rabies
+    D) a and c
+    E) None of the Above
+
+P2-21. [mcq, 3 pt] An epicurve can provide all of the following EXCEPT:
+    A) Most likely time of exposure
+    B) Inferences about the pattern of spread
+    C) A general sense of the outbreak’s magnitude
+    D) All of the above
+    E) None of the above
+
+P2-22. [mcq, 3 pt] According to the CDC, which of the following is the most influential health determinant?
+    A) Lifestyle choices
+    B) Societal characteristics
+    C) Genetics/biological factors
+    D) Access to medical care
+    E) Quality of medical care
+
+
+=== True/False ===
+
+[STIMULUS] **True/False**: Please label each statement as true or false. If the answer is false, please briefly state why the answer is not accurate in 1-2 sentences.
+
+P3-23. [tf, 2 pt] The virulence of a particular virus is a defined property of the virus that is identical for infections of that virus.
+    A) True
+    B) False
+
+P3-23b. [frq, 1 pt] If the statement is false, briefly state why the answer is not accurate in 1-2 sentences.
+
+P3-24. [tf, 2 pt] Pathological changes will typically occur during the Stage of Clinical Disease.
+    A) True
+    B) False
+
+P3-24b. [frq, 1 pt] If the statement is false, briefly state why the answer is not accurate in 1-2 sentences.
+
+P3-25. [tf, 2 pt] A confirmed case requires laboratory confirmation.
+    A) True
+    B) False
+
+P3-26. [tf, 2 pt] Small pox is the only human disease caused by an infectious agent to be eradicated.
+    A) True
+    B) False
+
+P3-27. [tf, 2 pt] An example of Hill’s first criterion was when Perceival Potts believed there was an association between the chimney sweeping occupation and scrotal cancer.
+    A) True
+    B) False
+
+P3-28. [tf, 2 pt] Nude mice are used in experiments because they lack a normal thymus gland. Absence of this gland compromises the maturation of T-lymphocytes (T-cells).
+    A) True
+    B) False
+
+
+=== Procedures ===
+
+[STIMULUS] **Procedures**: Be sure to list out every step of the procedures below, in the correct order.
+
+P4-29. [frq, 11 pt] What are the steps of an outbreak investigation, in order?
+
+P4-30. [frq, 7 pt] What are the steps of the chain of transmission, in order?
+
+P4-31. [frq, 6 pt] What are the steps of the surveillance?
+
+P4-32. [frq, 6 pt] What is necessary to write a case definition? Please provide an example of a proper case definition.
+
+
+=== Short Answer ===
+
+[STIMULUS] **Short Answer**: In the provided space below, please read each question to its entirety and briefly answer each question. Please be sure to address all parts of each question.
+
+P5-33. [frq, 6 pt] After further research, Koch realized there existed exceptions to his previously established “Koch’s postulates.” Please list out Koch’s postulates. What is an example of an exception to Koch’s postulates?
+
+[STIMULUS] Below is a table illustrating data collected about children who have been diagnosed with the hand-foot-and-mouth virus.
+
+|  | Positive Virus | No Virus |
+|---|---|---|
+| Attends Daycare | 40 | 160 |
+| Does Not Attend Daycare | 3 | 97 |
+
+P5-34b. [frq, 2 pt] Calculate the relative risk and interpret the conclusion.
+
+[STIMULUS] The rapid strep test is a qualitative, lateral flow immunoassay used to quickly detect the Strep A antigen. A rapid strep test is conducted by swabbing the patient's throat. The throat swab sample reacts to the Strep A antibody coated on the test region. When the test region produces a solid red line, the test result is positive, meaning Strep A is present. There will always be a separate red line appearing above the test region, if the test had been performed correctly.
+
+P5-35a. [frq, 2 pt] What is the purpose of the red line that appears above the test region?
+
+P5-35b. [frq, 3 pt] If the red line above the test region does not appear, what does this signify? What are some possible reasons for this to occur?
+
+P5-35c. [frq, 5 pt] The rapid strep test is about 97.38% sensitive. What does this indicate about the rapid strep tests? How many false negatives is expected in a sample of 1,895 case results? What type of error would a false negative be considered?
+
+[STIMULUS] Below is an epi curve depicting the frequency of Salmonella gastroenteritis cases by Date of Onset in Chipotle stores in Maryland, October 2019. The average incubation period for Salmonella is 12 to 36 hours.
+
+P6-33. [frq, 2 pt] Please provide an appropriate label for the X and Y axis.
+
+P6-33b. [frq, 1 pt] What is the most likely mode of spread?
+
+[STIMULUS] Review the below information about a typhoid case study from the CDC (https://www.cdc.gov/epicasestudies/downloads/typhoid_inst.pdf)
+
+Typhoid is an infection caused by the Salmonella typhimurium bacteria. The bacterium lives in the intestines and bloodstream of humans. Typhoid is diagnosed by detecting the presence of S. typhi via blood, stool, urine, or bone marrow sample.
+
+In February 1997, an increase in typhoid fever cases was reported in Dushanbe, the capital of Tajikistan (population approximately 600,000). Although typhoid fever was endemic in this area, more than 2,000 cases had been reported during January 29−February 11.
+
+P6-34. [frq, 6 pt] Please provide a logical chain of infection for the Typhoid case.
+
+P6-34b. [frq, 6 pt] What are 3 preventative measures against typhoid fever?
+
+P6-34c. [frq, 3 pt] What are 3 ways to evaluate the water quality and water treatment?
+
+P6-34d. [frq, 2 pt] What are 2 possible symptoms of typhoid?

@@ -1,0 +1,216 @@
+High Desert Mini 2 — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  57 questions, 156.0 pts
+Source: scio.ly test archive id bfebea65-133c-42a9-b3d4-8c1f46115452  |  original files: https://drive.google.com/drive/folders/17F9Z-4jllLDjklQrsTq6DKEUV8QlMNHn
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Each team may bring one 8.5” x 11” sheet of paper, in a sealed sheet protector or laminated, that may contain information on both sides in any form and from any source without any annotations or labels affixed along with two stand-alone non-programmable, non-graphing calculators. Remain in Test Browser to avoid penalty points or disqualification from event.
+
+1. [frq, 2 pt] A/an ____ disease that is present at a continuous level throughout a population/geographic area.
+
+2. [frq, 6 pt] What are the three forms of the plague? (Enter alphabetically !!)
+
+3. [frq, 2 pt] ____ is the proportion of persons with clinical disease who become severely ill or die
+
+4. [frq, 4 pt] What are the 4 steps of the public health approach?
+
+5. [frq, 2 pt] ____ is a spore producing eukaryotes. It lacks chlorophyll, it’s mold, yeast, mildews, smuts, mushrooms.
+
+6. [frq, 2 pt] Worms are flukes are examples of a/an ____ infectious agent
+
+7. [multi, 2 pt] As described in this lesson, public health surveillance includes which activities?
+    A) Data collection.
+    B) Data analysis.
+    C) Data interpretation.
+    D) Data dissemination.
+    E) Disease control.
+
+8. [multi, 2 pt] Common uses and applications of public health surveillance include which of the following?
+    A) Detecting individual persons with malaria so that they can receive prompt and appropriate treatment.
+    B) Helping public health officials decide how to allocate their disease control resources.
+    C) Identifying changes over time in the proportion of children with elevated blood lead levels in a community
+    D) Documenting changes in the incidence of varicella (chickenpox), if any, after a law requiring varicella vaccination took effect.
+
+9. [mcq, 2 pt] Vital statistics are important sources of data on which of the following?
+    A) Morbidity.
+    B) Mortality.
+    C) Health-related behaviors.
+    D) Injury and disability.
+    E) Outpatient health-care usage.
+
+10. [tf, 2 pt] Notifiable disease surveillance usually focuses on morbidity from the diseases on the list and does not cover mortality from those diseases.
+    A) True
+    B) False
+
+11. [multi, 2 pt] Evaluating and improving surveillance should address which of the following?
+    A) Purpose and objectives of surveillance.
+    B) Resources needed to conduct surveillance.
+    C) Effectiveness of measures for controlling the disease under surveillance.
+    D) Presence of characteristics of well-conducted surveillance.
+
+12. [tf, 2 pt] Underreporting is not a problem for detecting outbreaks of notifiable diseases because the proportion of cases reported tends to remain relatively stable over time.
+    A) True
+    B) False
+
+13. [frq, 2 pt] ____ is a disease in which a high prevalent level of infection begins early in life and affects most of the child population.
+
+14. [frq, 2 pt] ____ is an aftereffect of a disease, condition, or injury
+
+15. [frq, 2 pt] The ____ case is the first patient in an epidemiological study (also known as patient zero or primary case)
+
+16. [frq, 2 pt] ____Infections are acquired during the process of receiving health care that was not present during the time of admission.
+
+17. [frq, 5 pt] List the 5 steps of surveillance in order.
+
+18. [frq, 5 pt] Explain infectivity, pathogenicity, and virulence, as well as the differences compared to the other two.
+
+19. [frq, 2 pt] ____ surveillance is if the LBOH is supplied with real time indicators of smallpox-like illnesses, including over the counter drug sale records and school absent logs
+
+20. [frq, 2 pt] Disease: any departure from a state of physiological or psychological health and well-being is defined as ____.
+
+21. [mcq, 2 pt] In a lab study, it was found that by increasing the exposure of toxic gas, there was higher risk that the subjects fell ill. Which of Hill’s criteria is this?
+    A) Specificity
+    B) Temporality
+    C) Dose-response relationship
+    D) Coherence
+
+22. [mcq, 2 pt] Bill recently recovered from a virus. However, recently after he recovered, his sister began showing symptoms of the same virus. Bill’s sister Belle believes she should not have contracted the virus from Bill since she only shared food with Bill after he recovered. However, it is likely Bill passed the virus to his sister. What type of carrier could Bill be?
+    A) Vector
+    B) Fomite
+    C) Chronic
+    D) Convalescent
+
+23. [mcq, 2 pt] Which foodborne illness can result in respiratory failure and death?
+    A) Clostridium botulinum
+    B) Hepatitis A
+    C) Salmonella
+    D) Clostridium perfringens
+
+[STIMULUS] OUTBREAK INVESTIGATION
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+    | Food eaten | Number infected | Number Non Infected |
+    | Raspberry Tarts | 16 | 14 |
+    | Enchiladas | 9 | 21 |
+    | Beef Soup | 12 | 18 |
+    | Asparagus | 11 | 19 |
+
+24a. [frq, 3.33 pt] Write a case definition for this.
+
+24b. [frq, 3.33 pt] Calculate the attack rate of each of the food items.
+
+24c. [frq, 3.34 pt] Based on the calculations, which food item most likely caused the outbreak and why?
+
+[STIMULUS] OUTBREAK INVESTIGATION
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+
+25. [frq, 10 pt] d. What are the 13 steps of an outbreak investigation?
+
+[STIMULUS] OUTBREAK INVESTIGATION
+On April 20, 2021, students of Edison HS were sent home due to symptoms of vomiting, diarrhea, stomach cramps, and fevers. Later, some public health officials investigated the cafeteria food and found that all the students who were sent home had eaten either the Raspberry tarts, Enchiladas, Beef soup, or Asparagus.
+
+26e. [frq, 3.33 pt] Judging from the information given, what type of surveillance was used in this investigation and why?
+
+26f. [frq, 3.33 pt] What kind of outbreak is this?
+
+26g. [frq, 3.34 pt] What would you do going forward to prevent the continued spread of disease?
+
+28. [mcq, 2 pt] Recently, a man went to the hospital to receive a surgery for his heart disease. This type of prevention is known as:
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+29. [mcq, 2 pt] What is Girolamo Fracastoro notable for?
+    A) Father of demography (study of populations)
+    B) Proposed the idea of contagionism
+    C) Created clinical trials
+    D) Led widespread social and health policy changes in Italy
+
+30. [mcq, 2 pt] Who was Percivall Pott?
+    A) Creator of the first vaccine
+    B) Discovered cancer can be caused by environmental factors
+    C) Discovered E. Coli was a bacteria
+    D) Key figure in the Spanish Flu pandemic in England
+
+31. [mcq, 2 pt] It established guidelines for basic ethical principles, as well as informed consent,the assessment of risks and benefits and subject selection.
+    A) Declaration of Helsinki
+    B) Belmont Report
+    C) HIPAA
+    D) Nuremberg Code
+
+32. [mcq, 2 pt] Thomas Eric Duncan was the first known person to contract Ebola in the US. He would be known as the
+    A) Index case
+    B) Index casualty
+    C) Case zero
+    D) Case one
+
+33. [mcq, 2 pt] Rabies is this caused by?
+    A) Virus
+    B) Fungus
+    C) Prion
+    D) Bacteria
+
+[STIMULUS] It turns out that the PCR tests for Smallpox were wildly inaccurate.
+Using the below table, answer the questions below.
+
+34a. [numeric, 4 pt] Calculate the sensitivity. ____% (whole number)
+
+35b. [numeric, 4 pt] Calculate the specificity. ____% (whole number)
+
+36c. [numeric, 4 pt] Calculate PPV. ____% (whole number)
+
+37d. [numeric, 4 pt] Calculate PNV. ____% (whole number)
+
+[STIMULUS] 352 people attended a party on July 9.
+The following data table shows the number of individuals that came down with the Mehtavirus because of lack of food safety preparing desserts.
+
+38a. [numeric, 4 pt] Calculate the prevalence of Mehtavirus amongst party attendees (decimal to nearest 1000th)()
+
+39b. [numeric, 4 pt] Calculate the incidence of Mehtavirus from 7/21 to 7/25 (inclusive)(decimal to nearest 1000th)()
+
+40c. [numeric, 4 pt] 6 individuals passed away from complications due to the Mehtavirus.
+    Calculate the case fatality rate of Mehtavirus. (decimal to nearest 1000th) (show work)
+
+41d. [frq, 2 pt] What kind of outbreak is this?
+
+42. [mcq, 2 pt] A man sneezing on a table leaving behind contagious viral particles which can infect other people who visit the table. This mode of transmission would be…
+    A) Direct
+    B) Indirect
+    C) Droplets
+    D) Vector
+
+43. [mcq, 2 pt] The COVID-19 vaccine that is being made for the public would give ____ immunity
+    A) passive
+    B) herd
+    C) active
+    D) None of the above
+
+44a. [frq, 2 pt] What does Event A represent?
+
+44b. [frq, 2 pt] What is one way to prevent event A from occurring?
+
+44c. [frq, 2 pt] What does Period B represent?
+
+44d. [frq, 2 pt] What does period C represent?
+
+44e. [frq, 2 pt] Can the HIV virus be detected during this period?
+
+44f. [frq, 2 pt] What does period D represent?
+
+45. [mcq, 2 pt] What are the early symptoms of Conjunctivitis? Itchy rash, Diarrhea, Sore throat, Irritation and eye redness.
+    A) Itchy rash
+    B) Diarrhea
+    C) Sore throat
+    D) Irritation and eye redness
+
+46. [mcq, 2 pt] What is the time between exposure and Conjunctivitis symptoms?
+    A) 1-2 days
+    B) 2-6 weeks
+    C) 6-10 weeks
+    D) 2-10 days
+
+[STIMULUS] Given the sample Data: 8, 5, 4, 4, 2, 1
+
+47a. [numeric, 2 pt] Calculate the mean. (whole number)
+
+47b. [numeric, 2 pt] Calculate the Variance. (whole number)
+
+47c. [numeric, 2 pt] Calculate the Standard Deviation: (10oth place)

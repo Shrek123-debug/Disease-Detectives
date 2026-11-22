@@ -1,0 +1,363 @@
+Cypress Falls — Disease Detectives  |  Season 2016  |  Division C  |  Time limit 50 min  |  60 questions, 103.0 pts
+Source: scio.ly test archive id 5e2c3eca-8bdb-4b3b-924f-b3478cbfc55b  |  original files: https://drive.google.com/drive/folders/1PuH_TgrQFZEhXWq2edtO9kQUum_XySay
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: You will have 50 minutes to complete this test. Good luck!
+
+
+=== Section I ===
+
+1. [mcq, 1 pt] One of the fundamental premises underlying the study of epidemiology is...
+    A) disease, illness and ill health are randomly distributed in a population.
+    B) disease, illness and ill health are not randomly distributed in a population.
+    C) Disease, illness and ill health are only randomly distributed in large populations.
+    D) Disease, illness and ill health are very rarely distributed in large populations.
+
+2. [mcq, 1 pt] During the 20th century, the U.S. experienced a change in leading causes of death...
+    A) From primarily infectious diseases to primarily chronic diseases.
+    B) From primarily chronic diseases to infectious diseases
+    C) Due to increases in infant mortality and decreases in diseases affecting the elderly.
+    D) Due to decreases in infant mortality and decreases in diseases affecting the elderly.
+
+3. [mcq, 1 pt] Fluoridation of water would be an example of
+    A) A primary prevention strategy
+    B) A secondary prevention strategy
+    C) A tertiary prevention strategy
+    D) It is not a prevention strategy
+
+4. [mcq, 1 pt] During the 19th century, John Snow...
+    A) proved his miasmatic theory of disease using shoe leather epidemiology.
+    B) proved that cholera was spread through contaminated water by conducting natural experiments.
+    C) was the first anesthesiologist to use chloroform on a woman in labor.
+    D) hypothesized that cholera was primarily due to overcrowded conditions and malnutrition.
+
+5. [mcq, 1 pt] A researcher is interested in recording the number of individuals in a particular geographic region who have a common cold at some point during the month of February 2001. Which of the following measures of morbidity would be most appropriate in answering this question?
+    A) Point Prevalence
+    B) Period prevalence
+    C) Cumulative Incidence
+    D) Incidence Density
+
+6. [mcq, 1 pt] A researcher is interested in knowing how many new cases of the measles developed at St. Theresa's Elementary School in April 2001. Assuming that no children enrolled during that month, and no children moved during that month (all children were followed for the entire month), which measure of morbidity would be most appropriate in answering this question?
+    A) Prevalence
+    B) Point prevalence
+    C) Cumulative Incidence
+    D) Incidence Density
+
+7. [mcq, 1 pt] Which of the following is not a primary requirement for conducting screening for disease control
+    A) Prevalence of the disease should be high in the population under study
+    B) There should be a favorable prognosis for early treatment of the disease
+    C) The government should fund the program.
+    D) The disease should be serious
+
+8. [mcq, 1 pt] It is assumed that diseases can be transmitted directly or indirectly. A vector such as a mosquito is an example of...
+    A) direct disease transmission
+    B) indirect disease transmission
+    C) single exposure
+    D) common vehicle exposure
+
+9. [mcq, 1 pt] The resistance of a population to an attack by a disease to which a large proportion of the members of the group are immune is referred to as...
+    A) group resistance
+    B) population immunogenesis
+    C) herd immunity
+    D) the Panum Effect
+
+10. [mcq, 1 pt] The attack rate in susceptible people who have been exposed to a primary case is referred to as
+    A) The attack rate
+    B) The post primary attack rate
+    C) The secondary attack rate
+    D) The person-to-person attack rate
+
+11. [mcq, 1 pt] In investigating an epidemic, cases should be categorized according to:
+    A) time, place, and person.
+    B) agent, host, and environment.
+    C) agent, host, and date of onset.
+    D) time, person, and date of onset.
+
+12. [mcq, 1 pt] The lengths of stay for patients with healthcare associated infections are 12, 12, 12, 13, 15, 15, 16, 20, and 30 days. What is the median length of stay?
+    A) 12 days
+    B) 15 days
+    C) 16 days
+    D) 25 days
+
+13. [mcq, 1 pt] Which of the following is an important part of the first step of the epidemiologic process?
+    A) examining pre-existing medical statistics for the area to establish the existence of an outbreak
+    B) making sure all diagnoses are not due to lab error
+    C) gathering supplies and researching the disease applicable to the investigation
+    D) creating a case definition
+
+14. [mcq, 1 pt] An outbreak could be reported incorrectly if
+    A) data collection methods suddenly improve
+    B) more people are getting sick
+    C) the causative organism is not immediately identified
+    D) all the cases are almost exactly the same
+
+15. [mcq, 1 pt] Which of the following would be a good sample for a cross-sectional study?
+    A) mailing a brief health questionnaire to a random sample of houses
+    B) splitting a sample of volunteers into a test group and control group
+    C) examining a group that is initially healthy to see changes in their disease status over time
+
+16. [mcq, 1 pt] Select the choices that lists all the true statements out of the following:
+    I. Observational studies work backward from an effect to a suspected cause
+    II. Cohort studies work forward from the cause to the effect
+    III. Cohort studies can be performed retrospectively or prospectively
+    A) I and II
+    B) none
+    C) II and III
+    D) I, II, and III
+
+17. [mcq, 1 pt] Which of the following factors is most important when considering the validity of the results of a clinical trial?
+    A) There are equal numbers of people in the intervention and control groups
+    B) A relatively high incidence of the outcome of interest in the study population
+    C) Inclusion of people of all ages
+    D) Random allocation of participants to the intervention and control groups
+    E) 100% compliance with the intervention
+
+19. [mcq, 1 pt] A double-blind study of a vaccine is one in which:
+    A) Neither the observers or the participants know the nature of the placebo
+    B) Neither the observers or the participants know who received the vaccine and who received the placebo
+    C) The participants in the vaccine group do not know the participants in the control group
+    D) A, B and C are all true
+    E) None of the above statements is true
+
+[STIMULUS] A. Distribution B. Determinants C. Application
+
+20-1. [mcq, 1 pt] Compare food histories between persons with Staphylococcus food poisoning and those without
+    A) Distribution
+    B) Determinants
+    C) Application
+
+20-2. [mcq, 1 pt] Compare frequency of brain cancer among anatomists with frequency in general population
+    A) Distribution
+    B) Determinants
+    C) Application
+
+20-3. [mcq, 1 pt] Mark on a map the residences of all children born with birth defects within 2 miles of a hazardous waste site
+    A) Distribution
+    B) Determinants
+    C) Application
+
+20-4. [mcq, 1 pt] Graph the number of cases of congenital syphilis by year for the country
+    A) Distribution
+    B) Determinants
+    C) Application
+
+20-5. [mcq, 1 pt] Recommend that close contacts of a child recently reported with meningococcal meningitis receive Rifampin
+    A) Distribution
+    B) Determinants
+    C) Application
+
+20-6. [mcq, 1 pt] Tabulate the frequency of clinical signs, symptoms, and laboratory findings among children with chickenpox in Cincinnati, Ohio
+    A) Distribution
+    B) Determinants
+    C) Application
+
+21. [mcq, 1 pt] All of the following are important criteria when making causal inferences except:
+    A) Consistency with existing knowledge
+    B) Dose-response relationship
+    C) Consistency of association in several studies
+    D) Strength of association
+    E) Predictive value
+
+22. [tf, 1 pt] Biases reflect inadequacies in the design or conduct of a study and clearly affect the validity of the findings.
+    A) True
+    B) False
+
+23. [tf, 1 pt] Causal guidelines prove an association is causal.
+    A) True
+    B) False
+
+24. [tf, 1 pt] Confounding and bias are both examples of random error.
+    A) True
+    B) False
+
+25. [mcq, 1 pt] Confounding can be controlled by
+    A) Stratifying by levels of the confounder
+    B) Using direct and indirect adjustment
+    C) Using multivariate regression analyses
+    D) All of the above
+
+
+=== Section II ===
+
+[STIMULUS] The following scenario has been adapted from the CDC:
+On September 19, 1976, the chief medical officer of the Bumba zone in northern Zaire radioed the Minister of Health in Kinshasa to report that an exceptionally lethal disease had become an epidemic. Since the first of September, 17 patients at the Yambuku Mission Hospital in the Yandongi county and one Belgian missionary midwife employed by the hospital had developed an illness characterized by fever, vomiting, abdominal pain, and bloody diarrhea that rapidly progressed to death. The officer reported that the illness appeared to be spreading among the remaining 16 hospital staff members, as well as persons living along the roads leading from Yambuku.
+The Bumba zone is in the middle Zaire river basin, an area consisting predominantly of tropical rainforest. About 275,000 people live there, mostly in small villages with fewer than 500 people. The people are avid hunters and come in contact with a variety of animals. Dysentery, malaria, measles, pneumonia, and tuberculosis are some of the common endemic diseases.
+
+26. [frq, 2 pt] Define endemic:
+
+27. [frq, 2 pt] What are some of the criteria you might use in deciding whether to launch a field investigation of an apparent outbreak?
+
+[STIMULUS] Epidemiologic teams, composed of Ministry epidemiologists and microbiologists and medical officers of two international medical missions to Zaire, were sent to the region. 32 more people with the disease had been hospitalized at the Yambuku mission hospital, and these patients were examined. The illness was characterized by a high fever, headache, bloody vomiting and diarrhea, chest and abdominal pain, arthritis, and prostration leading to death, usually in three days time. Jaundice was not present. Liver biopsy and blood specimens were collected from the patients and were sent to the World Health Organization (WHO) reference laboratories for further evaluation. On September 30th, the Yambuku hospital was closed because 11 of the 17 staff members had died of the illness. After further examination, scientists discovered that the unclassified virus was present in the dead tissues of the staff members. Furthermore, several staff members reportedly contracted the virus after contact with dead bodies. On October 3rd, Bumba Zone was quarantined
+
+28. [frq, 2 pt] What is a possible mode of transmission for this virus? Be specific.
+
+29. [frq, 6 pt] Write case definitions for a confirmed, probable, and possible case:
+
+[STIMULUS] The teams conducted active case finding in over 250 villages in the region of Yambuku. As a result, they identified 463 cases meeting one of the case definitions. Of these cases, 38 met the definition for a proven case, 229 for a probable case, and 155 for a possible case. A summary of the confirmed and probable cases by date of onset of disease is given below for just the month of September:
+    [IMAGE: ../images/2016_cypress_falls_c__p7_vfa2342-29b36a4f.webp]
+
+[STIMULUS] Table 1 Incidence of Hemorrhagic Fever By Date of Onset, Zaire, September 1976 #Proven and Probable cases
+    | Onset date September | Total | Deaths | Survivors |
+    | 1 | 1 | 1 | 0 |
+    | 2 | 2 | 2 | 0 |
+    | 3 | 2 | 2 | 0 |
+    | 4 | 1 | 1 | 0 |
+    | 5 | 4 | 4 | 0 |
+    | 6 | 3 | 3 | 0 |
+    | 7 | 6 | 6 | 0 |
+    | 8 | 5 | 5 | 0 |
+    | 9 | 6 | 6 | 0 |
+    | 10 | 8 | 8 | 0 |
+    | 11 | 7 | 6 | 1 |
+    | 12 | 10 | 10 | 0 |
+    | 13 | 9 | 9 | 0 |
+    | 14 | 13 | 13 | 0 |
+    | 15 | 11 | 11 | 0 |
+    | 16 | 10 | 10 | 0 |
+    | 17 | 9 | 9 | 0 |
+    | 18 | 9 | 9 | 0 |
+    | 19 | 14 | 14 | 0 |
+    | 20 | 12 | 11 | 1 |
+    | 21 | 12 | 12 | 0 |
+    | 22 | 15 | 15 | 0 |
+    | 23 | 18 | 18 | 0 |
+    | 24 | 22 | 22 | 0 |
+    | 25 | 14 | 13 | 1 |
+    | 26 | 10 | 10 | 0 |
+    | 27 | 8 | 7 | 1 |
+    | 28 | 5 | 4 | 1 |
+    | 29 | 6 | 4 | 2 |
+    | 30 | 4 | 3 | 1 |
+
+[STIMULUS] Figure 1
+Incidence of Hemorrhagic Fever by Date of Onset, Zaire, September 1976
+Figure 2
+Incidence of Hemorrhagic Fever by Date of Onset, Zaire, September 1976
+    [IMAGE: ../images/2016_cypress_falls_c__p9_va64565-d65b156e.webp]
+    [IMAGE: ../images/2016_cypress_falls_c__p9_v9300f7-36f9f697.webp]
+
+30. [frq, 2 pt] What kind of epidemic curve is shown in Figure 1 and what does it suggest about the mode of transmission of the disease?
+
+[STIMULUS] The following table lists the number of confirmed and probable cases according to sex and age.
+Table 2
+Distribution of Hemorrhagic Fever by Age and Sex, Zaire, 1976
+    [IMAGE: ../images/2016_cypress_falls_c__p10_ve38f8c-bd532ed6.webp]
+    | Age (years) | Male (Number, Attack Rate) | Female (Number, Attack Rate) | Total (Number, Attack Rate) |
+    | <1 | 10, [[q:31-1]] | 14, [[q:31-2]] | 24, [[q:31-3]] |
+    | 1-14 | 18, [[q:31-4]] | 25, [[q:31-5]] | 43, [[q:31-6]] |
+    | 15-29 | 33, [[q:31-7]] | 60, [[q:31-8]] | 93, [[q:31-9]] |
+    | 30-49 | 57, [[q:31-10]] | 52, [[q:31-11]] | 109, [[q:31-12]] |
+    | 50+ | 23, [[q:31-13]] | 26, [[q:31-14]] | 49, [[q:31-15]] |
+    | Total | 141, [[q:31-16]] | 177, [[q:31-17]] | 318, [[q:31-18]] |
+
+31-6. [numeric, 1 pt] Row: 1-14 - Total Attack Rate
+
+31-8. [numeric, 1 pt] Row: 15-29 - Female Attack Rate
+
+31-9. [numeric, 1 pt] Row: 15-29 - Total Attack Rate
+
+31-10. [numeric, 1 pt] Row: 30-49 - Male Attack Rate
+
+31-11. [numeric, 1 pt] Row: 30-49 - Female Attack Rate
+
+31-12. [numeric, 1 pt] Row: 30-49 - Total Attack Rate
+
+31-13. [numeric, 1 pt] Row: 50+ - Male Attack Rate
+
+31-15. [numeric, 1 pt] Row: 50+ - Total Attack Rate
+
+31-16. [numeric, 1 pt] Row: Total - Male Attack Rate
+
+31-17. [numeric, 1 pt] Row: Total - Female Attack Rate
+
+31-18. [numeric, 1 pt] Row: Total - Total Attack Rate
+
+32. [frq, 3 pt] What age groups within each gender had the greatest number of reported cases? List the top 3 overall amongst both genders.
+
+33. [frq, 2 pt] Give one reason why the age groups above had the greatest number of reported cases.
+
+[STIMULUS] Later on, a case-control study was undertaken to determine whether exposure to a case and/or exposure to the Yambuku Mission Hospital were associated with development of disease. Data were obtained from each confirmed and probable case, and from a control matched to each case by age, sex, and village. The data were properly analyzed in matched fashion, but are presented unmatched to facilitate analysis in this study (the results are similar).
+Table 3a
+Exposure to Yambuku Hospital Among Cases and Controls, Hemorrhagic Fever Investigation, Zaire, 1976
+    [IMAGE: ../images/2016_cypress_falls_c__p11_v811c51-6985c14a.webp]
+
+[STIMULUS] Table 3b
+Exposure to Persons with Hemorrhagic Fever Among Cases and Controls, Hemorrhagic Fever Investigation, Zaire, 1976
+    [IMAGE: ../images/2016_cypress_falls_c__p12_v6c9ee5-9fd7d418.webp]
+
+34. [frq, 10 pt] Analyze these data by calculating a measure of association and a test of statistical significance. Is contact with the hospital a risk factor? Is contact with a person with hemorrhagic fever a risk factor? Show all work for full credit.
+
+
+=== Section III ===
+
+[STIMULUS] This exercise is drawn from an article, "Mycobacterium tuberculosis Miniepidemic in a Church Gospel Choir"
+This morning (June 21) the local health department (large town health department) received a telephone call from the infection control practitioner (ICP) from a nearby hospital reporting that 2 patients were seen in the emergency department late yesterday with complaints of fatigue, fever, night sweats, and cough. As part of their work-up, the ED physician ordered chest x-rays for both patients. The health department was informed that, in both cases, the radiology report indicated abnormal findings consistent with TB. As a result, both patients were admitted to the hospital with a diagnosis of suspected pulmonary TB. Once admitted, sputum samples collected from both patients were read as positive on microscopic smear with final culture identification pending.
+You know that tuberculosis is an infectious disease caused by bacteria called Mycobacterium tuberculosis. The bacteria usually affect the lungs (pulmonary TB) but also can affect any part of the body outside the lungs (extrapulmonary TB) with the most common sites being the lymph nodes, bone, kidney, and pleura. While TB disease was once the leading cause of death in the United States, it can now be treated successfully with appropriate antibiotics. However, if not diagnosed early or not treated appropriately, TB disease can be fatal.
+You also know that according to the CDC the "presence of acid-fast-bacilli (AFB) on a sputum smear or other specimen often indicates TB disease. Acid-fast microscopy is easy and quick, but it does not confirm a diagnosis of TB because some acid-fast-bacilli are not M. tuberculosis. Therefore, a culture is done on all initial samples to confirm the diagnosis. (However, a positive culture is not always necessary to begin or continue treatment for TB.) A positive culture for M. tuberculosis confirms the diagnosis of TB disease. Culture examinations should be completed on all specimens, regardless of AFB smear results. Laboratories should report positive results on smears and cultures within 24 hours by telephone or fax to the primary health care provider and to the state or local TB control program, as required by law." 2 While some microbiology laboratories have access to advanced technology and have the ability to identify TB in a specimen in just a few days, your laboratory requires 4 to 8 weeks for growth and final identification. Therefore, you will need to wait for the results on these 2 suspected cases.
+Your health department (large town health department) receives calls of suspected TB cases several times a week. At total of 40% of these reports turn out to be negative for TB.
+
+35. [frq, 4 pt] What type of data/information is valuable to this investigation? Give four examples of information you would collect from the ICP
+
+[STIMULUS] The CDC classifies TB as a notifiable disease. "A notifiable disease is one for which regular, frequent, and timely information regarding individual cases is considered necessary for the prevention and control of the disease." 3
+
+36. [frq, 2 pt] At this point, would you consider this an outbreak?
+
+37. [frq, 2 pt] Who among these patients is a probable index case?
+
+[STIMULUS] This new information provides molecular evidence that Case 1 appears to be the source or index to Cases 2 and 3. With this new information, it has been decided that follow-up interviews with all 3 cases should be initiated to not only review previously collected information but to focus in-depth on establishing a common link (person, place, and time) between the cases that may not only provide an exposure site but could potentially lead to the identity of additional contacts and cases. Follow-up interviews reveal that the common link shared among all 3 cases was that they are all congregants of the same church and that all 3 cases are members of the church choir.
+
+You now decide to combine and organize into a line list information collected on all three cases starting with the first confirmed case, Mr.Yusef. You organize the information that you have collected into a line list.
+
+Line list for confirmed cases table with columns: ID, TB Status, Name, Age/Sex, Smear/Culture/#s, Phone, Address, Place of Employment, Symptoms/Chest X-Ray, Date Onset, Med Hx, Social Environment. Rows: 1 Confirmed Ali Yusef 38/M +/+ None Homeless/from Somalia Church Pneumonia, malnutrition Church choir; 2 Confirmed Jack Gold 62/M Church choir; 3 Confirmed Marla Smith 47/F Church choir.
+
+38. [frq, 7 pt] Complete the line list in the table for the confirmed cases.
+    [IMAGE: ../images/2016_cypress_falls_c__p16_ve84dc0-8fc3afde.webp]
+
+39. [frq, 2 pt] Is this now an outbreak?
+
+[STIMULUS] Your supervisor suggests that you use a concentric circle analysis in your investigation⁴. The concentric circle approach (Figure 2) is a method of testing contacts by their exposure time and risk, with those at highest risk of infection or disease tested first. In this approach, the original TB patient (the index case) is at the center. The circle is divided into 3 concentric rings to represent the 3 levels of risk: high, medium, and low. The circle is also divided, like a pie, into segments that represent the 3 types of environment where the exposure may have taken place: household or residential, work or school, leisure or recreation environments.
+
+Figure 2 Concentric circle approach⁴
+Figure 6.13 Concentric circle approach. Adapted from Etkind SC. Contact tracing in tuberculosis. In: Reichman L, Hershfield E, eds. Tuberculosis: A Comprehensive International Approach. New York: Marcel Dekker; 1993:283.
+    [IMAGE: ../images/2016_cypress_falls_c__p17_vdf72eb-9b4f4e2f.webp]
+
+40. [frq, 4 pt] The purpose of this investigation is to identify any additional cases of TB and individuals who may have been infected by these cases. What is your "case definition" for transmission in this investigation?
+
+[STIMULUS] The Tuberculin Skin Test (TST) may be used to determine if a person has TB infection. A TST is available at the health department or at a doctor's office. A health care worker injects a small amount of testing fluid (called tuberculin or PPD) just under the skin on the underside of the forearm. After 48 to 72 hours, the patient must return to have the skin test read by the health care worker. He/she may have a swelling-called induration-where the tuberculin was injected. The health care worker will measure this induration and explain to the patient whether the results are positive or negative. A positive reaction usually means that the patient has been infected with the TB bacteria. If a person has recently spent time with and been exposed to someone with active TB disease, his/her TST reaction may not yet be positive. He/she may need a second skin test 8 to 10 weeks after the last date of exposure to the TB patient because it can take several weeks after infection for the immune system to react to the TST. If a person's reaction to the second test is negative, he/she is considered not infected.¹⁰
+
+41. [frq, 2 pt] At this point, who needs to be tested for transmission of TB, through a TST?
+
+[STIMULUS] Table 2
+A choir list was matched to the state TB registry and 2 additional confirmed cases of TB within the choir were identified and their information was added
+    | ID | TB Status | Name | Choir | Vocal Range | DNA testing | Other |
+    | 1 | Confirmed | Ali Yusef | 8 am and 11 am | Tenor | African-continent strain |  |
+    | 2 | Confirmed | Jack Gold | 11am | Tenor | African-continent strain |  |
+    | 3 | Confirmed | Marla Smith | 11am | Alto | African-continent strain |  |
+    | 4 | Confirmed | James Jones | 8 am | Tenor | Not done | Commuted to choir practice with Case 1 |
+    | 5 | Confirmed | Mark Carlen | 11 am | Tenor | Not done |  |
+
+42. [frq, 2 pt] Are Cases 4 and 5 epidemiologically linked to the other cases? (Look at Table 2 above)
+
+[STIMULUS] The suspected index case (Case 1) is a tenor in the 8 and 11 AM church choirs. In the winter months, he was occasionally driven to church with Case 4, a tenor in the church choir. There were 5 different choir groups totaling approximately 300 to 500 members (per an outdated choir list). Aggregate and separate choir practices were held once a week in the church or in its basement with 3 separate choir groups singing together or in staggered time periods.
+Choir groups were labeled as to the time the choir sang in church each Sunday (8 AM choir and 11 AM choir). Choir members' ages ranged from 5 to 70 years. The adult choirs rehearsed together once a week; on average, rehearsal time was 1 hour. Many choir members lived in other urban or suburban communities away from the church location. Commuting together usually was sporadic and ad hoc.
+Only 300 of the assumed total of 500 choir members were accessible and available for tuberculin testing. Nonchoir church members were not tested. The entire church building including the stage and basement where all the choirs rehearsed was inspected for contributory factors (such as ventilation outlets) to environmental transmission.
+It could not be ascertained for certain where transmission occurred, but the main church's choir loft, where most rehearsals occurred, was considered the most likely location for cases 1, 2, 3, and 5. Transmission to Case 4 could have occurred in the choir loft during joint practice or while commuting with Case 1. The basement, where some transmission could have occurred, had air conditioning units with 8 air outlets from a dropped ceiling. Air was re-circulated.
+Of the 300 traced choir members tested, 120 belonged to the 11 AM choir; 25 members of the 120 11 AM choir members were TST reactors; 12 of the 25 reactors were tenors and 12 of 36 tenors were reactors.
+
+43. [frq, 4 pt] Use the data from the 120 11 AM choir members who received TSTs to create a contingency table to look for an association between vocal range (as a proxy for location/exposure to the index case in the choir) and skin test result. Assume that the group has been assembled based on their exposure status and that level of exposure is stratified by vocal range (tenor vs nontenor) because the index case was a tenor. These 120 choir members received TSTs and when the data is available, populate this table.
+    [IMAGE: ../images/2016_cypress_falls_c__p19_v22e232-d4d5428d.webp]
+
+44. [frq, 2 pt] What type of study design is this?
+
+45. [frq, 2 pt] What preventive measures would you recommend for those who had a positive TST, but did not have any other sign of disease?
+
+
+=== Tie breaker ===
+
+46. [frq, 1 pt] List the organism, Method of infection and Symptoms for the following diseases.
+    A. Malaria
+    B. Schistosomiasis
+    C. Onchocerciasis
+    D. Q fever
+    E. Dengue
+    F. Amoebiasis

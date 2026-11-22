@@ -1,0 +1,481 @@
+Washington University Invitational - MO — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  61 questions, 185.0 pts
+Source: scio.ly test archive id 538276e5-207e-4f4c-91f7-830827a88321  |  original files: https://drive.google.com/drive/folders/1czpbQLL5ZQMXRFKGeL4sHSgzTSK0vCaL
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 8
+
+DIRECTIONS: The sections of the exam are as follows: Definitions/Matching, Application/Short Answer, Surveillance Systems, Study Designs & Analysis, History of Epidemiology, Gel Electrophoresis. Points values are denoted at the top section headings or next to each question/part number. Partial credit will be granted for only a few (multiple-select and short answer) questions.
+
+
+=== Part I: Definitions – Matching ===
+
+[STIMULUS] a. Incubation Period
+b. Latency Period
+c. Reservoir
+d. Serial Interval
+e. Fomite
+f. Vector
+g. Herd Immunity
+h. Pathogenicity
+i. Virulence
+j. Incidence
+k. Prevalence
+l. Attack Rate
+m. Nosocomial Infection
+n. Zoonosis
+o. Secondary Attack Rate
+
+I-1. [mcq, 2 pt] The time from infection to clinical illness (symptoms).
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-2. [mcq, 2 pt] The time from infection until the agent can be transmitted onward (may differ from incubation).
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-3. [mcq, 2 pt] An animal, human or environment where an infectious agent normally lives and multiplies.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-4. [mcq, 2 pt] An invertebrate (e.g., mosquito, tick) that transmits a pathogen between hosts.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-5. [mcq, 2 pt] An inanimate object (doorknob, towel) that can carry and transmit infectious agents.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-6. [mcq, 2 pt] The proportion of an at-risk population developing disease during a specified period (often used in outbreak settings).
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-7. [mcq, 2 pt] The proportion of a population with a disease (existing cases) at a given time.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-8. [mcq, 2 pt] The rate at which new cases occur in a population during a specified time period.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-9. [mcq, 2 pt] The ability of a pathogen to cause severe disease or death.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-10. [mcq, 2 pt] The ability of an organism to cause disease (infection → disease).
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-11. [mcq, 2 pt] A disease that normally circulates in animals but can infect humans.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-12. [mcq, 2 pt] An infection acquired in a health care setting.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-13. [mcq, 2 pt] The proportion of susceptible contacts who become ill after exposure to a primary case.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-14. [mcq, 2 pt] The proportion of a population that is immune, reducing the chance of spread.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+I-15. [mcq, 2 pt] The time between symptom onset in successive cases in a transmission chain.
+    A) Incubation Period
+    B) Latency Period
+    C) Reservoir
+    D) Serial Interval
+    E) Fomite
+    F) Vector
+    G) Herd Immunity
+    H) Pathogenicity
+    I) Virulence
+    J) Incidence
+    K) Prevalence
+    L) Attack Rate
+    M) Nosocomial Infection
+    N) Zoonosis
+    O) Secondary Attack Rate
+
+
+=== Part II: Surveillance Systems ===
+
+II-1. [frq, 6 pt] Surveillance Attributes
+    The Missouri State Health Department is evaluating its foodborne illness surveillance system. List and briefly define **3** key attributes that should be assessed when evaluating a surveillance system’s quality.
+    Attribute 1:
+    Attribute 2:
+    Attribute 3:
+
+[STIMULUS] Types of Surveillance
+
+II-2a. [frq, 3 pt] Distinguish between **active** and **passive** surveillance methods.
+
+II-2b. [frq, 3 pt] Provide one **advantage** and one **disadvantage** of passive surveillance methods.
+
+
+=== Part III: Application of Concepts – Free Response ===
+
+[STIMULUS] Epi-Curve of Rash
+    [IMAGE: ../images/2026_washington_university_invitational_mo_c__p5_af83ca-de937449.webp]
+
+III-a. [frq, 3 pt] a. What type of epi-curve is this?
+
+III-b. [frq, 3 pt] b. Define latency in the context of an epi-curve.
+
+III-c. [frq, 2 pt] c. Provide the incubation period for this diagram.
+
+III-d. [frq, 2 pt] d. Does this curve suggest person-to-person transmission? Explain.
+
+[STIMULUS] Case Study #1
+
+A city health department identifies 12 cases of Legionnaires’ disease over a 9-day period (baseline annual rate: ~1 per month). Ages range from 47–86 years. All confirmed cases live or work within a 6-block radius of a shopping mall.
+
+Environmental investigation identifies:
+● Cooling tower A at hotel: Legionella PCR positive
+● Cooling tower B at mall: Pending
+● Decorative fountain inside café: Negative
+● Public drinking water supply: No contamination detected
+
+III-A. [frq, 2 pt] A. Briefly explain why person-to-person spread is unlikely in Legionnaires’ disease.
+
+III-B. [frq, 4 pt] B. Write a short hypothesis statement explaining a likely source and transmission route in this outbreak.
+
+III-C. [frq, 3 pt] C. What type of epi curve shape is most expected in an airborne environmental point-source outbreak?
+
+III-D. [frq, 6 pt] D. Provide two environmental control actions public health officials should take immediately.
+
+III-E. [frq, 3 pt] E. Calculate the attack rate if there were 500 people working or living in the 6-block radius area.
+
+III-F. [frq, 3 pt] F. What additional epidemiological data would help verify your hypothesis? List two specific data types.
+
+III-G. [frq, 2 pt] G. Identify one potential limitation or bias in this investigation.
+
+
+=== Case Study #2 ===
+
+[STIMULUS] To evaluate a proposed vaccine for pathogen π, researchers conduct a randomized controlled trial. A total of 12,000 adults between the ages of 18-80 are recruited and then screened to determine if they have any detectable antibodies to this pathogen. This would indicate prior exposure to the pathogen. Participants are then randomly assigned to one of two groups:
+- Experimental group: 6,000 individuals receive two injections of the vaccine, administered four weeks apart
+- Control group: 6,000 individuals receive two injections of an inert solution on the same schedule
+
+Neither the participants nor the clinicians administering the vaccine or the solution are aware of what each participant is receiving. Subjects are followed for 9 months after the first dose. In order to keep track of the symptoms and their progress with each of the two solutions, participants completed weekly surveys that tracked their symptoms. If pathogen π infection is suspected, medical providers can report clinic visits, hospital admissions, and request diagnostic testing.
+
+Blood samples are collected at the baseline and every two months after to assess antibody production.
+
+Below are the study's findings at the end of the follow-up.
+
+| Outcome | Vaccine Group (n = 6000) | Control Group (n = 6000) |
+|---|---|---|
+| Detectable antibodies to pathogen π at study end | 5820 | 210 |
+| Symptomatic illness consistent with pathogen π | 40 | 160 |
+| Laboratory-confirmed pathogen π infection | 18 | 150 |
+| Severe pathogen π illness (hospitalization ≥ 3 days) | 3 | 60 |
+| Death attributed to pathogen π | 0 | 5 |
+
+III-2B. [frq, 4 pt] What does the high proportion of antibody-positive individuals in the vaccinated group indicate about the immune response generated by the vaccine?
+
+III-2D. [frq, 3 pt] How effective was the vaccine at preventing confirmed pathogen π infection? Show how this would be determined conceptually.
+
+III-2E. [frq, 3 pt] Assess the vaccine's impact on preventing severe disease. Why is this outcome particularly important in public health decision-making?
+
+III-2F. [frq, 2 pt] Explain why masking both participants and investigators is critical in a study like this. How could lack of blinding distort the results?
+
+III-2G. [frq, 4 pt] Identify up to two potential confounding factors that might affect symptom development or disease severity in this trial. How could researchers reduce the impact of these confounders?
+
+III-2H. [frq, 1 pt] Define the herd immunity threshold using the basic reproductive number (R₀). Provide the general formula.
+
+III-2I. [frq, 2 pt] Explain how imperfect vaccine performance alters the proportion of the population that must be vaccinated to reach herd immunity. What is the theoretical lower limit for this threshold?
+
+III-2J. [frq, 3 pt] Distinguish between vaccine efficacy and vaccine effectiveness. Which metric is more relevant for real-world public health outcomes, and why?
+
+
+=== Part IV: Study Design & Measures of Association ===
+
+[STIMULUS] **Scenario:**
+Recently, a rare neurological disorder was discovered, which causes strange behaviors in people with the condition. Namely, patients with the illness often act out aggressively, reverting back to the behavior of a primate. As a result, researchers began conducting a study to investigate risk factors. They were able to identify 80 cases and 240 controls matched by age and sex.
+
+| Exposure | Cases (n=80) | Controls (n=240) |
+|---|---|---|
+| Exposed to Chemical X | 60 | 96 |
+| Not Exposed | 20 | 144 |
+
+IV-1. [frq, 6 pt] What type of study design is this? List one disadvantage and advantage of this design.
+
+IV-2. [frq, 5 pt] Calculate the correct measure of association for exposure to chemical X. Show all work.
+
+IV-3. [frq, 3 pt] Interpret the measure you calculated. What does this value tell you about the association between Chemical X and the disease?
+
+IV-4. [frq, 9 pt] Calculate a 95% confidence interval for this measure. Use the following formula: CI = measure * exp(±1.96 * SE[ln(measure)]). SE[ln(measure)] = √(1/a + 1/b + 1/c + 1/d)
+
+IV-5. [frq, 4 pt] The researchers did not collect data on the smoking status of the patients as part of their study. Explain how smoking could act as a confounding variable in this study.
+
+IV-6. [frq, 3 pt] Suggest a method to control for confounding in the analysis phase of this study.
+
+
+=== Part V: Bradford Hill Criteria and Causation ===
+
+[STIMULUS] Scenario:
+An epidemiologist is investigating whether long-term exposure to microplastics in toy factories can cause kidney disease.
+
+Evidence:
+- Multiple cohort studies show that workers who are exposed to microplastics have a 3 to 4 times higher kidney disease rates
+- Studies show microplastics damages kidney cells in animal models
+- Dose-response relationship observed: higher exposure → higher disease rates
+- Temporal relationship has been confirmed
+- No other known exposures are known to have any link to kidney disease, specifically occupational exposures
+- Kidney disease rates are lower when microplastic exposure is lowered
+
+V-1. [frq, 4 pt] List 4 of the Bradford Hill Criteria
+
+V-2. [frq, 9 pt] Using the evidence provided, explain how 3 Bradford Hill Criteria are satisfied in this investigation.
+
+V-3. [frq, 3 pt] Compare the Bradford Hill Criteria to the Koch postulates. Why are Koch's postulates insufficient for establishing causation in chronic, non-infectious diseases?
+
+V-4. [frq, 2 pt] What evidence that has not already been included could further strengthen the argument?
+
+
+=== Part VI: Epidemiology History ===
+
+VI-1. [mcq, 2 pt] Who is known as the "Father of Epidemiology" for his work on the 1854 London cholera outbreak?
+    A) Louis Pasteur
+    B) John Snow
+    C) Robert Koch
+    D) Edward Jenner
+
+VI-2. [mcq, 2 pt] The Framingham Heart Study, begun in 1948, is an example of which type of study design?
+    A) Case-Control study
+    B) Cross-control study
+    C) Cohort study
+    D) Randomized controlled trial
+
+VI-3. [mcq, 2 pt] Which scientist developed the postulates for establishing causation in infectious diseases?
+    A) Austin Bradford Hill
+    B) Robert Koch
+    C) Ignaz Semmelweis
+    D) Joseph Lister
+
+VI-4. [mcq, 2 pt] The concept of "confounding" in epidemiology refers to:
+    A) Measurement error in exposure assessment
+    B) A mixing of effects where another factor is associated with both outcome and exposure
+    C) Random variation
+    D) Selection bias
+
+VI-5. [mcq, 2 pt] In 1847, Ignaz Semmelweis reduced puerperal fever deaths by implementing which practice?
+    A) Antibiotic prophylaxis
+    B) Hand washing with chlorinated lime solution
+    C) Isolation of infected patients
+    D) Improved ventilation in maternity wards
+
+
+=== Part VII: Gel Electrophoresis ===
+
+[STIMULUS] **Scenario:**
+Researchers are investigating a genetic disease caused by a deletion mutation in a specific gene. They use PCR amplification followed by gel electrophoresis to screen individuals for the mutation. The normal allele produces a 252 bp fragment, while the mutant allele (with the deletion) produces a 184 bp fragment.
+
+Gel electrophoresis was run on samples from 8 individuals.
+
+Lane assignments:
+Lane 4: DNA ladder (molecular weight marker)
+Lanes 1-3, 5-8: Patient samples
+
+VII-A. [frq, 5 pt] Explain the principle of gel electrophoresis. Why do smaller DNA fragments migrate farther than larger fragments?
+
+VII-B. [frq, 5 pt] In gel electrophoresis, which direction does DNA migrate (toward which electrode - positive or negative)? Explain why.
+
+VII-D. [frq, 3 pt] Explain why heterozygous individuals (Lanes 1 and 6) show TWO bands while homozygous individuals (Lanes 2, 3, 5, 7, 8) show only ONE band.
+
+VII-E. [frq, 3 pt] What is the purpose of Lane 4 (DNA ladder/molecular weight marker) in this gel?
+
+VII-F. [frq, 3 pt] Based on the fragment sizes, estimate the approximate size difference between the normal and mutant alleles. How many base pairs were deleted in the mutant allele? Show your calculation.
+
+VII-K. [mcq, 2 pt] In outbreak investigations, gel electrophoresis techniques like PFGE (Pulsed-Field Gel Electrophoresis) are used to: (Select the BEST answer)
+    A) Diagnose the specific pathogen causing infection
+    B) Create DNA fingerprints to determine if bacterial isolates from different cases are genetically related
+    C) Quantify the amount of pathogen in clinical samples
+    D) Determine antibiotic resistance patterns
+
+VII-L. [frq, 3 pt] Modern outbreak investigations increasingly use whole genome sequencing (WGS) and Single Nucleotide Polymorphism (SNP) analysis instead of traditional PFGE. Explain how SNP analysis helps link outbreak cases together.
+
+VII-M. [frq, 3 pt] Describe a specific scenario in a foodborne disease outbreak investigation where molecular typing methods (PFGE, WGS, or SNP analysis) would be essential for identifying the outbreak source.
+
+VII-N. [frq, 3 pt] Why is it important that the PCR primers used in this assay flank (are on either side of) the deletion site rather than being located within the deleted region?

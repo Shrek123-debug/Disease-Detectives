@@ -1,0 +1,1491 @@
+MIT Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  208 questions, 403.0 pts
+Source: scio.ly test archive id 07bf36dc-e519-4199-8e59-99adf6e19de4  |  original files: https://drive.google.com/drive/folders/1t67OdhZRW7FkenNQUKV7svAGme3j5lVG
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+
+=== Section 1: Background ===
+
+[STIMULUS] Match the following terms to their definitions
+
+A. Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+B. Sudden and severe onset
+C. A disease that occurs more frequently in those with weakened immune systems
+D. A disease that occurs infrequently and irregularly
+E. Separate susceptible hosts who may have been exposed to see if they become sick
+F. The lack of random error
+G. Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+H. Separate infected persons from susceptibles hosts
+I. The extent to which a study measures what it is supposed to measure
+J. disease or condition which arises spontaneously
+K. The mortality rate from all causes of death for a population
+L. Any factor that brings about change in a health condition, or in other defined characteristics
+M. An infectious disease that is transmissible under normal conditions from animals to humans.
+N. an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+O. An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+P. The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+Q. A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+R. Originating in a hospital
+S. An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+T. An aggregation of cases of a disease or other health-related condition where the expected number is not known
+U. the comparison of a part to the whole
+V. the comparison of any two values
+W. The measure of the frequency with which an event occurs in a defined population over a specified period of time
+X. closeness of the measurements to a specific value
+Y. An animate intermediary that carries the agent from a reservoir to a susceptible host
+Z. mortality rate from a specified cause for a population
+
+P1-1. [mcq, 1 pt] Fulminant
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-2. [mcq, 1 pt] Elimination
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-3. [mcq, 1 pt] Eradication
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-4. [mcq, 1 pt] quarantine
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-5. [mcq, 1 pt] isolation
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-6. [mcq, 1 pt] Opportunistic infection
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-7. [mcq, 1 pt] Sporadic
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-8. [mcq, 1 pt] Precision
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-9. [mcq, 1 pt] Validity
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-10. [mcq, 1 pt] Virulence
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-11. [mcq, 1 pt] Outbreak
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-12. [mcq, 1 pt] Cluster
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-13. [mcq, 1 pt] Accuracy
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-14. [mcq, 1 pt] Idiopathic
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-15. [mcq, 1 pt] Crude mortality rate
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-16. [mcq, 1 pt] Host factor
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-17. [mcq, 1 pt] Zoonosis
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-18. [mcq, 1 pt] Determinant
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-19. [mcq, 1 pt] Vector
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-20. [mcq, 1 pt] Fomite
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-21. [mcq, 1 pt] cause-specific mortality rate
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-22. [mcq, 1 pt] Nosocomial
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-23. [mcq, 1 pt] Incubation period
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-24. [mcq, 1 pt] Rate
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-25. [mcq, 1 pt] Proportion
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+P1-26. [mcq, 1 pt] Ratio
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Sudden and severe onset
+    C) A disease that occurs more frequently in those with weakened immune systems
+    D) A disease that occurs infrequently and irregularly
+    E) Separate susceptible hosts who may have been exposed to see if they become sick
+    F) The lack of random error
+    G) Permanent reduction to zero of the worldwide incidence of infection caused by a specific agent as a result of deliberate efforts; intervention measures are no longer needed.
+    H) Separate infected persons from susceptibles hosts
+    I) The extent to which a study measures what it is supposed to measure
+    J) disease or condition which arises spontaneously
+    K) The mortality rate from all causes of death for a population
+    L) Any factor that brings about change in a health condition, or in other defined characteristics
+    M) An infectious disease that is transmissible under normal conditions from animals to humans.
+    N) an increase in the number of cases of a disease above what is normally expected in that population in a limited geographical area
+    O) An inanimate intermediary that carries the agent from a reservoir to a susceptible host
+    P) The proportion of persons with clinical disease, who after becoming infected, become severely ill or die
+    Q) A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease
+    R) Originating in a hospital
+    S) An intrinsic factor which influences an individual's exposure, susceptibility, or response to a causative agent
+    T) An aggregation of cases of a disease or other health-related condition where the expected number is not known
+    U) the comparison of a part to the whole
+    V) the comparison of any two values
+    W) The measure of the frequency with which an event occurs in a defined population over a specified period of time
+    X) closeness of the measurements to a specific value
+    Y) An animate intermediary that carries the agent from a reservoir to a susceptible host
+    Z) mortality rate from a specified cause for a population
+
+[STIMULUS] Match the mode of prevention to the following examples
+
+A. Primordial
+B. Primary
+C. Secondary
+D. Tertiary
+E. Quaternary
+
+P1-27. [mcq, 1 pt] A hospital implements strict diagnostic criteria that must be met before prescribing opioids
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P1-28. [mcq, 1 pt] A public health campaign targeting type 2 diabetes encourages people to exercise regularly and manage their weight
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P1-29. [mcq, 1 pt] Weekly COVID tests for all university students
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P1-30. [mcq, 1 pt] Physicians encourage those travelling to South America to get vaccinated for yellow fever
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P1-31. [mcq, 1 pt] A patient is given a diuretic for their hypertension
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+[STIMULUS] Match the following terms to their associated disease.
+
+A. Malaria
+B. Dengue fever
+C. Hookworm in America
+
+
+
+
+
+P1-32. [mcq, 2 pt] hyperendemic
+    A) Malaria
+    B) Dengue fever
+    C) Hookworm in America
+
+P1-33. [mcq, 2 pt] holoendemic
+    A) Malaria
+    B) Dengue fever
+    C) Hookworm in America
+
+P1-34. [mcq, 2 pt] hypoendemic
+    A) Malaria
+    B) Dengue fever
+    C) Hookworm in America
+
+[STIMULUS] Fill in the missing values for the Chain of Transmission of HIV:
+
+| Chain of Transmission Step | Example for HIV | Method to break this link in the chain |
+|---|---|---|
+| Agent | Human immunodeficiency virus | n/a |
+| **(a)** | Blood of infected person | Get tested for HIV regularly |
+| Portal of Exit | **(b)** | Utilize post-exposure prophylaxis to lower viral load |
+| Mode of Transmission | Direct contact with blood or bodily fluids | **(c)** |
+| **(d)** | Mucous membranes or blood | Avoid using non-sterile needles |
+| Susceptible Host | **(e)** | Utilize pre-exposure prophylaxis (PrEP) |
+    | Item | Answer |
+    | a | [[q:P1-35a]] |
+    | b | [[q:P1-35b]] |
+    | c | [[q:P1-35c]] |
+    | d | [[q:P1-35d]] |
+    | e | [[q:P1-35e]] |
+
+P1-35a. [frq, 2 pt] Item a
+
+P1-35b. [frq, 2 pt] Item b
+
+P1-35c. [frq, 2 pt] Item c
+
+P1-35d. [frq, 2 pt] Item d
+
+P1-35e. [frq, 2 pt] Item e
+
+[STIMULUS] 36: Indicate if the following are public health approaches or clinical approaches
+
+P1-36a. [mcq, 1 pt] A sick person is told to quarantine
+    A) Public health approach
+    B) Clinical approach
+
+P1-36b. [mcq, 1 pt] A patient undergoes chemotherapy
+    A) Public health approach
+    B) Clinical approach
+
+P1-36c. [mcq, 1 pt] A group of people get food poisoning and are given antibiotics
+    A) Public health approach
+    B) Clinical approach
+
+P1-36d. [mcq, 1 pt] A brand of lettuce is recalled for e-coli
+    A) Public health approach
+    B) Clinical approach
+
+P1-36e. [mcq, 1 pt] All persons entering a doctor's office are required to wear a mask
+    A) Public health approach
+    B) Clinical approach
+
+P1-36f. [mcq, 1 pt] A sick person gets a COVID test
+    A) Public health approach
+    B) Clinical approach
+
+P1-36g. [mcq, 1 pt] A university student gets weekly COVID tests
+    A) Public health approach
+    B) Clinical approach
+
+P1-38. [frq, 6 pt] Name 2 differences between reportable diseases and notifiable diseases
+
+[STIMULUS] Match the scenario with the correct type of study
+
+a. Case-control
+b. Cohort
+c. Cross-sectional
+d. Experimental
+e. Ecological
+
+P1-39. [mcq, 2 pt] A group of MIT students are performing a study to test the effectiveness of ibuprofen versus naproxen sodium in treating migraines. They perform a double blind test on 200 migraine patients in which half are given naproxen sodium and half are given ibuprofen. They compare their pain levels medicated versus unmedicated to determine which medication manages pain better.
+    A) Case-control
+    B) Cohort
+    C) Cross-sectional
+    D) Experimental
+    E) Ecological
+
+P1-40. [mcq, 2 pt] A high school student is doing a research project about managing diabetes in school. She sends out a survey to everyone in her health class to gain information about the prevalence and treatment methods of diabetes.
+    A) Case-control
+    B) Cohort
+    C) Cross-sectional
+    D) Experimental
+    E) Ecological
+
+P1-42. [mcq, 2 pt] A middle school has been experiencing an increase in a new rare disease that seems to be linked to consumption of a new energy drink served at the school. A student finds 10 students with the disease and matches them up with 10 healthy students. He then finds out which students drank the new energy drink to find out if the drink was a risk factor in the disease.
+    A) Case-control
+    B) Cohort
+    C) Cross-sectional
+    D) Experimental
+    E) Ecological
+
+P1-43. [mcq, 2 pt] A student wants to compare the prevalence of colds between different dorm buildings at MIT. She gathers data from student health from each building to determine if one building has a higher prevalence and to look for possible exposures in each building.
+    A) Case-control
+    B) Cohort
+    C) Cross-sectional
+    D) Experimental
+    E) Ecological
+
+[STIMULUS] Name the type of surveillance used in the following examples:
+
+P1-44. [frq, 2 pt] A researcher wants to collect data on the prevalence of Guinea Worm Disease in Sudan, so they travel to every hospital in the country to collect and compile patient data.
+
+P1-45. [frq, 2 pt] Hospitals in the US are required to report all cases of West Nile River Virus to the CDC.
+
+P1-46. [frq, 2 pt] A local pharmacy wants to track trends in colds and flu over time by identifying drugs purchased for decongestion and cough medicine.
+
+P1-47. [frq, 2 pt] The CDC designates a select group of hospitals to collect nasopharyngeal swabs each year to report and identify new influenza strains.
+
+[STIMULUS] Given the following examples, determine the criteria for causation that they fulfill.
+
+P1-48. [frq, 1 pt] Studies indicate that heavier smokers have a higher risk of lung cancer than lighter smokers.
+
+P1-49. [frq, 1 pt] Association between scrotal cancer and chimney sweeping was 200 times greater than that of other jobs.
+
+P1-50. [frq, 1 pt] PCB exposure and melanoma have been linked in numerous independent studies in both humans and in vitro.
+
+P1-51. [frq, 1 pt] The presence of HIV always precedes the presence of AIDS
+
+P1-52. [frq, 1 pt] In two groups of sick patients, the group that began taking antibiotics became healthy while the others did not, suggesting the illness is antibacterial.
+
+P1-53. [frq, 1 pt] Huntington’s disease is caused by a mistake in the huntingtin gene, which concurs with accepted understandings of huntingtin’s role in producing brain proteins.
+
+[STIMULUS] Answer True/False to the following statements
+
+P1-54. [tf, 1 pt] A disease is considered eradicated if there are 0 cases, new or existing, and the disease does not exist anywhere worldwide, including nature or the laboratory
+    A) True
+    B) False
+
+P1-55. [tf, 1 pt] Incidence cannot be determined in a cross-sectional study
+    A) True
+    B) False
+
+P1-56. [tf, 1 pt] The natural history of disease refers to progression of a disease in a patient over time with or without treatment
+    A) True
+    B) False
+
+P1-57. [tf, 1 pt] Policy development is a major task of epidemiology
+    A) True
+    B) False
+
+P1-58. [tf, 1 pt] The National Notifiable Diseases Surveillance System (NNDSS) includes noninfectious diseases such as carbon monoxide poisoning
+    A) True
+    B) False
+
+P1-59. [tf, 1 pt] HIV is a zoonotic disease
+    A) True
+    B) False
+
+P1-61. [tf, 1 pt] A student receives a negative result from a rapid antigen strep test but a few days later a culture of the throat swab shows presence of bacteria. The strep test was an example of a type 1 error.
+    A) True
+    B) False
+
+P1-62. [tf, 1 pt] A rate is always a ratio but not always a proportion
+    A) True
+    B) False
+
+P1-63. [tf, 1 pt] A bacterium satisfies Koch’s postulates if it is found in all infected individuals but not healthy individuals, it is able to be isolated and cultured, the culture is identical to the microbe causing the infection, and the microbe is able to infect a high-risk individual when cultured.
+    A) True
+    B) False
+
+[STIMULUS] TRIVIA (Do you live and breathe Disease Detectives???)
+
+P1-64. [frq, 1 pt] What is the full name of the CDC?
+
+P1-66. [frq, 1 pt] The director of the CDC from 2017 to 2018, Brenda Fitzgerald, resigned as director after it was made public that she held shares in a ____ company.
+
+P1-67. [frq, 1 pt] What is the European Union version of the CDC called?
+
+P1-68. [frq, 1 pt] What is the full name of the CSTE?
+
+P1-69. [frq, 1 pt] What is the full name of the USDA?
+
+P1-70. [frq, 1 pt] What is the full name of the FDA?
+
+P1-71. [frq, 1 pt] What is the European Union version of the FDA called?
+
+P1-73. [frq, 1 pt] Did you know? Some epidemiologists posit that the lack of early exposure to ____ such as hookworm is responsible for increases in autoimmune diseases and allergies!
+
+[STIMULUS] List the pathogen that caused the following outbreaks:
+
+P1-74. [frq, 2 pt] 1993 Jack in the Box outbreak:
+
+P1-75. [frq, 2 pt] 1977 Trini and Carmen’s Canned Jalapeños outbreak:
+
+P1-76. [frq, 2 pt] 2011 Cargill Ground Turkey outbreak:
+
+P1-77. [frq, 2 pt] 1985 Jalisco Cheese Soft Cheese outbreak:
+
+
+=== Section 2: Maseeh Dining Woes ===
+
+[STIMULUS] On Saturday, December 11th, 2021, the Maseeh Dining Hall served a dinner special to encourage more students to eat at Maseeh, and 634 MIT students came over to Maseeh to try it out. Unfortunately, several students began reporting symptoms of food poisoning within a few days of the dinner event! Being the expert Disease Detective that you are, you decide to take matters in your own hands.
+
+Most of the sick students that you interviewed reported having stomach cramps, diarrhea, and fever. A few students are admitted to the hospital for dehydration and bloody feces, and stool samples are taken and analyzed.
+
+P2-1. [frq, 3 pt] Do you have enough evidence at this point to decide if this represents an outbreak? Why or why not?
+
+P2-2. [frq, 4 pt] Write a case definition for this outbreak.
+
+[STIMULUS] Classify the following as confirmed, probable, or possible cases
+
+P2-3a. [mcq, 2 pt] A student is hospitalized due to dehydration and stool samples are taken confirming the presence of a bacterial infection.
+    A) Confirmed
+    B) Probable
+    C) Possible
+
+P2-3b. [mcq, 2 pt] A student ate at Maseeh Dining Hall and is experiencing stomach cramps, but does not have a fever.
+    A) Confirmed
+    B) Probable
+    C) Possible
+
+P2-3c. [mcq, 2 pt] A student has a fever, stomach cramps, and diarrhea but has not been to a doctor.
+    A) Confirmed
+    B) Probable
+    C) Possible
+
+P2-3d. [mcq, 2 pt] A student has no symptoms of illness but a routine stool sample revealed the presence of a bacterial infection.
+    A) Confirmed
+    B) Probable
+    C) Possible
+
+[STIMULUS] With the help of data from MIT Medical and your own epidemiological detective-work, you construct the epi curve shown below:
+    [IMAGE: ../images/2022_mit_invitational_c__p11_c906478-6b39d9c9.webp]
+
+P2-4. [frq, 2 pt] What is the most likely type of outbreak based on this epi curve’s shape?
+
+[STIMULUS] Assuming that the period of exposure was the dinner special on December 11th:
+
+P2-5a. [frq, 2 pt] What is the minimum incubation period?
+
+P2-5b. [frq, 2 pt] What is the average incubation period?
+
+P2-5c. [frq, 2 pt] What is the maximum incubation period?
+
+[STIMULUS] Oops! You were in a rush and forgot to label your epicurve’s title and axes!
+
+P2-6a. [frq, 2 pt] What is an appropriate title for your epicurve?
+
+P2-6b. [frq, 2 pt] What is an appropriate x-axis label for your epicurve?
+
+P2-6c. [frq, 2 pt] What is an appropriate y-axis label for your epicurve?
+
+[STIMULUS] Fortunately, MIT Dining keeps a log of all the students who eat at the dining halls, so you send out a survey to all 634 students who ate at Maseeh on December 11th. In your survey, you ask each student to report which foods they ate that night, and you later compare this data with disease records from MIT Medical to classify cases and healthy controls.
+
+P2-7. [frq, 2 pt] What kind of study are you conducting?
+
+P2-8. [frq, 4 pt] What are two advantages and two disadvantages of this type of study?
+
+P2-9. [frq, 4 pt] Only 200 students end up responding to your survey, and you notice that those who responded tended to have more severe symptoms. What type of bias does this represent? What is one way you could reduce the effects of this bias on your study?
+
+P2-10. [frq, 2 pt] Name one other potential bias that is present in this study design
+
+[STIMULUS] You fix the biases present in your study and get another 200 students to respond to your survey, for a total of 400 respondents! You find out that a total of 112 students out of those surveyed became sick. Below is a list of all the different foods served during the dinner special and the number of sick/individuals who ate this food:
+
+| Food Eaten | Ate food and sick | Ate food and healthy |
+|---|---|---|
+| Salad | 50 | 86 |
+| Chicken parmesan | 68 | 20 |
+| Steamed broccoli | 12 | 71 |
+| Hard boiled eggs | 33 | 20 |
+| Cheeseburger | 41 | 159 |
+| Shrimp pasta | 18 | 68 |
+| Brownies | 50 | 117 |
+    [IMAGE: ../images/2022_mit_invitational_c__p15_639569-31c2d6a0.webp]
+
+P2-11. [frq, 16 pt] Calculate the appropriate measure of risk for each food. Round to three decimal places. You do not need to show work.
+
+P2-12. [frq, 4 pt] Which food is the most likely culprit? Interpret the measure of risk for this particular food item.
+
+[STIMULUS] For the food with the highest measure of risk, list the observed values for each cell of the 2x2 contingency table (including totals). Then compute the corresponding expected values for each cell in the expected 2x2 table for a Chi-Squared Goodness of Fit test. Round all expected values to 2 decimal places.
+    | Label | Answer |
+    | A Observed: Ate Food — Sick | [[q:P2-13-A]] |
+    | B Observed: Ate Food — Healthy | [[q:P2-13-B]] |
+    | C Observed: Ate Food — Total | [[q:P2-13-C]] |
+    | D Observed: Didn't Eat Food — Sick | [[q:P2-13-D]] |
+    | E Observed: Didn't Eat Food — Healthy | [[q:P2-13-E]] |
+    | F Observed: Didn't Eat Food — Total | [[q:P2-13-F]] |
+    | G Observed: Total — Sick | [[q:P2-13-G]] |
+    | H Observed: Total — Healthy | [[q:P2-13-H]] |
+    | I Observed: Total — Total | [[q:P2-13-I]] |
+    | J Expected: Ate Food — Sick | [[q:P2-13-J]] |
+    | K Expected: Ate Food — Healthy | [[q:P2-13-K]] |
+    | L Expected: Ate Food — Total | [[q:P2-13-L]] |
+    | M Expected: Didn't Eat Food — Sick | [[q:P2-13-M]] |
+    | N Expected: Didn't Eat Food — Healthy | [[q:P2-13-N]] |
+    | O Expected: Didn't Eat Food — Total | [[q:P2-13-O]] |
+    | P Expected: Total — Sick | [[q:P2-13-P]] |
+    | Q Expected: Total — Healthy | [[q:P2-13-Q]] |
+    | R Expected: Total — Total | [[q:P2-13-R]] |
+
+P2-13-A. [frq, 0.556 pt] Label A Observed: Ate Food — Sick
+
+P2-13-B. [frq, 0.556 pt] Label B Observed: Ate Food — Healthy
+
+P2-13-C. [frq, 0.556 pt] Label C Observed: Ate Food — Total
+
+P2-13-D. [frq, 0.556 pt] Label D Observed: Didn't Eat Food — Sick
+
+P2-13-E. [frq, 0.556 pt] Label E Observed: Didn't Eat Food — Healthy
+
+P2-13-F. [frq, 0.556 pt] Label F Observed: Didn't Eat Food — Total
+
+P2-13-G. [frq, 0.556 pt] Label G Observed: Total — Sick
+
+P2-13-H. [frq, 0.556 pt] Label H Observed: Total — Healthy
+
+P2-13-I. [frq, 0.556 pt] Label I Observed: Total — Total
+
+P2-13-J. [frq, 0.556 pt] Label J Expected: Ate Food — Sick
+
+P2-13-K. [frq, 0.556 pt] Label K Expected: Ate Food — Healthy
+
+P2-13-L. [frq, 0.556 pt] Label L Expected: Ate Food — Total
+
+P2-13-M. [frq, 0.556 pt] Label M Expected: Didn't Eat Food — Sick
+
+P2-13-N. [frq, 0.556 pt] Label N Expected: Didn't Eat Food — Healthy
+
+P2-13-O. [frq, 0.556 pt] Label O Expected: Didn't Eat Food — Total
+
+P2-13-P. [frq, 0.556 pt] Label P Expected: Total — Sick
+
+P2-13-Q. [frq, 0.556 pt] Label Q Expected: Total — Healthy
+
+P2-13-R. [frq, 0.556 pt] Label R Expected: Total — Total
+
+P2-14a. [frq, 2 pt] State the null (H₀) hypothesis for this Chi-Squared test.
+
+P2-14b. [frq, 2 pt] State the alternative (Hₐ) hypothesis for this Chi-Squared test.
+
+P2-14c. [frq, 2 pt] State the number of degrees of freedom for this test.
+
+P2-14d. [numeric, 2 pt] Compute the χ² value. Round the χ² value to 2 decimal places.
+
+P2-14e. [mcq, 2 pt] Select the appropriate p-value for this test based on the χ² table.
+    A) P > 0.5
+    B) 0.1 < P <= 0.5
+    C) 0.05 < P <= 0.1
+    D) 0.02 < P <= 0.05
+    E) 0.01 < P <= 0.02
+    F) 0.001 < P <= 0.01
+    G) P <= 0.001
+
+P2-15. [frq, 4 pt] Interpret the results of this test at a significance level (α) of 0.05.
+
+[STIMULUS] List the 13 steps of Outbreak Investigation below:
+    | Label | Answer |
+    | 1 | [[q:P2-16-1]] |
+    | 2 | [[q:P2-16-2]] |
+    | 3 | [[q:P2-16-3]] |
+    | 4 | [[q:P2-16-4]] |
+    | 5 | [[q:P2-16-5]] |
+    | 6 | [[q:P2-16-6]] |
+    | 7 | [[q:P2-16-7]] |
+    | 8 | [[q:P2-16-8]] |
+    | 9 | [[q:P2-16-9]] |
+    | 10 | [[q:P2-16-10]] |
+    | 11 | [[q:P2-16-11]] |
+    | 12 | [[q:P2-16-12]] |
+    | 13 | [[q:P2-16-13]] |
+
+P2-16-1. [frq, 0.308 pt] Label 1
+
+P2-16-2. [frq, 0.308 pt] Label 2
+
+P2-16-3. [frq, 0.308 pt] Label 3
+
+P2-16-4. [frq, 0.308 pt] Label 4
+
+P2-16-5. [frq, 0.308 pt] Label 5
+
+P2-16-6. [frq, 0.308 pt] Label 6
+
+P2-16-7. [frq, 0.308 pt] Label 7
+
+P2-16-8. [frq, 0.308 pt] Label 8
+
+P2-16-9. [frq, 0.308 pt] Label 9
+
+P2-16-10. [frq, 0.308 pt] Label 10
+
+P2-16-11. [frq, 0.308 pt] Label 11
+
+P2-16-12. [frq, 0.308 pt] Label 12
+
+P2-16-13. [frq, 0.308 pt] Label 13
+
+P2-17. [frq, 2 pt] Which of the 13 steps of outbreak investigation have we completed so far?
+
+P2-20. [frq, 4 pt] What is the difference between foodborne intoxication and foodborne infection? Which one applies to this scenario?
+
+P2-21. [frq, 6 pt] Name three prevention strategies in order to prevent future food poisoning events at Maseeh Dining Hall.
+
+
+=== Section 3: COVID-19 in Cambridge ===
+
+[STIMULUS] In December 2019, you completed your Masters in Public Health (MPH) and graduated from the prestigious Harvard School for Public Health! You accept a position in the City of Cambridge's Public Health Department in January 2020, expecting an easy first few months in your new job, when all of a sudden the COVID-19 pandemic breaks loose in the United States! Your job is to work with your colleagues and local experts to make the best public health decisions throughout the pandemic and keep the citizens of Cambridge healthy!
+
+This section is predominantly composed of calculation and free response questions. Instructions for rounding vary throughout this section: **be sure to round your answer to the number of digits specified in the question,** or your answer may be marked incorrect. For short answer questions, please make your answer as concise as possible
+
+[STIMULUS] COVID-19 Patterns/Data in Cambridge, MA
+
+At the end of the day on December 30th, 2021, a total of 11,318 Cambridge residents had tested positive for COVID and a total of 128 COVID-19 related deaths had occurred since the beginning of the pandemic. On December 30th, there were 2,828 active cases, 324 newly reported cases, and 2 newly reported deaths. The total population of Cambridge is estimated to be 116,632 residents (assume that the population size didn't significantly change over the course of the pandemic, and that all residents were initially at risk). Additionally, aside from active cases, assume that all recovered individuals are once again at risk of infection.
+
+P3-1a. [frq, 2 pt] What is the cumulative incidence of COVID-19 over the course of the entire pandemic in Cambridge? Provide your answer as cases per 1000 residents, rounded to 2 decimal places.
+
+P3-1b. [frq, 2 pt] What was the prevalence of COVID-19 on December 30, 2021? Provide your answer as cases per 1000 residents, rounded to 2 decimal places.
+
+P3-1d. [frq, 2 pt] Estimate the average duration of COVID-19 illness in Cambridge as of December 30th. Provide your answer as days, rounded to 1 decimal place.
+
+P3-1e. [frq, 2 pt] Calculate the overall case fatality rate for COVID-19 in Cambridge over the course of the pandemic. Give your answer as a percentage rounded to 2 decimal places.
+
+[STIMULUS] One group that is particularly at risk for COVID-19 infection and/or mortality is residents living in long term care facilities. As of December 30th, a total of 317 cases and 77 deaths due to COVID-19 were recorded in Cambridge's long term care facilities.
+
+P3-1f-I. [frq, 2 pt] What is the case fatality rate among all Cambridge long term care residents who tested positive for COVID-19 since the start of the pandemic? Give your answer as a percentage rounded to 2 decimal places.
+
+P3-1f-II. [frq, 4 pt] Provide two reasons that could explain why the COVID-19 case fatality rate is much higher among long-term care residents compared to the overall Cambridge population.
+
+[STIMULUS] The map above shows the total number of COVID-19 cases in each neighborhood/section of the city of Cambridge.
+    [IMAGE: ../images/2022_mit_invitational_c__p19_c4808a-32632cd2.webp]
+
+P3-1g-I. [frq, 1 pt] What type of map is this?
+
+P3-1g-II. [frq, 2 pt] What are two advantages of this style of map?
+
+P3-1g-III. [frq, 2 pt] What are two disadvantages of this style of map?
+
+P3-1g-IV. [frq, 4 pt] Provide 4 reasons why certain neighborhoods/sections of Cambridge have more cases than other neighborhoods?
+
+P3-1g-V. [frq, 2 pt] Without changing the type of map itself, what is a better way to represent the amount of cases in each neighborhood to allow for fairer comparisons between neighborhoods?
+
+[STIMULUS] COVID Testing
+
+Cambridge's Public Health Department needs your help to create a COVID-19 testing program for the city which is affordable, accurate, and reliable. The gold standard for COVID testing is a real time RT-PCR test, however, this option is far too expensive and time-consuming to be used for large-scale testing. Two faster, more affordable alternatives are the RT-LAMP test and rapid antigen testing. The RT-LAMP test takes roughly 90 minutes to deliver a result, and each test costs between $10 and $20 to run. The Rapid Antigen Test delivers results in 15 minutes, and the cost of each test is between $5 and $10.
+
+Below is data collected by researchers for a RT-LAMP test compared to the gold-standard RT-PCR test:
+
+| Validation of the RT-LAMP Test for SARS-CoV-2 | RT-PCR Test Positive | RT-PCR Test Negative |
+|---|---|---|
+| RT-Lamp Test Positive | 35 | 3 |
+| RT-Lamp Test Negative | 2 | 499 |
+
+P3-2a. [frq, 4 pt] Calculate the sensitivity and specificity of this test. Round your answers to 3 decimal places.
+
+P3-2b. [frq, 4 pt] Calculate the positive and negative predictive value of this test. Round your answers to 3 decimal places.
+
+[STIMULUS] Below is data collected by the CDC to evaluate the BinaxNOW Rapid Antigen Test.
+
+| Validation of the BinaxNOW Rapid Antigen Test for SARS-CoV-2 | Real Time RT-PCR Test Positive | Real Time RT-PCR Test Negative |
+|---|---|---|
+| BinaxNOW Rapid Antigen Test Positive | 157 | 4 |
+| BinaxNOW Rapid Antigen Test Negative | 142 | 3,116 |
+
+P3-2c. [frq, 4 pt] Calculate the sensitivity and specificity of this test.
+
+P3-2d. [frq, 4 pt] Calculate the positive and negative predictive value of this test.
+
+P3-2e. [frq, 6 pt] What is one advantage and disadvantage of each testing method? Which testing method would you recommend to the city's public health department?
+
+[STIMULUS] Deployment of the Testing Program
+
+The Cambridge Public Health Department and City Council carefully consider your report, as well as the reports given to them by both testing companies, and they eventually decide to use the RT-LAMP test for their COVID testing program.
+
+During the first week of the testing program, Cambridge is shown to have a low COVID-19 positivity rate of 3%. Two researchers at the local university try to cross check the accuracy of the RT-LAMP testing program by also administering RT-PCR tests to a small sample of citizens. To their great surprise, the observed positive predictive value of the test was far lower than what was obtained from the FDA's official data!
+
+P3-3a. [frq, 3 pt] Define percent positivity rate, and name two pieces of information that public health officials can obtain from a positivity rate.
+
+P4-3b. [frq, 4 pt] What are two possible explanations for why the PPV of the test was much lower in real life compared to in the FDA's official studies?
+
+P4-3c. [frq, 4 pt] Over the course of the next month, the Public Health Department expands its testing program to cover 70% of the entire population. The incidence of COVID-19 in Cambridge grows significantly, however, the positivity rate decreases to 2.3%. What is the most likely explanation for the rise in incidence, and how does this explanation account for the lowered positivity rate?
+
+[STIMULUS] Despite these initial hurdles, the testing program continues smoothly in Cambridge. Unfortunately, two months after the start of the testing program, the company producing the RT-LAMP tests goes out of business! Cambridge now has no choice but to rely on the less-accurate rapid antigen tests.
+
+Although this situation is far from ideal, the Public Health Department is still very optimistic about the testing program. In order to make up for the rapid test's lower accuracy, the public health department proposes that all people who receive a negative rapid test result would be tested a second time. As a reminder, the clinical data on BinaxNOW is provided below:
+
+| Validation of the BinaxNOW Rapid Antigen Test for SARS-CoV-2 | Real Time RT-PCR Test Positive | Real Time RT-PCR Test Negative |
+|---|---|---|
+| BinaxNOW Rapid Antigen Test Positive | 157 | 4 |
+| BinaxNOW Rapid Antigen Test Negative | 142 | 3,116 |
+
+P4-3d. [frq, 3 pt] Why did the Public Health Department choose to only give a second rapid antigen test to patients who first tested negative?
+
+P4-3e. [numeric, 2 pt] How many positive cases missed by the first test in the table above would the second test pick up?
+
+P4-3f. [numeric, 2 pt] Using the CDC data on BinaxNOW from earlier, how many of the new positive cases reported by the second test will be false negatives again?
+
+P4-3g. [numeric, 2 pt] What is the new sensitivity of the combined two-test protocol?
+
+
+=== Question 4: COVID-19 Vaccination ===
+
+[STIMULUS] In the middle of a surge in cases during December 2020, the COVID-19 vaccines received emergency use authorization from the FDA! Since Moderna is headquartered in Cambridge, the city was very interested in evaluating the Moderna COVID-19 vaccine. Below is data obtained from Moderna during its Phase 3 clinical trials.
+
+| Moderna COVID-19 Vaccine Phase 3 Clinical Data | COVID Infection Status: Case | COVID Infection Status: Healthy | Total |
+|---|---|---|---|
+| Vaccination Status: Vaccinated | 11 | 14,123 | 14,134 |
+| Vaccination Status: Placebo | 185 | 13,888 | 14,073 |
+| Total | 196 | 28,011 | 28,207 |
+
+P5-4a. [frq, 1 pt] What study design was used in order to obtain this data?
+
+P5-4b. [numeric, 2 pt] Calculate the Vaccine Efficacy of the Moderna Vaccine based on this Phase 3 data. Provide your answer as a percentage with one decimal place.
+
+P5-4c. [frq, 2 pt] Interpret the meaning of the vaccine efficacy you calculated in this context.
+
+P5-4d. [frq, 3 pt] Moderna reported that the 95% confidence interval for the vaccine's efficacy was between 89.3% and 96.8%. What is the interpretation of this 95% confidence interval?
+
+P5-4e. [frq, 3 pt] Moderna also reported that the one-sided p-value of their vaccine's efficacy was less than 0.0001, based upon a null hypothesis that the true vaccine efficacy was less than 30%. Interpret the meaning of this p-value, assuming a significance level of α = 0.01.
+
+P5-4f. [frq, 2 pt] Suppose that the vaccine efficacy obtained from this sample in part (B) was simply due to random sampling error and the true vaccine efficacy was actually less than 30%. Based on your answer for part 4e, what type of error would this represent? Using the same significance level from part 4e, what is the probability of this error occurring?
+
+P5-4g-i. [frq, 4 pt] What is stratification, and what is the general purpose of stratification in experiments?
+
+P5-4g-ii. [frq, 3 pt] Given what you know about factors which affect COVID-19 infection rates, why might Moderna have chosen to stratify by age and health risk?
+
+P5-4h-i. [frq, 4 pt] Explain the difference between vaccine efficacy and effectiveness.
+
+P5-4i. [frq, 6 pt] What is the definition of herd immunity and herd immunity threshold? How does the herd immunity threshold relate to a disease's effective reproduction number (Rt)?
+
+
+=== Question 5: SIR Model and Basic Reproductive Number ===
+
+[STIMULUS] S(t) = proportion of population that is susceptible to the disease at time t
+I(t) = proportion of population that has an active infection at time t
+R(t) = proportion of population that has recovered OR died from the disease at time t
+r = probability of transmission after contact between infected and susceptible individuals
+c = average contact rate between healthy and susceptible individuals.
+d = average duration of disease
+
+After all of your successful work expanding testing and vaccinations in Cambridge, the Public Health Department now needs your help in creating a COVID model. The SIR model is a compartmental model which is commonly used to analyze the spread of a disease in a population. The SIR model works by moving individuals in a population between three containers: Susceptible (S), Infected (I), and Removed (R). In order to decrease the computational expense of the simulation, the model describes each of these containers using rates and proportions rather than actually simulating individuals. The rate equations shown above (for those of you who have taken calculus, these are actually differential equations for dS/dt, dI/dt, and dR/dt) model the rate of change of each of these compartments. The basic reproductive number of a disease (R₀) is derived from the SIR model (R₀ = β/γ). Answer the questions below regarding R₀, the parameters affecting R₀, and the SIR model in general.
+    [IMAGE: ../images/2022_mit_invitational_c__p27_8af0f8-b3dc4a3a.webp]
+    [IMAGE: ../images/2022_mit_invitational_c__p27_a2e548-d192ae3c.webp]
+    [IMAGE: ../images/2022_mit_invitational_c__p23_ce647b6-af600fd2.webp]
+
+P6-5a. [frq, 4 pt] What is the meaning of β and γ in the context of these rate equations? In other words, what do β and γ control in this model?
+
+P6-5b. [frq, 4 pt] Assume that we are in the early stages of the epidemic (so S(t) ≅ 1.0, roughly 100% of population susceptible). If the disease's R₀ is equal to 2.0, then what is the rate of change of the number of infected individuals? Will the number of cases rise? Give your answer in terms of γ and I(t). Show your work to receive credit.
+
+P6-5c. [frq, 4 pt] If R₀ = 1.0, and once again assuming that we are in the early stages of the epidemic, what is the value of ΔI/Δt? Will the number of cases increase over time? Will there be any cases at all? Show your work to receive credit.
+
+P6-5d. [frq, 4 pt] If we are no longer in the early stage of the pandemic, and so the number of susceptible individuals has decreased by a significant amount, is R₀ still a good indicator of the epidemic's progression? Why or why not?
+
+P6-5e. [frq, 5 pt] If your answer to part (d) was no, then based upon the equation for I(t), what would be a better estimate for R₀? Give your answer, if applicable, in terms of β, γ, and S(t). What is the name of this "adjusted" value of R₀? Show your work to receive credit.
+
+[STIMULUS] Select whether each of these scenarios increases or decreases β, γ, and/or S(t). For β, please also mention whether the scenario affects the contact rate (c) or the transmissibility (r). Write the letters for each scenario in alphabetical order (ex. ACH).
+
+A. Increased β
+B. Decreased β
+C. Increased c
+D. Decreased c
+E. Increased r
+F. Decreased r
+G. Increased γ
+H. Decreased γ
+I. Increased S(t)
+J. Decreased S(t)
+
+P6-5f-i. [frq, 1 pt] The mayor of Cambridge implements a citywide mask mandate:
+
+P6-5f-ii. [frq, 1 pt] Boston Symphony Orchestra adopts a hybrid concert format, decreasing the size of the in-person audience while also live-streaming the concert for others to watch at home. BSO also requires in-person concertgoers to sit 6 feet apart.
+
+P6-5f-iii. [frq, 1 pt] Schools require sick students to remain fever-free for 24 hours before returning to school.
+
+P6-5f-iv. [frq, 1 pt] The COVID-19 Omicron variant causes individuals to have a much higher load of viral particles but also has a shorter duration of illness, on average.
+
+P6-5f-v. [frq, 1 pt] Mass General Hospital prescribes antiviral medications and other therapeutics to help patients recover faster from COVID-19.
+
+P6-5f-vi. [frq, 1 pt] 50% of the Cambridge/Boston population is fully vaccinated against COVID-19.
+
+P6-5f-vii. [frq, 1 pt] Unfortunately, the COVID-19 vaccine confers a much lower level of protection/immunity > 6 months after immunization.
+
+
+=== Question 6: COVID-19 Variants and Viral Evolution ===
+
+P7-6b. [frq, 5 pt] What does the term D614G stand for? In other words, which amino acid position is being mutated, and what change has occurred? Based on the chemical properties of the old and new amino acid residues, how much of an effect do you think this change will have on the three-dimensional structure of the spike protein?
+
+[STIMULUS] A study by Korber et al. (2020) analyzed clinical data in Sheffield, England to understand the effects of the D614G mutation. Below is a figure from the study comparing PCR cycle threshold (Ct) values between patients infected with the D614 and G614 variants:
+    [IMAGE: ../images/2022_mit_invitational_c__p32_62f826-d28cd45f.webp]
+
+P7-6c. [frq, 3 pt] In PCR testing, what is the meaning of the Cycle threshold value? How is the Ct value related to a patient's viral load?
+
+P7-6d. [frq, 4 pt] Based on the figure above, which variant, D614 or G614, had lower Ct values for each PCR method? Was this difference significant at α=0.05? What do these results suggest about the relative infectivity of these variants?
+
+[STIMULUS] This study also collected data in Sheffield regarding hospitalizations between patients affected with each variant. Below is a contingency table summarizing the results:
+
+| | Outpatient | Inpatient | ICU |
+|---|---|---|---|
+| D614 Variant | 127 | 110 | 5 |
+| G614 Variant | 410 | 307 | 39 |
+
+P7-6e. [numeric, 2 pt] Defining hospitalized status as anyone who is either admitted as a regular inpatient or taken to the ICU (as was defined in this study), what is the odds ratio for hospitalization between those infected with the G614 and D614 variants, respectively? Round your answer to two decimal places.
+
+[STIMULUS] Another study, Plante et al. (2021), explored the effects of the D614G mutation by infecting hamsters and human lung epithelial cells in vitro. The figure below shows RNA/PFU ratios in infected Calu-3 lung epithelial cells 24, 36, and 48 hours post infection. Note: PFU = plaque forming units, a measure of the quantity of infectious viral particles.
+    [IMAGE: ../images/2022_mit_invitational_c__p33_84a1a9-5227179d.webp]
+
+P7-6g. [frq, 2 pt] What viral characteristic does the RNA/PFU ratio represent (one word answer)? Is the RNA/PFU ratio positively or negatively correlated with this characteristic?
+
+P7-6h. [frq, 3 pt] Based on this graph, what conclusions can be drawn regarding the G614 variant?
+
+[STIMULUS] The next figure from this paper depicts PFU counts in various respiratory organs of infected hamsters, 4 days post-infection. As with the previous figure, D614 data is in black, and G614 data is in red.
+    [IMAGE: ../images/2022_mit_invitational_c__p34_863f76-de8c56eb.webp]
+
+P7-6i. [frq, 2 pt] Which parts of the respiratory tract, if any, show a change in PFU formation between the two variants? Describe the change that was observed.
+
+P7-6j. [frq, 4 pt] How might these changes in virus localization, if any, affect the spread and virulence of the G614 variant?
+
+[STIMULUS] In general, as a pathogen becomes more severe, its transmissibility tends to decrease. Additionally, many researchers have observed that over the course of time, many pathogens tend to evolve into more transmissible, yet less severe strains.
+
+P7-6k-I. [frq, 2 pt] What is the name of this trend, which was first described by evolutionary biologist Paul Ewald?
+
+P7-6k-II. [mcq, 2 pt] Based on the data and results discussed in this section, did the COVID-19 D614G mutation appear to follow this trend? Answer (A) for yes or (B) for no.
+    A) Yes
+    B) No
+
+P7-6k-III. [mcq, 2 pt] Do you expect the G614 variant to have increased (A), decreased (B), or not affected (C) the total number of cases? Answer with A, B, or C.
+    A) Increased
+    B) Decreased
+    C) Not affected
+
+P7-6k-IV. [mcq, 2 pt] Do you expect the G614 variant to have increased (A), decreased (B), or not affected (C) the total number of severe illnesses/deaths? Answer with A, B, or C.
+    A) Increased
+    B) Decreased
+    C) Not affected
+
+
+=== Question 7: Preparing for the Omicron Variant ===
+
+[STIMULUS] On December 1st, 2021, the first case of the COVID-19 Omicron Variant was detected in the United States. Within a few weeks, Omicron overtook the Delta variant and became the most prevalent COVID-19 in the United States. Use your epidemiology expertise to help the Cambridge Public Health Department prepare for and mitigate the upcoming surge in Omicron cases!
+
+UT Austin's COVID-19 Modeling Consortium, headed by mathematical epidemiology expert Dr. Lauren Ancel Meyers, recently released predictions for the Omicron variant outbreak using their mathematical COVID-19 models. Use the figure below, which depicts the predicted effect of COVID-19 boosters, to answer parts a-c:
+    [IMAGE: ../images/2022_mit_invitational_c__p35_dad0dd-a7adf541.webp]
+
+P8-7a. [mcq, 1 pt] What level of prevention do COVID-19 booster shots act at?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P8-7b. [frq, 4 pt] Provide two reasons to explain why the UT COVID-19 Modeling Consortium chose to model multiple Omicron scenarios.
+
+P8-7c. [frq, 6 pt] The data above shows the predicted benefits when COVID-19 booster uptake in the United States is raised from 57% to 80%. List four strategies that local governments can use to encourage more individuals to get their booster shot.
+
+[STIMULUS] The graph above shows the predicted number of hospitalizations due to the Omicron variant.
+    [IMAGE: ../images/2022_mit_invitational_c__p36_0ac76f-704f2a4b.webp]
+
+P8-7d. [frq, 3 pt] What is the greatest concern posed by this data?
+
+P8-7e. [frq, 3 pt] Data from South Africa and other lab studies has suggested that the Omicron variant is less severe than other COVID-19 variants. Why, then, are peak hospitalizations predicted to far exceed the previous high in some of the scenarios?
+
+[STIMULUS] The figure below shows the predicted number of Omicron cases over the next 4 months.
+    [IMAGE: ../images/2022_mit_invitational_c__p37_8ef0f3-2182ca28.webp]
+
+P8-7f-I. [frq, 2 pt] One framework for understanding ways to prevent disease spread is the Chain of Infection. List the 6 links in the chain of infection, in order:
+
+P8-7f-II. [frq, 6 pt] Provide one way to break each link in the chain of infection for COVID-19:
+
+P8-7g-I. [frq, 5 pt] An important component of an effective pandemic response/prevention plan is a strong public health surveillance system. What are 5 attributes of a good, functional surveillance system?
+
+P8-7g-II. [frq, 3 pt] List any three of the eight criteria used to evaluate surveillance systems:
+
+P8-7g-IV. [frq, 4 pt] Pick one type of surveillance system, and design a surveillance system based on that chosen type for Cambridge's Public Health Department.

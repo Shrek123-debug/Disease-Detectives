@@ -1,0 +1,454 @@
+Plymouth-Canton Invitational - MI — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  87 questions, 159.0 pts
+Source: scio.ly test archive id ce0951f2-830b-43e2-912a-830a4bc5820c
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+DIRECTIONS: This test is interactive; questions may refer back to previous sections. Please read all questions carefully before answering. Please round all final calculations to the nearest hundredth. Incorrect answers due to inaccurate or premature rounding will be awarded partial credit. All free response questions must be answered in 1-2 sentences.
+
+
+=== Part 1: Training ===
+
+[STIMULUS] You and your partner are aspiring epidemiologists. The local branch of the IDIC (Injuries and Disease Intervention Center) is willing to hire you, but you must first pass the following test on general epidemiologic knowledge:
+
+**In questions 1-4, please identify whether the scenario best describes a Public Health Approach or Clinical Approach to an issue.**
+
+1. [mcq, 1 pt] A campaign to decrease the prevalence of depression in adolescents by encouraging primary healthcare providers (PHPs) to ask a prescribed set of questions to teenage patients during yearly checkups has recently been implemented in the neighboring states of Yassachusetts and Oiio.
+    A) Public Health Approach
+    B) Clinical Approach
+
+2. [mcq, 1 pt] A man bitten by a crazy squirrel is injected with a rabies vaccine.
+    A) Public Health Approach
+    B) Clinical Approach
+
+3. [mcq, 1 pt] A breast cancer patient in her 70s has recently begun chemotherapy. Concerned that the patient's 42-year-old daughter may be at higher risk for breast cancer, the oncologist recommends the daughter make an appointment for a mammogram.
+    A) Public Health Approach
+    B) Clinical Approach
+
+4. [mcq, 1 pt] Due to a large increase in lumbar injuries in people with sedentary lifestyles, the IDIC's partner organization, the Occupational Health Intervention Center (OHIC), recommends that offices implement standing desks for their workers.
+    A) Public Health Approach
+    B) Clinical Approach
+
+5. [mcq, 1 pt] As public health officials, you will be solving health problems using the ____.
+    A) Public Health Approach
+    B) Clinical Approach
+
+6. [multi, 2 pt] As public health officials, you can expect to be responsible for which of the following:
+    A) Writing prescriptions for medication
+    B) Organizing immunization clinics
+    C) Diagnosing patients who show symptoms of a highly infectious disease
+    D) Analyzing the rate of incidence of avian influenza in a county
+    E) Interpreting blood test results
+
+7. [mcq, 1 pt] Which Ancient Greek thinker first attempted to explain disease rationally?
+    A) Aristotle
+    B) Hippocrates
+    C) Galen
+    D) Plato
+
+8. [mcq, 1 pt] Public Health Surveillance is the ____, ____ collection, analysis, and interpretation of health-related data.
+    A) ongoing, systematic
+    B) short-term, systematic
+    C) historical, long-term
+    D) systemic, controlled
+
+9. [mcq, 1 pt] Place the following historical events in chronological order from oldest to most recent:
+    (1) Implementation of HIPAA in the USA
+    (2) Development of the anthrax vaccine
+    (3) Addition of fluoride to the US public water supply in randomized community trials
+    (4) Epidemiologic studies establish a connection between cigarette smoking and lung cancer
+    A) (1), (3), (4), (2)
+    B) (2), (3), (4), (1)
+    C) (4), (3), (2), (1)
+    D) (4), (3), (1), (2)
+
+10. [mcq, 1 pt] Which of the following scenarios best describes a cohort study?
+    A) Elizabreath in the Infectious Disease department is helping out with a study comparing the lifestyle patterns of people with and without chronic migraines to try and isolate potential causes of chronic migraines.
+    B) Larry in the Occupational Health department wants to study the risk of developing pneumoconiosis in Anita County construction workers. In order to do so, he is tracking and measuring the lung health of a group of 93 construction workers once a year until retirement.
+    C) Khalid in the Community Health department is leading a study in which volunteers are assigned to one of two treatments: doing 30 minutes of light exercise daily or implementing no change to their exercise levels. At the beginning and the end of the study, he will ask the participants to answer questionnaires about their mental health levels.
+    D) Zaire in the Community Health department is analyzing historical reports of hepatitis B cases in Godzilla Township over the last 30 years to determine patterns of infection over time.
+
+11. [mcq, 1 pt] Which of the following correctly describes a component of the rationale behind double-blind randomized controlled trials?
+    A) Randomization is used to confound both the subjects and experimenters.
+    B) Double-blindness ensures no one will ever know who got which treatment.
+    C) Randomization is used to draft subjects from the general population into the study.
+    D) Double-blindness is used to reduce bias in both the subjects and experimenters.
+
+12. [mcq, 1 pt] A hyperendemic health problem is:
+    A) A disease that is so infectious in a certain environment that infection rates in the area cannot be reduced.
+    B) A disease, chronic condition, or type of injury that is constantly present at a high incidence and/or prevalence.
+    C) A disease or chronic condition that lies dormant in all members of a population before randomly presenting symptoms, causing high incidence and prevalence.
+    D) A disease that is restricted to its native environment due to vector/host characteristics.
+
+13. [multi, 2 pt] Select all that apply: If you are at high risk for cardiac arrest in your lifetime, you
+    A) will die from cardiac arrest.
+    B) have an increased probability of going into cardiac arrest in your lifetime.
+    C) have an increased probability of dying from cardiac arrest.
+    D) are more likely to have complications during treatment for cardiac arrest.
+
+14. [mcq, 1 pt] Which of the following is not a type of disease agent?
+    A) biologic
+    B) physical
+    C) psychological
+    D) chemical
+
+15. [mcq, 1 pt] Jeremy, who has pinkeye, dries his face with a towel. Unaware of this fact, his roommate Josh dries his hands on the towel, then later touches his face and contracts pinkeye. In this scenario, the towel is a:
+    A) fomite
+    B) contaminant
+    C) host
+    D) vector
+
+16. [mcq, 1 pt] Which of the following is not an observational study?
+    A) Ecological study
+    B) Cross-sectional study
+    C) Health survey
+    D) Community trial
+
+17. [mcq, 1 pt] Prions pose unique challenges for public health systems because they:
+    A) Can remain dormant in hosts for long periods of time (often years).
+    B) Are difficult to diagnose and often require confirmation by biopsy.
+    C) Are highly resistant to standard sterilization methods.
+    D) All of the above
+    E) None of the above
+
+18. [mcq, 1 pt] Food safety is important to everyone who eats food! Which of the following measures can help prevent foodborne illnesses?
+    A) Hanging your leftovers up in a tree so the bears can't get to them
+    B) Reheating food to an internal temperature of at least 122ºF (50ºC)
+    C) Refrigerating food at temperatures at or below 40ºF (4.4ºC)
+    D) Washing raw chicken in the sink before cooking it
+
+19. [mcq, 1 pt] Pathogenicity refers to:
+    A) the proportion of persons with clinical disease who become severely ill or die.
+    B) the proportion of infected persons who develop clinical disease.
+    C) the proportion of exposed persons who become infected.
+    D) the period when you are infectious and can spread your germs.
+
+20. [mcq, 1 pt] Which of the following can participate in epidemiologic surveillance systems?
+    A) Industry partners
+    B) Federal agencies
+    C) Poison control centers
+    D) All of the above
+    E) None of the above
+
+21. [mcq, 1 pt] A TikTok bringing awareness to some commonly reported but less widely-known symptoms of heart attacks would most likely have a target audience of:
+    A) Legislators and other policymakers
+    B) Healthcare providers
+    C) Public health practitioners
+    D) The general public
+
+22. [mcq, 1 pt] The scenario described in the previous question is part of which of the following steps of surveillance?
+    A) Data dissemination
+    B) Data analysis
+    C) Data interpretation
+    D) Data collection
+
+23. [mcq, 1 pt] Breaking the chain of infection entails:
+    A) Interrupting one of the "links" in the chain of infection to stop infectious agent transmission
+    B) Forgiving the infection for their wrongdoings to prevent future emotional anguish and foster positive societal change
+    C) Symbolically binding the infection to a physical chain and dismantling the links one by one to banish the infection to the shadow realm
+    D) Bypassing one of the "links" the in the chain of infection to disturb the infectious agent's life cycle
+
+24. [mcq, 1 pt] Which of the following is NOT necessary in order to verify a hypothesis in an epidemiological setting?
+    A) Validate hypothesis with lab verification
+    B) Compare evidence with established fact
+    C) Conduct an observational study
+    D) Conduct an experimental study
+
+25. [mcq, 1 pt] From the following, which patient is vulnerable to becoming a susceptible host?
+    A) An 83-year-old with chronic arthritis
+    B) A newborn baby with a high APGAR score
+    C) A 25-year-old with lupus nephritis who had a stable kidney transplant
+    D) All of the above
+
+27. [mcq, 1 pt] In order to calculate vaccine effectiveness, you need to know:
+    A) Incidence in the vaccinated population
+    B) Incidence in the unvaccinated population
+    C) Vaccine efficacy
+    D) All of the above
+    E) None of the above
+
+28. [mcq, 1 pt] Potential determinants of a person's mental health include:
+    A) Family history
+    B) Socioeconomic background
+    C) Lifestyle patterns
+    D) All of the above
+    E) None of the above
+
+29. [mcq, 1 pt] A patient who stops taking their antibiotics before they complete the full course puts themselves at risk for:
+    A) A dangerous decrease in gut bacteria diversity
+    B) A sexually transmitted disease
+    C) Relapse of the infection being treated
+    D) A viral infection
+
+30. [mcq, 1 pt] Antibiotic resistance is most commonly caused by ____ and ____.
+    A) Underuse, misuse
+    B) Overuse, misuse
+    C) Overuse, directed use
+    D) Underuse, overuse
+
+31. [mcq, 1 pt] Which of the following is not someone who must rely on herd immunity for protection against disease?
+    A) A colon cancer patient receiving chemotherapy
+    B) A 95-year-old with advanced Parkinson's Disease
+    C) A 32-year-old with a history of splenectomy
+    D) A healthy 3-week-old infant
+    E) A 47-year-old with Graves' hyperthyroidism
+
+32. [mcq, 1 pt] Which of the following is not one of the purposes of epidemiology in public health?
+    A) Eliminating the agent, host, and environmental factors that are detrimental to public health
+    B) Determining the relative importance of different causes of illness, disability, and death
+    C) Evaluating how effective different health programs and services are at improving population health
+    D) Identification of the groups within the greater population that have the highest risk from specific causes of health problems
+
+33. [mcq, 1 pt] The Stage of Subclinical Disease begins with ____ and is marked by ____.
+    A) Onset of symptoms, pathologic changes
+    B) Exposure, pathologic changes
+    C) Exposure, onset of symptoms
+    D) Onset of symptoms, contagiousness
+
+34. [mcq, 1 pt] A herd immunity threshold of 0.92 means:
+    A) At least 92% of people need to be immune to prevent widespread outbreaks in a population
+    B) Only 92% of people in the general population are protected from the disease
+    C) Once 92% of people in a population are vaccinated, no one else needs to get vaccinated
+    D) At least 92% of people in a population need to be immune to eradicate the disease
+
+35. [mcq, 1 pt] Gordo from HR mistakenly stole someone's experimental E.coli-infected salad out of the break room fridge and ate it for lunch today. The E.coli is currently in his body but has not yet invaded his tissues. What condition is Gordo currently in?
+    A) Disease
+    B) Breach
+    C) Infection
+    D) Contamination
+
+36. [mcq, 1 pt] Nat is a 17-year-old with a history of astigmatism. Nat's father, Gio, is a 52-year-old with a history of diabetes and high blood pressure. At a basketball game one day, Nat and Gio are both exposed to the common cold. Which of the following statements is likely true?
+    A) The infectious dose for the common cold is higher for Nat than for Gio.
+    B) The infectious dose for the common cold is lower for Nat than for Gio.
+    C) The infectious dose for the common cold is the same for Nat and Gio.
+    D) None of the above
+
+37. [mcq, 1 pt] Which of the following is generally true of the disease reporting pathway?
+    A) Labs report to county/local health departments, but not to the state health department.
+    B) Healthcare providers report to county/local health departments, but not to the state health department.
+    C) Institutions report to both county/local health departments and the state health department.
+    D) County/local health departments report to the state health department, but not to the CDC.
+
+38. [mcq, 1 pt] The period from the time of exposure to onset of disease symptoms for infectious diseases is called:
+    A) The latency period.
+    B) The asymptomatic period.
+    C) The incubation period.
+    D) The period of communicability.
+
+39. [mcq, 1 pt] Which of the following is not true about PulseNet?
+    A) It is a national laboratory network that detects outbreaks of foodborne, waterborne, zoonotic, and environmentally derived diseases.
+    B) Whole genome sequencing (WGS) is used to identify the DNA fingerprints of suspected causes of outbreaks.
+    C) It is able to monitor foodborne diseases in real time and rapidly identify potential outbreaks through cluster detection.
+    D) None of the above
+
+40. [mcq, 1 pt] Based on the following high-quality SNP comparisons of 3 isolates of tuberculosis, which labels are correct for the below phylogenetic tree?
+    [IMAGE: ../images/2026_plymouth_canton_invitational_mi_c__p9_ae54d5-8ab429b6.webp]
+    [IMAGE: ../images/2026_plymouth_canton_invitational_mi_c__p9_04bc81-21ab6a66.webp]
+    A) A is Isolate 1, B is Isolate 2, C is Isolate 3
+    B) A is Isolate 3, B is Isolate 1, C is Isolate 2
+    C) A is Isolate 2, B is Isolate 3, C is Isolate 1
+    D) A is Isolate 2, B is Isolate 1, C is Isolate 3
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] Congratulations! The IDIC was so impressed by your epidemiology knowledge that not only did they immediately hire you, but they assigned you to your own case! You and your partner have been tasked with investigating the novel disease SKIBIDi (Signaling Kinase-Inhibiting Bacterium Influx Disease). SKIBIDi was first discovered in the coastal city of Shell Harbor about 5 months ago.
+
+You and your partner work in the Yalabama branch of the IDIC. It is up to you to determine the extent of the outbreak, if there is one, in Yalabama.
+
+41. [frq, 13 pt] Outline the 13 steps you need to take in your investigation.
+
+42. [mcq, 1 pt] True or False: One or more of the above steps can be done at the same time.
+    A) True
+    B) False
+
+43. [mcq, 1 pt] What is one of the first actions that would make sense for you to take in this investigation?
+    A) Verify all diagnoses with laboratory examinations and separate cases based on verification
+    B) Establish a hypothesis for your investigation and update it as the investigation continues
+    C) Do your research on the situation–which equipment will you need? What’s the lore on this disease? etc.
+    D) Collect data on each case, such as demographics, clinical signs/symptoms, risk factors, etc.
+
+44. [mcq, 1 pt] What is the action you should aim to complete as soon as possible?
+    A) Quarantine all confirmed cases to limit the spread of the disease
+    B) Establish a source and mode of transmission
+    C) Distribute a confirmed treatment to all patients
+    D) Disseminate the findings of your investigation to healthcare facilities
+
+45. [frq, 3 pt] Please explain why you chose your answer to the previous question.
+
+46. [mcq, 1 pt] What is the type of surveillance that most likely led to the discovery of SKIBIDi? (hint: SKIBIDi is a novel disease.)
+    A) Sentinel
+    B) Passive
+    C) Active
+    D) Syndromic
+
+48. [mcq, 1 pt] After confirming the outbreak, which type of surveillance is most likely used in the epidemiologic investigation?
+    A) Sentinel
+    B) Syndromic
+    C) Active
+    D) Passive
+
+49. [frq, 4 pt] After doing some background research, you notice that there has also been a recent spike in norovirus cases. What specific effect would you expect this trend to have on the accuracy of syndromic reporting of SKIBIDi? Explain your answer.
+
+[STIMULUS] Over the course of a week, your surveillance found the following data–organized in the following table–on new cases in Yalabama. In order to slow the spread of SKIBIDi in Yalabama, you want to figure out if certain age groups are more vulnerable to the disease. Use the following table:
+
+Novel Cases of SKIBIDi in Yalabama by County and Age
+
+Italicized numbers indicate total population.
+
+| County | 0-14 | 15-29 | 30-44 | 45-59 | 60-74 | 75-89 | 90+ | Total |
+|---|---|---|---|---|---|---|---|---|
+| A | 62 / 4400 | 17 / 5500 | 13 / 4675 | 8 / 4950 | 2 / 4125 | 0 / 3300 | 0 / 550 | 102 / 27500 |
+| B | 56 / 5700 | 39 / 5400 | 19 / 5100 | 3 / 5700 | 1 / 4200 | 0 / 3300 | 0 / 600 | 118 / 30000 |
+| C | 70 / 7225 | 22 / 8075 | 18 / 8500 | 1 / 6800 | 0 / 6375 | 1 / 4675 | 1 / 850 | 113 / 42500 |
+| D | 83 / 3450 | 23 / 4600 | 2 / 4140 | 0 / 4600 | 0 / 2990 | 1 / 2760 | 2 / 460 | 111 / 23000 |
+| E | 67 / 6300 | 26 / 5950 | 25 / 5250 | 2 / 6650 | 2 / 5600 | 2 / 4550 | 1 / 700 | 125 / 35000 |
+| F | 71 / 4675 | 28 / 4675 | 20 / 4400 | 6 / 4950 | 3 / 4950 | 1 / 3300 | 0 / 550 | 129 / 27500 |
+| G | 52 / 2700 | 10 / 3000 | 18 / 2550 | 9 / 2250 | 5 / 2250 | 1 / 1950 | 1 / 300 | 96 / 15000 |
+| H | 73 / 7790 | 12 / 6970 | 21 / 7380 | 4 / 6970 | 1 / 6150 | 0 / 4920 | 1 / 820 | 112 / 41000 |
+| I | 54 / 2720 | 17 / 3230 | 26 / 2550 | 3 / 3060 | 2 / 2720 | 1 / 2380 | 0 / 340 | 103 / 17000 |
+| J | 91 / 9810 | 16 / 9810 | 15 / 9810 | 7 / 9265 | 0 / 8175 | 0 / 6540 | 0 / 1090 | 129 / 54500 |
+| K | 68 / 5270 | 19 / 5270 | 2 / 5890 | 11 / 4960 | 1 / 5270 | 1 / 3720 | 0 / 620 | 102 / 31000 |
+| L | 105 / 12750 | 43 / 17000 | 31 / 15300 | 29 / 12750 | 3 / 11900 | 7 / 11900 | 0 / 3400 | 218 / 85000 |
+| M | 87 / 6030 | 15 / 6030 | 17 / 6030 | 5 / 5695 | 1 / 4355 | 0 / 4690 | 0 / 670 | 125 / 33500 |
+| Total | 939 / 82620 | 287 / 91510 | 227 / 81575 | 88 / 83140 | 21 / 69060 | 15 / 57885 | 6 / 105500 | 1583 / 462500 |
+
+51b. [frq, 2 pt] The proportion of people under the age of 15 in Yalabama who contracted SKIBIDi over the observed week.
+
+51d. [frq, 2 pt] The proportion of all cases in County G who are at least 45 years old.
+
+52a. [frq, 2 pt] The incidence rate (per 100,000 people) of all residents of County K, over the observed week
+
+54a. [frq, 2 pt] There have been seven deaths due to SKIBIDi in Yalabama in the last week. Calculate the mortality rate for SKIBIDi in Yalabama. Express your answer per 100,000 people.
+
+54b. [mcq, 1 pt] Which historical figure is credited with inventing the calculation from part (a)?
+    A) John Snow
+    B) John Locke
+    C) John Graunt
+    D) John Cena
+
+[STIMULUS] These questions will be based on the following epi curve:
+    [IMAGE: ../images/2026_plymouth_canton_invitational_mi_c__p15_00d8da-68c85644.webp]
+
+55. [frq, 3 pt] Based on the shape of the epi curve, identify and explain the most likely mode of transmission for SKIBIDi.
+
+56. [frq, 2 pt] Estimate the incubation time for the SKI bacterium.
+
+[STIMULUS] You get an alert that the middle school down the street is reporting an outbreak of SKIBIDi. Using the following case definition, you and your partner collect data from students, shown in Figure 5:
+
+Clinical description - An illness characterized by all the following:
+- Any two of the following: Vomiting, diarrhea, nausea, and headache
+- A temperature greater than or equal to 101.0°F (greater than or equal to 38.3°C)
+- Dehydration due to fluid loss
+
+Laboratory criteria for diagnosis:
+- Isolation of SKI bacterium from a clinical specimen
+
+Case classifications:
+Suspected: Any two of the above symptoms accompanied by fever
+Probable: A case that meets the clinical case definition, but has not been laboratory confirmed and is not epidemiologically linked to a confirmed case
+Confirmed: A case that is laboratory confirmed or that meets the clinical case definition and is epidemiologically linked to a confirmed case. (A laboratory-confirmed case does not need to meet the clinical case definition.)
+    [IMAGE: ../images/2026_plymouth_canton_invitational_mi_c__p16_va544c3-6870fa5f.webp]
+
+57a. [frq, 2 pt] What is the above figure called?
+
+[STIMULUS] From the students shown in the figure, determine the numbers of probable and confirmed cases of SKIBIDi:
+    | Label | Answer |
+    | Probable | [[q:57b-a]] |
+    | Confirmed | [[q:57b-b]] |
+
+57b-a. [frq, 2 pt] Probable
+
+57b-b. [frq, 2 pt] Confirmed
+
+57c. [frq, 2 pt] What piece of evidence is required to confirm a case?
+
+[STIMULUS] After interviewing all the ill students at Mega Middle, you think that the most probable source of the infection is the school lunch served on January 9th. You interview a random control group of students who did not get ill and compile the following data:
+
+| | Ate the school lunch | Did not eat the school lunch |
+|---|---|---|
+| Disease | 43 | 11 |
+| Control | 15 | 41 |
+
+58a. [frq, 1 pt] What type of study is this?
+
+58b. [frq, 2 pt] Calculate the odds ratio for the school lunch.
+
+58c. [frq, 3 pt] Interpret your odds ratio.
+
+58d. [frq, 2 pt] What is one type of bias that the described study type is vulnerable to?
+
+[STIMULUS] The results of your (magically fast) research suggests that SKIBIDi is caused by the SKI bacterium (SKIB), which may have originated from undercooked shellfish. Once ingested, it is absorbed into the bloodstream in the GI tract. While in the bloodstream, the bacteria release toxins which inhibit kinases that are vital to cell signaling transduction pathways, which severely hinders tissue function. Symptoms present as vomiting, diarrhea, and severe dizziness due to reduced blood volume. Rare cases have shown damage in brain tissue (known as “brain rot”).
+
+Based on your research and data collection, you originally hypothesized that if a healthy person comes into close contact with an infected patient or their bodily fluids (blood, vomit, urine/excrement, and saliva, including respiratory aerosols), they will contract SKIBIDi from the infected patient through person-to-person contact.
+
+60. [frq, 2 pt] Adjust your hypothesis based on the new findings presented in question 58.
+
+61. [frq, 2 pt] After wrapping up data collection at Mega Middle, you and your partner decide to make a data collection form to send out to all schools in the county. List one of the types of information about each case that your data collection form should collect.
+
+[STIMULUS] Oh no! It turns out that 4 days ago, your annoying coworker Brock Lee spent the rest of the Infectious Disease department’s events planning budget on an enormous catered sushi buffet for the whole department, which was set up in the employee cafeteria. Ironically, the sushi turned out to have been contaminated with SKIB and has likely infected most of the Infectious Disease department.
+
+Anticipating a SKIBIDi outbreak, your boss asks you to conduct a study of the department, so you quickly follow up with everyone in the office. Your data collection finds 83 confirmed SKIBIDi cases out of the 200 employees in the department. Of the 83 confirmed cases, 73 people ate sushi. 14 people in the noninfected group ate sushi.
+
+62a. [frq, 6 pt] Identify the agent/host/environment triad for this outbreak.
+
+62b. [frq, 3 pt] Construct a table based on the scenario and use it to calculate the strength of association between exposure to the sushi and contracting SKIBIDi.
+
+62c. [frq, 3 pt] What does the value you calculated mean? (Interpret your findings.)
+
+63. [frq, 1 pt] Several employees were exposed to vomit in one of the first-floor restrooms in the IDIC building. This could introduce which type of error to your study?
+
+64. [frq, 5 pt] Would an ethics board approve an experimental study in humans to investigate the method of transmission of SKIBIDi by having healthy participants interact in various ways with patients or fomites which are infected with SKIBIDi? Explain why or why not.
+
+[STIMULUS] Because SKIBIDi is a bacterial infection, it can be treated using antibiotics. If it were caused by a virus, should it still be treated using antibiotics? Explain why or why not from:
+
+65a. [frq, 2 pt] A clinical approach.
+
+65b. [frq, 2 pt] A public health approach.
+
+66. [frq, 3 pt] Before prescribing antibiotics or other treatments for patients with SKIBIDi, what other steps to control the spread of the disease should be taken first?
+
+[STIMULUS] Antibiotics are a type of ____ prevention method, while proper handwashing and sanitation are types of ____ prevention.
+
+67-1. [frq, 1 pt] Blank 1: Antibiotics are a type of ____ prevention method, while proper handwashing and sanitation are types of (…) prevention.
+
+67-2. [frq, 1 pt] Blank 2: Antibiotics are a type of (…) prevention method, while proper handwashing and sanitation are types of ____ prevention.
+
+
+=== Part 3: Debrief ===
+
+[STIMULUS] Congratulations on completing the initial stages of your first investigation as a disease detective! Let’s debrief on the case.
+
+68. [mcq, 1 pt] True or false: You’re done with this case for good.
+    A) True. We found out what happened and analyzed all the data related to SKIBIDi. Now that the outbreak has died down, we can move on to the next case.
+    B) False. We (or the IDIC) will continue to monitor SKIBIDi in the population. Because this is a novel disease, we don’t yet know things like the long-term effects of SKIBIDi or whether it will mutate into a new strain.
+
+69. [frq, 1 pt] Now that control and prevention measures have been implemented, we should continue to monitor SKIBIDi using ____.
+
+70. [frq, 4 pt] What is the purpose of implementing the monitoring method you chose in question 69? How will it help you continue to control the spread of SKIBIDi?
+
+[STIMULUS] There is already a SKIB vaccine in development. The upcoming Stage III clinical trial is the final planned stage for SKIB vaccine testing and has an enrollment of 30,017 subjects.
+    | Label | Answer |
+    | **71.** The null and alternate hypotheses the study is testing are: |  |
+    | H₀ Null hypothesis | [[q:71-a]] |
+    | Hₐ Alternate hypothesis | [[q:71-b]] |
+
+71-a. [frq, 2 pt] H₀ Null hypothesis
+
+71-b. [frq, 2 pt] Hₐ Alternate hypothesis
+
+72. [frq, 3 pt] The most appropriate study type for this scenario would be: (be as specific as possible)
+
+73. [frq, 6 pt] What does double-blindness entail in clinical studies such as vaccine trials?
+
+75. [frq, 3 pt] The statistical analysis of data from the Stage III clinical trial of the SKIB vaccine resulted in a p-value of 0.03 with a 95% confidence interval. Assuming p<0.05 is significant, interpret these results.
+
+[STIMULUS] Based on the information you found during your investigation on the transmission methods of SKIBIDi, propose a reasonable prevention or control method that the IDIC can implement in the case of the next SKIBIDi outbreak at:
+
+76a. [frq, 2 pt] The acute level (one hospital/healthcare facility, building, etc.)
+
+76b. [frq, 2 pt] The local/state level.
+
+76c. [frq, 2 pt] The national level.
+
+77. [frq, 2 pt] Communication of findings is important, especially in a field like Public Health that has a large emphasis on informing the public. What is one way that communication of findings could help reduce SKIBIDi transmission?
+
+78. [frq, 2 pt] What is the main difference between eradication and extinction of an infectious agent?

@@ -1,0 +1,437 @@
+University of Pennysylvania — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  94 questions, 339.0 pts
+Source: scio.ly test archive id 0d5cde3b-0e2e-4f4c-b4cb-1911e3969f47  |  original files: https://drive.google.com/drive/folders/1Tsvg6OLW-MmxmFj6bvOdqH1aDB9I7X37
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Do not open or write on this exam until instructed to do so. Opening the exam early and any violation of standard testing protocol may incur a scoring penalty or disqualification.
+
+Please write your team name and number on every page. If any pages are lost, you will not receive credit for anything you wrote on them. If you require additional space, please ask an event supervisor for extra paper and clearly label which section and question you are answering. Mark on the exam that you used extra paper, if applicable.
+
+Show your work for all calculations unless instructed otherwise in the question.
+
+Tiebreakers:
+- High score on Part I, then II, then III.
+- Time to finish exam (to the minute).
+- Selected questions, if needed.
+
+[STIMULUS] It’s the day after Christmas, and you and your family couldn’t be happier to board your all-inclusive New Year’s Cruise. You’ve heard about the world-class entertainment, the multiple beautiful stops along the way, as well as the delicious food. You absolutely can’t WAIT to relax by the pool, sip some pina coladas, and sunbathe to your heart’s delight.
+
+A few days go by and amidst all of the holiday celebrations, your mother starts to retreat to your private room more and more often. She complains of nausea and vomiting, and soon has to be taken to the cruise infirmary. You still have five days left at sea, but you’re worried she won’t be able to enjoy any of it.
+
+Soon, your uncle and two cousins begin to fall ill, showing similar symptoms to your mother. On your way to the bathroom in the Sofishticated Sea Lounge, you notice a passenger dart past you, their hand over their mouth with a sickly green color on their face.
+
+Luckily, you’re currently pursuing a career in epidemiology, and want to get to the bottom of this fishy occurrence.
+
+P1-1. [frq, 6 pt] Would you consider this an outbreak? Why? What information do you need in order to confirm it is an outbreak?
+
+P1-2. [frq, 4 pt] What is the difference between an epidemic, pandemic, outbreak, and case cluster?
+
+[STIMULUS] Feeling absolutely hooked on this case, you decide to take your mother and family in for some questioning while you can. You ask each family member when they fell ill.
+
+“Not too long after we got on the boat...I think the first wave of nausea came on Wednesday...now what day was that? Ah yes, December 27th. And what is it today? December 30th. Ah, it’s a shame I’m not feeling better, I’m going to have to miss the New Year’s Eve show tomorrow!” says your mother.
+
+“December 28th. I remember because that was the day we got off the boat and I tried to go parasailing, but I got so sick before I had to get back on the boat.” says your cousin. Your uncle and other cousin say the same thing.
+
+It is now December 30th, and no one’s symptoms have since been relieved.
+
+P1-3. [frq, 8 pt] What are the four components of a case definition? Construct a case definition for this outbreak.
+
+P1-4. [frq, 3 pt] What is the difference between a confirmed case and a probable case? What is another category for a case?
+
+P1-5. [frq, 4 pt] What other questions should you ask the patients when investigating this outbreak and why?
+
+[STIMULUS] The cruise director has announced that multiple people on board have been complaining of nausea, vomiting, abdominal pain and cramps, diarrhea, fever, and muscle pain. The total number has gone up to 13. He instructs everyone to remain calm, and if anyone has these symptoms to see the doctor on board immediately. He pulls you aside and frantically pleads with you. “Please, I know you’re the only epidemiologist on board. You’ve gotta help us get to the bottom of this. To be honest, I’m a little shell shocked...We’ve never had this type of issue before!”
+
+You assure him that this cluster is your nemo-sis, and you will do everything in your power to stop it. You request the nurse send all of the patients’ records over to you.
+
+P1-6. [frq, 2 pt] What is the definition of public health surveillance? What type of surveillance did you use in this case?
+
+P1-7. [frq, 5 pt] What is sentinel surveillance? Give two benefits and two drawbacks to sentinel surveillance.
+
+P1-8. [frq, 4 pt] What might characterize an effective surveillance system? Name at least 4 characteristics.
+
+[STIMULUS] You wonder if perhaps your uncle and cousins acquired the disease from your mother when they went to visit her in the on-board hospital.
+
+P1-9. [frq, 1 pt] What is the term for an illness acquired in a hospital?
+
+[STIMULUS] You quickly decide these illnesses are spaced together too closely in time for it to just be a simple transmission of infection.
+
+P1-10. [frq, 2 pt] If your cousins and uncle had become ill as a result of being in contact with your mother, what is the term for the probability of chances of illness after contact with your mother? How would you calculate this?
+
+P1-11. [frq, 6 pt] Name the components of the chain of infection and the purpose of each part.
+
+P1-12. [frq, 2 pt] Distinguish between a vehicle and a vector.
+
+P1-13. [frq, 4 pt] Name and define two modes of transmission.
+
+[STIMULUS] You decide to interview your family members and the other sick passengers to find out what they were doing in the days leading up to their illness.
+
+On December 26th, the ship was having a post-Christmas celebration with all kinds of foods from around the world to celebrate embarking on the tour. Your family members and many of the passengers made sure to partake in this delicious feast. Among the foods sampled were paella, fresh oysters, chicken tikka masala, shrimp cocktail, fajitas and lots more. You even discover some of the passengers sampled Italian ice.
+
+P1-14. [frq, 1 pt] What is a form of bias that can occur when asking patients about their activities prior to their illness?
+
+P1-15. [frq, 6 pt] What are the six favorable conditions required for the growth of foodborne pathogens?
+
+[STIMULUS] You find that the common place where all of these patients ate during their illness was the Oceanview Cafe.
+
+P1-16. [frq, 4 pt] What measures do you wish to take regarding the cafe at this time? Name four.
+
+[STIMULUS] You talk to all of those ill, as well as their family members and assemble a chart of common foods consumed by each.
+
+P1-17. [frq, 5 pt] What type of study is most appropriate for this outbreak? What are two benefits and two drawbacks to using this type of study?
+
+[STIMULUS] A total of 35 cases and controls were interviewed. The following table was assembled:
+    | Food Item | Ill (Ate Item) | Well (Ate Item) | Ill (Did Not Eat) | Well (Did Not Eat) |
+    | Paella | 11 | 9 | 8 | 7 |
+    | Oysters | 10 | 4 | 6 | 15 |
+    | Chicken Tikka Masala | 2 | 15 | 9 | 9 |
+    | Italian Ice | 14 | 6 | 6 | 9 |
+
+P1-18. [frq, 8 pt] What is the most appropriate calculation to use for this type of study? Perform this calculation for each food item and interpret the result in context.
+
+P1-19. [frq, 6 pt] Explain how the odds ratio is derived from relative risk by using the formulas. Define your variables. When is this approximation valid?
+
+[STIMULUS] You’re sitting at your desk, pondering over what the possible culprit could be. You know a variety of foodborne illnesses and their symptoms, and the outbreak could honestly match any one of them.
+
+The source could honestly be the paella, oysters, AND the Italian ice, so you feel more and more confused.
+
+P1-20. [frq, 4 pt] What questions would you ask the workers of the Oceanview Cafe to better surmise the source of the illness? Name at least 4.
+
+[STIMULUS] While sitting, you get a call from the cruise director who sounds excited despite the sinking spirits of his passengers still stuck in the infirmary.
+
+“I’ve got it! We’ve got it! We briefly suspended all the workers from their job and took cultures from their hands and fecal matter. We found fecal matter on the hands of one, and Norovirus traces in the toxicology of the other!”
+
+P1-21. [frq, 4 pt] What control measures do you recommend at this time? Name at least four.
+
+P1-22. [frq, 3 pt] What are foods commonly associated with norovirus? Name at least 3.
+
+P1-23. [frq, 2 pt] How do you suppose people got sick from the Italian ice (Hint: Consider the main ingredient)
+
+P1-24. [frq, 4 pt] What criteria would you use in order to decide whether to add Norovirus to the reportable disease list in your state? Name at least four.
+
+[STIMULUS] 
+    [IMAGE: ../images/2020_university_of_pennysylvania_c__p17_937c79-48717279.webp]
+    [IMAGE: ../images/2020_university_of_pennysylvania_c__p17_b28596-499b0883.webp]
+
+P2-4. [frq, 1 pt] The type of histogram shown on the previous page is known as a(n) ____.
+
+P2-5. [frq, 3 pt] List 3 things that the kind of histogram named in the previous question can tell you about a disease or an outbreak
+
+P2-6. [frq, 6 pt] Give 3 reasons that could explain the spike in cases aside from there being a potential outbreak.
+
+[STIMULUS] “Considering the massive uptick of cases this February, I am going to classify this as an outbreak for now. I’ll also reach out to our contacts across the country and throughout the globe to see if we need to change that classification to an epidemic or a pandemic.” Your boss states. “I’ve just been called by one of the hospital pathology departments. Apparently, we are dealing with a form of viral myocarditis, which can be debilitating and requires urgent monitoring so that people do not go into heart failure. They have said that this strain seems more virulent than most, although patients tend to recover and are able to be sent home once their antibody titer is low. I want you and Dr. Franklin to formulate a case definition and try and figure out common exposures that cases may have had.”
+
+P2-7. [frq, 8 pt] Define virulence. What is the difference between virulence, pathogenicity, and infectivity?
+
+P2-8. [frq, 4 pt] Describe the difference between a sensitive case definition, and a specific case definition.
+
+P2-9. [frq, 3 pt] Do we want our case definition to be sensitive or specific for this outbreak? Justify your answer.
+
+[STIMULUS] “Hmm.” Dr. Franklin says, “From the records that the hospital sent over, this is the case definition that I have come up with. Any person in the Atlanta area who is suffering from chest pains, fatigue, arrhythmias, shortness of breath, or has been diagnosed with viral myocarditis.”
+
+P2-10. [frq, 2 pt] Which part of a case definition is Dr. Franklin missing? Add that part of the case definition.
+
+P2-11. [frq, 4 pt] Name the steps of the 13-step outbreak investigation that you have thus far completed.
+
+[STIMULUS] “Hello, you must be the 2 folks from the CDC. I’m Dr. Hadway, the Chief of the Infectious Disease division. Seeing as we have no idea how this pathogen is spread, we have put all of our sick people here in our isolation ward. First responders and family members are being monitored in quarantine too. So far, none of the staff has seem to come down with anything, which is good. Other hospitals in the area have also instituted their isolation and quarantine policies.”
+
+P2-12. [frq, 2 pt] What is the difference between isolation and quarantine?
+
+P2-13. [frq, 2 pt] Certain hospitals, such as Emory University Hospital, have specialized ____ units for isolation to deal with emerging and highly infectious pathogens.
+
+[STIMULUS] “We have also looked at all their charts, and couldn’t really find anything reported exposures in common, except for people in relationships, this disease has a high likelihood of being transmitted between partners. You’re going to need to talk to patients and see if you can figure out something that we have missed. But before you do that, you will need to put on some PPE to enter the unit.”
+
+P2-14. [frq, 5 pt] What does the acronym PPE stand for in the context of public health? List 3 items that are considered PPE.
+
+P2-15. [frq, 2 pt] Selective disclosure of certain exposures by patients constitutes a form of ____ bias.
+
+P2-16. [frq, 8 pt] In general, give 4 reasons patients might choose to not disclose information to a healthcare provider or epidemiologist.
+
+P2-17. [frq, 2 pt] The bias that we introduce by selecting patients from a Hospital-based population is known as ____ bias.
+
+[STIMULUS] After you and Dr. Franklin finish putting on your PPE, you make your way into the first patient’s room.
+
+“Hello,” you say, “We are epidemiologists from the CDC trying to track down the source of this outbreak, and how it is spreading. Do you mind answering a few questions?”
+
+“Sure” says patient 1.
+
+“Are there anything that you didn’t tell the doctor that you might think is relevant about how you got sick?”
+
+“Well,” says patient 1, frowning. “I didn’t think about this until now, but my friend Mandy is also in the hospital with similar symptoms. We shared a bubble tea the other night at this new place in the city. It was our first date. We also… uh… had our first kiss. If that is relevant at all.”
+
+“Interesting, thank you for your time.”
+
+You go through the patients one by one. Patients 3, 5, 7 and 8 also reported kissing another sick patient, or someone new very recently. Patients 2 and 4 reported sharing eating utensils with other cases. Patient 6 did not recall any similar exposures. You begin to put things together, and call the other hospitals in the area to confirm. Most patients reported having kissed someone or shared food with someone who also became sick.
+
+P2-18. [frq, 4 pt] List the two types of direct transmission. For each mode of transmission, give a disease that follows that mode of transmission.
+
+[STIMULUS] You decide to do a case-control study to determine if the odds of getting a disease are higher if you have kissed someone recently vs. not kissed someone recently.
+    |  | Sick | Not Sick |
+    | Kissed Recently | 47 | 23 |
+    | Has not kissed recently | 16 | 35 |
+
+P2-19. [frq, 4 pt] Calculate the odds ratio for this outbreak. Give the formula and show your work.
+
+P2-20. [frq, 2 pt] Interpret the odds ratio that you calculated in 19.
+
+P2-21. [frq, 2 pt] Which mode of transmission is implied by this outbreak?
+
+P2-22. [frq, 5 pt] List the stages of the natural history and spectrum of disease. Which stage do the cases fall under?
+
+[STIMULUS] For the following scenarios, state how the odds ratio you calculated would change (increase, decrease, or stay the same).
+
+P2-23a. [frq, 2 pt] Some of the controls are in the 2nd stage of the natural history and spectrum of disease.
+
+P2-23b. [frq, 2 pt] People report another potential exposure of sharing eating utensils.
+
+P2-23c. [frq, 2 pt] Some of the controls misremembered their exposures and actually have not kissed anyone recently.
+
+P2-23d. [frq, 2 pt] Some of the cases misremembered their exposures and have not kissed anyone recently.
+
+P2-23e. [frq, 2 pt] People who were sick move into the 4th stage of the natural history and spectrum of disease.
+
+P2-24. [frq, 2 pt] If some other, hidden variable influences both kissing and disease status, the study may be subject to ____, a form of error.
+
+P2-25. [frq, 7 pt] List the 5 stages of surveillance. Which two are explicitly covered in questions 19 and 20?
+
+P2-26. [frq, 4 pt] Which steps of the 13-step outbreak investigation are explicitly covered in questions 19 and 20?
+
+[STIMULUS] “Hey boss - we think we have figured it out. The viral myocarditis is spread through saliva - by kissing and sharing silverware.”
+
+Your boss frowns. “That makes sense. Given the scope of everything, I’m worried that we may be underreporting the number of sick people. Some people may also be asymptomatic but still infectious.”
+
+P2-27. [frq, 8 pt] Give 4 reasons why a disease might be underreported in a community.
+
+P2-28. [frq, 8 pt] Some patients fit the case definition for viral myocarditis, but do not appear to have any links to other cases (through kissing or sharing silverware). Give 4 possible explanations for the fact that these cases exist.
+
+P2-29. [frq, 2 pt] People that remain asymptomatic for the period of the disease but are able to infect others are known as ____.
+
+[STIMULUS] “We need to implement control and prevention measures ASAP. What are your recommendations?”
+
+P2-30a. [frq, 3 pt] A vaccine that allows a naïve immune system to recognize the virus.
+    I. Evaluate if the measure will be effective (mostly effective, somewhat effective, not effective).
+    II. Determine which stage of prevention the measure falls into.
+    III. List which stage of the natural history the measure targets.
+
+P2-30b. [frq, 3 pt] Antibiotics
+    I. Evaluate if the measure will be effective (mostly effective, somewhat effective, not effective).
+    II. Determine which stage of prevention the measure falls into.
+    III. List which stage of the natural history the measure targets.
+
+P2-30c. [frq, 3 pt] An information campaign telling the public about the virus.
+    I. Evaluate if the measure will be effective (mostly effective, somewhat effective, not effective).
+    II. Determine which stage of prevention the measure falls into.
+    III. List which stage of the natural history the measure targets.
+
+P2-30d. [frq, 3 pt] Low-sodium diet to increase overall heart health.
+    I. Evaluate if the measure will be effective (mostly effective, somewhat effective, not effective).
+    II. Determine which stage of prevention the measure falls into.
+    III. List which stage of the natural history the measure targets.
+
+P2-31. [frq, 4 pt] Describe 2 control and prevention measures for this outbreak that are not listed in question 31.
+
+
+=== 1. What does the acronym NNDSS stand for? ===
+
+P3-1. [frq, 1 pt] What does the acronym NNDSS stand for?
+
+P3-2. [frq, 8 pt] Name and define the 4 steps in the disease control process.
+
+P3-3. [frq, 6 pt] Give 3 reasons why urban development may increase the incidence of zoonotic disease.
+
+P3-4. [frq, 2 pt] What is epidemiological transition?
+
+[STIMULUS] Match the words to their definitions..
+
+a. Vector
+b. Pandemic
+c. Epidemic
+d. Outbreak
+e. Case report
+f. Case series
+g. Type I error
+h. Type II error
+i. Power
+j. Negative Predictive Value
+
+P3-5. [mcq, 2 pt] the probability that a person with a negative test result will actually be disease free in a screening test
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-7. [mcq, 2 pt] animate intermediary in the indirect transmission of an agent that carries the agent from reservoir to host
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-8. [mcq, 2 pt] rejection of a true null hypothesis
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-9. [mcq, 2 pt] a higher than normal occurrence of disease in a specific location or small, defined population
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-10. [mcq, 2 pt] non-rejection of a false null hypothesis
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-11. [mcq, 2 pt] the probability that the test rejects the null hypothesis when a specific alternative hypothesis is true.
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-14. [mcq, 2 pt] global occurrence of a disease at higher levels than typically expected
+    A) Vector
+    B) Pandemic
+    C) Epidemic
+    D) Outbreak
+    E) Case report
+    F) Case series
+    G) Type I error
+    H) Type II error
+    I) Power
+    J) Negative Predictive Value
+
+P3-15. [frq, 4 pt] Give 2 benefits and 2 drawbacks of cross-sectional studies.
+
+P3-16. [frq, 4 pt] Give 2 benefits and 2 drawbacks of randomized control trial (RCT) studies.
+
+P3-17. [frq, 6 pt] Give 3 reasons that the extinction of most diseases is highly impractical.
+
+P3-18. [frq, 4 pt] Define vertical transmission. Name a disease where you might be worried about vertical transmission.
+
+P3-19. [frq, 2 pt] Give a potential drawback to epidemiologic study of chronic disease.
+
+P3-20. [frq, 8 pt] Give 2 advantages and 2 drawbacks of using passive surveillance to monitor an epidemiological threat.
+
+P3-21. [frq, 8 pt] Give 2 advantages and 2 drawbacks of using active surveillance to monitor an epidemiological threat.
+
+P3-22. [frq, 6 pt] What type of outbreak is shown in the figure below? Give a scenario or disease in which this type of outbreak might be encountered.
+    [IMAGE: ../images/2020_university_of_pennysylvania_c__p35_f9f802-54ef49a4.webp]
+
+P3-23. [frq, 6 pt] What type of outbreak is shown in the figure below? Give a scenario or disease in which this type of outbreak might be encountered.
+    [IMAGE: ../images/2020_university_of_pennysylvania_c__p36_1e898c-be91e717.webp]
+
+P3-24. [frq, 4 pt] What is the difference between a bacterial infection and a bacterial intoxication?
+
+P3-25. [frq, 4 pt] Explain the difference between sensitivity and specificity
+
+P3-26. [frq, 6 pt] Explain the difference between prevalence, incidence and duration AND explain how they are related to each other
+
+[STIMULUS] For each of the following conditions, name the appropriate Hill's Criteria for Causation.
+
+P3-27a. [frq, 1 pt] Someone who smokes 20 packs of cigarettes a day has a greatly increased chance of developing lung cancer than someone who smokes 1 pack of cigarettes a day
+
+P3-27b. [frq, 1 pt] A study finding the correlation between the ketogenic diet and losing body fat was supported by multiple studies performed on rats in a laboratory
+
+P3-27c. [frq, 1 pt] Infection with the Streptococcus Pyogenes pathogen always precedes the symptoms of the illness
+
+P3-27d. [frq, 1 pt] The greater the odds ratio between those who consumed hamburgers and developed atherosclerosis, the greater the certainty of the relationship between these two events
+
+P3-27e. [frq, 1 pt] Multiple studies have confirmed the role of vaping in users developing esophageal cancer
+
+P3-28. [frq, 8 pt] Define and give an example of primary, secondary, tertiary and quaternary prevention
+
+P3-29. [frq, 4 pt] Define meta-analysis and explain how it is useful in epidemiology
+
+[STIMULUS] Match the following situations with the appropriate type of bias or error. Some answer choices may be used more than once or not at all (confounding, recall bias, selection bias, Berkson's bias, Healthy Worker Effect, lead time bias, attrition bias, protopathic bias, length bias)
+
+P3-30b. [mcq, 1 pt] A radio show that discusses modern day political issues such as climate change and abortion sends out a survey asking listeners about what actions they would take
+    A) confounding
+    B) recall bias
+    C) selection bias
+    D) Berkson's bias
+    E) Healthy Worker Effect
+    F) lead time bias
+    G) attrition bias
+    H) protopathic bias
+    I) length bias
+
+P3-30c. [mcq, 1 pt] Though Huntington's Disease is generally diagnosed at around 50 years old and people live to the age of 65, a baby was diagnosed using modern genetic testing and appeared to survive 65 years rather than 15
+    A) confounding
+    B) recall bias
+    C) selection bias
+    D) Berkson's bias
+    E) Healthy Worker Effect
+    F) lead time bias
+    G) attrition bias
+    H) protopathic bias
+    I) length bias
+
+P3-30d. [mcq, 1 pt] Slow growing arterial plaques are less likely to be fatal than fast growing arterial plaques, so screening mostly detects slow growing plaques as symptoms haven't appeared yet while fast growing plaques manifest symptoms early on. Because of the differences in mortality rate, it appears that screening helps with survival rate.
+    A) confounding
+    B) recall bias
+    C) selection bias
+    D) Berkson's bias
+    E) Healthy Worker Effect
+    F) lead time bias
+    G) attrition bias
+    H) protopathic bias
+    I) length bias
+
+P3-30e. [mcq, 1 pt] Those who smoke are also more likely to drink coffee, both of which lead to heart disease.
+    A) confounding
+    B) recall bias
+    C) selection bias
+    D) Berkson's bias
+    E) Healthy Worker Effect
+    F) lead time bias
+    G) attrition bias
+    H) protopathic bias
+    I) length bias
+
+P3-30f. [mcq, 1 pt] A few patients in the Framingham Heart Study, a long-term prospective cohort study were lost to follow-up while others passed away.
+    A) confounding
+    B) recall bias
+    C) selection bias
+    D) Berkson's bias
+    E) Healthy Worker Effect
+    F) lead time bias
+    G) attrition bias
+    H) protopathic bias
+    I) length bias

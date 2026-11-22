@@ -1,0 +1,186 @@
+UT Austin — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  47 questions, 131.0 pts
+Source: scio.ly test archive id 79bc259e-b08e-435c-b335-5b33f0fba997  |  original files: https://drive.google.com/drive/folders/1RhPHoyJl_YxAUyJlxwERO1O4OHyq7kPq
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: DO NOT WRITE ON EXAM. Please use answer sheet to record all answers. Do not write on the exam; only your answers on the answer sheet will be graded. There are a total of 131 possible points on the exam. Be sure to show all work with units as necessary. Tie-breaker questions are indicated with an asterisk (*) and are to be used in the order in which they appear. Good luck!
+
+
+=== SECTION 1. ===
+
+1. [frq, 3 pt] Write your team number on every page of the answer sheet in the designated space!
+
+2. [frq, 4 pt] Describe the difference between descriptive and analytic epidemiology.
+
+3. [frq, 4 pt] Describe the difference between the roles of the Clinical Approach and the Public Health Approach to health care.
+
+4. [frq, 3 pt] Name the components of a case definition.
+
+5. [frq, 2 pt] Describe the purpose of Koch's Postulates.
+
+6. [frq, 4 pt] Describe two (2) limitations of Koch's Postulates (i.e., concepts not considered by Koch's Postulates).
+
+7. [frq, 4 pt] Describe the difference between passive and active surveillance.
+
+8. [frq, 6 pt] Describe three (3) uses of surveillance.
+
+
+=== SECTION 2. ===
+
+[STIMULUS] World-renowned scientist Dr. Bevo is studying Longhorn Fever, a highly infectious disease that is endemic to Austin, Texas. Attendance at a UT football game results in certain exposure to Longhorn Fever. After last week's football game, which had 100,000 people in attendance, Dr. Bevo estimates that 92,000 people were infected to Longhorn Fever. Of those, he observes that 65,000 people display the clinical symptoms of the disease, including replacing all articles of clothing with burnt orange clothes. Even more severe than that, 20,000 of those displaying clinical symptoms are now severely ill and are only responsive to others when Texas Football is mentioned.
+
+9. [frq, 3 pt] Calculate the infectivity of Longhorn Fever.
+
+10. [frq, 3 pt] Calculate the pathogenicity of Longhorn Fever.
+
+11. [frq, 3 pt] Calculate the virulence of Longhorn Fever.
+
+
+=== SECTION 3. ===
+
+[STIMULUS] Label the following statements as either True or False.
+
+12a. [tf, 1 pt] A retrospective cohort study uses relative risk as a measure of association while a prospective cohort study uses odds ratio.
+    A) True
+    B) False
+
+12b. [tf, 1 pt] Screening is an example of primary prevention.
+    A) True
+    B) False
+
+12c. [tf, 1 pt] Nosocomial infections are those acquired in old age.
+    A) True
+    B) False
+
+12d. [tf, 1 pt] Passive immunity occurs during pregnancy.
+    A) True
+    B) False
+
+12e. [tf, 1 pt] A higher HALE represents a healthier population.
+    A) True
+    B) False
+
+12f. [tf, 1 pt] If a necessary cause of the disease is present, the result is disease occurrence.
+    A) True
+    B) False
+
+12g. [tf, 1 pt] Cytomegalovirus is an example of a vertically transmitted disease.
+    A) True
+    B) False
+
+12h. [tf, 1 pt] A person-time is a unit of measurement for incidence.
+    A) True
+    B) False
+
+12i. [tf, 1 pt] Observational studies cannot establish causality.
+    A) True
+    B) False
+
+12j. [tf, 1 pt] Droplet spread is a form of indirect transmission.
+    A) True
+    B) False
+
+[STIMULUS] Name the type of study that is being described for each given scenario.
+
+13a. [frq, 2 pt] An outbreak of norovirus has occurred after a wedding. By interviewing guests about what they ate that night, the food that is the likely source of the disease can be determined.
+
+13b. [frq, 2 pt] A comparison between Alzheimer's disease and diet across 11 countries finds that the prevalence of Alzheimer's is inversely correlated with intake of fish.
+
+13c. [frq, 2 pt] In a study of sleep disturbance and injury, children are asked about their sleep quality in the 24 hours before the injury occurred and in the 24 hours before that.
+
+13d. [frq, 2 pt] After an earthquake, affected residents in the area who have lost their homes are interviewed regarding their changes in health status.
+
+13e. [frq, 2 pt] In a study investigating the effects of second-hand smoke exposure on the development of chronic diseases later in life, participants are followed for a 20-year period.
+
+13f. [frq, 2 pt] A study on whether a new medication causes the reduction of hypertension among males >65 years of age compares those who are given and not given the medication.
+
+
+=== SECTION 4. ===
+
+[STIMULUS] Please refer to the article below to answer the following questions (#14 – 20).
+
+**National Update on Measles Cases and Outbreaks — United States, January 1–October 1, 2019**
+Weekly / October 11, 2019 / 68(40);893–896
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6840e2.htm?s_cid=mm6840e2_w
+
+During January 1–October 1, 2019, a total of 1,249 measles cases and 22 measles outbreaks were reported in the United States. This represents the most U.S. cases reported in a single year since 1992, and the second highest number of reported outbreaks annually since measles was declared eliminated in the United States in 2000. Measles is an acute febrile rash illness with an attack rate of approximately 90% in susceptible household contacts. Domestic outbreaks can occur when travelers contract measles outside the United States and subsequently transmit infection to unvaccinated persons they expose in the United States.
+
+Among the 1,249 measles cases reported in 2019, 1,163 (93%) were associated with the 22 outbreaks, 1,107 (89%) were in patients who were unvaccinated or had an unknown vaccination status. Most cases (1,054, 84%) were laboratory-confirmed; among 714 (57%) cases for which specimens were available for molecular sequencing, genotypes B3 (49, 7%) and D8 (665, 93%) were identified. Overall, 119 (10%) patients were hospitalized (median age 6 years, IQR = 1–33 years; 20% were infants aged <12 months), 60 (5%) had pneumonia, and one (0.1%) had encephalitis; no deaths were reported to CDC. Eighty-one cases were imported from other countries including 52 (64%) cases in U.S. residents returning from travel abroad. Among these 81 internationally imported measles cases, 73 (90%) were in unvaccinated persons or persons for whom vaccination status was unknown.
+
+Measles cases are classified according to the Council of State and Territorial Epidemiologists' case definition for measles. Cases are considered internationally imported if at least part of the exposure period (7–21 days before rash onset) occurred outside the United States and rash occurred within 21 days of entry into the United States, with no known exposure to measles in the United States during the exposure period. An outbreak of measles is defined as a chain of transmission of three or more cases linked in time and place as determined by local and state health department investigations.
+
+**TABLE 1. Number and vaccination status of measles cases, by age group — United States, January 1– October 1, 2019**
+
+| Age group | Measles cases no. (%) | Unvaccinated no. (%) | Vaccinated no. (%) | Unknown no. (%) |
+|---|---|---|---|---|
+| 0–5 mos | 43 (3) | 43 (100) | 0 (0) | 0 (0) |
+| 6–11 mos | 110 (9) | 110 (95) | 5 (4) | 0 (0) |
+| 12–15 mos | 116 (9) | 118 (9) | 1 (1) | 0 (0) |
+| 16 mos–4 yrs | 106 (90) | 238 (87) | 12 (10) | 33 (12) |
+| 5–17 yrs | 274 (22) | 339 (27) | 3 (1) | 18 (5) |
+| 18–29 yrs | 295 (87) | 49 (34) | 26 (8) | 41 (28) |
+| 30–49 yrs | 114 (12) | 160 (13) | 54 (38) | 113 (71) |
+| ≥50 yrs | 55 (4) | 46 (84) | 25 (16) | 22 (14) |
+| Overall | 1249 | 235 (19) | 872 (70) | 142 (11) |
+
+14. [frq, 1 pt] Measles was declared eliminated from the United States in 2000. Name one (1) other disease that has been eliminated in the U.S.
+
+15. [frq, 6 pt] Identify the components of the chain of infection as they specifically relate to the measles.
+
+16. [frq, 3 pt] The CDC recommends that all children receive two doses of MMR vaccine, with the first dose at 12–15 months of age and the second dose at 4–6 years of age. What does MMR vaccine protect against?
+
+17. [frq, 2 pt] According to Table 1, what is the median age group of measles cases from January 1 to October 1, 2019?
+
+18. [frq, 4 pt] Name two (2) trends that may be observed from the data in Table 1.
+
+19. [frq, 6 pt] The measles outbreaks in New York City were larger and lasted longer than other outbreaks around the country. Provide three (3) possible reasons why this may have occurred.
+
+20. [frq, 4 pt] Define herd immunity and explain its relevance to the measles outbreaks described.
+
+
+=== SECTION 5. ===
+
+[STIMULUS] A malaria rapid diagnostic test (RDT) is one of many ways to establish the diagnosis of malaria infection. The RDT involves smearing a patient's blood on a test strip to indicate whether or not the patient is infected with the malaria inducing parasites P. falciparum, P. vivax, P. malariae, or P. ovale. Suppose that the RDT is 85% sensitive and 70% specific, and the prevalence of malaria in a population is 35%.
+
+21. [frq, 2 pt] In the table provided on your answer sheet, estimate the results of the test if you administer the RDT to 1,000 people from the population.
+
+22. [frq, 2 pt] Calculate the positive predictive value (PPV) of the test.
+
+23. [frq, 2 pt] Calculate the negative predictive value (NPV) of the test.
+
+24. [frq, 4 pt] Interpret your calculations for PPV and NPV.
+
+25. [frq, 4 pt] How is prevalence of the disease related to the PPV and NPV of a test?
+
+[STIMULUS] Another way to diagnose malaria is through microscopic examination of a patient's blood. Suppose that the truth table for microscopic examination of individuals in the same population is given as follows:
+    |  | Disease | No Disease |
+    | Positive Test | 348 | 3 |
+    | Negative Test | 2 | 647 |
+
+26. [frq, 4 pt] Give two (2) reasons why an RDT would be used over microscopic examination as a diagnostic.
+
+27. [frq, 4 pt] Give two (2) reasons why microscopic examination would be used over an RDT as a diagnostic.
+
+28. [frq, 4 pt] Explain how one could use both tests to diagnose a patient
+
+
+=== SECTION 6. ===
+
+[STIMULUS] Please refer to the article below to answer the following questions (#29–33).
+
+**Flavored Tobacco Product Use Among Middle and High School Students — United States, 2014–2018**
+Weekly / October 4, 2019 / 68(39);839–844
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6839a2.htm?s_cid=mm6839a2_w
+
+The 2009 Family Smoking Prevention and Tobacco Control Act prohibits the inclusion of characterizing flavors (e.g., candy or fruit) other than tobacco and menthol in cigarettes; however, characterizing flavors are not currently prohibited in other tobacco products at the federal level. Flavored tobacco products can appeal to youths and young adults and influence initiation and establishment of tobacco-use patterns.
+
+The National Youth Tobacco Survey (NYTS) is an annual pencil-and-paper questionnaire administered to U.S. middle and high school students to measure tobacco-related beliefs, attitudes, and behaviors and exposure to pro- and anti-tobacco influences. A three-stage cluster sampling procedure was used to generate a nationally representative sample of U.S. students attending public or private schools in grades 6–12. This report uses data from five NYTS waves (2014–2018). Sample sizes and response rates were 22,007 (73.3%) in 2014; 17,711 (63.4%) in 2015; 20,675 (71.6%) in 2016; 17,872 (68.1%) in 2017; and 20,189 (68.2%) in 2018.
+
+29. [frq, 2 pt] What type of epidemiological study is the NYTS?
+
+30. [frq, 3 pt] Define selection bias.
+
+31. [frq, 3 pt] Describe a possible source of selection bias in the study.
+
+32. [frq, 4 pt] Describe why the high prevalence of the use of flavored tobacco products specifically among high school and middle school students is a concern.
+
+33. [frq, 6 pt] Name three (3) strategies that the FDA can employ to reduce the use of flavored tobacco products among youths.

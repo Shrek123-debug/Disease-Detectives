@@ -1,0 +1,288 @@
+Mililani Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  38 questions, 47.0 pts
+Source: scio.ly test archive id 5933d9d1-9db8-47ab-b525-0fd3bed7849d  |  original files: https://drive.google.com/drive/folders/1qe8mnZTSnO5SCfbNCgCtaSN2_bGUjXGh
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+1. [mcq, 1 pt] Which of the following describes the rate of disease in a population?
+    A) Morbidity
+    B) Mortality
+    C) Plague
+    D) Nosocomial disease
+    E) None of the above
+
+2. [mcq, 1 pt] Which of the following describes the first patient in an epidemiological study?
+    A) Latent Period
+    B) Index case
+    C) Nosocomial Disease
+    D) Fomite
+    E) None of the above is correct.
+
+3. [mcq, 1 pt] Which of the following describes an infection that is acquired in a hospital?
+    A) Outbreak
+    B) Endemic disease
+    C) Nosocomial Disease
+    D) Zoonosis
+    E) None of the above
+
+4. [mcq, 1 pt] Which of the following describes an illness that is caused by a medication or physician?
+    A) Nosocomial disease
+    B) Zoonosis
+    C) Iatrogenic disease
+    D) Fomite
+    E) None of the above
+
+5. [mcq, 1 pt] Which of the following describes the number of affected persons in the population at any given point in time?
+    A) Incidence
+    B) Prevalence
+    C) Duration
+    D) Risk Factor
+    E) None of the above
+
+6. [mcq, 1 pt] Which of the following is the last step when it comes for surveillance?
+    A) Provide these data and their interpretation to those responsible for controlling the health problem
+    B) Analyze and interpret these data
+    C) Identify, define, and measure the health problem of interest
+    D) Collect and compile data about the problem (and if possible, factors that influence it)
+    E) Monitor and periodically evaluate the usefulness and quality of surveillance to improve it for future use. Note that surveillance of a problem does not include actions to control the problem
+
+7. [mcq, 1 pt] Which of the following is the first step in surveillance?
+    A) Provide these data and their interpretation to those responsible for controlling the health problem
+    B) Analyze and interpret these data
+    C) Monitor and periodically evaluate the usefulness and quality of surveillance to improve it for future use. Note that surveillance of a problem does not include actions to control the problem
+    D) Collect and compile data about the problem (and if possible, factors that influence it)
+    E) Identify, define, and measure the health problem of interest
+
+8. [mcq, 1 pt] In terms of the chain of infection what is the correct order?
+    A) Infectious agent, mode of transmission, reservoir, portal of exit, portal of entry, susceptible host
+    B) Infectious agent, portal of exit, reservoir, mode of transmission, portal of entry, susceptible host
+    C) Infectious agent, portal of entry, reservoir, mode of transmission, portal of exit, susceptible host
+    D) Infectious agent, reservoir, portal of entry, mode of transmission, portal of exit, susceptible host
+    E) Infectious agent, reservoir, portal of exit, mode of transmission, portal of entry, susceptible host
+
+9. [mcq, 1 pt] In terms of the chain of infection, what is the place where agents can thrive and reproduce?
+    A) Agent
+    B) Portal of exit
+    C) Reservoir
+    D) Mode of Transmission
+    E) Portal of entry
+
+11. [mcq, 1 pt] A man sneezes on a table leaving behind contagious viral particles which can infect other people who visit the same table. This mode of transmission would be....
+    A) Direct
+    B) Indirect
+    C) Droplet
+
+12. [mcq, 1 pt] A woman takes a chance and adds an expired can of re-fried beans to her 7-layer dip. It results in her guests getting sick soon after consuming the dip. This would be an example of...
+    A) Direct contact transmission
+    B) Vector transmission
+    C) Vehicle transmission
+    D) Airborne transmission
+
+13. [mcq, 1 pt] Which of the following describes prevention during the symptomatic stage?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+14. [mcq, 1 pt] The COVID-19 vaccine that is slowly being made to the public would give ____ immunity.
+    A) active
+    B) passive
+    C) herd
+
+[STIMULUS] Background: In late August 1999, an infectious disease specialist in a New York City hospital called the New York City Health Department to report 2 patients hospitalized with encephalitis (a clinical illness related to an inflammation of the brain tissues and frequently caused by viral infection). The health department contacted other hospitals in the area and identified 6 additional patients with similar illness. Public health surveillance conducted during August and September 1999 identified a total of 62 patients with encephalitis and positive tests for recent West Nile virus. Three of the 62 had only fever and headache and were not hospitalized.
+
+Background: Table 1 below shows the age and sex distributions of the 59 patients who were hospitalized and who had symptoms and positive lab tests for West Nile virus.
+
+Table 1. Number of hospitalized patients with laboratory confirmed West Nile virus infection, New York City Department of Health, August 1 – September 31, 1999.
+
+| Age (yrs) | No. Patients (%) | Population At Risk |
+| --- | --- | --- |
+| 0-19 | 2 (3) | 2,324,081 |
+| 20-29 | 1 (2) | 1,553,981 |
+| 30-39 | 3 (5) | 1,549,111 |
+| 40-49 | 1 (2) | 1,177,190 |
+| 50-59 | 9 (15) | 867,331 |
+| 60-69 | 13 (22) | 814,838 |
+| 70-79 | 18 (31) | 534,785 |
+| ≥80 | 12 (20) | 281,054 |
+| Sex |  |  |
+| Male | 31(53) | 4,289,988 |
+| Female | 28(47) | 4,812,383 |
+
+17. [frq, 2 pt] Given that mosquitoes transmit this disease, give two explanations for the age distribution.
+
+18. [frq, 2 pt] For which gender group is the risk of infection highest? In the answer box, show your calculations and give all units. (Note: units must be given to receive credit)
+
+19. [frq, 1 pt] For the group (male or female) you determined to be at greatest risk, give one explanation that might account for the increased risk.
+
+[STIMULUS] Background: Next, the investigators collected data for various risk factors for more severe illness, using three measures: muscle weakness, encephalitis, or death. The results are shown below in Table 2.
+
+Table 2. Risk Factors for West Nile virus infection, New York City Department of Health, August 1 – September 31, 1999.
+
+| Risk Factor | Weakness | Enceph.+weak. | Death |
+| --- | --- | --- | --- |
+| *RR (95% CI)* | | | |
+| Immunosuppression | 1.6 (1.0–2.6) | 1.4 (0.4–11.1) | 2.1 (0.5–8.1) |
+| Coronary artery disease | 1.2 (0.5–2.6) | 1.4 (0.7–2.6) | 2.0 (0.6–6.6) |
+| Hypertension | 1.6 (0.9–2.5) | 1.2 (0.6–2.3) | 2.1 (0.3–12.2) |
+| Diabetes mellitus | 1.0 (0.5–1.9) | 1.3 (0.6–2.7) | 5.1 (1.5–17.3) |
+
+Death, RR (95% CI), by risk factor: Immunosuppression 2.1 (0.5–8.1); Coronary artery disease 2.0 (0.6–6.6); Hypertension 2.1 (0.3–12.2); Diabetes mellitus 5.1 (1.5–17.3).
+
+Source: Nash D, Mostashari F, Fine A, et al, op cit
+
+20. [frq, 2 pt] From Table 2, the relative risk of death among people with diabetes mellitus appears to be substantially increased. Explain the quantitative meaning of this relative risk.
+
+[STIMULUS] During the release of anthrax following the terrorist attacks of September 11, 2002, Disease Detectives tested thousands of people for exposure to Bacillus anthracis, the bacteria that causes anthrax. Most of this testing was done by swabbing the nasal passages of people thought to have been exposed. This method was used in part because of its usefulness in a study conducted almost 50 years ago to determine whether workers at a textile mill were carriers of B. anthracis.
+
+In that study, the Disease Detectives first collected nasal and throat swabs from a group of 101 healthy mill workers. These individuals worked at various stations throughout the mill and came directly to the room used for culture collection from their work areas after they had been at work for at least 90 minutes. A group of 43 government workers was also tested.
+
+21. [frq, 1 pt] What do Disease Detectives call a second group (such as the group of government workers) in a study?
+
+22. [frq, 1 pt] Why would Disease Detectives test such a group?
+
+23. [frq, 1 pt] Why did the investigators collect cultures from mill workers after they had been at work for a while rather than first thing in the morning?
+
+[STIMULUS] Swabs were inoculated directly onto plates of either blood agar or brain-heart-infusion (BHI) agar. Immediately after the swab samples were taken, the Disease Detectives collected throat washings from the same 101 workers. These were processed using digestion (to break down mucous) and filtering onto a sterile membrane. The membrane was then placed onto BHI agar and incubated. Colonies suspected of being B. anthracis were tested for virulence by mouse inoculation and confirmed as B. anthracis using a phage assay system. Here are the results:
+
+Table 3. Distribution of mill workers carrying B. anthracis in nose and throat*
+
+| Occupation | Number of Workers Sampled | Number of Positives† Throat Washings | Number of Positives† Nasal Swabs |
+|---|---|---|---|
+| Picking | 3 | 0 | 1 |
+| Carding | 20 | 1 | 2 |
+| Combing | 16 | 3 | 3 |
+| Drawing | 24 | 1 | 0 |
+| Spinning | 37 | 2 | 0 |
+| Unspecified | 1 | 0 | 0 |
+| Totals | 101 | 7‡ | 7‡ |
+
+*Modified from Case EA & Rowe RE, J Infect Disease 1957; 100:169-171.
+†None of the mill workers with positive throat washings had positive nasal swabs, and none of the workers with positive nasal swabs had positive throat washings.
+
+24. [frq, 1 pt] Which occupational group had the highest prevalence of carriers of B. anthracis?
+
+25. [frq, 1 pt] What was the overall prevalence of carriers of B. anthracis in the mill workers?
+
+26. [frq, 1 pt] None of the government workers tested positive with either test. Give a likely explanation for this finding.
+
+[STIMULUS] The terrorist attack on the World Trade Center (WTC) on September 11, 2001, exposed thousands of people to potentially harmful debris and environmental contaminants. Studies have shown that survivors and others who witnessed the attack suffered psychological trauma, in particular, post-traumatic stress disorder (PTSD) symptoms. The collapse of the two WTC towers released a highly alkaline mix of pulverized steel, glass, cement, and other debris into the immediate environment (Fig 1). The fires started by the crashes of the two airplanes into the twin towers and the subsequent collapse of the buildings at Ground Zero burned for approximately 3 months. Toxic smoke and fumes were released into the atmosphere, creating a cloud of dust, smoke, and debris. Workers and residents continued to be exposed to pollutants during rescue, recovery, cleanup, and restoration.
+
+Shortly after the attacks on 9/11, the New York City Department of Health and Mental Hygiene (DOHMH) proposed an environmental health registry of persons exposed to the WTC disaster. In July 2002, the Agency for Toxic Substances and Disease Registry (ATSDR), at the Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, began collaboration with DOHMH to create the World Trade Center Health Registry (WTCHR). WTCHR, the largest environmental health registry created in the United States and now an ongoing collaboration with CDC's National Institute for Occupational Safety and Health, is designed to expand knowledge about the long-term health effects of the 9/11 disaster and serve as a valuable public health resource for future research.
+
+The mission of the WTC Health Registry is to
+•identify and track the long-term physical and mental health effects of the attacks and their aftermath;
+•share findings and recommendations with enrollees, others affected, the public and policymakers;
+•respond to health concerns and assess gaps in care for 9/11-related health problems; and
+•offer guidance to public health professionals in planning for potential future emergencies.
+
+Eligibility for enrollment in the WTCHR was voluntary for people who lived, worked, or went to school in the area of the WTC disaster or were involved in rescue and recovery efforts. Criteria were developed for identifying persons who suffered the most direct exposure to the events of 9/11 and its aftermath on the basis of proximity by time and place to the WTC attack, probability of exposure to the dust and debris cloud, and exposure to fires and fumes from burning debris at the WTC site during the months after the attack. Researchers determined four broad eligibility groups:
+1. Persons who were south of Chambers Street in Manhattan on September 11, 2001.
+2. Persons involved in rescue, recovery, clean-up, and other activities at the WTC site, at the Staten Island Recovery WTC Operations Center, or on transport barges from the WTC site at least one shift anytime during September 11, 2001–June 30, 2002.
+3. Persons whose primary residence was south of Canal Street in Manhattan on September 11, 2001.
+4. School children enrolled and staff employed at schools south of Canal Street on September 11, 2011 (Figure 2).
+
+Persons in the above groups 2, 3 and 4 did not have to be present on 9/11.
+
+27. [mcq, 1 pt] Exposures can be categorized as acute or chronic. Rates from which of these categories is most likely to be affected by including persons who were not present on 9/11?
+    A) acute
+    B) chronic
+
+28. [mcq, 1 pt] If persons from all four eligibility groups were included in the denominator, it would... (Select the best answer from the following to complete the sentence)
+    A) Underestimate the risk of adverse outcomes from chronic exposures.
+    B) Overestimate the risk of adverse outcomes from chronic exposures.
+    C) Underestimate the risk of adverse outcomes from acute exposures.
+    D) Overestimate the risk of adverse outcomes from acute exposures.
+    E) Have little effect on estimates of the risk of adverse outcomes from chronic exposures.
+    F) Have little effect on estimates of the risk of adverse outcomes from acute exposures.
+
+29. [frq, 1 pt] Persons who experienced chronic illness after 9/11 might have been more motivated to participate in the World Trade Center Health Registry than those who did not. What term is used for this effect?
+
+30. [mcq, 1 pt] What impact might that effect have on estimates of the risk for illness after the 9/11 attacks?
+    A) It would underestimate the risk.
+    B) It would overestimate the risk.
+    C) It could either underestimate or overestimate the risk depending on a number of factors.
+    D) It would have little effect on estimates of the risk
+
+31. [frq, 1 pt] What term is used for systematic error caused by differences in accuracy or completeness of recall to memory of past events or experiences?
+
+32. [frq, 2 pt] Persons who died from causes either related or unrelated to 9/11 are probably under-represented in the registry even though their relatives or other surrogates were interviewed. Name two other groups of persons who are probably underrepresented in the registry.
+
+33. [frq, 1 pt] What term do epidemiologists use to refer to the association where increased exposure results in either an increased risk for illness or more severe illness?
+
+[STIMULUS] Table 2. Exposures and experiences of volunteers after the World Trade Center terrorist attacks on September 11, 2001, by type of volunteer (N = 4,974)
+
+Source: Adapted from Debchoudhury I, Welch AE, Fairclough MA, et al. Comparison of health outcomes among affiliated and lay disaster volunteers enrolled in the World Trade Center Health Registry. Prev Med 2011;53:359-63.
+    [IMAGE: ../images/2021_mililani_invitational_c__p10_va00429-eef143bd.webp]
+
+34a. [numeric, 1 pt] Using the data from Table 2, complete the following formula to calculate the relative risk for injury among affiliate volunteers compared with lay volunteers. RR = [A/(A+B)]/[C/(C+D)]
+    a. A =
+
+36a. [numeric, 1 pt] Using the data in Table 2, complete the following formula and calculate the risk for witnessing at least one horrific event among all volunteers in this study. Risk = Number witnessing at least one horrific event/Number at risk = A/(A+C)
+    a. A =
+
+[STIMULUS] Table 3. Time and level of exposure of volunteers working at the World Trade Center (WTC) site after September 11, 2001 (N = 4,974)
+
+| Time/level of exposure | Affiliated (n = 3,702) | Lay (n = 1,272) |
+|---|---|---|
+| First day of volunteer work | | |
+| September 11, 2001 | 162 | 360 |
+| September 12, 2001 | 196 | 300 |
+| September 13–17, 2001 | 396 | 350 |
+| September 18–December 31, 2001 | 1,657 | 173 |
+| January 1, 2002–June 30, 2002 | 995 | 31 |
+| Number of days worked at any WTC site | | |
+| 1–7 | 792 | 524 |
+| 8–30 | 650 | 118 |
+| 31–90 | 190 | 39 |
+| ≥91 | 91 | 26 |
+| Worked on the debris pile at the WTC site | | |
+| Yes | 439 | 442 |
+| No | 3,257 | 829 |
+
+Source: Adapted from Debchoudhury I, Welch AE, Fairclough MA, et al. Comparison of health outcomes among affiliated and lay disaster volunteers enrolled in the World Trade Center Health Registry. Prev Med 2011;53:359–63.
+
+37a. [numeric, 1 pt] Using the data from Table 3 and the following formula, what proportion of lay volunteers first worked at any World Trade Center site on September 11 and 12th, 2001 (place answers to each part in the answer box)?
+    
+    C = A/B
+    
+    a. A =
+
+37b. [numeric, 1 pt] C = A/B
+    
+    b. B =
+
+38a. [frq, 1 pt] Using the data in Table 3 and the following formula, what proportion of affiliated volunteers worked more than 1 week at any World Trade Center site?
+    
+    C = A/B
+    
+    a. A =
+
+38b. [numeric, 1 pt] C = A/B
+    
+    b. B =
+
+39. [frq, 3 pt] How did the work history of affiliated and lay volunteers differ?
+
+[STIMULUS] Table 4. Physical and mental health outcomes among affiliated and lay volunteers working at the World Trade Center site after September 11, 2001 (N = 4,974)
+
+| Outcome | Affiliated (n = 3,702) | Lay (n = 1,272) |
+|---|---|---|
+| Post-9/11 professional mental health diagnosis | | |
+| None | 2,868 | 807 |
+| Early | 465 | 299 |
+| Late | 209 | 81 |
+| Probable PTSD | | |
+| None | 3,086 | 791 |
+| Chronic | 192 | 189 |
+| Late onset | 205 | 166 |
+| Resolved | 75 | 53 |
+| New or worsening lower respiratory symptoms since 9/11 | | |
+| Yes | 1,275 | 797 |
+| No | 2,427 | 475 |
+| Post-9/11 asthma/reactive airway dysfunction syndrome | | |
+| None | 2,946 | 945 |
+| Early | 64 | 53 |
+| Late | 69 | 35 |
+
+Source: Adapted from Debchoudhury I, Welch AE, Fairclough MA, et al. Comparison of health outcomes among affiliated and lay disaster volunteers enrolled in the World Trade Center Health Registry. Prev Med 2011;53:359–63.
+
+40. [frq, 4 pt] Calculate the appropriate measure for the strength of association (either odds ratio or relative risk) between the risk for having any form of PTSD among lay volunteers as compared with affiliated volunteers (show your work in answer box).

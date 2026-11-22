@@ -1,0 +1,396 @@
+Yale — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  96 questions, 170.0 pts
+Source: scio.ly test archive id 4d213a38-1e33-4e39-857e-c360a23af4e7  |  original files: https://drive.google.com/drive/folders/1cXgyDDAR3YZJEfs-n4vbslJjvlUNbM66
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+
+=== Section 1: Scrumptious Salmonella [40.5] ===
+
+1. [mcq, 1 pt] You've received a report of a nationwide increase of cases of salmonella, and it's your job to investigate the outbreak! You've received this information from the NNDSS. What type of surveillance does this represent?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+
+2. [mcq, 1 pt] You've noticed that, in general, the number of cases of salmonella in your town have been underreported. In addition, most of the recent salmonella cases in your area have been reported by healthcare providers in hospitals. Which of the following types of surveillance would you suggest to be implemented?
+    A) Passive surveillance
+    B) Active surveillance
+    C) Syndromic surveillance
+    D) Sentinel surveillance
+
+3. [frq, 2 pt] Give one advantage and disadvantage for the type of surveillance you chose in #2.
+
+4. [mcq, 1 pt] Before you begin your investigation, you'd like to learn more about salmonella. What type of microorganism is responsible for this disease?
+    A) Virus
+    B) Bacteria
+    C) Fungi
+    D) Helminth
+
+5. [frq, 2 pt] What are four other human diseases that are also caused by your answer in #4? Please include the name of the disease and the causative microorganism.
+
+6. [frq, 2 pt] While there are only 2 species of Salmonella, there are over 2,500 serogens. What are serogens, and how does this distinction differ from a species?
+
+7. [frq, 2 pt] What are the two major criteria used by the CDC to distinguish Salmonella into different serogens? Please include where they are found on the bacterium in your answer.
+
+8. [frq, 2 pt] Place the following set of events in order, starting from the beginning of a nontyphoidal salmonella infection. Not all events may be used.
+    I. Salmonella enters an epithelial cell lining the digestive tract.
+    II. Salmonella secretes exotoxins into the digestive tract.
+    III. Food containing the Salmonella bacterium is ingested.
+    IV. Salmonella crosses the epithelial cell membrane, entering the bloodstream.
+    V. Salmonella multiples in mucosal cells, causing inflammation and diarrhea.
+
+9. [frq, 2 pt] Salmonella produces surface proteins that cause the cytoskeleton of their host cells to rearrange. What are these surface proteins called?
+
+10. [frq, 1 pt] What type of cytoskeletal elements does your answer in #9 primarily affect?
+
+11. [frq, 2 pt] Salmonella are capable of causing two diseases: Salmonellosis (Salmonella gastroenteritis) and typhoid fever. What is the major difference between them in their chains of infection?
+
+12. [frq, 2 pt] From the MMWR, you've obtained the following graph that compares the number of cases for the two diseases over time. Propose two reasons for the changes in the number of reported cases for these two diseases.
+    [IMAGE: ../images/2022_yale_c__p3_42cc5b-cf9f89a7.webp]
+
+13. [frq, 1 pt] The time between being exposed to Salmonella and the development of symptoms is 2 to 3 weeks for typhoid fever but only 12 to 36 hours for salmonellosis. What epidemiological term best describes this time frame?
+
+14. [frq, 2 pt] Given that salmonellosis and typhoid fever are caused by the same species of microorganism, why is there such an apparent difference in the period of time between being exposed and developing symptoms?
+
+15. [frq, 1.5 pt] What is the chain of infection for salmonellosis? List the name of each component and its specific counterpart for salmonellosis.
+
+16. [frq, 2 pt] Given that Salmonella can produce endotoxins, what assumption can you make about the structure of the microorganisms' cell walls?
+
+17. [frq, 2 pt] Salmonellosis must be diagnosed with a lab confirmation. Why can't it be diagnosed on the basis of the patient's symptoms alone?
+
+18. [frq, 1 pt] You've received the following map that depicts the number of people infected with Salmonella by state of residence. What type of map does this represent?
+    [IMAGE: ../images/2022_yale_c__p4_70b625-f5cbdcf2.webp]
+
+21. [frq, 2 pt] Propose two possible reasons why some states did not report any cases of salmonella in this outbreak.
+
+22. [frq, 1 pt] You receive the following image, which depicts the number of people infected with the outbreak strain of Salmonella by date of illness onset in your town.
+    What type of graph is this called?
+    [IMAGE: ../images/2022_yale_c__p5_66fb2c-1d372522.webp]
+
+23. [mcq, 1 pt] What type of outbreak does this graph depict?
+    [IMAGE: ../images/2022_yale_c__p5_66fb2c-1d372522.webp]
+    A) Point-source outbreak
+    B) Continuous common-source outbreak
+    C) Intermittent common-source outbreak
+    D) Propagated outbreak
+
+24. [frq, 1 pt] What are the first two cases on January 8th referred to as?
+
+25. [frq, 2 pt] Give two possible difficulties faced when building an epi curve for salmonella.
+
+
+=== Section 2: Delectable Diabetes [46] ===
+
+26. [mcq, 1 pt] You're interested in studying the relationship between a high-fat diet and diabetes. You first interview your volunteers whether or not they have been diagnosed with diabetes, then ask them what type of foods they typically eat each week. What type of study does this best describe?
+    A) Prospective cohort
+    B) Retrospective cohort
+    C) Case-control
+    D) Ecological
+    E) Experimental
+
+27. [frq, 2 pt] Give one advantage and one disadvantage of using an interview rather than a self-completed questionnaire.
+
+28. [frq, 2 pt] Give two examples of when this type of study may be impractical.
+
+29. [mcq, 1 pt] In general, would you prefer to use incident or prevalent cases in this type of study?
+    A) Incidence
+    B) Prevalence
+
+30. [frq, 2 pt] Explain your answer to #29.
+
+31. [frq, 1 pt] What is the appropriate measure of association to use for this type of study?
+
+32. [frq, 2 pt] You obtain the following results from your study. What is the crude measure of association between a high-fat diet and diabetes? Show your work and give your answer to three decimal places.
+    [IMAGE: ../images/2022_yale_c__p7_539716-b7b9a36a.webp]
+
+33. [frq, 2 pt] What is the measure of association among men only? Show your work and give your answer to three decimal places.
+
+34. [frq, 2 pt] What is the measure of association among women only? Show your work and give your answer to three decimal places.
+
+35. [mcq, 2 pt] Which of the following measures of association would be the most appropriate measure to use when reporting the findings of your study?
+    A) Crude measure of association
+    B) Separate gender-specific measure of association
+    C) Weighted average of the gender-specific measure of association
+    D) The measure of association after adjusting for gender
+    E) None of the above
+
+36. [mcq, 2 pt] Which of the following is shown by the stratified measure of association that you calculated?
+    A) Confounding by gender
+    B) Effect modification by gender
+    C) Selection bias by gender
+    D) Recall bias by gender
+    E) Residual confounding by other factors that differ by gender
+
+37. [multi, 2 pt] In your standards for a “high-fat” diet, the threshold value is set at 35% of the total calories being derived from fat, both saturated and unsaturated. If you were to lower the threshold to 30%, which of the following statements are likely to be true? Select all that apply.
+    A) The specificity of your new test is greater than that of your old test.
+    B) The sensitivity of your new test is greater than that of your old test.
+    C) The number of false positives is greater with your new test than with your old test.
+    D) The number of false negatives is greater with your new test than with your old test.
+    E) The sensitivity and specificity remain the same for both tests.
+
+38. [frq, 2 pt] Based on the results of your study alone, can you say that a high-fat diet causes diabetes in men, women, or both? Explain your answer.
+
+39. [frq, 2 pt] While scouring the literature for more information about diabetes, you came across a prospective study on sickle cell disease and diabetes that showed that there was no correlation between the two. However, older cross-sectional studies have shown that there is an association between diabetes and sickle cell disease. Which Bradford-Hill criteria is being tested in the newer study?
+
+40. [frq, 3 pt] What are the three most important guidelines in the Bradford-Hill criteria for evaluating the evidence of a causal relationship? Give your answer in descending priority order.
+
+[STIMULUS] While studying more about diabetes, you learn that there is a positive correlation between smoking and type 2 diabetes! You find the following data from a study that evaluated different approaches to helping people stop smoking.
+
+Smokers who want to quit smoking were randomly separated into four groups. The control group received no intervention assistance, group I received brochures on how to quit smoking, group II received brochures on how to quit smoking as well as social support brochures that listed benefits of smoking cessation, and group III received the brochures and monthly calls with a counselor.
+
+The participants filled out an online questionnaire at 8, 16, and 24 months after the study began. The results are given in the following table.
+    [IMAGE: ../images/2022_yale_c__p9_f280ce-6a7f521e.webp]
+
+41. [frq, 2 pt] What is the overall quit rate after 2 rates of follow-up? Give your answer to three decimal places, and show your work.
+
+42. [mcq, 1 pt] Which of the groups had the least success in terms of quitting smoking?
+    A) Group C
+    B) Group I
+    C) Group II
+    D) Group III
+    E) It cannot be determined, since each group had participants who failed to return the survey.
+
+43. [mcq, 2 pt] What was the main purpose of randomization in this study?
+    A) To minimize differences in the dropout rate between the groups.
+    B) To avoid assigning more people who have tried and failed to quit in the past to the control group.
+    C) To ensure that rates of smoking cessation will be the same among the groups.
+    D) To blind the researchers to the treatment group assignments.
+    E) To prevent subjects in the control group from reading materials that would help them to quit smoking.
+
+[STIMULUS] You decide to conduct a study for a pharmaceutical drug that seeks to compare the effects of your drug with a placebo in patients surviving myocardial infarctions (MI), which is commonly associated with Type 2 diabetes mellitus.
+
+You began your treatment regimen 10 days after a myocardial infarction in 1936 patients, 56% of all persons who were evaluated for entry into the study. 904 participants were randomized to treatment with your novel drug, while 1032 participants were assigned to the placebo group. You then monitored the patients for 24 months for reinfarction. After the 24 months, you recorded 159 deaths in the placebo group and 93 deaths in the treatment group.
+
+After they were first selected for the study, patients were divided into three groups: those who had a previous MI, those who had a first MI and at high risk for other cardiovascular diseases, and those who had a first MI and at low risk for other cardiovascular diseases.
+
+44. [mcq, 2 pt] Which of the following terms best describes the design of your study?
+    A) Cass-crossover study
+    B) Nested case-control study
+    C) Randomized clinical trial with crossover design
+    D) Randomized clinical trial with factorial design
+    E) Randomized clinical trial with stratified randomization
+
+45. [mcq, 2 pt] After being assigned to treatment groups, 73% of those in the novel drug group were men, while 68% in the placebo group were men. Which of the following statements is most likely true?
+    A) Randomization failed because the percentage of men is different in each group.
+    B) Randomization failed since men were more likely to have a recurring MI in the treatment group.
+    C) Randomization failed because the researchers should have ensured that the experimental and control group had an equal percentage of men and women.
+    D) Randomization was successful because the investigators didn’t alter the selection of participants in order to ensure equal percentages of men.
+    E) Randomization was successful because there are more men in the treatment group.
+
+46. [mcq, 2 pt] A preliminary analysis was conducted 6 months after the study began. They found that 83% of participants in the experimental group and 86% of the participants in the placebo group had taken more than 90% of their prescribed dosages. Which statement best describes this finding?
+    A) The study will find a decreased effect of MI prevention in the experimental group since fewer participants complied with the prescribed treatment.
+    B) The study will find an increased effect of MI prevention in the experimental group since fewer participants complied with the prescribed treatment.
+    C) The researchers should consider carrying out a crossover design in order to compare the compliance rates between the two groups.
+    D) The characteristics of patients who failed to comply with the treatment dosages should be assessed, as they may differ from those who complied.
+    E) Randomization was unsuccessful, as it failed to ensure an equal likelihood of compliance with treatment.
+
+47. [mcq, 2 pt] Which of the following statements best describes the reason why you decided to conduct the study as double-blind?
+    A) The researchers might assign participants with more severe MIs to the treatment group.
+    B) The placebo group will not have any side effects.
+    C) Double blinding ensures that potential biases regarding selection and follow-up can be reduced.
+    D) Double blinding is no longer necessary after randomization is complete since the researchers cannot change the treatment group assignments.
+    E) Since the outcome studying is death, blinding the participants is unnecessary for this experiment.
+
+48. [mcq, 2 pt] The researchers concluded that the novel drug reduces mortality in patients who have had a MI. The researchers are:
+    A) Correct because there is a fewer number of deaths in the treatment group.
+    B) Correct because the rate of death is decreased in the treatment group.
+    C) Incorrect because randomization was not successful.
+    D) Incorrect as the results are not generalizable to all patients with the MI, since the researchers excluded 44% of all persons evaluated for the study.
+    E) Incorrect because non-compliance may have reduced the number of observed deaths in the experimental group when compared to the placebo group.
+
+49. [mcq, 1 pt] You’ve found a study that followed people who have already recovered from Type 2 diabetes from 2000 to 2020 to observe if there were any new cases of Type 2 diabetes. When the participants entered the study, they were tested for high blood levels of alanine aminotransferase. You obtain the following table with the data from this study.
+    
+    Which of the following terms best describes your study design?
+    [IMAGE: ../images/2022_yale_c__p11_71fff8-564a81c4.webp]
+    A) Prospective cohort
+    B) Retrospective cohort
+    C) Case-control
+    D) Cross-sectional
+    E) Experimental trial
+
+50. [frq, 2 pt] Calculate the associated measure of risk for this type of study. Please show your work and give your answer to three decimal places.
+
+
+=== Section 3: COVID-19 [42.5] ===
+
+51. [mcq, 1 pt] After you grow COVID-19 viruses in culture, you inoculate it into a humanized mouse model. You find that the mouse exhibits symptoms of COVID-19 four days later. Which of Koch's postulates does this best represent?
+    A) Koch's first postulate
+    B) Koch's second postulate
+    C) Koch's third postulate
+    D) Koch's fourth postulate
+
+52. [frq, 2 pt] COVID-19 is a type of coronavirus. What are the two other coronaviruses that have caused pandemics in human populations?
+
+53. [frq, 3 pt] How does COVID-19's type of genetic material contribute to it being capable of eluding host immunity?
+
+54. [tf, 1 pt] True or False: COVID-19 must produce a mRNA intermediate from its genetic material in order to reproduce.
+    A) True
+    B) False
+
+55. [frq, 2 pt] Is the previous statement in #54 true of all viruses that have the same type of genetic material (DNA or RNA) as COVID-19? Explain your answer.
+
+56. [frq, 2 pt] The population of your state on February 5th, 2021 was 1,600,000 people. There was a statewide, mandated passive surveillance system that collected data from hospitals and private physicians for COVID-19 cases each week. From November 1, 2020 to March 1, 2021, there were 45,000 new cases of COVID-19 in the state. The latest report from March 1 2021 reported 10,900 cases of COVID-19. What is the monthly incidence rate of cases of COVID-19 per 1000 people during the entire four month period? Show your work and give your answer to three decimal places.
+
+57. [frq, 2 pt] What is the prevalence rate of active COVID-19 cases per 1000 people as of March 1, 2000? Show your work and give your answer to three decimal places.
+
+58. [mcq, 2 pt] Which of the following statements is true about an inference that can be made about COVID-19 cases occurring in the state?
+    A) The incidence rate would decrease if active surveillance was implemented.
+    B) Active surveillance would enable better prevention of COVID-19.
+    C) The real number of COVID-19 cases in your state is less than the reported number, since private physicians and hospitals may be reporting the same patients.
+    D) The average duration of this strain of COVID-19 in this state is about 1 month.
+    E) The prevalence rate should be higher, since it should include data from all cases between November 1, 1999 to February 28, 2000.
+
+59. [mcq, 1 pt] You now want to investigate COVID-19 vaccines! You have developed a new vaccine, and it's currently undergoing testing as a multicenter trial to compare it against current vaccines that are available to the public and comparing possible side effects. What stage of vaccine trials in the US is your vaccine currently in?
+    A) Phase I
+    B) Phase II
+    C) Phase III
+    D) Phase IV
+
+60. [frq, 1.5 pt] You know that conventional vaccines contain antigens. What are the three major types of possible antigens that can be found in these vaccines?
+
+61. [frq, 2 pt] Why are mRNA vaccines easier and safer to produce than conventional vaccines? Provide two reasons.
+
+62. [frq, 2 pt] What characteristics of mRNA vaccines can make them difficult to deliver to cells in the body?
+
+63. [frq, 2 pt] What are two strategies used that can overcome the limitations in #62?
+
+64. [mcq, 1 pt] What level of prevention do vaccines represent?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+65. [mcq, 1 pt] A particular drug that has potential to alleviate the symptoms of COVID-19 is becoming available for patients. However, there have been reports of severe side effects. What level of prevention seeks to prevent this?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+    E) Quaternary prevention
+
+66. [mcq, 1 pt] Your vaccine has shown promise for reducing the risk of COVID-19 in children under the age of 12! In order to test it further, you decide to undertake an additional study that only takes participants who have asthma. Which of the following statements cannot be claimed by the researchers?
+    A) The potential benefits in people with asthma are increased.
+    B) The study's power increased.
+    C) The overall cost and time required for conducting the study has decreased.
+    D) The generalizability of the study is increased.
+    E) The study's validity has increased, since it has focused on a population with similar characteristics.
+
+67. [multi, 1 pt] Your data has shown that your vaccine has a high efficacy! Which of the following statements best describes efficacy? Select all that apply.
+    A) It estimates the performance of the vaccine under ideal conditions.
+    B) It estimates the performance of the vaccine under routine conditions.
+    C) It is an estimate of the reduction of disease in treated groups.
+    D) It is an estimate of the reduction of disease in the population.
+    E) It varies on the prevalence of the disease.
+
+68. [frq, 2 pt] Two common diagnostic tests that are used are ELISA and PCR tests. What is the major difference between what these two tests detect?
+
+69. [frq, 2 pt] If you wanted to detect the presence of a pathogen in the early stages of an infection, would you suggest using an ELISA or PCR test? Explain your answer.
+
+70. [frq, 1 pt] You've developed a new test that can rapidly screen for COVID-19, and you wish to evaluate it! You wish to decrease the time between infection and when a test can detect the presence of COVID-19. What is this time period called?
+
+[STIMULUS] You gather 3,000 participants for your study. Group I has 1,000 participants that have laboratory-confirmed positive COVID-19 tests, while Group II has 2,000 participants who reported that they have not been in close-contact with someone who has COVID-19 or felt any symptoms in the past 28 days and have a negative COVID-19 test, and they were matched by age, gender, and race to the participants in Group I. The results of your screening test are shown in the following table.
+    [IMAGE: ../images/2022_yale_c__p16_38fc70-b7dcacb9.webp]
+
+71. [frq, 2 pt] What is the sensitivity of the screening test in your combined groups? Show your work and give your answer to three decimal places. Interpret your result.
+
+72. [frq, 2 pt] What is the specificity of the screening test in your combined groups? Show your work and give your answer to three decimal places. Interpret your result.
+
+73. [frq, 2 pt] What is the positive predictive value (PPV) of the screening test in your combined groups? Show your work and give your answer to three decimal places. Interpret your result.
+
+74. [mcq, 2 pt] You then decide to give your COVID-19 screening test in the same manner to another population of individuals in another state. However, the first population had a lower proportion of false positives than the second population. Which of the following best explains this finding?
+    A) The screening test's specificity was higher in the first population.
+    B) The screening test's specificity was higher in the second population.
+    C) The number of cases of COVID-19 is higher in the first population.
+    D) The number of cases of COVID-19 is higher in the second population.
+    E) No conclusions can be made.
+
+75. [mcq, 2 pt] Congratulations! Your test, now called Test Y, has been implemented in your community along with another test, Test X. Test X has a specificity of 85% and a sensitivity of 95%.
+    
+    Currently, Test X is given before your test, Test Y. Which of the following is the best reason for suggesting that Test Y should be given before Test X?
+    A) The total number of false positives found by the sequential testing will be decreased.
+    B) The total number of false negatives found by the sequential testing will be decreased.
+    C) The net sensitivity of the sequential testing will increase.
+    D) The net sensitivity of the sequential testing will decrease.
+    E) There is no reason to change the order of the tests.
+
+
+=== Section 4: Colorectal Cancer [45] ===
+
+[STIMULUS] You are an epidemiologist assigned to a new CDC Task Force focused on colorectal cancer. Colorectal cancer affects both men and women at approximately equal rates and is the third leading cause of death among cancer patients, with more than 50,000 deaths due to colorectal cancer annually. Symptoms may include but are not limited to changes in bowel movements, loss of appetite, changes in stool consistency, and blood in the stool.
+
+76. [frq, 2 pt] Before beginning your investigation, your team is instructed to prepare for field work. What does this entail?
+
+77. [frq, 2 pt] While studying trends of colorectal cancer incidence in the last 30 years, there have been continuous decreases in new cases annually. Why might this be occurring?
+
+78. [frq, 2 pt] Despite a decrease in health burden, why is it still important to investigate? Give 2 reasons.
+
+[STIMULUS] In your study, you plan to use a matched-pairs study design, matching individuals on traits such as socioeconomic status, gender, race, and age, among other factors. You enlist 24 individuals that consist of 12 pairs, with an equal number of male and female participants. In each pair, one of the participants has suffered from colorectal cancer at some point in the past.
+
+79. [mcq, 1 pt] What type of observational study is this?
+    A) Case-control
+    B) Cohort
+    C) Cross-sectional
+    D) Case-cohort
+    E) Nested case-control
+
+80. [frq, 1 pt] What epidemiological term describes the factors that are matched on?
+
+81. [frq, 3 pt] Can you calculate risk in this study? Why or why not?
+
+82. [frq, 2 pt] What is the goal of a matched pairs study?
+
+[STIMULUS] Among your 24 study participants, 6 of those with colorectal cancer experience have history of inflammatory bowel disease (IBD). Only one individual among the matched controls has a history of IBD.
+
+83. [frq, 2 pt] Calculate the measure of association between IBD and colorectal cancer.
+
+84. [mcq, 1 pt] Which of Hill's Criteria of causation most closely relates to the relationship between IBD and colorectal cancer?
+    A) Strength of Association
+    B) Coherence
+    C) Alternative Explanations
+    D) Dose Response
+    E) Biological Plausibility
+
+85. [frq, 3 pt] In other literature of patients suffering from colorectal cancer, you discover that the strength of association between IBD and colorectal cancer is higher than what you calculated earlier. Why might this be the case?
+
+[STIMULUS] Your team then conducts a larger study across the US, mapping out prevalence by state for all 50 states. These results are then compared with various metrics among the different states, including but not limited to quality of life index, average household income, and cost of living. Your team determines that the highest age-adjusted colorectal cancer prevalence was in Mississippi, with 49.0 cases per 100,000 people.
+
+86. [frq, 1 pt] What type of study is this?
+
+87. [frq, 2 pt] A member of your team suggests that relative to the country as a whole, all Missippians are more likely to develop colorectal cancer. What error are they making? What is this called?
+
+88. [mcq, 1 pt] Among the following factors, which likely has the highest correlation with onset of colorectal cancer?
+    A) Annual income
+    B) Cost of living
+    C) Location of residency (urban vs rural)
+    D) Access to health care
+    E) Gender
+
+89. [frq, 2 pt] Why was prevalence rate used instead of incidence?
+
+90. [frq, 3 pt] Some of your teammates are big fans of incidence and wish to run a study of colorectal cancer using incidence anyways. Propose a possible situation in which this would work.
+
+91. [frq, 2 pt] Your team wants to establish prevention measures to decrease future prevalence of colorectal cancer. Propose a potential primary prevention measure.
+
+[STIMULUS] After finally settling down for a bit after your back to back studies, your team is contacted again about a cluster of colorectal cancer. Epidemiologically linked cases are contacted and questioned; all cases reported acute symptoms characteristic of viral gastroenteritis. Date of onset of symptoms was plotted to yield the following epicurve.
+    [IMAGE: ../images/2022_yale_c__p20_e02039-08d7aa21.webp]
+
+92. [frq, 2 pt] What type of outbreak is this and how is it spread?
+
+93. [frq, 2 pt] What is the basic reproductive number (R0) of this outbreak? Please provide a range
+
+94. [frq, 2 pt] Your team considers the value of R0 to be approximately 1.8. What does this number mean?
+
+[STIMULUS] Having just gone through training on mathematical modeling of epidemiological outbreaks, your teammates decide they want to utilize a compartmental model. Because you are lazy, you opt for the most simple compartmental model, the SIR model. This model takes the following form:
+    [IMAGE: ../images/2022_yale_c__p21_475e40-cfe04b98.webp]
+
+95. [frq, 3 pt] If the average duration of symptoms is 7 days, calculate β, the effective transmission rate.
+
+96. [frq, 3 pt] According to the SIR model, given an R0>1, the virus will continue to infect everyone until there are no more susceptible individuals in the population. However, in reality, this doesn't occur. Why?
+
+97. [frq, 2 pt] A vaccine campaign is started to immunize the population against this novel virus. What proportion of the population needs to be vaccinated in order to stop the spread of the outbreak?
+
+98. [mcq, 1 pt] What step of the outbreak investigation comes next?
+    A) Communicate findings
+    B) Implement control and prevention measures
+    C) Initiate and maintain surveillance systems
+    D) Compare and reconcile with laboratory and/or environmental studies
+    E) Evaluate hypotheses

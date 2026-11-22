@@ -1,0 +1,273 @@
+Golden Gate Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  60 questions, 91.5 pts
+Source: scio.ly test archive id 56dd8ee1-9cf9-4938-b631-0969e4d2e26e  |  original files: https://drive.google.com/drive/folders/1R4-rizgBfz9k972vPsltEHWeeBXnggYh
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Part I: Tummy Troubles ===
+
+[STIMULUS] Two undergraduate students of the UC Berkeley Haas School of Business report to the student health clinic urgent care with complaints of dull stomach pain. Similarly, at about the same time, three Stanford GSB MBA students also check into urgent care with complaints of bloat and burping. Three weeks previously, these students all attended a major conference in regional economic development held in Lagos, Nigeria with their respective departments.
+
+P1-1. [multi, 2 pt] Classic food poisoning due to Listeria monocytogenes is suspected by the clinicians at the Stanford clinic. What are possible reasons for this initial assumption? Select all that apply:
+    A) Incubation period
+    B) The symptoms themselves
+    C) Region of the world
+    D) Number of cases
+
+P1-2. [frq, 2 pt] The clinicians at Berkeley are unaware of the cases in Stanford and suspect infection by Cyclospora cayetanensis instead. This infection, known as Cyclosporiasis, has a standard tier on the CSTE List of Nationally Notifiable Conditions. What does this mean in terms of CDC escalation, considering both timeline and method?
+
+P1-3. [mcq, 1 pt] The California Department of Public Health (CDPH) catches wind of these cases and deploys a team of disease detectives. What is the best study to use in identifying the affliction?
+    A) cohort
+    B) ecologic
+    C) case-control
+    D) observational
+
+P1-4. [frq, 1 pt] Why would a cross-sectional study not be effective?
+
+P1-5. [mcq, 1 pt] The time interval between initial contact with an infectious agent and the first appearance of symptoms associated with the infection is called:
+    A) Latent period
+    B) Incubation period
+    C) Period of communicability
+    D) Temporal virulence
+
+P1-6. [mcq, 1 pt] Saliva samples are obtained from each of the patients, as well as all Bay Area-based attendees of the conference. Culturing a microorganism from a bodily fluid for the purpose of diagnosis of an infectious disease is an example of:
+    A) Direct detection
+    B) Indirect detection
+    C) Reverse detection
+    D) None of the above
+
+P1-7. [frq, 1 pt] Suppose the clinicians decide to prescribe broad-spectrum oral antibiotics to the patients. What approach to health care is this?
+
+P1-8. [frq, 2 pt] Why is the aforementioned intervention considered a high-risk approach?
+
+P1-9. [mcq, 1 pt] The cultures have come back! The cultures show that of the 73 attendees, 35 of them (including the initial patients) show that their GI tract is colonized with Helicobacter. Pylori. At this point, what would a preventive approach be classified as?
+    A) Targeted
+    B) Ultimate
+    C) Secondary
+    D) Microbial
+
+P1-11. [mcq, 1 pt] An epidemiologist reading a research paper on the pathogenesis of gastric ulcers within a mouse model infected by H. pylori is most likely engaging in which type of epidemiology?
+    A) Analytic
+    B) Descriptive
+    C) Applied
+    D) Case
+
+P1-12. [frq, 3 pt] List the 3 components of this specific outbreak’s epidemiological triad:
+
+P1-13. [frq, 1 pt] If CDPH were to deploy the disease detectives to identify more cases, what type of surveillance would be performed?
+
+P1-14. [mcq, 1 pt] If a public health laboratory were to adopt a new molecular method that allows for the identification of a pathogen days earlier than traditional culture methods. What attribute of the surveillance system would be most improved?
+    A) Simplicity
+    B) Sensitivity
+    C) Specificity
+    D) Timeliness
+    E) Flexibility
+
+
+=== Part II: Ruh Roh ===
+
+[STIMULUS] Coolsville, Ohio (of Scooby Doo fame) is well-known for its lush, beautiful forests full of wildlife and great hiking trails. On June 20, 2025, 37 individuals reported to a local hospital with symptoms of fever, chills, muscle and joint aches, and some with an expanding, round red rash shaped like a target. More cases were identified after. Epidemiologists wanted to investigate how and why this outbreak occurred. They identified that of the 41 affected individuals, 27 partook in nature hikes in Bialowieza Forest and 22 partook in nature hikes in Deadwood Forest. After surveying an additional 96 healthy townspeople, they discovered 50 partook in hikes in Bialowieza and 54 partook in nature hikes in Deadwood Forest. Investigators hypothesize that the sick individuals are infected with Lyme disease, caused by the bacteria Borrelia burgdorferi and typically spread by ticks (incubation period: 3-30 days). Laboratory tests are often negative early on in the infection for this disease.
+
+P2-1. [frq, 1 pt] Name the mode of transmission associated with this disease.
+
+P2-2. [mcq, 1 pt] During the outbreak investigation, epidemiologists asked cases and noncases questions to identify the two forests. However, many individuals could not remember when or where they went months prior. Which of the following types of bias does this best exemplify?
+    A) Attrition bias
+    B) Selection bias
+    C) Interviewer bias
+    D) Recall bias
+    E) Nonresponse bias
+    F) None of the above
+
+P2-4a. [frq, 1 pt] Name the step of outbreak investigation (from the 13 steps) in which basic information on diseased persons is gathered to systematically describe key characteristics. Make sure to write down the step itself and not just its number.
+
+[STIMULUS] Consider the chart below.
+    | Case # | Gender | Age | Symptoms | Lab Results | Date of Onset |
+    | 1 | M | 42 | Fever, chills, red rash | N |  |
+    | 2 | M | 23 | Fever, chills, red rash, joint pain, facial palsy | P |  |
+    | 3 | F | 28 | Muscle aches, chills | P |  |
+    | 4 | F | 60 | Fever, vomiting, arthritis, red rash | N |  |
+    | 5 | M | 37 | Fever | P |  |
+
+P2-5a. [frq, 1 pt] Identify the type of the chart/table below.
+
+P2-5b. [frq, 1 pt] During which step of the outbreak investigation are charts like this generated? Make sure to write down the step itself and not just its number.
+
+P2-5c. [frq, 2 pt] The affected individuals listed below are within the age range 23-60 years old. What is a possible reason the cases were not elderly or young children, who are usually more susceptible to disease?
+
+[STIMULUS] Observe the graph above.
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p5_f96be3-25d289c2.webp]
+
+P2-7. [multi, 1 pt] What is a possible reason for the trend in lyme disease cases seen? Select all that apply.
+    A) Lyme disease becoming a notifiable condition
+    B) An increase in tick population due to expanding habitat
+    C) Random error
+    D) Change from active to passive surveillance
+    E) More specific, less sensitive lab tests
+
+P2-8. [frq, 1 pt] Occasionally, the CDC will update surveillance case definitions. One year, a substantial change was made to the Lyme disease case definition, introducing the reporting of probable cases. What year did this occur?
+
+P2-9. [frq, 2 pt] Should a case definition for this Lyme disease outbreak be more sensitive or more specific? Explain.
+
+P2-10a. [frq, 2 pt] Identify the type of study conducted by the epidemiologists of Coolsville.
+
+P2-10b. [frq, 2 pt] Provide two advantages of this type of study.
+
+P2-10c. [frq, 2 pt] Provide two disadvantages of this type of study.
+
+P2-11. [frq, 4 pt] Describe two situations that would cause a decrease in the prevalence of a disease in a study.
+
+P2-12. [frq, 2 pt] Create two contingency tables for each forest.
+
+P2-13. [frq, 4 pt] Determine the value for proper measures of association for each exposure and interpret your results. Round the measure of association to the nearest hundredth.
+
+P2-14. [frq, 2 pt] Propose two ways individuals can prevent this disease.
+
+P2-15a. [frq, 2 pt] Coolsville epidemiologists suspect there are more in the larger Erie County than have been reported. They contact several hospitals in the area requesting data on emergency department or primary care visits. What type of surveillance is best exemplified by this scenario?
+
+P2-15b. [frq, 2 pt] Describe one advantage and one disadvantage of this type of surveillance.
+
+P2-15c. [frq, 2 pt] Describe two reasons underreporting of a disease may occur.
+
+P2-16. [frq, 1 pt] Name the step of outbreak investigation when surveillance is conducted. Make sure to write down the step itself and not just its number.
+
+P2-17. [frq, 2.5 pt] Name the 5 steps of surveillance.
+
+P2-18. [frq, 3 pt] Which type of surveillance would be best suited for addressing this disease in Ohio? Explain thoroughly.
+
+P2-19. [frq, 1 pt] Ticks spread more than just Lyme Disease. In the USA, approximately 2-12% of the time, a patient with Lyme disease also contracts human granulocytic anaplasmosis, and 2–40% of Lyme patients also have babesiosis. What is this phenomenon called?
+
+P2-20. [mcq, 1 pt] Which of the following Bradford Hill Criteria is complicated by the presence of other tick-borne diseases, like above?
+    A) Strength
+    B) Consistency
+    C) Specificity
+    D) Plausibility
+    E) Coherence
+
+
+=== Part III: Influenza ===
+
+[STIMULUS] **Influenza Hospitalizations in the 2024–25 High-Severity Season**
+
+In the 2024–25 influenza (flu) season, the U.S. experienced a severe flu season. According to surveillance by the Influenza Hospitalization Surveillance Network (FluSurv-NET), approximately 38,960 laboratory-confirmed influenza–associated hospitalizations occurred between October 1, 2024, and April 30, 2025.
+
+Let's investigate some of the background on general influenza patterns this season.
+
+P3-III-1. [multi, 1 pt] Influenza is a disease which spreads via droplet transmission, particularly during the winter months. Which of the following could be used to describe Influenza's mode of spread? Choose all that apply.
+    A) Continuous common source
+    B) Point source
+    C) Propagated
+    D) Intermittent
+    E) Spherical
+
+P3-III-2. [frq, 1 pt] In the U.S., influenza virologic surveillance consists of two systems, the ICL and NREVSS laboratories. What does NREVSS stand for?
+
+P3-III-3. [multi, 2 pt] The two systems mentioned above are supported by hundreds of clinical and public laboratories which participate in surveillance. Public health labs frequently receive samples which have already tested positive in a clinical lab. Which of the following statements are true? Choose all that apply.
+    A) Influenza testing practices are the same between public health and clinical labs
+    B) Clinical labs primarily test respiratory specimens for diagnostic purposes
+    C) Public labs primarily provide useful info on timing and intensity of influenza activity
+    D) Clinical labs aim to understand what influenza virus types, subtypes, and lineages are circulating in the population
+    E) Clinical labs are more useful for monitoring the percent of people testing positive for the Flu
+
+[STIMULUS] The following questions will reference the graph shown below. This graph summarizes the seasonal positive influenza tests reported to CDC by U.S. Public Health Laboratories, National Summary, 2024–25 Season, including subtypes.
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p8_3c4463-9254a213.webp]
+
+P3-III-4. [frq, 1 pt] How do epidemiologists refer to this type of graph, where we see positive tests/cases over time?
+
+P3-III-5. [mcq, 1 pt] Which month shows the peak number of positive influenza specimens?
+    A) December
+    B) January
+    C) February
+    D) March
+    E) Cannot be determined with information given.
+
+P3-III-9. [frq, 1 pt] As part of influenza surveillance, the CDC and associated labs perform genetic characterization of the circulating influenza viruses. What's the name of the process used to determine the genetic composition of viruses like these?
+
+P3-III-10. [frq, 2 pt] Genetic variations change the amino acids that make up an influenza virus's proteins. Name two properties that may be different between genetic variations of the same virus?
+
+P3-III-11. [numeric, 2 pt] Say the cumulative incidence of flu in CA in the 2024-2025 season was 101.9 per 100,000 people. The population of CA at the start of the season was around 39.5 million people. What was the number of new cases during this period?
+
+[STIMULUS] Age adjustment is commonly used to account for differences in age distributions between populations.
+
+**TABLE 1: Unadjusted and age-standardized cumulative rates of Influenza at the end of the 2024-2025 season**
+
+**TABLE 2: Selected age distributions and age-adjustment weights based on the 2000 projected U.S. population**
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p9_ff21d8-22f18200.webp]
+
+P3-III-12. [numeric, 4 pt] Calculate the age-standardized incidence of influenza in 2024-2025 (the value that should be in the cell containing '?') using the information in the two tables below. Express the answer as a number rounded to 1 decimal point (e.g. NN.N).
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p9_f678c3-9c0a0307.webp]
+
+P3-III-14. [mcq, 1 pt] We know older people get sick with the flu at higher rates than younger people. Now, let's say that you calculate the incidence rates for 2024-2025 in two states, State A and State B. If the unadjusted rate in State A is the same as State B, but the age-adjusted rate is higher in State A, what can we conclude?
+    A) State A has a younger population
+    B) State B has a younger population
+    C) There must have been systematic error present
+    D) There must have been random error present
+    E) We cannot conclude anything
+
+[STIMULUS] Seeing as the flu season was harsh, we can use this data to adjust preventions and interventions for the next year. For example, based on the genetic characterization of vaccine subtypes, we can select which ones to try to protect against in the next season. We can also look at previous vaccine data to see whether the previous year protected as expected.
+
+The following data shows the influenza test results for data gathered by two networks, U.S. Flu Vaccine Effectiveness Network (U.S. Flu VE) and Virtual SARS-CoV-2, Influenza, and Other respiratory viruses Network (VISION).
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p10_052f62-350063e8.webp]
+
+P3-III-15. [mcq, 1 pt] Should you calculate vaccine efficacy or vaccine effectiveness in this scenario?
+    A) Vaccine efficacy
+    B) Vaccine effectiveness
+
+P3-III-18. [mcq, 1 pt] Which level of prevention does vaccination fall under?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-III-19. [frq, 2 pt] Explain one example of a high risk approach and one example of a population-based approach for influenza prevention.
+
+P3-III-20. [numeric, 2 pt] Let's assume this time that Rₑ = 1.1 for influenza in a population. If the first generation of cases in an outbreak numbers 150, how many are expected in the next generation, assuming Rₑ remains constant.
+
+[STIMULUS] The most frequent complications during influenza hospitalization during the 2024–25 season were pneumonia (30.0%), sepsis (18.5%), and acute renal failure (18.1%).
+    | Label | Answer |
+    | **P3-III-21.** Assuming these percentages apply to the whole group of 38,960 patients, estimate how many in that group had each of these complications (round to nearest whole num). |  |
+    | pneumonia pneumonia (30.0%) | [[q:P3-III-21-a]] |
+    | sepsis sepsis (18.5%) | [[q:P3-III-21-b]] |
+    | acute renal failure acute renal failure (18.1%) | [[q:P3-III-21-c]] |
+
+P3-III-21-a. [frq, 0.667 pt] pneumonia pneumonia (30.0%)
+
+P3-III-21-b. [frq, 0.667 pt] sepsis sepsis (18.5%)
+
+P3-III-21-c. [frq, 0.667 pt] acute renal failure acute renal failure (18.1%)
+
+P3-III-22. [mcq, 1 pt] If we determine that the proportion of patients with complications has increased compared to previous seasons, which of the following has increased?
+    A) Infectivity
+    B) Pathogenicity
+    C) Virulence
+    D) Transmissivity
+    E) Dose
+
+P3-III-23. [mcq, 1 pt] Say you implemented a prevention approach like vaccination, not necessarily for influenza, that results in a sharp decrease in the number of deaths from a disease with little effect on the total incidence. What approach would be consistent with this?
+    A) Primordial prevention
+    B) Primary prevention
+    C) High-risk approach
+    D) Population-based approach
+    E) Medical approach
+
+P3-III-24. [mcq, 1 pt] Which of the following steps to control a disease occurs first?
+    A) Isolation
+    B) Quarantine
+    C) Diagnosis
+    D) Disinfection
+    E) Investigation
+
+P3-III-25. [mcq, 1 pt] Which of the following could be used to describe the status of influenza control in the U.S.?
+    A) Controlled
+    B) Eradicated
+    C) Extinct
+    D) Eliminated
+    E) None of the above
+
+[STIMULUS] Bonus question with no math!
+
+Epidemiologists can represent whole populations or groups (e.g. cases of a disease) in graphs like the one shown below. Here, we see the cases of influenza in the most populous city in CT.
+    [IMAGE: ../images/2026_golden_gate_invitational_c__p12_87239a-b23922e4.webp]
+
+P3-III-27a. [frq, 1 pt] What is this type of graph called?
+
+P3-III-27b. [frq, 1 pt] What two categories do the brown and blue bars represent?

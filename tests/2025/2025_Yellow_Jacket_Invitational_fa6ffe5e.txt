@@ -1,0 +1,266 @@
+Yellow Jacket Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  44 questions, 171.0 pts
+Source: scio.ly test archive id fa6ffe5e-a956-400d-a40c-5f8fc8513d9d  |  original files: https://drive.google.com/drive/folders/1egVORNPbZQE9YNJKJggjtunUvWXyNz7T
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: 5. For all calculations, round to **two decimal places**.
+
+
+=== Part I: Background & Surveillance ===
+
+[STIMULUS] Match the following terms.
+
+a. Mortality
+b. Volunteer bias
+c. Fomites
+d. SNP Mapping
+e. Vector
+f. Outbreak
+g. Herd immunity
+h. Reservoir
+i. Zoonotic
+
+1. [mcq, 2 pt] ____ Inanimate objects that can transfer pathogens (e.g., doorknobs, utensils).
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+2. [mcq, 2 pt] ____ Systematic error that occurs when study participants are not representative of the population.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+3. [mcq, 2 pt] ____ Occurrence of more cases of a disease than expected in a specific time and place.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+4. [mcq, 2 pt] ____ The number of deaths caused by a specific disease in a population.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+5. [mcq, 2 pt] ____ A disease transmitted from animals to humans.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+6. [mcq, 2 pt] ____ The habitat where an infectious agent normally lives, grows, and multiplies.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+7. [mcq, 2 pt] ____ A living organism that transmits infectious agents (e.g., mosquitoes, ticks).
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+8. [mcq, 2 pt] ____ Indirect protection from infectious disease when a significant portion of a population is immune.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+9. [mcq, 2 pt] ____ The process of locating disease-associated genes by analyzing variations in single nucleotides.
+    A) Mortality
+    B) Volunteer bias
+    C) Fomites
+    D) SNP Mapping
+    E) Vector
+    F) Outbreak
+    G) Herd immunity
+    H) Reservoir
+    I) Zoonotic
+
+[STIMULUS] Define the following terms.
+
+10. [frq, 3 pt] Host Factor
+
+11. [frq, 3 pt] Cluster
+
+12. [frq, 3 pt] Morbidity
+
+13. [frq, 3 pt] Carrier
+
+14. [frq, 3 pt] Holoendemic
+
+[STIMULUS] **Case Study: Malaria**
+
+In 1740 James Lind was working as a ship’s surgeon on the sailing vessel Salisbury. (note: ship’s surgeons were all-around medical staff and did not only perform surgery.) He continued in the naval service and treated sailors for many years. During this time Lind collected data on prevalent ship-board diseases including fevers, scurvy, and malaria. Through analyzing data James began to suspect that diet was a causal factor in scurvy. James retired to Edinburgh in 1748 (the year he earned his medical degree) and set up a medical practice. James went on to a successful and impactful medical career, during which he published A treatise on Scurvy. Much of Lind’s work pulls from his experience and notes as a ship’s surgeon. Lind is famous for producing one of the earliest recorded clinical trials with control and experimental groups, in which some sailors were given citrus fruit and some were given other “cures” for scurvy. Following publication of this work, James began formulating juice concentrates in hopes of making a convenient preventative for scurvy.
+
+Indicate whether the below items are related to the clinical or public health approach:
+
+15. [mcq, 1 pt] Lind treats a sailor for ship’s fever onboard the Salisbury.
+    A) CLINICAL
+    B) PUBLIC HEALTH
+
+17. [mcq, 1 pt] Lind recommends quarantine measures to the captain to prevent additional cases of ship’s fever.
+    A) CLINICAL
+    B) PUBLIC HEALTH
+
+18. [mcq, 1 pt] Lind publishes a report on ship’s fever in which he suggests that sailors not be allowed to visit establishments in port in which ship’s fever is commonly encountered.
+    A) CLINICAL
+    B) PUBLIC HEALTH
+
+19. [mcq, 1 pt] Lind conducts a trial in which half of the sailors with scurvy are given citrus and half of the sailors are given water.
+    A) CLINICAL
+    B) PUBLIC HEALTH
+
+20. [mcq, 1 pt] One of the sailors that was given water is very sick at the conclusion of the experiment. Lind declares the sailor unfit for duty and gives him several limes each day.
+    A) CLINICAL
+    B) PUBLIC HEALTH
+
+21. [mcq, 3 pt] What type of study most closely fits the patient notes James Lind collected
+    A) Experimental
+    B) Descriptive
+    C) Analaytic
+    D) Non-randomized
+
+22. [mcq, 3 pt] What type of study would most closely fit if Lind collated all of his notes on sailors on two different ships without intentionally changing the conditions of either ship?
+    A) Experimental
+    B) Descriptive
+    C) Analytic
+    D) Non-randomized
+
+[STIMULUS] Though James Lind observed and treated cases of malaria, he did not produce a theory of malaria that stood the test of time. In 1906 Camilio Golgi won the Nobel prize for the discovery of the cause of the disease. Golgi’s critical observation: malaria is caused by cell rupture and release of merozoites. Use the passages below (taken from International Journal of Mosquito Research 2020; 7(2): 08-10 and the CDC’s Clinical Features of Malaria) to answer questions about the natural history, spectrum of disease, and chain of infection in malaria.
+
+**International Journal of Mosquito Research 2020; 7(2): 08-10**
+
+The life cycle of Plasmodium is very complicated and begins with an infective stage, where sporozoites are injected into humans by Anopheles and ultimately invade hepatocytes where they undergo exoerythrocytic schizogony (first phase of asexual reproduction) and produce merozoites. These merozoites enter blood and undergo erythrocytic schizogony (second phase of asexual reproduction) resulting in the production of more merozoites.
+
+This process is repeated indefinitely which causes malaria. After this young merozoites develop into male and female gametocytes and are taken up by female Anopheles. In Anopheles these gametocytes mature into male and female gametes and fertilize and produce a motile zygote called ookinete (sporogony). Ookinete penetrates the gut wall and becomes oocyst that further produce sporozoites that migrate to salivary glands of Anopheles and are injected to humans, when the Anopheles bites them. The first evidence of malaria parasite was found in mosquitoes preserved in amber from the Cenozoic era that are approximately 30 million years old.
+
+**Clinical Features of Malaria**
+
+Following the infective bite by the female Anopheles mosquito, a period of time (the "incubation period") goes by before the first symptoms appear in a patient. The incubation period in most cases varies from 7 to 30 days. The shorter periods are most frequently observed with Plasmodium falciparum and the longer ones with Plasmodium malariae.
+
+Antimalarial drugs taken for prophylaxis by travelers are highly effective if taken as prescribed. However, antimalarial prophylaxis occasionally can delay the appearance of malaria symptoms by weeks or months, long after the traveler has left the malaria-endemic area. (This can happen particularly with Plasmodium vivax and Plasmodium ovale, both of which can produce dormant liver stage parasites; the liver stages may reactivate and cause disease months after the infective mosquito bite.)
+
+Progression to severe malaria occurs when infections are complicated by serious organ failures or abnormalities in the patient's blood or metabolism, usually following delays in diagnosis and treatment.
+    [IMAGE: ../images/2025_yellow_jacket_invitational_b_c__p5_9872d9-80665d1b.webp]
+
+24. [frq, 3 pt] Write the Portal of Entry identified for malaria:
+
+27. [frq, 3 pt] A physician diagnoses a patient with malaria. She reports this case to her local health department. What kind of surveillance is this?
+
+[STIMULUS] The case above makes its way to the CDC. Additional reports are found in the geographic region of the first case. An epidemiologist determines that an outbreak of malaria may be in progress. They have determined that the most likely source of the outbreak is a group of American archaeologists recently back from Angola.
+
+28. [mcq, 3 pt] What is the next step in the Public Health Surveillance Process?
+    A) Collecting blood samples from all of the patients diagnosed with malaria.
+    B) Inform health departments, medical practitioners, and the general public about the rise of malaria in the US.
+    C) Provide antimalarial drugs to public health departments in the US to treat cases.
+    D) Use mosquito controlling liquids to reduce the vector threat.
+
+[STIMULUS] The CDC activates a program to collect data on potential malaria cases from New York, Chicago, Dallas, Atlanta, and Los Angeles health departments. These high-travel cities will be used as a way to gauge the possibility of a malaria outbreak in the US.
+
+29. [frq, 3 pt] What type of surveillance is this?
+
+[STIMULUS] **Division C only:** In parts of the world where malaria was prevalent (although improving) and medical access was low, self-diagnosis and treatment with over-the-counter antimalarial drugs was common.
+
+30. [frq, 5 pt] Identify the surveillance method that would be most timely in the above scenario. Provide a 1-2 sentence description of what data will be collected or monitored.
+
+
+=== Part 2 and 3: Outbreak Investigation, Disease Prevention ===
+
+[STIMULUS] Epidemiology combines laboratory results with data science to answer questions about the cause, spread, and risk of various diseases. Use the following tools and data to answer questions.
+
+31. [frq, 5 pt] PFGE results below are from K. pneumoniae isolated from patients. Which sample(s) are from the same strain as sample 3?
+    [IMAGE: ../images/2025_yellow_jacket_invitational_b_c__p8_c8f3e85-2c263ca3.webp]
+
+33. [multi, 5 pt] Which of the following pathogens will be identified in PulseNet? (check all that apply)
+    A) Foodborne Salmonella (bacteria)
+    B) Droplet-transmitted Flu (virus)
+    C) Hospital acquired K. Pneumoniae (bacteria)
+    D) Waterborne Shigella (bacteria)
+    E) Contact spread ringworm (fungus)
+
+[STIMULUS] **Case Study: NATRS**
+
+The National Adenovirus Type Reporting System (NATRS) is a laboratory-based surveillance system in the United States that tracks the circulation of different types of human adenoviruses (HAdVs). A recent report summarizing data from 2017 to 2023 noted a decrease in the number of HAdV specimens reported to NATRS beginning in 2020. The report also highlighted that during the entire surveillance period, six specific HAdV types (1-4, 7, and 14) accounted for the majority (88.3%) of reported cases. Interestingly, 17.0% of all typed specimens were identified as being associated with outbreaks. The report also mentioned a notable increase in reports of HAdV type 41 during 2021-2022, coinciding with a hepatitis cluster.
+
+34. [frq, 5 pt] The MMWR report describes NATRS as a "laboratory-based surveillance system." What type of surveillance is this and what does it primarily rely on for collecting data?
+
+35. [frq, 5 pt] The increase in HAdV type 41 reporting coincided with a hepatitis cluster. Considering the steps in an outbreak investigation, what would be a crucial next step for public health officials upon noticing this correlation?
+
+36. [frq, 5 pt] (Div C) The increase in HAdV type 41 reporting during the hepatitis cluster could be investigated using various epidemiological study designs. Which type of observational study design would be most suitable?
+
+[STIMULUS] The MMWR report on HAdV surveillance noted a clear decline in the number of reported cases to NATRS starting in 2020. This decrease occurred despite evidence of continued HAdV circulation through another surveillance system, the National Respiratory and Enteric Virus Surveillance System. The report suggests that enhanced participation in NATRS is needed to improve the monitoring of circulating HAdV types. It also mentions that a vaccine exists for HAdV types 4 and 7, but it is currently only available for military personnel. The most commonly reported HAdV types during the surveillance period were 1, 2, 3, 4, 7, and 14.
+
+37. [frq, 5 pt] The report suggests "enhanced participation in NATRS is needed." Identify one specific action that could be taken to enhance participation in this passive surveillance system.
+
+38. [frq, 5 pt] The existence of a vaccine for HAdV types 4 and 7 represents which type of disease prevention strategy?
+
+39. [frq, 5 pt] (Div C) The report mentions that the decline in NATRS reporting occurred despite continued circulation evidenced by another system. This discrepancy highlights a potential bias in surveillance data. What type of bias is most likely being described in this scenario?
+
+40. [frq, 10 pt] (Div C) If public health officials wanted to assess the effectiveness of a new hand hygiene campaign in reducing HAdV transmission in a college dormitory, what type of study design would be most appropriate, and briefly explain why? Be as specific as possible.
+
+[STIMULUS] Human adenoviruses are known to spread through various routes, including respiratory droplets, contact with contaminated surfaces (fomites), and the fecal-oral route. While a vaccine exists for types 4 and 7, it does not provide protection against other HAdV types. Furthermore, many HAdV infections result in mild or asymptomatic illness, making it challenging to track the true extent of circulation within a community.
+
+41. [frq, 10 pt] Between 2017 and 2019, a total of 1418 HAdV specimens with typing results were reported. Of these, assume the proportion of outbreak-related cases was the same as the overall proportion for the entire 2017-2023 period (17.0%). Between 2020 and 2023, a total of 823 HAdV specimens with typing results were reported. What is the approximate percentage decrease in the number of reported outbreak-related cases between the two time periods (2017-2019 compared to 2020-2023)?
+
+[STIMULUS] During a specific year, in a college dormitory with 500 residents, there were 25 reported cases of symptomatic HAdV infection. Of those 25 cases, sadly, 1 student with a severely compromised immune system passed away due to complications from the infection. Assume that at the beginning of the year, there were already 5 existing cases of chronic HAdV infection in residents with underlying conditions.
+
+42a. [numeric, 5 pt] Calculate the incidence rate of new symptomatic HAdV infections in this dormitory during the year, expressed per 1,000 residents.
+
+42b. [numeric, 5 pt] Calculate the prevalence of HAdV infection (including both new and existing cases) at the end of the year, expressed per 1,000 residents.
+
+42c. [numeric, 5 pt] Calculate the case fatality rate for symptomatic HAdV infections in this dormitory during the year, expressed as a percentage.
+
+43. [frq, 5 pt] Given that HAdV type 41 was associated with a hepatitis cluster, and considering the known routes of HAdV transmission, which route of transmission is most likely to have played a significant role in the spread of HAdV type 41 in this specific scenario? Explain your reasoning.
+
+[STIMULUS] An outbreak of HAdV occurred at a summer camp. The following epi curve shows the number of new cases reported each day. Camp activities include shared meals, swimming in a lake, and communal living in cabins.
+    [IMAGE: ../images/2025_yellow_jacket_invitational_b_c__p13_943b29-17f1cf90.webp]
+
+44. [frq, 5 pt] Assuming a single point source of exposure, and considering the shape of the epi curve, what is the most likely range for the incubation period of this HAdV outbreak? Explain your reasoning.
+
+45. [frq, 5 pt] (Div C) If investigators were trying to determine the source of the HAdV type 41 outbreak within a community, describe two specific environmental sampling methods they might employ to gather evidence.
+
+46. [frq, 10 pt] Investigators are studying the association between attending communal meals in the summer camp and the development of HAdV infection. Using the Bradford Hill criteria for causation, discuss how the criteria of strength of association and plausibility could be used to evaluate the potential causal link between attending communal meals and HAdV infection, while acknowledging the potential role of age as a confounder as older campers might have different immune responses or communal eating habits.
+
+47. [frq, 10 pt] Imagine a new, more easily transmissible variant of HAdV emerges. Describe two distinct public health interventions, beyond vaccination, that could be implemented in a community setting to slow the spread of this new variant. For each intervention, briefly explain how it disrupts the chain of infection.

@@ -1,0 +1,171 @@
+University of Michigan — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  48 questions, 147.5 pts
+Source: scio.ly test archive id a037ec4e-3374-4693-a476-067a99e2e518  |  original files: https://drive.google.com/drive/folders/1opJIb9sX7t-axUD5yxDY0eIhMO72ezCs
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: Test length: 50 Minutes
+
+
+=== VOCAB ===
+
+P1-1. [frq, 1 pt] An individual becomes infected with hepatitis B and later transmits the disease to another individual. The individual is a
+
+P1-2. [frq, 1 pt] Legionnaires disease is a type of pneumonia that is caught by inhaling Legionella bacteria from water and soil. The water and soil that contain bacteria is an example of a
+
+P1-3. [frq, 1 pt] Legionella is found in freshwater and even in human water systems. One way to prevent Legionnaires disease is to maintain clean waterways. What stage of disease prevention is this?
+
+P1-4. [frq, 1 pt] An infected person coughs on a door handle, thereby transmitting their disease to others. The door handle is an example of a:
+
+P1-5. [frq, 1 pt] An infected person first came into contact with a disease three days ago, but has only been able to transmit the disease to others now. What is this three-day period called?
+
+P1-6. [frq, 1 pt] A group of researchers prepare a study in order to find the exposure of a rare disease. They compare those that have the disease to those who don't. What type of study is this?
+
+P1-7. [frq, 1 pt] Another group of researchers decided to study the prevalence of influenza in a community and reach out to those who were hospitalized, most of whom are senior citizens. What type of bias does this study suffer from?
+
+P1-8. [frq, 1 pt] What type of study should researchers perform in order to make causal inferences?
+
+P1-9. [frq, 1 pt] An infected animal passes a disease to a human. This would be an example of what type of disease?
+
+P1-10. [frq, 1 pt] Doctors in an area are reporting a large number of patients coming in with symptoms of salmonella infections when they usually don't see any. This is an:
+
+
+=== Short Answer ===
+
+P2-1. [frq, 2 pt] Which epidemiologist is credited for tracing an outbreak of cholera in London to a water pump?
+
+P2-2. [frq, 2 pt] At which stage of disease progression would we see pathological changes in an affected individual?
+
+P2-3. [frq, 2 pt] Who standardized public health surveillance methods?
+
+P2-4. [frq, 7.5 pt] Organize these options depending on whether they increase or decrease prevalence.
+    Longer duration of disease
+    Improved diagnostic facilities
+    High case-fatality rate from disease
+    Out-migration of healthy people
+    Prolongation of life of patients without cure
+    In-migration of healthy people
+    In-migration of cases
+    Increase in new cases
+    In-migration of susceptible people
+    Out-migration of cases
+    Shorter duration of disease
+    Decrease in new cases
+    Improved cure rate of cases
+
+P2-5. [frq, 2 pt] List four measures of population health in a community.
+
+P2-6. [frq, 2 pt] A hospital saw 61 cases of E.coli poisoning over the course of two days. The infected people had eaten at the same Chipotle 3-10 days before they reported feeling sick. Which type of epidemic spread could be used to describe the situation?
+
+
+=== Page 4 ===
+
+P3-1. [frq, 6 pt] List three differences between public and clinical approaches
+
+P3-2. [frq, 6 pt] In a study on lung cancer risk, the mortality rate for lung cancer was .05 per 1000 people per year among nonsmokers. However, the mortality rate among individuals who smoked 5-10 cigarettes per day was .93 per 1000 people per year. Calculate the attributable risk for this data. Show your calculations, and explain the meaning of the attributable risk in context of this problem.
+
+
+=== Page 5 ===
+
+[STIMULUS] In 2016, 28,616 cases of ebola were reported and 11,310 deaths were reported in Guinea, Liberia, and Sierra Leone.
+
+P4-4a. [frq, 2 pt] What is the fatality rate of ebola based on this case?
+
+P4-4b. [frq, 2 pt] A year later, scientists discover that the reported numbers of deaths were lower than they actually are because of a counting error on the program used to record deaths. What type of error is this and why is it dangerous?
+
+P4-4c. [frq, 2 pt] Does this error increase or decrease the fatality rate?
+
+P4-5. [frq, 4 pt] The use of e-cigarettes has gone up among teenagers. Which approach (population or high-risk) would work best as a prevention strategy and why? Give two specific examples of strategies you could take with the approach you chose that would help mitigate teenage e cigarette use.
+
+P4-6. [frq, 6 pt] Describe the 6 links of the chain of infection for SARS-CoV-2.
+
+
+=== Page 6 ===
+
+P5-7. [frq, 4 pt] Explain two differences between descriptive and analytic epidemiology.
+
+[STIMULUS] |  | Disease | No Disease |
+|---|---|---|
+| Test Positive | 26 | 4 |
+| Test Negative | 5 | 35 |
+
+P5-8. [frq, 4 pt] Calculate the negative predictive value for this data and explain its meaning.
+
+P5-9. [frq, 4 pt] Calculate the sensitivity for this data and explain its meaning.
+
+P5-10. [frq, 4 pt] Identify which Bradford Hill Criterion establishes causality. What does it entail and why is it so integral to the idea of causality?
+
+
+=== Case Study 1 ===
+
+[STIMULUS] Researchers at Columbia University studied the correlation between levels of loneliness and increased frequency of substance use. 210 participants were recruited over a three-year period from a medical center in New York and completed a questionnaire about their habits three separate times during the course of the study.
+
+https://www.sciencedirect.com/science/article/abs/pii/S0306460321003002?via%3Dihub
+    [IMAGE: ../images/2022_university_of_michigan_c__p7_efdf93-ba382b3a.webp]
+
+P6-1. [frq, 4 pt] Based on the data, which variable, identifying as hispanic, gender (male vs female), or employment status, was most highly associated with feelings of loneliness? Show the calculations that led you to your answer.
+
+P6-2. [frq, 6 pt] Explain the purpose of the p value. What does it tell you about the data and the results? Which variable was slightly more likely due to chance and why?
+
+P6-3. [frq, 4 pt] Use the proper calculation to determine the association between feelings of loneliness and depression in the past two weeks and analyze your result.
+
+P6-4. [frq, 4 pt] Explain two potential sources of bias in this study and what type of bias each one is.
+
+P6-5. [frq, 2 pt] Explain one confounding variable that could have affected the results of this study.
+
+
+=== Case Study 2 ===
+
+[STIMULUS] Scientists are investigating an outbreak of cholera that occurred in an Indian homeless shelter in 2010 to identify risk factors of the illness. Patients experienced symptoms of watery stool, lower-abdominal pain, and vomiting. 40 individuals drank from a water tube connected to a pond and 39 of them experienced cholera symptoms. 21 individuals did not drink this water, but 12 of them also experienced symptoms. Labs have confirmed that everyone with symptoms did in fact contract cholera.
+
+P7-1. [frq, 4 pt] What type of study is this? What is a benefit and limitation of this study design?
+
+P7-2. [frq, 4 pt] Construct a case definition for this outbreak.
+
+P7-3. [frq, 4 pt] Develop a hypothesis for how this outbreak may have begun and explain it in terms of the epidemiological chain of transmission triad.
+
+P7-4. [frq, 2 pt] Calculate the odds ratio.
+
+P7-5. [frq, 6 pt] Explain this outbreak in terms of the Bradford Hill Criteria.
+
+[STIMULUS] Fill in the chart and calculate the attack rate for each demographic.
+    | Age group (yrs) | Number of cases | Number of residents | Attack Rate |
+    | 0-4 | 5 | 5 | [[q:P7-6-1]] |
+    | 5-14 | 30 | 34 | [[q:P7-6-2]] |
+    | 15-29 | 48 | 49 | [[q:P7-6-3]] |
+    | 30-44 | 6 | 11 | [[q:P7-6-4]] |
+    | 45-59 | 2 | 2 | [[q:P7-6-5]] |
+    | Overall | 91 | 101 | [[q:P7-6-6]] |
+
+P7-6-1. [numeric, 1 pt] Row: 0-4 - Attack Rate
+
+P7-6-2. [numeric, 1 pt] Row: 5-14 - Attack Rate
+
+P7-6-3. [numeric, 1 pt] Row: 15-29 - Attack Rate
+
+P7-6-4. [numeric, 1 pt] Row: 30-44 - Attack Rate
+
+P7-6-5. [numeric, 1 pt] Row: 45-59 - Attack Rate
+
+P7-6-6. [numeric, 1 pt] Row: Overall - Attack Rate
+
+P7-6. [frq, 8 pt] What do the attack rates tell you about the cholera outbreak?
+
+[STIMULUS] | Date of Onset (May 2010) | Incidence |
+|---|---|
+| 8 | 10 |
+| 9 | 6 |
+| 10 | 7 |
+| 11 | 152 |
+| 12 | 48 |
+| 13 | 2 |
+| 14 | 0 |
+| 15 | 2 |
+| 16 | 1 |
+| 17 | 2 |
+
+P7-7. [frq, 8 pt] Construct an epi curve based on this data and explain the type of outbreak.
+
+P7-8. [frq, 6 pt] Explain primary, secondary, and tertiary types of prevention regarding cholera in high risk regions such as the village in India.
+
+P7-9. [frq, 4 pt] Explain active and passive surveillance. Which one of these would be most appropriate for this outbreak and why?
+
+P7-10. [frq, 4 pt] What are two immediate control measures that could be used in this outbreak? Give two examples of how you could prevent outbreaks in the future.

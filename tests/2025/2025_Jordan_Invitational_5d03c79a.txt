@@ -1,0 +1,524 @@
+Jordan Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  73 questions, 131.0 pts
+Source: scio.ly test archive id 5d03c79a-b5ec-4bdb-929d-f60fce4c26b6  |  original files: https://drive.google.com/drive/folders/1qJGqTUQy5wRe15NDxyrTcWCCBBJJKtHA
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: Partial credit will be awarded, so attempt as many questions as you can!
+
+Please round all calculations to 3 decimal places.
+
+
+=== Section A: History and Background ===
+
+[STIMULUS] Match the following vocabulary terms to their definitions. Not all terms will be used. 1 point will be awarded per question
+
+a. Passive Surveillance
+b. Pathogenicity
+c. Latency Period
+d. Mortality
+e. Syndromic Surveillance
+f. Attack Rate
+g. Incidence
+h. Continuous Common Source Epidemic
+i. Prevalence
+j. Cohort Study
+k. Active Surveillance
+l. Case Fatality Rate
+m. Sentinel Surveillance
+n. Cross-Sectional Study
+o. Virulence
+p. Morbidity
+q. Point Source Epidemic
+r. Index Case
+s. Ecological Study
+t. Propagated Epidemic
+
+1. [mcq, 1 pt] The occurrence of new cases of a disease in a population over a defined period.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+2. [mcq, 1 pt] A snapshot study that assesses disease and exposure status at a single point in time.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+3. [mcq, 1 pt] The proportion of individuals who die from a disease among all diagnosed cases.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+4. [mcq, 1 pt] An outbreak with multiple waves of cases, typically due to person-to-person transmission.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+5. [mcq, 1 pt] The ability of an infectious agent to establish disease after entering a host.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+6. [mcq, 1 pt] Surveillance involving regular reports from select groups for monitoring specific conditions.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+7. [mcq, 1 pt] The rate of illness within a population, without necessarily resulting in death.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+8. [mcq, 1 pt] A study comparing populations with shared characteristics rather than individual cases.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+9. [mcq, 1 pt] The initial identified case in an outbreak, used to trace the source and spread of disease.
+    A) Passive Surveillance
+    B) Pathogenicity
+    C) Latency Period
+    D) Mortality
+    E) Syndromic Surveillance
+    F) Attack Rate
+    G) Incidence
+    H) Continuous Common Source Epidemic
+    I) Prevalence
+    J) Cohort Study
+    K) Active Surveillance
+    L) Case Fatality Rate
+    M) Sentinel Surveillance
+    N) Cross-Sectional Study
+    O) Virulence
+    P) Morbidity
+    Q) Point Source Epidemic
+    R) Index Case
+    S) Ecological Study
+    T) Propagated Epidemic
+
+10. [mcq, 1 pt] Who is the father of modern bacteriology?
+    A) William Farr
+    B) Robert Koch
+    C) John Snow
+    D) Louis Pasteur
+
+11. [frq, 2 pt] Describe Sir Edwin Chadwick's contributions to epidemiology
+
+12. [mcq, 1 pt] What disease was involved in the first experiment to use treated control groups?
+    A) Scurvy
+    B) Polio
+    C) Plague
+    D) Cholera
+
+13. [frq, 4 pt] Order the following historical epidemiological events from oldest to most recent:
+    a. Fluoride supplements are added to public water supplies in randomized community trials
+    b. John Gaunt publishes a landmark analysis of mortality data
+    c. John Snow forms and tests hypothesis on the origin of cholera in London
+    d. Robert Koch publishes his postulates to identify whether a specific microorganism is the causative agent of a disease
+
+14. [frq, 4 pt] Explain the difference between eradicated and eliminated diseases and provide an example for both
+
+15. [frq, 3 pt] Explain why some may argue that destroying all lab samples of smallpox and therefore causing its extinction may not be a good option
+
+16. [mcq, 1 pt] What term best describes people that can transmit disease after they have been infected but before they develop symptoms?
+    A) Asymptomatic
+    B) Incubatory
+    C) Transient
+    D) Genetic
+
+17. [mcq, 1 pt] Which surveillance method typically has the highest cost?
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+
+=== Section B: Love is in the Air ===
+
+[STIMULUS] You are a junior epidemiologist investigating a recent outbreak of an unknown upper respiratory infection at Jordan High School that began on February 18th. First, let's gain a basic understanding of respiratory illness.
+
+18. [mcq, 1 pt] What is the maximum size of an airborne particle?
+    A) 5 micrometers
+    B) 1 millimeter
+    C) 2 microns
+    D) 7 centimeters
+
+19. [frq, 4 pt] Explain two ways in which airborne particles increase the contagiousness of a respiratory illness.
+
+20. [frq, 3 pt] List 3 ways of reducing the spread of respiratory illness
+
+21. [frq, 1 pt] What is the most common upper respiratory infection?
+
+22. [tf, 1 pt] Lower respiratory infections are usually more dangerous than upper respiratory infections
+    A) True
+    B) False
+
+23. [frq, 4 pt] Now that we have established some knowledge of respiratory illness, we can start the outbreak investigation. Below is a case definition created for this outbreak. Unfortunately, there are some errors. Please correct them:
+    
+    Students at Jordan High School who are experiencing symptoms of upper respiratory infections, such as congestion, sore throat, stomach ache, starting on February 18th.
+
+24. [frq, 1 pt] Once we have collected enough data, how should we organize the information for each case, including date of onset, symptoms, and lab confirmation?
+
+25. [multi, 2 pt] Below is a line listing for this outbreak. Which cases should be excluded from our outbreak investigation?
+    
+    | Case Number | Date of Onset | Gender | Age | Symptoms |
+    |---|---|---|---|---|
+    | 1 | 2/16 | M | 16 | Sneezing, nasal congestion, mild sore throat |
+    | 2 | 2/18 | M | 14 | Runny nose, postnasal drip, dry cough |
+    | 3 | 2/19 | F | 17 | Headache, mild fever, vomiting |
+    | 4 | 2/20 | M | 18 | Nasal congestion, facial pressure, thick nasal discharge |
+    | 5 | 2/20 | F | 18 | Sore throat, swollen lymph nodes, headache |
+    | 6 | 2/20 | F | 16 | Dry, scratchy throat, occasional sneezing, fatigue |
+    A) 1
+    B) 2
+    C) 3
+    D) 4
+    E) 5
+    F) 6
+
+26. [numeric, 3 pt] If we assume all cases in the line listing were exposed to infection on 2/14, what is the average incubation period for these cases? Remember to remove the cases that do not belong in this outbreak investigation from your calculations.
+
+27. [frq, 3 pt] If we were to graph the cases from this outbreak (there are more cases than just those on the line listing), what type of epi-curve would we expect to see and why?
+
+28. [frq, 3 pt] To prevent the further spread of this outbreak with minimal impact on the school, would we utilize isolation or quarantine strategies? Explain your answer
+
+29. [mcq, 1 pt] Would isolation and quarantine strategies be best classified as part of a public health approach or clinical health approach to epidemiology?
+    A) Public health
+    B) Clinical health
+
+30. [frq, 2 pt] After laboratory testing, it was found that the agent for this outbreak was H5N1, or avian influenza. Why is elimination of influenza not practical?
+
+31. [frq, 3 pt] Given that avian flu originated in birds and was then transmitted to humans, what kind of disease is H5N1? Why is this kind of disease especially dangerous towards humans?
+
+32. [frq, 3 pt] List two possible ways avian flu could have originally been transmitted to humans.
+
+
+=== Section C: Making a Splash ===
+
+[STIMULUS] In preparation for the upcoming summer, the local splash pad and water park has opened for business. After all, it never gets very cold in Texas. However, recently many of the kids who played at the splash pad have presented with symptoms of watery diarrhea. Mysteriously, most of the parents were left unaffected. Laboratory analysis confirmed the presence of Cryptosporidium, a parasite that causes cryptosporidiosis in humans. Cryptosporidiosis spreads through water contaminated with infected feces.
+
+33. [frq, 4 pt] Create a chain of infection for this outbreak.
+
+34. [frq, 1 pt] How are pools treated to resist most infections?
+
+35. [tf, 1 pt] True or False: Improving regulations on pool treatments to reduce infections is part of a clinical health approach.
+    A) True
+    B) False
+
+36. [mcq, 1 pt] What level of prevention would anti-diarrheal medicine be considered?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+37. [mcq, 1 pt] What stage of the spectrum of disease would someone who swam in a contaminated pool but has not started experiencing symptoms fall in?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery, Disability, or Death
+
+38. [frq, 3 pt] Explain why cases of cryptosporidiosis may be underreported.
+
+[STIMULUS] Epidemiologists are now trying to decide whether playing in the splashpad led to cryptosporidiosis. To do so, they contacted the parents of children that had played in the splashpad as well as those who did not and interviewed them about their current symptoms. Below is a contingency table showing the results of these interviews.
+    |  | Played in the splashpad | Did not play in the splashpad |
+    | Symptoms of cryptosporidiosis | 72 | 30 |
+    | No symptoms of cryptosporidiosis | 40 | 82 |
+
+39. [frq, 1 pt] What kind of epidemiological study is this? Be as specific as possible.
+
+40. [frq, 4 pt] List 2 advantages and 2 disadvantages of this kind of study.
+
+42. [tf, 1 pt] True or False: Relative risk best suits this kind of epidemiological study.
+    A) True
+    B) False
+
+45. [frq, 2 pt] Why is the odds ratio an overestimate of relative risk for splashpad exposure?
+
+[STIMULUS] Cryptosporidiosis can be detected through laboratory analysis or antigen tests of stool samples. One such test conducted during laboratory analysis is acid-fast staining. For the sake of this outbreak, assume that acid-fast staining is the gold standard for cryptosporidiosis testing.
+
+46. [frq, 2 pt] What is a gold standard for disease testing?
+
+47. [frq, 3 pt] Scientists conduct a study to determine the effectiveness of a new antigen test. What are some advantages of antigen tests over laboratory analysis tests such as acid-fast staining? Name 2.
+
+[STIMULUS] Scientists tested several subjects, those infected with cryptosporidiosis and those who are not, with both tests, and recorded the data in the following table.
+    |  | Acid-fast Positive | Acid-fast Negative |
+    | Antigen Positive | 132 | 40 |
+    | Antigen Negative | 38 | 721 |
+
+49. [frq, 3 pt] If the effects of cryptosporidiosis are mild, and treating it is expensive, would we prioritize a higher PPV or NPV? Explain.
+
+50. [mcq, 0.5 pt] How will positive predictive value change when prevalence increases?
+    A) Increase
+    B) Decrease
+    C) No change
+
+51. [mcq, 0.5 pt] How will negative predictive value change when prevalence increases?
+    A) Increase
+    B) Decrease
+    C) No change
+
+52. [mcq, 0.5 pt] How will sensitivity change when prevalence increases?
+    A) Increase
+    B) Decrease
+    C) No change
+
+53. [mcq, 0.5 pt] How will specificity change when prevalence increases?
+    A) Increase
+    B) Decrease
+    C) No change
+
+
+=== Section D: A Puddle of Trouble ===
+
+[STIMULUS] In the rural county of Willow Creek, public health officials noticed an unusual increase in reported cases of Legionnaires' disease during the months of July and August 2023. Typically, the county sees only a handful of cases per year, but during this period, 35 cases were reported. Legionnaires' disease, a severe form of pneumonia caused by Legionella bacteria, is often associated with contaminated water sources.
+
+Recognizing the potential for a localized outbreak, the Willow Creek Health Department initiated an investigation. A "case" was defined as any resident of Willow Creek County with laboratory-confirmed Legionnaires' disease diagnosed between July 1 and August 31, 2023. Through hospital records and physician reporting, 35 cases were identified. To identify potential risk factors, a case-control study was designed. Two controls were selected for each case, totaling 70 controls.
+
+Preliminary data analysis indicated that a significantly higher proportion of cases reported spending time in a newly opened community hot tub facility compared to controls. Further testing of the hot tub water showed high levels of Legionella bacteria. 20 of the cases had reported spending time in the new hot tub facility and 30 of the controls had reported spending time in the new hot tub facility.
+
+54. [mcq, 1 pt] What potential bias is associated with cases and controls remembering past exposures differently?
+    A) Selection bias
+    B) Confounding bias
+    C) Recall bias
+    D) Information bias
+
+56. [mcq, 1 pt] What is the primary statistical measure used to assess association in a case-control study?
+    A) Relative risk
+    B) Odds ratio
+    C) Incidence rate
+    D) Prevalence
+
+57. [numeric, 2 pt] Calculate the statistical measure in your previous answer and show your work. Round your answer to 3 decimal places
+
+59. [frq, 2 pt] What term describes the type of study where the exposure and outcome have already occurred before the study begins?
+
+60. [frq, 2 pt] If the researchers discovered that a large number of the people who used the hot tub also frequently used a specific brand of aromatherapy oils, what additional type of analysis should they perform to discern the true cause?
+
+61. [mcq, 1 pt] When conducting a case-control study within a defined population, the source population must be carefully considered. Which of the following is the most critical requirement for the source population?
+    A) It should be representative of the general population.
+    B) It should be easily accessible for data collection.
+    C) It should give rise to the cases in the study.
+    D) It should consist of individuals with similar socioeconomic status.
+
+62. [mcq, 1 pt] In a matched case-control study, the matching criteria can sometimes lead to overmatching. What is the primary consequence of overmatching?
+    A) Increased risk of confounding.
+    B) Decreased statistical power.
+    C) Increased susceptibility to recall bias.
+    D) Introduction of selection bias.
+
+
+=== Section E: A Dabble (or more) of Statistics ===
+
+63. [frq, 2 pt] In the sufficient-component cause model, what does a complete pie mean?
+
+64. [mcq, 2 pt] In the below example of a sufficient component cause model, identify the necessary cause.
+    [IMAGE: ../images/2025_jordan_invitational_b_c__p16_116e2e-d38cb98b.webp]
+    A) A
+    B) B
+    C) C
+    D) J
+
+65. [frq, 3 pt] How is a cause that is found in every pie for a condition important to efforts dedicated to preventing the condition from occurring?
+
+66. [frq, 1 pt] Who first introduced the sufficient component cause model?
+
+[STIMULUS] Epidemiologists often use directed acyclic graphs (DAGs) to demonstrate causal relationships between different variables when determining the cause of a disease. For questions 67 and 68, match each of the following terms with their descriptions as they would be seen in a DAG.
+
+67. [mcq, 1 pt] Arrows pointing from one node to the next, all in the same direction
+    A) Confounder
+    B) Mediator
+    C) Effect Modifier
+    D) Collider
+    E) Causal path
+
+68. [mcq, 1 pt] A node that has one arrow pointing towards the exposure and one towards the outcome
+    A) Confounder
+    B) Mediator
+    C) Effect Modifier
+    D) Collider
+    E) Causal path
+
+69. [frq, 1 pt] In the directed acyclic graph shown with question 70 (below), what is the exposure?
+
+70. [frq, 2 pt] We would like to measure the total causal effect of tooth loss on mortality. However, confounding variables create biasing paths in the directed acyclic graph that obscure the total causal effect. Identify a confounding variable on the effect of tooth loss on mortality.
+    [IMAGE: ../images/2025_jordan_invitational_b_c__p17_20a687-f312e4d7.webp]
+
+72. [mcq, 1 pt] Which of the following is NOT a causal path in this directed acyclic graph?
+    A) Tooth loss to mortality
+    B) Obesity to periodontitis to tooth loss
+    C) Alcohol to hypertension to mortality
+    D) Hypertension to obesity to mortality
+
+73. [frq, 3 pt] Why must directed graphs used for epidemiology be acyclic?
+
+[STIMULUS] A statistical model epidemiologists use to track the progress of disease outbreaks is the SIR model. This model separates the population into 3 distinct groups: susceptible, infected, and recovered. They are often represented as a line chart with several lines (as shown below) or as a flowchart.
+    [IMAGE: ../images/2025_jordan_invitational_b_c__p19_7dd0f1-bc87efe5.webp]
+
+74. [mcq, 1 pt] One of the lines approximately passes the point time=100 days, y=0.85. Which group does this line represent?
+    A) Susceptible
+    B) Infected
+    C) Recovered
+    D) None of the above
+
+75. [mcq, 2 pt] Approximate which day saw the most new cases.
+    A) Day 20
+    B) Day 40
+    C) Day 60
+    D) Day 80
+
+76. [frq, 2 pt] Name one assumption the SIR model makes about the population and disease transmission.
+
+[STIMULUS] Below is an example flowchart for an SIR diagram, in which β and ℽ are constants that describe the rate of transfer between susceptible, infected, and recovered populations.
+
+S, I, and R are variables that represent the proportion of the population that belong to the Susceptible, Infected, and Recovered populations, respectively.
+
+The rate of change of S = -β SI
+The rate of change of R = ℽ I
+    [IMAGE: ../images/2025_jordan_invitational_b_c__p20_847873-e5198af5.webp]
+
+77. [frq, 3 pt] What is the rate of change of I?
+
+78. [frq, 2 pt] Write an expression for the basic reproductive number at the beginning of the outbreak in terms of S_o (the initial susceptible population), β, and ℽ .
+
+79. [frq, 2 pt] Explain what the basic reproductive number indicates.
+
+80. [multi, 2 pt] Let's say that we wanted to add a group, Exposed, and variable, E that corresponds to a group of people that used to be susceptible, were exposed to someone, but have not yet developed symptoms. Let us assume that everyone in the Exposed group will eventually develop symptoms. The expressions for the rates of change of which variables need to be changed? Select all.
+    A) S
+    B) I
+    C) R
+    D) None need to be changed

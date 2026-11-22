@@ -1,0 +1,403 @@
+Rickards Invitational — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  90 questions, 145.5 pts
+Source: scio.ly test archive id 241701b9-67af-4238-8f8a-d3356525eb0b  |  original files: https://drive.google.com/drive/folders/1V1gDkieyuCFoAHqggnvPB8BlP8ciGnVH
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+1. [mcq, 1 pt] Which of the following best represents a secular trend?
+    A) Declining syphilis rates after antibiotics were introduced in the 1940s
+    B) Rising obesity prevalence across all U.S. adult age groups from 1980 to 2020
+    C) Higher gastric cancer risk in people born before refrigeration was common
+    D) Increased lung cancer only among men born in the 1930s who smoked
+
+3. [mcq, 1 pt] Which of the following biases is most likely when hospital controls are used in a case-control study?
+    A) Recall bias
+    B) Berkson’s bias
+    C) Selection bias due to non-response
+    D) Surveillance bias
+
+4. [mcq, 1 pt] A screening test that identifies true negatives very accurately but misses many true positives has:
+    A) High sensitivity, high specificity
+    B) High sensitivity, low specificity
+    C) Low sensitivity, high specificity
+    D) Low sensitivity, low specificity
+
+5. [mcq, 1 pt] Which of the following scenarios demonstrates differential misclassification?
+    A) Both cases and controls inaccurately recall their past diet
+    B) Only cases with a disease are more likely to misreport past exposures
+    C) Laboratory test occasionally fails to detect an infection equally in both groups
+    D) Random undercounting of cases during surveillance
+
+6. [mcq, 1 pt] A sentinel surveillance system is most useful for:
+    A) Measuring the exact incidence of a disease
+    B) Detecting rare adverse events after vaccine rollout
+    C) Rapid outbreak detection with full population coverage
+    D) Capturing all cases of notifiable diseases
+
+7. [mcq, 1 pt] Which study design allows a participant to serve as their own control?
+    A) Case-control study
+    B) Case-crossover study
+    C) Prospective cohort study
+    D) Ecological study
+
+8. [mcq, 1 pt] Which Bradford Hill criterion is best supported when multiple studies in different populations consistently find the same exposure-disease relationship?
+    A) Specificity
+    B) Consistency
+    C) Temporality
+    D) Coherence
+
+9. [mcq, 1 pt] Which of the following is an example of a continuous common source outbreak?
+    A) Multiple norovirus cases after a cruise ship dinner
+    B) Cholera from a contaminated city water supply over several weeks
+    C) Influenza spreading person-to-person at a school
+    D) Lead poisoning from a one-time community exposure
+
+10. [mcq, 1 pt] Which prevention level is illustrated by HIV antiretroviral therapy to reduce viral load and slow progression of disease?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+11. [mcq, 1 pt] The “healthy worker effect” usually causes:
+    A) Overestimation of occupational risk
+    B) Underestimation of occupational risk
+    C) Equal estimation of risk compared to the general population
+    D) Overmatching in occupational studies
+
+12. [mcq, 1 pt] Which concept is best represented by the iceberg phenomenon?
+    A) Spectrum of disease
+    B) Chain of infection
+    C) Reservoir dynamics
+    D) Agent-host-environment interaction
+
+13. [mcq, 1 pt] Which case control study design tries to get rid of confounding without randomization?
+    A) Nested case-control
+    B) Case cohort
+    C) Matched case control
+    D) Case crossover
+
+14. [mcq, 1 pt] The time between exposure and first infectiousness (not symptoms) is called:
+    A) Incubation period
+    B) Latent period
+    C) Serial interval
+    D) Generation time
+
+15. [mcq, 1 pt] Which of the following is not a core step in an outbreak investigation?
+    A) Verify diagnosis
+    B) Construct the epidemic curve
+    C) Develop policy legislation
+    D) Establish case definition
+
+16. [mcq, 1 pt] Which bias occurs if patients who know their exposure status are more likely to report illness symptoms?
+    A) Observer bias
+    B) Neyman's Bias
+    C) Surveillance bias
+    D) Information bias
+
+17. [mcq, 1 pt] Which of the following public health agencies is not typically considered a direct public health authority in the U.S.?
+    A) CDC
+    B) FDA
+    C) FTC
+    D) NIH
+
+18. [mcq, 1 pt] Which concept is illustrated when a diagnostic test is performed in a high-prevalence setting, resulting in a higher positive predictive value?
+    A) Spectrum bias
+    B) Bayes’ theorem
+    C) Overdiagnosis bias
+    D) Detection bias
+
+19. [mcq, 1 pt] Which of the following is least aligned with the definition of One Health?
+    A) Human-animal-environment connections
+    B) Vector control to reduce malaria transmission
+    C) Economic incentives for pharmaceutical development
+    D) Reducing antimicrobial resistance in livestock
+
+20. [mcq, 1 pt] In surveillance, the process of “data interpretation” comes immediately after:
+    A) Data dissemination
+    B) Data collection
+    C) Link to action
+    D) Hypothesis testing
+
+21. [mcq, 1 pt] Which of the following represents overmatching in a case-control study of foodborne illness?
+    A) Matching cases and controls on age to reduce confounding
+    B) Matching on food consumption
+    C) Randomly selecting community controls
+    D) Matching on demographic characteristics
+
+22. [frq, 2 pt] Define lead time bias and provide an example involving an infectious disease.
+
+23. [frq, 3 pt] Compare and contrast passive and active surveillance in terms of cost, coverage, and timeliness. Give one situation where each would be optimal.
+
+24. [frq, 3 pt] The concept of the spectrum of disease explains differences in outcomes for the same pathogen. Provide one example each for a mild, subclinical, and severe presentation of a single disease.
+
+25. [frq, 2 pt] Explain how misclassification of exposure can bias results differently if it is non-differential vs differential.
+
+26. [frq, 2 pt] Describe the iceberg phenomenon using hepatitis B as an example. What does this imply for control measures?
+
+27. [frq, 2 pt] Using the epidemiologic triad, explain how vector control affects malaria transmission differently from human prophylaxis.
+
+28. [frq, 1 pt] A researcher designs a case-control study for lung cancer but matches controls to cases on smoking status. Why is this a methodological flaw?
+
+29. [frq, 3 pt] Define confounding and describe one strategy to control for it in both the design and analysis phases of a study.
+
+30. [frq, 2 pt] Explain how syndromic surveillance could detect an outbreak of a novel respiratory pathogen earlier than laboratory-based surveillance. What are its tradeoffs?
+
+31. [frq, 13 pt] List all 13 Steps of Outbreak Investigation
+
+32. [frq, 1 pt] What is the Hippocratic Oath?
+
+[STIMULUS] U.S. Air Force basic training takes place at Joint Base San Antonio-Lackland in San Antonio, Texas. Trainees are organized into rolling military units averaging 900 entering and graduating trainees per week, with each unit further divided into groups of approximately 52 trainees. Trainees are assigned to specific dormitories, which typically house 50–60 persons, sleeping in beds that alternate head directions, creating a foot-to-head orientation in the bay. Trainees arrive weekly and undergo a standardized 7.5-week basic military training (BMT) curriculum organized by week of training, resulting in training activities and associated exposures that are typically consistent for each class.
+
+To prevent invasive meningococcal and streptococcal disease outbreaks, all trainees receive quadrivalent meningococcal (Menveo) vaccine within 72 hours of arrival and a single dose of penicillin G benzathine injectable suspension, respectively, within 7 days of arrival (1). Penicillin allergic trainees receive weekly oral azithromycin to prevent streptococcal disease during BMT.
+
+In February 2025, two cases of Neisseria meningitidis bacterial conjunctivitis were identified in otherwise healthy basic military trainees at Joint Base San Antonio-Lackland in San Antonio, Texas; an investigation was conducted to identify the source of the outbreak and to make treatment recommendations. Ultimately, 41 cases of N. meningitidis conjunctivitis and 32 cases of Haemophilus species conjunctivitis were identified among 11,797 trainees.
+
+People spread meningococcal bacteria to others by sharing respiratory and throat secretions (saliva or spit). Generally, it takes close or lengthy contact to spread the bacteria.
+
+The 41 confirmed cases of N. meningitidis conjunctivitis occurred in trainees in 37 unique BMT groups. During this period, men constituted 78% of the BMT population but accounted for 90% of the N. meningitidis cases. Among trainees with confirmed N. meningitidis conjunctivitis, 33 (80%) reported an antecedent upper respiratory infection, 27 people had cough, and 22 people had a sore throat. Overall, 35 (85%) patients had unilateral eye involvement.
+
+**Assume all confirmed cases are actual cases.**
+
+33. [frq, 1 pt] Give a possible reason why men are 90% of the cases, but 78% of the population, with no assumptions on meningitidis.
+
+34. [frq, 1.5 pt] Give three ways in which this population is not representative of the US.
+
+35. [frq, 2 pt] Give a case definition for this outbreak.
+
+36. [frq, 2 pt] Should case definitions be sensitive or specific? Why?
+
+[STIMULUS] Using the Air Force basic training meningitis passage above, assume 1/47 of all trainees have a cough. Calculate the sensitivity and specificity of the case definition, “a trainee within the time period who has a cough”.
+    | Label | Answer |
+    | Sens Sensitivity | [[q:37-a]] |
+    | Spec Specificity | [[q:37-b]] |
+
+37-a. [frq, 1 pt] Label Sens Sensitivity
+
+37-b. [frq, 1 pt] Label Spec Specificity
+
+38. [frq, 1 pt] Why doesn’t everyone who is confirmed have the antecedent upper respiratory infection?
+
+39. [frq, 2 pt] What level(s) of prevention are conducted within the military base?
+
+40. [frq, 2 pt] Name the above procedure, and give an example of another situation where it is used.
+
+41. [frq, 2 pt] If possible, calculate the effectiveness (not efficacy) of the Menveo vaccine. If not, explain why.
+
+42. [frq, 2 pt] Give a risk factor for the soldiers, as presented in the article, and give a suggestion on how to mitigate it reasonably.
+
+43. [frq, 2 pt] Give a way to implement your suggestion that would not be costly.
+
+[STIMULUS] Assume that everyone has an equal probability as everyone else of contracting disease given an exposure, and everybody has an equal level of exposure to the disease. Assume further the disease has no incubation period.
+
+44. [frq, 2 pt] What is the SIR model? Explain what S, I, and R stand for, and explain the parameters needed for the model.
+
+45. [frq, 2.5 pt] Give five limitations of the SIR model.
+
+46. [frq, 1 pt] The SIR model is a “compartamental” model. Explain what this means.
+
+47. [frq, 2 pt] Can the SIR model be used to completely model this outbreak? If not, why not? (we will not make you calculate the parameters)
+
+[STIMULUS] The following is pulled from the same case study.
+
+“Whole genome sequencing of isolates from the first two cases suggested that the organism was unencapsulated (nongroupable) and that the cases were related.”
+
+48. [frq, 2 pt] How do we copy DNA in order to do whole genome sequencing? Give some detail into this process.
+
+49. [frq, 2 pt] Why is the step above needed?
+
+50. [frq, 2 pt] How does the use of whole genome sequencing here align with the idea of PulseNet?
+
+[STIMULUS] On February 5, 2025, a case of N. meningitidis bacterial conjunctivitis was identified in an otherwise healthy BMT trainee who had experienced 2 days of mucopurulent ocular discharge; the trainee had no known exposure to N. meningitidis. Although the symptoms initially suggested viral conjunctivitis, the copious unilateral discharge led the health care provider to culture the exudate, which was positive for N. meningitidis 6 days later.
+
+Microbial isolates were tested and identified by Vitek 2 (bioMerieux). On February 21, a second trainee (from a different training unit) was also evaluated for unilateral copious mucopurulent ocular discharge associated with periocular edema without corneal involvement.
+
+The culture of the exudate from this trainee’s eye was positive for N. meningitidis, raising concern about potential cases of invasive meningococcal disease. An investigation was initiated to identify additional cases, determine the risk for invasive meningococcal disease, and describe the patients and evaluate their response to treatment.
+
+51. [frq, 1 pt] Name a step of outbreak investigation performed above.
+
+[STIMULUS] A (completely made up) table of results is shown below. Assume the Gold Standard has a 97% PPV and 98% NPV.
+    |  | Gold Standard Positive | Gold Standard Negative |
+    | Videk 2 Positive | 900 | 30 |
+    | Videk 2 Negative | 100 | 470 |
+
+52. [frq, 1 pt] Give a difference between the pairs of sensitivity / specificity and PPV / NPV. Define and use the term “Intrinsic Property” in your answer.
+
+53. [frq, 1 pt] Give an example of a “good” test having a “bad” PPV / NPV.
+
+56. [frq, 1 pt] Define series and parallel testing. What happens to the sensitivity and specificity of the result if we do two gold standard tests in parallel? What if we conduct it in series? (Do not calculate, just tell us the direction of change)
+
+[STIMULUS] Suppose that the epidemiologists trace back all the cases, and find out that many of the cases are linked back to a certain place. Suppose further that this place is my house.
+
+Consider the following table that I made up.
+
+|  | Got Meningitis | Did not get meningitis |
+|---|---|---|
+| Went to my house | 600 | 50 |
+| Did not go to my house | 80 | 4 |
+
+(My house is very spacious.)
+
+61. [frq, 1 pt] Calculate an appropriate measure of association between getting meningitis and going to my house.
+
+62. [frq, 1 pt] What type of study was performed?
+
+63. [frq, 3 pt] Can you perform a Chi-Square test on these results?
+    If YES, calculate the appropriate statistic and come to an appropriate conclusion (p=0.05, critical value = 3.841). Name the appropriate Chi-Square test.
+    If NO, give an explanation as to why. Furthermore, name a test that could be used instead (do not calculate the statistic).
+
+64. [mcq, 1 pt] Who is credited with first shifting explanations of disease from supernatural causes to rational observation?
+    A) Hippocrates
+    B) Virchow
+    C) Jenner
+    D) Koch
+
+65. [mcq, 1 pt] John Graunt’s analysis of mortality bills in London is significant because it:
+    A) Introduced randomization in trials
+    B) Created early population-level statistics
+    C) Demonstrated germ theory
+    D) Proved the effectiveness of inoculation
+
+66. [mcq, 1 pt] Who introduced smallpox inoculation to Britain after learning the practice in Turkey?
+    A) Louis Pasteur
+    B) Lady Mary Wortley Montagu
+    C) Alexander Fleming
+    D) Edward Jenner
+
+67. [mcq, 1 pt] James Lind’s experiments on sailors suffering from scurvy were notable because they:
+    A) Involved concurrently treated control groups
+    B) Applied Koch’s postulates to diet
+    C) Used Gram staining
+    D) Focused on mosquito-borne disease
+
+69. [mcq, 1 pt] In what year did the first official English translation of Graunt’s Natural and Political Observations Made upon the Bills of Mortality appear?
+    A) 1662
+    B) 1665
+    C) 1676
+    D) 1681
+
+70. [mcq, 1 pt] What was the title of James Lind’s published work where he described his scurvy experiments?
+    A) The Nature and Cure of the Scurvy
+    B) Treatise of the Scurvy
+    C) Observations on the Naval's Medicine
+    D) Observations of the Scurvy
+
+71. [mcq, 1 pt] Edward Jenner was elected to which scientific society in recognition of his vaccination research?
+    A) The Royal Society
+    B) The Royal College of Physicians
+    C) The Linnean Society
+    D) The Edinburgh Medical Society
+
+[STIMULUS] There is an outbreak of Rickardsitis disease, and you have been assigned to investigate. To learn more about Rickardsitis, you look at past epidemiology studies on the disease. The data below is taken from a small town (population size 250) where there were 185 new cases of Rickardsitis over November. A pharmaceutical company called Invitationals Incorporated has developed a test to detect Rickardsitis. Here are the results of the evaluation study.
+
+|  | Invitationals Inc Positive | Invitationals Inc Negative |
+|---|---|---|
+| Tested positive | 125 | 60 |
+| Tested negative | 20 | 45 |
+
+
+
+76. [frq, 2 pt] Should the CDC use the test?
+
+77. [frq, 1 pt] How would one aim to improve the sensitivity of the test?
+
+[STIMULUS] Huzzah! Invitationals Inc. has also crafted a vaccine for Rickardsitis, to ensure that it works they ran a trial with some getting a vaccine dose others getting a placebo with the result below
+
+|  | Got Disease | Did not get disease |
+|---|---|---|
+| Took Vaccine | 20 | 105 |
+| Did Not Take | 45 | 85 |
+
+78. [mcq, 1 pt] What type of immunity are Vaccines?
+    A) Active Immunity
+    B) Passive Immunity
+
+79. [mcq, 1 pt] What about the type of Prevention?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quartenary
+
+80. [frq, 2 pt] Calculate the Vaccine Efficiency.
+
+[STIMULUS] For Rickardsitis, the transmissivity is .5, amount of people contacted per day on average is 25, and an individual on average is infected for 3 days.
+
+81. [numeric, 1 pt] Given this Information calculate R0
+
+[STIMULUS] The following case study is completely made up, any resemblance to real life figures or events is coincidental.
+
+Dr. Imogen Vale, a senior field epidemiologist at the Department of Environmental Health, was called to investigate an unusual rise in chronic fatigue and skin irritation among urban gardeners in Brookmere City. The condition, later termed Blight Fever, presented with mild fevers, weakness, and a faintly luminescent rash visible under UV light. Concern escalated when local physicians noticed a pattern: nearly all affected gardeners worked in one of three community greenhouses that had recently switched to a new soil additive called EcoBloom X, designed to improve soil nitrogen retention.
+
+To determine whether EcoBloom X was linked to Blight Fever, Dr. Vale and her team identified all active gardeners in the three greenhouses and recorded whether they had developed Blight Fever within three months of EcoBloom X’s introduction. They also measured each gardener’s level of exposure to the additive, categorizing them as high, medium, or low exposure based on hours spent handling treated soil. A blood test was later developed to detect a biomarker called BF-α, suspected to be associated with the illness.
+
+Dr. Vale’s team followed gardeners, observing who developed Blight Fever over time while documenting their baseline exposures and environmental factors such as greenhouse ventilation and humidity. Participants were contacted biweekly for symptom monitoring and lab testing. While this design provided valuable incidence data, the project required significant logistical coordination and funding, and many participants dropped out midway, citing time constraints and fatigue.
+
+Here are two tables you will need
+
+Table 1: Ecobloom x Exposure and Incidence of Blight Fever
+
+| Exposure Level | Blight Fever Cases | Non Cases | Total |
+|---|---|---|---|
+| High Exposure | 90 | 110 | 200 |
+| Medium Exposure | 55 | 165 | 220 |
+| Low Exposure | 12 | 168 | 180 |
+
+Table 2: BF-α Diagnostic Test Results Compared to Clinical Diagnosis
+
+| Test Result | Blight Fever + | Blight Fever - | Total |
+|---|---|---|---|
+| Positive | 82 | 18 | 100 |
+| Negative | 28 | 472 | 500 |
+| Total | 110 | 490 | 600 |
+
+83. [frq, 3 pt] Create a case definition for blight fever
+
+84. [frq, 4 pt] What type of epidemiological study is this (be specific)? Explain why and provide at least one advantage and one disadvantage of using this study design for an outbreak like this.
+
+85a. [numeric, 1 pt] Using table 1 calculate the attack rate for High Exposure.
+
+85c. [numeric, 1 pt] Using table 1 calculate the attack rate for Medium Exposure.
+
+86a. [frq, 1 pt] Calculate Relative Risk for High v. Low Exposure and interpret its result.
+
+86b. [frq, 1 pt] Calculate Relative Risk for Medium v. Low Exposure and interpret its result.
+
+87. [numeric, 1 pt] Compute the absolute risk difference (ARD) between the high and low exposure groups.
+
+88. [frq, 3 pt] Construct a 2×2 table for high exposure vs. low exposure and calculate the odds ratio (OR). Compare it to your RR result and explain why the two values may differ. (For scilympiad purposes you can format answer as A (top left) : #, B (top right) : #, etc or format it as shown below)
+    
+    a b
+    c d
+
+[STIMULUS] Calculate the following using Table 2 (BF-α Diagnostic Test Results) from the Blight Fever passage above:
+    | Label | Answer |
+    | Sensitivity | [[q:89-a]] |
+    | Specificity | [[q:89-b]] |
+    | PPV | [[q:89-c]] |
+    | NPV | [[q:89-d]] |
+
+89-a. [frq, 0.5 pt] Sensitivity
+
+89-b. [frq, 0.5 pt] Specificity
+
+89-c. [frq, 0.5 pt] PPV
+
+89-d. [frq, 0.5 pt] NPV
+
+90. [frq, 2 pt] Recalculate PPV and NPV assuming true disease prevalence of 5% and 20%. Explain how changes in prevalence affect the interpretation of a test's usefulness.
+
+91. [frq, 2 pt] Compute Likelihood Ratios (LR), LR+ and LR– for the BF-α test and interpret what each value implies about the diagnostic power of the test.
+
+92. [mcq, 1 pt] Identify whether ventilation is a confounder, mediator, or collider.
+    A) Confounder
+    B) Mediator
+    C) Collider
+
+93. [frq, 2 pt] Explain how failing to adjust for it could bias the results.
+
+94. [frq, 1.5 pt] If clinical diagnosis sensitivity = 0.9 and specificity = 0.95, adjust your observed attack rates for misclassification and recompute the corrected RR for high vs. low exposure.
+
+95. [frq, 6 pt] Discuss potential sources of selection bias, information bias, and loss to follow-up bias in this investigation. Suggest how each could be minimized.
+
+96. [mcq, 1 pt] Would an active or passive surveillance system be better suited to monitor Blight Fever cases in Brookmere moving forward?
+    A) Active
+    B) Passive
+
+97. [frq, 2 pt] Name one advantage and one disadvantage to your chosen surveillance system (no points will be awarded if the answer for the previous question is incorrect)

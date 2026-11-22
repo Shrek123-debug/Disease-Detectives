@@ -1,0 +1,363 @@
+Princeton Invitational — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  67 questions, 139.0 pts
+Source: scio.ly test archive id 6651fbff-8301-497d-8e3b-d82952d10f76  |  original files: https://www.dropbox.com/sh/p35i0qco8zx1nvk/AABswKuwfYMeBfVsrIPRg4F8a?dl=0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 4
+
+DIRECTIONS: This exam comprises 40 multiple-select, fill-in-the-blank, calculation, and short answer questions. Partial credit will be granted for any question worth more than one point. For fill-in-the-blank questions, capitalization will NOT be considered. For answers involving letters (e.g., A, B, C), do NOT include the period. Points values are denoted next to each question and part number.
+
+
+=== Part 1: Background and Surveillance ===
+
+P1-1. [frq, 2 pt] John Snow is known as the father of field epidemiology. His investigation of cholera was one of the first studies in ____ epidemiology and is considered a model for including a ____ map.
+
+[STIMULUS] Below is the Natural History of Disease Timeline. Write the appropriate state of pathologic change that occurs at each time point according to its appropriate letter.
+    [IMAGE: ../images/2022_princeton_invitational_c__p3_4e3407-c18173d8.webp]
+    | Label | Answer |
+    | A | [[q:P1-2-A]] |
+    | B | [[q:P1-2-B]] |
+    | C | [[q:P1-2-C]] |
+    | D | [[q:P1-2-D]] |
+
+P1-2-A. [frq, 1 pt] Label A
+
+P1-2-B. [frq, 1 pt] Label B
+
+P1-2-C. [frq, 1 pt] Label C
+
+P1-2-D. [frq, 1 pt] Label D
+
+[STIMULUS] Fill in the blank.
+
+The stage of subclinical disease is usually called the ____ period for infectious diseases, while it is called the ____ period for chronic diseases. During this period, the disease is known to be ____.
+
+P1-3-1. [frq, 1 pt] Blank 1: The stage of subclinical disease is usually called the ____ period for infectious diseases, while it is called the (…) period for chronic diseases. During this period, the disease is known to be (…).
+
+P1-3-2. [frq, 1 pt] Blank 2: The stage of subclinical disease is usually called the (…) period for infectious diseases, while it is called the ____ period for chronic diseases. During this period, the disease is known to be (…).
+
+P1-3-3. [frq, 1 pt] Blank 3: The stage of subclinical disease is usually called the (…) period for infectious diseases, while it is called the (…) period for chronic diseases. During this period, the disease is known to be ____.
+
+[STIMULUS] It is said that there must be these six links to be present and in the correct order in order for an infection to happen.
+    | Label | Answer |
+    | **P1-4.** List the six links in the correct sequential order, and provide one brief sentence explaining each link. |  |
+    | 1 | [[q:P1-4-1]] |
+    | 2 | [[q:P1-4-2]] |
+    | 3 | [[q:P1-4-3]] |
+    | 4 | [[q:P1-4-4]] |
+    | 5 | [[q:P1-4-5]] |
+    | 6 | [[q:P1-4-6]] |
+
+P1-4-1. [frq, 2 pt] Label 1
+
+P1-4-2. [frq, 2 pt] Label 2
+
+P1-4-3. [frq, 2 pt] Label 3
+
+P1-4-4. [frq, 2 pt] Label 4
+
+P1-4-5. [frq, 2 pt] Label 5
+
+P1-4-6. [frq, 2 pt] Label 6
+
+P1-5. [frq, 1 pt] Blood, secretions, and skin are examples of what link number from question 4?
+
+P1-6. [frq, 2 pt] What is the difference between the primary roles of Clinical Approach and Public Health Approach?
+
+[STIMULUS] World health efforts are working towards eradicating the polio virus after successfully eradicating smallpox. WPV (wild polio virus) is known to have three distinct serotypes, and two of those serotypes have been successfully eradicated.
+
+P1-7. [frq, 1 pt] Which type of WPV remains endemic in some countries?
+
+P1-8a. [frq, 3 pt] In hopes to eradicate polio, the GPEI was established in 1988 which has been funded by WHO, CDC, UNICEF, and other organizations.
+    
+    What does the GPEI acronym stand for? Name two of the four pillars of eradication of the GPEI.
+
+P1-8b. [frq, 1 pt] In hopes to eradicate polio, the GPEI was established in 1988 which has been funded by WHO, CDC, UNICEF, and other organizations.
+    
+    What kind of vaccine has been pivotal in the efforts of eradicating the polio vaccine?
+
+P1-9. [frq, 2 pt] List four of the ten public health issues that were labeled as the most important by the CDC.
+
+P1-10. [frq, 3 pt] What are the three types of disease agents?
+
+P1-11. [frq, 1 pt] Which type of epidemiological study records whether the subject of study has been exposed or not to the disease and then follows whether the subject has appeared to be infected by the disease?
+
+P1-12. [frq, 1 pt] Hospital admittance records are an example of what kind of surveillance?
+
+P1-13. [frq, 6 pt] What are the three terms which are used to describe an infectious disease depending on the different types of result that may happen after being exposed to a causative agent? What are the definitions for each of the three terms?
+
+P1-14. [frq, 5 pt] What are the five steps of the process of surveillance?
+
+[STIMULUS] Match each term to its definition.
+
+a. Vector
+b. Zoonosis
+c. Fomite
+
+____ A physical object which serves to transmit an infectious agent from person to person
+____ An intermediate in the indirect transmission of an agent from the reservoir to a susceptible host
+____ An infectious disease that is transmitted from animals to humans
+
+P1-15. [matching, 3 pt] Match each term to its definition.
+    - Vector  <->  A physical object which serves to transmit an infectious agent from person to person
+    - Zoonosis  <->  An infectious disease that is transmitted from animals to humans
+    - Fomite  <->  An intermediate in the indirect transmission of an agent from the reservoir to a susceptible host
+
+
+=== Part 2A: Case Study 1 – 'Malaria Mystery' ===
+
+[STIMULUS] On July 7, 2021, the New Jersey Department of Health confirmed a case of malaria. The patient had travel history outside the United States, and it was found that the patient's family members were experiencing similar symptoms of chills, fever, fatigue, and headache. A week later, the New Jersey Department of Health received reports of more people who had symptoms that resembled that of malaria. It was discovered that a commonality between the group of people is that they recently traveled to Nigeria for either a business or vacation trip. The first person who came back to the US among the group of people who were infected with malaria was on July 1, 2021.
+
+P2-15. [frq, 2 pt] What type of infectious disease is malaria? What is the genus of the microorganism which causes malaria?
+
+P2-16. [frq, 4 pt] Create a working case definition for this outbreak.
+
+[STIMULUS] Table 1: Pertinent information of New Jersey individuals infected with malaria
+
+Person #1
+Initial: JW
+Date Onset: 7/12
+Diagnosis: Malaria
+Symptoms: headache, fever, chill
+Age: 24
+Sex: M
+Traveled to Nigeria
+
+Person #2
+Initial: SY
+Date Onset: 7/10
+Diagnosis: Malaria
+Symptoms: headache, chill, fatigue
+Age: 42
+Sex: F
+Traveled to Nigeria
+
+Person #3
+Initial: YH
+Date Onset: 7/11
+Diagnosis: Malaria
+Symptoms: headache, chill, fever
+Age: 31
+Sex: M
+Traveled to Nigeria
+
+Person #4
+Initial: KM
+Date Onset: 7/8
+Diagnosis: Malaria
+Symptoms: headache, fever
+Age: 38
+Sex: F
+Traveled to Nigeria
+
+Person #5
+Initial: JA
+Date Onset: 7/13
+Diagnosis: Malaria
+Symptoms: fever, chill
+Age: 44
+Sex: M
+Traveled to Nigeria
+    [IMAGE: ../images/2022_princeton_invitational_c__p8_vba7c63-08888b94.webp]
+
+P2-17. [frq, 6 pt] With the information provided above, create a line listing for this case. Type it below, one row per case.
+
+[STIMULUS] 
+873 RDT tests were ordered, but only 197 were laboratory positive cases of malaria. The New Jersey Department of Health was concerned about possible false negatives, so they decided to determine the RDT validity against the standard test which was used to diagnose malaria. Results were as follows:
+
+Table 2: Results of RDT Validity against standard malaria test
+
+| | Standard Test Positive | Standard Test Negative |
+|---|---|---|
+| RDT Positive | 186 | 53 |
+| RDT Negative | 11 | 623 |
+
+P2-18. [frq, 2 pt] Calculate RDT sensitivity. Show your work for full credit. Make sure to answer in **percentages**, and round to the **hundredth place**.
+
+P2-19. [frq, 2 pt] Calculate RDT specificity. Show your work for full credit. Make sure to answer in **percentages**, and round to the **hundredth place**.
+
+P2-20. [frq, 4 pt] List the Bradford Hill Criteria.
+
+
+=== Part 2B: Case Study 2 – The 'Princeton Plague' ===
+
+[STIMULUS] Ahhh… the Fall Semester at Princeton is in full swing. The leaves are beginning to change, the Freshman are finally able to get to their classes without Google Maps, and the McCosh Health Center is seeing an influx in complaints of a sickness that mirrors COVID-19 symptoms. Uh-oh! The campus, somewhat desolate over the last 18-months, is beginning to become rife with palpable school spirit once again. However, students, many of whom have not engaged in normal instruction in over a year, are experiencing low fever, chills, sore throat, headache, and a phlegmy cough that lingers around weeks after initial sickness is over. Each of these cases also involves students who test negative for COVID-19 under Princeton University's Testing Protocol. These cases are flooding University Health Services, who are already dealing with the COVID-19 pandemic, so they are enlisting the help of external epidemiologists to help curb this elusive virus. That means you!
+
+In order to determine the severity of the outbreak you surveyed students at five of the most popular areas for students to congregate. You interviewed 500 students in total, 100 at each location. 223 students had the disease. You ask the affected students when they started feeling sick and where they think they may have gotten sick. After interviewing students, you come to the conclusion that every affected student has interacted in these spaces for a significant amount of time. From this data, you developed a graph:
+    [IMAGE: ../images/2022_princeton_invitational_c__p10_9fc178-239eda91.webp]
+
+P3-21. [frq, 2 pt] What kind of graph is this called and what type of outbreak does it represent?
+
+P3-22a. [frq, 1 pt] The incubation period for the "Princeton Plague" is 24 - 96 hours. With this information and the graph, answer the following: On what date is the index case?
+
+P3-22b. [frq, 1 pt] The incubation period for the "Princeton Plague" is 24 - 96 hours. With this information and the graph, answer the following:
+    
+    On what date is the peak of the outbreak?
+
+P3-22c. [frq, 2 pt] The incubation period for the "Princeton Plague" is 24 - 96 hours. With this information and the graph, answer the following:
+    
+    When is the most likely period of exposure?
+
+[STIMULUS] Using the data received in your interviews, you develop a table in order to determine the risk at each specific location.
+
+Table 3: Diseased vs. non-diseased individuals at each 5 different locations in Princeton University.
+
+| **Location** | **Diseased Individuals** | **Non-diseased Individuals** |
+|---|---|---|
+| Prospect Street (Eating Clubs) | 88 | 12 |
+| Frist Campus Center Dining Facility | 37 | 63 |
+| Firestone Library | 15 | 85 |
+| Chancellor's Green Café | 18 | 82 |
+| Wawa | 65 | 35 |
+
+P3-24b. [frq, 2 pt] Calculate the risk for each location. Show all necessary work and round your answer to the nearest hundredth, or 2 decimal places. Please, no fractions.
+    
+    Frist Campus Center Dining Facility:
+
+P3-24c. [frq, 2 pt] Calculate the risk for each location. Show all necessary work and round your answer to the nearest hundredth, or 2 decimal places. Please, no fractions.
+    
+    Firestone Library:
+
+P3-24d. [frq, 2 pt] Calculate the risk for each location. Show all necessary work and round your answer to the nearest hundredth, or 2 decimal places. Please, no fractions.
+    
+    Chancellor's Green:
+
+P3-24e. [frq, 2 pt] Calculate the risk for each location. Show all necessary work and round your answer to the nearest hundredth, or 2 decimal places. Please, no fractions.
+    
+    Wawa:
+
+P3-25. [frq, 2 pt] Based on the risk at each location in Table 3 (including Prospect Street), briefly explain in 1-2 sentences which location is the most likely source of the outbreak.
+
+P3-26. [frq, 2 pt] You find out that in Firestone Library, Chancellor's Green, and Frist Campus Center there are mask-mandates being enforced by the University. How could this enforcement affect the data represented in Table 3?
+
+[STIMULUS] Congratulations! You learned more about the intricacies of this virus that is 'plaguing' the Princeton community and found that certain locations were more prone to virus transmission. The University wants you to produce a statement to the student-body, educating them on how to prevent future outbreaks of this virus.
+
+P3-27. [multi, 1 pt] Which of the following is a possible route of transmission of the 'Princeton Plague?'
+    A) Blood
+    B) Direct contact
+    C) Fecal oral
+    D) Sexual
+    E) Respiratory
+
+P3-28. [frq, 2 pt] Provide 2 methods that the student-body can employ to prevent future outbreaks.
+
+
+=== Part 3: Patterns, Controls, and Prevention ===
+
+[STIMULUS] For each of the following situations, identify which term it reflects.
+
+a. Sporadic disease
+b. Endemic disease
+c. Hyperendemic disease
+d. Pandemic disease
+e. Epidemic disease
+
+____ 22 cases of legionellosis occurred within 3 weeks among residents of a particular neighborhood (usually 0 or 1 per year)
+____ Average annual incidence was 364 cases of pulmonary tuberculosis per 100,000 population in one area, compared with national average of 134 cases per 100,000 population
+____ Over 20 million people worldwide died from influenza in 1918-1919
+____ Single case of histoplasmosis was diagnosed in a community
+____ About 60 cases of gonorrhea are usually reported in this region per week, slightly less than the national average
+
+P4-29a. [mcq, 1 pt] 22 cases of legionellosis occurred within 3 weeks among residents of a particular neighborhood (usually 0 or 1 per year)
+    A) Sporadic disease
+    B) Endemic disease
+    C) Hyperendemic disease
+    D) Pandemic disease
+    E) Epidemic disease
+
+P4-29b. [mcq, 1 pt] Average annual incidence was 364 cases of pulmonary tuberculosis per 100,000 population in one area, compared with national average of 134 cases per 100,000 population
+    A) Sporadic disease
+    B) Endemic disease
+    C) Hyperendemic disease
+    D) Pandemic disease
+    E) Epidemic disease
+
+P4-29c. [mcq, 1 pt] Over 20 million people worldwide died from influenza in 1918-1919
+    A) Sporadic disease
+    B) Endemic disease
+    C) Hyperendemic disease
+    D) Pandemic disease
+    E) Epidemic disease
+
+P4-29d. [mcq, 1 pt] Single case of histoplasmosis was diagnosed in a community
+    A) Sporadic disease
+    B) Endemic disease
+    C) Hyperendemic disease
+    D) Pandemic disease
+    E) Epidemic disease
+
+P4-29e. [mcq, 1 pt] About 60 cases of gonorrhea are usually reported in this region per week, slightly less than the national average
+    A) Sporadic disease
+    B) Endemic disease
+    C) Hyperendemic disease
+    D) Pandemic disease
+    E) Epidemic disease
+
+[STIMULUS] For each of the following situations, identify the type of epidemic spread with which it is most consistent.
+
+a. Point source
+b. Intermittent or continuous common source
+c. Propagated
+
+____ COVID-19 is spread from person to person through direct contact and respiratory droplets.
+
+
+
+P4-30a. [mcq, 1 pt] COVID-19 is spread from person to person through direct contact and respiratory droplets.
+    A) Point source
+    B) Intermittent or continuous common source
+    C) Propagated
+
+[STIMULUS] The following graph is adapted from UT Austin's Invitational Science Olympiad in 2018
+
+**Outbreak-Associated Confirmed Cases of S. enteritidis Infection in New Jersey (2021)**
+    [IMAGE: ../images/2022_princeton_invitational_c__p15_1a3651-ff9b5f63.webp]
+
+P4-31. [frq, 3 pt] Define incubation period. If the incubation period of S. enteritidis Infection is 1-3 days, what are two possible dates that the first infected individual could have been exposed?
+
+P4-32. [frq, 1 pt] What name do epidemiologists call the above graph?
+
+P4-33. [frq, 2 pt] On what day was the index case of the outbreak? The peak?
+
+P4-34a. [frq, 2 pt] In 1-2 sentences each, briefly explain how the graph: Provides clues about the pattern of disease spread
+
+P4-34b. [frq, 2 pt] Identifies outliers
+
+P4-34c. [frq, 2 pt] Deduces a probable time of exposure
+
+[STIMULUS] 
+
+Between September 1 and September 30, 2021, Tiger Treats shipped 250,000 gallons of ice cream in New Jersey. 78 of 452 persons who had eaten Tiger Treats ice cream reported having diarrhea and fever or chills. None (0) of 89 persons who had not eaten Tiger Treats ice cream reported having diarrhea and fever or chills.
+
+P4-35. [frq, 4 pt] Calculate the percentage of persons that became ill (attack rate). Round your final answer to the nearest hundredth, or 2 decimal places.
+
+P4-36. [frq, 2 pt] 250,000 gallons of Tiger Treats ice cream was distributed in New Jersey from September 1 to September 30. Epidemiologists determined that on average 4.1 persons consumed each gallon of ice cream.
+    
+    How many New Jersey residents consumed Tiger Treats ice cream?
+
+P4-37. [frq, 3 pt] Using the attack rate in question 35, how many New Jersey residents do you estimate became ill after eating Tiger Treats ice cream shipped between September 1 and September 30?
+
+P4-38. [frq, 4 pt] Approximately 92% of the ice cream produced by Tiger Treats during the outbreak was distributed outside of New Jersey. How many people do you estimate developed illness nationwide?
+
+[STIMULUS] Explain what each type of prevention entails, and who is affected. Provide an example for each type of prevention strategy.
+
+Think back to the types of prevention strategies: Primordial Prevention, Primary Prevention, Secondary Prevention, and Tertiary Prevention.
+
+P4-39a. [frq, 2 pt] Primordial Prevention:
+
+P4-39b. [frq, 2 pt] Primary Prevention:
+
+P4-39c. [frq, 2 pt] Secondary Prevention:
+
+P4-39d. [frq, 2 pt] Tertiary Prevention:
+
+[STIMULUS] Recall the Types of Control Strategies and Breaking the Agent/Host/Environment Triad: Control Methods regarding the Reservoir of Infection, Control Methods regarding the Mode of Transmission, and Control Methods regarding the Susceptible Host.
+
+P4-40a. [frq, 3 pt] Jennifer and Alicia are two Princeton students that attend an Eating Club party on December 5th. 3 days later, they test positive for COVID-19 under the University's testing protocol. According to regulations, they have to isolate themselves for 10 days in order to prevent transmission to other people. Jennifer isolated for 10 days and took precautions to prevent the spread of COVID-19 by washing her hands, wearing her mask, and limiting contact until her period of isolation was up. Alicia isolated for eight days, in which she was symptomatic, before sneaking out to have a 20 minute unmasked conversation with her boyfriend on her ninth day.
+    
+    Read each situation carefully and assign each one with an aforementioned control method type. In addition, explain in 1 to 2 sentences if the situation represents an effective control strategy and why.
+
+P4-40b. [frq, 3 pt] When Quinn finds out that his friends Jennifer and Alicia are forced into isolation during Reading Week and Finals, he is determined to be proactive and prevent himself from catching COVID-19. He receives his Pfizer COVID-19 booster vaccine on December 9th, wears his mask, and limits his exposure to high-risk COVID-19 "hotspots" such as parties and in-person events. Furthermore, he is a healthy young adult with no preexisting conditions or comorbidities.
+    
+    Read each situation carefully and assign each one with an aforementioned control method type. In addition, explain in 1 to 2 sentences if the situation represents an effective control strategy and why.
+
+P4-40c. [frq, 3 pt] Jennifer's roommate Amna is concerned that there is a possibility that she might catch COVID-19 from Jennifer, due to their three-day period of correspondence between the party and the beginning of Jennifer's isolation. Despite her negative test results, Anika frequently sanitizes her dorm, especially Jennifer's area. She is consistently masked and always washes her hands. She uses multi-purpose cleaner and bleach to disinfect surfaces in the dorm.
+    
+    Read each situation carefully and assign each one with an aforementioned control method type. In addition, explain in 1 to 2 sentences if the situation represents an effective control strategy and why.

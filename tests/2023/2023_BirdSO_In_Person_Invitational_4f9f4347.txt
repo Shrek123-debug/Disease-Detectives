@@ -1,0 +1,1233 @@
+BirdSO In-Person Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  84 questions, 200.0 pts
+Source: scio.ly test archive id 4f9f4347-7bcc-437f-8ac9-6cd820fe9f39  |  original files: https://drive.google.com/drive/folders/1UDWmwNkkoBw1X4tQ6-MX6yD2K59xs-G_
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 29
+
+
+=== Part 1. Vocab ===
+
+[STIMULUS] **Match the following vocab words to their definitions. All vocab words will be used exactly once.**
+
+- Analytic epidemiology
+- Attack rate
+- Asymptomatic
+- Bias
+- Biological transmission
+- Carrier
+- Case
+- Case-control study
+- Case-fatality rate
+- Chain of infection
+- Common source outbreak
+- Confidence interval
+- Cumulative frequency
+- Droplet nuclei
+- Droplet spread
+- Epidemic
+- Experimental study
+- Herd immunity
+- Incidence rate
+- Incubation period
+- Infectivity
+- Latency period
+- Morbidity
+- Nominal scale
+- Observational study
+- Odds ratio
+- Ordinal scale
+- Prevalence
+- Propagated outbreak
+- Positive predictive value
+- Proportionate mortality
+- Relative risk
+- Reservoir
+- Secondary attack rate
+- Validity
+
+1. [mcq, 1 pt] ____ In epidemiology, a countable instance in the population or study group of a particular disease, health disorder, or condition under investigation.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+3. [mcq, 1 pt] ____ A range of values for a variable of interest, e.g., a rate, constructed so that this range has a specified probability of including the true value of the variable.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+4. [mcq, 1 pt] ____ The occurrence of more cases of disease than expected in a given area or among a specific group of people over a particular period of time.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+5. [mcq, 1 pt] ____ A person or animal without apparent disease who harbors a specific infectious agent and is capable of transmitting the agent to others.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+7. [mcq, 1 pt] ____ The proportion of persons with a particular condition (cases) who die from that condition.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+8. [mcq, 1 pt] ____ Classification into unordered qualitative categories; e.g., race, religion, and country of birth as measurements of individual attributes are purely nominal scales, as there is no inherent order to their categories.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+9. [mcq, 1 pt] ____ The residue of dried droplets that may remain suspended in the air for long periods, may be blown over great distances, and are easily inhaled into the lungs and exhaled.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+10. [mcq, 1 pt] ____ A process that begins when an agent leaves its reservoir or host through a portal of exit, and is conveyed by some mode of transmission, then enters through an appropriate portal of entry to infect a susceptible host.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+11. [mcq, 1 pt] ____ The aspect of epidemiology concerned with the search for health-related causes and effects. Uses comparison groups, which provide baseline data, to quantify the association between exposures and outcomes, and test hypotheses about causal relationships.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+12. [mcq, 1 pt] ____ An outbreak that results from a group of persons being exposed to a common noxious influence, such as an infectious agent or toxin.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+16. [mcq, 1 pt] ____ The direct transmission of an infectious agent from a reservoir to a susceptible host by spray with relatively large, short-ranged aerosols produced by sneezing, coughing, or talking.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+17. [mcq, 1 pt] ____ A study in which the investigator specifies the exposure category for each individual or community, then follows the individuals or community to detect the effects of the exposure.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+18. [mcq, 1 pt] ____ The proportion of persons exposed to a causative agent who become infected by an infectious disease.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+19. [mcq, 1 pt] ____ The resistance of a group to invasion and spread of an infectious agent, based on the resistance to infection of a high proportion of individual members of the group.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+20. [mcq, 1 pt] ____ A measure of the frequency with which an event, such as a new case of illness, occurs in a population over a period of time.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+21. [mcq, 1 pt] ____ The number or proportion of cases or events with a particular value or in a particular class interval, plus the total number or proportion of cases or events with smaller values of the variable.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+22. [mcq, 1 pt] ____ Not exhibiting symptoms of a disease.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+25. [mcq, 1 pt] ____ A variant of an incident rate, applied to a narrowly defined population observed for a limited period of time, such as during an epidemic.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+26. [mcq, 1 pt] ____ A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of chronic disease.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+27. [mcq, 1 pt] ____ Epidemiological study in situations where nature is allowed to take its course. Changes or differences in one characteristic are studied in relation to changes or differences in others, without the intervention of the investigator.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+28. [mcq, 1 pt] ____ A type of observational analytic study. Enrollment into the study is based on presence or absence of disease.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+29. [mcq, 1 pt] ____ A measure of association which quantifies the relationship between an exposure and health outcome from a comparative study; also known as the cross-product ratio.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+32. [mcq, 1 pt] ____ Any departure, subjective or objective, from a state of physiological or psychological well-being.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+33. [mcq, 1 pt] ____ The indirect vector-borne transmission of an infectious agent in which the agent undergoes biologic changes within the vector before being transmitted to a new host.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+35. [mcq, 1 pt] ____ A period of subclinical or inapparent pathologic changes following exposure, ending with the onset of symptoms of infectious disease.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+36. [mcq, 1 pt] ____ Deviation of results or inferences from the truth, or processes leading to such systematic deviation. Any trend in the collection, analysis, interpretation, publication, or review of data that can lead to conclusions that are systematically different from the truth.
+    A) Analytic epidemiology
+    B) Attack rate
+    C) Asymptomatic
+    D) Bias
+    E) Biological transmission
+    F) Carrier
+    G) Case
+    H) Case-control study
+    I) Case-fatality rate
+    J) Chain of infection
+    K) Common source outbreak
+    L) Confidence interval
+    M) Cumulative frequency
+    N) Droplet nuclei
+    O) Droplet spread
+    P) Epidemic
+    Q) Experimental study
+    R) Herd immunity
+    S) Incidence rate
+    T) Incubation period
+    U) Infectivity
+    V) Latency period
+    W) Morbidity
+    X) Nominal scale
+    Y) Observational study
+    Z) Odds ratio
+    [) Ordinal scale
+    \) Prevalence
+    ]) Propagated outbreak
+    ^) Positive predictive value
+    _) Proportionate mortality
+    `) Relative risk
+    a) Reservoir
+    b) Secondary attack rate
+    c) Validity
+
+
+=== Part 2. General Knowledge ===
+
+[STIMULUS] Determine the type of bias represented by the following scenarios.
+
+37. [frq, 2 pt] In an outbreak investigation of a new strain of E. coli, the case definition was not well-established and laboratory testing procedures had been solidified; thus, many cases were misclassified as controls, and many controls were also misclassified as cases.
+
+38. [frq, 2 pt] A clinical trial is recruiting patients for a study examining the relationship between smoking and pancreatic cancer. To do so, researchers advertised their study to hospitals and sent an online interest form to those who were interested in participating in the study. However, the subjects they recruited were skewed because many of those who signed up were epidemiologically linked to pancreatic cancer.
+
+39. [frq, 2 pt] In a study examining the relationship between teenage drug use and performance at school, the interviewer asked several high school students about the frequency of the subject's drug use in the presence of their parents.
+
+40. [frq, 2 pt] The interactive online questionnaire provided unique questions to each participant based on the researcher’s predisposition on the background of each.
+
+41. [frq, 2 pt] You are conducting a study on the impact of long-term coal mining on subsequent risk of lung cancer. You notice that the rates of lung cancer spike in the Black Thunder Mines in Wyoming compared to surrounding regions that do not rely as heavily on coal mining. You conclude that coal miners are more likely to contract lung cancer.
+
+42. [frq, 2 pt] Continuing the study from 41, you decide to recruit coal miners and people of other occupations to conduct a prospective cohort study. After you finish the study, you realize that you cannot generalize your results to the general population since you did not enroll people outside of the working age in your study.
+
+[STIMULUS] Determine which of Hill’s criteria would be established by the following scenarios:
+
+43. [frq, 2 pt] In a study investigating the risk of varying levels of sunlight exposure versus subsequent risk of skin cancer, researchers found that risk was higher in those who had higher than normal levels of sunlight exposure.
+
+44. [frq, 2 pt] In investigating a rare form of neurodegenerative disease, the pathogen was found only in cases with the disease and was absent in controls.
+
+45. [frq, 2 pt] The index case of a foodborne outbreak reported experiencing abdominal cramps, nausea, vomiting, and diarrhea 6 hours after consuming chicken at a local restaurant.
+
+46. [frq, 2 pt] Before communicating his findings to the public, a researcher searched for previous studies and researchers investigating similar topics and found that his conclusion was similar to theirs.
+
+48. [frq, 6 pt] Construct the chain of infection for COVID-19
+
+49. [frq, 8 pt] List and describe the 4 stages of disease control and provide an example for each, if applicable
+
+[STIMULUS] **(50-55) Determine which type of surveillance is being described. For each type of surveillance, list one strength and one weakness (if the same type of surveillance is answered multiple times, you only need to list the strength/weakness for the first occurrence)**
+
+50. [frq, 2 pt] The Boston Public Health Commission is concerned about a potential measles outbreak in the area. Public health officials call all local hospitals inquiring about any measles cases in the past week.
+
+51. [frq, 2 pt] A hospital in the Boston area recently admitted a patient with diagnosed botulism. Hospital officials immediately reported this case to the Boston Public Health Commission.
+
+52. [frq, 2 pt] An outbreak of MRSA has occurred in a nursing home in Houston. Since elderly people in nursing homes are a vulnerable population, the Houston Department of Public Health has reached out to other local nursing homes inquiring about additional cases of MRSA.
+
+53. [frq, 2 pt] In a suspected foodborne outbreak in Atlanta, Georgia, health officials have been receiving a higher than normal volume of calls from hospitals reporting a mysterious illness with symptoms including nausea, vomiting, diarrhea, and abdominal cramps.
+
+54. [frq, 2 pt] There is a suspected anthrax attack in Mequon, Wisconsin. Public health officials are actively surveilling the area for any cases of influenza-like illness among residents.
+
+55. [frq, 2 pt] In rural West Virginia, a large portion of the economy relies on coal mining. Hence, there tends to be high rates of lung cancer in these communities — a disease that is often linked to long-term coal mining. A network of hospitals in the area agrees to report all cases of lung cancer with incentives from the local health department, which is looking to reduce the prevalence of lung cancer in the area.
+
+56. [frq, 10 pt] List and describe the five major steps of surveillance.
+
+57. [frq, 10 pt] When evaluating the success and effectiveness of a surveillance system, list and describe five important criteria that you should look for.
+
+[STIMULUS] Classify the following scenarios by the type of immunity that is being described.
+
+58. [frq, 2 pt] A mother's IgG antibodies are passed directly through the placenta to the fetus.
+
+59. [frq, 2 pt] A child receives the annual influenza vaccine.
+
+60. [frq, 2 pt] As a child, Jim contracts chickenpox, so he is protected from contracting chickenpox again in the future.
+
+61. [frq, 2 pt] John has recently been exposed to Hepatitis A, so his doctor gives him a gamma globulin injection to boost his immunity.
+
+63. [frq, 6 pt] Rank the following study designs from most to least accurate: case-control study, cohort study, experimental study, cross-sectional study, ecological study, and case series.
+
+[STIMULUS] **Select the approach that best describes the situation.**
+
+a. Clinical Approach; b. Public Health Approach; c. Both Approaches; d. Neither Approach
+
+64. [mcq, 1 pt] Vaccination at school in response to an outbreak of measles.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both Approaches
+    D) Neither Approach
+
+65. [mcq, 1 pt] Concerned with prevention programs.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both Approaches
+    D) Neither Approach
+
+66. [mcq, 1 pt] A 1990 WHO study in Copenhagen examining in vitro fertilization (IVF) recommended limits on the number of IVF treatment cycles per woman and a maximum of 3 eggs per IVF treatment cycle.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both Approaches
+    D) Neither Approach
+
+67. [mcq, 1 pt] Physical therapy after knee surgery.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both Approaches
+    D) Neither Approach
+
+68. [mcq, 1 pt] Government-sponsored campaign about the dangers of drug use among teenagers.
+    A) Clinical Approach
+    B) Public Health Approach
+    C) Both Approaches
+    D) Neither Approach
+
+
+=== Part 3. Case Study #1 ===
+
+[STIMULUS] You work for the Harris County Public Health Department in Harris County, Texas. In July 2017, you receive several phone calls in a short span of time reporting a mysterious disease from local hospitals in which patients are presenting with watery diarrhea, greasy stools, dehydration, abdominal cramps, and fatigue.
+
+69. [frq, 3 pt] Does this constitute an outbreak? Why or why not?
+
+70. [frq, 5 pt] In general, list and describe five reasons why it is important to investigate outbreaks.
+
+72. [frq, 3 pt] What type of diagnosis test should be performed for this disease? Why?
+
+73. [frq, 2 pt] What type of pathogen is Giardia lamblia?
+
+74. [frq, 4 pt] The incubation period of Giardia lamblia is about 1-14 days with an average of about 7 days. What is an incubation period, and why does it exist?
+
+[STIMULUS] You keep track of all the cases of giardiasis that are reported. You summarize your data in the following table:
+
+| Patient No. | Date of onset | Symptoms compatible? | Diagnosis test result |
+|---|---|---|---|
+| 1 | 7/10/17 | Y | + |
+| 2 | 7/10/17 | N | + |
+| 3 | 7/10/17 | Y | + |
+| 4 | 7/11/17 | N | - |
+| 5 | 7/11/17 | Y | + |
+| 6 | 7/12/17 | N | + |
+| 7 | 7/12/17 | Y | + |
+| 8 | 7/12/17 | Y | - |
+| 9 | 7/12/17 | Y | + |
+| 10 | 7/12/17 | Y | + |
+| 11 | 7/13/17 | N | + |
+| 12 | 7/13/17 | Y | + |
+| 13 | 7/13/17 | Y | + |
+| 14 | 7/14/17 | N | + |
+| 15 | 7/19/17 | Y | + |
+
+75. [frq, 2 pt] What is the above table called?
+
+78. [frq, 2 pt] Estimate the approximate time range of exposure to Giardia lamblia for these patients. Using the average incubation period will suffice.
+
+79. [frq, 4 pt] Why do some patients exhibit symptoms of giardiasis, but still test negative for Giardia lamblia? Provide at least two explanations for this.
+
+80. [frq, 4 pt] Why do some patients exhibit no compatible symptoms of giardiasis, but still test positive? Provide at least two explanations for this.
+
+81. [frq, 6 pt] To collect more information about the outbreak, you interview each giardiasis patient. What are three important questions that you should ask each patient that will assist you in solving the outbreak?
+
+[STIMULUS] Representatives of the Harris County Public Health Department interviewed 34 patients infected and amongst the 34, 27 of them reported to have visited the Harris County Aquatics Center sometime before the outbreak occurred. The Public Health Committee also interviewed 40 patients who were not infected and amongst those, 10 reported to have visited the Harris County Aquatics Center. Epidemiologists are currently investigating this case.
+
+82. [frq, 3 pt] What type of epidemiological study is being conducted? Why?
+
+83. [frq, 4 pt] Provide two strengths and two weaknesses of this study design.
+
+85. [frq, 3 pt] Calculate the appropriate measure of risk.
+
+86. [frq, 4 pt] Interpret this measure of risk. What does it tell you about the Harris County Aquatics Center and its possible connection to the giardiasis outbreak?
+
+87. [frq, 5 pt] Provide five recommendations to the Harris County Public Health Department to combat this outbreak.
+
+
+=== Part 4: Case Study #2 ===
+
+[STIMULUS] In recent years, we have seen the re-emergence of infectious disease outbreaks in areas of low vaccine uptake. In this case study, we will focus on the impact of vaccine hesitancy on measles, a highly infectious disease that is re-emerging in rural and suburban areas of the United States.
+
+88. [frq, 4 pt] Define herd immunity. How does it relate to the re-emergence of measles?
+
+[STIMULUS] One of the most important measurements of the infectivity of a disease is the basic reproduction number (R0). It is defined as the expected number of cases directly generated by one case in a population where all individuals are susceptible to infection.
+
+We can track the number of suspected cases, infected individuals, and recovered individuals in a population through a compartmental model. The following series of equations details the change in population dynamics among the susceptible, infected, and recovered populations. Susceptible people contract the disease with rate β, and infected people recover with rate γ. R0 can be calculated by dividing the rate of infection (β) by the rate of recovery (γ).
+    [IMAGE: ../images/2023_birdso_in_person_invitational_b_c__p17_06316b-f19c657d.webp]
+
+[STIMULUS] For an infectious disease in which the rate of infection and the rate of recovery are equivalent, the following SIR model was generated. The x-axis represents time, and the y-axis represents population.
+    [IMAGE: ../images/2023_birdso_in_person_invitational_b_c__p18_29feab-e641f4c2.webp]
+    | Label | Answer |
+    | **89.** What do the blue, red, and green dotted lines represent, respectively? |  |
+    | Blue blue dotted line | [[q:89-a]] |
+    | Red red dotted line | [[q:89-b]] |
+    | Green green dotted line | [[q:89-c]] |
+
+89-a. [frq, 1 pt] Label Blue blue dotted line
+
+89-b. [frq, 1 pt] Label Red red dotted line
+
+89-c. [frq, 1 pt] Label Green green dotted line
+
+90. [frq, 3 pt] What is the R0 of this disease? Justify your answer.
+
+[STIMULUS] Sometimes, epidemiologists include an additional compartment for the population that has been exposed to the infectious agent. This is known as the SEIR compartmental model, and an example is shown below.
+    [IMAGE: ../images/2023_birdso_in_person_invitational_b_c__p18_96c7b1-73c26016.webp]
+
+92. [frq, 4 pt] What causes the discrepancy between those who are exposed versus those who are infected? In other words, how can some people be exposed to the pathogen but not infected?
+
+[STIMULUS] Now, we will calculate the population dynamics for measles in a wealthy, predominantly-White suburb of Austin, Texas. The rate of infection of measles (β) is 5.2, and the rate of recovery (γ) is 0.3.
+
+93. [frq, 3 pt] Calculate the R0 of measles.
+
+[STIMULUS] In order for herd immunity to take effect, a certain proportion of the population must be immune to measles. Individual immunity is usually achieved through vaccination or prior infection. This immunity proportion is known as the herd immunity threshold (HIT) and can be calculated with the following formula: HIT = 1 - 1/R0
+
+94. [frq, 2 pt] What type of immunity does the measles vaccine confer? What type of immunity does prior measles infection confer?
+
+[STIMULUS] The following data table estimates the transmissibility dynamics of several infectious disease epidemics with estimated vaccine efficacy values.¹ Fill in the missing values based on the mathematical equations given above (HIT = 1 - 1/R0; HIT accounting for VE = HIT / VE)
+
+| Infectious Disease | R0 | HIT (100% vaccine efficacy) | VE | HIT accounting for VE |
+|---|---|---|---|---|
+| Smallpox in Indian subcont. (1968–73) | 4.5 |  | 95% |  |
+| Poliomyelitis in Europe (1955–60) |  | 83.3% | 99% |  |
+| 1918 Spanish influenza in Geneva (Spring wave) |  |  | 60% | 55.6% |
+| 1918 Spanish influenza in Geneva (Fall wave) | 3.8 | 73.7% | 60% |  |
+| H1N1 influenza in South Africa (2009) | 1.3 | 23.0% | 79% |  |
+| Ebola in Guinea (2014) |  | 33.3% |  | 34.4% |
+| Zika in South America (2015–16) | 2.0 |  |  | 62.5% |
+
+¹ van den Driessche P. (2017). Reproduction numbers of infectious disease models. Infectious Disease Modelling, 2(3), 288–303. https://doi.org/10.1016/j.idm.2017.06.002
+
+99. [frq, 1.5 pt] Fill in the missing value for Poliomyelitis in Europe (1955–60): R0 = ____
+
+106. [frq, 1.5 pt] Fill in the missing value for Ebola in Guinea (2014): VE = ____
+
+109. [frq, 3 pt] Comparing measles to other infectious diseases, why are public health officials particularly concerned about measles vaccine hesitancy?
+
+110. [frq, 6 pt] Consider the transmissibility dynamics of the 1918 Spanish Influenza Pandemic. Propose three factors that can account for the discrepancy in R0 values between the spring and fall waves.
+
+[STIMULUS] Now, we will focus on the impact of vaccine hesitancy on measles re-emergence in Texas. Texas is one of 16 states that allow parents to bypass vaccine requirements for their children by claiming conscientious exemption, along with citing medical or religious concerns. In recent years, Texas has seen a spike in parents requesting conscientious vaccine exemptions (CVE), resulting in a growing number of unvaccinated children concentrated predominantly in suburban areas.
+
+Morrison et al.² conducted an in-depth analysis of conscientious vaccination exemption rates in kindergarten to eighth-grade children across Texas schools from 2012 to 2018. The following heatmap was created in Figure 1:
+
+² Morrison M, Castro LA, Ancel Meyers L (2020) Conscientious vaccination exemptions in kindergarten to eighth-grade children across Texas schools from 2012 to 2018: A regression analysis. PLOS Medicine 17(3): e1003049. https://doi.org/10.1371/journal.pmed.1003049
+    [IMAGE: ../images/2023_birdso_in_person_invitational_b_c__p22_d079f8-8d6e2118.webp]
+
+[STIMULUS] Figure 2 (shown below) maps the spatial distribution of districts with unusually high levels of CVE.
+    [IMAGE: ../images/2023_birdso_in_person_invitational_b_c__p23_044a68-951c0fe0.webp]
+
+113. [frq, 4 pt] Why is the 3% CVE threshold significant?

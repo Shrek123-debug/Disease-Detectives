@@ -1,0 +1,827 @@
+Brown Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  88 questions, 128.0 pts
+Source: scio.ly test archive id d6060126-db75-4e82-8ea1-c90c5e25ef4f  |  original files: https://drive.google.com/drive/folders/1UDUMUAmaoinPCNNGbMYAh4BdPHHwJjtb
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: General Instructions:
+● You do not have to show your work unless you are explicitly asked to do so. Partial credit may be awarded if correct work is shown in these cases.
+● Round all calculations to the tenths place, if necessary.
+
+
+=== SECTION #1: General Knowledge ===
+
+[STIMULUS] Match the terms in the word bank with their corresponding descriptions.
+
+A. Outbreak
+B. Accuracy
+C. Idiopathic
+D. Index Case
+E. Type II Error
+F. Isolation
+G. Cluster
+H. Nosocomial
+I. Fulminant
+J. Primary Case
+K. Precision
+L. Iatrogenic
+M. Pathogenicity
+N. Quarantine
+O. Virulence
+P. Vector
+Q. Effectiveness
+R. Efficacy
+S. Type I Error
+T. Fomite
+
+1. [mcq, 1 pt] A rejection of the null hypothesis when it is actually true; a false-positive.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+2. [mcq, 1 pt] The ability of a process or program to produce the intended or expected results in real-world conditions.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+3. [mcq, 1 pt] An illness that is acquired by a patient in a hospital.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+4. [mcq, 1 pt] An inanimate object that is the vehicle for transmission of an infectious agent.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+5. [mcq, 1 pt] The degree to which data points are consistent with each other.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+6. [mcq, 1 pt] The ability of an infectious agent to cause severe disease.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+7. [mcq, 1 pt] The separation of individuals who are infected with a communicable disease to prevent transmission to susceptible hosts.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+8. [mcq, 1 pt] A living intermediary that is the vehicle for transmission of an infectious agent.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+9. [mcq, 1 pt] The ability of an agent to cause disease after infection.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+10. [mcq, 1 pt] More cases of disease, injury, or other health conditions than expected in a given area or among a specific group of persons during a specific period of time.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+11. [mcq, 1 pt] A failure to reject the null hypothesis when it is actually false; a false-negative.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+12. [mcq, 1 pt] A medical condition or disease that has no known or apparent cause.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+13. [mcq, 1 pt] The ability of a process or program to produce the intended or expected results in idealized conditions.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+14. [mcq, 1 pt] The first case of a disease to be identified by authorities.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+15. [mcq, 1 pt] The degree to which measured data points are close to the true or accepted value.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+16. [mcq, 1 pt] An illness that is caused by medications or physicians.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+17. [mcq, 1 pt] The first case of a disease in an outbreak or chain of transmission.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+18. [mcq, 1 pt] A medical condition or disease that has a sudden onset and progresses severely and rapidly.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+19. [mcq, 1 pt] An aggregation of cases of disease, injury, or other health conditions in a given area during a specific period of time.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+20. [mcq, 1 pt] The separation of individuals who have potentially been exposed to a communicable disease to prevent transmission to susceptible hosts.
+    A) Outbreak
+    B) Accuracy
+    C) Idiopathic
+    D) Index Case
+    E) Type II Error
+    F) Isolation
+    G) Cluster
+    H) Nosocomial
+    I) Fulminant
+    J) Primary Case
+    K) Precision
+    L) Iatrogenic
+    M) Pathogenicity
+    N) Quarantine
+    O) Virulence
+    P) Vector
+    Q) Effectiveness
+    R) Efficacy
+    S) Type I Error
+    T) Fomite
+
+[STIMULUS] Determine whether each of the statements below is true or false.
+
+21. [tf, 1 pt] A choropleth is a map that displays individual cases of exposure and disease.
+    A) True
+    B) False
+
+22. [tf, 1 pt] Descriptive epidemiology focuses on the organization and summarization of data relating to place, person, and time.
+    A) True
+    B) False
+
+23. [tf, 1 pt] Prevalence is a function of incidence.
+    A) True
+    B) False
+
+24. [tf, 1 pt] Case-control studies can be used to estimate the incidence and prevalence of disease in a population.
+    A) True
+    B) False
+
+25. [tf, 1 pt] An ecological study is one in which study participants are observed in their natural setting rather than in a laboratory setting.
+    A) True
+    B) False
+
+26. [tf, 1 pt] John Snow is considered to be the father of vital statistics.
+    A) True
+    B) False
+
+27. [tf, 1 pt] An agent can have extremely high infectivity but no pathogenicity.
+    A) True
+    B) False
+
+28. [tf, 1 pt] Measles has been declared eliminated by authorities in the United States.
+    A) True
+    B) False
+
+29. [tf, 1 pt] Holoendemic diseases are typically very common in adult populations.
+    A) True
+    B) False
+
+30. [tf, 1 pt] SARS-CoV-2 likely emerged through a spillover event.
+    A) True
+    B) False
+
+[STIMULUS] Classify each of the following as examples of the Public Health Approach or the Clinical Health Approach.
+
+31. [mcq, 1 pt] A physician recommends a forty-five year-old patient to take daily aspirin to reduce his risk of a heart attack.
+    A) Public Health Approach
+    B) Clinical Health Approach
+
+32. [mcq, 1 pt] The CDC recommends that people at risk for heart disease reduce their cholesterol consumption and engage in frequent aerobic exercise.
+    A) Public Health Approach
+    B) Clinical Health Approach
+
+33. [mcq, 1 pt] Between the 1950s and 1970s, the World Health Organization spearheaded a global vaccination campaign to eradicate smallpox.
+    A) Public Health Approach
+    B) Clinical Health Approach
+
+34. [mcq, 1 pt] After the emergence of COVID-19, government authorities urged individuals to wear masks and practice social distancing.
+    A) Public Health Approach
+    B) Clinical Health Approach
+
+[STIMULUS] Specify the type of surveillance used in the following scenarios.
+
+35. [mcq, 1 pt] The Rhode Island Department of Health contacts local health providers as it investigates a mysterious outbreak of botulism.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+36. [mcq, 1 pt] A physician in Providence reports new cases of Lyme disease to local health authorities.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+37. [mcq, 1 pt] The CDC selects a specific group of hospitals in the Northwestern United States to report cases of measles in order to estimate its incidence in this area.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+38. [mcq, 1 pt] After noticing a sharp uptick in the number of patients presenting with symptoms including shortness of breath, cough, and fever, the Rhode Island Department of Health concludes that the prevalence of COVID-19 is on the rise.
+    A) Active
+    B) Passive
+    C) Sentinel
+    D) Syndromic
+
+[STIMULUS] Identify one specific type of bias or effect that could influence each study described below and explain how the results may have been impacted.
+
+39. [frq, 2 pt] A biotechnology company enrolled 10,000 individuals (5,000 women and 5,000 men) into clinical trials investigating the efficacy of a hypertension treatment. Each of them are randomly assigned to an experimental and a control group. By the end of the study, 2,000 people had been “dropped out” of the study due to noncompliance with the drug protocol, 1,400 of whom were men.
+
+41. [frq, 2 pt] A study is conducted to determine if a common preservative in canned foods is associated with cancer using a group of 10,000 working adults that is representative of racial and gender demographics. Each of them are randomly assigned to an experimental and a control group. The researchers conclude that there is no relationship between the preservative and cancer.
+
+42. [frq, 2 pt] The government conducts a survey to estimate the frequency of drunk driving in teenagers. The survey is sent to an equal number of men and women between the ages of sixteen and nineteen, and asks: “Have you driven a vehicle after consuming any amount of alcohol”? The results of the survey indicate a drunk driving rate that is much lower than expected.
+
+[STIMULUS] Match the situations described below to one of the three potential epidemic curves. Also, label each situation with its corresponding mode of spread.
+
+**#1:**
+**#2:**
+**#3:**
+
+After attending a large dinner occurring in early January, several people present with symptoms of gastrointestinal distress and are confirmed to have botulism through laboratory testing. They all recall eating the same pudding, which was discovered to be contaminated with C. botulinum.
+
+Curve: ____ Mode of Spread: ____
+    [IMAGE: ../images/2023_brown_invitational_c__p6_0929b4-029bc4f5.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_c0d1d9-a8e799c9.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_438f90-3350c02c.webp]
+
+43-1. [mcq, 1 pt] Blank 1: Curve: ____ Mode of Spread: (…)
+    A) 1
+    B) 2
+    C) 3
+
+43-2. [frq, 1 pt] Blank 2: Curve: (…) Mode of Spread: ____
+
+[STIMULUS] Match the situations described below to one of the three potential epidemic curves. Also, label each situation with its corresponding mode of spread.
+
+**#1:**
+**#2:**
+**#3:**
+
+An outbreak of influenza occurs in a small town during early January.
+
+Curve: ____ Mode of Spread: ____
+    [IMAGE: ../images/2023_brown_invitational_c__p6_0929b4-029bc4f5.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_c0d1d9-a8e799c9.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_438f90-3350c02c.webp]
+
+44-1. [mcq, 1 pt] Blank 1: Curve: ____ Mode of Spread: (…)
+    A) 1
+    B) 2
+    C) 3
+
+44-2. [frq, 1 pt] Blank 2: Curve: (…) Mode of Spread: ____
+
+[STIMULUS] Match the situations described below to one of the three potential epidemic curves. Also, label each situation with its corresponding mode of spread.
+
+**#1:**
+**#2:**
+**#3:**
+
+In early January, employees working in a large office building begin presenting with symptoms including coughing, headache, chills, and fever. Investigation reveals that L. pneumophila has been growing in the air conditioning system, which is then sterilized.
+
+Curve: ____ Mode of Spread: ____
+    [IMAGE: ../images/2023_brown_invitational_c__p6_0929b4-029bc4f5.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_c0d1d9-a8e799c9.webp]
+    [IMAGE: ../images/2023_brown_invitational_c__p6_438f90-3350c02c.webp]
+
+45-1. [mcq, 1 pt] Blank 1: Curve: ____ Mode of Spread: (…)
+    A) 1
+    B) 2
+    C) 3
+
+45-2. [frq, 1 pt] Blank 2: Curve: (…) Mode of Spread: ____
+
+
+=== SECTION #2: Outbreak of a Mystery Illness ===
+
+[STIMULUS] Between November 3rd, 2022, and November 24th, 2022, several students and teachers at Stoneville High School (SHS) reported symptoms of a respiratory illness, including shortness of breath, cough, headaches, muscle aches, and fever. Thankfully, no deaths have occurred, and hospitalization has not been required. Worryingly, though, the authorities have been unable to identify the cause of the outbreak or the pathogen involved; however, they were able to use laboratory blood testing to confirm the presence of the pathogen in the body. After several people receive blood testing, it becomes apparent that nearly everyone infected is symptomatic.
+
+Based on preliminary information about the disease, you deduce that it spreads through aerosolized droplets containing the pathogenic agent. After visiting the high school, you hypothesize that four rooms with damaged air filtration systems may be responsible for the outbreak. Your team contacts sixty people with confirmed cases of the disease and asks them which of these rooms they have visited recently; then, you contact an equal number of people without the disease and conduct the same procedure. The data you have collected is shown below.
+
+| | Sick | Not Sick |
+|---|---|---|
+| Room #1 | 54 | 23 |
+| Room #2 | 25 | 18 |
+| Room #3 | 16 | 19 |
+| Room #4 | 23 | 7 |
+
+46. [frq, 4 pt] Formulate a case definition for this outbreak.
+
+47. [frq, 2 pt] Explain the importance of a case definition in outbreak investigation.
+
+48. [frq, 5 pt] Classify each of the following as "confirmed", "probable", or "possible" cases (or alternatively, "not a case").
+    
+    - ____ A teacher is experiencing cough, headaches, muscle aches, and a fever. Laboratory blood tests are negative for the unknown pathogen.
+    - ____ A student is experiencing shortness of breath, cough, and a fever. Laboratory blood tests are positive for the unknown pathogen.
+    - ____ A student has shortness of breath, a fever, a headache, and a cough. She has not seen a doctor or received a blood test.
+    - ____ A teacher has a cough and a headache, but has not seen a doctor or received a blood test.
+    - ____ A student has no symptoms of disease. However, a blood test is positive for the unknown pathogen.
+
+49. [mcq, 1 pt] In relative terms, this agent has a ____ pathogenicity and a ____ virulence.
+    A) Low; low
+    B) Low; high
+    C) High; low
+    D) High; high
+
+50. [mcq, 2 pt] Which type of epidemiological study did your team conduct?
+    A) Case-crossover
+    B) Ecological
+    C) Matched-pairs
+    D) Cohort
+    E) Case-control
+
+51. [frq, 2 pt] Identify one advantage and one disadvantage of this type of epidemiological study.
+
+[STIMULUS] Using the room data table in the Stoneville High School passage above, calculate the attack rate for each of the four rooms. Please show your work for one calculation.
+    | Label | Answer |
+    | #1 | [[q:52-a]] |
+    | #2 | [[q:52-b]] |
+    | #3 | [[q:52-c]] |
+    | #4 | [[q:52-d]] |
+
+52-a. [frq, 1.25 pt] #1
+
+52-b. [frq, 1.25 pt] #2
+
+52-c. [frq, 1.25 pt] #3
+
+52-d. [frq, 1.25 pt] #4
+
+53. [frq, 1 pt] Provide an explanation in the context of this case study of one of the attack rates you calculated above.
+
+54. [mcq, 2 pt] Based on the information provided, which risk association measure would be best for analyzing this data?
+    A) Odds ratio
+    B) Z-statistic
+    C) T-statistic
+    D) Relative risk
+    E) Chi-squared statistic
+
+[STIMULUS] Using the room data table in the Stoneville High School passage above, calculate the appropriate risk measure for each room. Please show your work for one calculation.
+    | Label | Answer |
+    | #1 | [[q:55-a]] |
+    | #2 | [[q:55-b]] |
+    | #3 | [[q:55-c]] |
+    | #4 | [[q:55-d]] |
+
+55-a. [frq, 1.5 pt] #1
+
+55-b. [frq, 1.5 pt] #2
+
+55-c. [frq, 1.5 pt] #3
+
+55-d. [frq, 1.5 pt] #4
+
+56. [frq, 1 pt] Provide an explanation in the context of this case study of one of the risk measures you calculated above.
+
+57. [frq, 3 pt] Based on your calculations, which room is most likely to have been the source of the outbreak? Explain your conclusion.
+
+58. [frq, 2 pt] Identify one type of study bias that may have affected your results. Please explain your answer.
+
+[STIMULUS] A local biotechnology company has developed a ten-minute nasal swab test to quickly identify cases of this disease in hopes of quickly identifying any future outbreaks. To evaluate whether this test is worthy of further use, the company tests a large number of individuals presenting with potential cases of the disease. Then, they compare these results to whether or not the pathogenic agent was isolated from the patient following rigorous blood testing protocols.
+
+| | Has Pathogenic Agent | No Pathogenic Agent |
+|---|---|---|
+| Positive Test Result | 25 | 1 |
+| Negative Test Result | 18 | 23 |
+
+Using the data above, calculate (with all work shown) and interpret:
+a. Specificity
+b. Sensitivity
+c. Positive Predictive Value
+d. Negative Predictive Value
+
+
+
+59a. [frq, 2 pt] Calculate (with all work shown) and interpret: Specificity
+
+59b. [frq, 2 pt] Calculate (with all work shown) and interpret: Sensitivity
+
+59c. [frq, 2 pt] Calculate (with all work shown) and interpret: Positive Predictive Value
+
+59d. [frq, 2 pt] Calculate (with all work shown) and interpret: Negative Predictive Value
+
+60. [frq, 2 pt] Based on your results, would you recommend the local government to adopt this test? Explain your answer.
+
+
+=== SECTION #3: Mononucleosis ===
+
+[STIMULUS] Mononucleosis is a disease that affects more than three million individuals in the United States per year. It is caused by the Epstein-Barr Virus (EBV), which can be transmitted through saliva, blood, and aerosol droplets. Rarely, it may also spread in the womb through the placenta. Illness is characterized by extreme fatigue, sore throat, and fever. After illness subsides, EBV remains dormant in the body for life. Due to the prevalence and potential long-term implications of EBV, scientists have long sought to produce effective vaccines against the virus, but have been unsuccessful thus far.
+
+61. [mcq, 1 pt] The Epstein-Barr Virus can be transmitted:
+    A) Vertically
+    B) Horizontally
+    C) Both (a) and (b)
+    D) Neither (a) nor (b)
+
+[STIMULUS] Match each of the following prevention mechanisms with the links within the chain of infection that they disrupt.
+    | Label | Answer |
+    | a Vaccinating against EBV | [[q:62-a]] |
+    | b Avoiding contact with symptomatic individuals | [[q:62-b]] |
+    | c Wearing a mask if you are presenting with symptoms | [[q:62-c]] |
+
+62-a. [frq, 1 pt] Label a Vaccinating against EBV
+
+62-b. [frq, 1 pt] Label b Avoiding contact with symptomatic individuals
+
+62-c. [frq, 1 pt] Label c Wearing a mask if you are presenting with symptoms
+
+63. [mcq, 1 pt] What type of immunity do vaccines produce?
+    A) Active natural immunity
+    B) Active artificial immunity
+    C) Passive natural immunity
+    D) Passive artificial immunity
+    E) Innate immunity
+
+64. [mcq, 1 pt] Which level of prevention does inoculation represent?
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+65. [frq, 2 pt] Based on the information provided, which of Koch's Postulates (if any) are violated by the Epstein-Barr Virus and mononucleosis? Please explain.
+
+
+=== SECTION #4: The Aqua-Pure Crisis ===
+
+[STIMULUS] In 2015, the Oak County Water Resources Authority (OCWRA) began adding an experimental chemical called Aqua-Pure to their water supply with the goal of providing more appealing water and regaining customers who had switched to a private water provider. Initially, this decision was received positively; residents of all seven towns within the county loved the new water! However, by the end of 2022, concern began to mount as cases of leukemia (blood cancer) seemed to be increasing in recent years, and some within the county suspected that the untested Aqua-Pure could be the cause of the issue. As such, the OCWRA has contacted you to help determine if Aqua-Pure is a safety concern.
+
+Prior to 2015, the Oak County Health Department recorded an average of forty-six leukemia cases per year. In 2022, seventy cases of leukemia were recorded. The population of Oak County was 365,000 before 2015 and was 375,000 in 2022.
+
+69. [frq, 3 pt] Is Oak County experiencing an outbreak of leukemia? Please explain your answer using incidence rates (per 100,000) and show your work. Include units.
+
+70. [mcq, 1 pt] Which of the following study designs is best suited to establishing a causal relationship between Aqua-Pure and leukemia?
+    A) Randomized-controlled trial
+    B) Prospective cohort
+    C) Retrospective cohort
+    D) Case-control
+    E) Case-series
+    F) Cross-sectional
+
+71. [frq, 4 pt] Based on the answer above, describe (with specific details pertaining to the study design chosen) a high-quality epidemiological study that you could conduct to prove that Aqua-Pure causes leukemia.
+
+72. [frq, 2 pt] Why might it be impractical to conduct a study that proves causality in this scenario? Please explain.
+
+[STIMULUS] You decide to conduct your own study to investigate the relationship between leukemia and Aqua-Pure. First, you send out a survey to all the residents of Meadowridge (the largest of the seven towns in Oak County) asking whether they source their drinking water from the OCWRA or from a separate, private company. After collecting 40,585 responses, you note that of those that declined to respond to the survey, 30% are above the age of 65, while the proportion of the population above the age of 65 in Meadowridge is 10%. Next, you use the town's health records to determine how many of these individuals have developed leukemia in the year of 2022. The data obtained from your study are shown below.
+
+| | Consumed & Have Leukemia | Consumed & Are Healthy |
+|---|---|---|
+| OCWRA Water | 21 | 27180 |
+| Private Water | 2 | 13382 |
+
+73. [mcq, 2 pt] Which type of epidemiological study did you conduct?
+    A) Case-crossover
+    B) Ecological
+    C) Case-control
+    D) Cohort
+    E) Matched-pairs
+
+74. [frq, 2 pt] Identify one advantage and one disadvantage of this type of epidemiological study.
+
+75. [frq, 4 pt] Please identify and explain two potential types of bias that may have been introduced in your epidemiological study. How might each of these impact your results?
+
+76. [mcq, 2 pt] Based on the information provided, which risk association measure would be best for analyzing this data?
+    A) Relative risk
+    B) Z-statistic
+    C) Odds ratio
+    D) T-statistic
+    E) Chi-squared statistic
+
+77. [frq, 2 pt] Calculate the appropriate risk measure for water supplied by the OCWRA.
+
+78. [frq, 2 pt] Provide an explanation in the context of this case study of the risk measure you calculated for OCWRA. Does this evidence support the claim that Aqua-Pure is associated with developing leukemia?

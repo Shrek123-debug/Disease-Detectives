@@ -1,0 +1,1301 @@
+Harvard University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  118 questions, 196.0 pts
+Source: scio.ly test archive id bcf122ca-a8e5-486f-ad06-d525c3effb6c  |  original files: https://drive.google.com/drive/folders/1g11ek0PZLM_9x3xZC0bBvf9jhQMKyDFj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 17
+
+DIRECTIONS: Welcome to Disease Detectives!  Please show work for any calculations to receive full credit. Good luck!
+
+
+=== Part 1: Case Study #1 ===
+
+[STIMULUS] Use the following information to answer questions 1-10.
+
+In order to determine the effectiveness of a newly developed vaccine for agent X, you set up the following double blinded study. Ten thousand volunteers between the ages of 18 and 75 years old are randomly assigned to test or control groups. 5000 are in each group. Each person has been screened for antibody (an indicator of previous infection) to agent X. Only those who are negative are enrolled. Your test subjects are to get two doses of your vaccine three weeks apart. Your controls get two doses of sterile saline three weeks apart. All subjects are asked to keep a daily log throughout the 6 month observation period. Here they record body temperature, energy level, and any signs or symptoms of illness. Physicians are asked to report any health care problems or hospitalizations and to order appropriate testing if participants develop symptoms of agent X. Blood samples are collected from all participants at monthly intervals and tested for antibody to agent X. The results are shown below:
+
+| | Vaccine Group (n = 5000) | Placebo Group (n = 5000) |
+|---|---|---|
+| Antibody to agent X at the end of the study | 4956 | 150 |
+| Agent X symptoms (fever, body aches, respiratory symptoms) | 25 | 110 |
+| Confirmed agent X disease | 10 | 105 |
+| Sever agent X disease (hospitalization > 2 days) | 2 | 45 |
+| Death due to agent X | 0 | 3 |
+
+1. [frq, 1 pt] What is the study design represented in this scenario?
+
+2. [frq, 4 pt] What is the significance of the high level of antibody in the vaccine group at the end of the study?
+
+3. [frq, 3 pt] How effective was this vaccine in inducing antibodies to agent X?
+
+4. [frq, 3 pt] How effective was the vaccine in preventing confirmed agent X infection?
+
+5. [frq, 3 pt] How effective was the vaccine in preventing severe agent X infection?
+
+6. [frq, 2 pt] Why is it important to use a double-blinded design in a clinical trial like this one? How does blinding help minimize bias in the study?
+
+7. [frq, 4 pt] What are some potential confounding variables that could influence the results of this study, especially in terms of the development of symptoms or severe disease, and how could they be controlled for in this trial? List up to 4.
+
+8. [frq, 1 pt] One goal of vaccination is to reach herd immunity. What is the herd immunity threshold, in terms of R₀, the basic reproductive number?
+
+9. [frq, 2 pt] How might this threshold change depending on the effectiveness of the vaccine? What would be the minimum possible herd immunity threshold?
+
+10. [frq, 3 pt] How does vaccine efficacy differ from vaccine effectiveness? Which one should researchers seek to maximize?
+
+[STIMULUS] Use the following information to answer questions 11-21.
+    [IMAGE: ../images/2025_harvard_university_invitational_b_c__p3_11b65f-91ecb8f1.webp]
+
+11. [frq, 1 pt] What type of graph is this?
+
+12. [frq, 1 pt] What classification of the graph you answered in 11 does this data best fit?
+
+13. [frq, 3 pt] List the 3 other classifications of this type of graph?
+
+14. [frq, 5 pt] To investigate this outbreak, epidemiologists go into the field and interview people who have been infected. List and define the 5 types of information that should be collected in an interview?
+
+15. [frq, 1 pt] After finishing all interviews, what step comes next in the 13 steps of outbreak investigation?
+
+16. [frq, 2 pt] This graph may be inaccurate according to the date of illness onset. Why would this occur?
+
+17. [frq, 1 pt] What is the earliest date of onset?
+
+19. [frq, 1 pt] When is the peak of the bell curve?
+
+20. [frq, 1 pt] What is an index case?
+
+21. [frq, 1 pt] What does it mean to “flatten the curve”?
+
+[STIMULUS] Use the following chart to answer questions 22-26.
+    [IMAGE: ../images/2025_harvard_university_invitational_b_c__p4_a67128-2307199a.webp]
+
+22. [frq, 1 pt] What is the chart above called?
+
+23. [frq, 6 pt] What are the 5 general types of information to record for each case?
+
+25. [frq, 4 pt] What are the 4 components of a case definition?
+
+26. [frq, 3 pt] What is the difference between confirmed, probable, and possible causes of a disease?
+
+27. [frq, 1 pt] What is this graph called?
+    [IMAGE: ../images/2025_harvard_university_invitational_b_c__p4_9d0c4f-c2a7443b.webp]
+
+
+=== Part 2: Multiple Choice & Fill-In ===
+
+[STIMULUS] Choose the correct option and record the letter. Some questions may require fill in answers.
+
+29. [mcq, 1 pt] Who developed a vaccine for anthrax and rabies in the 1880s?
+    A) Edward Jenner
+    B) Walter Reed
+    C) Louis Pasteur
+    D) Percival Pott
+
+30. [mcq, 1 pt] Who is known as the “English Hippocrates” and wrote Observationes Medicae?
+    A) John Graunt
+    B) Thomas Sydenham
+    C) James Lind
+    D) John Snow
+
+31. [mcq, 1 pt] Who was the pioneer for antiseptic procedures and preventing the spread of puerperal fever among pregnant women?
+    A) Ignaz Semmelweis
+    B) Robert Koch
+    C) William Farr
+    D) Joseph Goldberger
+
+32. [mcq, 1 pt] Who hypothesized that replacing dietary saturated fats with polyunsaturated fats reduced cardiovascular heart disease and was responsible for two diets (K-rations in WWII & Mediterranean diet)?
+    A) Richard Doll
+    B) Abdel Omran
+    C) Jerzy Neyman
+    D) Ancel Keys
+
+33. [mcq, 1 pt] Which medical epidemiologist proved the link between lung cancer and smoking with pioneering long term research started in the 1950s?
+    A) Robert Koch
+    B) Richard Doll
+    C) James Lind
+    D) Walter Reed
+
+34. [mcq, 1 pt] Who discovered streptomycin, the first antibiotic that effectively reduced the potency of tuberculosis, and won a Nobel prize?
+    A) Ernst Wynder
+    B) Selman Waksman
+    C) Jonas Salk
+    D) Edgar Sydenstricker
+
+35. [mcq, 1 pt] Who is known for discovering the concept of antisepsis and applying it to surgery to prevent infection?
+    A) John Graunt
+    B) Percival Pott
+    C) Joseph Lister
+    D) MacMahon
+
+36. [mcq, 1 pt] Who found an association between exposure to soot and a high incidence of scrotal cancer in the 1700s?
+    A) Edward Jenner
+    B) Jonas Salk
+    C) Walter Reed
+    D) Percival Pott
+
+37. [mcq, 1 pt] Who is most famous for the discovery of the tuberculosis bacterium and his role in establishing the germ theory of infectious diseases?
+    A) Robert Koch
+    B) James Lind
+    C) John Snow
+    D) Jonas Salk
+
+45. [mcq, 1 pt] You need to set up a surveillance system to rapidly detect outbreaks of disease in your community. Which of the following would give the best results?
+    A) Syndromic Surveillance
+    B) Active Surveillance
+    C) Passive Surveillance
+    D) Sentinel Surveillance
+
+46. [multi, 2 pt] Which of the following would be your first and second choice for data to support this surveillance system? Select all that apply.
+    A) Hospital and commercial laboratories
+    B) Drug stores and pharmacies
+    C) Death certificate registries and coroners reports
+    D) Emergency departments and urgent care settings
+    E) None of the above
+
+47. [mcq, 1 pt] Which of the following best describes the case definition you would use for this system?
+    A) It would have a high degree of specificity but low sensitivity
+    B) It would rely heavily on person, place, and time and less so on clinical criteria
+    C) It would rely heavily on clinical criteria and laboratory data
+    D) It would have a high degree of sensitivity but relatively low specificity
+    E) None of the above
+
+48. [mcq, 1 pt] When AIDS first became a notifiable disease, the CDC asked local health departments to review hospital laboratory records in their areas, looking for opportunistic infections from persons that had not been reported through normal channels. Which type of surveillance is represented by this activity?
+    A) Passive Surveillance
+    B) Active Surveillance
+    C) Syndromic Surveillance
+    D) Sentinel Surveillance
+
+49. [mcq, 1 pt] In the mid 1970s, Illinois developed an arbovirus surveillance program to detect St. Louis encephalitis. Field teams were sent out to collect mosquitos and collect blood from reservoir hosts. These samples were brought back to the laboratory for testing. This is an example of what type of surveillance?
+    A) Passive Surveillance
+    B) Active Surveillance
+    C) Syndromic Surveillance
+    D) Sentinel Surveillance
+
+50. [mcq, 1 pt] The portal of entry for most gastrointestinal infections is the ____.
+    A) Eyes
+    B) Nose
+    C) Mouth
+    D) Anus
+    E) Skin
+    F) Reproductive Tract
+
+51. [multi, 3 pt] The portal of entry for most respiratory tract infections is the… Select all that apply.
+    A) Eyes
+    B) Nose
+    C) Mouth
+    D) Anus
+    E) Skin
+    F) Reproductive Tract
+
+52. [mcq, 1 pt] Autochthonous flora are most often associated with ____.
+    A) Poor sanitation
+    B) Vector-borne infections
+    C) Emerging infections
+    D) Opportunistic infections
+
+53. [mcq, 1 pt] The portal of exit for most vector-borne infections is the ____.
+    A) Eyes
+    B) Nose
+    C) Mouth
+    D) Anus
+    E) Skin
+    F) Reproductive Tract
+
+54. [mcq, 1 pt] Which of the following is often a mechanical vector?
+    A) Tick
+    B) Poorly handled food
+    C) Contaminated water
+    D) Needles
+    E) Housefly
+    F) None of the above
+
+55. [mcq, 1 pt] The portal of exit for most renal infections would be the ____.
+    A) Eyes
+    B) Nose
+    C) Mouth
+    D) Urethra
+    E) Skin
+    F) Reproductive Tract
+
+56. [mcq, 1 pt] Which of the following study designs is not observational?
+    A) Clinical trial
+    B) Case-control
+    C) Cohort
+    D) Ecological
+
+57. [multi, 2 pt] Which of the study designs starts with an exposed and an unexposed group and follows them forward in time? Select all that apply.
+    A) Clinical trial
+    B) Case-control
+    C) Cohort
+    D) Ecological
+
+58. [mcq, 1 pt] Which of the study designs gives the best measure of relative risk?
+    A) Clinical trial
+    B) Case-control
+    C) Cohort
+    D) Ecological
+
+59. [mcq, 1 pt] Which of the study designs is the best for studying multiple risk factors of a particular disease at the same time?
+    A) Clinical trial
+    B) Case-control
+    C) Cohort
+    D) Ecological
+
+60. [mcq, 1 pt] Studies where the analysis is based on data on groups rather than individuals.
+    A) Clinical trial
+    B) Case-control
+    C) Cohort
+    D) Ecological
+
+61. [mcq, 1 pt] Which prevention level is represented by mask wearing?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+62. [mcq, 1 pt] Which prevention level is represented by putting a Covid patient on a ventilator?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+63. [mcq, 1 pt] Which prevention level is represented by a program to vaccinate nursing home residents against Covid?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+65. [mcq, 1 pt] Which prevention level is represented by a rehabilitation program for an individual who has experienced a Covid-related stroke?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+66. [mcq, 1 pt] Which prevention level is represented by physical therapy for persons who have experienced traumatic brain injury?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+67. [mcq, 1 pt] PulseNet helps to to identify potential clusters of illness by:
+    A) Testing for common SNPs in patients’ genomes
+    B) Tracking patients’ symptoms
+    C) Analyzing DNA fingerprints in patient bacteria samples
+    D) Identifying common patient family histories
+
+68. [mcq, 1 pt] What is the main goal of PFGE in epidemiology?
+    A) Determining the sequence of DNA molecules.
+    B) Separating and analyzing large DNA fragments.
+    C) Quantifying gene expression levels.
+    D) Visualizing protein-protein interactions.
+
+[STIMULUS] Indicate which Bradford-Hill criteria each example fulfills.
+
+69a. [frq, 1 pt] The more shellfish a person ate at a beachside restaurant, the more likely they were to get vibriosis.
+
+69b. [frq, 1 pt] The association between the source and spread of a new variant of Covid-19 agrees with the currently accepted pathological processes.
+
+69c. [frq, 1 pt] All cases in this outbreak had gone and attended the same outdoor picnic and presented with the same variant of the disease.
+
+69d. [frq, 1 pt] The outbreak of the disease occurred after the expected incubation period from the time of exposure.
+
+[STIMULUS] Determine if the current status of the following diseases falls under control, elimination of disease, elimination of infections, eradication, or extinction.
+
+70a. [mcq, 1 pt] Neonatal tetanus
+    A) control
+    B) elimination of disease
+    C) elimination of infections
+    D) eradication
+    E) extinction
+
+70b. [mcq, 1 pt] Smallpox
+    A) control
+    B) elimination of disease
+    C) elimination of infections
+    D) eradication
+    E) extinction
+
+70c. [mcq, 1 pt] Measles
+    A) control
+    B) elimination of disease
+    C) elimination of infections
+    D) eradication
+    E) extinction
+
+71. [mcq, 2 pt] In Pulse-Field Gel Electrophoresis (PFGE), a key technique used for DNA fingerprinting, the separation of large DNA fragments is achieved through the application of alternating electric fields. Which of the following factors most significantly affects the resolution of large DNA fragments during PFGE, and how is this factor typically optimized?
+    A) Agarose concentration: Increasing the agarose concentration improves the resolution by providing a denser gel matrix, which can more effectively separate large DNA fragments by size.
+    B) Voltage gradient: A higher voltage gradient improves the resolution of large DNA fragments by creating a stronger electric field, which causes faster migration through the gel.
+    C) Pulse time and frequency: Optimizing pulse times and frequencies allows for better resolution of large DNA fragments by preventing the molecules from overshooting their positions during migration, improving separation based on size.
+    D) Buffer composition: The buffer composition controls the ionic strength and pH, but its effect on resolution is minimal compared to factors like voltage and pulse time during PFGE.
+
+
+=== Part 3: Case Study #2 ===
+
+[STIMULUS] Use the following information to answer questions 72-83.
+
+On a warm summer evening, a local community picnic is held at a public park. Over 500 people attend the event, where they enjoy various foods, including hamburgers, hotdogs, potato salad, and iced tea. Several days after the picnic, numerous people begin reporting symptoms of foodborne illness, including nausea, vomiting, diarrhea, and stomach cramps. Public health officials suspect that the source of the outbreak is contaminated food, and they begin an investigation to identify the culprit.
+
+The following data was collected from 500 attendees. Participants were asked whether they ate any of the suspect foods and whether they developed symptoms.
+
+| Food Item | Ate | Did Not Eat | Presented Symptoms | Did Not Present Symptoms |
+|---|---|---|---|---|
+| Hamburgers | 250 | 250 | 70 | 180 |
+| Hotdogs | 150 | 350 | 55 | 295 |
+| Potato Salad | 175 | 325 | 80 | 245 |
+| Iced Tea | 225 | 275 | 90 | 135 |
+    | Label | Answer |
+    | **72.** Calculate the attack rate for each of the four foods (hamburgers, hotdogs, potato salad, iced tea). Show your work and provide the interpretation of each attack rate. |  |
+    | Hamburgers | [[q:72-a]] |
+    | Hotdogs | [[q:72-b]] |
+    | Potato Salad | [[q:72-c]] |
+    | Iced Tea | [[q:72-d]] |
+
+72-a. [frq, 2 pt] Hamburgers
+
+72-b. [frq, 2 pt] Hotdogs
+
+72-c. [frq, 2 pt] Potato Salad
+
+72-d. [frq, 2 pt] Iced Tea
+
+73. [frq, 2 pt] Identify which food item had the highest attack rate and explain what this indicates about the food's association with the outbreak.
+
+78. [frq, 3 pt] What type of study design does this case represent? Explain why this design is appropriate for investigating the source of a foodborne illness outbreak.
+
+79. [frq, 3 pt] What are two potential limitations of this study design? How could these limitations affect the interpretation of the results?
+
+81. [frq, 2 pt] How could the cooking and handling procedures of the suspect foods be improved to prevent contamination? Provide two specific suggestions.
+
+82. [frq, 1 pt] What step is this in the outbreak investigation?
+
+83. [frq, 4 pt] Outline the next steps to investigate the outbreak.
+
+[STIMULUS] Use the following information to answer questions 84-95.
+
+It’s a beautiful, sunny day at the Epidemiology Institute of Super Sleuths (EISS), and you, a rising star in the world of disease detection, have just been handed your most puzzling case yet!
+
+A mysterious Salmonella outbreak has been sweeping the nation, and it's been linked to the famous “Burger Blast” chain. People have been dropping like flies (metaphorically, of course!) after dining at their restaurants. But wait—there’s a twist! The health department has been conducting mass testing to figure out who’s really sick and who’s just overreacting after a few too many jalapeños.
+
+You’ve been given a set of test results that were collected from Burger Blast’s most recent customer crowd. The results are in, and it’s time to use your super sleuth skills to determine if the tests are any good!
+
+Here’s the table with the test results:
+
+| | Positive Tests | Negative Tests |
+|---|---|---|
+| Sick | 582 | 324 |
+| Not Sick | 385 | 761 |
+
+84. [frq, 3 pt] Calculate the sensitivity of the test.
+
+85. [frq, 3 pt] Calculate the specificity of the test.
+
+86. [frq, 3 pt] Interpret the sensitivity and specificity values in the context.
+
+87. [frq, 3 pt] Calculate the PPV of the test.
+
+88. [frq, 3 pt] Calculate the NPV of the test.
+
+89. [frq, 3 pt] Discuss the implications of the PPV and NPV for the reliability of the test.
+
+90. [frq, 2 pt] Calculate the prevalence of Salmonella in Burger Blast’s customer crowd.
+
+91. [frq, 3 pt] Ronald McDonald notices a disproportionate number of positive test results for Salmonella from people who ate at Burger Blast, but he only focuses on those who ate at one particular location, ignoring other restaurants. What type of bias is evident when Ronald McDonald focuses only on cases from one location without considering others?
+
+92. [frq, 3 pt] You observe positive Salmonella test results, but exclusively focus on those where you believe the test results are from people who ate extra spicy burgers. What bias is at play when you exclusively focus on those who ate spicy burgers, assuming they are all infected?
+
+93. [frq, 3 pt] Penny dismisses all test results for Salmonella unless they are shared by Raj Koothrappali, who is known for posting health updates on his social media accounts. What type of bias is displayed when Penny relies solely on information from Raj Koothrappali for her conclusions about the outbreak?
+
+94. [frq, 3 pt] Phoebe Buffay downplays the importance of Salmonella cases in people who visited Burger Blast because it’s her favorite restaurant. What bias is occurring when Phoebe Buffay ignores or minimizes these cases due to her personal preferences for Burger Blast?
+
+95. [frq, 3 pt] JJ Maybank dismisses positive test results from individuals who ate at Burger Blast, assuming that because they didn't show visible symptoms, they couldn't be infected. What bias is at play when JJ Maybank disregards these cases simply because the individuals didn't appear sick?
+
+
+=== Part 4: Matching Vocabulary ===
+
+[STIMULUS] Match the terms in the word bank with their corresponding descriptions. Not all terms will be used.
+
+A. Sensitivity
+B. Specificity
+C. Mortality
+D. Morbidity
+E. Infectivity
+F. Virulence
+G. Contagious
+H. Quarantine
+I. Isolation
+J. Outbreak
+K. Pathogenicity
+L. Cluster
+M. Prevalence
+N. Incidence
+O. Sporadic
+P. Endemic
+Q. Epidemic
+R. Pandemic
+S. Infection
+T. Disease
+U. Vector
+V. Fomite
+W. Contamination
+X. MHAC
+Y. Chemotaxis
+Z. Holoendemic
+27. Serotype
+28. NIH
+29. Immunogenicity
+30. EIS
+31. Hawthorne Effect
+32. Anthroponosis
+33. Berkson's Bias
+34. Crude
+
+96. [mcq, 1 pt] The proportion of persons without a health condition that are correctly identified as such by a screening test, case definition, or surveillance system.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+97. [mcq, 1 pt] The ability of an infectious agent to cause infection, measured as the proportion of persons exposed to an infectious agent who become infected.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+98. [mcq, 1 pt] Capable of being transmitted from one person to another by contact or close proximity.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+99. [mcq, 1 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+100. [mcq, 1 pt] An aggregation of cases of a disease, injury, or other health condition (particularly cancer and birth defects) in a circumscribed area during a particular period without regard to whether the number of cases is more than expected (often the expected number is not known).
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+101. [mcq, 1 pt] When the cumulative effects of the infection cause damage in the tissues.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+102. [mcq, 1 pt] The number of cases of disease occurring within a population at any one given point in time.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+104. [mcq, 1 pt] The state or condition of being subject to death.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+105. [mcq, 1 pt] An event that occurs infrequently and irregularly.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+106. [mcq, 1 pt] The ability of a test, case definition, or surveillance system to identify true cases; the proportion of people with a health condition (or the proportion of outbreaks) that are identified by a screening test or case definition (or surveillance system).
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+107. [mcq, 1 pt] A measure of the frequency with which new cases of illness, injury, or other health condition occurs among a population during a specified period.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+108. [mcq, 1 pt] Any departure, subjective or objective, from a state of physiological or psychological health and well-being.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+109. [mcq, 1 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+111. [mcq, 1 pt] The separation of well persons who have been exposed or are suspected to have been exposed to a communicable disease, to monitor for illness and to prevent potential transmission of infection to susceptible persons during the incubation period.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+112. [mcq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+113. [mcq, 1 pt] When a potentially infectious agent exists in the host but has not yet invaded the tissues of the host.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+114. [mcq, 1 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of persons during a specific period. Usually, the cases are presumed to have a common cause or to be related to one another in some way. More localized, or the term less likely to evoke public panic.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+116. [mcq, 1 pt] The invasion of the body tissues of a host by an infectious agent, whether or not it causes disease.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+120. [mcq, 1 pt] The separation of infected persons to prevent transmission to susceptible ones.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+121. [mcq, 1 pt] An infectious disease that affects almost every person in a population, with the infection beginning early in life and persisting throughout childhood.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+122. [mcq, 1 pt] An epidemic occurring over a widespread area (multiple countries or continents) and usually affecting a substantial proportion of the population.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+123. [mcq, 1 pt] An inanimate object that can be the vehicle for transmission of an infectious agent.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+124. [mcq, 1 pt] The movement of organisms in response to a nutrient source or chemical gradient.
+    A) Sensitivity
+    B) Specificity
+    C) Mortality
+    D) Morbidity
+    E) Infectivity
+    F) Virulence
+    G) Contagious
+    H) Quarantine
+    I) Isolation
+    J) Outbreak
+    K) Pathogenicity
+    L) Cluster
+    M) Prevalence
+    N) Incidence
+    O) Sporadic
+    P) Endemic
+    Q) Epidemic
+    R) Pandemic
+    S) Infection
+    T) Disease
+    U) Vector
+    V) Fomite
+    W) Contamination
+    X) MHAC
+    Y) Chemotaxis
+    Z) Holoendemic
+    [) Serotype
+    \) NIH
+    ]) Immunogenicity
+    ^) EIS
+    _) Hawthorne Effect
+    `) Anthroponosis
+    a) Berkson's Bias
+    b) Crude
+
+
+=== Tiebreaker Questions ===
+
+127. [frq, 3 pt] List three diseases which are nationally notifiable.
+
+[STIMULUS] Define the following acronyms:
+    | Label | Answer |
+    | A AGISAR | [[q:128-A]] |
+    | B SEDRIC | [[q:128-B]] |
+    | C FSIS | [[q:128-C]] |
+    | D NEDSS | [[q:128-D]] |
+    | E NARMS | [[q:128-E]] |
+
+128-A. [frq, 1 pt] Label A AGISAR
+
+128-B. [frq, 1 pt] Label B SEDRIC
+
+128-C. [frq, 1 pt] Label C FSIS
+
+128-D. [frq, 1 pt] Label D NEDSS
+
+128-E. [frq, 1 pt] Label E NARMS
+
+129. [frq, 1 pt] What year was the World Health Organization established?
+
+130. [frq, 3 pt] Explain the difference between antigenic shift and drift in the context of viral evolution and their impact on disease outbreaks.

@@ -1,0 +1,278 @@
+MIT Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  73 questions, 124.0 pts
+Source: scio.ly test archive id d195d125-d2d8-470f-819a-2ffb4a950182
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: - Points are **not** deducted for wrong answers.
+
+
+=== Breast Cancer in Cape Cod ===
+
+[STIMULUS] Read the following excerpt about Breast Cancer rates in Cape Cod:
+
+In 1993, statewide data from the Massachusetts Cancer Registry showed breast cancer incidence rates were significantly higher on Cape Cod than in the rest of Massachusetts. Seven of the state's ten highest incidence cities and towns were located on Cape Cod. To investigate further, the Silent Spring institute conducted the Cape Cod Breast Cancer and Environment study. Read the following description of the study:
+
+The Cape Cod Breast Cancer and Environment Study included 50-minute telephone interviews with 1,165 Cape Cod women diagnosed with breast cancer between 1988 and 1995 and 1,006 comparison women from Cape Cod who were similar in age and vital status. For women who were deceased, a close relative, usually a spouse, was interviewed as a proxy.
+
+The Massachusetts cancer registry partners with a variety of healthcare providers and asks them for data relating to cancer in the state of Massachusetts. They publish the data in an annual report.
+
+1. [mcq, 1 pt] What type of surveillance does the Massachusetts Cancer Registry use?
+    A) Sentinel surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Syndromic surveillance
+
+2. [frq, 2 pt] After publishing a cancer data report, what might be the next step in the surveillance process? Provide both the specific step of surveillance and an example within the context of the Massachusetts cancer registry.
+
+3. [mcq, 1 pt] The study cites the incidence rates of breast cancer in Cape Cod. Incidence is a measure of:
+    A) The overall number of breast cancer cases
+    B) The overall number of breast cancer cases over a specific period
+    C) The number of new breast cancer cases
+    D) The number of breast cancer cases that haven't been diagnosed yet
+
+4. [frq, 1 pt] Based on this information, what type of study did the Silent Spring Institute conduct?
+
+5. [frq, 2 pt] Aside from environmental factors, what are two confounding variables that might affect the cancer rates in a certain area?
+
+6. [mcq, 1 pt] When designing a screening study, it is important to account for lead time bias. Lead time bias is a type of:
+    A) Information bias
+    B) Selection bias
+    C) Confirmation bias
+    D) Extension bias
+
+7. [frq, 2 pt] Describe how lead time bias might impact a breast cancer screening study.
+
+8. [frq, 2 pt] Does breast cancer have an incubation period? Why or why not?
+
+9. [frq, 2 pt] The researchers are worried that the rate of breast cancer on Cape Cod only seems higher because women receive screening more regularly, and not because of a higher prevalence of breast cancer. Is this an example of lead time bias? Why or why not?
+
+10. [frq, 2 pt] On average, women in Cape Cod are diagnosed with breast cancer at the same stage as the state average. How can this fact solve the researcher's dilemma?
+
+[STIMULUS] Each point on this graph represents the odds ratio of breast cancer for women on Cape Cod, as well as the corresponding confidence intervals. The trendline shows a positive association between the amount of time living in Cape Cod and the odds ratio of breast cancer.
+    [IMAGE: ../images/2025_mit_invitational_c__p3_f2a135-f66daa13.webp]
+
+11. [frq, 1 pt] The second data point shows that women who have lived on Cape Cod between 5 and 10 years have an odds ratio of 1.2. Interpret this odds ratio.
+
+12. [frq, 2 pt] Using only the second data point, what can you conclude about the likelihood of developing breast cancer after 5-10 years of living on Cape Cod? Justify your answer.
+
+13. [frq, 3 pt] Suppose you were to limit the sample of the study (both the cases and the controls) to residents who have lived on Cape Cod between 0 and 10 years. How would this affect the odds ratio between 5 and 10 years? Would it go up, down, or stay the same? Explain your thinking.
+
+14. [mcq, 1 pt] The researchers hypothesize that high chemical and environmental exposure is to blame for the higher rates of breast cancer in Cape Cod. They want to design an ecological study to test their hypothesis. Which of the following would be appropriate treatment groups for the study?
+    A) A town in Cape Cod, MA and the city of Richmond, CA
+    B) Two different towns in Cape Cod
+    C) Women with breast cancer in Cape Cod, MA and women with breast cancer in Richmond, CA
+    D) Women in Cape Cod with breast cancer and women in Cape Cod without breast cancer
+
+15. [frq, 2 pt] Is an ecological study design a good choice for the researchers? If so, what makes an ecological study design a good fit? If not, propose an alternative model for the researchers to follow.
+
+
+=== Rabies Outbreak ===
+
+[STIMULUS] You, an experienced veterinarian, have been asked to consult about a spike in rabies-related incidents in your city. 8 people have been bitten by feral dogs over the past 6 weeks. At least one of the dogs was caught and tested positive for rabies using a direct fluorescent antibody test. While the exact number of infected dogs is unknown, you believe that this is a serious issue.
+
+First, you decide to brush up on your rabies facts. Here is an excerpt from the WHO fact sheet on Rabies:
+
+- Rabies is a serious public health problem in over 150 countries and territories, mainly in Asia and Africa. It is a viral, zoonotic, neglected tropical disease that causes tens of thousands of deaths annually, with 40% being children under 15.
+- Dog bites and scratches cause 99% of the human rabies cases, and can be prevented through dog vaccination and bite prevention.
+- Once the virus infects the central nervous system and clinical symptoms appear, rabies is fatal in 100% of cases.
+- However, rabies deaths are preventable with prompt post exposure prophylaxis (PEP) by stopping the virus from reaching the central nervous system. PEP consists of thorough wound washing, administration of a course of human rabies vaccine and, when indicated, rabies immunoglobulins (RIG).
+- If a person is bitten or scratched by a potentially rabid animal, they should immediately and always seek PEP care.
+- The incubation period for rabies is typically 2–3 months but may vary from one week to one year, depending on factors such as the location of virus entry and the viral load.
+- Initial symptoms of rabies include generic signs like fever, pain and unusual or unexplained tingling, pricking, or burning sensations at the wound site.
+
+Based on the fact sheet, answer the following questions about Rabies transmission:
+
+16. [tf, 1 pt] Rabies is an arbovirus.
+    A) True
+    B) False
+
+18. [tf, 1 pt] Rabies transmission is a form of direct contact.
+    A) True
+    B) False
+
+19. [mcq, 2 pt] The first rabies vaccine was developed by Louis Louis Pasteur in the 1880's. He hypothesized that, just like the smallpox vaccine, introducing a 'weaker' version of the rabies virus into the body could innoculate patients against the disease. His original method of vaccination worked by administering 10 doses of his vaccine to a patient. Each vaccine dose had strains of the virus with increasingly higher ____.
+    A) Pathogenicity
+    B) Virulence
+    C) Infectivity
+
+20. [frq, 1 pt] What type of vaccine was Louis Pasteurs original vaccine?
+
+21. [frq, 2 pt] The current rabies vaccine is a deactivated whole virus vaccine. What is the difference between this and Louis Pasteur's original type of vaccine?
+
+22. [frq, 1 pt] Unlike most vaccines, the rabies vaccine can be administered after a person has contracted rabies. What property of rabies and the rabies vaccine makes this possible?
+
+23. [frq, 2 pt] What is one advantage and disadvantage of a deactivated whole virus vaccine?
+
+24. [frq, 2 pt] Given the advantages and disadvantages of a deactivated virus vaccine, why might it be a good option for treating rabies?
+
+25. [frq, 2 pt] What type of immunity does the rabies vaccine provide? What about RIG?
+
+26. [frq, 1 pt] During what stage of disease did these patients receive care?
+
+28. [frq, 2 pt] What groups are most at risk of contracting rabies in this outbreak? Give 2 examples.
+
+29. [frq, 2 pt] Based on your answer, propose two possible interventions to disseminate rabies information to at-risk populations.
+
+30. [frq, 1 pt] One of the main methods of prevention for rabies is administering an oral rabies vaccine to feral and wild animals. Which step in the chain of transmission of rabies does this break?
+
+35. [frq, 1 pt] The r0 of this rabies outbreak is 2.5. Interpret this value.
+
+36. [numeric, 3 pt] A new vaccination program has been initiated, aiming to administer oral vaccinations to the feral dog population of the city. Given the feral dog population is around 10,000, how many dogs need to be vaccinated to reach herd immunity?
+
+
+=== Meat Madness ===
+
+[STIMULUS] Basil and Jonah take a backpacking trip on the Continental Divide Trail, bringing with them only dehydrated meals from REI. In Jackson, WY, desperate for any taste of 'real' food, they stumble across the annual Jackson Bear Meat Festival, where vendors from across the Rockies cook up diverse bear delicacies. Basil vaguely remembers reading about the risk of contracting trichinellosis (a parasitic infection caused by Trichinella worms) after eating bear meat, but decides the benefits (real? food after eating only rehydrated mac and cheese for a week) outweigh the potential costs (a severe infection).
+
+A few days later, Basil and Jonah have almost reached the destination of their trek (Yellowstone National Park), but Jonah quickly starts experiencing headaches, nausea, and diarrhea. They decide the best move is to fly back to Boston and re-assess when they get there.
+
+It turns out Jonah is not the only attendee who experiences such symptoms. Based on the following descriptions, characterize these cases as either confirmed, probable, or unconfirmed:
+
+37a. [mcq, 1 pt] Robin attended the Jackson Bear Meat Festival; experiences mild headaches
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+37b. [mcq, 1 pt] Eric attended the Jackson Bear Meat Festival; experiences severe nausea and diarrhea, laboratory tests find the parasite
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+37c. [mcq, 1 pt] Heidi attended the Jackson Bear Meat Festival; experiences nausea, diarrhea, and extreme headaches
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+37d. [mcq, 1 pt] Derek attended the Jackson Bear Meat Festival; experiences no symptoms, but laboratory tests find the parasite
+    A) Confirmed
+    B) Probable
+    C) Unconfirmed
+
+38. [frq, 3 pt] Construct a case definition for this outbreak; include all the usual components.
+
+[STIMULUS] The local public health authority (you) interviews everyone who ate food at the festival about their symptoms and exposures, creating the following table:
+
+| **Exposure** | **Tested positive** | **Tested negative** |
+|---|---|---|
+| Bob's bear burgers | 21 | 41 |
+| Grizzly gumbo | 16 | 19 |
+| Furry fritters | 25 | 33 |
+| Trekking tartare | 41 | 2 |
+
+Note that 50 attendees out of 114 total tested positive.
+
+39. [frq, 1 pt] What type of study is this? Be sure to include if it is prospective or retrospective, if relevant.
+
+40. [frq, 8 pt] Based on the table above, calculate both the odds ratio and relative risk for all the potential exposures. Round your answer to the 100ths place.
+
+41. [frq, 1 pt] Which of those is the appropriate measure of risk based on the type of study you identified earlier?
+
+42. [frq, 1 pt] Does this type of study allow you to determine causality?
+
+43. [frq, 3 pt] You should have found that the odds ratio and relative risk was highest for the 'Trekking (bear meat) tartare' (a dish prepared with raw bear meat). Construct a 2x2 table for this.
+
+[STIMULUS] We want to use a chi-square test to determine if the measure of risk for the bear meat tartare is statistically significant. State the null (H0) and alternative (Ha) hypotheses for this scenario.
+    | Label | Answer |
+    | H0 null hypothesis | [[q:44-H0]] |
+    | Ha alternative hypothesis | [[q:44-Ha]] |
+
+44-H0. [frq, 1 pt] Label H0 null hypothesis
+
+44-Ha. [frq, 1 pt] Label Ha alternative hypothesis
+
+47a. [frq, 2 pt] Is chi-square always a useful measure of statistical significance? Why or why not?
+
+47b. [frq, 2 pt] What is a different test you could use? When?
+
+48. [frq, 4 pt] We can compute Fisher's Exact Test for a 2x2 table using the following formula:
+    
+    $p = \frac{(a+b)!(c+d)!(a+c)!(b+d)!}{a!b!c!d!n!}$
+    
+    Calculate $p$ for the trekking tartare; round your answer to 3 significant figures.
+
+49. [frq, 2 pt] Using 0.05 as our threshold, does the p-value we calculated from the Fisher's Exact Test indicate our data are statistically significant? Why?
+
+50. [frq, 2 pt] Based on your experience calculating the p-value using Fisher's Exact Test with a calculator, why might it not be suited to all datasets?
+
+[STIMULUS] You want to look at the time course of this outbreak, so you generate the following epi-curve.
+    [IMAGE: ../images/2025_mit_invitational_c__p13_469cc4-00e14a85.webp]
+
+51. [frq, 2 pt] What is the average incubation period for trichinellosis?
+
+52. [frq, 1 pt] What type of outbreak is this?
+
+[STIMULUS] Obsessed with maps and data of all kinds, you also generate the following map to show the geographic distribution of cases:
+    [IMAGE: ../images/2025_mit_invitational_c__p13_30317d-df424e3e.webp]
+
+53. [frq, 1 pt] What type of map is this?
+
+54. [frq, 1 pt] Is this plot at all helpful for gaining information about the outbreak?
+
+55. [frq, 1 pt] In the context of this map, what does Jonah represent?
+
+56a. [frq, 2 pt] As absurd as this map is, what very real biases might maps like this introduce into epidemiological analysis? (name 2)
+
+56b. [frq, 2 pt] On the other hand, what are 2 ways in which these maps are useful tools?
+
+[STIMULUS] Let's dig deeper into this parasitic infection and its ties to bear meat. Trichinellosis is a rare parasitic infection that is most commonly found in wild game meat. Interestingly, trichinellosis can contaminate foods served alongside infected meat, potentially complicating prevention measures.
+
+57. [frq, 4 pt] Based on this information, name 2 prevention measures the Jackson Bear Meat Festival could take to prevent such an outbreak from occurring in the future
+
+[STIMULUS] Characterize the following recommendation by its level of prevention:
+
+The CDC also convenes a working group to investigate how to combat parasitic infections across the United States more broadly. Characterize the following recommendations from the working group by their level of prevention:
+
+58a. [frq, 1 pt] Issuing a memo to all hospitals in Wyoming with guidelines on how to treat trichinellosis patients.
+
+58b. [frq, 1 pt] Airing a PSA to Wyoming residents warning about the dangers of consuming undercooked wild game meat.
+
+58c. [frq, 1 pt] Screening bears and other game in the state for Trichinella worms and treating the game accordingly.
+
+59. [frq, 2 pt] Another recommendation of the working group is to deep freeze bear meat before cooking and preparation. Based on your knowledge of parasitic pathogens, will this always be an effective prevention strategy? Justify your answer.
+
+60. [frq, 1 pt] While parasitic infections are often quite rare, there are some very common ones. Name one.
+
+
+=== Canine Cancers ===
+
+[STIMULUS] The vast majority of cancers are non-transmissible, with one of the notable exceptions being Canine transmissible venereal tumor (CTVT). This cancer is transmitted from dog-to-dog in the process of mating. Fascinatingly, the CTVT tumor consists not of cancerous genitalia cells of the infected dog, but rather asexually reproducing tumor cells descended from one original dog (thought to have lived nearly 11,000 years ago) which are then transmitted between animals as an allograft.
+
+Let's revisit maps as tools for epidemiology. In the Meat Madness case study, you looked at a map of trichinellosis cases across the United States; now, we will analyze a map of CTVT cases across the globe.
+    [IMAGE: ../images/2025_mit_invitational_c__p16_b5cbc2-a3a612a4.webp]
+
+61. [frq, 2 pt] What do you notice about the regions of the world with higher CTVC prevalence?
+
+62. [frq, 2 pt] Based on your (probably limited) previous knowledge of global dog populations and conditions, hypothesize as to the potential causes of this case distribution.
+
+63. [frq, 2 pt] You catch word that an outbreak of CTVC has occurred at your local animal shelter, Aidan and Aiden's Animals, and shelter managers Aidan and Aiden don't know what to do! What is 1 potential control measure Aidan and Aiden could take to stop the spread of CTVC?
+
+[STIMULUS] Characterize what type of surveillance this is, and explain why it might be effective or ineffective:
+
+You propose that the Massachusetts CDC branch improve its surveillance for CTVC. For each of the following potential improvements, characterize what type of surveillance it is, and explain why it might be effective or ineffective:
+
+64a. [frq, 1 pt] Mandate bimonthly testing of all dogs in animal shelters across the state and query all animal shelters for results.
+
+64b. [frq, 1 pt] Create a website for all animal shelters and veterinarians to report cases to the CDC.
+
+64c. [frq, 1 pt] Train certain veterinarians in high-risk areas to be specialized CTVC reporters.
+
+65. [frq, 2 pt] A helpful feature of CTVC tumors is that they all contain a specific 1.5 kb long interspersed nuclear element (LINE) insertion upstream of the c-myc gene which can be used for diagnostic testing. Based on your knowledge that this insertion is only present in CTVC tumor cells, propose a non-sequencing based method for determining if a cell is from a CTVC tumor.
+
+66. [frq, 1 pt] Differentiate between this method and another non-sequencing based diagnostic technique, namely, PFGE (which was used for distinguishing strains of foodborne illness in PulseNet).
+
+67. [frq, 2 pt] Name both an advantage and a disadvantage your technique may have over whole-genome-sequencing for diagnosing CTVC.
+
+74. [frq, 2 pt] Now let's consider another hypothetical diagnostic test; for the purposes of this question, it doesn't really matter what we're actually testing for. We generate the following graph, which plots cases vs the test read-out:
+    
+    Of course, if this was real data then the graphs wouldn't be perfectly smooth and we'd have discrete data points, but for our purposes it's easier to think about the cases as probability distributions. In other words, the green part represents the probability distribution for true negative cases, and the red part represents the probability distribution of true positive cases, both relative to the test-read out (I've also gone ahead and assumed these are normal distributions to make the graphing nicer as well). Based on the graph, what test read-out would you pick as the threshold value? Why? Remember, the goal of our test is to distinguish between positive and negative cases.
+    [IMAGE: ../images/2025_mit_invitational_c__p20_b4cce1-1fb7dbb4.webp]
+
+75. [frq, 1 pt] Thinking more specifically, recall that the most accurate COVID-19 tests were PCR tests. What was the "test read-out" for these tests which we would be using to determine a threshold value?
+
+[STIMULUS] 
+    [IMAGE: ../images/2025_mit_invitational_c__p21_08568a-04523257.webp]
+
+76. [frq, 2 pt] Now, let's consider a different hypothetical test, where we've collected the same type of data as our first graph:
+    
+    Without looking at any actual ROC curves, which test will have a greater area-under-the-ROC-curve (AUROC)? Remember that AUROC is quantifying how well a test distinguishes between positive and negative cases. Why?
+
+77. [frq, 1 pt] If we plotted the data for a perfect diagnostic test, what would look different compared to the graphs above?

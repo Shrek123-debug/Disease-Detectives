@@ -1,0 +1,439 @@
+Boyceville - WI — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  68 questions, 130.0 pts
+Source: scio.ly test archive id 265324de-57b2-4b1a-8be9-0b82d05520be
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: Select the single best answer for each question, unless otherwise indicated. (2 pts each, unless otherwise marked)
+
+
+=== Background and Surveillance ===
+
+1. [mcq, 2 pt] The primary focus of public health is:
+    A) Treating individual patients to restore their health.
+    B) Determining the specific drug dosage for a patient.
+    C) Preventing disease and injury in the entire community or population.
+    D) Diagnosing the exact strain of a pathogen in a single case.
+
+2. [mcq, 2 pt] The clinical approach is generally concerned with which immediate outcome?
+    A) Identifying the common source of an infection.
+    B) Diagnosis and treatment of a single, sick individual.
+    C) Evaluating the effectiveness of a prevention policy.
+    D) Calculating the total risk in a population.
+
+3. [mcq, 2 pt] The incubation period occurs between:
+    A) The onset of symptoms and the point of recovery.
+    B) The time of exposure to the agent and the first appearance of symptoms.
+    C) The diagnosis of the disease and the implementation of treatment.
+    D) The pre-pathogenesis and the clinical stage.
+
+4. [mcq, 2 pt] Which activity is part of the assessment role of epidemiology in public health?
+    A) Implementing disease control measures.
+    B) Identifying and describing the extent and nature of health problems in a community.
+    C) Evaluating the success of a policy change.
+    D) Enforcing health regulations.
+
+5. [mcq, 2 pt] Which activity is part of the policy development and assurance role of epidemiology?
+    A) Calculating the total number of cases.
+    B) Implementing prevention programs and policies.
+    C) Determining the incubation period.
+    D) Writing the final report on an outbreak.
+
+6. [mcq, 2 pt] What is typically the first step in the general process of solving a health problem?
+    A) Implement an intervention.
+    B) Identify risk factors.
+    C) Define the problem.
+    D) Formulate a hypothesis.
+
+7. [mcq, 2 pt] The point in the natural history of disease where the disease process has begun but symptoms are not yet present is referred to as the:
+    A) Convalescence stage
+    B) Clinical stage
+    C) Pre-clinical or Subclinical stage
+    D) Recovery stage
+
+8. [mcq, 2 pt] Which infectious agent is acellular and requires a host cell's machinery to reproduce?
+    A) Bacteria
+    B) Fungus
+    C) Prion
+    D) Virus
+
+9. [mcq, 1 pt] A disease caused by a misfolded protein with no genetic material, such as Creutzfeldt-Jakob disease, is a:
+    A) Viral disease
+    B) Bacterial disease
+    C) Prion disease
+    D) Protozoan disease
+
+10. [mcq, 1 pt] Which of the following is considered a noninfectious cause of disease?
+    A) Fungal exposure
+    B) Protozoal infection
+    C) Exposure to a high level of air pollution
+    D) Bacterial contamination
+
+11. [mcq, 1 pt] The spectrum of disease refers to the full range of:
+    A) Possible agents that could cause an illness.
+    B) Disease severity, from subclinical infection to fatal outcomes.
+    C) Ages affected by a disease.
+    D) Types of vaccines available for a pathogen.
+
+12. [mcq, 1 pt] The restriction of movement of exposed, but healthy people is called:
+    A) Isolation
+    B) Quarantine
+    C) Sentinel Surveillance
+    D) Contact Tracing
+
+13. [mcq, 1 pt] A measurable characteristic associated with an increased probability of an adverse health event is called a:
+    A) Vector
+    B) Fomite
+    C) Risk
+    D) Vehicle
+
+14. [mcq, 1 pt] Which type of surveillance involves health department staff seeking out cases of disease from healthcare providers, laboratories, or the community?
+    A) Active Surveillance
+    B) Passive Surveillance
+    C) Sentinel Surveillance
+    D) Syndromic Surveillance
+
+15. [mcq, 1 pt] A surveillance system that uses a few designated, specialized clinics to collect highly accurate data on specific disease trends is called:
+    A) Universal Surveillance
+    B) Sentinel Surveillance
+    C) Enhanced Passive Surveillance
+    D) Mandated Surveillance
+
+16. [mcq, 1 pt] Which attribute of a surveillance system relates to how well the system identifies all cases in the population?
+    A) Simplicity
+    B) Flexibility
+    C) Representativeness
+    D) Timeliness
+
+17. [mcq, 1 pt] What is the second major component of the 5-Step Process for surveillance?
+    A) Analyze the data.
+    B) Distribute case definitions and necessary information.
+    C) Evaluate the system.
+    D) Disseminate the findings.
+
+[STIMULUS] Match each contribution with the correct individual.
+
+
+
+
+
+
+
+
+
+
+    [IMAGE: ../images/2026_boyceville_wi_c__p4_00065a-ef7faba1.webp]
+
+18. [mcq, 1 pt] Provided a framework for classifying and measuring illness severity and duration
+    A) John Graunt
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Joseph Goldberger
+    E) Edward Sydenstricker
+    F) James Lind
+    G) John Snow
+    H) Robert Koch
+    I) MacMahon
+
+19. [mcq, 1 pt] First to quantify patterns of birth, death, and disease occurrence
+    A) John Graunt
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Joseph Goldberger
+    E) Edward Sydenstricker
+    F) James Lind
+    G) John Snow
+    H) Robert Koch
+    I) MacMahon
+
+20. [mcq, 1 pt] Demonstrated that citrus fruits cured scurvy through use of a controlled trial
+    A) John Graunt
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Joseph Goldberger
+    E) Edward Sydenstricker
+    F) James Lind
+    G) John Snow
+    H) Robert Koch
+    I) MacMahon
+
+22. [mcq, 1 pt] Made key contributions to cancer epidemiology
+    A) John Graunt
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Joseph Goldberger
+    E) Edward Sydenstricker
+    F) James Lind
+    G) John Snow
+    H) Robert Koch
+    I) MacMahon
+
+25. [mcq, 1 pt] Investigated the 1854 Broad Street pump cholera outbreak in London
+    A) John Graunt
+    B) Edward Jenner
+    C) Louis Pasteur
+    D) Joseph Goldberger
+    E) Edward Sydenstricker
+    F) James Lind
+    G) John Snow
+    H) Robert Koch
+    I) MacMahon
+
+
+=== Outbreak Investigation ===
+
+[STIMULUS] Use the chart below to answer the following questions:
+    [IMAGE: ../images/2026_boyceville_wi_c__p6_ca9425-9d845145.webp]
+
+41. [frq, 2 pt] What is the independent variable? How is it measured?
+
+42. [frq, 2 pt] What is the dependent variable? How is it measured?
+
+43. [frq, 2 pt] How many cases were present at the peak?
+
+44. [frq, 2 pt] When was the onset of the first case?
+
+45. [frq, 2 pt] What type of Epi Curve does this Epi Curve represent?
+
+46. [mcq, 2 pt] If the R₀ for an infectious disease is 1.5, the disease is expected to:
+    A) Cause a pandemic.
+    B) Die out slowly.
+    C) Remain endemic until at a stable level.
+    D) Spread exponentially.
+
+47. [mcq, 2 pt] The primary purpose of achieving herd immunity in a population is to:
+    A) Eliminate the disease agent from the environment.
+    B) Protect susceptible individuals who cannot be vaccinated (e.g., infants).
+    C) Reduce the severity of illness in infected persons.
+    D) Ensure all vaccinated individuals are 100% immune.
+
+48. [mcq, 2 pt] The Effective Reproductive Number will be lower than the Basic Reproductive Number primarily because of which factor in the population?
+    A) Lower average density of the population.
+    B) Increased duration of infection.
+    C) Pre-existing immunity (e.g., vaccination or prior infection).
+    D) Increased mutation rate of the agent.
+
+49. [mcq, 2 pt] The HIT is mathematically calculated using which parameter?
+    A) Incidence Rate
+    B) Attack Rate
+    C) Basic Reproductive Number
+    D) Odds Ratio
+
+50. [mcq, 2 pt] An epidemiologist begins an investigation by noting characteristics using the Person-Place-Time triad. This descriptive process is primarily used to formulate a testable hypothesis and to refine the ____.
+    A) Host environment triad
+    B) Attack rate calculation
+    C) Case definition
+    D) Study methodology
+
+51. [mcq, 2 pt] When comparing the risk of an outcome in an exposed group versus an unexposed group, a Relative Risk of 0.6 suggests:
+    A) No association
+    B) A strong risk factor
+    C) A protective factor
+    D) An association that is statistically non-significant
+
+52. [mcq, 2 pt] The primary disadvantage of a cross-sectional study in determining causation is that it:
+    A) Is very expensive and time-consuming.
+    B) Cannot establish the temporality (which came first: exposure or outcome).
+    C) Is only suitable for rare diseases.
+    D) Requires laboratory confirmation for every case.
+
+53. [mcq, 2 pt] The Component Cause Model assumes that a single cause is rarely enough to produce a disease, but rather requires a combination of component causes to form a ____ cause.
+    A) Necessary
+    B) Sufficient
+    C) Proximate
+    D) Temporal
+
+54. [mcq, 2 pt] The primary limitation of a case-control study is that it is highly susceptible to which type of bias?
+    A) Selection Bias
+    B) Confounding
+    C) Recall Bias
+    D) Differential Bias
+
+55. [mcq, 2 pt] In the context of the Agent-Host-Environment Triad, the presence of an infected rodent population near a human habitat would be classified as a factor of the:
+    A) Agent
+    B) Host
+    C) Environment
+    D) Time
+
+56. [mcq, 2 pt] The main advantage of a prospective cohort study over other observational studies is that it allows epidemiologists to directly calculate the:
+    A) Odds Ratio
+    B) Incidence (Absolute Risk) and Relative Risk
+    C) Prevalence
+    D) Case Fatality Rate
+
+57. [mcq, 2 pt] The comparison of Koch's Postulates with newer models like Directed Acyclic Graphs (DAGs) highlights that DAGs are designed to:
+    A) Prove that every infectious disease has only one cause.
+    B) Visualize and clarify complex causal pathways involving multiple factors and confounding.
+    C) Eliminate the need for lab confirmation.
+    D) Calculate the basic reproductive number.
+
+58. [mcq, 2 pt] The PulseNet system is a national laboratory network that utilizes which technique to link foodborne illness outbreaks across states?
+    A) Antibody testing
+    B) Microscopy
+    C) Molecular subtyping (e.g., PFGE or WGS)
+    D) ELISA assays
+
+59. [mcq, 2 pt] An epidemiologist uses adjusted rates (e.g., age-adjusted mortality) to compare disease frequencies between two different populations. This adjustment is done primarily to account for:
+    A) Recall bias
+    B) Confounding variables that differ between populations
+    C) The strength of association (RR/OR)
+    D) The total number of people in the study
+
+60. [mcq, 2 pt] In a case-control study investigating a chemical exposure 10 years prior, the primary challenge of collecting accurate exposure data from study subjects, leading to misclassification, is known as:
+    A) Selection Bias
+    B) Confounding
+    C) Recall Bias
+    D) Observation Bias
+
+[STIMULUS] Scenario: Liver Cancer Study
+
+A case-control study on a rare form of liver cancer found an Odds Ratio of 3.5 (95% Confidence Interval: 1.2 – 8.8) associated with exposure to a specific industrial solvent.
+
+61. [mcq, 2 pt] Based on the results of the study, which conclusion is correct regarding the association between the solvent exposure and liver cancer?
+    A) The exposure is a protective factor because the OR is greater than 1.
+    B) The association is not statistically significant because the CI is wide.
+    C) The exposure is a statistically significant risk factor as the entire CI is greater than 1.0.
+    D) The study proves the solvent is the direct cause of the cancer.
+
+[STIMULUS] Identify whether the following descriptions correspond best to a case-control study (A), cohort study (B), cross-sectional study (C), or experimental (D) study. Some labels may be used more than once, while some may not be used at all.
+
+62. [mcq, 2 pt] Researchers wish to determine the prevalence of vaping and associated lung damage among all high school students in a single school district. They administer a single-day survey that simultaneously asks about both current smoking habits and respiratory symptoms.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+63. [mcq, 2 pt] To test the effectiveness of a new COVID-19 vaccine, 30,000 healthy volunteers are randomly divided into two groups. One group receives the active vaccine, and the other receives a saline placebo. Both groups are then monitored for two years to compare infection rates.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+64. [mcq, 2 pt] An epidemiologist identified 100 people who developed a rare form of liver cancer (the cases) and selected 100 people of similar age and gender who did not have the cancer (the controls). They then interviewed all 200 people to determine their past history of industrial solvent exposure 20 years ago.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+65. [mcq, 2 pt] To investigate the long-term effects of childhood obesity, a team recruited 500 children categorized as obese and 500 children categorized as normal weight. They will follow both groups for 30 years to see who develops Type 2 Diabetes, allowing them to directly calculate the risk.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+66. [mcq, 2 pt] A health department reviewed all birth records from 1980–1985 to identify infants whose mothers were exposed to high levels of lead during pregnancy. They then tracked those individuals up to the present day to calculate the rate of learning disabilities compared to unexposed individuals.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+67. [mcq, 2 pt] In a hospital emergency room, a physician records whether each patient presenting with severe gastrointestinal distress (the outcome) consumed raw shellfish in the last 72 hours (the exposure). This data is collected to rapidly screen for an association.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+68. [mcq, 2 pt] A pharmaceutical company wants to assess a new drug for lowering blood pressure. Participants are separated into two groups using a computerized random number generator; neither the participants nor the administering nurse knows who is receiving the drug versus the sugar pill.
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+69. [mcq, 2 pt] Researchers distributed a one-time, anonymous health questionnaire to all employees at a manufacturing plant, asking about their current symptoms of carpal tunnel syndrome and their current job title (which indicates their level of repetitive task exposure)
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Experimental study
+
+
+=== Patterns, Control, and Prevention ===
+
+70. [mcq, 2 pt] A novel pathogen has a R₀ of 4.0. To achieve herd immunity, which combination of vaccine efficacy and population coverage would be insufficient?
+    A) Efficacy: 90%, Coverage: 90%
+    B) Efficacy: 75%, Coverage: 95%
+    C) Efficacy: 95%, Coverage: 85%
+    D) Efficacy: 99%, Coverage: 80%
+
+71. [mcq, 2 pt] Which activity is an example of primary prevention?
+    A) Implementing mandatory screening for Type 2 Diabetes in adults over 45.
+    B) Providing long-term physical therapy to a patient who suffered a stroke.
+    C) Instituting a mandatory influenza vaccination program for all high school students.
+    D) Using antibiotics to treat an individual diagnosed with tuberculosis.
+
+72. [mcq, 2 pt] A large urban hospital implements a program to provide free mammograms to all women over the age of 40 in its service area. This program is an example of which level of prevention?
+    A) Primary Prevention
+    B) Secondary Prevention
+    C) Tertiary Prevention
+    D) Primordial Prevention
+
+73. [mcq, 2 pt] Which public health strategy is NOT a form of primary prevention?
+    A) Enforcing safety standards on playground equipment.
+    B) Launching a community-wide campaign to promote safe condom use.
+    C) Chlorination of public water supplies.
+    D) Rehabilitating a stroke victim with physical and occupational therapy.
+
+74. [mcq, 2 pt] Which action best represents the scope of primordial prevention?
+    A) Treating a newly diagnosed high blood pressure patient with medication.
+    B) Testing a person for pre-symptomatic cancer.
+    C) Developing national policies aimed at reducing the consumption of salt and sugar across the entire population
+    D) Providing free helmets to cyclists to prevent head injury.
+
+[STIMULUS] The School Lunch Outbreak
+
+An urgent call is placed to the local health department on Tuesday, October 20th. By the end of the day, 40 students and staff at a local high school (total population 300 people) have reported severe gastrointestinal illness with onset between Monday afternoon and Tuesday morning. All ill individuals ate the school lunch on Monday, October 19th.
+
+An epidemiologist collects the following data on the consumption of the main items from the Monday lunch menu:
+
+| Item Consumed | Ill | Well | Total Consumed | Attack Rate |
+|---|---|---|---|---|
+| Chicken Salad Sandwich | 35 | 15 | 50 | 70.0% (35/50) |
+| Tuna Salad Sandwich | 8 | 42 | 50 | 16.0% (8/50) |
+| Veggie Wrap | 3 | 97 | 100 | 3.0% (3/100) |
+| Pepperoni Pizza | 2 | 148 | 150 | 1.3% (2/150) |
+
+The lowest-risk item consumed, the pepperoni pizza (AR 1.3%), is identified as the most suitable unexposed/reference group.
+
+75. [frq, 4 pt] Calculate the Relative Risk of illness for those who ate the chicken salad sandwich compared to the reference group (Pizza).
+
+76. [frq, 4 pt] Calculate the Attributable Risk Percent for the chicken salad sandwich, using the pizza as the unexposed group. (Round to one decimal place).
+
+77. [mcq, 2 pt] Based on the analysis, which is the most appropriate action for the initial hypothesis that the tuna salad sandwich caused the outbreak?
+    A) Accept the tuna salad hypothesis.
+    B) Reject the tuna salad hypothesis in favor of the chicken salad hypothesis due to significantly higher RR/AR.
+    C) Reject both hypotheses.
+    D) Conduct a cohort study.
+
+78. [frq, 4 pt] If the chicken salad outbreak agent has an inherent R₀ of 10.0 and the school population (300 people) is assumed to have 85% susceptibility (15% pre-existing immunity), calculate the Effective Reproductive Number (Rₑ).
+
+79. [frq, 4 pt] Using the R₀ of 10.0 from the previous question, calculate the minimum herd immunity threshold required to stop the spread of this agent. (Express as a percentage).
+
+80. [mcq, 2 pt] Which set of findings, if true, would provide the most compelling evidence to verify the cause of this outbreak?
+    A) The RR was very high, and the Epi Curve was a point source pattern.
+    B) Lab confirmation (PFGE) shows the pathogen from ill patients matches the pathogen from leftover chicken salad, AND the RR is extremely high.
+    C) All 40 ill people were interviewed.
+    D) The Attributable Risk Percent was very high.
+
+81. [mcq, 2 pt] The fact that the RR and AR were calculated using data collected after the outbreak had been defined and investigated makes this portion of the study an example of:
+    A) Descriptive Epidemiology
+    B) Analytical Epidemiology (Hypothesis Testing)
+    C) Intervention Implementation
+    D) Ecological Study
+
+[STIMULUS] Use the line graph below for questions 82-86.
+    [IMAGE: ../images/2026_boyceville_wi_c__p14_5bb198-73a7832e.webp]
+
+82. [frq, 2 pt] Given the above line graph of flu cases over a six-year period, during which month or season does the disease consistently peak?
+
+83. [frq, 2 pt] During which month or season does the disease incidence consistently drop to its lowest point?
+
+84. [mcq, 2 pt] The consistent, recurring annual pattern of flu cases is best categorized as a:
+    A) Secular Trend
+    B) Seasonal Trend
+    C) Propagated Epidemic
+    D) Cyclical Trend
+
+85. [frq, 2 pt] Which specific year shows an uncharacteristically early or late peak compared to the other five years, and what month did that peak occur?
+
+86. [mcq, 2 pt] The consistent seasonality of this disease is most likely attributable to which combination of factors?
+    A) Changes in global temperature and antibiotic resistance.
+    B) Changes in host behavior (school terms, indoor crowding) and environmental conditions (lower humidity).
+    C) A continuous common source exposure with an estimated 6-month incubation period.
+    D) Long-term improvements in public sanitation systems.

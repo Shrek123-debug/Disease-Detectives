@@ -1,0 +1,267 @@
+Camas - WA — Disease Detectives  |  Season 2026  |  Division C  |  Time limit 50 min  |  43 questions, 51.0 pts
+Source: scio.ly test archive id f4bdad1d-3626-4f06-be01-4f1be3ab5459
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== Part i. Background and Surveillance ===
+
+[STIMULUS] In the following examples from the life of John Snow, the founder of epidemiology, identify moments where he utilized the clinical approach, public health approach, or both.
+
+P1-1. [mcq, 1 pt] As a surgeon-apothecary apprentice in 1832, he worked in the coal-mining town of Killingworth and treated many victims of the cholera epidemic.
+    A) Clinical
+    B) Public health
+    C) Both
+
+P1-3. [mcq, 1 pt] As a leading expert in anesthetics, Snow was invited to administer chloroform for Queen Victoria’s 8th and 9th children.
+    A) Clinical
+    B) Public health
+    C) Both
+
+P1-4. [mcq, 1 pt] Investigating cholera cases in areas of London served by different water companies, Snow hypothesized that cholera was spread via contaminated drinking water rather than through “bad air,” as suggested by the prevailing miasma theory.
+    A) Clinical
+    B) Public health
+    C) Both
+
+[STIMULUS] Match each of the following with an individual from the bank below.
+
+A. James Lind
+B. Ignaz Semmelweis
+C. Robert Koch
+
+D. Bradford Hill  E. John Graunt  F. Ibn al-Nafis
+
+P1-5. [mcq, 1 pt] Proposed that doctors wash hands to reduce incidence of postpartum infection.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+P1-6. [mcq, 1 pt] Demonstrated the link between smoking and lung cancer alongside Richard Doll.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+P1-7. [mcq, 1 pt] A statistician who developed quantitative ways to analyze mortality data.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+P1-8. [mcq, 1 pt] Discovered that eating citrus fruit cures scurvy.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+P1-9. [mcq, 1 pt] Discovered the causative agents of anthrax and tuberculosis.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+P1-10. [mcq, 1 pt] A polymath who studied a malnutrition outbreak by creating an outbreak map and compared it to Hippocrates’ work.
+    A) James Lind
+    B) Ignaz Semmelweis
+    C) Robert Koch
+    D) Bradford Hill
+    E) John Graunt
+    F) Ibn al-Nafis
+
+[STIMULUS] Match each scenario to a step in the public health surveillance process.
+
+A. Data Collection
+B. Data Analysis
+C. Data Interpretation
+
+D. Data Dissemination  E. Action / Intervention
+
+P1-11. [mcq, 1 pt] Expanded fitness programs are implemented in metropolitan schools identified to have high rates of childhood obesity.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Action / Intervention
+
+P1-12. [mcq, 1 pt] The WA Department of Health posts a newsletter summarizing the details of an ongoing outbreak.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Action / Intervention
+
+P1-13. [mcq, 1 pt] An observed increase in salmonella cases in the Seattle area over the course of a month prompts further investigation into possible sources.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Action / Intervention
+
+P1-14. [mcq, 1 pt] When a patient is discharged from the hospital, an electronic health record (like MyChart) is made of the visit.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Action / Intervention
+
+P1-15. [mcq, 1 pt] A chart is used to display the frequencies of reported influenza cases across several WA counties over several weeks.
+    A) Data Collection
+    B) Data Analysis
+    C) Data Interpretation
+    D) Data Dissemination
+    E) Action / Intervention
+
+P1-16. [mcq, 1 pt] An animate intermediary that carries an infectious agent from a reservoir to a host.
+    A) Parasite
+    B) Vector
+    C) Fomite
+    D) Zoonosis
+
+P1-17. [mcq, 1 pt] Which term refers to the proportion of infected persons who develop clinical disease?
+    A) Virulence
+    B) Infectivity
+    C) Contagiousness
+    D) Pathogenicity
+
+[STIMULUS] The following are definitions of epidemiology terms used to describe disease frequency over an area. Identify each term.
+
+P1-18. [frq, 1 pt] Disease or condition present among a population at all times.
+
+P1-19. [frq, 1 pt] Occurring over a very wide area (several countries or continents) and usually affecting a large proportion of the population.
+
+P1-20. [frq, 1 pt] A disease that occurs infrequently and irregularly.
+
+P1-21. [frq, 1 pt] More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+
+[STIMULUS] Identify what type of surveillance each of the following scenarios best represents.
+
+P1-22. [frq, 1 pt] The Washington State Department of Health asks all primary care providers in the state for information on gonorrhea cases.
+
+P1-23. [frq, 1 pt] The California Department of Public Health asks one primary care provider in each county of the state for information on measles cases.
+
+P1-24. [frq, 1 pt] The Washington State Department of Health asks each school in King County for all data relating to illness-related reasons for absence.
+
+P1-25. [frq, 1 pt] All hospitals in the US report all cases of malaria to the CDC.
+
+
+=== Part ii. Outbreak Investigation ===
+
+[STIMULUS] Spartanburg, SC is currently experiencing a measles outbreak. *(This scenario is real.)* The first symptoms of measles are a high fever, cough, and runny nose. A rash develops 4-5 days after the initial symptoms. It can eventually result in pneumonia, encephalitis, or death. Cases emerged in July 2025, with large increases in October - December. As of December 5, 2025, there are 84 cases of measles in Spartanburg County. The majority of these cases are in unvaccinated or under-vaccinated children. Crunch fitness had an exposure on September 30, followed by children in private elementary schools, such as Global Academy (October 8, 2025).
+
+On November 2, an infected person visited the Kanpei of Tokyo restaurant.
+
+An infected individual attended the Way of Truth church on November 7-9.
+
+An employee of the Greenville-Spartanburg airport exposed visitors on November 10-11.
+
+In addition to the outbreaks in schools, the Department of Health & Environmental Services warned there were public exposures at Costco and the Spartanburg Treasurer’s Office on November 17-18.
+
+By November 24, there were 62 cases in Spartanburg County and 1 in nearby Greenville County.
+
+The Department of Public Health has been sending out notifications to potentially exposed individuals, like the notification shown.
+    [IMAGE: ../images/2026_camas_wa_c__d_9ce21d-79d12d42.webp]
+    [IMAGE: ../images/2026_camas_wa_c__d_123171-aee110c4.webp]
+    [IMAGE: ../images/2026_camas_wa_c__d_1b0de8-4897ce8a.webp]
+    [IMAGE: ../images/2026_camas_wa_c__d_8d7964-5004fcd7.webp]
+
+P2-2. [mcq, 1 pt] Which type of epidemiological study is this?
+    A) randomized control study
+    B) case series
+    C) cohort study
+    D) case-control study
+
+P2-10. [frq, 1 pt] Spartanburg has begun to offer mobile vaccination units and quarantining infected individuals. Which step of an outbreak investigation is this?
+
+[STIMULUS] Spartanburg County has one of the highest rates of religious exemptions for vaccines – approximately 6%. Private schools in the area tend to have even lower vaccination rates. For instance, Global Academy, a charter school where several measles cases were identified, has a 17% vaccination rate. The Upstate of South Carolina (consisting of Greenville and Spartanburg) saw its measles vaccination rate drop from 96% in 2020 to 93% in 2025.
+
+P2-11. [frq, 1 pt] Measles has an R₀ of 12-18. What does R₀ represent?
+
+P2-12. [frq, 1 pt] Herd immunity for measles is generally said to be 95%. Explain the concept of herd immunity.
+
+P2-13. [frq, 2 pt] Using an R₀ value of 15 for measles, calculate the herd immunity threshold for measles.
+
+P2-14. [frq, 3 pt] Not all the Bradford Hill criteria must be met to determine causation. Of the nine criteria, name 3 criteria that are strong for this outbreak.
+
+P2-15. [frq, 2 pt] Name the 2 criteria that aren’t as evident in this case
+
+
+=== Part iii. Patterns, Control, and Prevention ===
+
+[STIMULUS] Classify each of the breast cancer prevention levels listed below.
+
+A. Primordial
+B. Primary
+C. Secondary
+D. Tertiary
+E. Quaternary
+
+P3-3. [mcq, 1 pt] A patient with an increased risk of breast cancer has a mammogram.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-4. [mcq, 1 pt] A patient is known to have an increased risk of breast cancer. Her doctor recommends regular exercise and decreased alcohol consumption.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-5. [mcq, 1 pt] A patient with breast cancer is given hormone therapy to reduce the risk of a recurrence.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+P3-6. [mcq, 1 pt] A local hospital reaches out to women’s organizations with brochures about regular mammograms.
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+[STIMULUS] On December 3, 1984, the Union Carbide India Limited pesticide plant in Bhopal, India had a methyl isocyanate toxic gas leak. This gas leak spread through three local areas, exposing 520,000 people. 200,000 were children below the age of 15 years, and 3,000 were pregnant women. 2,259 people died immediately. By 1991, the death toll had risen to 3,928 certified deaths. 102,000 people suffered permanent disabilities.
+
+P3-7. [frq, 2 pt] What was the primary mortality rate?
+
+P3-8. [frq, 1 pt] What was the mortality rate by 1991?
+
+P3-9. [frq, 2 pt] What is the difference between the incidence and prevalence rates?
+
+[STIMULUS] Theoretical case: A college in Florida has an outbreak of bacterial meningitis.
+
+| Dormitory | Developed meningitis | Didn’t develop meningitis | Total |
+|---|---|---|---|
+| University United | 64 | 1,741 | 1805 |
+| Lakeside | 4 | 2112 | 2116 |
+    | Label | Answer |
+    | **P3-12.** Using the meningitis dormitory table above, calculate the attack rates for the students in the two dorms. |  |
+    | University United | [[q:P3-12-a]] |
+    | Lakeside | [[q:P3-12-b]] |
+
+P3-12-a. [frq, 1.5 pt] University United
+
+P3-12-b. [frq, 1.5 pt] Lakeside
+
+P3-13. [frq, 2 pt] Calculate the risk ratio for living in the University United dorm.
+
+P3-14. [frq, 1 pt] Write a statement explaining your calculated risk ratio in words.
+
+P3-15. [mcq, 1 pt] Which of the following prevention methods would most likely be the most effective way of stopping the spread of bacterial meningitis?
+    A) hand washing
+    B) meningococcal vaccine
+    C) covering coughs & sneezes
+    D) preventative antibiotic

@@ -1,0 +1,230 @@
+Sylvania-Northview — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  42 questions, 56.0 pts
+Source: scio.ly test archive id 8da29c03-b2df-4aed-a9fd-6280dc1f3f8c  |  original files: https://drive.google.com/drive/folders/1TmnZyuazo50EDY81wjg4YUw7xX7t7E6H
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 31
+
+DIRECTIONS: PLACE ALL ANSWERS ON THE ANSWER SHEET.
+
+
+=== Part 1 Background and Surveillance ===
+
+[STIMULUS] Select the best answer to the following multiple choice questions.
+
+P1-2. [mcq, 1 pt] What is the BEST example of a specialized health field that focuses on a public health approach?
+    A) Cardiology
+    B) Nursing
+    C) Massage Therapist
+    D) Epidemiology
+    E) Pediatrics
+
+[STIMULUS] For numbers 7 through 14, fill in the blank with the proper term related to the following scenario.
+
+120 patients under the age of 18 had been admitted to the hospital over the course of a week reporting high fevers, loss of balance, and hallucinations, with the first patient being admitted on January 10th.
+
+P1-7. [frq, 1 pt] 90 of the original 120 patients have died, giving a case fatality ratio of ____.
+
+P1-11. [frq, 1 pt] Unfortunately, two infected patients took a flight from Saint Paul International Airport to Newark, bringing the disease with them. From there, the disease spread across the continental US. Mass panic has spread now that the disease has been classified as a/an ____.
+
+P1-12. [frq, 1 pt] Efforts are being made to limit travel out of the US to avoid a worldwide ____.
+
+P1-13. [frq, 1 pt] Clinicians and scientists began to study the disease in order to work towards a vaccine, recognizing this pathogen as a serious threat. Their first thought of an infectious agent was a/an ____, like that of Mad Cow Disease.
+
+[STIMULUS] Use the information below to answer questions number 15 and 16.
+
+A group of scientists and clinicians met to discuss the problem of HIV and tried to identify possible solutions. Antiretroviral therapy involves the use of medication to control the viral load in HIV patients, but the particular drug used can vary.
+
+P1-15. [mcq, 1 pt] During what decade did the HIV epidemic start?
+    A) 1960’s
+    B) 1970’s
+    C) 1980’s
+    D) 1990’s
+
+[STIMULUS] Drug A is the current standard treatment that has very few side effects, while Drug B is a newlydeveloped treatment that has a slight increase in effectiveness but causes more side effects. Dr. Smith was supportive of Drug B because of its proven positive effect on viral load in HIV patients, while Dr. Bentley offered the counter-argument that it may not be a good candidate for a standard treatment due to its possible debilitating side effects. These side effects would increase the amount of time HIV patients would spend inpatient in hospitals, so the slight increase of effectiveness would not outweigh this added burden to the health care system. Therefore, Dr. Bentley believes that Drug A should remain the standard treatment.
+
+P1-16. [mcq, 1 pt] Which doctor(s) is displaying the clinical approach to health?
+    A) Dr Smith
+    B) Dr. Bentley
+    C) Neither
+    D) Both
+
+P1-17. [mcq, 1 pt] A research group is currently conducting a study to determine seasonality of the flu. This involves tracking the number of flu cases in the ER each month, and then graphing the data. What type of epidemiology is being used?
+    A) Analytic
+    B) Bacterial
+    C) Descriptive
+    D) Occupational
+    E) Quantitative
+
+P1-18. [mcq, 1 pt] Who is considered the father of field epidemiology?
+    A) Josiah Gibbs
+    B) John Snow
+    C) William Farr
+    D) John Gaunt
+    E) Robert Koch
+
+P1-19. [mcq, 1 pt] What scientist made his mark on the field by mathematically evaluating mortality rates during a cholera outbreak in London?
+    A) John Snow
+    B) Robert Koch
+    C) John Gaunt
+    D) Ludwig Boltzman
+    E) William Farr
+
+P1-20. [mcq, 1 pt] Which of the following statistics would describe the virulence of a microorganism?
+    A) When exposed to E. coli strain O157:17, 60% of people will become sick.
+    B) Y. pestis causes severe illness and death in 100% of individuals if untreated.
+    C) 50% of the population is a carrier of S. aureus.
+    D) 25% of people exposed to tuberculosis will become infected.
+
+P1-21. [mcq, 1 pt] What type of surveillance is it when absences from school are used to collect data on an outbreak?
+    A) Passive
+    B) Active
+    C) Syndromic
+    D) Sentinel
+    E) Viral
+
+P1-22. [mcq, 1 pt] Out of a population of 1000 individuals, 100 are immunocompromised. During an outbreak of baumannii, a bacteria that infects exclusively immunocompromised individuals, 12 people are infected. In percent (%), what is the rate of infection?
+    A) 12%
+    B) 1.2%
+    C) 24%
+    D) 2.4%
+    E) 6 %
+
+P1-23. [mcq, 1 pt] 90% of those exposed to a particular disease develop symptoms associated with the illness. What characteristic does this statistic reflect?
+    A) Virulence
+    B) Infectivity
+    C) Strain
+    D) Pathogenicity
+
+[STIMULUS] For numbers 24 through 28, name the specific process of the 5-step process for public health surveillance that is associated with each of the following examples:
+
+P1-24. [frq, 1 pt] Pamphlets are passed out explaining the severity of an influenza outbreak to doctor’s offices around the country.
+
+P1-25. [frq, 1 pt] Doctors report the number of influenza cases they treat to the CDC.
+
+P1-26. [frq, 1 pt] Influenza outbreak hotspots are identified based on data collected.
+
+P1-27. [frq, 1 pt] A vaccination campaign is run to encourage health in the population.
+
+P1-30. [mcq, 1 pt] The Stanford Three-Community study tested the link between media campaigns and what disease?
+    A) Influenza
+    B) HIV
+    C) Bacterial Meningitis
+    D) Cardiovascular
+
+P1-31. [mcq, 1 pt] What are the three characteristic symptoms of Pellagra?
+    A) Dermatitis, Dementia, and Diarrhea
+    B) High blood pressure, Hypoglycemia, and Heart Disease
+    C) Fainting, Fatigue, and Fibrosis
+    D) Gangrene, Glycoprotease, and Gingivitis
+
+[STIMULUS] For numbers 33 through 38, list the six links in the chain of the infection.
+
+P1-33. [frq, 1 pt] List the six links in the chain of the infection. Link 1:
+
+P1-34. [frq, 1 pt] List the six links in the chain of the infection. Link 2:
+
+P1-35. [frq, 1 pt] List the six links in the chain of the infection. Link 3:
+
+P1-36. [frq, 1 pt] List the six links in the chain of the infection. Link 4:
+
+P1-37. [frq, 1 pt] List the six links in the chain of the infection. Link 5:
+
+P1-38. [frq, 1 pt] List the six links in the chain of the infection. Link 6:
+
+
+=== Part 2 Outbreak Investigation ===
+
+[STIMULUS] Problems number 1 through 18 are related.
+
+An epidemiologist at the CDC has been assigned to an outbreak investigation of cholera in Southern Texas. One child and twelve elderly adults have already died, and the outbreak is only continuing to worsen.
+
+P2-1. [mcq, 2 pt] Which of the following is NOT a task the CDC employee should complete to prepare for field work?
+    A) Book a plane ticket to the nearest airport in Texas
+    B) Collect proper safety gear
+    C) Research cholera for background knowledge
+    D) Take immune supplements to avoid infection.
+
+[STIMULUS] Upon arrival in Texas, the epidemiologist meets up with the team of investigators already in Texas. They claim to have already established the existence of an outbreak of cholera.
+
+P2-2. [mcq, 2 pt] What is one way in which the investigators may have established the existence of an outbreak?
+    A) Diagnosing individuals with the disease in a clinical setting due to positive test results
+    B) Examining past birth, death, and hospital records for past data on cholera
+    C) Interviewing affected individuals
+    D) Comparing this outbreak to an outbreak in Paris the previous year.
+
+[STIMULUS] The team’s next task is to verify the diagnosis and create a working case definition.
+
+P2-3. [mcq, 2 pt] Which of the following does NOT contribute towards verification of the diagnosis?
+    A) Double-checking diagnostic procedures and laboratory methods
+    B) Interview persons who got the disease
+    C) Comparing observed disease symptoms to those of the literature
+    D) Commonality
+
+[STIMULUS] The team from the CDC has found one potential origin of the cholera outbreak, but they still need more information to rule out other factors. They begin to review the cases systematically, going over each case and discerning all relevant information. They determine that most cases were found in the elderly and the young, and they have associated this data with each specific person. Nearly all infected with cholera had drunk water sourced from a local river. The hospital where all these cases were treated also sent all relevant information about diagnoses/clinical outcomes, and the epidemiologists were sure to collect the contact information for the hospital as well.
+
+P2-8. [mcq, 2 pt] When working through cases systematically, which type of information is another name for “person information?”
+    A) Identifying
+    B) Demographic
+    C) Clinical
+    D) Risk Factor
+
+P2-9. [mcq, 2 pt] Which piece of information would be considered reporter information?
+    A) Contact information for the local news
+    B) Information provided by the local media
+    C) Clinical reports from the hospital
+    D) Contact information for the hospital
+
+P2-10. [mcq, 2 pt] The ages of the patients (mostly the young and elderly) pertains to which type of information?
+    A) Risk Factor
+    B) Identifying
+    C) Clinical
+    D) Demographic
+
+[STIMULUS] Use the graph below to answer questions number 12 through 15.
+    [IMAGE: ../images/2022_sylvania_northview_c__d_5c9036-00ac2bbe.webp]
+
+P2-12. [mcq, 2 pt] What type of source would this graph imply?
+    A) Single
+    B) Continuous Common
+    C) Person-to-Person
+    D) Elevated
+
+P2-14. [mcq, 2 pt] What aspect of the outbreak is this graph designed to show?
+    A) Incubation Period
+    B) Time
+    C) Severity
+    D) Place
+
+[STIMULUS] The epidemiologists develop a hypothesis that the patients were infected due to the water from the river. They created the following table to test this:
+    |  | Disease Yes | Disease No |
+    | Drank from river | 20 | 80 |
+    | Did not drink from river | 20 | 60 |
+
+P2-16. [numeric, 1 pt] Calculate the attack rate for those who drank from the river.
+
+P2-17. [numeric, 1 pt] Calculate the attack rate for those who did not drink from the river.
+
+P2-18. [numeric, 2 pt] Calculate the relative risk.
+
+P2-19. [frq, 2 pt] Relative risk is used only in what type of study?
+
+P2-20. [frq, 2 pt] In what type of study would the odds ratio typically be used instead?
+
+
+=== Part 3 Patterns, Control, Prevention ===
+
+P3-1. [mcq, 1 pt] Which of the following diseases can NOT currently be controlled with immunization?
+    A) Poliomyelitis
+    B) Whooping Cough
+    C) Norovirus
+    D) Tuberculosis
+
+P3-11. [mcq, 2 pt] Hand-washing would be a control method regarding which of the following?
+    A) Susceptible host
+    B) Personal hygiene
+    C) Individual behaviors
+    D) Mode of transmission
+
+P3-13. [mcq, 3 pt] Which of the following factors contributes the LEAST to health disparity?
+    A) Genetics/biological factors
+    B) Access to care
+    C) Material resources
+    D) Personal lifestyle choices/behaviors

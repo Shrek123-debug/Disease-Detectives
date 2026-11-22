@@ -1,0 +1,192 @@
+Duke Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  45 questions, 98.0 pts
+Source: scio.ly test archive id a3d162d3-659a-482d-8e6a-ac20d9c58f43  |  original files: https://drive.google.com/drive/folders/1_GMig5s8uc9eti-vYm94rPxGBoeORKue
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: This exam is split into two parts.
+
+
+=== Part One ===
+
+[STIMULUS] It's summer, and you've just started your new job as an epidemiologist at the local health department. Your supervisor tells you that you'll have to work with some more experienced colleagues before you're allowed to lead your own team, but your team doesn't always take the best approach to solving problems. With each case you take on, you have to convince your teammates that your approach works and why.
+
+On July 8, 2020, you're called into a meeting. There's been an increase in doctors reporting cases of measles, and it sounds like there's an outbreak on our hands. Your team is given information on some of the cases, and you immediately get to work.
+
+**Sample of Measles Cases Reported to Health Department, July 8**
+
+- **Patient A: 10-year-old female** — Date reported: July 3. Date of first symptoms: July 2. Activities in the last month: Visited family out-of-state June 11-13; went to theme park June 22; went to neighborhood pool on June 17, 25, and 30. Status: Feeling weak and feverish but otherwise stable. Diagnosed at the doctor's office.
+- **Patient B: 13-year-old male** — Date reported: July 5. Date of first symptoms: July 3. Activities in the last month: Went camping June 7-10; went to theme park June 21 and 27; hung out with friends July 1. Status: Lethargic. Has a rash on face and neck. Stable.
+- **Patient C: 5-year-old male** — Date reported: July 7. Date of first symptoms: June 27. Activities in the last month: Went to theme park June 10 and 23; went to beach June 19; spent weekends (Fri-Sun) at father's house. Status: Hospitalized for high fever. Fever began July 5. Reported stomach pain and GI symptoms June 22.
+
+P1-1. [mcq, 1 pt] What type of epidemiology utilizes the information given above?
+    A) Analytic epidemiology
+    B) Descriptive epidemiology
+    C) Environmental epidemiology
+    D) Genetic epidemiology
+
+P1-2. [frq, 3 pt] Based on the information given, where do you think the outbreak originated? Explain your answer.
+
+P1-3. [frq, 4 pt] One of your teammates suggests completing a retrospective cohort study to get to the bottom of this outbreak. Is this the appropriate study method? If yes, explain. If not, explain why and suggest another study method with reasoning.
+
+P1-4. [frq, 3 pt] What type of study is the study you suggested in #3? What kind of calculation would you use for it and why?
+
+P1-5. [frq, 3 pt] List the drawbacks of the study you suggested in #3.
+
+[STIMULUS] On July 9th, you call the family of Patient A. Her father tells you that she's doing alright, but that she has developed splotches on her face and upper arms. From his description, you can tell that the girl has the characteristic measles rash. This rash typically develops 7 to 21 days after initial exposure to the virus with an average of 14 days.
+
+P1-6. [frq, 2 pt] Give a range of dates during which the patient could have been exposed.
+
+P1-7. [frq, 2 pt] Did the patient participate in any activities in the date range you've written above? List the activity and respective date.
+
+P1-9. [frq, 1 pt] You eventually reach out to the family of Patient C to try and determine when he was exposed. However, the only symptom he had on July 3 was a stomachache, which is not a symptom of measles. What is it called when an external factor interferes with determining causation?
+
+[STIMULUS] After conducting some more interviews, your team heads over to the theme park. When you arrive, there's no one to be found - that is, until the owner emerges from one of the buildings. He tells you that the theme park closed as soon as the health department called them about a potential outbreak. You ask him if anyone seemed sick while they were at the park, and he says one person was taken to the medic tent after fainting on June 21.
+
+P1-10. [frq, 3 pt] List three things you might want to know about this incident that could help you solve the case. *
+
+P1-11. [frq, 2 pt] Does closing down the park stop the outbreak from spreading further? Explain.
+
+P1-13. [frq, 2 pt] A teammate suggests that the outbreak did not originate at the theme park, and that one of the patients contracted it elsewhere and spread it to others. You argue that this doesn't make sense because of the average incubation period of measles. If the team had decided that this was the true source of the outbreak, what would this be called and why?
+
+P1-15. [mcq, 1 pt] Which of the following concepts would your teammate's suggestion violate?
+    A) Dose-response relationship
+    B) Specificity
+    C) Coherence
+    D) Experimental evidence
+
+P1-16. [frq, 3 pt] What category do the answers to the previous question fall into, and what might this category be used for? *
+
+P1-17. [frq, 3 pt] Which steps of the outbreak investigation process were you conducting at the theme park?
+
+[STIMULUS] Several people who developed symptoms after going to the theme park sought treatment at a community health center, but their measles tests came back negative. The health department was able to secure data on the results of 100 measles tests at the community health center, and they turned over the information to your team.
+
+**Test Results from Lotus Community Center, July 8-13**
+
+| | Disease present | Disease not present |
+|---|---|---|
+| Positive | 23 | 7 |
+| Negative | 35 | 35 |
+
+P1-18. [frq, 4 pt] Which statistical tests would you use to analyze this data? Write the names and formulas. *
+
+P1-19. [frq, 4 pt] Calculate the tests you identified in the last question and explain what each statistic represents.
+
+P1-20. [frq, 3 pt] If Lotus Community Center serves 2,300 patients, what is the prevalence of measles per 1,000 people in the population as of July 13?
+
+
+=== Part Two ===
+
+[STIMULUS] "Remy, the ratatouille
+The rat of all my dreams
+I praise you, my ratatouille
+May the world remember your name"
+
+And the world did remember his name. Rumors that one of the largest outbreaks of Listeriosis in the 21st century had started at La Ratatouille (Remy's famous bistro) headlined newspapers everywhere, and patrons of the restaurant were appalled that a rat had even been allowed to cook for them. On February 7th, the local health department reported that an estimated 300-400 cases of Listeriosis had occurred in the past two weeks.
+
+Read the below information from the CDC about Listeriosis in the United States.
+
+Listeriosis is a serious infection usually caused by eating food contaminated with the bacterium Listeria monocytogenes. An estimated 1,600 people get listeriosis each year, and about 260 die. The infection is most likely to sicken pregnant women and their newborns, adults aged 65 or older, and people with weakened immune systems.
+
+| Organism | Common Name of Illness | Onset Time After Ingesting | Signs & Symptoms | Duration | Food Sources |
+|---|---|---|---|---|---|
+| Listeria monocytogenes | Listeriosis | 9-48 hrs for gastrointestinal symptoms | Fever, muscle aches, and nausea or diarrhea. Pregnant women may have mild flu-like illness, and infection can lead to premature delivery or stillbirth. The elderly or immunocompromised patients may develop bacteremia or meningitis | Variable | Unpasteurized milk, soft cheeses made with unpasteurized milk, ready-to-eat deli meats |
+
+P2-1. [frq, 3 pt] Generally describe the three aspects of the epidemiological triad for Listeriosis.
+
+P2-2. [frq, 1 pt] The table above describes the "Onset Time After Ingesting". What is the period of time between ingestion and onset called?
+
+P2-3. [frq, 2 pt] Which common measure(s) of incidence use total population as a denominator, and which common measure(s) of incidence use number of cases as a denominator?
+
+[STIMULUS] Given a United States population of 328 million, calculate the morbidity rate and mortality rate due to Listeriosis per hundred thousand people per year.
+    | Label | Answer |
+    | Morbidity rate Morbidity rate | [[q:P2-4-a]] |
+    | Mortality rate Mortality rate | [[q:P2-4-b]] |
+
+P2-4-a. [frq, 2 pt] Morbidity rate Morbidity rate
+
+P2-4-b. [frq, 2 pt] Mortality rate Mortality rate
+
+P2-5. [frq, 2 pt] Calculate the case-fatality rate of Listeriosis in the United States.
+
+P2-6. [frq, 4 pt] Given that the prevalence and incidence of Listeriosis in Paris is normally very similar to that of the United States, would this situation be considered an outbreak? Explain why or why not.
+
+[STIMULUS] As soon as health experts in Paris were made aware of possible cases of Listeriosis in the area, they contacted health care providers in the area, requesting information about cases that could be related to Listeriosis.
+
+P2-7. [frq, 1 pt] What type of surveillance best describes the situation above?
+
+[STIMULUS] Read the following information about three patients that were diagnosed with Listeriosis by a physician.
+
+| Case Number | Age | Sex | Date of Onset | F | MA | N | D |
+|---|---|---|---|---|---|---|---|
+| 1 | 43 | M | | + | + | + | + |
+| 2 | 25 | M | | + | - | + | - |
+| 3 | 38 | F | | + | + | + | - |
+
+*F = fever, MA = muscle aches, N = nausea, D = diarrhea
+
+P2-8. [frq, 1 pt] The above table is best described as a ____.
+
+P2-9. [frq, 2 pt] Describe why the patients described in the table would not yet be considered confirmed cases.
+
+P2-10. [mcq, 1 pt] The confirmation of cases would be considered which level of prevention?
+    A) Primordial prevention
+    B) Primary prevention
+    C) Secondary prevention
+    D) Tertiary prevention
+
+[STIMULUS] The map below gives information about cases of Listeriosis in Paris. The red dots indicate cases, while the blue arrow points to the location of La Ratatouille.
+    [IMAGE: ../images/2021_duke_invitational_c__p8_94a4d7-ed854527.webp]
+
+P2-11. [frq, 2 pt] What type of map is this?
+
+P2-12. [frq, 1 pt] What aspect of the descriptive epidemiology triad does this map represent?
+
+P2-13. [frq, 2 pt] Is it reasonable to assume that La Ratatouille may be the source of the Listeriosis outbreak? Explain why or why not.
+
+[STIMULUS] Below is a graph displaying confirmed cases of Listeriosis between January and February of 2021.
+    [IMAGE: ../images/2021_duke_invitational_c__p9_0d9bed-e4c06a7d.webp]
+
+P2-14. [frq, 2 pt] What type of graph is this? Describe the shape of the graph.
+
+P2-15. [frq, 4 pt] Health expert A argues that the index case occurred on January 25th, but health expert B believes that the index case occurred on January 30th. Which health expert is correct? Explain why.
+
+P2-16. [frq, 2 pt] Estimate the time (in hours) between exposure and onset for this particular strain of Listeria monocytogenes.
+
+P2-17. [frq, 1 pt] What standard criteria is required to formally define a case?
+
+P2-18. [frq, 4 pt] Formulate a case definition for confirmed cases in this outbreak of Listeriosis.
+
+[STIMULUS] The local health department was able to interview 200 confirmed cases of Listeriosis who had eaten at La Ratatouille, as well as 50 controls that had eaten at the restaurant, but did not develop the illness. The table below shows the type of cheese eaten, and how many cases and controls ate that type of cheese.
+
+| Cheese | Cases | Controls |
+|---|---|---|
+| Feta | 181 | 44 |
+| Gorgonzola | 172 | 7 |
+| Brie | 80 | 14 |
+| Ricotta | 143 | 48 |
+| Cottage cheese | 19 | 12 |
+
+P2-19. [frq, 2 pt] What type of study is being described here? Why is it this type of study?
+
+P2-20. [frq, 3 pt] What are the advantages of this type of study?
+
+P2-21. [frq, 1 pt] What measure of risk would be appropriate for this study?
+
+[STIMULUS] Calculate the appropriate measure of risk for all five types of cheese.
+    | Label | Answer |
+    | Feta Feta | [[q:P2-22-a]] |
+    | Gorgonzola Gorgonzola | [[q:P2-22-b]] |
+    | Brie Brie | [[q:P2-22-c]] |
+    | Ricotta Ricotta | [[q:P2-22-d]] |
+    | Cottage cheese Cottage cheese | [[q:P2-22-e]] |
+
+P2-22-a. [frq, 1.2 pt] Feta Feta
+
+P2-22-b. [frq, 1.2 pt] Gorgonzola Gorgonzola
+
+P2-22-c. [frq, 1.2 pt] Brie Brie
+
+P2-22-d. [frq, 1.2 pt] Ricotta Ricotta
+
+P2-22-e. [frq, 1.2 pt] Cottage cheese Cottage cheese
+
+P2-23. [frq, 3 pt] Which cheese is most likely the cause of the Listeriosis outbreak? Use your calculated measure of risk to describe the correlation between the cheese and Listeriosis.

@@ -1,0 +1,278 @@
+Carnegie Mellon — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  45 questions, 52.0 pts
+Source: scio.ly test archive id bd08a7c6-bf86-40de-abff-f1e1395280c1  |  original files: https://drive.google.com/drive/folders/1B7-dESEYGetblF8f8OEF0UAO2caegHuR
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: The approximate time of this exam is 50 minutes. Each team may bring one 8.5" x 11" sheet of paper, which may be a sheet protector sealed by tape or laminated and may contain information on both sides in any form and from any source without any annotations or labels affixed. Two stand-alone non-programmable, and non-graphic calculators are allowed.
+
+[STIMULUS] For Questions 2-4, determine whether the situation is an example of the clinical approach or the public health approach.
+
+2. [mcq, 1 pt] Examining trends in breast cancer incidence over the course of 20 years in a community
+    A) Clinical approach
+    B) Public health approach
+
+3. [mcq, 1 pt] Testing a patient for possible norovirus infection
+    A) Clinical approach
+    B) Public health approach
+
+4. [mcq, 1 pt] Comparing patients with symptomatic and asymptomatic presentations of an illness to identify predictors
+    A) Clinical approach
+    B) Public health approach
+
+[STIMULUS] For Questions 5-9, determine whether the study described is an experimental study, a cross-sectional study, a cohort study, or a case-control study. (Some answers may appear more than once or not at all.)
+
+5. [mcq, 1 pt] Researchers collected information on cases of human illness related to harmful algal blooms, including the month of onset and the water source type.
+    A) Experimental study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Case-control study
+
+6. [mcq, 1 pt] Incidence of adult-onset asthma was compared between adults living in urban and rural areas.
+    A) Experimental study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Case-control study
+
+7. [mcq, 1 pt] Participants with and without prostate cancer were interviewed to determine if there is an association between calcium intake and cancer risk.
+    A) Experimental study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Case-control study
+
+8. [mcq, 1 pt] One group of participants was given a new vaccine, and another group was given a placebo. Their outcomes were compared to determine the vaccine’s effectiveness.
+    A) Experimental study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Case-control study
+
+9. [mcq, 1 pt] Participants were surveyed regarding their drug and alcohol use, and follow-ups were conducted to determine cancer incidence.
+    A) Experimental study
+    B) Cross-sectional study
+    C) Cohort study
+    D) Case-control study
+
+10. [mcq, 1 pt] Match the word to the following definition: More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Cluster
+
+11. [mcq, 1 pt] Match the word to the following definition: Large numbers of people over a wide geographic range affected. The occurrence in a community or region of cases of an illness with a frequency clearly in excess of normal expectancy.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Cluster
+
+12. [mcq, 1 pt] Match the word to the following definition: Infection occurring over a wide area and affecting a large proportion of the population.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Cluster
+
+13. [mcq, 1 pt] Match the word to the following direction: Aggregation of cases over a particular period closely grouped in time and space.
+    A) Pandemic
+    B) Outbreak
+    C) Epidemic
+    D) Cluster
+
+14. [numeric, 2 pt] A study was performed between a new civilization on Planet X and a city on Earth. On Planet X, 500 people are affected by cancer out of the population of 500,000 while the city on Earth had 100 people out of a population of 1,000,000 affected by cancer.
+    
+    Calculate the relative risk of cancer on Planet X.
+
+15. [numeric, 2 pt] A study was performed between a new civilization on Planet X and a city on Earth. On Planet X, 500 people are affected by cancer out of the population of 500,000 while the city on Earth had 100 people out of a population of 1,000,000 affected by cancer.
+    
+    Calculate the relative risk of cancer on Planet Earth
+
+16. [frq, 2 pt] A disease outbreak took place on the new civilization on Planet X and therefore a control study was done with the city on Planet Earth. A study using 35% morphine, 40% antihistamines, and 25% benzodiazepines drug was created and found that 60/240 cases did not use the drug compared to the 45/90 of the non-cases.
+    
+    Calculate the odds of exposure.
+
+[STIMULUS] A health center has a Cholera outbreak and is using a fecal matter test, Vibrio cholerae culture, to look for the presence of the pathogen. Below are the results and the accuracy of the test.
+    |  | Cholera | No Cholera |
+    | Vibrio cholerae culture is positive | 90 | 4995 |
+    | Vibrio cholerae culture is negative | 10 | 94905 |
+
+18. [mcq, 1 pt] In which step of the outbreak investigation is the accuracy of the culture test analyzed?
+    A) Verify the Diagnosis
+    B) Identify Investigation
+    C) Case Finding
+    D) Generate Hypothesis
+    E) Case Definition
+
+19. [mcq, 1 pt] How many false positives are in the test?
+    A) 90
+    B) 4995
+    C) 94905
+    D) 100
+    E) 5085
+
+20. [mcq, 1 pt] How many true negatives are in the test?
+    A) 90
+    B) 94905
+    C) 10
+    D) 100
+    E) 5085
+
+21. [frq, 2 pt] Calculate the sensitivity and specificity and provide the appropriate interpretation of those levels.
+
+22. [mcq, 1 pt] A health center has a Cholera outbreak and is using a fecal matter test, Vibrio cholerae culture, to look for the presence of the pathogen. Below are the results and the accuracy of the test.
+    A) 1.8%; There are less people in the population who don't have the disease compared to those who have it
+    B) 2.6%; There are more people in the population who don’t have the disease compared to those who have it
+    C) 2.6%; There are less people in the population who don't have the disease compared to those who have it
+    D) 1.8%; There are more people in the population who don’t have the disease compared to those who have it
+    E) None of the above
+
+23. [mcq, 1 pt] What type of outbreak is the graph and how do we know this?
+    [IMAGE: ../images/2021_carnegie_mellon_c__p7_848b4d-a28e85cf.webp]
+    A) Point source: Sharp upward slope
+    B) Propagated Epidemic: Begins from single index case
+    C) Continuous common Source: Don’t all occur within the span of single incubation period
+    D) Point source: Ongoing source
+    E) Continuous Common Source: one or more people infected in initial wave infected a group
+
+24. [mcq, 1 pt] What is the estimated minimum incubation period and the maximum incubation period in days?
+    [IMAGE: ../images/2021_carnegie_mellon_c__p7_848b4d-a28e85cf.webp]
+    A) Minimum incubation: 15-17 days; Maximum incubation: 50-55 days
+    B) Minimum incubation: 11-13 days; Maximum incubation: 50-55 days
+    C) Minimum incubation: 9-11 days; Maximum incubation: 50-55 days
+    D) Minimum incubation: 11-13 days; Maximum incubation: 57-59 days
+    E) Minimum incubation: 15-17 days; Maximum incubation: 57-59 days
+
+26. [mcq, 1 pt] Which of the following is suggested by the data in Figure 2?
+    [IMAGE: ../images/2021_carnegie_mellon_c__p8_9f6c74-483ad25c.webp]
+    A) The highest number of new Salmonella cases was registered in 1990
+    B) There was a steady number of cases for both of the diseases in 2010 compared to 2000
+    C) There is an overall increase in the incidence of cases for both diseases since 1960
+    D) The lowest number of Shigella cases were registered in 1980
+    E) The peak for both both pathogens was in 2010
+
+27. [mcq, 1 pt] Shigellosis is a disease transmitted by fecal-oral route. What can be a possible reason for the increased incidence of Shigellosis?
+    A) Water quality has become better
+    B) More children are attending daycare centers, facillitating the spread of the disease
+    C) People have strong immune systems that are more efficient in fighting off the disease
+    D) More people wash their hands when handling food items
+    E) State mandate water filters in public facilities
+
+28. [mcq, 1 pt] What is the difference between the incubation period and the latency period?
+    A) Incubation period is for subclinical disease and the latency period is for the time of exposure to onset of disease
+    B) Incubation period are for infectious diseases and latency period is for chronic diseases
+    C) Incubation period are for chronic diseases and latency period is for infectious diseases
+    D) Nothing they are the same
+
+29. [mcq, 1 pt] What is an example of an iatrogenic infection?
+    A) A brain surgery went wrong and resulted in a loss of speech function in the patient
+    B) A health worker ends up getting infected by ebola due to their increased amounts of exposure the disease in their patients
+    C) A patient with lung cancer ends up getting a skin infection due to their long stay in the hospital
+    D) A doctor prescribes immunosuppressants for a patient with an autoimmune disease, but as a result the patient became more susceptible and caught pneumonia.
+
+30. [mcq, 1 pt] Which disease can be treated with antibiotics?
+    A) Brucella
+    B) Botulism
+    C) Cryptosporidiosis
+    D) Rotavirus
+
+31. [mcq, 1 pt] Which of the following is an example of a Berkson's bias?
+    A) A cohort study enrolled 5,000 women to examine the effect of fat consumption on risk of coronary heart disease.
+    B) A local public health agency interviewed patients at a local hospital to determine if there is a correlation between alcoholism and pneumonia.
+    C) In a cohort study on the effects of smoking on risk of lung cancer, almost 40% of the participants stopped responding to surveys after 5 years.
+    D) A cohort study was done on traumatic accidents among construction workers; the comparison group was taken randomly from the general population.
+    E) A survey was taken among high school students on their smoking habits to be used for the new anti-smoking program at the school.
+
+32. [mcq, 1 pt] Which of the following is an example of a sampling bias?
+    A) A cohort study enrolled 5,000 women to examine the effect of fat consumption on risk of coronary heart disease.
+    B) A local public health agency interviewed patients at a local hospital to determine if there is a correlation between alcoholism and pneumonia.
+    C) In a cohort study on the effects of smoking on risk of lung cancer, almost 40% of the participants stopped responding to surveys after 5 years.
+    D) A cohort study was done on traumatic accidents among construction workers; the comparison group was taken randomly from the general population.
+    E) A survey was taken among high school students on their smoking habits to be used for the new anti-smoking program at the school.
+
+33. [mcq, 1 pt] The attack rate of a disease gives us information about what characteristic of the pathogen?
+    A) Infectivity
+    B) Pathogenicity
+    C) Virulence
+    D) None of the above
+
+34. [mcq, 1 pt] Which of the following is a defining characteristic of an outbreak?
+    A) Spread of cases geographically
+    B) Mortality rate
+    C) Number of cases relative to normal frequency
+    D) Type of agent
+
+35. [multi, 1 pt] Which of the following are criteria of how to consider surveillance for a health problem?
+    A) Define the health problem
+    B) Public Health Importance
+    C) Cost of collecting valid data
+    D) Ability to prevent/control/treat problem
+    E) Capacity of health system to implement control measures
+
+36. [frq, 3 pt] List 5 elements of chain of infection and identify what they are for influenza.
+
+37. [mcq, 1 pt] Which of the following is an example of passive natural immunity?
+    A) Antibodies are passed on from the mother to the fetus through the placenta.
+    B) An individual receives an injection of synthetic white blood cells.
+    C) The body mounts an immune response against an allergen, leading to anaphylaxis
+    D) An individual receives an attenuated vaccine.
+
+[STIMULUS] The following series of questions concerns an outbreak of Salmonella infections in the United States.
+
+38. [mcq, 1 pt] Suppose the Illinois Department of Health has identified 7 Salmonella infections with the same PFGE pattern, indicating that the infections likely have a common source. Which of the following would be a reasonable next step to take?
+    A) Issue recalls of foods that are commonly identified as the sources of Salmonella outbreaks
+    B) Draw an epidemic curve to track the progress of the outbreak over time
+    C) Alert the CDC to a possible cluster of Salmonella cases
+    D) Randomly test members of the case patients' surrounding communities to identify more cases
+
+39. [multi, 1 pt] As clusters are identified in other states, epidemiologists launch a full investigation of the outbreak. CDC defines a case as a Salmonella infection with the outbreak PFGE pattern with illness onset from during December 8, 2009–May 31, 2011. Which of the following individuals are classified as case patients by this definition? (Check all that apply.)
+    A) A woman reports having a fever, and tests positive for the strain with the outbreak PFGE pattern on March 29, 2010.
+    B) In January 2010, a 9-year old boy who has recently consumed poultry experiences diarrhea and stomach cramps for 8 days.
+    C) A man has diarrhea, fever, and stomach cramping for 6 weeks in May 2007.
+    D) A man from Washington, D.C. has a fever and diarrhea, with the onset of illness on December 8, 2009.
+
+40. [mcq, 1 pt] At a convention dinner in Pittsburgh, Pennsylvania, 193 people attended and 67 became ill and were identified as case patients. Pennsylvania Department of Health investigators identified chicken consumption at the dinner as being associated with illness. Which type of study was likely used and why?
+    A) Cohort study, as it would be very difficult to select a control group
+    B) Cohort study, since the population is small and well-defined and exposure information can be quickly collected
+    C) Case-control study, as it may be unclear initially which attendees are ill
+    D) Case-control study, as this option is more cost-effective for analyzing foodborne outbreaks
+
+41. [mcq, 1 pt] How would relative risk be calculated for the chicken?
+    A) (risk of illness for those who ate chicken)/(risk of illness for those who did not eat chicken)
+    B) (odds that an ill person ate chicken)/(odds that a control ate chicken)
+    C) (attack rate for those who did not eat chicken)/(attack rate for those who ate chicken)
+    D) (number of persons who ate chicken)/(total number of persons in attendance)
+
+42. [mcq, 1 pt] Suppose the relative risk calculated for a soup dish at the dinner was 1.2. What does this mean?
+    A) Those who ate the soup dish were 1.2 times more likely to contract Salmonella than the average dinner attendee.
+    B) Those who became ill were 1.2 times more likely to have eaten the soup dish than those who did not become ill.
+    C) Those who did not become ill were 1.2 times more likely to have eaten the soup dish than those who became ill.
+    D) Those who ate the soup dish were 1.2 times more likely to contract Salmonella than those who did not.
+
+43. [mcq, 1 pt] Investigators found that the chicken was not handled and prepared properly according to existing health guidelines. Which of the following is NOT an unsafe practice?
+    A) The chicken was prepared on the same surface as several other foods, including vegetables and raw beef.
+    B) The chicken was cooked below 165 degrees Fahrenheit.
+    C) The chicken was thawed in a refrigerator instead of on the counter.
+    D) The food preparation workers neglected to wash their hands before preparing the chicken.
+
+44. [frq, 2 pt] Name two possible actions the CDC could take to control the spread of this outbreak and prevent more people from becoming ill.
+
+[STIMULUS] This is the end of questions relating to the Salmonella outbreak.
+
+45. [mcq, 1 pt] Which is a correct definition of temporality (one of the Bradford-Hill Criteria)?
+    A) An illness must be seasonal to be considered an influenza-like illness
+    B) When making an argument for causation, the effect must occur after the proposed cause
+    C) The progression of an illness over a period of time starting with the incubation period
+    D) There is a delay between the moment the agent enters the body and the onset of illness
+
+46. [mcq, 1 pt] A study finds that alcohol consumption is correlated with heart disease. However, alcohol drinkers are more likely to smoke, and smoking is known to be associated with heart disease. Which type of bias or error is described in this example?
+    A) Response bias
+    B) Confounding
+    C) Information bias
+    D) Random error
+
+47. [mcq, 1 pt] People visiting a medical center are interviewed about their dietary habits. However, an abnormally high number of the patients at this center are pregnant women because there are several gynecologists working there, so confounding may be present. Which type of bias or error is described in this example?
+    A) Confounding
+    B) Random error
+    C) Recall bias
+    D) Selection bias
+
+48. [mcq, 1 pt] A study is being conducted on a very rare neuromuscular disease. Since the disease is so rare, very few participants are enrolled in the study. Which problem might arise from a small sample size?
+    A) Confounding
+    B) Systematic error
+    C) Random error
+    D) Reporting bias

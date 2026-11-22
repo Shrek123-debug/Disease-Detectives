@@ -1,0 +1,258 @@
+Golden Gate — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  74 questions, 196.0 pts
+Source: scio.ly test archive id 81e9ef1e-7df2-44b5-851c-9a1d8063d609  |  original files: https://drive.google.com/drive/folders/1ABVnMrTY5iEkB6JiGPntPkVsjPEHSI3N
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: Time limit: 50 minutes
+1. Write your answers on the exam.
+2. All MC questions have one answer unless otherwise stated.
+3. Round all answers to 1 decimal place.
+4. Point values for each question are listed.
+5. Tie Breaker Questions are marked.
+6. You can take apart the test, but put the pages in order and re-staple before turning it in.
+7. If you have a question, raise your hand.
+
+[STIMULUS] **Amanita phalloides Mushroom Poisonings — Northern California, December 2016**
+
+The following material was adapted from the Morbidity and Mortality Weekly Report (MMWR): June 2, 2017/66(21);549–553
+
+*Amanita phalloides*, colloquially known as the “death cap,” belongs to the Phalloideae section of the Amanita family of mushrooms and is responsible for most deaths following ingestion of foraged mushrooms worldwide. On November 28, 2016, members of the Bay Area Mycological Society notified personnel at the California Poison Control System (CPCS) of an unusually large *A. phalloides* bloom in the greater San Francisco Bay Area, coincident with the abundant rainfall and recent warm weather. Five days later, CPCS received notification of the first human *A. phalloides* poisoning of the season.
+
+1. [frq, 2 pt] Part of epidemiology involves searching for determinants. Describe the determinant(s) of this case.
+
+[STIMULUS] Over the following 2 weeks, CPCS was notified of an additional 13 cases of hepatotoxicity resulting from *A. phalloides* ingestion. In the past few years before this outbreak, CPCS received reports of only a few mushroom poisoning cases per year. In December 2016, fourteen cases of *Amanita phalloides* poisoning were identified by the California Poison Control System (CPCS) among persons who had consumed foraged wild mushrooms. In the past few years before this outbreak, CPCS only received reports of a few mushroom poisoning cases per year.
+
+2. [frq, 1 pt] A few mushroom poisoning cases per year is considered the ____ level of the disease.
+
+3. [frq, 6 pt] Define/differentiate between an epidemic, outbreak, and cluster. Given the above information, would this be considered an epidemic, outbreak or cluster?
+
+4. [mcq, 1 pt] Which of the following is not a possible cause of an epidemic?
+    A) Change in susceptibility of the host response to the agent
+    B) Enhanced mode of transmission
+    C) Reduction in the number of portals of entry
+    D) Recent introduction of the agent in a new setting
+    E) Recent increase in the virulence of the agent
+
+[STIMULUS] A summary of 14 reported cases is presented in Table 1. Data extracted from patient medical charts revealed a pattern of delayed gastrointestinal manifestations of intoxication leading to dehydration and hepatotoxicity.
+
+**Table 1:** Excerpt of Demographic and clinical data for 14 patients reported to the California Poison Control System after *Amanita phalloides* ingestion — Northern California, December 2016
+
+5a. [frq, 1 pt] What is the Table 1 chart called?
+
+5b. [frq, 1 pt] What does each row of the chart represent?
+    [IMAGE: ../images/2019_golden_gate_c__p3_rcbf1b91-b91094e6.webp]
+
+6. [frq, 1 pt] Developing a chart like Table 1 is a common part of outbreak investigation. In which step of outbreak investigation would this be a part of?
+
+7. [frq, 4 pt] Name four **types** of information that should be solicited when collecting data to create Table 1.
+
+8. [frq, 1 pt] Suggest a method you would use to collect the data needed for this step of outbreak investigation.
+
+9. [frq, 5 pt] When conducting routine surveillance, epidemiologists often compile data in the form shown in Table 1. Define public health surveillance.
+
+10. [frq, 3 pt] State 3 organizations from different levels of the disease reporting pathway in the surveillance process.
+
+11. [mcq, 1 pt] Which of the following types of surveillances uses health-related data that precede diagnosis and signals a sufficient probability of a case or an outbreak to warrant further public health response?
+    A) Active surveillance
+    B) Enhanced passive surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+
+12. [frq, 1 pt] Who is the father of surveillance?
+
+[STIMULUS] Three patients received liver transplants and all but one recovered completely. The morbidity and potential lethality associated with *A. phalloides* ingestion are serious public health concerns. Antidotal therapies might also be considered in conjunction with a consultant experienced in hepatotoxic mushroom poisoning. In patients with severe poisoning, early contact with the nearest liver transplant center is recommended.
+
+13. [frq, 2 pt] What actions would you recommend as a response to this outbreak and to prevent similar future outbreaks?
+
+[STIMULUS] **Multidrug-Resistant *Campylobacter jejuni* Outbreak Linked to Puppy Exposure — United States, 2016–2018**
+
+In August 2017, the Florida Department of Health notified CDC of six *Campylobacter jejuni* infections linked to company A, a national pet store chain based in Ohio. CDC examined whole-genome sequencing (WGS) data and identified six isolates from company A puppies in Florida that were highly related to an isolate from a company A customer in Ohio. This information prompted a multistate investigation by local and state health and agriculture departments and CDC to identify the outbreak source and prevent additional illness. Health officials from six states visited pet stores to collect puppy fecal samples, antibiotic records, and traceback information.
+
+14. [frq, 12 pt] List the components of the chain of infection in the appropriate order and the specific example for each component in this case.
+
+[STIMULUS] Nationally, 118 persons, including 29 pet store employees, in 18 states were identified with illness onset during January 5, 2016–February 4, 2018. In total, six pet store companies were linked to the outbreak. Outbreak isolates were resistant by antibiotic susceptibility testing to all antibiotics commonly used to treat *Campylobacter* infections, including macrolides and quinolones.
+
+15a. [frq, 1 pt] What kind of agent (bacteria, fungi, parasite, prion, etc.) is *Campylobacter jejuni*?
+
+15b. [frq, 1 pt] How do you know based on the given information?
+
+16. [frq, 3 pt] What epidemiological triad is fundamental in forming a case definition?
+
+17. [frq, 5 pt] Formulate a probable case definition for this puppy exposure outbreak.
+
+18. [frq, 3 pt] Formulate a confirmed case definition for this puppy exposure outbreak.
+
+19. [frq, 1 pt] In this case, Campylobacter jejuni was spread from puppies to humans. What is the term for a disease that can be transmitted to humans from animals?
+
+20. [frq, 1 pt] What phenomenon is represented in Figure 1?
+    [IMAGE: ../images/2019_golden_gate_c__p6_b5e361-9ae5c176.webp]
+
+21. [frq, 3 pt] State what should go in the boxes labelled A, B, and C in Figure 1.
+    [IMAGE: ../images/2019_golden_gate_c__p6_b5e361-9ae5c176.webp]
+
+22. [frq, 1 pt] There are four stages involved with the phenomenon illustrated in Figure 1. Which stage can also be called the incubation period or the latency period?
+    [IMAGE: ../images/2019_golden_gate_c__p6_b5e361-9ae5c176.webp]
+
+23. [frq, 1 pt] What is the difference between incubation period and latency period?
+
+[STIMULUS] State and local health and agriculture departments in four states (Kentucky, Ohio, Pennsylvania, and Wisconsin) visited 20 pet stores and collected antibiotic administration records for 154 puppies. Among 149 puppies with available information, 142 (95%) received one or more antibiotic courses before arriving or while at the store.
+
+Stool specimens from infected persons or Campylobacter isolates were submitted to state public health laboratories. Health and agriculture officials from six states (Florida, Kansas, Kentucky, Ohio, Pennsylvania, and Wisconsin) visited 29 pet stores (27 company A and two company B) to collect puppy fecal samples. All company A and B stores in Ohio were visited, and a convenience sample of stores in other states was selected. Some states also requested fecal samples from patient households that had purchased puppies. Human stool specimens and puppy fecal samples underwent Campylobacter culture, and whole-genome multilocus sequence typing (wgMLST) was performed to compare genetic relatedness. To explore pet food as a possible source of Campylobacter infection in puppies, dog food samples from company A and one person's home were collected for culture. Campylobacter jejuni isolates were obtained for 51 persons and 23 puppies.
+
+Records, including microchip identification numbers of puppies when available, were collected for puppies owned by infected persons and those sampled in stores. Information collected for eight puppies owned by infected persons and 20 puppies with fecal samples that were positive for Campylobacter jejuni traced back to 25 breeders and eight distributors. No single breeder, distributor, or transporter was identified as the infection source. However, potential for Campylobacter transmission among puppies exists because puppies from different breeders were commingled at distributors, during transport, and in stores.
+
+24. [frq, 2 pt] What type of study design was conducted for this outbreak?
+
+25. [frq, 2 pt] What measure(s) of association would be appropriate to calculate for this study design?
+
+26. [frq, 4 pt] State 2 advantages and 2 disadvantages of this type of study.
+
+[STIMULUS] Consumers, employees, and clinicians should be aware of the risk for disease transmission from puppies, including the possibility of exposure to multidrug-resistant pathogens. Greater adherence to implementation of antibiotic stewardship practices in the commercial dog industry might be needed. CDC developed educational materials on campylobacteriosis prevention. CDC and states shared these with pet industry partners, including retail pet stores.
+
+27. [frq, 3 pt] What methods of prevention would you recommend to include on the educational messages that the CDC is sending out (what should people to do prevent campylobacter)?
+
+[STIMULUS] **Outbreak in a Rural Community — Arizona and Utah, June–July 2017**
+
+The following material was adapted from the Morbidity and Mortality Weekly Report (MMWR): June 15, 2018/67(23);659–662 (https://www.cdc.gov/mmwr/volumes/67/wr/mm6723a2.htm?s_cid=mm6723a2_w)
+
+A case of STEC O157:H7 infection was an illness in a resident of the Centennial Park/Colorado City/Hildale community with onset of diarrhea after June 1, 2017. Cases were classified as secondary if contact with another case occurred ≥3 days before illness onset. Local health care facilities identified potential cases via syndromic surveillance and reported them to the Southwest Utah Public Health Department and the Mohave County (Arizona) Health Department. The Southwest Utah Public Health Department created several social media posts advising community residents with diarrhea to see a doctor because local health officials were concerned that adults in this community would not seek health care for themselves.
+
+28. [frq, 1 pt] What does STEC O157:H7 stand for?
+
+[STIMULUS] Twelve cases were identified, including five classified as secondary, from eight separate households. Illness onset dates for the 12 patients ranged from June 10 to July 9, 2017. The median age of patients was 3 years (range = 1–28 years), and 11 were aged ≤6 years. Five cases occurred in females; nine patients were hospitalized, four had hemolytic uremic syndrome, and two died.
+
+29. [frq, 1 pt] What is the graph in Figure 2 called?
+    [IMAGE: ../images/2019_golden_gate_c__p9_rcacd107-7a0a508b.webp]
+
+30. [frq, 1 pt] What is a primary case?
+
+31. [frq, 2 pt] What should the labels for the x-axis and y-axis be?
+
+32. [frq, 3 pt] Epidemics can be classified according to the manner of spread through a population. One such manner of spread is common-source transmission. What are three sub-categories of common-source outbreaks?
+
+33. [frq, 1 pt] This outbreak displays what type of transmission?
+
+[STIMULUS] All patients or their guardians were interviewed using a hypothesis-generating questionnaire containing questions about foods eaten, food source locations, travel, recreational water exposure, sources of drinking water, and animal contact during the week before illness onset. All 12 patients or their guardians reported shopping at grocery store A, and guardians of six of seven patients with primary cases reported purchasing ground beef. The prevalence of ground beef consumption was significantly higher than that reported in the Foodborne Diseases Active Surveillance Network Population Survey. (86% versus 40%; p = 0.04)
+
+34. [frq, 1 pt] Despite this prevalence of ground beef consumption, other potential hypotheses were explored. Why might this high prevalence of ground beef consumption be expected and prompt this exploration of other hypotheses?
+
+[STIMULUS] These other potential hypotheses were explored in a focus group discussion with five guardians of four ill children. Beef and watermelon consumption, contact with domestic and companion animals, and multiple exposures to recreational water emerged as common exposures.
+
+Guardians of 16 healthy children were recruited through an online survey posted to a closed Facebook group of current and past community residents. The voluntary survey included screening questions to determine their children's eligibility for participation. Community health workers used a focused questionnaire containing questions about consumption of ground beef and fresh produce, as well as all animal contact during the exposure period to interview the guardians of six of seven patients and guardians of 16 healthy kids. The results are recorded in Table 2.
+
+[STIMULUS] **Table 2:** Number of exposures to selected food, water, and animals — Centennial Park/Colorado City/Hildale community, Arizona and Utah, June–July 2017
+    | Exposure | Disease (%) | No Disease (%) | 95% CI |
+    | Drank municipal water | 3 (50) | 3 (19) | 1.5–19.3 |
+    | Swimming | 5 (83) | 10 (63) | 0.3–21.3 |
+    | Consumed beef prepared at home | 3 (50) | 12 (75) | 0.03–2.8 |
+    | Played in area with animal manure | 4 (67) | 3 (19) | 4.8–71.3 |
+    | Touched cow | 2 (33) | 1 (6) | 2.5–58.7 |
+    | Dogs wandered on property | 4 (80) | 7 (44) | 0.4–38.0 |
+
+35. [frq, 2 pt] What kind of study design was used?
+
+37. [frq, 3 pt] Based on the contingency table for “Drank municipal water” and the study design, calculate the appropriate measure of association (relative risk or odds ratio).
+
+38. [frq, 3 pt] Interpret the meaning of the value of the measure of association calculated for “Drank municipal water”.
+
+39. [frq, 5 pt] Calculate the measure of association for the rest of the exposures (you do not need to ).
+
+40. [frq, 2 pt] Which exposure was the most likely cause of the outbreak?
+
+41. [frq, 4 pt] What do confidence intervals indicate and why would they be used in this study?
+
+42. [frq, 2 pt] Confidence intervals are associated with p-values. For 95% confidence intervals, what does it mean if p > 0.05? Would you reject or accept a null hypothesis?
+
+43. [frq, 6 pt] List the exposures with associations that are statistically significant based on the 95% CI provided in Table 2 and the measures of association that you calculated in number 39.
+
+44. [mcq, 1 pt] What statistical would you use to determine the statistical significance of the difference in rates?
+    A) T-test
+    B) Fisher’s exact test
+    C) Paired T-test
+    D) Chi-square test
+    E) Student T-test
+
+45. [frq, 2 pt] Some more investigation is done and it is discovered that the measure of association associated with drinking municipal water increases as the amount of municipal water drinking increases. What term do epidemiologists use to describe this change in effect or risk with changes in levels of exposure?
+
+46. [frq, 6 pt] The healthy kids that were recruited were actually age-matched. Calculate the matched measure of association for the exposure that was the most likely cause of the outbreak (answer to question 40).
+
+47. [frq, 2 pt] What type of bias does matching a study account for?
+
+[STIMULUS] On June 26, 2017, a hospital in southern Utah notified the Utah Department of Health of STEC O157:H7 infections in two children from a small community on the Arizona-Utah border. Both children developed hemolytic uremic syndrome, characterized by hemolytic anemia, acute kidney failure, and thrombocytopenia and died within a few days of illness onset.
+
+48. [frq, 5 pt] What is the treatment for STEC O157:H7?
+
+
+=== Cholera Outbreak in Dadaab Refugee Camp, Kenya — November 2015–June 2016 ===
+
+[STIMULUS] The following material was adapted from the Morbidity and Mortality Weekly Report (MMWR): August 31, 2018 (https://www.cdc.gov/mmwr/volumes/67/wr/mm6734a4.htm?s_cid=mm6734a4_w)
+
+Cholera is an acute diarrheal illness after ingestion of contaminated food or water. The infection is frequently mild or asymptomatic; however, approximately 5%–10% of infected persons develop severe disease and profuse watery diarrhea. Without prompt treatment, persons with severe disease can die within hours. Cholera outbreaks can spread rapidly in densely populated settings such as refugee camps. Rapid detection and control of cholera outbreaks is a goal for the implementation of the World Health Organization’s International Health Regulations and for global health security.
+
+49. [frq, 1 pt] What is the mode of transmission for cholera?
+
+50. [frq, 2 pt] What is agent of cholera and what is unique about how it causes the disease?
+
+51. [frq, 4 pt] What criteria is used to verify the cause of a health problem? What are the components of this criteria?
+
+[STIMULUS] **Table 3:** Number of Cases of Cholera by age and subcamp — Dadaab refugee camp, Kenya, November 18, 2015–June 6, 2016
+
+52. [frq, 2 pt] Calculate the overall attack rate of the camp (per 1,000) using the data provided in Table 3.
+
+53. [frq, 5 pt] Calculate the attack rate of each subcamp (no need to ).
+
+[STIMULUS] This cholera outbreak is the largest reported in Dadaab refugee camp since its establishment in 1992. Existing laboratory capacity and effective disease surveillance in the camp facilitated early detection and eventual control of the outbreak. All subcamps were affected, but two areas had poorer water drainage and were in proximity to food markets where persons from areas with active cholera transmission interact. These factors might have contributed to the large number of cases and high attack rates in these areas.
+
+54. [frq, 4 pt] Which of the subcamps were most likely the two areas with poorer water drainage?
+
+55. [frq, 1 pt] State one other reason why these two camps might have the highest attack rates.
+
+56. [frq, 2 pt] What are two other possible risk factors or reasons for why certain subcamps have such high attack rates?
+
+57. [mcq, 1 pt] Steps could be taken to prevent these cases of cholera. Which of the following stages of disease prevention occur before symptoms arise in the patient?
+    I. Primary prevention
+    II. Secondary prevention
+    III. Tertiary Prevention
+    IV. Quaternary prevention
+    A) I only
+    B) I and II only
+    C) I, II, and III only
+    D) they all occur before symptoms arise
+    E) they all occur after symptoms arise
+
+58. [frq, 6 pt] Calculate the case fatality rate of this outbreak for each age group using the data provided in Table 3. Give your answers as a percentage. Show your work for one of the calculations.
+
+59. [frq, 2 pt] Do the case fatality rates that you calculated for the age groups make sense? State your reasoning.
+
+60. [frq, 2 pt] What does the case fatality rate of an outbreak tell us about the disease?
+
+61. [frq, 2 pt] Name 2 possible limitations to this study.
+
+62a. [frq, 3 pt] Classify Berkson's Bias as either selection bias or information bias and give a brief explanation and a way to minimize the bias.
+
+62b. [frq, 3 pt] Classify Interviewer bias as either selection bias or information bias and give a brief explanation and a way to minimize the bias.
+
+62c. [frq, 3 pt] Classify Recall bias as either selection bias or information bias and give a brief explanation and a way to minimize the bias.
+
+62d. [frq, 3 pt] Classify Allocation bias as either selection bias or information bias and give a brief explanation and a way to minimize the bias.
+
+63. [frq, 6 pt] Calculate the sensitivity and specificity using the data in Table 4.
+
+64. [frq, 6 pt] Calculate the PPV and NPV using the data in Table 4.
+
+65. [frq, 3 pt] For cholera, would we prioritize sensitivity or specificity? Support your answer with 2 reasons.
+
+66. [frq, 2 pt] Give 2 reasons we would prioritize the other (sensitivity or specificity, whichever one you did not answer for question 65).
+
+67. [frq, 2 pt] What is the term for a diagnostic test or benchmark that is the best available and used to determine the true positives and false negatives? What would this be for cholera?
+
+68. [multi, 3 pt] Which of the following studies are non-randomized?
+    A) quasi-experimental study
+    B) control trial
+    C) field trial
+    D) community trial
+    E) clinical trial
+
+69. [frq, 1 pt] What bias does a blind experimental study guard against?
+
+70. [frq, 1 pt] What bias does a double-blind experimental study guard against?

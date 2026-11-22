@@ -1,0 +1,665 @@
+Princeton University (PUSO) Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  67 questions, 197.0 pts
+Source: scio.ly test archive id 320a3cd3-a19e-42c0-b400-39e6ac290008  |  original files: https://drive.google.com/drive/folders/1XYTB8A9UAI_fuMPZ945RHtihKrihpNS0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 25
+
+DIRECTIONS: This exam comprises 67 multiple-select, fill-in-the-blank, calculation, and short answer questions. Partial credit will be granted in certain cases. Points values are denoted next to each question and part number.
+
+
+=== Part 1 - Background and Surveillance ===
+
+[STIMULUS] Matching Column
+
+Cluster
+Contamination
+Reservoir
+Endemic Disease
+Cohort Study
+Fomite
+Droplet Transmission
+Infectivity
+Virulence
+Commensalism
+Convalescent
+Zoonosis
+Herd Immunity
+Iatrogenic
+Vector
+Index Case
+Nosocomial
+Mode of Transportation
+Incidence
+Case-Control Study
+Sentinel Surveillance
+Period Prevalence
+None of the Above
+
+P1-1. [mcq, 1 pt] Consequence of being coughed, sneezed, or spit on. Mucous droplets must still travel with the velocity imparted upon it leaving the mouth.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-2. [mcq, 1 pt] An aggregation of cases over a particular period closely grouped in time and space, regardless of whether the number is more than the expected number ____
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-3. [mcq, 1 pt] Compare people with and without disease to find common exposures ____
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-4. [mcq, 1 pt] When a potentially infectious agent exists in the host but has not yet invaded the tissues of the host. The microbe may be destroyed by the body defenses or it may become part of the normal flora.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-5. [mcq, 1 pt] A physical object that serves to transmit an infectious agent from person to person.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-6. [mcq, 1 pt] An organism moves or is carried from one place to another; the transfer of disease-causing microorganisms from one environment to another, particularly from an external environment to a susceptible individual.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-7. [mcq, 1 pt] A measure of how many individuals were affected by the disease during a specified time period.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-8. [mcq, 1 pt] The proportion of exposed persons who become infected.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-9. [mcq, 1 pt] Compare people with and without exposures to see what happens to each.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-10. [mcq, 1 pt] First patient in an epidemiological study ____
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-11. [mcq, 1 pt] Occurs via droplets (typically mucous droplets) where droplets are liquids that remain airborne whether as aerosols (very small droplets) or associated with dust particles. Organisms that can find their way into the air and remain viable thus have repeated opportunities to infect passengers.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-12. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-13. [mcq, 1 pt] Present at a continuous level throughout a population/geographic area; constant presence of an agent/health condition within a given geographic area/population; refers to the usual prevalence of an agent/condition.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-14. [mcq, 1 pt] An animal that transmits disease but is not the cause of the disease itself.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-15. [mcq, 1 pt] An association between two organisms in which one benefits and the other derives neither benefit nor harm.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-16. [mcq, 1 pt] The percentage of people in a given population who have a given disorder at any particular point in time.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+P1-17. [mcq, 1 pt] Professionals selected to represent a specific geographic area or group report health events to health agencies. It involves monitoring trends or key health indicators and a limited network of reporting sites.
+    A) Cluster
+    B) Contamination
+    C) Reservoir
+    D) Endemic Disease
+    E) Cohort Study
+    F) Fomite
+    G) Droplet Transmission
+    H) Infectivity
+    I) Virulence
+    J) Commensalism
+    K) Convalescent
+    L) Zoonosis
+    M) Herd Immunity
+    N) Iatrogenic
+    O) Vector
+    P) Index Case
+    Q) Nosocomial
+    R) Mode of Transportation
+    S) Incidence
+    T) Case-Control Study
+    U) Sentinel Surveillance
+    V) Period Prevalence
+    W) None of the Above
+
+[STIMULUS] The following question is based on your knowledge of epidemiological history
+
+P1-18. [frq, 10 pt] From the five names listed below, list them in chronological order. Then take three names, and list one lasting impact they've had on the field of epidemiology.
+    
+    - Brian MacMahon
+    - John Snow
+    - James Lind
+    - Edward Sydenstricker
+    - William Farr
+
+[STIMULUS] Claire was talking with her friend, Clyde, who was sick with the flu. She later developed the flu as well. The influenza virus, also known as the ____, entered Claire making her a ____. The ____ in this scenario was her mouth and the ____ was Clyde talking very close to her and coughing in her direction.
+
+P1-19-1. [frq, 1 pt] Blank 1: Claire was talking with her friend, Clyde, who was sick with the flu. She later developed the flu as well. The influenza virus, also known as the ____, entered Claire making her a (…). The (…) in this scenario was her mouth and the (…) was Clyde talking very close to her and coughing in her direction.
+
+P1-19-2. [frq, 1 pt] Blank 2: Claire was talking with her friend, Clyde, who was sick with the flu. She later developed the flu as well. The influenza virus, also known as the (…), entered Claire making her a ____. The (…) in this scenario was her mouth and the (…) was Clyde talking very close to her and coughing in her direction.
+
+P1-19-3. [frq, 1 pt] Blank 3: Claire was talking with her friend, Clyde, who was sick with the flu. She later developed the flu as well. The influenza virus, also known as the (…), entered Claire making her a (…). The ____ in this scenario was her mouth and the (…) was Clyde talking very close to her and coughing in her direction.
+
+P1-19-4. [frq, 1 pt] Blank 4: Claire was talking with her friend, Clyde, who was sick with the flu. She later developed the flu as well. The influenza virus, also known as the (…), entered Claire making her a (…). The (…) in this scenario was her mouth and the ____ was Clyde talking very close to her and coughing in her direction.
+
+[STIMULUS] The following questions are based on the Five Step Process for Surveillance.
+
+P1-20. [mcq, 2 pt] If a health problem has been recorded and measured, what's the next step in the surveillance process?
+    A) Identify
+    B) Periodically evaluate
+    C) Analyze
+    D) Collect and compile data
+
+P1-21. [mcq, 2 pt] During the COVID-19 outbreak, cities' governors and mayors were constantly updated on the number of active cases and they would share these updates with citizens. Keeping the Process for Surveillance in mind, which step would this be?
+    A) Provide data to those responsible
+    B) Monitor and periodically evaluate
+    C) Analyze
+    D) Collect and compile data
+
+P1-22. [mcq, 2 pt] At Princeton there was a recent outbreak of an unidentified illness. As numbers kept rising, health professionals soon stepped in. After observing sick patients and diagnosing the illness, what step of Surveillance was this and what's the next step?
+    A) Provide data to those responsible and then monitor and periodically evaluate
+    B) Identify and then Collect and compile data
+    C) Collect and compile data and then Analyze and interpret data
+    D) Analyze and then Provide data to those responsible
+
+P1-23. [frq, 5 pt] What makes sentinel surveillance different from other forms of surveillance? What is the downside of this form of surveillance?
+
+[STIMULUS] The following questions are based on Study Designs
+
+P1-25a. [frq, 3 pt] In Princeton, there have been rising cases of Salmonella. Some students had the idea that dining hall NCW's pork dumplings might have caused this outbreak. First, the investigators went to the Whitman, NCW, and Roma dining halls, took some healthy students who had dumplings and some healthy students who didn't have dumplings and told them to give updates if they felt sick. After three days there were 5 sick students from Whitman, 17 sick students from NCW, and 2 sick students from Roma. All these students stated that they ate the pork dumplings at NCW, while none of the other students reported that they were feeling ill. What type of study has taken place?
+
+P1-25b. [frq, 3 pt] The students used a different approach to figure out the Salmonella outbreak. Instead, they took a large group of students from all residential colleges and interviewed them one by one to try to narrow down the start of the outbreak. The people who weren't sick all listed different dining halls that they ate at, but most of the people who contracted Salmonella stated that they ate at Whitman specifically. Once the group was narrowed, many of the people were asked what specifically they ate at Whitman and what days. All said that they had the chicken pot pie at Whitman last Wednesday and after they became ill. What type of study has taken place?
+
+P1-26a. [frq, 3 pt] For people with Alzheimer's, the new medicine lecanemab provides a beacon of hope. Before its approval, the testers chose which Alzheimer's patients would receive either the medicine or a placebo, based on a survey. After, daily checks occur to see if the drug works better than the placebo or if any side effects are occurring. What type of study is this?
+
+P1-26b. [frq, 3 pt] For people with Alzheimer's, the new medicine lecanemab provides a beacon of hope. Prior to its approval, a select group of Alzheimer's patients were chosen to participate in the study. The medicine or a placebo was given out to patients unsystematically. After, daily checks occur to see if the drug works better than the placebo or if any side effects are occurring. What type of study is this?
+
+P1-27. [frq, 2 pt] What was the first pandemic ever recorded?
+
+
+=== Crepe Crisis ===
+
+
+=== Part 2A: Case Study 1 - Food-born Illness Outbreak ===
+
+[STIMULUS] The following scenario is adapted from a real life case, but has been altered to suit this exam.
+
+You are a rookie epidemiologist in the summer of 2004, and you have just been called in!
+
+From July 1st - July 9th, 2004, 35 cases were reported in Pennsylvania of individuals experiencing diarrhea, stomach cramps, and fevers.
+
+P3-29. [frq, 4 pt] What information is needed to determine if this is an outbreak? What is the risk of not investigating?
+
+P3-30. [frq, 3 pt] What type of surveillance is involved in detecting this? Name the type and list one advantage and one disadvantage.
+
+[STIMULUS] You determine this is an outbreak. You collect some more information on the patients and after microbiological sampling on all individuals, determine that these patients are infected with Salmonella anatum. PFGE is run on all isolates, finding that 33 of them share the same pattern, while 2 differ. This pattern is called JAGX01.0015.
+
+P3-31. [frq, 1 pt] Salmonella is one of the most common zoonotic diseases. What does this mean?
+
+P3-32. [frq, 3 pt] What is PFGE? Give a short definition and explain its purpose in this specific scenario.
+
+P3-33. [frq, 3 pt] Two of the isolates do not match the same pattern as the rest. What does this tell you about the disease of those two patients?
+
+P3-34. [frq, 4 pt] How could you use whole genome sequencing to come to the same conclusion as you did above? Be specific about the differences between isolates and how they can be used for outbreak detection.
+
+P3-35. [frq, 7 pt] Based on the information you currently have, create a case definition for this outbreak.
+
+P3-36. [frq, 3 pt] What distinguishes a confirmed case from a probable case? How many of these cases are confirmed vs probable vs possible vs not a case?
+
+[STIMULUS] You and a few colleagues decide to interview the patients to see if you can determine the cause of the outbreak and potentially find other cases along the way.
+
+P3-37. [frq, 2 pt] Give two examples of questions you would ask the patients to determine the cause of the outbreak.
+
+P3-38. [frq, 3 pt] What is PulseNet and how could you use it to help you find other cases?
+
+[STIMULUS] Using PulseNet you are able to find 20 more cases in the same time frame in 2 other states: Virginia and North Carolina. After interviewing all patients involved, you come to the hypothesis that the one common thread is all the affected individuals bought produce from NotTheBestGrocery Store in their specific state. This grocery store sources all their produce from the same warehouse.
+
+P3-40. [frq, 8 pt] Name two kinds of studies which could theoretically be conducted in a food-borne illness outbreak scenario, and list one advantage and one disadvantage for each. Do these studies establish correlation or causation? Explain.
+
+[STIMULUS] You decide to implement one of these study options in order to determine what specific product caused the outbreak. You enroll 30 of the affected individuals into the study. Your current contenders are eggs, lettuce, tomatoes, and cucumbers. One of your colleagues has a strong suspicion that it may be the lettuce which is the culprit.
+
+P3-41. [frq, 5 pt] You need to find a control population that will serve appropriately in this study. Describe a few characteristics of that population and how you could go about enrolling them.
+
+[STIMULUS] After ironing out the details of your study, you and your colleagues interview each individual enrolled. You compile all the data and come up with the table below which shows the number of cases and controls respectively that are exposed to the various produce.
+
+Table 1: Tracking exposures to various food products from NotTheBestGrocery Store.
+
+| | Case Patients (30) | Control (75) |
+|---|---|---|
+| Eggs | 13 | 53 |
+| Lettuce | 15 | 42 |
+| Tomato | 22 | 23 |
+| Cucumber | 18 | 47 |
+
+P3-42. [frq, 3 pt] Your colleague with the lettuce hypothesis seems to ask mainly about whether the individual bought lettuce from NotTheBestGrocery Store. Is there an issue with this? If so, specifically name and explain the issue.
+
+P3-43. [frq, 8 pt] Calculate the appropriate statistic(s) for this study. Interpret the meaning of the statistic(s). Round to the nearest two decimal places.
+
+P3-44. [frq, 2 pt] What would you recommend be implemented to stop this outbreak? Give two specific recommendations.
+
+[STIMULUS] Your recommendations are implemented on July 24th, 2004. However, 8 more cases that match the case definition are reported after that date.
+
+P3-45. [frq, 2 pt] Explain two potential reasons for these cases.
+
+P3-47. [frq, 4 pt] Based on all the information you have been given so far along with your understanding of food-borne illnesses, link this scenario back to two of Bradford Hill's criteria of causation. How does this scenario fit the two criteria you chose?
+
+[STIMULUS] The following question is unrelated to the previous case study and is adapted from another study and modified for the purposes of this test.
+
+Mycobacterium tuberculosis (MTB) is the bacterium responsible for tuberculosis (TB). MTB causes latent-TB, which can turn into active-TB in individuals with low immunity. Improper ventilation can increase the duration of MTB droplets in the air. Alcohol consumption is hypothesized to cause a weaker immune system. HIV can also cause a weaker immune system.
+
+P3-48. [frq, 4 pt] Create a sufficient component cause model for developing active-TB.
+
+
+=== Part 2B: Influenza Outbreak ===
+
+[STIMULUS] Oh no! You and a few other aspiring epidemiologists have been called in to investigate an outbreak of influenza at a university. One of your colleagues is a bit confused as to why this is an issue, since flu vaccines do exist. Let's help demystify the scenario.
+
+P4-49. [frq, 6 pt] What are the three different flu vaccines that are currently available to the public?
+
+P4-50. [frq, 3 pt] Describe the principle that explains why we need new flu vaccines every year, and which strains of influenza are affected by this principle.
+
+[STIMULUS] To explain a bit more about vaccines to your colleague, you bring up the information for two different vaccines offered currently, Vax A and Vax B. Vax A has a vaccine effectiveness of 71% (95% CI: 63, 85), and Vax B has a vaccine effectiveness of 87% (95% CI: 51, 74). The R0 for this particular strain of influenza is 3.
+
+P4-51. [frq, 2 pt] Interpret the 95% CI given for Vax A.
+
+P4-52. [frq, 4 pt] Calculate the vaccine coverage required to achieve herd immunity for Vax A. Show all work and answer in a percentage. If needed, round to the nearest whole percent.
+
+P4-53. [frq, 4 pt] Calculate the vaccine coverage required to achieve herd immunity for Vax B. Show all work and answer in a percentage. If needed, round to the nearest whole percent.
+
+[STIMULUS] Back to the outbreak scenario! You decide to test all the individuals in the affected location using Rapid influenza diagnostic tests (RIDTs). In order to offer a point of comparison, RT-PCR is also run on samples from the individuals.
+
+Table 3: Results of RIDT Validity against results from RT-PCR
+
+| | **Virus Detected** | **Virus Not Detected** |
+|---|---|---|
+| **RIDT Positive** | 347 | 12 |
+| **RDT Negative** | 76 | 211 |
+
+P4-55. [frq, 2 pt] List one advantage and one disadvantage of this kind of test.
+
+P4-56. [frq, 3 pt] Calculate the PPV of the RIDT test used in this scenario. Show all work and answer in a percentage rounded to one decimal place.
+
+P4-57. [frq, 2 pt] Interpret the PPV of the test.
+
+P4-58. [frq, 6 pt] What recommendations would you make to the university in this scenario to prevent the spread of the flu? Make 3 recommendations and connect each to the step in the chain of infection which is broken.
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+[STIMULUS] Determine the Epi Curve that goes with the following scenarios.
+
+Mama's Tacos, located on Nassau Street, has had many different outbreaks because of a certain meat product it's been using. The first time this occurred, they switched to different meat brands but later attempted to switch to the original meat they used. To no one's surprise, the same sickness rose again.
+
+P5-59a. [frq, 6 pt] **True or False:** This scenario represents a propagated/progressive source Epi Curve. If False, give the correct epicurve name and explain why.
+
+[STIMULUS] Splatnink is a disease that is common when coming into contact with squids. In Japan, there was a rise in the squid population this year, leading to more people contracting this disease than in previous years. Realizing this issue two months later, Japan sent out squads to kill a limited population of squids so the numbers could die down. This plan worked and this disease stopped being an outbreak and returned to normal numbers.
+
+P5-60a. [frq, 6 pt] **True or False:** This scenario represents a point source Epi Curve. If False, explain why.
+
+P5-61. [frq, 3 pt] What is the following image called? Explain its usefulness.
+    [IMAGE: ../images/2024_princeton_university_puso_invitational_c__p15_8ab098-99dfb17d.webp]
+
+[STIMULUS] The following questions are based around HIV, a disease spread through exchange of bodily fluids, not including saliva or spit.
+
+You are the president of Country Epidemiology, and one of your focuses currently is monitoring the spread of HIV to avoid an epidemic. Below is data detailing the number of new cases of HIV in your very small country and the number of deaths attributed to HIV each year.
+
+The total population is 1000. In 2017, 121 cases of HIV were present. 535 people were identified to be at risk for developing HIV. In 2022, 187 cases were now present. Over that 5 year period, 35 people died due to causes related to HIV.
+
+P5-62. [frq, 4 pt] Use the data above to calculate the incidence over a period of 5 years in your country. Show all work and round reasonably. Express answer in percent.
+
+P5-63. [frq, 4 pt] Use the data above to determine the prevalence of HIV in 2022. Show all work and round reasonably. Make sure to include units.
+
+[STIMULUS] Assign the following prevention methods to the specific type of prevention (primary, secondary, or tertiary) they belong to.
+
+P5-65b. [mcq, 5 pt] For someone who is at increased risk of HIV, taking a medicine called PReP which reduces the chance of acquiring HIV.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+
+P5-65c. [mcq, 5 pt] Treating an individual with HIV with antiretroviral therapy (ART) in order to prevent further disease progression
+    A) Primary
+    B) Secondary
+    C) Tertiary
+
+P5-65d. [mcq, 5 pt] For someone who has been exposed to HIV, taking a medicine called PEP, which reduces the chance of acquiring HIV.
+    A) Primary
+    B) Secondary
+    C) Tertiary
+
+P5-67. [frq, 2 pt] Explain the difference between elimination and eradication of a disease

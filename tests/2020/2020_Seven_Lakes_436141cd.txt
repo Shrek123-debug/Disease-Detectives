@@ -1,0 +1,204 @@
+Seven Lakes — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  50 questions, 179.0 pts
+Source: scio.ly test archive id 436141cd-1214-4d7e-8b1d-65b46468c7f8  |  original files: https://drive.google.com/drive/folders/1omfTZnFyni2Xvw2jPHtM1MD7CZhzh6k5
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 2
+
+DIRECTIONS: Rules:
+➢ Each team is allowed two non-programmable, NON-GRAPHING calculators and one notes sheet, front and back
+➢ Show all work for any calculations, including formulas.
+➢ Round to three decimal places
+➢ Write your team number on the upper left corner of every page (5 POINTS)
+➢ Ask a proctor for extra paper if necessary
+
+
+=== General Knowledge ===
+
+P1-1. [mcq, 2 pt] Which of the following is not one of the six public health core sciences?
+    A) Surveillance
+    B) Epidemiology
+    C) Screening
+    D) Informatics
+
+P1-2. [mcq, 2 pt] Which of the following is a drawback of sentinel surveillance?
+    A) Can only employ reporting rather than soliciting data
+    B) Less effective at monitoring rare diseases
+    C) Quality control is likely an issue
+    D) Vulnerable to incompleteness and variability
+
+P1-3. [mcq, 2 pt] Which of the following Hill's criteria is considered the weakest criterion?
+    A) Temporality
+    B) Consistency
+    C) Dose-response
+    D) Specificity
+
+P1-4. [mcq, 2 pt] The premise that if the prevalence of a disease is low, then the odds ratio approaches the relative risk is called the
+    A) Rare disease assumption
+    B) Prevalence discrepancy theory
+    C) Association of risk measurement
+
+P1-5. [mcq, 2 pt] The healthy worker effect occurs when
+    A) Those employed in certain occupations are more susceptible to certain chronic diseases
+    B) The working population excludes those with disabilities preventing them to work
+    C) An occupational case-control study fails to account for discrepancies in worker status
+    D) Workers who are healthier are more likely to enroll in epidemiological studies
+
+[STIMULUS] Determine which of Hill's criteria would be established by the following scenarios:
+
+P1-6. [frq, 2 pt] In a study investigating the risk of varying levels of sunlight exposure versus subsequent risk of skin cancer, researchers found that risk was higher in those who had higher than normal levels of sunlight exposure.
+
+P1-7. [frq, 2 pt] In investigating a rare form of neuromuscular disease, the pathogen was found only in cases with the disease and was absent in controls.
+
+P1-8. [frq, 2 pt] The index case of a foodborne outbreak reported experiencing abdominal cramps, nausea, vomiting, and diarrhea 6 hours after consuming chicken at a local restaurant.
+
+P1-9. [frq, 2 pt] Before communicating his findings to the public, a researcher searched for previous studies and researchers investigating similar topics and found that his conclusion was similar to theirs.
+
+[STIMULUS] Determine the type of bias represented by the following scenarios.
+
+P1-11. [frq, 2 pt] In an outbreak investigation of a new strain of influenza, the case definition was not well-established and laboratory testing procedures had been solidified; thus, a high volume of cases were missed and classified as controls.
+
+P1-12. [frq, 2 pt] In a study investigating the association between smoking and breast cancer, researchers advertised their study to the public and offered an online interest form to those interested in participating in the study. However, their results were skewed because many of those who signed up for the study were epidemiologically linked to breast cancer cases.
+
+P1-13. [frq, 2 pt] When interviewing participants of a study, the interactive online questionnaire provided unique questions to each participant based on the researcher's predisposition on the background of each.
+
+
+=== FRQs ===
+
+P2-14. [frq, 6 pt] Construct the chain of infection for influenza
+
+P2-15. [frq, 8 pt] List and describe the 4 stages of disease control and provide an example for each, if applicable
+
+P2-20. [frq, 3 pt] Explain the differences between holoendemic, hyperendemic, and hypoendemic.
+
+P2-21. [frq, 4 pt] Give an example for each of the 4 levels of prevention.
+
+P2-22. [frq, 3 pt] Explain the differences between efficiency, efficacy, and effectiveness.
+
+P2-23. [frq, 5 pt] Describe a scenario in which the outbreak would be said to be an intermittent common-source outbreak. Hint: visualize an epi curve.
+
+
+=== Part Two: Case Studies ===
+
+[STIMULUS] You are an epidemiologist based in Houston, TX. It is June 10th, 2017, and you just received a phone call from Houston Children's Hospital in which the nurse informed you of 3 children of ages 2, 4, and 5, who had just been admitted to the hospital who all experienced various gastrointestinal symptoms including diarrhea, vomiting, nausea, and stomach pain.
+
+P3-1. [frq, 6 pt] What criteria constitutes an outbreak?
+
+P3-2. [frq, 3 pt] At this point in time, does this constitute an outbreak? Why or why not?
+
+P3-3. [frq, 6 pt] What type of surveillance was exhibited in the above scenario? Name 2 advantages and 2 disadvantages of this type of surveillance.
+
+[STIMULUS] Later on in the week, you receive several more calls from 3 other hospitals in the Houston area, all reporting children young children between the ages of 1 and 5 with similar gastrointestinal symptoms. At this point, you suspect that something is fishy. Throughout the next few days, similar reports have continued, and you decide to concisely characterize what you believe is an outbreak.
+
+P3-4. [frq, 8 pt] Write a case definition for this outbreak
+
+[STIMULUS] With this handy case definition, you call all of the hospitals in the Houston area and ask if you have encountered any additional cases that fit your case definition. You compile the following data from the cases that were reported to you.
+    | Patient No. | Date of onset | Hospital ID | Symptoms compatible? |
+    | 1 | 7/10/17 | 12839 | Y |
+    | 2 | 7/10/17 | 12412 | Y |
+    | 3 | 7/10/17 | 12840 | Y |
+    | 4 | 7/11/17 | 12839 | Y |
+    | 5 | 7/11/17 | 12839 | Y |
+    | 6 | 7/12/17 | 12839 | Y |
+    | 7 | 7/12/17 | 12840 | Y |
+    | 8 | 7/12/17 | 12839 | Y |
+    | 9 | 7/12/17 | 12840 | Y |
+    | 10 | 7/12/17 | 12412 | Y |
+    | 11 | 7/13/17 | 12435 | Y |
+    | 12 | 7/13/17 | 12412 | Y |
+    | 13 | 7/13/17 | 34123 | Y |
+    | 14 | 7/14/17 | 12451 | Y |
+    | 15 | 7/19/17 | 32123 | Y |
+
+P3-5. [frq, 3 pt] What is the above table called and what is its function?
+
+P3-7. [frq, 5 pt] What type of epi curve is this? Does it make sense that the epi curve looks like this?
+
+P3-8. [frq, 2 pt] Provide 2 explanations for the case on 7/19/17 as to why this patient reported their illness at a much later date than usual
+
+P3-9. [frq, 6 pt] What type of surveillance was represented by the above situation? List 2 advantages and 2 disadvantages of this type of surveillance
+
+[STIMULUS] The Houston Children's Hospital gave you a call stating that their laboratory results are back, and that the specimen discovered in many of the cases' stool sample was norovirus, as determined by serology. Now that you have the pathogen under question, you try to trace back a common source of exposure for the outbreak.
+
+P3-10. [frq, 4 pt] Write an updated case definition for this outbreak.
+
+P3-11. [frq, 6 pt] Give 3 strategies you can use to discover a common source of contamination among the cases
+
+[STIMULUS] As the information pours in, you feel quite overwhelmed. After looking through data, however, one thing becomes apparent. Many of the cases seem to attend Best Smiles Daycare in Houston.
+
+P3-17. [frq, 4 pt] Now that you know the setting, what are 2 specific strategies you would implement to prevent further outbreaks at the daycare?
+
+P3-18. [frq, 2 pt] Can you make the suggestion to use antibiotics to treat the sick children? Why or why not?
+
+[STIMULUS] You find out that this disease was spread through a food dish served at the daycare. In order to investigate the food source, you make a list of dishes served to the children in the past two days. You then interview 31 children and their parents asking which dishes they ate. Next, you classify the children into being either infected or not infected with norovirus. The results are shown below.
+    |  | Infected | Not infected |
+    | PB&J Sandwich | 4 | 12 |
+    | Apple Slices | 3 | 2 |
+    | Turkey Sandwiches | 7 | 15 |
+    | Carrot Sticks | 8 | 3 |
+    |  | 12 | 19 |
+
+P3-19. [frq, 3 pt] What type of study is this? Be as specific as possible. How do you know?
+
+P3-20. [frq, 8 pt] Calculate the appropriate measure of risk for each food item. Interpret these results.
+
+P3-21. [frq, 3 pt] Describe when this specific item could have been contaminated while being produced.
+
+P3-22. [frq, 2 pt] Children who have recovered from norovirus and show no more symptoms can still transmit the illness for up to two weeks. What would they be considered?
+
+[STIMULUS] It's just another day at the CDC office when you get a phone call from Dr. Bendhi at the Montana Department of Health and Human Services.
+
+"Hi! We've been seeing a rise in patients with lung cancer in the city of Libby, Montana in the past few years, and we were wondering if you could send a team in to investigate?"
+
+Unfortunately, you don't have a choice, given that the other field members have been stationed elsewhere.
+
+"I'll be there," you say hesitantly, not exactly looking forward to the remote isolation of rural Montana.
+
+P4-1. [frq, 2 pt] Before leaving for Montana, what step(s) of outbreak investigation should you perform?
+
+[STIMULUS] After a long journey, you finally arrive at Libby. Upon arrival, you meet with Dr. Bendhi, who takes you to his office. While going to his office, you drive past an abandoned asbestos mine. Concerned, you ask Dr. Bendhi about the mine, and he nonchalantly explains that the mine closed down over 30 years ago.
+
+P4-2. [frq, 2 pt] Why is the presence of an asbestos mine in Libby relevant to your investigation?
+
+[STIMULUS] Later, at Dr. Bendhi's office, you come up with a plan to find out the reason behind the lung cancer cases. You plan to ask Libby residents to volunteer to participate in your study, where you take note of any factors that puts these participants at risk of lung cancer. Then, you plan to follow up with these patients over the course of 10 years, and see who, if anyone, developed lung cancer.
+
+P4-3. [frq, 5 pt] What type of study are you planning to conduct? What are two advantages and two disadvantages of this study design?
+
+P4-4. [frq, 6 pt] Name 3 biases, if any, that are possibly present in your proposed plan. Please explain.
+
+[STIMULUS] After realizing these errors, you and Dr. Bendhi fix the plan, and start the investigation.
+
+~~~5 years later~~~
+
+It is now 2024, Kanye West is the president, the world has not ended (somehow), and your investigation has just finished. You have compiled a table that shows participant numbers over the last 5 years:
+    | Year | Dec 2019 (t=0) | Dec 2020 (t=1) | Dec 2021 (t=2) | Dec 2022 (t=3) | Dec 2023 (t=4) | Dec 2024 (t=5) |
+    | Number of new cases of lung cancer | 0 | 10 | 20 | 20 | 25 | 25 |
+    | Total number of participants with lung cancer | 0 | 10 | 25 | 30 | 35 | 35 |
+    | Number of healthy participants | 500 | 490 | 470 | 450 | 425 | 400 |
+    | Total participants remaining | 500 | 500 | 495 | 480 | 460 | 435 |
+
+P4-5. [frq, 2 pt] Assuming that nobody dropped out of your study (somehow), why is the total number of participants declining?
+
+P4-6. [frq, 4 pt] Calculate the period incidence of lung cancer over the 5-year period. You must show all work to earn credit!!!
+
+P4-7. [frq, 2 pt] What is the appropriate measure of risk for this study?
+
+P4-8. [frq, 7 pt] Summarizing the above data, 500 people were initially part of the study, and 100 people in all developed lung cancer. Based on the data provided, fill in the value for the appropriate risk measure you chose above into the table for each.
+
+P4-9. [frq, 2 pt] Which exposure is most likely linked to the rise in lung cancer?
+
+[STIMULUS] Given the rise in lung cancer, you and Dr. Bendhi want to design a rapid lung cancer test to help out the citizens of Libby. After two years of hard work, you have achieved your goal! However, before your test becomes universally adopted, you need to test its effectiveness. You and Dr. Bendhi collect 500 volunteers to test your rapid test. After running the test on the volunteers, you compare the results from your rapid test to the results obtained from CT scans of your subjects, and present your findings in the table below.
+    |  | CT Scan Positive | CT Scan Negative |
+    | Rapid Test Positive | 80 | 100 |
+    | Rapid Test Negative | 20 | 300 |
+
+P4-10. [frq, 4 pt] What does "gold standard" mean in diagnosis? What is the gold standard in this scenario?
+
+P4-11. [frq, 3 pt] What is the sensitivity of your test?
+
+P4-12. [frq, 3 pt] What is the specificity of your test?
+
+P4-13. [numeric, 3 pt] What is the positive predictive value of your test?
+
+P4-14. [numeric, 3 pt] What is the negative predictive value of your test?
+
+P4-15. [numeric, 3 pt] Assuming that this sample is representative, what is the prevalence of lung cancer in Libby?
+
+P4-16. [frq, 4 pt] Is this test a good replacement for a CT scan? What is this test good at, and what is it bad at?

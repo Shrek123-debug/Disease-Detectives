@@ -1,0 +1,215 @@
+University of Texas at Austin Regional — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  49 questions, 141.0 pts
+Source: scio.ly test archive id 8ef83d99-75a5-499e-bb51-bdf89c427873  |  original files: https://drive.google.com/drive/folders/15a1YDspbn97sh77AIqCHz6DCM6e0TyE9
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: Notes:
+- Please show all work and indicate units as necessary.
+- There will be no penalty for guessing.
+
+Good luck!
+
+2. [frq, 3 pt] Define epidemiology.
+
+3. [frq, 3 pt] Name and describe the components of the epidemiological triad.
+
+4. [frq, 3 pt] Name the components of a case definition.
+
+[STIMULUS] Without intervention, a disease will progress in an individual over time. This is referred to as the natural history of disease. The stages of the timeline are:
+
+Stage of susceptibility | Stage of subclinical disease | Stage of clinical disease | Stage of recovery, disability, or death
+
+5. [frq, 4 pt] List the following points in the disease process in the order they occur along the timeline of stages above: 1) onset of symptoms, 2) pathologic changes, 3) usual time of diagnosis, 4) exposure
+
+6. [frq, 5 pt] Health departments are notified of new cases and outbreaks on a daily basis. Name five (5) factors that epidemiologists must consider before investigating a possible outbreak.
+
+[STIMULUS] Public health surveillance is defined as the “continuous, systematic collection, analysis and interpretation of health-related data needed for the planning, implementation, and evaluation of public health practice.” For each of the following, indicate the type of surveillance at work.
+
+7a. [frq, 2 pt] A doctor’s office reports a new case of pertussis to the Texas Department of State Health Services.
+
+7b. [frq, 2 pt] A network of hospitals collects data on disease caused by pneumococcus.
+
+7c. [frq, 2 pt] Hospital admittance records are monitored to detect any unusual patterns.
+
+7d. [frq, 2 pt] The Youth Risk Behavior Surveillance System monitors behaviors that contribute to causes of death and disability among young such as alcohol and tobacco use.
+
+[STIMULUS] Label the following statements as either true or false.
+
+8a. [tf, 1 pt] The first case in an outbreak is termed the index case.
+    A) True
+    B) False
+
+8b. [tf, 1 pt] Label the following statements as either true or false.
+    
+    b) A higher DALY represents a healthier population.
+    A) True
+    B) False
+
+8c. [tf, 1 pt] Label the following statements as either true or false.
+    
+    c) Vertical transmission can occur through breastfeeding.
+    A) True
+    B) False
+
+8d. [tf, 1 pt] Label the following statements as either true or false.
+    
+    d) The Clinical Approach focuses on the health of individuals while the Public Health Approach on emphasizes populations.
+    A) True
+    B) False
+
+8e. [tf, 1 pt] Label the following statements as either true or false.
+    
+    e) Chemotherapy is an example of tertiary prevention.
+    A) True
+    B) False
+
+8f. [tf, 1 pt] True or False: f) Virulence refers to the proportion of infected people who develop clinical disease.
+    A) True
+    B) False
+
+8g. [tf, 1 pt] True or False: g) Sentinel surveillance can be either active or passive.
+    A) True
+    B) False
+
+8h. [tf, 1 pt] True or False: h) Cohort studies are good for studying rare diseases.
+    A) True
+    B) False
+
+8i. [tf, 1 pt] True or False: i) Observational studies are used to establish causality between an exposure and a disease.
+    A) True
+    B) False
+
+[STIMULUS] Please refer to the article below to answer the following questions (#9 - 13).
+
+**Obesity Prevalence Among Adults Living in Metropolitan and Nonmetropolitan Counties — United States, 2016**
+
+Weekly / June 15, 2018 / 67(23);653–658
+
+https://www.cdc.gov/mmwr/volumes/67/wr/mm6723a1.htm?s_cid=mm6723a1_w
+
+BRFSS is a state-based, random-digit–dialed telephone survey of U.S. adults aged ≥18 years, conducted annually by CDC and state and territorial health departments to monitor health conditions and related behaviors. BRFSS uses multistage, stratified sampling to select a representative sample of the noninstitutionalized adult population in 50 states, the District of Columbia (DC), and selected U.S. territories.
+
+In 2016, using combined landline and cell phone data across all states, the median response rate was 47.0%. Self-reported weight and height were used to calculate BMI; obesity was defined as BMI ≥30 kg/m². Among 477,665 respondents, 39,186 (8.2%) were excluded, including 36,848 with missing BMI values and 2,338 with implausible BMI values, leaving a final analytic sample of 438,479 adults from 50 states and DC. Unadjusted obesity prevalence is presented overall and by sociodemographic characteristics (age, sex, race/ethnicity, education, income, and employment status), state, and four U.S. Census regions and nine divisions.
+
+Unadjusted obesity prevalence was stratified by metropolitan and nonmetropolitan status. In this analysis, the nonmetropolitan designation was used to classify counties with small populations (<50,000). Differences in obesity prevalence between adults living in metropolitan and nonmetropolitan counties were examined using multivariable logistic regression, controlling for age, sex, and race/ethnicity within levels of the sociodemographic characteristics, states, and Census regions and divisions. All analyses accounted for complex survey design and sampling weights.
+
+9. [frq, 3 pt] What type of epidemiological study was used?
+
+10. [frq, 4 pt] Based on the information presented in the article, name two (2) aspects of the study design that make this is a well-controlled study.
+
+11. [frq, 4 pt] Based on the information presented in the article, name two (2) types of bias present in this study.
+
+12. [frq, 3 pt] The study finds that the obesity prevalence among adults living in nonmetropolitan counties was 34.2% while the obesity prevalence was 28.7% for those in metropolitan counties. A statistical test to compare the two obesity prevalences obtained a p-value less than 0.001. What does the statistical test indicate?
+
+13. [frq, 6 pt] Name three (3) factors that may contribute to higher obesity prevalence in nonmetropolitan counties than in metropolitan counties in the U.S.
+
+[STIMULUS] Longhorn Fever
+
+Longhorn Fever is a highly infectious and chronic disease, with symptoms including extreme devotion and love for the UT Longhorns. It is endemic to Austin, Texas, with an estimated prevalence of 9.3 cases per 100 population. However, epidemiologists have recently seen a rise in the disease, estimating that there are 8,500 new cases this year. Assume that the population of Austin is constant at 1,000,000.
+
+14. [frq, 4 pt] What is the incidence of Longhorn Fever?
+
+15. [frq, 4 pt] What is the new prevalence of Longhorn Fever?
+
+[STIMULUS] Outbreak of Cyclospora
+
+(adapted from https://www.cdc.gov/parasites/cyclosporiasis/outbreaks/2018/b-071318/index.html )
+
+As of September 11, 2018, CDC was notified of 511 laboratory-confirmed cases of Cyclospora cayetanensis infections in people from 15 states and New York City who reported consuming a variety of salads from McDonald’s restaurants in the Midwest.
+    [IMAGE: ../images/2019_university_of_texas_at_austin_regional__p7_c3a5151-fe32c1f7.webp]
+
+17. [frq, 2 pt] Based on the case count map above, which states had the greatest number of cases of Cyclospora (using state abbreviations is fine)?
+
+18. [frq, 3 pt] Most of the cases in this outbreak are present in the Midwest. However, the CDC was also notified of one case in Florida. Based on the information provided, what is the likely explanation?
+
+19. [frq, 3 pt] Name three (3) common symptoms of a Cyclospora infection.
+
+[STIMULUS] People who reportedly consumed salads from McDonald's and were infected with Cyclospora, as of September 11, 2018 (n=511).
+    [IMAGE: ../images/2019_university_of_texas_at_austin_regional__p8_336761-29cb2e6c.webp]
+
+20. [frq, 2 pt] This epi-curve is missing two important things. Please fill them in.
+
+21. [frq, 2 pt] What type of epi-curve is this?
+
+22. [frq, 3 pt] Explain why this type of epi-curve is common for foodborne illnesses.
+
+23. [frq, 2 pt] On what date did the greatest number of people report the onset of their symptoms?
+
+
+=== Celiac Disease ===
+
+[STIMULUS] Celiac disease is an autoimmune disease in which the ingestion of gluten triggers an immune response that damages the small intestine over time. The gold standard for the diagnosis of celiac disease is an intestinal biopsy. However, a genetic test for human leukocyte antigen (HLA) is now commonly being used, with a positive HLA test indicating a higher risk for celiac disease.
+
+The data on patients screened using both tests are shown in the table below.
+
+| | Positive HLA | Negative HLA |
+|---|---|---|
+| Positive biopsy | 50 | 15 |
+| Negative biopsy | 60 | 150 |
+
+24. [frq, 4 pt] Calculate the sensitivity and specificity of the HLA test.
+
+25. [frq, 4 pt] Interpret your calculations from the previous question.
+
+26. [frq, 4 pt] Calculate the positive predictive value (PPV) and negative predictive value (NPV) of the HLA test.
+
+27. [frq, 4 pt] What does your calculated PPV and NPV indicate about the HLA test?
+
+28. [frq, 4 pt] Suppose the HLA test is very inexpensive while the biopsy is very expensive. How can the two tests be used in conjunction to both save money and have the most accurate results?
+
+
+=== Outbreak of Meningococcal Disease ===
+
+[STIMULUS] Outbreak of Meningococcal Disease
+(adapted from CDC Emerging Infectious Diseases, doi:10.3201/eid2307.160129)
+
+In 2012, an outbreak of meningococcal disease caused by serogroup W of Neisseria meningitidis was identified in Chile. Meningococcal disease includes meningococcal meningitis and meningococcal septicemia and has a case-fatality rate of 50% for patients not given treatment. The disease is spread by respiratory secretions during close contact, such as coughing on someone.
+
+29. [frq, 2 pt] Based on the given information, what is meningococcal disease's mode of transmission? Be as specific as possible.
+
+30. [frq, 2 pt] It is believed that up to 10% of the population carries the bacteria in their throat at any given time without having any symptoms of the disease. What is the term given to these people?
+
+31. [frq, 6 pt] Identify the components of the chain of infection as they specifically relate to meningococcal disease.
+
+[STIMULUS] The Ministry of Health of Chile decided to conduct a study to identify risk factors for meningococcal disease. All confirmed cases of meningococcal disease from January 2012 to March 2013 in Chile were included in the study. Four controls were assigned per case-patient, selected by using a 3-stage random sampling procedure and matched for sex and age. Participants were studied using a questionnaire that contained 118 questions, including variables related to social and environmental determinants, individual factors, and vaccination history for meningococcal disease.
+
+| Characteristic | Case-patients, n = 76 | Controls, n = 337 |
+|---|---|---|
+| Income <US $517 | 33/76 | 126/337 |
+| Overcrowding | 12/76 | 24/337 |
+| Shared bedroom with ≥ 2 persons | 20/76 | 71/337 |
+| History of hospitalizations | 46/76 | 200/337 |
+| Acute respiratory illness | 42/76 | 141/337 |
+| Nonrespiratory chronic disease | 49/76 | 158/337 |
+| Depression | 16/76 | 43/337 |
+
+35. [frq, 3 pt] The 95% confidence interval for "history of hospitalizations" is 0.6-1.7. What does this indicate?
+
+36. [frq, 3 pt] The results of this study indicate that unfavorable living conditions, such as poverty, small spaces, and overcrowding, are major risk factors for developing meningococcal disease in the population of Chile. Hypothesize why these unfavorable living conditions may increase the risk for meningococcal disease.
+
+[STIMULUS] **Lead in Spices, Herbal Remedies, and Ceremonial Powders Sampled from Home Investigations for Children with Elevated Blood Lead Levels — North Carolina, 2011–2018**
+
+Weekly / November 23, 2018 / 67(46);1290–1294
+
+The number of pediatric cases of elevated blood lead levels (BLLs) are decreasing in North Carolina. However, one county reported an increase in the number of children with confirmed BLLs ≥5 μg/dL, from 27 in 2013 to 44 in 2017. Many children with elevated BLLs in this county lived in new housing, but samples of spices, herbal remedies, and ceremonial powders from their homes contained high levels of lead. Children with chronic lead exposure might suffer developmental delays and behavioral problems. In 1978, lead was banned from house paint in the United States; however, children might consume spices and herbal remedies daily.
+
+To describe the problem of lead in spices, herbal remedies, and ceremonial powders, the North Carolina Childhood Lead Poisoning Prevention Program (NCCLPPP) retrospectively examined properties where spices, herbal remedies, and ceremonial powders were sampled that were investigated during January 2011–January 2018, in response to confirmed elevated BLLs among children.
+
+Lead investigators from state and local health departments offer free home investigations for children with confirmed elevated BLLs. The 59 properties investigated were in eight primarily urban counties; 42 properties (71%) were built after 1978. Among these 42 newer residences, 10 had brass objects, jewelry, cookware, and other consumer items that might have contained lead; 32 (76%) had no evidence of lead in paint, dust, miniblinds, faucets, bathtub glaze, or furniture finish. In seven of these 32 properties, spices, herbal remedies, and ceremonial powders were the only identified risk.
+
+A total of 392 samples of spices, herbal remedies, and ceremonial powders were collected from the 59 properties. Six sample results were excluded because of different sampling and analysis methods. Among the remaining 386 samples included in this report, 344 (89%) were items intended for consumption (food), including spices and herbal remedies; and 42 (11%) were items not intended for consumption (nonfood), including ceremonial powders.
+
+Mean lead levels of ≥1 mg/kg were identified in 50 product categories, including 10 nonfood categories and 40 food categories. Among 177 samples included in these 50 product categories, 111 (62.7%) individual samples were contaminated with ≥1 mg/kg lead, including 76 (22.0%) food items and 35 (83.3%) nonfood items. These 111 contaminated samples represent 28.8% of the 386 samples included. Among nonfood items (ceremonial powders and topical remedies), the highest average lead levels were detected in kumkum (average = 12,185 mg/kg; range = 0.4–140,000), sindoor (average = 41,401 mg/kg; range = 0.1–130,000), and surma (average = 68,000 mg/kg; only one sample collected). Among edible items, saffron supplement (average = 2,764 mg/kg; only one sample collected), Balguti Kesaria (an Ayurvedic medicine) (average = 220 mg/kg; only one sample collected), and turmeric (average = 66 mg/kg; range = 0.1–740) had the highest average lead levels. Country of purchase was recorded for 187 (48%) of the 386 samples; therefore, product origin is largely unknown. Among samples with known origin, 142 (76%) were purchased in the United States.
+
+38. [frq, 3 pt] What type of epidemiological study was used?
+
+39. [frq, 4 pt] Provide two (2) advantages of this type of study.
+
+40. [frq, 3 pt] Why is this type of study unable to establish causality?
+
+41. [frq, 3 pt] What type of bias is this type of study most vulnerable to?
+
+42. [frq, 4 pt] Some specimens collected contained low detectable lead levels; however, they made still pose a risk for children. Why?
+
+43. [frq, 4 pt] Spices can be contaminated with lead at many points in the global supply chain. Name two (2) different ways that the contamination may occur.
+
+44. [frq, 4 pt] Name two (2) actions that lead investigators can take to decrease the risk of lead exposure in children in the context of this study.

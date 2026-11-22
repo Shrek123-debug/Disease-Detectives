@@ -1,0 +1,240 @@
+Rickards MiniSO Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  64 questions, 93.0 pts
+Source: scio.ly test archive id 77e5e7df-4f47-48e5-ac1e-8fac54b2f091  |  original files: https://drive.google.com/drive/folders/1KqXCDYmATTcN6ARd0djOTziEXTdYAdmy
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: Notes:
+- Please show all work and indicate units as necessary.
+- There will be no penalty for guessing.
+- Please don’t search the Internet for Answers during the Test.
+
+Good luck!
+
+1. [mcq, 1 pt] What is a difference between Clinical Approach and Public Health Approach?
+    A) Public Health Approach is designed for the General Public while Clinical Approach is designed for an Individual.
+    B) Clinical Approach focuses on Prevention while Public Health Approach focuses on Diagnosis.
+    C) Public Health Approach is a Branch of Government while Clinical Approach is Private and does not work with the Government.
+    D) Clinical Approach deals with a Patient's Medical History while Public Health Approach does not have Access to this Information.
+
+2. [frq, 1 pt] What was the Name for the 2009 Pandemic?
+
+3. [frq, 1 pt] Who is regarded as the “Father of Field Epidemiology”?
+
+4. [frq, 2 pt] What are the Four Steps in Solving Health Problems?
+
+5. [frq, 1 pt] What is an Example of a Physical Disease Agent?
+
+6. [mcq, 1 pt] Which is the Second Step in the Chain of Infection?
+    A) Agent
+    B) Mode of Transmission
+    C) Reservoir
+    D) Portal of Exit
+
+7. [tf, 2 pt] True or False, a Prion is an Agent.
+    A) True
+    B) False
+
+8. [frq, 1 pt] What is an Example of an Animal Reservoir?
+
+9. [frq, 2 pt] Compare and Contrast, Endemic and Epidemic.
+
+10. [frq, 2 pt] Give an Example of an Endemic Disease and to What Place.
+
+11. [frq, 1 pt] Name a Zoonotic Disease.
+
+12. [mcq, 2 pt] What are the Five Steps in the 5 Step Process for Surveillance?
+    A) Data Collection, Analyze Scientific Articles, Interpret Data, Data Exportation, Data Exportation.
+    B) Data Collection, Data Analysis, Data Dissemination, Data Interpretation, Call to Action.
+    C) Data Collection, Analyze Statistics, Interpret Data, Export Data, Link to Action.
+    D) Data Collection, Data Analysis, Data Interpretation, Data Dissemination, Link to Action.
+
+13. [mcq, 2 pt] What Type of Surveillance is in this Scenario, You go to your General Physician and He diagnoses you with Chicken Pox then, he reports it to the Local Public Health Agency.
+    A) Syndromic Surveillance
+    B) Sentinel Surveillance
+    C) Passive Surveillance
+    D) Active Surveillance
+
+14. [frq, 2 pt] What is the Bradford Hill Criteria used for?
+
+15. [frq, 3 pt] How many steps are there in an Outbreak Investigation, What are the Names, and Give a Short Description.
+
+16. [frq, 2 pt] What is a Symptom of Having the West Nile Virus?
+
+18. [frq, 1 pt] What is a Way of Prevention from the HTLV Type 1 Virus?
+
+19. [mcq, 1 pt] An Area Map is also Known as ...
+    A) A Pie Chart
+    B) A Choropleth Map
+    C) A Spot Map
+    D) A Bar Chart
+
+20. [frq, 1 pt] The Population-Based Approach is the Same as ____.
+
+21. [frq, 1 pt] What is a Mode of Prevention of a Transmittable Disease?
+
+22. [frq, 3 pt] What does the Prevalence of a Health Event Tell You/Refer to?
+
+23. [frq, 1 pt] What is an Example of a Non-Transmittable Disease?
+
+[STIMULUS] In an alternate universe, the Trost branch of the Paradis research division inadvertently produced a zombie virus while experimenting on captured titans. Inevitably, this non-communicable virus spread from the lab. While the royal capital research division knows the outbreak began in Trost, they are unsure how the initial exposure began (the researchers of that branch have become zombies). The town of Trost has two rivers that are used for drinking water, which we will call “River 1” and “River 2”. After collecting data on the local cases, the head team, which has named the virus the Untote virus, is fairly certain that the outbreak was caused by exposure to River 1, and plans to conduct a study to determine this. For their study, the researchers compared a sample of participants who used River 1 before it was closed off to a sample of participants who used River 2, before they developed any symptoms.
+
+24. [frq, 1 pt] What type of study are the researchers conducting?
+
+25. [mcq, 1 pt] Is this type of study prospective or retrospective?
+    A) prospective
+    B) retrospective
+
+26. [frq, 2 pt] Name one advantage and one disadvantage of this type of study:
+
+[STIMULUS] Unfortunately, a new strain of the Untote virus has emerged. Previously, infected individuals were harmless, but now, they are actively seeking to consume uninfected individuals. Even worse, the virus has now become communicable!
+
+If a healthy individual is bitten by a zombie (assuming they survive) they become infected. At this point, the virus has spread to all of the towns within Wall Maria, but it has no spread through Wall Rose yet.
+
+31. [frq, 1 pt] To determine the extent of the spread, the royal capital has asked for reports from the local doctors of each town (or at least, the ones who are still alive). What type of surveillance is this?
+
+[STIMULUS] The research team has been able to learn more about the mutated Untote virus based on the reports they have collected. While the virus begins acting roughly 24 hours after infection, symptoms are only felt one week after being bitten by a zombie, specifically after being exposed to the saliva of a zombie. In the first week of symptoms, infected individuals only seem to have inflammation in the nape of their necks and slight dizziness. Over the next week, individuals develop increased irritability, numbness in their extremities, slowed reaction times, and increased appetite. It is only in the following week that brain activity ceases, and individuals become fully fledged “zombies.”
+
+33. [frq, 5 pt] What are the parts of the chain of infection? Apply the chain of infection to the communicable Untote virus.
+
+34. [frq, 2 pt] Fearing for the kingdom’s safety, the nobility of the royal capital have begun throwing suggestions to end this outbreak, which include completely sealing off Wall Rose and even opening up Wall Maria to allow the titans to eat the infected individuals. Which health approach do these suggestions fall under, and why?
+
+35. [frq, 1 pt] Describe one primary prevention measure that the kingdom could take.
+
+36. [frq, 1 pt] Describe one secondary prevention measure that the kingdom could take.
+
+37. [frq, 1 pt] Describe one tertiary prevention measure that the kingdom could take.
+
+38. [frq, 1 pt] Describe one quaternary prevention measure that the kingdom could take.
+
+39. [frq, 1 pt] The graph above displays the progression of cases since the virus mutated. Which type of spread does this graph display?
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p8_7d3129-6df2a19b.webp]
+
+[STIMULUS] Researchers at the CDC were exploring the effects of influenza on the body. They collected samples of 1000 people, and then studied those in the sample who had influenza.
+
+41. [numeric, 1 pt] If there’s a 7% chance that any given person has influenza, and the researchers sample 1000 people, what is the probability that exactly 60 of the people chosen have influenza (round to three significant figures)?
+
+42. [frq, 1 pt] What type of distribution does the above scenario represent?
+
+43. [frq, 1 pt] If the researchers kept choosing people until they found someone with influenza, which type of distribution would this be?
+
+44. [numeric, 1 pt] In that scenario, what is the probability that the first person with influenza will be the 5th person chosen (round to three significant figures)?
+
+[STIMULUS] State whether each of the following observations is an example of discrete or continuous data.
+
+46. [mcq, 1 pt] The number of medals a competitor wins in a specified year.
+    A) discrete
+    B) continuous
+
+47. [mcq, 1 pt] The concentration of ‘brain power increasing chemicals’ in a sample of water.
+    A) discrete
+    B) continuous
+
+48. [mcq, 1 pt] The length of time it takes for a school attending an in person competition to come home.
+    A) discrete
+    B) continuous
+
+49. [mcq, 1 pt] The number of previous state championships a school has had.
+    A) discrete
+    B) continuous
+
+[STIMULUS] The following figure shows graphs showing death rates in England and Wales for (A) whooping cough, (B) diphtheria, (C) scarlet fever, and (D) respiratory tuberculosis. Each arrow represents an important event that caused a decrease in death rates. Identify the significant events (labeled A through F).
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p11_1b1aa7-03db2547.webp]
+    | Label | Answer |
+    | A | [[q:50-A]] |
+    | B | [[q:50-B]] |
+    | C | [[q:50-C]] |
+    | D | [[q:50-D]] |
+    | E | [[q:50-E]] |
+    | F | [[q:50-F]] |
+
+50-A. [frq, 1 pt] Label A
+
+50-B. [frq, 1 pt] Label B
+
+50-C. [frq, 1 pt] Label C
+
+50-D. [frq, 1 pt] Label D
+
+50-E. [frq, 1 pt] Label E
+
+50-F. [frq, 1 pt] Label F
+
+[STIMULUS] The following graph shows the maternal mortality due to childbed fever, by type of care provider. (Data from Vienna, Austria, 1841-1850)
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p11_7367d8-164c5026.webp]
+
+51. [frq, 3 pt] Before Semmelweis’s hand hygiene intervention was applied, why was the maternal mortality % of physicians so much higher than midwives?
+
+[STIMULUS] The following graph shows the crude death rates from rheumatic fever (United States, 1910-1977)
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p12_fac3ec-92fa4051.webp]
+
+52. [frq, 4 pt] This question is about the arrow ‘A’. What is A? Who was the first person to study ‘A’? Which two Oxford scientists are credited with developing ‘A’ for practical purposes?
+
+[STIMULUS] Take a look at the following graph:
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p13_6fecc9-eefb1340.webp]
+
+53. [frq, 1 pt] What kind of correlation fallacy is this?
+
+54. [frq, 1 pt] Classify the correlation strength (e.g. Weak Positive, No relationship)
+
+56. [mcq, 1 pt] A case-control study is characterized by all of the following except:
+    A) It is relatively inexpensive compared to most other epidemiological study designs
+    B) Patients with the disease (cases) are compared with persons without the disease (controls)
+    C) Incidence rates may be computed directly
+    D) Assessment of past exposure may be biased
+    E) Definition of cases may be difficult
+
+57. [mcq, 1 pt] The physical examination records of every incoming undergraduate (class of 1935) at the University of Florida was examined in 1977 to see if the recorded height and weight at the time of admission to the university was related to the development of Type 2 Diabetes. This is an example of:
+    A) A cross-sectional study
+    B) A case-control study
+    C) A prospective cohort study
+    D) A retrospective cohort study
+    E) An experimental study
+
+58. [frq, 1 pt] There are four phases in testing a new drug in the United States. In which phase do trials begin?
+
+59. [frq, 1 pt] What is the 3rd phase of a drug (in the U.S)?
+
+[STIMULUS] The following figure is used in this question:
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p14_6b18d6-811d9389.webp]
+
+60. [numeric, 1 pt] A drug company finds that a new drug, Rickardsonium (R), has a 50% cure rate as compared with drug Kangium (K), which only has a 25% cure rate. You are asked to design a clinical trial comparing R & K. Estimate the number of patients needed in each therapy group.
+
+61. [frq, 1 pt] Why does a difference in cure rate of 0.05 require so many more patients compared to a difference in cure rate of 0.30?
+
+62. [frq, 2 pt] You might notice that there seems to be an overlap with the hotspots of COVID in the Western side, and the interstates of the US. Why is that so?
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p15_891b4a-759b3ead.webp]
+    [IMAGE: ../images/2020_rickards_miniso_invitational_b_c__p15_cc588b-cae3fc21.webp]
+
+63. [frq, 2 pt] If we were to assume people only traveled through the Interstates, how would a timelapse of the spread of the viruses look like?
+
+66. [frq, 3 pt] List the three measures of central tendency. Describe how to calculate at least one of these measures.
+
+67. [frq, 2 pt] Find the five-number summary for the following data set:
+    20
+    37
+    2
+    17
+    50
+    10
+    40
+
+[STIMULUS] An observational study has resulted in the following tables. The next few questions will use these tables.
+    | Demographic | Group | Experienced Symptoms | No symptoms |
+    | Demographic 1 | Exposed | 13 | 708 |
+    | Demographic 1 | Unexposed | 50 | 169 |
+    | Demographic 2 | Exposed | 14 | 136 |
+    | Demographic 2 | Unexposed | 24 | 73 |
+    | Demographic 3 | Exposed | 4 | 106 |
+    | Demographic 3 | Unexposed | 32 | 17 |
+    | Demographic 4 | Exposed | 26 | 109 |
+    | Demographic 4 | Unexposed | 22 | 16 |
+
+70. [frq, 2 pt] What is the null hypothesis of a Cochran-Mantel-Haenszel test? What is the alternative hypothesis?
+
+[STIMULUS] What distribution does the Cochran-Mantel-Haenszel test follow? What are the degrees of freedom?
+    | Label | Answer |
+    | Distribution What distribution does the Cochran-Mantel-Haenszel test follow? | [[q:72-a]] |
+    | Degrees of freedom What are the degrees of freedom? | [[q:72-b]] |
+
+72-a. [frq, 1 pt] Distribution What distribution does the Cochran-Mantel-Haenszel test follow?
+
+72-b. [frq, 1 pt] Degrees of freedom What are the degrees of freedom?

@@ -1,0 +1,387 @@
+Harvard University Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  38 questions, 131.0 pts
+Source: scio.ly test archive id ca6ad901-99a2-43ef-9c8d-f9b4bddd1abb  |  original files: https://drive.google.com/drive/folders/1o0bnX6QG3krfssWCHkN3o2R_MBzZyjrw
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 23
+
+DIRECTIONS: Most of these parts build off of each other. Information from earlier pages that is pertinent to later pages will be replicated for you if it is necessary to answer a question. There is no need to worry about remembering minor details from one page of the exam to another. Attempt to answer as many questions as possible while remaining thoughtful and accurate in your responses.
+
+
+=== Entry 1, Page 1 ===
+
+[STIMULUS] Campylobacter and Salmonella are leading causes of bacterial gastroenteritis in the United States and are estimated to cause more than 1 million episodes of domestically acquired illness annually. Campylobacter and Salmonella are primarily transmitted through contaminated food, but animal-to-human and human-to-human transmission can also occur. Most people who become ill with campylobacteriosis get diarrhea, cramping, abdominal pain, and fever within two to five days after exposure to the organism. In people with compromised immune systems, Campylobacter occasionally spreads to the bloodstream and causes a serious life-threatening condition. Approximately 76 people with Campylobacter infections die each year. The most common species of the genus is Campylobacter jejuni, which are spiral-shaped gram-negative bacteria which grow optimally at 37 to 42 °C. This range of incubation temperatures is ideally suited for growth in birds, which have a body temperature of approximately 41 to 42 °C. Most people with salmonellosis develop diarrhea, fever, and abdominal cramps between 12 and 72 hours after infection. Salmonellosis can be fatal when infection spreads from the intestines to the bloodstream. Approximately 450 people die each year from salmonellosis in the United States. Salmonella are gram-negative, rod-shaped bacteria that can be divided into two species: S. enterica and S. bongori. There are more than 30 different serotypes of Salmonella; the most common serotypes are Salmonella Typherimurium, Enteriditis, Newport, and Javiana.
+
+1. [frq, 6 pt] Given the information above, who might you expect to be the most at risk for salmonellosis and campylobacteriosis?
+
+2. [numeric, 4 pt] What is the mortality rate of salmonellosis in the United States, expressed as deaths per 100,000 people? Assume that the population of the United States is 320 million, and express your answer to the nearest hundredth.
+
+3. [frq, 4 pt] What term is used to describe diseases that are spread from animals to humans?
+
+4. [frq, 4 pt] What is a serotype? How might different serotypes have different pathogenicities in human populations?
+
+
+=== Entry 1, Page 2 ===
+
+[STIMULUS] Dr. Tanya Antibiotic and her team of epidemiologists want to study common food-bourne illnesses in the United States, and are interested in finding risk factors associated with Campylobacter and Salmonella infection. Deidentified case reports of confirmed, probable, and suspected campylobacteriosis and salmonellosis cases reported during 2014 in residents ages 16 and up in Maryland, Ohio, and Virginia were available to the team.
+
+5. [frq, 6 pt] Which type of epidemiological study should Tanya perform if she wants to use the data that is available to her?
+
+7. [frq, 9 pt] List Hill's Criteria of Causation.
+
+
+=== Entry 1, Page 3 ===
+
+8. [frq, 6 pt] Label each of the three epidemic curves below with the type of source it indicates.
+    [IMAGE: ../images/2018_harvard_university_invitational__p4_73d1e2-62354e91.webp]
+    [IMAGE: ../images/2018_harvard_university_invitational__p4_86110a-991bd3a1.webp]
+    [IMAGE: ../images/2018_harvard_university_invitational__p4_9d16e8-a39913bb.webp]
+
+
+=== Entry 2, Page 1 ===
+
+[STIMULUS] Tanya's team decides to perform a case-control study with the information they are given. Her data contains survey results from a total of 250,000 residents. There were 1,395 total cases of Salmonella infection and 92 total cases of Campylobacter infection reported in the study. Tanya constructed the following table based on the study:
+    | Risk Factor | Total Exposed Persons | Salmonellosis Cases among exposed | Campylobacteriosis Cases among exposed |
+    | Lived within 5 miles of a poultry farm | 50,000 | 492 | 35 |
+    | Had a pet dog | 120,000 | 841 | 61 |
+    | Had a name beginning with the letter "J" | 20,000 | 101 | 9 |
+    | Lived in an apartment complex | 110,000 | 599 | 36 |
+    | Worked in agriculture | 55,000 | 663 | 37 |
+    | Liked spicy food | 160,000 | 882 | 59 |
+    | Contracted influenza in 2013 | 5,000 | 57 | 2 |
+    | Above the age of 65 | 35,000 | 235 | 32 |
+    | Named "Kevin" | 900 | 18 | 0 |
+
+
+=== Entry 2, Page 2 ===
+
+11. [frq, 6 pt] What does it mean for relative risk to be greater than 1?
+
+
+=== Entry 2, Page 3 ===
+
+12. [frq, 4 pt] Define endemic in the context of epidemiology.
+
+13. [frq, 2 pt] Which English physician traced the source of a cholera outbreak in London in 1854, and is now considered the “father of epidemiology”?
+
+14. [frq, 6 pt] Define confounding (as a noun) in the context of epidemiology and give an example of it.
+
+15. [frq, 4 pt] Explain how confounding can complicate the results of an epidemiological study.
+
+
+=== Entry 3, Page 1 ===
+
+[STIMULUS] Tanya arrives at the following table of relative risks following her calculations:
+
+| **Risk Factor** | **Relative Risk for Salmonellosis** | **Relative Risk for Campylobacteriosis** |
+|---|---|---|
+| Lived within 5 miles of a poultry farm | 2.2 | 2.5 |
+| Had a pet dog | 1.6 | 2.1 |
+| Had a name beginning with the letter “J” | 0.9 | 1.2 |
+| Lived in an apartment complex | 1.0 | 0.8 |
+| Worked in agriculture | 3.2 | 2.4 |
+| Liked spicy food | 1.0 | 1.0 |
+| Contracted influenza in 2013 | 2.1 | 1.1 |
+| Above the age of 65 | 1.2 | 3.3 |
+| Named “Kevin” | 3.6 | 0.0 |
+
+Curiously, being named Kevin seems to be the most dangerous risk factor for contracting Salmonellosis. However, Tanya decides that this result did not warrant further study and throws these numbers out in future analysis.
+
+16. [frq, 6 pt] Do you agree with her conclusion that being named Kevin is likely not related to a risk of contracting Salmonella infection? Explain your answer. (For your reference, the table from the previous part is provided at the end of this part.)
+
+17. [frq, 6 pt] Given these results, what populations would you target if you were to mount a campaign for Salmonellosis awareness? For Campylobacteriosis awareness? (You can be brief.)
+
+
+=== Entry 3, Page 2 ===
+
+[STIMULUS] Tanya now becomes interested in the rare condition Guillain-Barré Syndrome, or GBS, which she believes might be correlated to certain food-borne illnesses. GBS is a rare condition in which a person’s immune system attacks peripheral nerves. The syndrome can affect the nerves that control muscle movement as well as those that transmit pain, temperature and touch sensations. This can result in muscle weakness and loss of sensation in the legs and/or arms. Even in the best settings, 3-5% of GBS patients die from complications, which can include paralysis of the muscles that control breathing, blood infection, lung clots, or cardiac arrest.
+
+Working with doctors in her region, Tanya’s team is able to track 30,000 patients in order to study the relation between food-borne illness and GBS: 10,000 people who have no history of food-borne illness, 10,000 people who have contracted (and overcome) Salmonellosis in the past two years, and 10,000 people who have contracted (and overcome) Campylobacteriosis in the past two years. She wanted to track the rates of GBS development in each of the three groups over several years.
+
+18. [frq, 6 pt] What type of epidemiological study is Tanya conducting?
+
+19. [frq, 2 pt] What numeric metric will Tanya likely use to analyze her results?
+
+[STIMULUS] The following table is replicated from entry 2 for your reference. A total of 250,000 people were surveyed; 1,395 Salmonellosis cases and 92 Campylobacteriosis cases were reported among them.
+
+| **Risk Factor** | **Total Exposed Persons** | **Salmonellosis Cases among exposed** | **Campylobacteriosis Cases among exposed** |
+|---|---|---|---|
+| Lived within 5 miles of a poultry farm | 50,000 | 492 | 35 |
+| Had a pet dog | 120,000 | 841 | 61 |
+| Had a name beginning with the letter “J” | 20,000 | 101 | 9 |
+| Lived in an apartment complex | 110,000 | 599 | 36 |
+| Worked in agriculture | 55,000 | 663 | 37 |
+| Liked spicy food | 160,000 | 882 | 59 |
+| Contracted influenza in 2013 | 5,000 | 57 | 2 |
+| Above the age of 65 | 35,000 | 235 | 32 |
+| Named “Kevin” | 900 | 18 | 0 |
+
+
+=== Entry 4, Page 1 ===
+
+[STIMULUS] After many years, Tanya obtained the following results following her cohort study. She was sadly unable to collect information from all 30,000 participants, but was able to collect information from most cases. Recall that she separated her participants into three cohorts: people who have contracted Salmonellosis in the past two years, people who have contracted (and overcome) Campylobacteriosis in the past two years, and people with no history of food-borne illness. Her results are given below:
+
+| **Cohort** | **Number of Cases** | **Number of Cases who developed GBS** |
+|---|---|---|
+| No food-borne illness | 5,899 | 46 |
+| Previously had Salmonellosis | 7,299 | 57 |
+| Previously had Campylobacteriosis | 9,055 | 157 |
+
+Calculate the odds ratio, to the nearest hundredths place, for developing GBS for each of the two experimental cohorts. Use as much scratch paper as needed.
+    | Cohort | Odds Ratio |
+    | Previously had Salmonellosis | [[q:22a]] |
+    | Previously had Campylobacteriosis | [[q:22b]] |
+
+22a. [numeric, 4 pt] Previously had Salmonellosis — Odds Ratio
+
+22b. [numeric, 4 pt] Previously had Campylobacteriosis — Odds Ratio
+
+23. [frq, 6 pt] Are patients that have previously had Salmonellosis at a higher risk for GBS? How about patients that have previously had Campylobacteriosis? (Be brief.)
+
+
+=== Entry 4, Page 2 ===
+
+24. [frq, 4 pt] What distinguishes a syndrome from a disorder?
+
+25. [frq, 4 pt] Bovine spongiform encephalopathy, commonly known as mad cow disease, is a transmissible neurodegenerative disease that may be passed to humans who have eaten infected flesh. It is caused by a misfolded protein that is able to induce the misfolding of other proteins, eventually forming proteinous plaques that are thought to impact brain function. What is the general name given to misfolded proteins that are able to be transmitted in this fashion?
+
+
+=== Entry 5, Page 1 ===
+
+[STIMULUS] Tanya obtains odds ratios for the two cohorts after her analysis (your answers to Question 22):
+
+| **Cohort** | **Odds Ratio** |
+|---|---|
+| Previously had Salmonellosis | (from Q22a) |
+| Previously had Campylobacteriosis | (from Q22b) |
+
+In accordance with her results, Tanya wants to investigate the rate of GBS among those who had previously had campylobacteriosis. However, she believes that age may be a confounding variable in her results. To correct for possible errors, she decides to use the Cochran-Mantel-Haenszel method to obtain a weighted odds ratio calculation. She obtains the following chart after separating the cohort into two age ranges:
+
+| **Age < 50** |  |  |  | **Age ≥ 50** |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | **GBS** | **Healthy** | **Total** |  | **GBS** | **Healthy** | **Total** |
+| Had Camp’osis | 104 | 5,856 | 5,960 | Had Camp’osis | 53 | 3,042 | 3,095 |
+| No illness | 24 | 3,030 | 3,054 | No illness | 22 | 2,823 | 2,845 |
+| Total | 128 | 8,886 | 9,014 | Total | 75 | 5,865 | 5,940 |
+
+26. [frq, 8 pt] Given the above data table, calculate the Cochran-Mantel-Haenszel Estimate for an Odds Ratio to the nearest tenths place. Should Tanya still conclude that having previous exposure to campylobacteriosis is a risk factor for GBS? (Show your work for partial credit.)
+
+27. [frq, 3 pt] Is age a confounding variable? How can you tell?
+
+
+=== Entry 5, Page 2 ===
+
+[STIMULUS] a. a misfolded protein that acts as a pathogen
+b. a disease that can be passed from an animal to a human
+c. a statistical test that analyzes dependent variables on an ordinal scale
+d. a type of study in which outcomes are unknown prior to the conducting of a study.
+e. a disease that is habitually present within a given geographical area
+f. the study of incidence, distribution, and control of disease in populations
+g. an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+h. a disorder that has more than one identifying feature or symptom
+i. any agent that carries and transmits an infectious pathogen into another living organism
+j. a statistical test that involves the analysis of variance between two variables
+k. a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+l. an epidemic that spans a large geographic region and affects a large number of people
+m. a group of microorganisms that present the same antigens
+
+28. [mcq, 1 pt] Match the description with the term: zoonosis
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+29. [mcq, 1 pt] Match the description with the term: confounding
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+30. [mcq, 1 pt] Match the description with the term: ANOVA
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+31. [mcq, 1 pt] Match the description with the term: endemic
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+32. [mcq, 1 pt] Match the description with the term: prospective
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+33. [mcq, 1 pt] Match the description with the term: pandemic
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+34. [mcq, 1 pt] Match the description with the term: prion
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+35. [mcq, 1 pt] Match the description with the term: Mann-Whitney U test
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+36. [mcq, 1 pt] Match the description with the term: epidemiology
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+37. [mcq, 1 pt] Match the description with the term: vector
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+38. [mcq, 1 pt] Match the description with the term: syndrome
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+39. [mcq, 1 pt] Match the description with the term: odds ratio
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+40. [mcq, 1 pt] Match the description with the term: serotype
+    A) a misfolded protein that acts as a pathogen
+    B) a disease that can be passed from an animal to a human
+    C) a statistical test that analyzes dependent variables on an ordinal scale
+    D) a type of study in which outcomes are unknown prior to the conducting of a study.
+    E) a disease that is habitually present within a given geographical area
+    F) the study of incidence, distribution, and control of disease in populations
+    G) an error in data analysis in which an epidemiologist confuses two effects of a common cause as a cause and an effect
+    H) a disorder that has more than one identifying feature or symptom
+    I) any agent that carries and transmits an infectious pathogen into another living organism
+    J) a statistical test that involves the analysis of variance between two variables
+    K) a numeric metric that describes how much more likely an exposed individual is to contract an illness than an unexposed individual
+    L) an epidemic that spans a large geographic region and affects a large number of people
+    M) a group of microorganisms that present the same antigens
+
+
+=== Entry 5, Page 3 ===
+
+[STIMULUS] Botulinum toxin is the most acutely lethal toxin known, with an estimated median lethal dose (LD₅₀) of 1.3-2.1 ng/kg. (For comparison, the lethal dose for potassium cyanide is 5,000,000-10,000,000 ng/kg, or 5-10 mg/kg.) Botulinum toxin inhibits the release of the neurotransmitter acetylcholine (ACh) from neurons. ACh is critical for motor neuron function, as it signals for muscles to contract in response to electrical impulses. Botulinum toxin thus leads to flaccid paralysis and sometimes death, as the diaphragm ceases to contract. The toxin is synthesized by the bacterium Clostridium botulinum, the bacteria that causes foodborne botulism.
+
+42. [frq, 1 pt] What is the brand name for botulinum toxin? (You've probably heard of it.)
+
+43. [frq, 3 pt] What three elements make up the Epidemiological Triad?

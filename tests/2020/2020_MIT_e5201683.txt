@@ -1,0 +1,298 @@
+MIT — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  83 questions, 276.0 pts
+Source: scio.ly test archive id e5201683-ebef-4cb6-8f70-f6bf1c69f27f  |  original files: https://drive.google.com/drive/folders/1YJgIsMvrHoGL0JTBB4CNNK7tSV5Zpi6Z
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+DIRECTIONS: No penalty for guessing! Significant figures are not required. Units and work are required for all calculation questions. One 8.5 x 11" resource sheet is permitted per team. 2 non-programmable, non-graphing calculators are permitted. Please read each question CAREFULLY, as they may have multiple parts, require showing work, or short/sentence explanations! Asterisks (*) are next to tiebreaker questions.
+
+
+=== Questions ===
+
+[STIMULUS] The following scenario applies to all parts of question 1:
+
+Scientists are developing a new screening test called STOMACH-CHECK for gastric cancer. As part of their research, 10,000 people without a history of gastric cancer are enrolled into a study and undergo screening with STOMACH-CHECK. Please assume that STOMACH-CHECK has 100% specificity as a test.
+
+At the time of screening, 25 individuals are identified as having gastric cancer by STOMACH-CHECK. One year later, the researchers review the medical histories of all individuals and find that an additional 27 individuals have been diagnosed with gastric cancer in the subsequent 12 months by other methods. All patients are then followed for 3 additional years and their survival is recorded.
+    |  | Number of cases | Mean survival following diagnosis (months) |
+    | Cancer detected by STOMACH-CHECK | 25 | 28 |
+    | Cancer detected by other methods | 27 | 23 |
+
+1a. [frq, 2 pt] Please calculate the estimated yearly incidence of gastric cancer per 100,000 people in the population given the above data.
+
+1b. [frq, 3 pt] * Please suggest ONE mechanism for how a screening test might improve TRUE survival of patients with gastric cancer.
+
+1c. [frq, 3 pt] Suppose that diagnosis of gastric cancer via screening with STOMACH-CHECK versus other methods actually has no effect on patient survival. Please describe how “lead time bias” can result in the apparent difference in survival identified above.
+
+1d. [frq, 4 pt] * Again suppose that diagnosis of gastric cancer via screening with STOMACH-CHECK actually has no effect on patient survival. Please describe how “length time bias” can result in the apparent difference in survival identified above.
+
+[STIMULUS] The following scenario applies to questions 3-5:
+
+A randomized controlled clinical trial (RCT) is conducted to evaluate the effectiveness of a newly developed lightbulb, SUNBULB, in improving mood symptoms over the winter months. From 8pm to 9pm each evening, participants are randomly assigned to either receive 1 hour of therapy with SUNBULB (the intervention) or 1 hour of therapy with a standard IKEA lamp (the control). Every week for three winter months, patients are asked to rate their mood symptoms on a scale of 1 to 10, with 1 signifying a depressed mood and 10 signifying a euphoric mood.
+
+Selected data is shown below:
+    [IMAGE: ../images/2020_mit_c__p5_6069b0-380435a8.webp]
+    |  | Mean mood rating, week 1 | Mean mood rating, week 12 | Mean change in mood rating, week 1 to week 12 (ɑ=0.05) |
+    | SUNBULB (n=100) | 5.7 | 7.1 | +1.4 (p=0.01) |
+    | IKEA lamp (n=100) | 5.8 | 6.5 | +0.7 (p=0.04) |
+
+3a. [frq, 2 pt] The data is analyzed, and the difference in mood ratings between week 1 and week 12 of the study for BOTH the SUNBULB and IKEA groups found to be “statistically significant”. Please interpret this statement, keeping in mind the included p-values in the table above, in the context of the study. For the study, ɑ = 0.05.
+
+3b. [frq, 4 pt] Please provide TWO possible explanations for why the participants in the IKEA lamp group experienced a statistically significant improvement in mood.
+
+3c. [frq, 2 pt] Further analysis is performed, and the difference between the SUNBULB and IKEA lamp group changes in mean mood rating is also found to be “statistically significant, p<0.05”. Please interpret this statement, including the included p-value, in the context of the study.
+
+[STIMULUS] Suppose during the study, researchers gathered additional data regarding smoking history and stratified the data based on smoking status. The table is seen below.
+
+Please use the following information for all parts of question 4:
+    |  | Mean mood rating, week 1 | Mean mood rating, week 12 | Mean change in mood rating, week 1 to week 12 (ɑ=0.05) |
+    | SUNBULB (n=100) | 5.7 | 7.1 | +1.4 (p=0.01) |
+    | Smoking (27) | 6.3 | 6.3 | 0 (p=0.45) |
+    | Never smoker (73) | 5.5 | 7.2 | +1.7 (p=0.01) |
+    | IKEA lamp (n=100) | 5.8 | 6.5 | +0.7 (p=0.04) |
+    | Smoking (25) | 5.9 | 6.0 | +0.2 (p=0.12) |
+    | Never smoker (75) | 5.8 | 6.6 | +0.8 (p=0.04) |
+
+4a. [frq, 2 pt] In participants with smoking history, does SUNBULB use improve mood in the winter?
+
+4b. [frq, 2 pt] In patients who have never smoked, does SUNBULB use improve mood use in the winter?
+
+4c. [frq, 5 pt] The researchers perform further analysis and conclude that in patients with a smoking history, SUNBULB use does not improve mood in the winter compared to IKEA lamp use. However, SUNBULB use in patients without smoking history is found to consistently improve mood to a greater extent than IKEA lamp use. What TERM is used to describe the effect of smoking on this study’s findings?
+
+[STIMULUS] Please use the following information for all parts of question 5, disregarding information given in question 4:
+    |  | Mean mood rating, week 1 | Mean mood rating, week 12 | Change in mean mood rating, week 1 to week 12 (ɑ=0.05) |
+    | SUNBULB (n=100) | 5.7 | 7.1 | +1.4 (p=0.01) |
+    | Plants (80) | 5.8 | 7.1 | 1.3 (p=0.04) |
+    | No plants (20) | 5.9 | 6.2 | 0.3 (p=0.10) |
+    | IKEA lamp (n=100) | 5.8 | 6.5 | +0.7 (p=0.04) |
+    | Plants (30) | 5.8 | 6.9 | 1.1 (p=0.03) |
+    | No plants (70) | 6.0 | 6.6 | 0.6 (p=0.10) |
+
+5a. [frq, 3 pt] Suppose during the study, researchers gathered additional data regarding plant ownership. Does SUNBULB use still appear to be superior to IKEA lamp use to improve mood in winter? Is there a flaw in the study design? Please explain your answer in 2-3 sentences.
+
+5b. [frq, 3 pt] What TYPE OF VARIABLE does houseplant ownership appear to be in this study?
+
+5c. [frq, 6 pt] * Please identify and explain TWO improvements that could be made to the design of this study, related to the characteristic of plant ownership.
+
+[STIMULUS] Please reference ARTICLE A, “Characteristics of a Multistate Outbreak of Lung Injury Associated with E-cigarette Use, or Vaping - United States, 2019“ to answer the following questions:
+
+6a. [frq, 2 pt] From the information in this article, has the biological basis for the association e-cigarette/vaping and acute lung injury been established?
+
+6b. [frq, 6 pt] The authors report that 63.8% of patients included in the database had information available regarding the specific substance they used in e-cigarette/vaping products. Please provide THREE possible reasons for why this information is missing for almost 40% of patients.
+
+6c. [frq, 8 pt] * Please reference Figure 1, Article A. At this time in the investigation, please suggest FOUR reasons why some states have more reported cases than other states of lung injury associated with e-cigarette/vaping use.
+    [IMAGE: ../images/2020_mit_c__p20_620b72-ccf9107d.webp]
+
+6d. [frq, 8 pt] Please reference Figure 2, Article A. Please suggest FOUR reasons why there was a decrease in reported cases of lung injury associated with e-cigarette/vaping use in late August and September of 2019.
+    [IMAGE: ../images/2020_mit_c__p20_03f1a2-bddba45a.webp]
+
+6e. [frq, 1 pt] The CDC has issued public statements warning against the use of e-cigarette/vaping products like in Article A. What level of prevention does this intervention represent?
+
+6f. [frq, 6 pt] Please suggest THREE public health interventions that could be implemented to reduce the impact of lung injury associated with e-cigarette/vaping use on the US population.
+
+6g. [frq, 3 pt] For EACH intervention you suggest in question 6f, please state the LEVEL of prevention you would classify it as.
+
+[STIMULUS] Please use the following information to answer all parts of question 7:
+
+Vaccinating pregnant women with influenza vaccine, tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (Tdap) can reduce influenza and pertussis risk for themselves and their infants.
+
+Methods: Surveillance data were analyzed to ascertain influenza-associated hospitalization among pregnant women and infant hospitalization and death associated with influenza and pertussis. An Internet panel survey was conducted during March 27–April 8, 2019, among women aged 18–49 years who reported being pregnant any time since August 1, 2018. Influenza vaccination before or during pregnancy was assessed among respondents with known influenza vaccination status who were pregnant any time during October 2018–January 2019 (2,097). Tdap receipt during pregnancy was assessed among respondents with known Tdap status who reported a live birth by their survey date (817).
+
+7a. [frq, 3 pt] Define surveillance as applied in public health.
+
+7d. [frq, 2 pt] * Suggest a reason to explain why vaccinating pregnant women with influenza vaccine and Tdap decreases the incidence of influenza and pertussis in their infants.
+
+[STIMULUS] Indicate whether the following statements are TRUE or FALSE. If you believe the statement to be false, please provide corrections or an explanation to the statement.
+
+8a. [tf, 2 pt] True or False: In randomized clinical trials conducted for new medications, the control group must always consist of patients receiving a placebo pill without pharmacological activity.
+    A) True
+    B) False
+
+8a-corr. [frq, 1 pt] If the statement in 8a is false, provide a correction or explanation.
+
+8b. [tf, 2 pt] True or False: Negative predictive value describes the likelihood of not actually having a disease when the test comes back positive for the disease.
+    A) True
+    B) False
+
+8b-corr. [frq, 1 pt] If the statement in 8b is false, provide a correction or explanation.
+
+8c. [tf, 1 pt] True or False: Herd immunity describes the effect of protecting a population from a disease via vaccination of a proportion of the population, thus inhibiting contagious spread.
+    A) True
+    B) False
+
+8d. [tf, 1 pt] True or False: In an outbreak investigation, multiple steps of the investigation may be performed simultaneously, i.e. constructing a case definition and reporting findings.
+    A) True
+    B) False
+
+8e. [tf, 2 pt] True or False: The “Consistency” criterion from the Bradford Hill criteria describes the requirement that greater exposure in a population should lead to generally greater incidence of the effect.
+    A) True
+    B) False
+
+8e-corr. [frq, 1 pt] If the statement in 8e is false, provide a correction or explanation.
+
+8f. [tf, 1 pt] True or False: During an outbreak investigation, the case definition may be modified to include or exclude patients as new information becomes available.
+    A) True
+    B) False
+
+8g. [tf, 2 pt] True or False: The term “hyperendemic” can be used to describe a disease or condition which is demonstrating increased incidence above the usual endemic rate in a given geographical area and population.
+    A) True
+    B) False
+
+8g-corr. [frq, 1 pt] If the statement in 8g is false, provide a correction or explanation.
+
+8h. [tf, 2 pt] True or False: In case-control studies, the odds ratio acts as an estimate of the attack rate.
+    A) True
+    B) False
+
+8h-corr. [frq, 1 pt] If the statement in 8h is false, provide a correction or explanation.
+
+[STIMULUS] For EACH of the following stages in the chain of infection, provide THREE (3) specific examples along with the diseases they are associated with.
+
+9a. [frq, 6 pt] Reservoir
+
+9b. [frq, 6 pt] Fomite
+
+9c. [frq, 6 pt] Vector
+
+[STIMULUS] After the availability of pertussis vaccine in the 1940s, the introduction of pertussis immunization programmes with pertussis toxoid resulted in a sharp reduction in pertussis, not only among vaccinated infants, but also among non-vaccinated infants and older populations.
+
+10a. [frq, 1 pt] What term is commonly used to describe this phenomenon in epidemiology?
+
+10b. [frq, 6 pt] After 30 y of intensive childhood immunization, there has been a recent re-emergence of adult pertussis, resulting in an increased risk of mortality in younger children. Describe THREE factors that may have contributed to this re-emergence.
+
+[STIMULUS] Scientists are working on a proposal to Bill Gates regarding the next global eradication of an infectious disease through vaccination.
+
+11a. [frq, 10 pt] Please list FIVE (5) factors that would improve or decrease the likelihood of eradication of a disease through vaccination.
+
+11b. [frq, 10 pt] Please identify FIVE (5) factors that influence the rate of vaccination in a given country.
+
+11c. [frq, 16 pt] Bill Gates requests that tests be developed to identify individuals with active infections with the disease selected for eradication. The data for Test A (nicknamed “Captain Kirk”) and Test B (nicknamed “Captain Picard”) are shown below.
+    
+    Please calculate the sensitivity, specificy, positive predictive value, and negative predictive value for Captain Kirk (Test A) and Captain Picard (Test B).
+    
+    | | Disease (+) | No disease (-) |
+    |---|---|---|
+    | Captain Kirk (+) | 125 | 52 |
+    | Captain Kirk (-) | 1 | 450 |
+    
+    | | Disease (+) | No disease (-) |
+    |---|---|---|
+    | Captain Picard (+) | 80 | 2 |
+    | Captain Picard (-) | 9 | 468 |
+
+11d. [frq, 4 pt] Identify TWO (2) situations or stages of an eradication campaign where disease surveillance may be necessary.
+
+11e. [frq, 3 pt] * Please explain why Bill Gates should choose Captain Kirk (Test A) or Captain Picard (Test B) to use for the eradication campaign.
+
+11f. [frq, 1 pt] What disease has been eradicated by a global vaccination campaign?
+
+11g. [frq, 1 pt] What disease is approaching the goal of eradication via a global vaccination campaign?
+
+11h. [frq, 2 pt] Please identify ONE reason why would it be challenging to attempt global eradication of influenza.
+
+[STIMULUS] The prevalence of smoking among men in a population is estimated to be 40%. A cohort study is then conducted in the population and finds that the 5-year risk of ischemic stroke is 1 in 1000 individuals in smokers, and 0.5 in 1000 individuals in non-smokers. Please show work for your calculations!
+
+12a. [frq, 3 pt] Please calculate the 5-year relative risk of ischemic stroke in smokers compared to non-smokers in this population.
+
+12b. [frq, 3 pt] Please calculate the percentage of ischemic strokes observed in individuals who smoke which can be attributed to their smoking status.
+
+12c. [frq, 1 pt] * What is the measure calculated in question 12b called?
+
+12d. [frq, 3 pt] Please calculate the total 5-year risk of ischemic stroke for the population. Please provide your answer as the 5-year risk in 100,000 individuals.
+
+12e. [frq, 3 pt] Please calculate the percentage of ischemic strokes observed in the population which can be attributed to smoking.
+
+12f. [frq, 1 pt] What is the measure calculated in question 12e called?
+
+[STIMULUS] Please reference ARTICLE B, “Notes from the Field: Multistate Outbreak of Salmonella Agbeni Associated with Consumption of Raw Cake Mix — Five States, 2018” to answer the following questions:
+
+13a. [frq, 2 pt] How did Oregan public health officials identify similar cases of food poisoning related to raw cake mix in three other states?
+
+13b. [frq, 4 pt] Please list the FOUR main components of a case definition in an outbreak investigation.
+
+13c. [frq, 2 pt] What kind of information is generally required in order to establish a “confirmed” case during an outbreak investigation?
+
+13d. [frq, 4 pt] Please construct a case definition for a “confirmed” case in the outbreak investigation described in Article B. Please frame your criteria using the four components of a case definition you provided in question 13b.
+
+13e. [frq, 4 pt] Please construct a case definition for a “probable” case in the outbreak investigation described in Article B corresponding to your “confirmed” case definition from question 13d.
+
+13f. [mcq, 1 pt] When investigating an outbreak likely related to food exposure like in Article B, should public health officials use a case-control or cohort study?
+    A) case-control
+    B) cohort
+
+13g. [frq, 4 pt] Please provide TWO advantages of the study type you selected in question 13f when investigating a foodborne illness.
+
+13h. [frq, 4 pt] Please provide TWO disadvantages of the study type you selected in question 13f when investigating a foodborne illness.
+
+[STIMULUS] Researchers conduct a study investigating the association between febrile seizures during childhood and the development of epilepsy (seizure disorder) later in childhood. Febrile seizures can occur in children between 6 months and 5 years of age with fevers greater than 100.4 ºF (38ºC). The researchers enroll 130 children who have experienced febrile seizures and 2120 children who have not experienced febrile seizures to their study. All children are enrolled in the study at the age of 4 years old. The families of all children are sent yearly surveys regarding their health, including questions regarding seizure symptoms and the development of epilepsy, until they are 18 years of age.
+
+14a. [frq, 1 pt] What type of epidemiological study is described above?
+
+14b. [frq, 1 pt] What is the exposure being investigated?
+
+14c. [frq, 3 pt] At the end of the data collection phase of the study, researchers find that of the 130 children who had experienced febrile seizures at the beginning of the study, 1 child developed epilepsy later in childhood. Of the 2120 children who had not experienced febrile seizures at the beginning of the study, 29 children developed epilepsy later in childhood.
+    
+    Based on this data, please construct a 2x2 table describing the disease and exposure being investigated. Please remember to label your columns and rows.
+
+14d. [frq, 3 pt] Please calculate the relative risk of developing epilepsy later in childhood for children who have had febrile seizures.
+
+14e. [frq, 2 pt] Based on your calculation in 11d, what can be concluded regarding the relationship between febrile seizures and developing epilepsy later in childhood?
+
+14f. [frq, 3 pt] During further analysis of the health survey information, researchers find that 20 of the 2120 children in the group who had never experienced febrile seizures at the beginning of the study had subsequently experienced febrile seizures between the ages of 4 and 5 years old. They decide to “move” these 20 children to the group which had experienced febrile seizures for relative risk calculations. Of those 20 children, one child had developed epilepsy later in childhood.
+    
+    Please construct a new 2 x 2 table reflecting this data.
+
+14g. [frq, 3 pt] Please recalculate the relative risk of developing epilepsy later in childhood for children who have had febrile seizures.
+
+14h. [frq, 2 pt] Based on your calculation in 14g, please interpret the relationship between febrile seizures and developing epilepsy later in childhood?
+
+14i. [frq, 2 pt] What change could have been made to the researcher’s original study design to avoid the adjustments performed in data analysis above?
+
+[STIMULUS] Please use the following information to answer all parts of question 15.
+
+The U.S. opioid crisis is an extraordinary public health crisis that started at least two decades ago and has accelerated over the past decade. It is a significant driver of an unprecedented downturn in life expectancy among Americans. In 2017 alone, 47,600 people died from an overdose involving opioids in the United States. In addition, the economic cost of the crisis in the United States is estimated at more than $500 billion per year.
+
+Although involving compounds that are closely similar in their pharmacologic properties, the opioid crisis in the United States is really two sets of intertwined issues: misuse of and addiction to prescription opioid analgesics, which predominated in the first decade of the crisis, and, more recently, the use of and addiction to illicit opioids. Within the rubric of illicit opioid use, a further distinction can be drawn between the resurgent use of heroin and the problem of both deliberate and unintentional use of even more potent synthetic opioid drugs (namely, illicitly made fentanyl and its analogs). A rapid rise in deaths involving these synthetic opioids, beginning in 2013, marked a third wave of the opioid crisis. From 2010 to 2017, deaths from fentanyl and other synthetic opioids increased nearly 10-fold, from around 3007 (14.3% of opioid-related deaths) to 28,466 (59.8%). Synthetic opioids are now almost twice as commonly involved in overdose deaths as prescription opioids or heroin.
+    [IMAGE: ../images/2020_mit_c__p15_19b619-adf4c0c7.webp]
+
+15b-i. [frq, 4 pt] A researcher is interested in determining whether there is a significant difference between the average number of heroin and methadone-related deaths between 1999-2012. To do this, his colleague proposes the paired two-tailed t-test, a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+    
+    Design a null and alternative hypothesis.
+
+15b-ii. [frq, 19 pt] A researcher is interested in determining whether there is a significant difference between the average number of heroin and methadone-related deaths between 1999-2012. To do this, his colleague proposes the paired two-tailed t-test, a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+    
+    Calculate the difference (dᵢ = yᵢ − xᵢ) between the number of deaths caused by methadone and heroin for each year, making sure you distinguish between positive and negative differences. Let methadone correspond to yᵢ and heroin correspond to xᵢ. Write these differences in the table provided on your answer sheet.
+
+15b-iii. [frq, 8 pt] A researcher is interested in determining whether there is a significant difference between the average number of heroin and methadone-related deaths between 1999-2012. To do this, his colleague proposes the paired two-tailed t-test, a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+    
+    Note that t = d̄ / SE(d), where d̄ refers to the mean difference and SE(d) is the standard error of the mean differences, SE(d) = s_d / √n, where s_d is the sample standard deviation of the differences you computed in part b and n is the number of paired samples. On your answer sheet, write the values for d̄, s_d, SE(d), and t.
+
+15b-iv. [frq, 2 pt] A researcher is interested in determining whether there is a significant difference between the average number of heroin and methadone-related deaths between 1999-2012. To do this, his colleague proposes the paired two-tailed t-test, a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features.
+    
+    Using the t-distribution given in the appendix, determine the p-value for this hypothesis test. At an α-level of 0.05, is this significant?
+
+15c. [frq, 2 pt] The classic epidemiologic host–agent–environment triad can be augmented for the purpose of elucidating the current opioid crisis by the addition of “vectors” to create a host-agent-environment-vector model. Please provide TWO examples of vectors with respect to the opioid crisis.
+
+15d. [frq, 4 pt] Describe and explain two possible interventions at the vector level of the opioid crisis to reduce the severity of the epidemic.
+
+[STIMULUS] Mental illness, especially mood disorders, often co-occurs with opioid overuse disorder. Of the 10.4 million American adults who misused opioids in 2017, 45.9% (4.8 million) had a mental illness in the past year, and 17.1% (1.8 million) had a serious mental illness in the past year. The rates of co-occurring mental illness are even higher for those with a past-year OUD, with 64.3% having any mental illness in the past year and 26.9% having serious mental illness in the past year. In 2017, 4.0% of opioid overdose deaths were categorized as intentional overdoses (i.e., suicides); however, this likely is an underestimate given the difficulties in assessing overdose death intent. According to data from the Nationwide Emergency Department Sample for the years 2006–2011, just over half of adult ED visits for opioid poisonings (53.50%) were unintentional, leaving nearly half (46.5%) as either intentional or undetermined. In 2017, 16.8% of the adults who had misused opioids (1.7 million people) reported having serious thoughts of suicide, 6.4% (0.7 million) made suicide plans, and 3.0% (0.3 million) attempted suicide.
+
+15e. [frq, 1 pt] What type of epidemiological study does this case scenario refer to? Be specific.
+
+16. [frq, 3 pt] Describe the difference between convalescent carriers and chronic carriers. Which is commonly associated with the hepatitis B virus?
+
+[STIMULUS] Advancements in genetics, molecular biology, toxicology, exposure science, and statistics have increased our analytical capabilities for exploring potential cause-and-effect relationships, and have resulted in a greater understanding of the complexity behind human disease onset and progression. These additional tools for causal inference necessitate a re-evaluation of how each Bradford Hill criterion should be interpreted when considering a variety of data types beyond classic epidemiology studies. For each of the following examples, determine which of Hill's criterion is being discussed.
+
+17a. [frq, 1 pt] The National Institute for Occupational Safety and Health (NIOSH) analyzed pulmonary function in a cohort of 106 workers at a flavorings manufacturing facility that used a variety of chemicals, including acetaldehyde, acetoin, benzaldehyde, butyric acid, and diacetyl. The authors presented estimates showing that employees in jobs with higher potential for flavoring chemical exposures had 2.8 times greater annual declines in forced expiratory volume (FEV) than employees in lower-exposure jobs. The study did not account for the inherently correlated nature of the longitudinal spirometry test data in their choice of regression analysis. Using generalized estimating equations (GEE) to account for this correlation led to no statistically significant association.
+    
+    Which of Hill's criteria is being discussed?
+
+17b. [frq, 1 pt] The in vitro endpoints for asbestos toxicity include generation of oxidative stress which results in genotoxicity and chromosome damage via DNA adduct formation. However, damage at low levels, while measurable in vitro, is removed via cellular apoptosis.
+    
+    Which of Hill's criteria is being discussed?
+
+17c. [frq, 1 pt] Mechanistic hypothesis testing has been conducted on carbon nanotubes (CNTs) using the extensive literature on the mechanistic toxicity of asbestos fibers. Models based on molecular structure and physical–chemical characteristics such as aspect ratio predict a mechanism of action for asbestos. Respirable-sized fibers are expected to lead to lung translocation and deposition.
+    
+    Which of Hill's criteria is being discussed?
+
+17d. [frq, 1 pt] Through epigenetic mechanisms (i.e., DNA methylation, histone modifications), exposures that occur during specific periods of development or even in previous generations can result in phenotypic differences in offspring. Such changes could be responsible for generational effects of synthetic estrogen diethylstilbestrol (DES) exposure which can lead to an increased risk of breast cancer multiple generations removed from the initial exposure.
+    
+    Which of Hill's criteria is being discussed?

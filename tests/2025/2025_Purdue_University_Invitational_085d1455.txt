@@ -1,0 +1,176 @@
+Purdue University Invitational — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  48 questions, 82.0 pts
+Source: scio.ly test archive id 085d1455-4bb8-4176-a060-9570f4107904  |  original files: https://drive.google.com/drive/folders/1dOShoe9xFn0WOxvvlmdej2qJaKDqJtuj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+P1-1. [frq, 2 pt] Regarding the chain of infection, what two events would best describe an open wound?
+
+[STIMULUS] Ryan, a 15-year-old boy, is skateboarding in a local park on Friday afternoon. While skating, Ryan falls off his board and scrapes his knee on the pavement. A few days later, Ryan’s mom notices that the wound has red streaks radiating from the cut and a cloudy white fluid present. She also notices that Ryan has a low-grade fever.
+
+P1-2a. [mcq, 1 pt] What is the most likely Infectious Agent in the above situation?
+    A) Bacteria
+    B) Prions
+    C) Fungi
+    D) Parasites
+
+P1-2b. [frq, 2 pt] Describe a possible Portal of Entry:
+
+P1-2c. [frq, 1 pt] What is another possible symptom Ryan may develop in this situation?
+
+P1-2d. [frq, 2 pt] What attributes could Ryan possess that would make him a susceptible host?
+
+P1-3. [frq, 2 pt] What was the miasma theory, and when was it popular?
+
+P1-4. [mcq, 1 pt] What is the definition of a cluster?
+    A) A group of fatal disease outcomes, relating to the same or different microorganisms
+    B) Health events that are reported to a health agency and are unusual in terms of their time and space distribution
+    C) The outbreak of any number of adverse health events in close proximity to each other, in time, or in distribution
+
+P1-6. [mcq, 1 pt] What is the primary purpose of PulseNet?
+    A) Create a network of all reported infectious disease outbreaks across the globe in order to categorize them and better study their transmission
+    B) An international laboratory network used to complete whole genome sequencing
+    C) A national laboratory network that connects foodborne, waterborne, and One Health–related illness cases to detect outbreaks
+
+P1-7. [mcq, 1 pt] What is the most likely odds ratio of developing Type 2 Diabetes and participating in regular exercise, assuming there is a correlation?
+    A) 1.0
+    B) 1.50
+    C) 0.00
+    D) 0.50
+
+P1-8. [frq, 1 pt] Tuberculosis is transmitted primarily through what type of transmission?
+
+P1-9. [mcq, 1 pt] What is a plausible exposure factor for lung cancer?
+    A) Asbestos Fiber Inhalation
+    B) Ingestion of carcinogenic chemicals percutaneously
+    C) Second-hand smoking
+    D) All of the above
+    E) Two of the Above
+
+[STIMULUS] Sarah is a 10-year-old girl who is diagnosed with the chronic illness Type 1 Diabetes. Years before becoming symptomatic, Sarah’s body began producing autoantibodies that indicated damage to her pancreas' beta cells.
+
+P1-10a. [frq, 1 pt] What period of disease is described above?
+
+P1-10b. [frq, 2 pt] What characteristics of Sarah’s situation indicate your chosen period of disease?
+
+P1-11. [multi, 1 pt] Select all vectors from the following list.
+    A) Mosquitos
+    B) Doorknobs
+    C) Infected patients
+    D) Feces
+    E) Ticks
+    F) Water bottles
+
+P1-12. [multi, 1 pt] Select all fomites from the following list.
+    A) Mosquitos
+    B) Doorknobs
+    C) Infected patients
+    D) Feces
+    E) Ticks
+    F) Water bottles
+
+P1-13. [frq, 2 pt] R_{0} is a very common symbol in calculating herd immunity threshold. What does this represent?
+
+[STIMULUS] Refer to the chart below for questions 15-17:
+
+
+
+- **Rhinovirus:** Exposed 70, Infected 67, Clinically Apparent Infections 52, Dead 13
+- **Conjunctivitis:** Exposed 50, Infected 39, Clinically Apparent Infections 12, Dead 1
+- **Salmonella:** Exposed 50, Infected 50, Clinically Apparent Infections 45, Dead 30
+
+P1-15. [frq, 1 pt] What is the Virulence of Conjunctivitis?
+
+P1-16. [frq, 1 pt] What is the Pathogenicity of RV?
+
+P1-17. [frq, 1 pt] What is the Infectivity of Salmonella?
+
+P1-18. [frq, 1 pt] An outbreak of Dysentery is spread through campus with the help of a small, flying insect. These insects spread the disease through which type of transmission?
+
+P1-19. [frq, 2 pt] Define the type of transmission used to spread Dysentery in the above example.
+
+20a. [frq, 3 pt] Describe the contributions of Ignaz Semmelweis to the fields of epidemiology and medicine. Elaborate on the background of his findings.
+
+20b. [frq, 3 pt] Define Germ Theory and identify its main founders.
+
+[STIMULUS] List the 5 steps for surveillance in order:
+    | Label | Answer |
+    | 1 | [[q:20c-1]] |
+    | 2 | [[q:20c-2]] |
+    | 3 | [[q:20c-3]] |
+    | 4 | [[q:20c-4]] |
+    | 5 | [[q:20c-5]] |
+
+20c-1. [frq, 1 pt] Label 1
+
+20c-2. [frq, 1 pt] Label 2
+
+20c-3. [frq, 1 pt] Label 3
+
+20c-4. [frq, 1 pt] Label 4
+
+20c-5. [frq, 1 pt] Label 5
+
+P2-21. [frq, 5 pt] Can herd immunity be practically achieved? Why or why not?
+
+P2-22. [frq, 2 pt] Name two organisms that GENERALLY pose a problem for Koch’s postulates.
+
+P2-23. [frq, 4 pt] How do they violate Koch’s postulate?
+
+P2-24. [frq, 2 pt] A new pathogenic microorganism has recently been identified. The microorganism appears to appear predominantly in diseased individuals and has been shown to cause disease when introduced to healthy individuals. When isolated in a pure plate, it grows similar to other disease-causing microorganisms. According to Koch, what would be the final requirement needed to classify this microorganism as causative of disease?
+
+[STIMULUS] Fill in the appropriate epi-curve term that is associated with each situation outlined in questions 25-28
+
+P2-25. [frq, 1 pt] The famous London outbreak investigated by John Snow in 1854 is associated with this epi-curve.
+
+P2-26. [frq, 1 pt] Persons are intermittently exposed to infectious sources over a long period of time.
+
+P2-27. [frq, 1 pt] This outbreak can be associated with Covid-19.
+
+P2-28. [frq, 1 pt] A restaurant unknowingly serves a birthday party undercooked chicken.
+
+[STIMULUS] Refer to the following case study
+
+
+
+MINI Case Study: Cholera has been detected in the waters of Purdue Toilets. As a disease detective, you have been tasked with educating the local epidemiology team on how to best deal with the situation. The local team has identified the disease as cholera and are attempting to put measures into place to mitigate the outbreak. The number of cases continues to rise at a seemingly exponential rate, and many have fallen ill with symptoms of vomiting, fever, diarrhea, and leg cramps.
+
+T1. [frq, 5 pt] What type of study should be conducted to investigate the exposure of disease in individuals with the disease and without? Provide two pros of your selected study in the context of the outbreak. Provide two cons of your selected study (which does not necessarily apply to this outbreak).
+
+T2. [frq, 4 pt] List two control measures and how they could be implemented. Explain your responses.
+
+[STIMULUS] Using the information about the outbreak and what you know about Cholera, identify the elements of the epidemiologic triad in the context of the cholera case study above. Be as specific as possible.
+    | Label | Answer |
+    | Agent | [[q:T3-a]] |
+    | Host | [[q:T3-b]] |
+    | Environment | [[q:T3-c]] |
+
+T3-a. [frq, 1 pt] Agent
+
+T3-b. [frq, 1 pt] Host
+
+T3-c. [frq, 1 pt] Environment
+
+[STIMULUS] Briefly define and provide an example within the context of the cholera case study above for each of the 4 levels of disease prevention: primary, secondary, tertiary, and quaternary.
+    | Label | Answer |
+    | primary | [[q:T4-a]] |
+    | secondary | [[q:T4-b]] |
+    | tertiary | [[q:T4-c]] |
+    | quaternary | [[q:T4-d]] |
+
+T4-a. [frq, 2 pt] primary
+
+T4-b. [frq, 2 pt] secondary
+
+T4-c. [frq, 2 pt] tertiary
+
+T4-d. [frq, 2 pt] quaternary
+
+T5. [frq, 2 pt] Create a null hypothesis regarding cholera infections and a specific exposure in the context of this study.
+
+[STIMULUS] Use your response from question T5 for this response.
+    | Label | Answer |
+    | type I What would be a type I error for this study? | [[q:T6-a]] |
+    | type II What would be a type II error for this study? | [[q:T6-b]] |
+
+T6-a. [frq, 2 pt] type I What would be a type I error for this study?
+
+T6-b. [frq, 2 pt] type II What would be a type II error for this study?

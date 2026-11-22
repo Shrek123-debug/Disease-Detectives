@@ -1,0 +1,347 @@
+Battle of the Bees — Disease Detectives  |  Season 2025  |  Division C  |  Time limit 50 min  |  55 questions, 110.0 pts
+Source: scio.ly test archive id b629cff1-fa93-4c01-b13b-f9b3e459080d  |  original files: https://drive.google.com/drive/folders/1T3WMjP54gUgZxuoN_TNvF57ke366a9IP?usp=sharing
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Section II - Multiple Choice ===
+
+1. [mcq, 2 pt] Which term describes the difference in disease risk between an exposed and an unexposed population?
+    A) Control event rate (CER)
+    B) Absolute risk difference
+    C) Causality
+    D) Effectiveness
+
+2. [mcq, 2 pt] What is the primary goal of calculating absolute risk reduction (ARR)?
+    A) To measure the effectiveness of an intervention
+    B) To estimate the total number of patients treated
+    C) To determine the prevalence of a disease
+    D) To identify the most common diseases in a population
+
+3. [mcq, 2 pt] What is the purpose of verifying the diagnosis in an outbreak investigation?
+    A) To ensure the increased number of cases is not due to experimental error
+    B) To establish the existence of an outbreak
+    C) To construct a working case definition
+    D) To implement control measures
+
+4. [mcq, 2 pt] Identify the statement that best defines bias:
+    A) Systematic error leading to inaccurate results
+    B) Random fluctuations in a dataset
+    C) A type of epidemiological study design
+    D) A method for data collection
+
+5. [mcq, 2 pt] What is the first step in preparing for fieldwork during an outbreak investigation?
+    A) Establish the existence of an outbreak
+    B) Verify the diagnosis
+    C) Research the disease and gather supplies
+    D) Communicate findings
+
+6. [mcq, 2 pt] A researcher is comparing exposures between individuals with and without a disease. Which study design are they utilizing?
+    A) Case-control study
+    B) Cohort study
+    C) Cross-sectional study
+    D) Randomized controlled trial
+
+7. [mcq, 2 pt] What does causality mean?
+    A) A random association between variables
+    B) A definitive cause-effect relationship
+    C) A relationship that requires further investigation
+    D) A method of data analysis
+
+8. [mcq, 2 pt] In an epidemiological study, what does the control event rate (CER) represent?
+    A) The percentage of the treatment group that experiences an outcome
+    B) The percentage of the control group that experiences an outcome
+    C) The overall rate of new cases of a disease
+    D) The risk of adverse effects in a clinical trial
+
+9. [mcq, 2 pt] Which factors should be considered when establishing the existence of an outbreak?
+    A) Public concern and severity of the disease
+    B) Availability of resources
+    C) Potential for spread
+    D) All of the above
+
+11. [mcq, 2 pt] Why is blinding (i.e. single-blind and double-blinded) in clinical trials?
+    A) To increase participant compliance
+    B) To reduce bias in treatment assignments
+    C) To ensure accurate data collection
+    D) To simplify the study design
+
+12. [mcq, 2 pt] What does the term incidence specifically measure?
+    A) The total number of existing cases in a population
+    B) The rate of new cases developing in a specific time frame
+    C) The proportion of individuals who recovered from an illness
+    D) The prevalence of a disease in a community
+
+13. [mcq, 2 pt] Which of these best describes an epidemic?
+    A) A chronic condition affecting a small population
+    B) A sudden increase in disease cases within a large area
+    C) A health behavior study conducted over several years
+    D) A random sample of a health intervention
+
+14. [mcq, 2 pt] What is the main characteristic of an observational study?
+    A) It involves the manipulation of independent variables
+    B) It examines relationships without direct intervention
+    C) It only includes laboratory experiments
+    D) It measures the effectiveness of a treatment
+
+15. [mcq, 2 pt] When developing hypotheses about an outbreak, what triad should be used?
+    A) Infection, incubation, and transmission
+    B) Agent, host, and environment
+    C) Symptoms, diagnosis, and treatment
+    D) Severity, prevalence, and incidence
+
+16. [mcq, 2 pt] When discussing health interventions, what does effectiveness refer to?
+    A) The theoretical benefit in an ideal scenario
+    B) The overall cost of the intervention
+    C) The actual benefit observed in real-world settings
+    D) The duration of the treatment process
+
+17. [mcq, 2 pt] Which of the following can result in lead-time bias?
+    A) Underestimation of survival rates
+    B) Inaccurate reporting of disease prevalence
+    C) Increased rates of morbidity
+    D) Overestimation of survival due to early diagnosis
+
+18. [mcq, 2 pt] What does infectivity describe?
+    A) The ability to cause disease in humans
+    B) The potential for a pathogen to spread
+    C) The severity of an illness
+    D) The speed of disease transmission
+
+19. [mcq, 2 pt] Which of the following components must be included in a working case definition?
+    A) Location and time sequence
+    B) Clinical information and characteristics of affected individuals
+    C) Identification of specific cases
+    D) All of the above
+
+20. [mcq, 2 pt] In research, a confidence interval is used to:
+    A) Measure the variance in a dataset
+    B) Provide a range within which the true value is likely to fall
+    C) Report the total number of participants
+    D) Calculate the average outcome of a treatment
+
+21. [mcq, 2 pt] The number needed to treat (NNT) indicates:
+    A) The number of patients treated to prevent one adverse outcome
+    B) The total patients involved in a clinical trial
+    C) The duration of treatment for a condition
+    D) The percentage of patients experiencing side effects
+
+22. [mcq, 2 pt] Descriptive epidemiology considers which three key elements during an outbreak?
+    A) Risk factors, interventions, and outcomes
+    B) Time, place, and person
+    C) Control measures, demographics, and testing
+    D) Hypotheses, lab studies, and surveillance
+
+23. [mcq, 2 pt] What does infectious dose refer to?
+    A) The quantity of a pathogen required to establish an infection
+    B) The minimum dose required for treatment effectiveness
+    C) The amount of pathogen that can be safely administered
+    D) The lethal dose of a toxin
+
+24. [mcq, 2 pt] In a line listing chart of cases, which type of information is typically included?
+    i. Treatment plans and medications
+    ii. Clinical information and risk factors
+    iii. Time, person, and place information
+    A) Only ii
+    B) Both i and ii
+    C) Only iii
+    D) Both ii and iii
+
+25. [mcq, 2 pt] A meta-analysis combines:
+    A) The results of multiple qualitative studies
+    B) Data from various studies to provide a comprehensive conclusion
+    C) Laboratory results from a single research project
+    D) Case studies into a generalized report
+
+26. [mcq, 2 pt] In diagnostic studies, the term "index test" means:
+    A) The standard procedure followed by all patients
+    B) The follow-up assessments conducted after treatment
+    C) The secondary tests performed for comparison
+    D) The primary test whose accuracy is being evaluated
+
+27. [mcq, 2 pt] Why is communication of findings important after investigating an outbreak?
+    A) To ensure ongoing surveillance continues
+    B) To refine and reconsider hypotheses
+    C) To share results with the public and relevant authorities
+    D) To collect more clinical samples
+
+29. [mcq, 2 pt] What is the primary goal of implementing control and prevention measures during an outbreak?
+    A) To identify the source of the disease
+    B) To gather demographic information
+    C) To disrupt the chain of transmission
+    D) To evaluate the success of treatments
+
+30. [mcq, 2 pt] What is the primary purpose of initiating or maintaining surveillance during an outbreak investigation?
+    A) To evaluate the success of control and prevention measures
+    B) To confirm lab results and diagnose cases
+    C) To collect demographic information about affected individuals
+    D) To develop hypotheses based on initial findings
+
+[STIMULUS] Case Study: A school picnic was attended by 200 people, including students, teachers, and staff. Prior to the event, there were no reports of illness. Two days after the picnic, 40 people reported symptoms of vomiting, diarrhea, and stomach cramps. An investigation identified that all the affected individuals had consumed food from a particular vendor at the event, and no cases were reported among individuals who did not eat from this vendor.
+
+31. [mcq, 2 pt] What was the attack rate for the outbreak?
+    A) 20/200
+    B) 40/200
+    C) 160/200
+    D) 40/160
+
+32. [mcq, 2 pt] What is the prevalence of gastroenteritis in the population after the outbreak?
+    A) 40/200
+    B) 20/200
+    C) 0/200
+    D) 160/200
+
+33. [mcq, 2 pt] Which type of epidemiological study would be most appropriate for this outbreak investigation?
+    A) Case-Control Study
+    B) Ecological Study
+    C) Cross-sectional Study
+    D) Cohort Study
+
+34. [mcq, 2 pt] If the 40 cases all occurred in individuals who consumed food from the vendor, what is the relative risk of getting gastroenteritis for those who ate from the vendor versus those who did not?
+    A) 1.0
+    B) 2.0
+    C) Cannot be determined with the given information
+    D) 4.0
+
+35. [mcq, 2 pt] Who developed the causal pie model?
+    A) Abel Omran
+    B) Louis Pasteur
+    C) John Graunt
+    D) Ken Rothman
+
+36. [mcq, 2 pt] What is the difference between a Type I and Type II error?
+    A) A type I error fails to reject the null hypothesis when it is false, while a type II error rejects the null hypothesis when it is true.
+    B) A type I error rejects the null hypothesis when it is true, while a type II error fails to reject the null hypothesis when it is false.
+    C) A type I error is a bias while a type II error is a calculation error.
+    D) A type I error rejects the alternative hypothesis when it is true, while a type II error fails to reject the alternative hypothesis when it is false.
+
+37. [mcq, 2 pt] All of the following are parts of Koch's postulates EXCEPT:
+    A) The microbe must be present in abundance in all cases of the disease, but not in healthy organisms.
+    B) The cultured microorganism should cause disease when introduced into a healthy organism.
+    C) The microorganism must be re-isolated from the inoculated individual and matched to a different microorganism.
+    D) The microorganism must be isolated from a diseased individual and grown in pure culture
+
+38. [mcq, 2 pt] Which of the following foodborne illnesses has the shortest time of onset?
+    A) Cryptosporidium
+    B) Hepatitis A
+    C) Staphylococcus Aureus
+    D) Campylobacter Jejuni
+
+39. [mcq, 2 pt] What is the Pearson Correlation Coefficient?
+    A) A statistical measure used to determine the difference between an expected value and an observed value.
+    B) A value that describes the relationship between exposure and a disease.
+    C) A statistical measure that examines the relationship between a potential risk factor and incidence by measuring linear correlation.
+    D) A statistical measure that examines the relationship between a potential risk factor and prevalence by measuring exponential correlation.
+
+[STIMULUS] For questions 40-43, determine what epi curve would be most appropriate based on the scenarios.
+
+40. [mcq, 2 pt] In a small town, over 50 residents report gastrointestinal illness following a food festival held the previous weekend. Symptoms, including severe diarrhea and vomiting, began appearing on Monday, just after the event. Health officials suspect norovirus transmission from contaminated food served at the festival.
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated Source
+    D) Intermittent
+
+41. [mcq, 2 pt] After a school camping trip, 30 students develop flu-like symptoms, including fever and fatigue, starting two days after their return. Health officials investigate and find that several students shared a meal with an ill classmate who showed symptoms while on the trip. Testing reveals that the outbreak is linked to the same strain of influenza virus.
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated Source
+    D) Intermittent
+
+42. [mcq, 2 pt] In a city, 80 residents report a sudden onset of gastrointestinal symptoms over the course of two weeks. An investigation reveals that many of the affected individuals consumed water from a local well that was contaminated with bacteria. The number of reported cases continues to rise steadily as more residents drink from the well, leading health officials to issue a warning.
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated Source
+    D) Intermittent
+
+43. [mcq, 2 pt] A sudden increase in respiratory illness cases is reported in a town, with 60 individuals experiencing symptoms like cough and shortness of breath over a period of three weeks. Investigators discover that many of the affected residents had been using an air conditioning system that had not been properly maintained, leading to the circulation of contaminated air.
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated Source
+    D) Intermittent
+
+44. [mcq, 2 pt] All of the following are parts of the Bradford Hill Criteria EXCEPT
+    A) Strength of Association
+    B) Sensitivity
+    C) Coherence
+    D) Temporality
+
+45. [mcq, 2 pt] A newborn receives antibodies through breast milk from their mother, providing temporary protection against certain infections. These antibodies help the baby's immune system defend against illnesses during the first few months of life. What type of immunity is this?
+    A) Passive Immunity
+    B) Active Immunity
+    C) Herd Immunity
+    D) Vaccine-induced Immunity
+
+46. [mcq, 2 pt] What is PulseNet?
+    A) An AI model that helps predict what risk factors may contribute to a foodborne illness
+    B) A national laboratory network that connects foodborne, waterborne, and one-health related illness cases to detect outbreaks.
+    C) A global initiative that uses satellite technology to monitor environmental changes that may affect disease transmission patterns.
+    D) A cloud-based health system used by hospitals to share patient data and improve diagnostic accuracy for infectious diseases.
+
+47. [mcq, 2 pt] The substitution of a single nucleotide at a specific position in the genome that is present in a sufficiently large fraction of considerable population is known as
+    A) MNP Mapping
+    B) Genome Sequencing
+    C) SNP Mapping
+    D) Gel electrophoresis
+
+48. [mcq, 2 pt] A scientist is investigating a new bacterial strain found in patients with a severe lung infection. After isolating the bacteria and growing it in the lab, the scientist injects it into healthy mice, but none of the mice develop the lung infection seen in the human patients. Which of Koch's postulates is violated?
+    A) 1st
+    B) 2nd
+    C) 3rd
+    D) 4th
+
+50. [mcq, 2 pt] What form of data display portrays demographic information with symptoms and date of onset?
+    A) Spot map
+    B) Pie Chart
+    C) Histogram
+    D) Line-listing
+
+[STIMULUS] In a town of 10,000 people, 200 residents currently have diabetes. Over the course of one year, 50 new cases of diabetes are diagnosed.
+
+52. [mcq, 2 pt] What is the incidence of diabetes over the year?
+    A) 5 new cases per 1000 people per year
+    B) 50 new cases per 1000 people per year
+    C) 5%
+    D) 0.5%
+
+53. [mcq, 2 pt] All of the following are parts of Evan's Postulates EXCEPT
+    A) The sensitivity of the disease should be significantly higher in those exposed to the risk factor than those not.
+    B) Exposure to the risk factor should be more frequent among those with the disease.
+    C) In prospective studies, the incidence of the disease should be higher in those exposed to the risk factor.
+    D) The disease should follow exposure to the risk factor with a normal or log-normal distribution of incubation periods.
+
+54. [mcq, 2 pt] Which of the following stages of the natural history and spectrum of disease consists of pathological changes an individual may not be aware of, from exposure to the onset of symptoms?
+    A) Stage of Susceptibility
+    B) Stage of Subclinical Disease
+    C) Stage of Clinical Disease
+    D) Stage of Recovery, Disability, or Death
+
+[STIMULUS] Use the following scenario to answer questions 55-57. A researcher is investigating the relationship between high levels of workplace stress and heart disease. In a study, they find that individuals who report high levels of stress at work are also more likely to develop unhealthy eating habits, such as increased consumption of junk food. Over time, these unhealthy habits contribute to higher rates of heart disease among those individuals.
+
+55. [mcq, 2 pt] Which of the following is the mediator in the scenario?
+    A) Heart Disease
+    B) Workplace Stress
+    C) Unhealthy Eating Habits
+    D) Job satisfaction
+
+57. [mcq, 2 pt] What could be a collider in the scenario?
+    A) Medical intervention
+    B) Job satisfaction
+    C) Genetic predisposition
+    D) Unhealthy eating habits
+
+58. [mcq, 2 pt] The type of bias in which the way data is collected is more likely to include some members of a population rather than others is known as
+    A) Attrition Bias
+    B) Collider Bias
+    C) Ascertainment Bias
+    D) Berkson's Bias
+
+59. [mcq, 2 pt] What is the difference between a prospective and a retrospective study?
+    A) Prospective studies are always randomized controlled trials, whereas retrospective studies are always observational studies.
+    B) Prospective studies typically have larger sample sizes since they are designed to track outcomes over time, while retrospective studies focus on smaller, historical cohorts.
+    C) Prospective studies measure outcomes before the study begins, while retrospective studies measure outcomes after the data has been collected.
+    D) In a prospective study, participants are enrolled before the health outcome of interest has occurred, while in a retrospective study, participants are enrolled after.
+
+60. [mcq, 2 pt] What vaccine did Louis Pasteur invent?
+    A) Polio
+    B) Rabies
+    C) Smallpox
+    D) Yellow fever

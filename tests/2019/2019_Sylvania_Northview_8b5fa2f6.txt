@@ -1,0 +1,265 @@
+Sylvania-Northview — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  40 questions, 40.0 pts
+Source: scio.ly test archive id 8b5fa2f6-9ec1-4468-8c44-6d6c547e42ba  |  original files: https://drive.google.com/drive/folders/1on5dlDV9UoOAlP4k-S_IsBHyzhEWPn1d
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: Multiple Choice
+Identify the letter of the choice that best completes the statement or answers the question. Use scantron provided to record your answers.
+
+
+=== Multiple Choice ===
+
+P1-1. [mcq, 1 pt] The germ theory of disease states that infectious diseases are caused by
+    A) toxins.
+    B) pathogens.
+    C) heredity.
+    D) materials in the environment.
+
+P1-2. [mcq, 1 pt] Which of the following is a way that an infectious disease might be transmitted?
+    A) through inhalation or physical contact
+    B) through contaminated water and food
+    C) by infected animals
+    D) all of the above
+
+P1-3. [mcq, 1 pt] The body's nonspecific defenses against invading pathogens include
+    A) antibiotics.
+    B) mucus, sweat, and tears.
+    C) antibodies.
+    D) T cells.
+
+P1-4. [mcq, 1 pt] The inflammatory response can cause
+    A) permanent immunity.
+    B) pain, swelling, and redness.
+    C) antibodies to bind to antigens.
+    D) T cells to attack infected cells.
+
+P1-5. [mcq, 1 pt] An immune response is triggered by a(an)
+    A) antibiotic.
+    B) antibody.
+    C) antigen.
+    D) histamine.
+
+P1-6. [mcq, 1 pt] Humoral immunity originates from
+    A) T cells.
+    B) NK cells.
+    C) B cells.
+    D) macrophages.
+
+P1-7. [mcq, 1 pt] If a person has memory B cells against a certain pathogen, the person is
+    A) likely to develop that disease.
+    B) not likely to develop the disease a second time.
+    C) able to spread the disease to others through physical contact.
+    D) probably still sick with the disease.
+
+P1-8. [mcq, 1 pt] When a person receives a vaccine, his or her body
+    A) receives antibodies against a specific pathogen.
+    B) produces memory cells that provide resistance to that pathogen.
+    C) produces antigens to fight the specific pathogen.
+    D) immediately begins fighting the infection caused by the pathogens.
+
+P1-9. [mcq, 1 pt] Unlike passive immunity, in active immunity antibodies are produced by
+    A) the mother of an infant.
+    B) your own body.
+    C) other animals.
+    D) an autoimmune disease.
+
+P1-10. [mcq, 1 pt] What happens when a person who is allergic to ragweed encounters ragweed?
+    A) Ragweed antigens bind to mast cells, which release histamine.
+    B) Ragweed antibodies attack the immune system.
+    C) Mast cells release antihistamines into the bloodstream.
+    D) The cells of the immune system become weakened.
+
+P1-11. [mcq, 1 pt] Autoimmune diseases result when the immune system
+    A) fails to distinguish self from non-self.
+    B) overreacts to certain antigens.
+    C) is weakened by vaccines.
+    D) all of the above
+
+P1-12. [mcq, 1 pt] HIV weakens the immune system by killing mainly
+    A) antibodies.
+    B) B cells.
+    C) helper T cells.
+    D) killer T cells.
+
+P1-13. [mcq, 1 pt] An example of an autoimmune disease is
+    A) AIDS.
+    B) allergies.
+    C) multiple sclerosis.
+    D) strep throat.
+
+P1-14. [mcq, 1 pt] An infectious disease is one that is caused by
+    A) heredity.
+    B) materials in the environment.
+    C) pathogens.
+    D) an organ transplant.
+
+P1-15. [mcq, 1 pt] Which of the following is NOT a step in identifying the pathogen that causes a specific disease?
+    A) The pathogen should be found in the body of a healthy organism.
+    B) The pathogen should be isolated and grown in a pure culture.
+    C) The purified pathogens should cause the same disease in a new host.
+    D) The pathogen should be isolated from the second host.
+
+P1-16. [mcq, 1 pt] An example of an infectious disease that is caused by a virus is
+    A) athlete's foot.
+    B) trichinosis.
+    C) the common cold.
+    D) Lyme disease.
+
+P1-17. [mcq, 1 pt] Which of the following is an example of a disease-carrying organism and the disease it spreads?
+    A) tall grass and Lyme disease
+    B) the deer tick and Lyme disease
+    C) the Nile river and West Nile disease
+    D) insecticides and malaria
+
+P1-19. [mcq, 1 pt] The sneezing, runny nose and itchy eyes associated with allergies are caused when
+    A) smooth muscles reduce the size of air passageways in the lungs.
+    B) the immune system attacks the body's own cells.
+    C) mast cells release histamine.
+    D) infected cells produce interferon.
+
+P1-20. [mcq, 1 pt] The symptoms of the inflammatory response include
+    A) runny nose and a cough.
+    B) redness, heat, swelling, and pain.
+    C) unusual infections of the lungs, mouth, throat, and skin.
+    D) formation of a vaccine.
+
+P1-21. [mcq, 1 pt] Which of the following presents a risk of spreading HIV?
+    A) abstaining from sex
+    B) sharing a needle
+    C) kissing someone on the cheek
+    D) using a sterile needle to receive a medical injection
+
+P1-22. [mcq, 1 pt] All of the following are ways that HIV can be spread EXCEPT
+    A) sharing needles for intravenous drug use.
+    B) tending to another person's bleeding wound when you have a cut on your hand.
+    C) using another person's hairbrush.
+    D) sexual contact.
+
+P1-23. [mcq, 1 pt] In the definition of epidemiology, "distribution" refers to:
+    A) who
+    B) when
+    C) where
+    D) all of the above
+
+P1-24. [mcq, 1 pt] In the definition of epidemiology, "determinants" generally includes all of the following EXCEPT
+    A) agents
+    B) causes
+    C) control measures
+    D) risk factors
+
+P1-25. [mcq, 1 pt] Public health surveillance may include all of the following activities with the EXCEPTION of:
+    A) Diagnosing whether a case of encephalitis is actually due to West Nile virus infection
+    B) Soliciting case reports of persons with symptoms compatible with SARs from local hospitals.
+    C) Creating graphs of the number of dog bites by week and neighborhood.
+    D) Disseminating educational materials about ways people can reduce their risk of Lyme disease.
+
+P1-26. [mcq, 1 pt] The hallmark feature of an analytic epidemiologic study is
+    A) Use of an appropriate comparison group
+    B) Laboratory confirmation of the diagnosis
+    C) Publication in a peer-reviewed journal
+    D) Statistical analysis using logistic regression
+
+P1-27. [mcq, 1 pt] A number of passengers on a cruise ship from Puerto Rico to the Panama Canal have recently developed a gastrointestinal illness compatible with norovirus. Testing for norovirus is not readily available in any nearby island, and the test takes several days even where available. Assuming you are the epidemiologist called on to board the ship and investigate this possible outbreak, your case definition should include, at a minimum:
+    A) Clinical criteria, plus specification of time, place, and person
+    B) Clinical features, plus the exposure(s) you most suspect
+    C) Suspect cases
+    D) The nationally agreed standard case definition for disease reporting
+
+P1-28. [mcq, 1 pt] For the cruise ship scenario described in Question 27, how would you display the time course of the outbreak?
+    A) Endemic curve
+    B) Epidemic curve
+    C) Seasonal trend
+    D) Secular trend
+
+P1-29. [mcq, 1 pt] For the cruise ship scenario described in Question 27, if you suspected that the norovirus may have been transmitted by ice made or served aboard ship, how might you display "place"?
+    A) Spot map by assigned dinner seating location
+    B) Spot map by cabin
+    C) Shaded map of United States by state of residence
+    D) Shaded map by whether passenger consumed ship's ice or not
+
+P1-31. [mcq, 1 pt] A reservoir of an infectious agent can be:
+    A) Symptomatic human
+    B) An animal
+    C) The environment
+    D) All of the above
+
+P1-33. [mcq, 1 pt] Disease control measures are generally directed at which of the following?
+    A) Eliminating the reservoir
+    B) Eliminating the vector
+    C) Reducing host susceptibility
+    D) All of the above
+
+P1-34. [mcq, 1 pt] A propagated epidemic is usually the result of what type of exposure?
+    A) point source
+    B) continuous common source
+    C) intermittent common source
+    D) person-to-person
+
+P1-35. [mcq, 1 pt] Which of the following are frequency measures?
+    A) birth rate
+    B) incidence
+    C) mortality
+    D) all of the above
+
+P1-36. [mcq, 1 pt] In a state that did not require varicella (chickenpox) vaccination, a boarding school experienced a prolonged outbreak of varicella among its students that began in September and continued through December. To calculate the probability or risk of illness among the students, which denominator would you use?
+    A) Number of susceptible students at the ending of the period
+    B) Using incidence proportion, calculate the number of new cases during the period divided by the population at the start of that period.
+    C) Number of susceptible students at the midpoint of the period.
+    D) Number of susceptible students at the beginning of the period.
+
+P1-40. [mcq, 1 pt] Which are the most common ways that a local health department uncovers outbreak?
+    A) Performing descriptive analysis of surveillance data each week
+    B) Receiving calls from affected residents as well as healthcare providers.
+    C) Receiving all case reports received each week to detect common features.
+    D) Performing time series analysis to detect deviations from expected values based on the previous few weeks and comparable periods during the previous few years.
+
+[STIMULUS] Use the following steps of an outbreak investigation to answer the question below:
+1) Analyze data by time, place, and person
+2) Conduct a case-control study
+3) Generate hypotheses
+4) Conduct active surveillance for additional cases
+5) Verify the diagnosis
+6) Confirm that the number of cases exceeds the expected number
+7) Talk with laboratorians about specimen collection
+
+P1-41. [mcq, 1 pt] For an investigation of an outbreak, what is the logical conceptual order of the steps listed above?
+    A) 1-2-3-4-5-6-7
+    B) 5-6-4-1-2-3-7
+    C) 6-5-3-1-2-7-4
+    D) 6-5-7-4-1-3-2
+
+P1-44. [mcq, 1 pt] 10 cases of cancer diagnosed over 2 years among residents of a single neighborhood (previous data not available)
+    A) cluster
+    B) outbreak
+    C) epidemic
+    D) pandemic
+
+P1-46. [mcq, 1 pt] Disease control measures can be directed at the:
+    A) Agent
+    B) Host susceptibility
+    C) Mode of transmission
+    D) All of the above
+
+[STIMULUS] Use the data below to answer the food culprit question below:
+An outbreak of gastrointestinal disease occurred 24-36 hours after people had attended a wedding. Of the attendees (including the bride and groom), 200 completed questionnaires, and 50 reported illness compatible with the case definition. Tabulated food consumption histories are presented in the table below.
+    | Food Item: | Ate Specified Food - Ill | Ate Specified Food - Well | Ate Specified Food - Total | Did Not Eat Specified Food - Ill | Did Not Eat Specified Food - Well | Did Not Eat Specified Food - Total |
+    | Punch | 46 (25%) | 138 | 84 | 4 (25%) | 12 | 16 |
+    | Wedding Cake | 45 (45%) | 55 | 100 | 5 (5%) | 95 | 100 |
+    | Sushi | 10 (91%) | 1 | 11 | 40 (21%) | 149 | 189 |
+
+P1-47. [mcq, 1 pt] Which food is most likely the culprit?
+    A) punch
+    B) wedding cake
+    C) sushi
+    D) must be more than one food
+
+P1-48. [mcq, 1 pt] Vector-borne diseases account for ____ of all infectious diseases.
+    A) 5%
+    B) 17%
+    C) 25%
+    D) 43%
+
+P1-50. [mcq, 1 pt] A newborn does not yet have its own antibodies, but does retain for a while Immunoglobulin ____ (Ig__) passed through the placenta from the mother. These maternal antibodies protect the infant against some ill to which the mother is immune.
+    A) A (IgA)
+    B) D (IgD)
+    C) G (IgG)
+    D) M (IgM)

@@ -1,0 +1,591 @@
+UPenn (SOUP) — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  70 questions, 196.0 pts
+Source: scio.ly test archive id 791c4d4b-e163-45b2-82a9-35241fac6b44  |  original files: https://drive.google.com/drive/folders/1iQkmE8SCe56qiPfNDJxEJ0bQ1pJSqJIs
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 23
+
+DIRECTIONS: **Instructions to participants**:
+
+- *Do not open or write on this exam until instructed to do so*. Opening the exam early, and any violation of standard testing protocol, may incur a scoring penalty or disqualification.
+- If you require additional space, use the extra space at the end of the exam *and write that you have done so*.
+- Please write your team number on each page. If any pages are lost, you will not receive credit for anything you wrote on them.
+- *Show your work* for all calculations unless instructed otherwise in the question.
+- **Tiebreakers**
+  1. High score on Part I, then II, then III, then IV.
+  2. Time exam finished (to the minute)
+
+
+=== PART I: GI illness in Seattle ===
+
+[STIMULUS] It’s a Monday morning, and you’re sitting in your office at the CDC reviewing paperwork when your colleague, Dr. Sims, knocks on your door.
+
+“Hey, ya got a minute? Think we might have a foodborne outbreak on our hands up in the Pacific Northwest. Problem is, no one’s been able to figure out what’s causing it.”
+
+“Sure,” you respond, “Come on in. What’s goin’ on?”
+
+P1-1. [frq, 2 pt] **Define** what an outbreak is.
+
+P1-2. [frq, 4 pt] **List** four reasons why you might investigate an outbreak of foodborne illness.
+
+[STIMULUS] “Well,” Dr. Sims continues, “there have been a lot of unidentified cases of gastrointestinal illness cropping up at hospitals in and around Seattle. Hospitals are reporting patients coming in with watery stools, nausea, and vomiting. Some patients, though not all, are also feverish. No one has died so far, but a few have had to be hospitalized for dehydration. The hospitals reached out to the Seattle & King County Department of Public Health, who contacted us immediately.”
+
+P1-3. [frq, 2 pt] Given the definition you wrote and the information above, **explain** whether or not this scenario *currently* constitutes an outbreak.
+
+[STIMULUS] “Hmm,” you say, “This all sounds pretty concerning. Forward me all the info you have and grab Dr. Barnes and Dr. Antoni. It looks like we’re taking a trip to Seattle.”
+
+While you are on the plane you decide to make a potential list of agents.
+
+P1-5. [frq, 12 pt] **List** the six types of infectious agents and **state** two examples of each that can cause foodborne illness.
+
+P1-6. [frq, 4 pt] **List** four noninfectious causes of gastrointestinal illness.
+
+[STIMULUS] As soon as you get off the plane, you are greeted by Dr. Karl Bradsworth of the Seattle & King County Public Health Department, who takes you to their office.
+
+“Thank you all so much for coming out here and helping us out. We still don’t quite know what we are looking for, but our pathologists are on the job to discover the mystery organism. We have started interviewing all people that fit our suspected and probable case definitions to try and find a common link between them.”
+
+“All right,” you say, “Dr. Sims, head down to the pathology labs and see if anything new has come up. Dr. Barnes and Dr. Antoni, please help interview the patients. I’ll stay here and start preparing a media briefing. Hopefully, we’ll be able to identify some more cases in the community.”
+
+P1-7. [frq, 6 pt] **List** the four essential components of a case definition. Using the information previously provided, **write** a case definition for this outbreak.
+
+P1-8. [frq, 4 pt] **Differentiate** between a suspected, probable, and confirmed case, and **identify** which category or categories your definition defines.
+
+P1-9. [frq, 3 pt] **List** three reasons why cases of this illness might be underreported.
+
+P1-10. [frq, 2 pt] **List** the steps of an outbreak investigation that you have so far successfully completed.
+
+[STIMULUS] A little while later, Barnes and Antoni return with a mostly complete chart of information, as well as a histogram showing the progression of the outbreak.
+
+“We weren’t able to get in touch with everyone, and some people didn’t remember if they had eaten certain foods recently,” Antoni says with a grimace.
+
+P1-11. [frq, 4 pt] Based on Antoni’s revelation, **name** and **describe** two types of bias that could occur.
+
+[STIMULUS] Arbitrary onset value
+    [IMAGE: ../images/2018_upenn_soup_c__d_96169f-43c47232.webp]
+
+P1-12. [frq, 5 pt] **List** two things an epi curve can tell you about an outbreak. **Name** the type of outbreak shown by the epi curve shown above, and **describe** one piece of information that this type tells you about the outbreak.
+
+P1-15. [mcq, 2 pt] What type of study should you use to investigate this outbreak further?
+    A) Cohort
+    B) Case-control
+    C) Ecological
+    D) Cross-sectional
+    E) Randomized Control Trial
+
+[STIMULUS] Dr. Sims returns from the pathology lab with an update. “While we were unable to determine definitively the cause from the patients themselves, we want to do some more tests. Since we have narrowed down the scope of the investigation to a certain food, I was going to check for causality, and run a couple of experiments to see if we are on the right track with our investigation!”
+
+“Sounds good!” you say, “While you are doing that, I will go interview the patients again. I have a few more questions but I have a feeling I know what did this.”
+
+P1-17. [frq, 1 pt] ____ are the criteria used to determine causation.
+
+[STIMULUS] Dr. Sims returns from the pathology lab with an update. “While we were unable to determine definitively the cause from the patients themselves, we want to do some more tests. Since we have narrowed down the scope of the investigation to a certain food, I was going to check for causality, and run a couple of experiments to see if we are on the right track with our investigation!”
+
+“Sounds good!” you say, “While you are doing that, I will go interview the patients again. I have a few more questions but I have a feeling I know what did this.”
+
+Based on your answer above, **write** the name of the criterion of causation that each situation below demonstrates. *Situations may have zero or more than one right answer, but you must write all correct answers for full credit.*
+    | Situation | Criterion |
+    | You feed the food predicted to be the cause of the outbreak to some mice and some get sick. | [[q:P1-18a]] |
+    | You feed the mice twice the amount fed to them originally and a significantly higher percentage of mice become ill. | [[q:P1-18b]] |
+    | Mice only started becoming sick after you fed them the suspect food. | [[q:P1-18c]] |
+    | Mice that ate other foods were less likely to eat the suspect food resulting in bias. | [[q:P1-18d]] |
+    | When the experiment was replicated at another site, mice became ill. | [[q:P1-18e]] |
+    | Mice were found to have the same gut receptors and mechanisms of illness as humans. | [[q:P1-18f]] |
+    | When mice were fed the other potentially suspect foods, they did not become ill. | [[q:P1-18g]] |
+
+P1-18a. [frq, 1 pt] You feed the food predicted to be the cause of the outbreak to some mice and some get sick. — Criterion
+
+P1-18b. [frq, 1 pt] You feed the mice twice the amount fed to them originally and a significantly higher percentage of mice become ill. — Criterion
+
+P1-18c. [frq, 1 pt] Mice only started becoming sick after you fed them the suspect food. — Criterion
+
+P1-18d. [frq, 1 pt] Mice that ate other foods were less likely to eat the suspect food resulting in bias. — Criterion
+
+P1-18e. [frq, 1 pt] When the experiment was replicated at another site, mice became ill. — Criterion
+
+P1-18f. [frq, 1 pt] Mice were found to have the same gut receptors and mechanisms of illness as humans. — Criterion
+
+P1-18g. [frq, 1 pt] When mice were fed the other potentially suspect foods, they did not become ill. — Criterion
+
+[STIMULUS] You investigate the food further, and find that there is a high risk associated with it! Now that you have found the food, you are determined to discover the agent at fault. From your interviews with the patients you find that the average onset of illness began 24 hours after eating the food, and symptoms lasted between 2-5 days after onset.
+
+P1-19. [mcq, 2 pt] Based on all the information you have gathered, which agent below is most suspect to be the cause?
+    A) *L. monocytogenes*
+    B) *Cryptosporidium*
+    C) *S. aureus* toxin
+    D) *V. Parahaemolyticus*
+    E) Hepatitis A
+    F) Rotavirus
+
+[STIMULUS] Congratulations! You’ve cracked the case. But before returning to the CDC, you, Barnes, Antoni, and Dr. Sims decide to implement control and prevention measures to make sure nothing like this happens again.
+
+P1-20. [frq, 3 pt] Based on the disease and food, **describe** three specific prevention measures that could be implemented in the future to prevent further outbreaks.
+
+
+=== PART II: GI illness in Kensington, Phila. ===
+
+[STIMULUS] Phew. After an arduous trip to Seattle, you’re back in Atlanta and ready for a long, long nap. As you tuck yourself into bed preparing to sleep for a few days straight, your wretched ringtone blares into your ears. You glance at your screen, and groan in exhaustion and dread. It’s your friend from college Dr. Yidi Wu, the Health Commissioner at the Philadelphia Department of Public Health.
+
+“Yo Yidi, could you please call me back tomorrow? I just got back from Seattle and I’m totally beat.”
+
+“I’m so sorry to call you this late, but we’ve got a crisis on our hands and I need your help. The Kensington-Fishtown area is getting absolutely wrecked and we can’t figure out what’s going on.”
+
+Likely story. Just your luck, right?
+
+“\*sigh\* … All right, Yidi. Gimme the lowdown and I’ll book a flight to Philly as soon as I can.”
+
+Dr. Wu has forwarded to you the information she has on the situation at hand.
+    [IMAGE: ../images/2018_upenn_soup_c__d_5668f6-1b362c6e.webp]
+
+P2-II-1. [frq, 4 pt] **List** four questions you should ask patients with this illness.
+
+P2-II-2. [frq, 2 pt] **Name** one type of bias that patient interviews are subject to and explain why.
+
+[STIMULUS] Yikes. It’s been a while since you’ve been back in Philly, but you do remember a bit about it. You know that housing density in Kensington is very high; there are many popular restaurants in the Kensington area; there is a rapid transit line that runs through the neighborhood and connects it with much of the city; and the nearby hospitals are very crowded.
+
+P2-II-3. [frq, 4 pt] **List** four intervention measures you would recommend based on this knowledge.
+
+[STIMULUS] You send off these recommendations to Dr. Wu before you fall asleep. By evening the next day, you’re looking at Dr. Wu’s lovely face at the airport baggage check.
+
+> “You know, Yidi, y’all really owe me one for this.”
+>
+> “I know, I know. Thank you so much. I’ll take you to Tony Luke’s for an Italian roast pork sandwich when this is all over.”
+>
+> “Assuming I even have an appetite by then!” you say sarcastically. “Anyway, did you do anything with the information I sent in my email?”
+>
+> “Absolutely. We talked to the patients and found out that a lot of them had eaten at the same restaurants within the past week. I’ve got the data right here on a flash drive so we can get right to work on the train into Center City. We’re also working on implementing a number of interventions and included some of yours as well.”
+
+While on the train, you use the data from the PDPH to assemble this summary table of all sick persons (n = 109) and where they ate.
+
+| **Commercial establishment** | *Ate there* | *Did not eat there* |
+|---------------------------------|-------------|---------------------|
+| **Johnny Brenda’s**             | 17          | 92                  |
+| **Frankford Hall**              | 26          | 83                  |
+| **Joe’s Steaks**                | 11          | 98                  |
+| **Paesano’s**                   | 38          | 71                  |
+
+P2-II-4. [frq, 5 pt] **Calculate** the attack rate for each restaurant.
+
+P2-II-5. [frq, 2 pt] Paesano’s should have the highest attack rate. **Interpret** this numerical result in context.
+
+[STIMULUS] Jeez, you used to eat at Paesano’s after concerts in Northern Liberties. What has become of this historically classy late night establishment?
+
+After settling in at the Department of Public Health, you take SEPTA up to Kensington and head over to Paesano’s. You find out after talking to employees that the current owner, Lou Foglia, has been operating the restaurant for a mere two months since his uncle Luigi “Paesano” Foglia passed away. An IT professional by training, he took up the business as the only Foglia left in his generation.
+
+P2-II-6. [frq, 1 pt] **Name** one reason why you should be concerned about a new, inexperienced restaurant owner.
+
+[STIMULUS] “*YO!*”
+
+That must be Lou.
+
+“Hi Mr. Foglia, I’m Dr. Franklin from the Centers for Disease Control and Prevention in Atlanta on behalf of the city department of public health. I just have a few questions for you about your wonderful establishment.”
+
+“Aw, jeez. What’s wrong?”
+
+“Well, we think your restaurant may have been an epicenter of an outbreak of viral gastrointestinal disease in the past few days.”
+
+“Uh… English please?”
+
+P2-II-8. [frq, 5 pt] **List** five topics you should cover in your conversation with Mr. Foglia in order to provide transparency and address any potential concerns.
+
+[STIMULUS] With Mr. Foglia’s help, you take a random sample of locals who had and had not eaten there in the past week (n = 30) and ask them about their illness outcomes. The resulting table of these data is shown below.
+    |  | *Ill* | *Well* |
+    | **Ate at Paesano’s** | 6 | 7 |
+    | **Did not eat at Paesano’s** | 2 | 15 |
+
+P2-II-9. [frq, 5 pt] **Calculate** the appropriate measure of risk for this table and justify your choice.
+
+P2-II-10. [frq, 2 pt] **Interpret** this measure of risk in context.
+
+P2-II-11. [frq, 2 pt] You must perform a Fisher’s exact test to assess the independence between the variables in this table. **Explain** why you must use a Fisher’s exact test instead of a chi-squared test in this table. Alternatively, state what must be different about the table in order to perform a chi-squared test.
+
+P2-II-12. [frq, 7 pt] Now, **perform** the Fisher’s exact test of independence for this table. BONUS: **State** the two assumptions you make when performing this test.
+
+P2-II-13. [frq, 2 pt] **Interpret** the p-value in context.
+
+[STIMULUS] To Mr. Foglia’s dismay, PDPH shuts down Paesano’s along with Frankford Hall pending further inspections and reforms. You and Dr. Wu now turn towards the source of the disease agent by obtaining the food suppliers for both Paesano’s and Frankford Hall. You collect samples from each food supplier to test in the lab, and you ask for stool samples from all affected patients.
+
+P2-II-14. [frq, 4 pt] **List** four pieces of information to include with each patient stool sample being sent off to the lab.
+
+[STIMULUS] After laboratory analysis, one food supplier has been confirmed as the source of the outbreak and is pending investigation by the FDA. In the meantime, all patients are recovering from the illness and the outbreak has been contained. Ultimately, 109 people became ill and 91 survived.
+
+P2-II-15. [frq, 2 pt] Based on the above data, **calculate** the case fatality rate for this disease agent in this outbreak.
+
+
+=== PART III: The Known and the Unknown ===
+
+[STIMULUS] You’re finally back in the office after Seattle and Philly, and boy is it good to be home, relaxing in the usual rigors of the job, scrolling through your email and the daily news. Suddenly, a new email pops up in your inbox labeled: “URGENT,” from a colleague of yours, Dr. Cole Umbia, in New York City. You open it and begin to read.
+
+“Hey, if you get a chance, can you look at these data below? I know it’s not foodborne but you’re the best at what you do. I think we have an outbreak in NYC.”
+
+You open the data.
+
+**Data table 1. Incidence of TB and mystery immunodeficiency, 1993-2016**
+
+| Year | New Cases of TB | Year (cont.) | New Cases of TB (cont.) | Year | New Cases of Mystery Immunodeficiency | Year (cont.) | New Cases (cont.) |
+|---|---|---|---|---|---|---|---|
+| 2016 | 7,767 | 2001 | 6,682 | 2016 | 7,940 | 2001 | 7,356 |
+| 2015 | 8,041 | 2000 | 8,125 | 2015 | 8,011 | 2000 | 7,882 |
+| 2014 | 7,821 | 1999 | 6,665 | 2014 | 7,993 | 1999 | 6,501 |
+| 2013 | 7,883 | 1998 | 6,450 | 2013 | 7,824 | 1998 | 6,239 |
+| 2012 | 7,865 | 1997 | 6,656 | 2012 | 7,798 | 1997 | 6,340 |
+| 2011 | 6,644 | 1996 | 6,183 | 2011 | 6,732 | 1996 | 5,820 |
+| 2010 | 6,889 | 1995 | 5,105 | 2010 | 6,997 | 1995 | 4,793 |
+| 2009 | 6,674 | 1994 | 4,267 | 2009 | 6,945 | 1994 | 3,897 |
+| 2008 | 7,422 | 1993 | 3,740 | 2008 | 7,306 | 1993 | 2,304 |
+| 2007 | 7,471 | | | 2007 | 7,331 | | |
+| 2006 | 7,335 | | | 2006 | 7,265 | | |
+| 2005 | 7,171 | | | 2005 | 7,407 | | |
+| 2004 | 7,296 | | | 2004 | 7,036 | | |
+| 2003 | 6,791 | | | 2003 | 6,985 | | |
+| 2002 | 6,623 | | | 2002 | 7,422 | | |
+
+P3-III-2. [frq, 3 pt] Are there any similarities between the histograms? If so, what are they? What could this indicate?
+
+[STIMULUS] Another set of numbers labeled “SURVEY RESULTS” was provided as well.
+
+> Total number of people surveyed: 2,964
+>
+> Total number with mystery illness: 1,459
+>
+> Number with TB and with mystery illness: 972
+>
+> Number without TB and without mystery illness: 1,053
+
+P3-III-5. [frq, 4 pt] For a 𝜒² value of 350, the result becomes significant at a p-value of .05. Using this information, **interpret** your 𝜒² test results.
+
+[STIMULUS] You give Dr. Umbia a call. “Hey, so I looked at that data set and I’m in. What can you tell me about this mystery illness?”
+
+“Hmm,” says Dr. Umbia, “Well, we think it has a very long incubation period and causes a severe immunodeficiency. I know what you’re thinking, but it’s not HIV according to our rapid diagnostic tests, although many hospitals misdiagnosed most cases as such for a long time. The people who contract it generally recover as well after a few months, if they haven’t succumbed to some other infection by then, which is a benefit. But it’s been very tricky to isolate in lab and create a genetic profile of. We’re not even positive about the mode of transmission currently. I could really use your help.”
+
+“Absolutely,” you say, “Do you mind if I bring Dr. Cora Nell into this? I think her research on antigen testing and viral genomics might be really helpful.”
+
+P3-III-6. [frq, 3 pt] What is a reportable disease? **Name** two reasons why you might consider making this mystery disease reportable.
+
+P3-III-7. [frq, 3 pt] **Name** three modes of transmission and give an example for each of a disease that propagates in that manner.
+
+P3-III-8. [frq, 2 pt] **Define** immunoassay.
+
+P3-III-9. [frq, 3 pt] **Name** one example of a rapid antigen test and one example of a rapid antibody test. What is the major advantage of a rapid antigen test over a rapid antibody test in a public health setting?
+
+[STIMULUS] “Hey Dr. Nell, thank you so much for agreeing to help with this. We really need a rapid diagnostic test as soon as possible.” You say.
+
+“Sure thing, I’ll get to work right away. I’ll see if I can also get a genetic profile from the samples you provided and compare to the viral genomic database I’ve built.”
+
+You decide to investigate more into the disease to see how dangerous this could be, by creating a spot map of the disease.
+
+P3-III-10. [frq, 4 pt] When, where, why, and by whom was the spot map created for epidemiologic use?
+
+[STIMULUS] Spot map of the mystery illness, along with a corresponding population density map.
+    [IMAGE: ../images/2018_upenn_soup_c__d_157261-ae723c5c.webp]
+    [IMAGE: ../images/2018_upenn_soup_c__d_1d29d9-12def156.webp]
+
+P3-III-11. [frq, 4 pt] Above is the spot map of the mystery illness, along with a corresponding population density map. **Discuss** what this could determine about the mode of transmission for the outbreak, and **justify** your answer.
+
+[STIMULUS] You decide to send a team to start interviewing around the neighborhoods where disease prevalence is highest.
+
+P3-III-12. [frq, 3 pt] **Define** passive surveillance and active surveillance. Which would the action above constitute?
+
+P3-III-13. [frq, 4 pt] In the epicurve of the mystery disease, the incidence of the illness seems to increase during the early years. **Discuss** four reasons why the true incidence of disease might not actually be increasing.
+
+[STIMULUS] Dr. Nell calls you back. “So I was able to extract genetic information from the sample you sent me, and it seems like the virus is a weirdly mutated form of HIV that has achieved a new mode of transmission. Since it’s a new immunodeficiency virus and found in New York, I was thinking about calling it IVY. Another piece of good news is that the virus appears to have become less virulent, so if people can be isolated from other potentially dangerous microbes for the duration of the immunodeficiency they have a good chance of surviving! I created a rapid antigen test like you asked - the only problem is that I don’t know how well it will work in the real world.”
+
+“That is amazing information. Why don’t we see if Drs. Ya Le, Daire Timoth, and Brow Wen can run some tests for sensitivity and specificity.”
+
+[STIMULUS] Contingency table for the IVY rapid antigen test.
+    |  | **Disease Positive** | **Disease Negative** |
+    | **Test Positive** | 203 | 87 |
+    | **Test Negative** | 43 | 146 |
+
+P3-III-14. [frq, 8 pt] Using the contingency table shown above, **calculate** the sensitivity, specificity, positive predictive value, and negative predictive value. **Show** your work.
+    [IMAGE: ../images/2018_upenn_soup_c__p31_rc80a74b-b595b6f1.webp]
+
+P3-III-15. [frq, 2 pt] **Define** Type I and Type II error.
+
+P3-III-16. [mcq, 1 pt] Circle one. If you have a high specificity, you have a low ( Type I / Type II ) error.
+    A) Type I
+    B) Type II
+
+P3-III-17. [mcq, 1 pt] Circle one. A higher ( sensitivity / specificity ) is more important when ruling in a disease.
+    A) sensitivity
+    B) specificity
+
+[STIMULUS] You’re almost done! You developed a test that can be used to determine if someone has IVY or not. But there are still a few challenges in your way before you can go home.
+
+P3-III-18. [frq, 3 pt] List three situations in which a diagnostic test is difficult to give or should not be given.
+
+P3-III-19. [frq, 5 pt] It is important for epidemiologists to communicate with each other and to share their findings. Which step of an outbreak investigation does this represent? **List** four ways that epidemiologists communicate their findings with the broader community.
+
+
+=== PART IV: General Knowledge ===
+
+P4-IV-1. [frq, 4 pt] **State** the WHO’s definition of health.
+
+P4-IV-2. [frq, 4 pt] What does ELISA stand for? What is it used for? **Name** two examples of agents that you might use an ELISA for.
+
+P4-IV-3. [frq, 9 pt] **List** and briefly **describe** the four biosafety levels, giving an example of a microbe that could be handled at each. At what lab and level can the variola virus be handled in the US? BONUS: Name 2 of the BSL-4 facilities.
+
+P4-IV-4. [frq, 2 pt] **Explain** the concept of confounding and differentiate it from lurking variables.
+
+[STIMULUS] a. An observational study that starts at outcome and looks for exposure
+b. The baseline rate of a disease in a population
+c. An aggregation of cases of a disease
+d. An observational study that examines a specific population at a specific point in time
+e. Number of new cases within a given time period
+f. More cases than expected over the entire world
+g. More cases than expected in a given area and timeframe
+h. A test to see if two categorical variables are independent
+i. Examines binary outcomes in stratified data
+j. An observational study that starts at exposure and follows to outcome
+k. Test to determine if difference in 2 population means is significant
+l. More cases than expected over a large area
+m. A disease that can be passed from animals to humans
+n. Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5a. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Epidemic
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5b. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Zoonotic
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5c. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Chi-Squared Test
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5d. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Mantel-Haenszel Test
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5e. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Incidence
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5f. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Cohort
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5g. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Cluster
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5h. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Pandemic
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5i. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Case-Control
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5j. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    T-Test
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5k. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Endemic
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5l. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Fisher’s Exact Test
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5m. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Cross-Sectional
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small
+
+P4-IV-5n. [mcq, 1 pt] **Match** the definition to the word that it describes. **Write** the letter of the definition in the box next to the word.
+    
+    Outbreak
+    A) An observational study that starts at outcome and looks for exposure
+    B) The baseline rate of a disease in a population
+    C) An aggregation of cases of a disease
+    D) An observational study that examines a specific population at a specific point in time
+    E) Number of new cases within a given time period
+    F) More cases than expected over the entire world
+    G) More cases than expected in a given area and timeframe
+    H) A test to see if two categorical variables are independent
+    I) Examines binary outcomes in stratified data
+    J) An observational study that starts at exposure and follows to outcome
+    K) Test to determine if difference in 2 population means is significant
+    L) More cases than expected over a large area
+    M) A disease that can be passed from animals to humans
+    N) Similar to a Chi-square, but used when sample size is small

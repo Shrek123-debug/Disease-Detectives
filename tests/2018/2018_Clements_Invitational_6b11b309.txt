@@ -1,0 +1,229 @@
+Clements Invitational — Disease Detectives  |  Season 2018  |  Division C  |  Time limit 50 min  |  63 questions, 60.0 pts
+Source: scio.ly test archive id 6b11b309-88eb-436d-92dc-a6cc2670747f  |  original files: https://drive.google.com/drive/folders/1IezNuPN-iMRXysBbIYx4SE817eXhvobp
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 10
+
+
+=== Part I: General Epidemiology ===
+
+1. [mcq, 1 pt] Which type of study is used for rare exposures?
+    A) Cohort study
+    B) Cross Sectional study
+    C) Case Control
+    D) Clinical Trial
+    E) None of the above
+
+2. [mcq, 1 pt] Chronic diseases such as heart disease and cancer are the dominant sources of morbidity and mortality in:
+    A) Infants
+    B) Young adults
+    C) Adults
+    D) Elderly
+
+3. [mcq, 1 pt] What is the best type of statistical analysis to use for a case control study?
+    A) Risk Ratio
+    B) Morbidity Rate
+    C) Odds Ratio
+    D) Standardized Incidence Ratio
+    E) None of the above
+
+4. [multi, 1 pt] Which agencies are related to disease control? There may be more than one right answer.
+    A) CDC
+    B) ICE
+    C) NIH
+    D) FAA
+    E) AHRQ
+    F) None of the above
+
+5. [mcq, 1 pt] Propagated epidemics are generally characterized by:
+    A) Exposure at one point in time
+    B) Person-to-person spread
+    C) Long incubation periods
+    D) A single peak
+
+6. [mcq, 1 pt] These are used when evaluating the geographical extent of an outbreak:
+    A) Pareto Diagram
+    B) Histogram
+    C) Time-Series Graph
+    D) Spot Map
+    E) Isarithmic Map
+
+7. [mcq, 1 pt] Which is not a criterion for causation?
+    A) Plausibility
+    B) Coherence
+    C) Incidence levels
+    D) Strength
+
+8. [mcq, 1 pt] All of the following are good characteristics for describing a case population in an outbreak except for ____.
+    A) Age
+    B) Sex
+    C) Literacy
+    D) Ethnicity
+    E) Occupation
+
+11a. [frq, 1 pt] Identify the level of prevention: Early detection of existing disease to reduce severity and complications.
+
+11b. [frq, 1 pt] Identify the level of prevention: Preventing the initial development of a disease.
+
+11c. [frq, 1 pt] Identify the level of prevention: Reducing the impact of the disease.
+
+12a. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Brucellosis
+
+12b. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Anisakiasis
+
+12c. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Common Cold
+
+12d. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Herpes
+
+12e. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Botulism
+
+12f. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Gonorrhea
+
+12g. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Norovirus
+
+12h. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Ringworm
+
+12i. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Chikungunya
+
+12j. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Amebiasis
+
+12k. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Aspergillosis
+
+12l. [frq, 1 pt] Identify the disease as viral (V), bacterial (B), parasitical (P) and fungal (F): Yersinia enterocolitica
+
+13a. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Contaminated spoon
+
+13b. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Flea
+
+13c. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Kissing
+
+13d. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Soil
+
+13e. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Sneezing
+
+13f. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Handkerchief
+
+13g. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Tick
+
+13h. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Surgical scalpel
+
+13i. [frq, 1 pt] Identify the mode of transmission as direct (D), droplet (DR), airborne (A), vehicle (V) or vector (VE): Pollen
+
+14. [frq, 1 pt] List the 10 steps in investigating an outbreak.
+
+15. [frq, 1 pt] What is the epidemiological triad?
+
+16. [frq, 1 pt] List all of Hill's Criteria for Causation.
+
+17. [frq, 1 pt] List all four of Koch's Postulates.
+
+18. [frq, 1 pt] What is a reportable disease? Give two examples.
+
+19. [matching, 1 pt] Match the scientists with their contributions to the field of epidemiology.
+    - Edward Jenner  <->  Cholera
+    - John Snow  <->  Creator of British vital statistics system and demonstrated use in epidemiology
+    - William Farr  <->  Criteria for Causation
+    - Edwin Chadwick  <->  Founding father of public health (Public Health Act 1848)
+    - Bradford Hill  <->  Four criteria to identify the causative agent of a particular disease
+    - Robert Koch  <->  Small Pox Vaccine
+
+20b. [frq, 1 pt] Identify the type of bias/error: A survey concerning the prevalence of peanut allergies in the United States is administered to a small county in Kansas.
+
+20c. [frq, 1 pt] Identify the type of bias/error: A physician working in a recent outbreak in Tanzania used a thermometer that was off by 10 degrees Celsius to measure the temperatures of patients.
+
+20d. [frq, 1 pt] Identify the type of bias/error: A research company investigating the literacy of the overall Population placed an ad searching for volunteers in the local Paper.
+
+20e. [frq, 1 pt] Identify the type of bias/error: Attrition.
+
+20f. [frq, 1 pt] Identify the type of bias/error: A survey of the mean weight of the freshman class at Berkeley is conducted. 5 students out of 3000 are selected for the study.
+
+20g. [frq, 1 pt] Identify the type of bias/error: Travelers aboard the HMS Despacito were requested to recount the details of what they consumed on board two weeks after the cruise concluded.
+
+
+=== Part III: Foodborne Illnesses ===
+
+27. [mcq, 1 pt] What is the safest internal temperature for prepared poultry?
+    A) 160 F
+    B) 165 F
+    C) 155 F
+    D) 150 F
+
+28. [mcq, 1 pt] Jenny prepared an orange marmalade and packaged it in a can. After a few days, she tried a tablespoon of the marmalade. Within 20 hours, she began to experience double vision, dry mouth and muscle weakness. Which illness may she be suffering from?
+    A) Giardiasis
+    B) Botulism
+    C) Chlamydia
+    D) Norovirus
+
+29. [mcq, 1 pt] The most common foodborne illnesses are caused by:
+    A) Salmonella
+    B) Listeria
+    C) Giardiasis
+    D) Norovirus
+    E) Vibriosis
+
+30. [matching, 1 pt] Match these foodborne illnesses with the foods they are most associated with:
+    - Vibrio  <->  Contaminated water
+    - Clostridium botulinum  <->  Eggs
+    - Listeria monocytogenes  <->  Improperly canned foods
+    - Salmonella  <->  Raw or undercooked chicken
+    - Shigella  <->  Raw or undercooked hamburger Meat
+    - Campylobacter jejuni  <->  Shellfish
+    - Escherichia coli  <->  Soft cheeses
+
+
+=== Part IV: Case Investigation and Statistical Applications ===
+
+31. [frq, 1 pt] Using the table below, calculate the incidence of laboratory-confirmed salmonellosis (all serotypes combined) for Trinidad and Tobago in 1997. (Assume that only one isolate was received for each patient. The population of Trinidad and Tobago was estimated to be 1,265,000 in July of 1997.)
+    [IMAGE: ../images/clements_invitational__p9_836219-e9cdb939.webp]
+
+[STIMULUS] This table shows the cholera attack rate by age group at the Mankhowkwe Camp in Malawi from March-May 1988. Calculate the attack rate (%) for each age group. (The table's last age-group row, printed as "_15", is the ≥15 age group.)
+    [IMAGE: ../images/clements_invitational__p9_79c581-f4687e43.webp]
+    | Label | Answer |
+    | <5 | [[q:32-a]] |
+    | 5-14 | [[q:32-b]] |
+    | ≥15 (printed as "_15" in the table) | [[q:32-c]] |
+    | Total | [[q:32-d]] |
+
+32-a. [frq, 0.25 pt] <5
+
+32-b. [frq, 0.25 pt] 5-14
+
+32-c. [frq, 0.25 pt] ≥15 (printed as "_15" in the table)
+
+32-d. [frq, 0.25 pt] Total
+
+[STIMULUS] A case is defined as gastrointestinal illness in any resident of Natick within five days of attending the Natick County Fair in June of 2016. Patients exhibited symptoms of bloody diarrhea or haemolytic uraemia syndrome, and after being administered fecal tests, E. coli O157 was identified in fifteen of the patients.
+
+33a. [frq, 1 pt] Write a confirmed case definition:
+
+33b. [frq, 1 pt] Write a probable case definition:
+
+33c. [frq, 1 pt] Write a possible case definition:
+
+
+=== I. Case Study #1 ===
+
+[STIMULUS] Forty-three people became ill after eating at a Mexican restaurant. Symptoms appeared within 2 to 25 hours (average was 12 hours) after eating and lasted an average of 16 hours (range from 1 to 93 hours). Of the 43 cases, 42 (98%) had diarrhea, 30 (70%) had cramps, 22 (51%) had chills, nine (21%) had headache, and eight (19%) had vomiting. 68% of the cases ate chicken-containing dishes. Clostridium perfringens enterotoxin type A was identified in two stool samples; Staphylococcus aureus and S. aureus enteotoxin A also were found in one of these samples. Bacillus cereus and B. Cereus diarrheal-type enterotoxin were identified in a third stool sample. Two samples of beans from the restaurant were tested. One sample of the beans was positive for B. cereus diarrheal-type enterotoxin. County health inspectors found critical food handling violations including significant bare-hand contact with ready-to-eat foods and improper cooling procedures. Beans in the walk-in cooler were 52°F. The storage time could not be verified. Food containers blocked one hand sink, and fingernail brushes and single-use paper towels were not present at the other hand sinks. There was an accumulation of dirt and debris in many areas of the restaurant and on some equipment and food storage containers.
+
+34. [frq, 1 pt] What type of study design is this?
+
+35. [frq, 1 pt] Based on the information given, how could this outbreak have been prevented?
+
+36. [frq, 1 pt] What are the proper procedures for preventing foodborne illnesses according to the CDC?
+
+
+=== II. Case Study #2 ===
+
+[STIMULUS] At a wedding reception, Hamburg steak was served to the guests. Within three days, several of the guests had begun to experience diarrhea, vomiting and severe stomach cramps. 3 of the guests also developed mild fevers.
+
+| Exposure | Ill | Not Ill | Total | Attack Rate |
+|---|---|---|---|---|
+| Ate Hamburg steak | 48 | 20 | a. 68 | f. 71% |
+| Did not eat Hamburg steak | 2 | 100 | b. 102 | g. 2% |
+| Total | c. 50 | d. 120 | e. 170 | h. 29% |
+
+38. [frq, 1 pt] What type of study is this?
+
+39. [frq, 1 pt] Calculate the relative risk based on the information in the table.
+
+40. [frq, 1 pt] Explain the import of your answer from 39.
+
+41. [frq, 1 pt] Based on the information given, what foodborne illness may have caused this outbreak?

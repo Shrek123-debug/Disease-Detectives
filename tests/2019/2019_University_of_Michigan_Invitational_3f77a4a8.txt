@@ -1,0 +1,328 @@
+University of Michigan Invitational — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  79 questions, 107.0 pts
+Source: scio.ly test archive id 3f77a4a8-d126-4c1c-a649-f4e6dca082bd  |  original files: https://drive.google.com/drive/folders/1_63CTy4s5e2Kf6ncg1G-T3a1cYdL58tB
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 9
+
+
+=== Part I: Background and Surveillance ===
+
+[STIMULUS] Provide the term for each definition for questions 1-13.
+
+1. [frq, 1 pt] A person or animal that harbors the infectious agent for a disease and can transmit it to others, but does not demonstrate signs of the disease.
+
+2. [frq, 1 pt] The ongoing, systematic collection, analysis, interpretation, and dissemination of health data to help guide public health decision making and action.
+
+3. [frq, 1 pt] Association between an exposure and health outcome that varies in a consistently increasing or decreasing fashion as the amount of exposure (dose) increases.
+
+4. [frq, 1 pt] The frequency and pattern of health-related characteristics and events in a population.
+
+5. [frq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+
+6. [frq, 1 pt] A set of standard criteria for classifying whether a person has a particular disease, syndrome, or other health condition.
+
+7. [frq, 1 pt] An inanimate object that can be the vehicle for transmission of an infectious agent.
+
+8. [frq, 1 pt] The ability of an infectious agent to cause severe disease, measured as the proportion of persons with the disease who become severely ill or die.
+
+10. [frq, 1 pt] The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.
+
+12. [frq, 1 pt] An infection that is transmitted from animals to humans.
+
+13. [frq, 1 pt] Refers to having a disease or a symptom of disease, or to the amount of disease within a population or refers to medical problems caused by a treatment.
+
+14. [frq, 5 pt] List the parts of the 5 step Process for Surveillance.
+
+15. [frq, 3 pt] Identify 3 limitations of the public health surveillance system.
+
+16. [mcq, 1 pt] Clinical Approach : Public Health Approach as
+    A) Hospital : CDC
+    B) Individual : Community
+    C) CDC : Hospital
+    D) Community : Individual
+
+[STIMULUS] Number the 13 steps of an outbreak investigation in the appropriate order.
+    | Label | Answer |
+    | a Construct a case definition | [[q:17-a]] |
+    | b Initiate or maintain surveillance | [[q:17-b]] |
+    | c Communicate findings | [[q:17-c]] |
+    | d Establish the existence of an outbreak | [[q:17-d]] |
+    | e Prepare for fieldwork | [[q:17-e]] |
+    | f Develop hypothesis | [[q:17-f]] |
+    | g Implement control and prevention measures | [[q:17-g]] |
+    | h Compare and reconcile with laboratory and/or environmental studies | [[q:17-h]] |
+    | i Reconsider, refine, and re-evaluate hypothesis | [[q:17-i]] |
+    | j Describe in terms of time, place, and person triad | [[q:17-j]] |
+    | k Verify the diagnosis | [[q:17-k]] |
+    | l Evaluate hypothesis | [[q:17-l]] |
+    | m Find cases systematically and record information | [[q:17-m]] |
+
+17-a. [frq, 0.231 pt] Label a Construct a case definition
+
+17-b. [frq, 0.231 pt] Label b Initiate or maintain surveillance
+
+17-c. [frq, 0.231 pt] Label c Communicate findings
+
+17-d. [frq, 0.231 pt] Label d Establish the existence of an outbreak
+
+17-e. [frq, 0.231 pt] Label e Prepare for fieldwork
+
+17-f. [frq, 0.231 pt] Label f Develop hypothesis
+
+17-g. [frq, 0.231 pt] Label g Implement control and prevention measures
+
+17-h. [frq, 0.231 pt] Label h Compare and reconcile with laboratory and/or environmental studies
+
+17-i. [frq, 0.231 pt] Label i Reconsider, refine, and re-evaluate hypothesis
+
+17-j. [frq, 0.231 pt] Label j Describe in terms of time, place, and person triad
+
+17-k. [frq, 0.231 pt] Label k Verify the diagnosis
+
+17-l. [frq, 0.231 pt] Label l Evaluate hypothesis
+
+17-m. [frq, 0.231 pt] Label m Find cases systematically and record information
+
+20. [mcq, 1 pt] Who is the father of vital statistics and surveillance?
+    A) John Snow
+    B) John Gaunt
+    C) Robert Koch
+    D) William Farr
+
+21. [frq, 2 pt] Identify 2 public health issues.
+
+[STIMULUS] Identify which type of surveillance is being used in each situation.
+
+22a. [frq, 1 pt] A network of large hospitals is carefully selected, and data is collected on meningococcus from those hospitals.
+
+22b. [frq, 1 pt] After a few cases of mumps appear in University of Michigan students, Washtenaw County public health officials search for other cases by contacting local healthcare institutions.
+
+22c. [frq, 1 pt] A doctor reports a case of mumps.
+
+22d. [frq, 1 pt] Public health officials note symptoms including fever and cough in an attempt to predict influenza outbreaks.
+
+23. [mcq, 1 pt] Which of the following is the first step of an outbreak investigation?
+    A) Establish the existence of an outbreak
+    B) Prepare for field work
+    C) Verify Diagnosis
+    D) Define and Identify Cases
+
+24. [mcq, 1 pt] What type of epi curve is the curve below?
+    [IMAGE: ../images/university_of_michigan_invitational__p6_cb24cdb-96140711.webp]
+    A) Point Source
+    B) Continuous Common Source
+    C) Propagated
+
+25. [mcq, 1 pt] Which of the following is not a component of a case definition?
+    A) Clinical information
+    B) Characteristics of the environment
+    C) Time sequence of when outbreak occurred
+    D) Location or place
+
+26. [tf, 1 pt] Time series analysis within a study looks at the same population at different time points.
+    A) True
+    B) False
+
+27. [mcq, 1 pt] Which of the following is not part of the epidemiological triad?
+    A) Agent
+    B) Environment
+    C) Host
+    D) Time
+
+28. [mcq, 1 pt] What is the equation for attack rate?
+    A) (number sick)/(total in group)
+    B) (number sick)/(number unaffected)
+    C) (number not affected)/(total in group)
+    D) (number not affected)/(number sick)
+
+
+=== Part II: Outbreak Investigations - Problem I ===
+
+[STIMULUS] 
+
+Table 1. Number of foodborne disease outbreaks, outbreak-associated illnesses, and hospitalizations, by etiology (confirmed or suspected) -- Foodborne Disease Outbreak Surveillance System, United States, 2009-2015
+    [IMAGE: ../images/university_of_michigan_invitational__p8_cc6cafd-caea8d13.webp]
+
+30a. [numeric, 2 pt] Find the incidence rate of Salmonella in the context of the total number of foodborne illnesses. Round your answer to the nearest thousandth. Please leave your answer in decimal form.
+
+30b. [numeric, 2 pt] Find the incidence rate of E. Coli in the context of the total number of foodborne illnesses. Round your answer to the nearest thousandth. Please leave your answer in decimal form.
+
+30c. [numeric, 2 pt] Find the incidence rate of Norovirus in the context of the total number of foodborne illnesses. Round your answer to the nearest thousandth. Please leave your answer in decimal form.
+
+
+=== Part II: Outbreak Investigations - Problem II ===
+
+[STIMULUS] Questions 31-32 refer to the following passage.
+
+CDC detectives are investigating an outbreak of measles in an elementary school throughout the month of September. A few cases follow. Consider rash and fever to be the primary symptoms, while cough and runny nose are secondary symptoms.
+    [IMAGE: ../images/university_of_michigan_invitational__p8_c72b74a-57f3fd97.webp]
+
+31. [frq, 1 pt] What is the chart above called?
+
+[STIMULUS] Classify each the cases as confirmed, probable, possible, or not a case according to their case number. Provide justification as to why it is not a case if categorized as such.
+    | Label | Answer |
+    | Confirmed | [[q:32-a]] |
+    | Probable | [[q:32-b]] |
+    | Possible | [[q:32-c]] |
+    | Not a case include reasoning in parentheses | [[q:32-d]] |
+
+32-a. [frq, 2 pt] Confirmed
+
+32-b. [frq, 2 pt] Probable
+
+32-c. [frq, 2 pt] Possible
+
+32-d. [frq, 2 pt] Not a case include reasoning in parentheses
+
+
+=== Part II: Outbreak Investigations - Problem III ===
+
+[STIMULUS] Question 33-38 refer to this information:
+
+On May 8, 2018, the Government of the Democratic Republic of the Congo reported an outbreak of Ebola virus disease in Équateur Province in the northwest of the country. The remoteness of most affected communities and the involvement of an urban center connected to the capital city and neighboring countries makes this outbreak the most complex and high risk ever experienced by the Democratic Republic of the Congo.
+
+33. [frq, 3 pt] List the three criteria that this incident must meet to be considered an outbreak.
+
+34. [frq, 1 pt] What are some symptoms the people infected with the EBOLA virus may begin to feel?
+
+[STIMULUS] These questions are based on this figure:
+    [IMAGE: ../images/university_of_michigan_invitational__p10_6f8848-ebd0bc98.webp]
+
+35. [frq, 1 pt] What title should the disease detectives give to the graph?
+
+36. [mcq, 1 pt] Based on the findings, which of the following is a conclusion?
+    A) Males age 30-39 had the most cases of EBOLA
+    B) Altogether, females had the most cases
+    C) Overall, males had the most cases
+    D) Of the females, those who had the most cases were between the ages of 40-49
+    E) C and D are both correct
+
+38. [frq, 1 pt] In which country was the first case of EBOLA found?
+
+
+=== Part II: Outbreak Investigations - Problem IV ===
+
+[STIMULUS] Background - August 24th
+
+It is Wednesday afternoon at 4:30 pm, and you are getting ready to leave the county health department to start your weekend when the phone rings. The manager of the hotel and convention center across town, Hotel M, has called you because several dozen conference attendees have become sick, and he wants your help to deal with the situation.
+
+When you arrive at Hotel M, the hotel manager takes you into his office to elaborate on the details. The hotel convention center recently hosted the Annual Association of Museum Curators Conference, which had 300 attendees. The conference lasted three days and ended today following a lunch buffet at noon and a final session at 3:00 pm.
+
+A conference attendee called the front desk asking for a doctor at 2:00 pm. Three other attendees approached the front desk immediately after the first call and also reported illness. Throughout the next two hours, dozens more reported being ill. The major symptoms are nausea, vomiting, stomach cramps, and diarrhea.
+
+39. [frq, 1 pt] What classification of diseases or infectious agents do you suspect are the cause of this illness?
+
+40. [frq, 1 pt] Identify one characteristic of those who report illness that would be necessary for them to qualify as a case at this point in the investigation?
+
+[STIMULUS] **Update – Wednesday, August 24ᵗʰ, 6 pm**
+
+Since this afternoon, 79 people have been reported ill at the hotel and 5 have been sent to the local hospital. All of the cases were attendees of the museum curators conference. Since the conference officially ended today, many of the conference attendees, including some that reported illness, have returned to their homes around the country.
+
+You call the hospital to get information about the 5 patients who were admitted. All 5 are being treated with fluids. The hospital nurse tells you that stool specimens were collected from all 5 patients and sent to the hospital laboratory for analysis.
+
+41. [frq, 1 pt] As a disease detective, what would be your next step in solving this illness case? (keep in mind steps of outbreak investigation).
+
+42. [frq, 3 pt] What are some steps that food health specialists can perform in order to find where the illness came from? Name at least three.
+
+[STIMULUS] **Update – Thursday, August 25ᵗʰ, 10 am**
+
+The hospital laboratory tested stool samples for the 5 outbreak-related patients, and the tests came back positive for Staphylococcus aureus. You know that Staph. aureus is commonly spread through food that has been inadequately heated or refrigerated.
+
+The environmental health portion of the investigation has revealed that some of the food warmers used by the hotel were defective and did not maintain appropriate holding temperatures. Your environmental health specialist also finds out that yesterday's lunch buffet was the largest that the hotel kitchen had ever prepared.
+
+43. [frq, 1 pt] Now that you know the type of bacteria involved in the outbreak, how will you identify if the lunch buffet was the source of the attendees' illness?
+
+[STIMULUS] **Update – Thursday, August 25ᵗʰ, noon**
+
+Your initial interviews have not identified any suspect cases that were not conference attendees. You develop the following suspect case definition:
+
+Any attendee of the museum curators conference with 2 or more of the following: vomiting, stomach cramps, nausea, or diarrhea, that began on Wednesday, August 24ᵗʰ.
+
+The North Carolina Communicable Disease Control Branch recommends that you conduct a study to determine the specific food source of the Staph. aureus outbreak. You ask for and receive a list of all conference attendees. The list includes names, addresses, phone numbers, and email addresses for all 300 attendees.
+
+44. [frq, 3 pt] Would cohort or case-control studies be more appropriate for this case? Why?
+
+45. [frq, 2 pt] What is the best method to interview the attendees and what kind of information should you collect from them? (List at least five).
+
+
+=== Part III: Patterns, Control, and Prevention ===
+
+49. [frq, 5 pt] Define the following terms.
+    
+    Counts -
+    Risk -
+    Rate -
+    Ratio -
+    Proportion -
+
+50. [frq, 2 pt] Identify two things that disease control aims at reducing.
+
+[STIMULUS] a. The specific infectious agent no longer exists in nature or in the laboratory
+b. Public policy intervention that restricts the circulation of an infectious agent beyond the level that would result from spontaneous, individual behaviors to protect against infection
+c. Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+d. Termination of all transmission of infections by extermination of infectious agents
+
+51a. [mcq, 1 pt] Match the following step in disease control with its definition: Control
+    A) The specific infectious agent no longer exists in nature or in the laboratory
+    B) Public policy intervention that restricts the circulation of an infectious agent beyond the level that would result from spontaneous, individual behaviors to protect against infection
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    D) Termination of all transmission of infections by extermination of infectious agents
+
+51b. [mcq, 1 pt] Match the following step in disease control with its definition: Extinction
+    A) The specific infectious agent no longer exists in nature or in the laboratory
+    B) Public policy intervention that restricts the circulation of an infectious agent beyond the level that would result from spontaneous, individual behaviors to protect against infection
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    D) Termination of all transmission of infections by extermination of infectious agents
+
+51c. [mcq, 1 pt] Match the following step in disease control with its definition: Elimination
+    A) The specific infectious agent no longer exists in nature or in the laboratory
+    B) Public policy intervention that restricts the circulation of an infectious agent beyond the level that would result from spontaneous, individual behaviors to protect against infection
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    D) Termination of all transmission of infections by extermination of infectious agents
+
+51d. [mcq, 1 pt] Match the following step in disease control with its definition: Eradication
+    A) The specific infectious agent no longer exists in nature or in the laboratory
+    B) Public policy intervention that restricts the circulation of an infectious agent beyond the level that would result from spontaneous, individual behaviors to protect against infection
+    C) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    D) Termination of all transmission of infections by extermination of infectious agents
+
+52. [frq, 4 pt] Describe two differences between the population-based and high-risk based approach to disease prevention.
+
+53. [frq, 1 pt] Define monitoring with respect to preventative epidemiology.
+
+54a. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: The general public calls for a government policy ensuring free healthcare for everyone.
+
+54b. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: Mark has been diagnosed with HIV. He is now on medications to prevent the progression of his disease.
+
+54c. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: Dentists recommend brushing your teeth twice a day.
+
+54d. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: After her cardiothoracic surgery, Molly went through extensive physical rehab to regain her physical strength.
+
+54e. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: Lucy has a family history of breast cancer. She regularly gets breast exams to ensure she has not developed cancer.
+
+54f. [frq, 1 pt] Identify which level of prevention is indicated in the following scenario: John is pre-diabetic, so his doctor recommends changing his diet and exercising regularly.
+
+[STIMULUS] The following information pertains to death from opioid overdose. Questions 55-60 will be on this topic.
+    [IMAGE: ../images/university_of_michigan_invitational__p17_51a8c9-3c8c1517.webp]
+
+55. [frq, 2 pt] Using the above chart, solve for A.
+
+56. [frq, 2 pt] Using the above chart, solve for B. Show your work and round to the nearest tenth.
+
+[STIMULUS] Use the following graph to answer question 57.
+
+QuickStats: Percentage of Emergency Department Visits for Pain* at Which Opioids† Were Given or Prescribed, by Patient Age and Year — National Hospital Ambulatory Medical Care Survey, 2005–2016
+    [IMAGE: ../images/university_of_michigan_invitational__p18_ced125f-879ff692.webp]
+
+57. [mcq, 2 pt] Using the graph above, calculate the ratio of those prescribed opioids for ED visits for pain in 2016 in the 45-64 yrs compared to those in the 18-44 group. Which group had a greater decrease from 2012 to 2016?
+    A) 1.29; 18-44 yrs
+    B) 1.29; 45-64 yrs
+    C) 0.78; 18-44 yrs
+    D) 0.78; 45-64 yrs
+
+[STIMULUS] Use the date from the following chart to answer questions 58-60.
+    [IMAGE: ../images/university_of_michigan_invitational__p19_db6c69-21b6c948.webp]
+
+58. [frq, 2 pt] Calculate the rate of 2017 non-prescription opioid deaths among White, non-Hispanics. Show your work and round to the nearest tenth.
+
+59. [frq, 3 pt] All rates in the chart above are per 100,000 population. What is the prevalence of prescription opioid deaths among Hispanics in 2017. Is this an example of point prevalence or period prevalence? Show your work and round to the nearest tenth.
+
+60. [frq, 4 pt] Using the 2017 data, calculate the risk ratio for overdose deaths involving all opioids of the Black, non-Hispanics compared to the total population. Does the risk ratio indicate an increased or decreased rate of overdose deaths among Black, non-Hispanics? In epidemiology, what is another commonly used term for risk ratio? Show your work and round to the nearest hundredth.

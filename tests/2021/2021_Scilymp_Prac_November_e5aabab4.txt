@@ -1,0 +1,237 @@
+Scilymp Prac November — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  44 questions, 65.0 pts
+Source: scio.ly test archive id e5aabab4-c888-433b-8723-440414afcde6  |  original files: https://drive.google.com/drive/folders/1KGKxadIe_p9_Oma5cFHnqgI0r0le5Dus
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: You will have 50 minutes to complete this exam. You may use one cheat sheet (double-sided, 8.5x11") and a graphing calculator. You may not use any online resources
+
+1. [mcq, 1 pt] Which of the following is true about the main difference(s) between the Clinical Approach and Public Health Approach to Health Care?
+    A) Public health’s primary focus is on populations; emphasis is on diagnosis. Clinical medicine’s primary focus is on individuals; emphasis is on prevention.
+    B) Public health’s organizational lines of specialization involve technical skill. Clinical medicine’s organization lines of specialization involve substantive health problem (ex. nutrition).
+    C) Public health’s paradigm is medical care. Clinical medicine’s paradigm is intervention
+    D) Public health’s emphasis is whole community. Clinical medicine’s emphasis is whole patient.
+
+2. [tf, 1 pt] The field trial of the Salk polio vaccine took place in 1954 and was the largest formal human experiment
+    A) True
+    B) False
+
+3. [mcq, 1 pt] Following the chain of infection sequentially, which of the following represents the correct order of links in the chain?
+    A) agent, reservoir, mode of transmission, susceptible host, portal of entry, portal of exit
+    B) agent, reservoir, portal of exit, mode of transmission, portal of entry, susceptible host
+    C) portal of exit, agent, mode of transmission, portal of entry, reservoir, susceptible host
+    D) mode of transmission, portal of entry, agent, reservoir, portal of exit, susceptible host
+
+4. [mcq, 1 pt] Which of the following components of the public health approach is incorrectly paired with the question it is trying to address?
+    A) Surveillance – what is the problem?
+    B) Intervention Evaluation – how do you do it?
+    C) Risk Factor Identification – what is the cause?
+
+5. [mcq, 1 pt] Classify the situation into its appropriate category or type of surveillance that is taking place. A physician diagnoses a patient with influenza, and the physician files a case report to the health provider, district. The state department collects this data at set intervals.
+    A) passive
+    B) active
+    C) sentinel
+
+6. [mcq, 1 pt] An organization designates select hospitals from designated regions to report cases of measles every month.
+    A) syndromic
+    B) sentinel
+    C) neither
+
+7. [mcq, 1 pt] Data from internet searches and website content is monitored for unusual patterns (related to health) and reported when abnormal spikes in activity are detected.
+    A) syndromic
+    B) sentinel
+    C) neither
+
+8. [mcq, 1 pt] In Luzon of the Phillipines, from March 28 to April 15, 2011, a total of 354 men, women, and children became ill with an infectious agent. Of these people, 112 were hospitalized, and 75 deaths were reported. What was the case-fatality rate of this outbreak?
+    A) 56%
+    B) 67%
+    C) 32%
+    D) 21%
+
+9. [mcq, 1 pt] In August 2009, approximately 30,000 people became infected with malaria, largely contained in South Africa. What can this outbreak be considered?
+    A) epidemic
+    B) pandemic
+    C) cluster
+    D) outbreak
+
+10. [mcq, 1 pt] Find the attack rate for seafood (%)
+    A) 42%
+    B) 45%
+    C) 43%
+    D) 40%
+
+11. [mcq, 1 pt] Find the attack rate for dessert (%)
+    A) 42%
+    B) 45%
+    C) 43%
+    D) 40%
+
+12. [mcq, 1 pt] Find the attack rate for entrees (%)
+    A) 60%
+    B) 45%
+    C) 64%
+    D) 65%
+
+13. [mcq, 1 pt] Order the risk ratios for seafood, dessert, and entrees from greatest to least.
+    A) seafood, entrees, dessert
+    B) entrees, seafood, dessert
+    C) dessert, entrees, seafood
+    D) seafood, dessert, entries
+
+14. [mcq, 1 pt] Calculate the sensitivity of the pregnancy test (%)
+    [IMAGE: ../images/2021_scilymp_prac_november_c__p4_c4dad4-01ed468e.webp]
+    A) 90%
+    B) 91%
+    C) 95%
+    D) 89%
+
+15. [mcq, 1 pt] Calculate the specificity of the test (%)
+    [IMAGE: ../images/2021_scilymp_prac_november_c__p4_c4dad4-01ed468e.webp]
+    A) 98%
+    B) 97%
+    C) 95%
+    D) 99%
+
+16. [mcq, 1 pt] When was the date of the first incidence?
+    A) 1/22/2018
+    B) 1/8/2019
+    C) 6/11/2018
+    D) 1/8/2018
+
+17. [mcq, 1 pt] What is the average no. of people who get infected each day over the entire sample size?
+    A) 3.2
+    B) 3.4
+    C) 4.3
+    D) 4.2
+
+18. [mcq, 1 pt] What is the number of days that have 0 additional incidences from the selected day before it?
+    A) 2
+    B) 4
+    C) 5
+    D) 3
+
+19. [mcq, 1 pt] What type of graph is this called?
+    A) plot
+    B) distribution
+    C) histogram
+    D) epi-curve
+    E) none of the above
+
+20. [mcq, 1 pt] By what percent did the number of people with illness onset change across this period?
+    A) 50%
+    B) 25%
+    C) 30%
+    D) 40%
+
+21. [mcq, 1 pt] Matching the following definition to its term in the provided PDF of terms (ordered by number): standardizes the age distributions of different populations to make more standard comparisons between mortality rates
+    A) 10
+    B) 8
+    C) 5
+    D) 1
+
+22. [mcq, 1 pt] Match the provided definition to its term from the PDF document provided (organized by term no. in list): Refers to usual prevalence of a disease
+    A) 10
+    B) 16
+    C) 9
+
+23. [mcq, 1 pt] Match to its term in the PDF: cause of disease
+    A) 20
+    B) 15
+    C) 11
+    D) 8
+
+24. [mcq, 1 pt] Match to its term in the PDF: a negative test result for a person who actually has the condition or who has the disease (perhaps mild or variant) but does not fit the case definition.
+    A) 18
+    B) 9
+    C) 4
+    D) 21
+
+25. [mcq, 1 pt] an infectious disease that is transmittable from animals to humans
+    A) 7
+    B) 35
+    C) 42
+    D) 27
+
+26. [mcq, 1 pt] applied epidemiology (control/prevent health problems) when an epidemiologist travels
+    A) 45
+    B) 46
+    C) 33
+    D) 47
+
+27. [mcq, 1 pt] a factor that must be present in order for disease to occur
+    A) 52
+    B) 30
+    C) 29
+    D) 42
+
+28. [mcq, 1 pt] acquired in a hospital
+    A) 21
+    B) 26
+    C) 30
+    D) 34
+
+29. [mcq, 1 pt] a factor that is part of a sufficient cause
+    A) 49
+    B) 47
+    C) 50
+    D) 43
+
+30. [mcq, 1 pt] progression of a disease from infection to death/recovery without treatment (susceptibility to subclinical disease to clinical disease to recovery, disability or death)
+    A) 25
+    B) 42
+    C) 22
+    D) 52
+
+31. [mcq, 1 pt] a disease that has been manifested by its symptoms and features
+    A) 6
+    B) 18
+    C) 10
+    D) 15
+
+32. [mcq, 1 pt] systematic difference in the enrollment of participants that leads to an incorrect result or interference
+    A) 2
+    B) 57
+    C) 3
+    D) 10
+
+33. [mcq, 1 pt] the ability of an intervention or program to produce the intended or expected results in the field
+    A) 13
+    B) 15
+    C) 33
+    D) 18
+
+34. [frq, 6 pt] Describe the three main control methods and give an example of each.
+
+35. [frq, 2 pt] Interpret the meaning of a test's sensitivity and provide an example
+
+36. [frq, 2 pt] Interpret the meaning of a test's specificity and provide an example
+
+37. [frq, 6 pt] A large E. Coli outbreak in the US was traced back to a common dinner on a cruise ship. CDC epidemiologists interviewed 70 of the 80 attendees, all of whom were asked to participate in the questionnaire, about what foods had been eaten, prepared, as well as various demographic information. What type of study would this be considered as?
+
+38. [frq, 3 pt] Back to E. Coli outbreak from dinner on cruise ship. Once CDC was contacted, epidemiologists sent were tasked with formulating a case definition. What 3 pieces of information would a proper case definition include?
+
+39. [frq, 2 pt] A scientist analyzes past hospital records of patients’ initial smoking status and reaches out to the patients in the present-day (many years later) to check whether any have developed lung diseases. What kind of analytic observational study is this? Be specific
+
+40. [frq, 4 pt] What is the key difference between a descriptive and an analytic observational study? Name a specific type of individual based analytic observational study.
+
+41. [frq, 4 pt] Define epidemiology using key words and name two purposes of epidemiology in public health practice
+
+42. [frq, 1 pt] The California Sacramento city dept of health calls you when 10 people have come down with a mysterious illness. They had all been previously healthy until recently. Symptoms include fever, headaches, neck stiffness, and disorientation/confusion. Some have become partially paralyzed.
+    
+    5 people are in the hospital, and 1 is critically ill. A virus is suspected.
+    
+    Cases: upon further canvassing of local hospitals, the dept of health has found that a total of 20 people have been hospitalized with aforementioned symptoms. 17 of the total 20 cases involve people who live in the same neighborhood, and of the 20, 15 are 55 years old or older.
+    
+    Question: can you explain why mainly older people are getting sick at this point?
+
+43. [frq, 1 pt] Cont'd from previous: 1 person in critical condition dies, and another 3 patients have become critical. The outbreak is growing as well, with a total of 30 cases, all of whom live in the same neighborhood or nearby parts of Sacramento.
+    
+    Patient blood samples have already been sent for analysis in the laboratory.
+    
+    You ask the sick people and their relatives some questions about their activities and contact with others. You notice that besides living in the same general area, many of the sick people have been exercising outdoors.
+    
+    Question: What can you suspect about how this disease is spread, given this information? Further, from this, what next step should you suggest the city take?
+
+44. [mcq, 1 pt] Which of the following is not characteristic of a foodborne illness?
+    A) abdominal cramps, diarrhea, vomiting
+    B) flulike symptoms
+    C) anemia
+    D) long duration

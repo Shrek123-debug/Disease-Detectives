@@ -1,0 +1,313 @@
+MIT Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  81 questions, 173.0 pts
+Source: scio.ly test archive id b815934c-9a9c-4a24-9ce2-beb147047c65  |  original files: https://drive.google.com/drive/folders/1rzVRMu7W6SxLoQASux5yA3Ui9P1uZkfs
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: Points are not deducted for wrong answers.
+
+
+=== Part 1. Flu Season ===
+
+[STIMULUS] After getting your annual flu shot, you decide to do a little reading about this disease. The most well-known flu pandemic is probably the 1918 Spanish Flu pandemic (which likely didn't start in Spain, it just didn't censor news about the disease while other countries, which were in WW1, did).
+
+The following is an excerpt about the 1918 flu pandemic from the following paper:
+
+Lagacé-Wiens, Philippe R. S. MD, DTM&H, FRCPC; Rubinstein, Ethan MD, LLB; Gumel, Abba PhD. Influenza epidemiology—past, present, and future.
+
+"...the attack rates and age-specific incidence rates of this pandemic did not differ significantly from subsequent pandemics, this pandemic was characterized by its particularly high rates of morbidity and mortality [in] young adults … The reason for the high mortality rates remain unclear, although recent analysis of genetic reconstruction of the 1918 strain suggest that the virus itself was more virulent and had a propensity to cause viral pneumonia, as well as a clinical picture compatible with a "cytokine storm". Controversy remains regarding whether the virus itself, or its strong association with postviral bacterial pneumonia, was the major cause of death in 1918. The overall evidence today supports that both mechanisms, direct viral virulence and postviral superinfection, played major roles in causing the high mortality."
+
+1. [frq, 7 pt] What was notable about the population most significantly affected by the 1918 flu pandemic? Why did it affect that population more severely than other ones? Suggest 3 reasons. (Take into consideration the historical context of the pandemic!)
+
+2. [frq, 1 pt] Handwashing is an effective way to curb the spread of influenza. Which historical figure is associated with encouraging handwashing in a medical context? (Hint: he noticed doctors who didn't wash hands between childbirths would spread puerperal fever between mothers.)
+
+3. [frq, 1 pt] Vaccination is another effective prevention method for influenza. Why wasn't it used to prevent or control the 1918 flu pandemic? (Interesting fact: although vaccines weren't used, blood transfers from recovered individuals to susceptible/ill patients was one of the therapies that improved outcomes for the 1918 flu.)
+
+4. [frq, 1 pt] Who is considered the inventor of vaccination, and what disease did he create a vaccine against?
+
+5. [frq, 3 pt] One of the people who worked on the influenza vaccine also created the one of the two types of polio vaccines. Name any of the individuals who is credited with creating a polio vaccine. State which polio vaccine he created and one advantage and disadvantage of that vaccine compared to the other one.
+
+[STIMULUS] Soon after you finish brushing up your flu knowledge, you begin hearing about increased cases of influenza and more hospitalizations.
+
+6. [frq, 2 pt] What type of surveillance is commonly used for tracking influenza? Why is it used, and what is one way to do this type of surveillance (in the context of flu).
+
+7. [frq, 1 pt] After some analysis, the R0 of this new flu is determined to be 1.5. What does R0 of 1.5 mean in this context?
+
+[STIMULUS] Your friends at the vaccine company Fizzer excitedly tell you about their new vaccine. They haven't figured out the efficacy yet, but they've given you the data.
+
+| | Vaccinated | Not vaccinated |
+|---|---|---|
+| Sick | 23 | 106 |
+| Not sick | 344 | 213 |
+
+8. [frq, 1 pt] What is the difference between vaccine efficacy and efficiency?
+
+11. [frq, 3 pt] Why is vaccinating everyone in a community not a practical option? List 3 potential reasons.
+
+12. [frq, 2 pt] What is a direct contact transmission method of influenza? What is an indirect contact transmission method of influenza? What might each mean for prevention measures?
+
+13. [frq, 1 pt] What is antigenic drift? How does it affect the size of the population that may be susceptible to influenza?
+
+14. [frq, 6 pt] Many of the more virulent strains of influenza are zoonoses, including the 2009 H1N1 influenza, which appears to be a combination of swine, avian, and human influenza. Suggest 3 reasons why zoonoses tend to lead to more serious illness compared to pathogens that mainly spread between humans.
+
+15. [frq, 2 pt] Explain the difference between infectiousness and contagiousness. Name a disease that is infectious but not contagious, or the other way around. (Make sure to label which one you have selected.)
+
+[STIMULUS] Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7316090/
+
+The most basic model of disease spread is SIR (susceptible, infected, recovered/removed), where people move between these three groups with no chance of re-infections. However, for influenza, we also need to account for people in the latent (L) stage and asymptomatic individuals (A) who never get sick, but can still spread flu before they recover. However, we can model that asymptomatic people have a reduced infectivity (by a factor of δ). Now, I only refers to symptomatic infected individuals.
+    [IMAGE: ../images/2024_mit_invitational_c__p6_7b88c9-072ff86e.webp]
+
+16. [frq, 3 pt] Name 3 assumptions this model makes.
+
+[STIMULUS] You know what S, L, I, A, R, and δ mean, but what do all those other symbols mean? Make your best guess. (Hint, all of them except p describe rates!)
+    | Label | Answer |
+    | β | [[q:17-a]] |
+    | κ | [[q:17-b]] |
+    | p | [[q:17-c]] |
+    | η | [[q:17-d]] |
+    | α | [[q:17-e]] |
+
+17-a. [frq, 1 pt] β
+
+17-b. [frq, 1 pt] κ
+
+17-c. [frq, 1 pt] p
+
+17-d. [frq, 1 pt] η
+
+17-e. [frq, 1 pt] α
+
+18. [frq, 2 pt] Now you want to include vaccination into the model. What could you do to add that? You do not need to write an equation, just describe what you would do to the model.
+
+19. [frq, 2 pt] You encounter a population unable to use vaccines, but they can use antivirals (so go back to the first SLIAR model.) How would you modify the original model to include antiviral treatment? Assume only infected symptomatic people (in the I group) are treated. You do not need to write an equation, just describe what you would do to the model.
+
+20. [frq, 2 pt] How could you use this base model to model a pandemic? (Again, no need to write equations, just describe what you could do.)
+
+21a. [frq, 1 pt] Veronica doesn't wash her hands after touching a counter that was not disinfected at a restaurant. After she goes home, she touches her mouth and gets influenza. This is an example of ____ transmission.
+
+21b. [frq, 1 pt] Jonah is encouraging all his friends to not get vaccinated because he is convinced getting vaccinated will make him a target for the bird robots that are taking over the world. Unfortunately, he develops influenza-associated encephalitis while his friend Richard only develops a cough. This range of possible outcomes is also known as the ____.
+
+[STIMULUS] Tumothy gets coughed on by someone with flu. A few days later, they develop ____ symptoms such as cough and fever, then more specific symptoms, before they unfortunately develop pneumonia and die. This progression of disease is known as the ____.
+
+21c-1. [frq, 1 pt] Blank 1: Tumothy gets coughed on by someone with flu. A few days later, they develop ____ symptoms such as cough and fever, then more specific symptoms, before they unfortunately develop pneumonia and die. This progression of disease is known as the (…).
+
+21c-2. [frq, 1 pt] Blank 2: Tumothy gets coughed on by someone with flu. A few days later, they develop (…) symptoms such as cough and fever, then more specific symptoms, before they unfortunately develop pneumonia and die. This progression of disease is known as the ____.
+
+21d. [frq, 1 pt] Tim the beaver goes to the hospital for a checkup. While there, he catches the flu. This is an example of ____ disease.
+
+22a. [frq, 1 pt] Describe an example of each level of prevention in regards to influenza. If a level of prevention is not applicable to influenza, give an example for stroke.
+    
+    Primordial
+
+22b. [frq, 5 pt] Describe an example of each level of prevention in regards to influenza. If a level of prevention is not applicable to influenza, give an example for stroke.
+    
+    Primary
+
+22c. [frq, 5 pt] Describe an example of each level of prevention in regards to influenza. If a level of prevention is not applicable to influenza, give an example for stroke.
+    
+    Secondary
+
+22d. [frq, 5 pt] Describe an example of each level of prevention in regards to influenza. If a level of prevention is not applicable to influenza, give an example for stroke.
+    
+    Tertiary
+
+22e. [frq, 5 pt] Describe an example of each level of prevention in regards to influenza. If a level of prevention is not applicable to influenza, give an example for stroke.
+    
+    Quaternary
+
+[STIMULUS] You develop the following test that can identify flu in its early stages.
+
+| | Ill | Well |
+|---|---|---|
+| Positive | 241 | 29 |
+| Negative | 58 | 209 |
+
+24. [frq, 2 pt] What is the base rate fallacy? Would we need to be concerned about it in this case?
+
+25. [frq, 3 pt] Suggest 3 trends (can be scientific, social, environmental, political, medical, etc) likely to impact global public health in the next decade. This is very open ended!
+
+
+=== Part 2. Foodborne illness ===
+
+[STIMULUS] After the IRS seized his bird robot startup for tax fraud, Tomi began exploring the restaurant business instead. His first venture, a seafood restaurant called The Red Herring, is an instant hit when it opens on 6/9/2069. The head chef's Chris's signature dishes include salmonella toast, oyster's rockefeller, fried octopus, shrimp scampi, and seared scallops.
+
+Unfortunately, a month after the restaurant opens, Tomi is once again in hot water when a number of patrons get sick, and some (including Chris) even die. A few environmental samples reveal bacteria in the restaurant.
+
+26. [frq, 2 pt] In your cheatsheet, you should have a copy of the 13 steps of outbreak investigation. However, although they are numbered, the ordering is not strict. Name any 3 steps that can be done at the same time.
+
+27. [multi, 1 pt] You call all the local hospitals to obtain a list of cases. What type of surveillance is this? Select all that apply.
+    A) Active surveillance
+    B) Passive surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+
+28. [frq, 2 pt] What might be two issues with your surveillance method?
+
+[STIMULUS] After taking these issues into account, you then use a different surveillance method and collect the following list of cases. (However, you did all this work at 2 am. Maybe you want to check your data … )
+
+| Name | Age | Symptoms | What did they eat? |
+|---|---|---|---|
+| Kavi | 19 | Vomiting, diarrhea | Toast, Oyster |
+| Tim | 19 | Diarrhea, vomiting, abdominal pain | Oyster, Octopus |
+| Adwithi | 18 | Vomiting, diarrhea | Toast, Oyster, Scallops |
+| Ruth | 22 | Vomiting, diarrhea | Toast, Scallops |
+| Phoenix | 32 | Diarrhea, vomiting, abdominal pain | Oysters, Octopus, Shrimp |
+| Cherry | 95 | Diarrhea | Toast, Oysters |
+| Ruby | 59 | Vomiting | Toast, Oyster |
+| Chris | 18 | Abdominal pain, vomiting | Oyster, Octopus |
+| Rose | 47 | Diarrhea, vomiting, abdominal pain | Octopus, Shrimp, Scallops |
+| Guang | 33 | Diarrhea, vomiting, abdominal pain | Toast, Oyster, Octopus |
+| Xiaoshi | 34 | Diarrhea, vomiting, abdominal pain | Oyster, Scallops |
+
+31. [frq, 1 pt] You notice that some patients have very severe symptoms (and some even die), while others barely have any symptoms. This is known as the ____.
+
+32. [frq, 3 pt] Your fellow epidemiologist suggests doing a case series study to determine the cause of illness. Explain 3 issues with this idea for this outbreak.
+
+33. [frq, 1 pt] You decide an analytic study is in order, so you contact all healthy family members of cases to ask what they have eaten. What type of study is this?
+
+34. [frq, 2 pt] What are 2 advantages and disadvantages of this type of study?
+
+35. [frq, 2 pt] Realizing that your current study design may introduce some bias, you instead decide to contact all healthy restaurant workers, who frequently [eat] food from The Red Herring's kitchen during their breaks. What is one possible bias you are introducing now? Explain this bias and how it might influence your investigation. (Please be more specific than "Selection bias")
+
+36. [frq, 2 pt] You go back to the drawing board and instead decide to take a group of people from the hospital. What bias are you introducing now? Explain how it might affect your investigation.
+
+37. [frq, 2 pt] Suggest a method to find a healthy comparison group that limits bias as much as possible.
+
+38. [frq, 2 pt] You get the following data on the comparison group. Your first plan is to ask everyone in your case and comparison group what they've eaten recently. What bias could you introduce, explain this bias, and how could you mitigate this bias?
+
+[STIMULUS] You should already have the table with all the cases of disease, but for your convenience, here are the total number of ill people who ate each food. (However, it might be wise to double check the table if you haven't already … )
+
+Salmonella Toast: 7 (6)
+Oysters Rockefeller: 9 (9)
+Fried octopus: 5 (5)
+Shrimp scampi: 3 (2)
+Seared scallops: 7 (4)
+Total: 14 (11)
+
+Healthy people:
+Salmonella Toast: 231
+Oysters Rockefeller: 122
+Fried octopus: 103
+Shrimp scampi: 187
+Seared scallops: 98
+Total: 317
+
+39. [frq, 5 pt] Based on which study type you chose, do the correct risk calculations for each food. Show your work for partial credit. Round to hundredths place.
+
+40. [mcq, 1 pt] Odds ratio always (over / under) estimates the risk ratio.
+    A) over
+    B) under
+
+42. [frq, 5 pt] Why are there some healthy patients who ate the food and ill patrons who did not eat this food? Suggest 5 reasons why.
+
+46. [frq, 5 pt] Tomi asks you for recommendations to prevent this outbreak as well as future foodborne illnesses. Make 5 recommendations for his restaurant.
+
+47. [frq, 5 pt] The local government is also interested in preventing future cases of foodborne illness. Make 5 recommendations for policymakers. They should be distinct from the previous recommendations for Tomi. (Ie, if you said "Avoid serving catfish soup" to Tomi, you should not tell the government to "ban catfish soup.")
+
+
+=== Part 3: Arsenic Afflictions ===
+
+[STIMULUS] The main industry in the country of Copperlandia, is, shockingly enough, copper mining and smelting. Although copper smelting is a necessary part of refining raw copper ore into usable copper metal, which Copperlandia then exports, one of the main side products of copper smelting is arsenic.
+
+48. [mcq, 2 pt] There are two main routes for arsenic ingestion leading to arsenic poisoning—by drinking contaminated water, and by breathing in particulate arsenic. Would you characterize drinking contaminated water as direct, vehicle, or vector transmission?
+    A) direct
+    B) vehicle
+    C) vector
+
+49. [frq, 3 pt] Arsenic poisoning can occur after a short, very intense exposure, but also after a long and less intense exposure. Would you say cases of arsenic poisoning where the exposure was long and low-level before symptoms presented had a longer latent period compared to cases where the exposure was short and high-level? Why or why not?
+
+50. [frq, 3 pt] How about the incubation period? Why?
+
+51. [frq, 1 pt] Some of the main symptoms for short, intense arsenic exposure are vomiting and diarrhea. Further, lab confirmation of arsenic poisoning is achieved by a heavy metal urine test ordered by a doctor. If Jason experiences intense vomiting and watery diarrhea, and then a heavy metal urine test shows extremely high levels of arsenic in his body, what type of case would he be?
+
+52. [frq, 1 pt] Allen displays the same symptoms as Jason, but his PCP doesn't order a lab test, so there is no confirmation. What type of case is Allen's?
+
+53. [frq, 3 pt] Why might a PCP not think to order a lab test for heavy metals given the symptoms Jason and Allen display?
+
+54. [mcq, 1 pt] As a scientist working for Copperlandia's equivalent to the CDC, you notice a large spike in the number of short-term arsenic poisoning cases in the area where Allen and Jason live. Would you characterize this as an outbreak?
+    A) Yes
+    B) No
+
+55. [frq, 3 pt] You generate a map of all the cases in Allen and Jason's small town in Copperlandia to figure out a potential source for the outbreak. Would this be a choropleth map, or a spot map? Why?
+
+57. [mcq, 1 pt] Would this be an example of the clinical or public health approach to fighting disease?
+    A) clinical
+    B) public health
+
+59. [frq, 1 pt] One of the main symptoms of low-level, long term exposure to airborne arsenic is cancer. Overall, the lifetime prevalence of cancers is much higher in Copperlandia compared to neighboring countries. You hypothesize that this is because a large proportion of Copperlandia's population works in copper smelters, where airborne arsenic levels are significantly elevated. To test this hypothesis, you carry out a study where you follow a group of copper smelter workers and a separate group of office workers for an extended period of time, to see if one group develops cancer at a higher rate than the other. What type of study is this? If relevant, be sure to include whether the study is prospective or retrospective
+
+60. [frq, 3 pt] What are some possible factors you will need to control for in a study where cancer is the outcome in order to reduce confounding? Name 3 such factors.
+
+61. [frq, 1 pt] You calculate the appropriate measure of risk for your study, and find the 95% confidence interval to be 1.45-3.21. Does this mean there is a significant causal relationship between airborne arsenic exposure and developing cancer?
+
+62. [frq, 3 pt] If instead you found the 95% confidence interval to be 0.9-3.08, would your answer change? Why?
+
+63. [frq, 3 pt] Propose a prevention measure targeted at copper plant workers in order to reduce their exposure to airborne arsenic and therefore their risk of developing cancer.
+
+64. [frq, 1 pt] What level of prevention would you characterize this measure as?
+
+
+=== Part 4: Colon Cancer Calamities ===
+
+[STIMULUS] One of the most common cancers in the United States is colorectal (colon) cancer. Unlike many other cancers, the vast majority of colon cancer patients have very low genetic risk; rather, most risk factors are environmental/lifestyle related (e.g. smoking, diet, lack of exercise, age). You are interested in further exploring 5 of the most common dietary risk factors for colon cancer (high red meat consumption, high fat consumption, high sugar consumption, high alcohol consumption, and high processed food consumption), so you carry out a prospective cohort study.
+
+You calculate the appropriate measure of risk for all of these risk factors:
+
+| Risk factor | Relative risk |
+|---|---|
+| High red meat consumption | 4.76 |
+| High fat consumption | 1.12 |
+| High sugar consumption | 2.98 |
+| High alcohol consumption | 1.45 |
+| High processed food consumption | 4.15 |
+
+65. [frq, 1 pt] If you wanted to determine the statistical significance of these results, which test would you use?
+
+66. [frq, 3 pt] Let's simply assume all of our results are statistically significant. Are all of these indeed risk factors for developing colon cancer? Why?
+
+67. [frq, 1 pt] Which of Bradford Hill's Criteria for Causation does the significance of our results above fulfill?
+
+68. [frq, 1 pt] Our study looked at risk factors that were previously identified in the literature. Which of Hill's criteria does this get at?
+
+[STIMULUS] The following is a directed acyclic graph (DAG) for the risk factors we looked at.
+    [IMAGE: ../images/2024_mit_invitational_c__p20_e158a1-a268b6b0.webp]
+
+69. [frq, 3 pt] Let's say you only wanted to look at high sugar consumption. Why would it be especially important to control for high processed food consumption?
+
+71. [mcq, 1 pt] Would high red meat consumption alone be considered a sufficient cause for colon cancer?
+    A) Yes
+    B) No
+
+72. [frq, 6 pt] Not all colon cancer patients would have the same set of factors for their sufficient cause. Propose a set of factors that could plausibly act as a sufficient cause for a hypothetical patient.
+
+73. [frq, 1 pt] One component of colon cancer screening, on top of colonoscopies every 10 years, is stool testing for blood. A team of researchers at MIT is developing a new stool test which aims to achieve comparable levels of sensitivity and specificity to existing tests while lowering costs, hopefully increasing access to an important part of colorectal cancer screening for the general population. What level of prevention would this be?
+
+[STIMULUS] The following table shows the results of the new MIT test compared to a gold standard stool test.
+
+| | Gold standard + | Gold standard - |
+|---|---|---|
+| New test + | 673 | 94 |
+| New test - | 23 | 452 |
+    | Label | Answer |
+    | **74.** Calculate the sensitivity and specificity for the new test. |  |
+    | sensitivity | [[q:74-a]] |
+    | specificity | [[q:74-b]] |
+    | **75.** Calculate the positive and negative predictive values for the new test. |  |
+    | positive predictive value | [[q:75-a]] |
+    | negative predictive value | [[q:75-b]] |
+
+74-a. [frq, 1 pt] sensitivity
+
+74-b. [frq, 1 pt] specificity
+
+75-a. [frq, 1 pt] positive predictive value
+
+75-b. [frq, 1 pt] negative predictive value
+
+76. [mcq, 1 pt] If your goal with the test is to minimize false negatives, should you be more concerned with sensitivity or specificity?
+    A) Sensitivity
+    B) Specificity
+
+77. [frq, 1 pt] If your goal instead is to use the test as a confirmatory rather than screening tool, which should you be more concerned with?
+
+78. [frq, 2 pt] Would you recommend this test as a screening or confirmatory test? Why?
+
+83. [frq, 1 pt] How would one go about generating an ROC curve for a diagnostic test in real life?

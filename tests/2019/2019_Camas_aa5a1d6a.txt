@@ -1,0 +1,231 @@
+Camas — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  61 questions, 141.0 pts
+Source: scio.ly test archive id aa5a1d6a-2530-44d3-a42d-44c3f6892ae2  |  original files: https://drive.google.com/drive/folders/1njKeP61uFSpfBmaOd6-p7hFkw7Ua7l8R
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: 1) You may separate the pages. Please make sure to turn in the test packet in the right order with team number on each sheet of paper. You may be tiered if not following instructions
+2) Unit and work are required for calculation questions when appropriate
+3) Significant figures rules are not required, and no penalty for guesses.
+4) Write your answers in the space provided (no separate answer sheet), and use the space wisely.
+
+
+=== Background & Surveillance ===
+
+[STIMULUS] Answer each following question in the underlined space:
+
+P1-1. [frq, 1 pt] In the mid-1800s, an anesthesiologist named ____ was conducting a series of investigations in London that warrant his being considered the "father of field epidemiology." His ground-breaking study involved an outbreak of ____.
+
+P1-2. [frq, 1 pt] In 1928, ____ at Saint Mary's Hospital in London discovered Penicillin when he noticed that one of his petri dishes was contaminated with mold, which was causing the bacteria near it to lyse. Among the earliest known clinical uses of penicillin was by ____, a pathologist at the Sheffield Royal Infirmary, when treating then dreaded pneumococcus.
+
+P1-3. [frq, 1 pt] A relative risk = ____ indicates that the incidence rates of disease in the exposed group is equal to the incidence rates in unexposed group, i.e., the data does not provide evidence for an association.
+
+P1-4. [frq, 1 pt] ____ This method of investigation works backward from effect or illness to suspected cause.
+
+P1-5. [frq, 1 pt] ____ Study that follows a group of subjects who received an exposure in order to examine the difference in incidence of specific disease or other outcome of interest.
+
+P1-6. [frq, 1 pt] ____ This type of bias is most likely to affect results when collecting data retrospectively, such as in case-control study, or retrospective cohort studies.
+
+P1-7. [frq, 1 pt] ____ The rate that a group experienced an outcome or illness.
+
+P1-8. [frq, 1 pt] ____ Measure of association between frequency of the exposure and the frequency of the outcome typically from case-control studies.
+
+P1-9. [frq, 1 pt] ____ An animate, living insect or animal that is involved with transmission of the disease.
+
+P1-10. [frq, 1 pt] ____ An inanimate object that is laden with disease-causing agents.
+
+P1-11. [frq, 1 pt] ____ Disease or infectious agent that is habitually present in a community, geographic area, or population group.
+
+P1-12. [frq, 1 pt] ____ More cases of a particular disease than expected in a given area or among a specialized group of people over a particular period of time.
+
+P1-13. [frq, 1 pt] ____ Occurrence of a disease clearly in excess of normal.
+
+P1-14. [frq, 1 pt] An epidemic that spans a wide geographic area.
+
+P1-15. [frq, 1 pt] ____ Occurrence of death in a population.
+
+P1-16. [frq, 1 pt] ____ Occurrence of an illness or illnesses in a population.
+
+[STIMULUS] The following two questions are multiple choices - choose the best answer.
+
+P1-17. [mcq, 1 pt] Activity taken in preventing a disease is
+    A) anaphylaxis
+    B) prophylaxis
+    C) epistaxis
+    D) chemotaxis
+    E) metalstatics
+
+P1-18. [mcq, 1 pt] The statistic that best descrbes the risk of contracting a disease is
+    A) prevalence
+    B) morbidity
+    C) incidence
+    D) chi-square
+    E) risk ratio
+
+
+=== Multiple choices (circle all that apply) and short answers ===
+
+P2-19. [multi, 2 pt] Data collected through which of the following methods is (are) commonly used for surveillance?
+    A) Vital registration
+    B) Randomized clinical trials
+    C) Disease notification
+    D) Population surveys
+
+P2-20. [multi, 2 pt] Criteria for prioritizing health problems for surveillance include which of the following?
+    A) Incidence of the problem
+    B) Number of previous studies of the problem
+    C) Public concern about the problem
+    D) Social and economic impact of the problem
+
+P2-21. [multi, 2 pt] Initiating surveillance for a public health problem or adding a disease to the notifiable disease list is justified for which of the following reasons?
+    A) If it is a communicable disease with a high case-fatality rate.
+    B) If the problem is new and systematically collected data are needed to characterize the disease and its impact on the public.
+    C) If CDC has recommended its addition to better understand national trends and patterns.
+    D) To guide, monitor, and evaluate programs to prevent or control the problem
+
+P2-22. [mcq, 2 pt] To strengthen its notifiable disease reporting, the best action for a state health department is to:
+    A) allow reporting through use of the Internet.
+    B) require more disease-specific forms from local health departments.
+    C) ensure that all persons with a responsibility to report understand the requirements and reasons for reporting and how reports will be used.
+    D) reduce the number of diseases on the list to allow focused data collection.
+
+[STIMULUS] Below is a summary of the key influenza indicators for the week ending January 12, 2019. Describe, in the underline space, the type of surveillance used:
+
+P2-23a. [frq, 2 pt] The percentage of respiratory specimens testing positive for influenza viruses in clinical laboratories decreased slightly. Influenza A viruses have predominated in the United States since the beginning of October. Influenza A(H1N1)pdm09 viruses have predominated in most areas of the country, however influenza A(H3) viruses have predominated in the southeastern United States.
+
+P2-23b. [frq, 2 pt] Below is a summary of the key influenza indicators for the week ending January 12, 2019. Describe, in the underline space, the type of surveillance used:
+    The proportion of outpatient visits for influenza-like illness (ILI) decreased from 3.5% to 3.1%, but remains above the national baseline of 2.2%. All 10 regions reported ILI at or above their region-specific baseline level.
+
+P2-23c. [frq, 2 pt] Below is a summary of the key influenza indicators for the week ending January 12, 2019. Describe, in the underline space, the type of surveillance used:
+    The geographic spread of influenza in Guam and 30 states was reported as widespread; Puerto Rico and 16 states reported regional activity; three states reported local activity; and the District of Columbia, the U.S. Virgin Islands and one state reported sporadic activity.
+
+
+=== Outbreak Investigation ===
+
+P3-24. [frq, 4 pt] List the components of the epidemiological triad, and explain why it is important.
+
+[STIMULUS] Gov. Jay Inslee declared a state of emergency on Jan 25, 2019 in response to 31 confirmed cases of measles in Washington state. Measles is a highly contagious respiratory illness caused by the measles virus, a virus of the genus Morbillivirus in the family Paramyxoviridae. Measles can be a severe illness at any age. Most of the outbreak cases in WA are currently found in Clark County (map of exposure location shown here)
+    [IMAGE: ../images/2019_camas_c__p5_88991a-5e4e9f11.webp]
+
+P3-25. [frq, 1 pt] What is the reservoir for measles?
+
+P3-26. [numeric, 2 pt] The last time we had more measles cases statewide was 2014: 33 cases total. Based on estimated population of 7.047 million, what is the incidence of measles in 2014 in Washington?
+
+P3-27. [frq, 3 pt] Herd immunity often protects individuals from deadly diseases. Define herd immunity.
+
+P3-28. [frq, 6 pt] Epidemiologists set an R₀ value of between 12 and 18 for measle. What is R₀, and what does it represent? Why does measles have higher R₀ value than other diseases?
+
+P3-29. [frq, 4 pt] Besides R₀, identify two more factors in epidemiology that determine the threshold of vaccination necessary to ensure herd immunity in infectious diseases.
+
+P3-30. [frq, 2 pt] Clark county is especially at risk because of larger percentage of non-vaccinated population. What is the threshold in percentages of vaccination coverage that is considered safe by epdemiologists for measles?
+
+P3-31. [mcq, 2 pt] Vitamin A was administrated to people with measles who have been admitted to hospital and have low immunity. What prevention level does this correspond to?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+    E) Primordial
+
+[STIMULUS] Measles continues to spread across Europe, causing severe complications and deaths in countries like Italy, Romania. Some data from an earlier measles outbreak in Greece are shown below
+    [IMAGE: ../images/2019_camas_c__p6_559b9f-4cb9bb11.webp]
+
+P3-32. [frq, 1 pt] What method is used to display the outbreak surveillance data in figure above?
+
+P3-33. [frq, 3 pt] In which month and year did the first measles case with symptom onset get notified? When did the outbreak peak, and did it end in June 2018?
+
+P3-34. [frq, 2 pt] What type of outbreak pattern is indicated by the histogram above?
+
+
+=== Patterns, Control, and Prevention ===
+
+[STIMULUS] Epidemiologist in EU defined cases using these three types, what is the term for each?
+
+P4-35a. [frq, 1 pt] ____: any person presenting with fever, maculopapular rash and at least one of cough, coryza, or conjunctivitis (clinical criteria);
+
+P4-35b. [frq, 1 pt] Epidemiologist in EU defined cases using these three types, what is the term for each?
+    (b) ____: any person meeting the clinical criteria and with an epidemiological link to a laboratory-confirmed case;
+
+P4-35c. [frq, 1 pt] Epidemiologist in EU defined cases using these three types, what is the term for each?
+    (c) ____: any person meeting the clinical criteria coupled with the positive measles IgM antibody test or measles virus isolation result
+
+P4-36. [frq, 2 pt] The majority of patients in Greece were unvaccinated Roma children aged 0–9 years, primarily of preschool age. Based on this information, what should be prioritized in public health measures?
+
+P4-37. [frq, 5 pt] Depite delay between onset and diagnosis in early cases, hospitalization rate is at high level of 61.3%. What does this mean for the outbreak study and public health overall?
+
+P4-38. [frq, 5 pt] For our Clark county outbreak investigation, besides the household contacts of suspected and probable cases, what other groups should be prioritized for contact investigation?
+
+P4-39. [frq, 5 pt] What specific control measures would you recommend to the county public health team in terms of isolation of cases without presumptive evdience of immunity?
+
+
+=== Scenario: An outbreak of food-born disease ===
+
+[STIMULUS] An outbreak of E. coli O157:H7 gastroenteritis occurred in the US with evidence that linked it to a certain supply of vegetables from west coast farms. E. coli O157:H7 can be transmitted person-to-person via the fecal-oral route, or by contaminated food or water. A total of 62 persons became ill. 25 persons required hospitalization, including two who developed hemolytic uremic syndrome (HUS), a type of kidney failure. Of the 62 ill persons, 36 were exposed while dining at two restaurants and the others were exposed secondarily.
+
+P5-40. [tf, 1 pt] Is it true that a case-control study is used in an outbreak study only when a complete list of participants is available?
+    A) True
+    B) False
+
+P5-41. [frq, 1 pt] Most people suffering from food-borne illness exhibit similar symptoms: nausea, vomiting, diarrhea. What test is used to confirm the diagnosis of most food-borne illnesses?
+
+P5-42. [frq, 1 pt] Why is it more difficult to confirm a diagnosis of a viral disease than a bacterial or parasitic disease?
+
+P5-43. [frq, 2 pt] What is the difference between a primary case patient and a secondary case patient?
+
+P5-44. [frq, 1 pt] The outbreak timeline chart above is missing a klabel for the x-axis – what should it be?
+    [IMAGE: ../images/2019_camas_c__p8_5185ef-9e916ad7.webp]
+
+P5-45. [frq, 3 pt] Provide a brief case definition to best help early outbreak investigation.
+
+[STIMULUS] Through interviews, ill people answered questions about the foods they ate and other exposures in the week before they became ill. The same interview was conducted for a control group with people eating at the same restaurant during the same period. Analysis of the food history and illness data yielded two food items associated with illness. The following are the 2 x 2 tables for the food items.
+    | Spinach | Became ill? |  |  |
+    | Ate the Spinach? | Yes | No | Total |
+    | Yes | 5 | 25 | 30 |
+    | No | 30 | 50 | 80 |
+    | Total | 35 | 75 | 110 |
+    | Romaine Lettuce | Became ill? |  |  |
+    | Ate the lettuce? | Yes | No | Total |
+    | Yes | 30 | 16 | 46 |
+    | No | 6 | 48 | 54 |
+    | Total | 36 | 64 | 100 |
+
+P5-46a. [frq, 2 pt] What is the attack rate for Spinach?
+
+P5-46b. [frq, 2 pt] What is the attack rate for romaine Lettuce?
+
+P5-46c. [frq, 2 pt] Which food item explains a greater percentage of the illness?
+
+P5-46d. [frq, 6 pt] What is the Odds ratio for the higher-risk food item, and what does the Odds ratio mean?
+
+P5-47. [frq, 8 pt] Based on the time series data, it seems that the outbreak has ended, with common food and water sources identified. Define the terms primary prevention strategy and secondary prevention strategy, and recommend two examples for each approach.
+
+P6-49. [mcq, 2 pt] Which food is most likely the cause of the diarrheal illness?
+    A) Chicken
+    B) Burger
+    C) Hotdog
+    D) Oranges
+    E) Egg roll
+
+P7-49. [mcq, 8 pt] An insurance company would like to know if members enrolled in their plans are honest when they say they do not use tobacco products. To test for members' tobacco use, the company hired a biochemist to create a test for tobacco metabolites using a saliva sample. To evaluate the test, a biostatistician randomly tested a group of 1,000 subjects. 17% of these subjects admit to regular tobacco use. The test has 90% sensitivity and 90% specificity.
+    
+    What is the PPV of this test? Show your work below. (PPV=Positive Predictive Value)
+    A) 0.17
+    B) 0.53
+    C) 0.65
+    D) 0.90
+    E) 0.98
+
+[STIMULUS] Use the figure below to answer questions about causal effect and association.
+    [IMAGE: ../images/2019_camas_c__p11_d98163-c424b426.webp]
+
+P7-50. [frq, 3 pt] What distolic blood pressure(s) is/are considered a strong association(s), why?
+
+P7-51. [frq, 3 pt] Rank the following type of studies in terms of their general ability to prove causation, from most to least effective:
+    
+    (a) Experimental studies (randomized controlled trials)
+    (b) Cohort studies
+    (c) Cross-sectional studies
+    (d) Ecological studies
+
+P7-52. [frq, 4 pt] The risk of ischaemic heart disease (IHD) is about twice as high in the lower fruit and vegetable consumption (FVC) quintile as in the upper quintile (right graph). Separate population studies showed that the highest and lowest quintiles of population based on income per household have approximately FVC level of 300 gram/day and 150 gram/day respectively. What is the combined relative risk for IHD in the highest versus the lowest quintile of FVC in a population?
+
+P7-53. [frq, 4 pt] What is the terminology for such a relation, in this case, between the income level and IHD as determined by the level of fruit and vegetable consumption (FVC)?
+
+P7-54. [frq, 6 pt] What do you suggest as public health actions to reduce risk for the low-income groups?

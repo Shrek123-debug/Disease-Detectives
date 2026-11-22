@@ -1,0 +1,194 @@
+High Desert Satellite Invitational — Disease Detectives  |  Season 2023  |  Division C  |  Time limit 50 min  |  41 questions, 157.0 pts
+Source: scio.ly test archive id 32058133-96ce-46aa-93ea-16c2104aa7f5  |  original files: https://drive.google.com/drive/folders/1OYqBkCYi44uxhJivexYW7FOpVnBOz_7K
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: Read questions carefully. You will not be penalized by typos.
+
+3. [multi, 4 pt] Public health surveillance includes which activities?
+    A) Data collection.
+    B) Data analysis.
+    C) Data interpretation
+    D) Data dissemination.
+    E) Disease control.
+
+4. [mcq, 1 pt] Which foodborne illness can result in respiratory failure and death?
+    A) Clostridium botulinum
+    B) Hepatitis A
+    C) Salmonella
+    D) Clostridium perfringens
+
+5. [mcq, 1 pt] In a lab study, it was found that by increasing the exposure of toxic gas, there was higher risk that the subjects fell ill.
+    A) Specificity
+    B) Temporality
+    C) Dose-response relationship
+    D) Coherence
+
+6. [mcq, 1 pt] List of diseases that a physician must report to the local health department is typically compiled by the…
+    A) Local health department.
+    B) State health department.
+    C) CDC.
+    D) CSTE
+
+7. [mcq, 1 pt] Which of following is NOT part of the Chain of Infection?
+    A) Portal of exit
+    B) Latency period
+    C) Susceptible host
+    D) Means of transmission
+
+8. [mcq, 1 pt] ____ developed the ____ vaccine using clinical trials using cowpox.
+    A) John Snow , cowpox
+    B) William Farr , measles
+    C) Louis Pasteur , anthrax
+    D) Edward Jenner , smallpox
+
+9. [mcq, 1 pt] What is the best definition of control, in disease control?
+    A) Reduction to zero of the incidence of a specified disease in a defined geographical area as a result of deliberate efforts
+    B) Termination of all transmission of infections by extermination of infectious agents
+    C) Public policy intervention restricting circulation of an infectious agent beyond the level resulting from spontaneous behaviors
+    D) Specific infectious agent no longer exists in nature or the lab
+
+10. [mcq, 1 pt] In what pH conditions do foodborne pathogens thrive?
+    A) 4.5 - 5.5
+    B) 5.5 - 6.5
+    C) 6.5 - 7.5
+    D) 7.5 - 8.5
+
+11. [frq, 2 pt] Physical object that serves to transmit an infectious agent from person to person is called a ____
+
+12. [frq, 2 pt] Period of ____when you are infectious and can spread your germs to an uninfected person.
+
+13. [frq, 2 pt] ____is the study of the distribution and determinants of health related states or events in specific populations and the application
+
+14. [frq, 2 pt] The most effective barrier to infection is intact____
+
+16. [frq, 2 pt] A ____is a spore producing eukaryotes. It lacks chlorophyll, it's mold, yeast, mildews, smuts, mushrooms.
+
+17. [frq, 2 pt] The ____ case is the first patient in an epidemiological study (also known as patient zero or primary case)
+
+18. [frq, 2 pt] Researchers convey high expectations to subjects; the subjects produce those results. This is known as the ____
+
+19. [frq, 2 pt] ____period is the period following exposure, when pathologic changes are not apparent, and ending with the onset
+
+[STIMULUS] For each of the following disease control strategies, indicate whether they affect the susceptible host, mode of transmission, or reservoir of infection.
+
+20a. [mcq, 2 pt] Handwashing:____
+    A) susceptible host
+    B) mode of transmission
+    C) reservoir of infection
+
+20b. [mcq, 2 pt] Isolation of people with disease: ____
+    A) susceptible host
+    B) mode of transmission
+    C) reservoir of infection
+
+20c. [mcq, 2 pt] Maintaining a healthy lifestyle: ____
+    A) susceptible host
+    B) mode of transmission
+    C) reservoir of infection
+
+21. [frq, 2 pt] ____ is the habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment
+
+[STIMULUS] Epidemiologists often refer to things that cause disease as "agents" and "agent/host/environment" is one of the famous triads (three-way). Agents can be biological, chemical or physical. For the following type "B" for those agents that are Biological, a "C" for those that are Chemical, and a "P" for those that are Physical.
+    | Disease | Agent | Type |
+    | First degree burns | Fire | [[q:22-1]] |
+    | Acute Liver Disease | Hepatitis A | [[q:22-2]] |
+    | Blindness | Optical Radiation | [[q:22-3]] |
+
+22-1. [mcq, 2 pt] Row: First degree burns - Agent: Fire
+    A) B
+    B) C
+    C) P
+
+22-2. [mcq, 2 pt] Row: Acute Liver Disease - Agent: Hepatitis A
+    A) B
+    B) C
+    C) P
+
+22-3. [mcq, 2 pt] Row: Blindness - Agent: Optical Radiation
+    A) B
+    B) C
+    C) P
+
+[STIMULUS] Label the following situations as hyper-endemic, holoendemic, hypo-endemic, or pandemic.
+
+23a. [mcq, 2 pt] Onchocerciasis (river blindness) caused by the parasite Onchocerca volvulus has very low incidence in certain areas
+    A) hyper-endemic
+    B) holoendemic
+    C) hypo-endemic
+    D) pandemic
+
+23b. [mcq, 2 pt] In 2019, a novel influenza A (H1N1) virus emerged and quickly spread throughout the entire world
+    A) hyper-endemic
+    B) holoendemic
+    C) hypo-endemic
+    D) pandemic
+
+23c. [mcq, 2 pt] Dengue fever has a consistent high presence in New Delhi India, due to the circulation of multiple serotypes of the virus
+    A) hyper-endemic
+    B) holoendemic
+    C) hypo-endemic
+    D) pandemic
+
+24. [frq, 10 pt] Explain infectivity, pathogenicity, and virulence, as well as the differences compared to the other two.
+
+[STIMULUS] Case Study
+
+In June of 2017, the rural community of Hilldale on the Arizona-Utah border experienced an outbreak of E. coli O157:H7. Most strains cause food poisoning, generally with symptoms of diarrhea and cramping. The O157:H7 strain is worse than "typical" E. coli: in around 5-10% of cases it causes **hemolytic uremic syndrome**, which can cause kidney failure and death. Young children and elderly are particularly susceptible. In this outbreak, 22 people (mostly children) were sickened, four developed hemolytic uremic syndrome, and two died.
+
+25. [frq, 6 pt] Provide a case definition of this outbreak.
+
+[STIMULUS] To determine the cause of the outbreak, epidemiologists set up a study. Several weeks after the outbreak, they recruited six primary patients (people who got sick from another person) and 16 healthy people who had similar characteristics. Community health workers then questioned the parents of the children about two possible causative factors, the results of which are presented in the tables below.
+    [IMAGE: ../images/2023_high_desert_satellite_invitational_b_c__p6_0b16c1-33355d5f.webp]
+
+26a. [mcq, 2 pt] Is this a case-control or cohort study?
+    A) case-control
+    B) cohort
+
+26b. [mcq, 2 pt] What is the appropriate measure of risk to use with this type of study: odds ratio, relative risk, or percent cause?
+    A) odds ratio
+    B) relative risk
+    C) percent cause
+
+27. [frq, 6 pt] Name one advantage and one disadvantage of this type of study.
+
+28a. [frq, 6 pt] Calculate **and** explain the meaning of the appropriate measure of risk for: Consumed Beef.
+
+28b. [frq, 6 pt] Calculate **and** explain the meaning of the appropriate measure of risk for: Played in area with animal manure.
+
+29. [frq, 6 pt] Which of the two exposures was most likely the cause of the outbreak and why?
+
+[STIMULUS] Case Study
+
+Introduction to Scenario
+
+As a new public health nurse, you are requested to conduct a routine home visit to see Frank, a 76-year-old Hispanic man, who has been your patient for three years. He lives in a 950 sq.ft. one-bedroom, one-bath house in a small, coastal town in Texas (population = 3,000). Since Frank has Medicare benefits, he sees a doctor when he needs to, but not on a regular basis. He says his only complaint is being tired all of the time, which he attributes to not sleeping well at night. Frank adds that he takes frequent naps during the day as he just cannot stay awake. He has a history of poorly managed diabetes with amputation of his left leg six years ago. Frank is 5'9" tall and weighs 297 pounds. He used to smoke two packs of cigarettes per day, but it is difficult to turn off the oxygen. His lifetime pack year history is almost 100 pack years (40 cigarettes per day divided by 20 cigarettes × 50 years). He drinks a six-pack of beer every day, but only after 5:00 p.m. For his family history, his father died from a heart attack at age 67 and his mother died when she was 70. Frank is divorced and has two children who are married—his son lives in Dallas and daughter lives in Houston. He talks to them about once a week; they want him to move to Houston to be close to his daughter, but he doesn't want to leave the small community where he knows everyone. He has COPD and has oxygen delivered via nasal cannula at 2 L/minute. Initial physical examination reveals blood pressure to be 168/92, pulse 102, and respirations 24. His ears, nose, and throat—examination is unremarkable, and lungs reveal decreased breath sounds. Cardiac examination is normal, and he has an obese abdomen without any other gross abnormalities. The patient has 2+ pitting edema on the right lower extremity to mid shin. He has no skin lesions or rash. His stump is pink and blanches easily. He has diminished sensation in the right foot, with complaints of numbness. Pedal pulses are weak. His medical records shows that he has been diagnosed with diabetes mellitus type 2, alcohol-related cirrhosis, chronic bronchitis, and hepatitis C.
+
+30. [frq, 10 pt] What are some factors that influence the role of nurses who work with clients with disabilities?
+
+[STIMULUS] Scenario Continues 1
+
+Clients in rural areas tend to have an overall poorer health status than their urban counterparts, and are more likely to have one or more chronic diseases such as heart disease, chronic obstructive pulmonary disease, hypertension, arthritis and rheumatism, diabetes, cardiovascular disease, and cancer. Despite the prevalence of chronic health conditions, rural adults are less likely to seek medical care than urban adults, and older rural adults have a lack of services and staff (Bushy & Napolitano, 2018). Rural clients are less likely to practice preventive health behaviors, such as physical activity, using seatbelts, having regular blood pressure checks, having Papanicolaou (Pap) smears, and doing breast self-examinations (Bushy & Napolitano, 2018). They are more likely to smoke, drink alcohol, and be obese (Bushy & Napolitano, 2018). Frank demonstrates signs of many of these. Frank shares that he does not drive. He can easily get from home to the grocery store, post office, bank, or the bar in his wheelchair. If he needs to see the doctor at the VA, he relies on friends from the Foreign War post who drive him. He doesn't like going to the VA because it takes all day to be seen at the clinic in the nearby city. Frank notes that rural living has advantages in that people take care of each other.
+
+31. [frq, 10 pt] Identify a barrier to health care that Frank is experiencing. How might the public health nursing assist Frank in overcoming it?
+
+32. [frq, 10 pt] What are some alternative health care delivery methods found in rural areas, as opposed to the traditional brick-and-mortar facilities?
+
+[STIMULUS] Scenario Continues 2
+
+You talk to Frank about his options for transportation, noting one of the local churches has a volunteer program that offers free rides for medical appointments. Frank states that he would be interested in exploring that option for future appointments. You recognize that outcomes will be greatly improved if you develop a partnership with him, based on mutual respect and involvement in his plan of care. To expand your knowledge base of working with rural clients, and to ensure your care is based on evidence, you complete a literature search to gather information about health beliefs, values, perceptions of illness, health care practices, and appropriate care.
+
+33. [frq, 10 pt] What considerations are important for the public health nurse when developing community health programs that are available, accessible, and acceptable to individuals with disabilities?
+
+[STIMULUS] Scenario Continues 3
+
+Research has shown that outcomes improve for clients with disabilities when case management is used (Huber, 2018). The American Nurses Association defines case management as "a collaborative practice model that includes patients, nurses, social workers, physicians, other practitioners, caregivers, and the community. The case management process encompasses communication and facilitates care along a continuum through effective resource coordination. The goals of case management include the achievement of optimal health, access to care, and appropriate utilization of resources, balanced with the patient's right to self-determination." Case management will allow Frank to remain in his home in this rural community if you can offer adequate support.
+
+34. [frq, 10 pt] What are the knowledge, skills, and attitudes important to developing successful client-centered interventions that would work for Frank?
+
+[STIMULUS] Scenario Continues 4
+
+You know you need to develop a plan of care and recognize that Frank is the determining factor in whether the plan will succeed or fail. You need to work with Frank to provide compassionate and coordinated care and interventions based on respect for Frank's preferences, values, and beliefs while remembering he has four medical conditions: diabetes mellitus type 2, alcohol-related cirrhosis, chronic bronchitis, and hepatitis C. As a nurse, you need to include these conditions in his plan of care.
+
+35. [frq, 10 pt] Identify strategies for public health nurses to advocate and develop interventions for the disabled population
+
+41. [frq, 6 pt] What are two limitations of Koch's postulates?

@@ -1,0 +1,430 @@
+UPenn (SOUP) — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  95 questions, 339.0 pts
+Source: scio.ly test archive id 878c6efd-3d16-4c73-9f72-3f9cf66419f3  |  original files: https://drive.google.com/drive/folders/1IYrY9Ch1x0x1jt45aHmOJTYqlXkm8pZF
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+
+=== Part I ===
+
+[STIMULUS] It’s time for the annual Lauci family reunion, a wonderful gathering every year during the Fourth of July! Due to the COVID-19 pandemic this year, fewer individuals will be in attendance and those who are specially selected will be wearing masks and other necessary PPE (and of course all instructed to stand at least 6 feet apart). After attending this festive gathering however, you begin to receive calls from various family members, complaining of severe illness. Your uncle Arthur, an infectious disease doctor, has enlisted your help in getting to the bottom of this peculiar case!
+
+P1-1. [frq, 6 pt] What are the three components of the epidemiological triad? Define each of them.
+
+P1-2. [frq, 4 pt] Name 4 factors that may influence an individual’s response to an agent.
+
+P1-3a. [frq, 1 pt] For each of the following disease-causing agents, name 3 examples.
+    a. Biological
+
+P1-3b. [frq, 1 pt] For each of the following disease-causing agents, name 3 examples.
+    b. Chemical
+
+P1-3c. [frq, 1 pt] For each of the following disease-causing agents, name 3 examples.
+    c. Physical
+
+P1-3d. [frq, 1 pt] For each of the following disease-causing agents, name 3 examples.
+    d. Nutritional
+
+P1-4. [frq, 5 pt] Distinguish between a pandemic, epidemic, outbreak, and when something is endemic and hyperendemic.
+
+P1-5. [frq, 4 pt] Which one of the above would you consider this to be and why?
+
+P1-6. [frq, 1 pt] Name three factors that may lead to the occurrence of an epidemic.
+
+P1-7. [frq, 6 pt] What other things can account for what looks like an outbreak besides an actual increase in the number of cases? Name three.
+
+[STIMULUS] Not wanting to let your Uncle Artie down, you immediately spring on the case and begin taking in these family members for questioning (over the phone and socially distanced of course, don’t need two pandemics to happen!).
+They all complain of similar symptoms: diarrhea, abdominal cramps, and vomiting. The cases take place anywhere from 1 day to up to a week after the attendance of the barbecue.
+Everyone is crabby and beginning to wonder if having the barbecue was a good decision after all.
+
+P1-8. [frq, 8 pt] What are the four components of a case definition? Construct a case definition for this situation.
+
+P1-9. [frq, 4 pt] How should you construct a case definition if you want to make sure you capture as many people as you can who have the disease? How should you construct a case definition if you want to make sure you **only** have those who truly have the disease?
+
+P1-10. [frq, 10 pt] Name and define the five periods of disease.
+
+P1-11. [frq, 6 pt] Name three factors that may influence how long the incubation period for a certain pathogen is.
+
+P1-12. [frq, 4 pt] Say these cases had been scattered across the state. What tool could an epidemiologist use to determine where the cases were most prevalent?
+
+P1-13. [frq, 6 pt] Name three different types of epidemiology and give their respective definitions
+
+[STIMULUS] Your mother urges you to find a solution. “With everyone going on right now, we can’t afford to have another virus on the loose! You must get to the bottom of this!”. You and Uncle Artie decide to do everything in your power to get to the bottom of this dilemma and make sure nothing similar happens again.
+
+P1-14. [frq, 1 pt] Based on the information given in the initial scenario, what do you think is the most likely mode of transmission for this outbreak and why?
+
+P1-15. [frq, 10 pt] Name and define 5 modes of transmission and for each give two examples of diseases that are spread that way.
+
+P1-16. [frq, 4 pt] What information do you need to calculate the period of exposure for a disease and how would you go about calculating it?
+
+[STIMULUS] Family members are continuously complaining about their upset stomachs. Your answer machine has been ringing endlessly for the past several days and you and Uncle Artie decide to really take matters into your own hands. You ring up the hospitals all of your family members have traveled to and request for them to fax over the records so you can compile them in one place. You decide to create a table for yourself that contains all of this information.
+
+P1-17. [frq, 4 pt] What is the name of the chart you have just created?
+
+P1-18. [frq, 4 pt] What kind of public health surveillance did you use when collecting this data?
+
+P1-19. [frq, 4 pt] In public health surveillance, what does the practice of "reanalysis" entail and what is one advantage and one disadvantage of it?
+
+P1-20. [frq, 6 pt] In public health surveillance, name three issues that may lead to underreporting and three methods to rectify these issues.
+
+P1-21. [frq, 10 pt] List five major health data systems in the United States and their purpose
+
+[STIMULUS] The last collective activity all of these family members had done together was the barbecue. You wonder if there was something that was consumed at the barbecue that may be the culprit to all of this foodborne madness. You call up your Aunt Sam Onella (yes, that's really her name, no pun intended) and inquire more into the situation.
+
+"Ah yes well, I had gotten quite a few recommendations to cater from this company, they're called um...let me see...oh yes! They're an extension of that one beverage company, I guess they decided to branch out...Corona Catering!" says Aunt Sam.
+
+"Great! I was wondering if you could give me a list of each of the things you ordered, that way I can see if I can narrow down if it had something to do with the food."
+
+"Why of course dear, I'll email that right over to you."
+
+P1-22. [frq, 4 pt] List the steps of outbreak investigation you have completed so far.
+
+P1-23. [frq, 4 pt] What measures do you want to implement in regards to the catering company? Name four.
+
+P1-24. [frq, 4 pt] With regards to foodborne illness, what type of epicurve would an outbreak related to foodborne illness represent and why?
+
+[STIMULUS] You decide to interview each family member who was at that barbecue, regardless of whether they became ill or not, to see if they can remember what they ate at the barbecue. There is a scattering of answers, but eventually you are able to put together a table that accurately displays who has or has not eaten certain dishes and who did or did not become ill upon doing so.
+
+P1-25. [frq, 6 pt] Name three types of selection bias that occur with case-control studies and define each.
+
+P1-26. [frq, 2 pt] When conducting a case-control study, why might an epidemiologist select more controls than cases?
+
+P1-27. [frq, 2 pt] Which type of study measures incidence? Which type of study measures prevalence?
+
+[STIMULUS] A total of 18 cases and controls were interviewed. The following table was assembled.
+    | Food Item | Well (Ate Item) | Ill (Ate Item) | Well (Did Not Eat) | Ill (Did Not Eat) |
+    | Hot Dogs | 4 | 1 | 6 | 7 |
+    | Potato Salad | 12 | 2 | 1 | 3 |
+    | Corn on the Cob | 8 | 3 | 5 | 2 |
+    | Ribs with Barbecue Sauce | 5 | 3 | 3 | 7 |
+    | Hamburgers | 2 | 5 | 10 | 1 |
+    | Caesar Salad | 3 | 4 | 5 | 6 |
+
+P1-28. [frq, 18 pt] Calculate the appropriate measure of risk for each food. Be sure to show all work.
+
+P1-29. [frq, 1 pt] Interpret each of the measures of risk in context.
+
+P1-30. [frq, 5 pt] What is the difference between a case-control study and a nested case-control study? Name two advantages and two disadvantages of a nested case-control study.
+
+P1-31. [frq, 4 pt] Based on the data and the calculations you have made, what do you think is the food that most likely caused the outbreak?
+
+P1-33. [frq, 8 pt] What steps could the catering company take to prevent future outbreaks? Name four.
+
+
+=== Part II ===
+
+[STIMULUS] "Based on these reports, we reached out to the Animal Health departments of other states to see if they were also experiencing an influx of diseased animals. Only Pennsylvania, Delaware, and Virginia have all had a recent increase in unidentifiable neurological disease. The best estimate is that cases started coming in around October."
+
+P2-6. [tf, 1 pt] True or False: The CDC needs permission from a state before conducting public health surveillance.
+    A) True
+    B) False
+
+P2-7. [frq, 9 pt] List the components of the descriptive epidemiological triad (1). List 4 additional questions you might ask during your surveillance to get a better picture of the components of this triad with respect to this outbreak.
+
+[STIMULUS] "Alright, team, time to head out. First stop: Baltimore, Maryland"
+**9:00 AM, February 23rd, 2021 – Baltimore Health Department**
+
+"Hello and thank you so much for coming. Based on your recommendations yesterday, we've compiled a more accurate count of animal cases and characteristics. Unfortunately, we've also just been contacted by a couple of local hospitals – apparently there has been a report of some potential human cases as well. I've sent a team to investigate more, but until then let's see what we can glean from the data we have."
+
+[STIMULUS] | ID | Animal Type | Date | Pet Status | Age | Location | Symptoms | Food |
+|---|---|---|---|---|---|---|---|
+| 1468 | Cat | 10/12/2020 | Pet | 13y | Baltimore, MD | Severe lethargy, shaking, balance problems, death | Purina |
+| 1762 | Dog | 10/17/2020 | Pet | 11y | Philadelphia, PA | Balance issues, excessive drooling, tremors | Wild Earth |
+| 1984 | Cat | 10/25/2020 | Wild | Est. 7y | Kent Island, MD | Severe tremors, death | Unknown |
+| 2268 | Cat | 11/5/2020 | Wild | Est. 7y | Norfolk, VA | Jerky movements, balance problems, death | Unknown |
+| . . . | . . . | . . . | . . . | . . . | . . . | . . . |  |
+
+P2-8. [frq, 1 pt] The type of chart shown above is known as a ____.
+
+P2-9. [frq, 6 pt] List 3 reasons why this type of chart could be useful for guiding further epidemiological study.
+
+[STIMULUS] "We also mapped out where all the reports of sick pets originated from. They seem to be clustered around the Chesapeake Bay area, but there are a few outliers! Each marker on this map represents 10-25 cases."
+    [IMAGE: ../images/2021_upenn_soup_c__p15_ef3b62-8b4822c4.webp]
+
+P2-10. [frq, 1 pt] The type of map shown above is known as a ____.
+
+[STIMULUS] "We have also made a graph of when the cases occurred as well."
+    [IMAGE: ../images/2021_upenn_soup_c__p16_86cff6-8c2c19d8.webp]
+
+P2-12. [frq, 1 pt] What kind of outbreak does this curve indicate?
+
+[STIMULUS] "Huh," says your teammate Dr. Song. "Is it possible that there has been some sort of pet-food contamination?"
+
+P2-13. [frq, 4 pt] Give 2 reasons why pet food contamination seems unlikely at the current time.
+
+[STIMULUS] "The Nebraska case seems especially interesting to me." Says Dr. Sims. "Do the pet owners there have any connection to the Chesapeake Bay area?"
+
+"Funny you should ask – they said that they used to live on the shoreline of the Bay itself but moved out to Nebraska 5 years ago. We weren't sure that information was relevant, however. Although, thinking about it, some of the cases from far away were either pets of summer residents down in the Bay, or those of people who moved away from the Bay in the past 10 years."
+
+An intern walks into the room carrying several folders.
+
+"We just received word from the team that went to interview patients at the hospital. Many of the patients had very similar symptoms to the animals, although many also had kidney problems. Some of the patients were owners of pets who experienced symptoms and died, but other had no pets, or had healthy pets. What's even worse is that there are possibly some children who are sick! The team seems really confused about what's going on. Do you think the disease has become zoonotic?"
+
+P2-14. [frq, 1 pt] Define zoonosis.
+
+[STIMULUS] "Hmm. I don't think so," you say. "In fact, I do not think that the disease is actually caused by a biological agent, although I am fairly convinced that something in the Chesapeake Bay area is causing this illness."
+
+P2-15. [frq, 4 pt] Give 2 pieces of evidence that might support the idea that the agent you are dealing with is non-biological.
+
+P2-16. [frq, 2 pt] From the 13 steps to investigating an outbreak, name the step of the investigation that your team is currently at.
+
+[STIMULUS] "Well," you say. "Mercury can actually accumulate in sediment and wetlands. Fish and other marine life can then ingest the sediment, where these toxins bioaccumulate."
+
+"Well, it still doesn't completely make sense. Why are mostly animals being affected? And also, some of the people who became sick were vegetarians!" Dr. Franklin states.
+
+P2-18. [frq, 2 pt] Define bioaccumulation.
+
+P2-19. [frq, 6 pt] Give 3 possible reasons why it appears that animals are primarily being affected, and not humans.
+
+P2-20a. [frq, 2 pt] Define biomagnification.
+
+P2-20b. [frq, 2 pt] How might biomagnification have played a role in the current outbreak at hand?
+
+[STIMULUS] "Okay. Let's go forward with the assumption that these patients are suffering from mercury poisoning. How sure are we that mercury poisoning is causing their symptoms, and not something else? And if so, what do we do?" Dr. Sims asks.
+
+P2-22. [frq, 9 pt] List and describe the 9 components of Hill's Criteria for Causation.
+
+P2-23. [frq, 15 pt] In the context of the scenario at hand, choose 3 criteria and briefly explain how you might collect evidence to meet them. For example (do not use this example as your response): Consistency – I would do a literature search to find other cases in which mercury toxicity has been implicated in similar disease.
+
+[STIMULUS] "While we have theories on what exposures could be linked to disease, we are not sure which exposure carries the highest risk. We should do an analytical study." You muse.
+
+P2-25. [frq, 4 pt] What type of analytical study would you recommend doing at this time? Justify your answer.
+
+P2-26. [frq, 4 pt] Give 2 benefits and 2 drawbacks of such a study.
+
+P2-27. [frq, 6 pt] Say that your analytical study determines that there were three major risk factors for disease: eating bottom-feeding fish (i.e. catfish) caught in the Bay, using water drawn from the Bay for household activities (showering, cooking, drinking, etc.) instead of municipally-filtered water, and swimming in the marshy areas of the Bay. Give one control or prevention measure for each risk factor.
+
+P2-28. [frq, 2 pt] You may want to implement additional studies to examine the mercury levels in the silt of the bay. What step of the 13-step outbreak investigation does this represent?
+
+P2-29. [frq, 12 pt] Aside from the control and prevention measures that you listed above in Question 27, give 3 other measures that you might suggest implementing to protect Bay residents. Give a benefit and a drawback for each measure.
+
+P2-30. [frq, 20 pt] Mercury poisoning can be extremely deadly and historically has had large impacts globally (see Minamata Disease in Japan). It's also incurable, and thus the only way to prevent further cases is via primary and secondary prevention tactics. However, epidemiologists also need to be careful about how they present information in order to prevent mass panic that overloads the health system (see: early COVID-19 pandemic). Given this, how might you structure the communication of your findings on this outbreak? Specifically note: what group(s) of people you would attempt to reach (4), what method(s) of communication you would use (4), what information you would give (for example – full case definition? Only symptoms? etc.) (4) and justify why this would be your response (4). Full credit will be awarded for any well-justified response.
+
+
+=== General Epidemiology Section ===
+
+P3-1. [frq, 1 pt] What is the first case identified in an outbreak called?
+
+P3-2. [frq, 6 pt] During the Coronavirus pandemic, a vaccine was found that has 95% efficacy. Assuming that the reproductive number of the virus is 7, calculate the proportion of the population that would need to be immunized in order to achieve herd immunity. Be sure to include the formula used as well as.
+
+P3-3. [frq, 1 pt] A propagated epidemic usually comes from what type of exposure?
+
+P3-4. [frq, 4 pt] Explain the difference between frequency and pattern of health events.
+
+[STIMULUS] For each of the following statements, determine whether it is part of the **distribution**, **determinants**, or **application** part of the definition of epidemiology.
+
+P3-5a. [mcq, 1 pt] From 2007 to 2015, 1654 measles cases were reported amongst US citizens aged 15 and older.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5b. [mcq, 1 pt] John Snow created a spot map of cholera cases in London to determine which water pump was the most likely site of exposure.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5c. [mcq, 1 pt] Semmelweis determined washing hands prior to medical procedures greatly improved health outcomes.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5d. [mcq, 1 pt] Cardiologists recommend exercising 30 minutes every day and eating plenty of fruits and vegetables as a preventative measure for heart disease.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5e. [mcq, 1 pt] A line listing was created of all of the individuals in the Norovirus outbreak that occurred on a cruise ship.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5f. [mcq, 1 pt] A case control study was conducted in order to determine the cause of an outbreak.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5g. [mcq, 1 pt] Every year, the cause-specific death rate is calculated for a variety of conditions in the United States.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5h. [mcq, 1 pt] Creating a graph of the trends of the Influenza virus throughout the various seasons during the year in the United States.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5i. [mcq, 1 pt] Recommend that individuals with a genetic predisposition to osteoporosis increase their calcium intake.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-5j. [mcq, 1 pt] Hill's Criteria for Causation.
+    A) Distribution
+    B) Determinants
+    C) Application
+
+P3-6. [tf, 5 pt] True or False: Epidemiologists assume that illness occurs randomly in a population.
+    A) True
+    B) False
+
+[STIMULUS] Identify what types of variables (nominal, ordinal, interval, ratio) each of the following are.
+
+P3-7a. [mcq, 1 pt] The genotype of individuals for the color of their eyes.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7b. [mcq, 1 pt] Ruler measurements of individuals' pinky finger lengths.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7c. [mcq, 1 pt] Asking individuals to rate their experience in a restaurant on a scale of 1 to 5.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7d. [mcq, 1 pt] The temperature outside every day for the month of December.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7e. [mcq, 1 pt] The diameter of a tumor as measured in centimeters.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7f. [mcq, 1 pt] Date of diagnosis for an illness.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7g. [mcq, 1 pt] The sex of individuals in a specified population.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7h. [mcq, 1 pt] The rankings of individuals in a high school class.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7i. [mcq, 1 pt] Weight of an individual tracked throughout the year by their doctor.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+P3-7j. [mcq, 1 pt] SAT scores for all students who were admitted to Penn.
+    A) Nominal
+    B) Ordinal
+    C) Interval
+    D) Ratio
+
+[STIMULUS] On February 28th, an outbreak was reported at a Science Olympiad invitational at the University of Pennsylvania. Lunch was served at 12:00 pm. After the Awards Ceremony was completed, on the buses and planes back home many students began to report feeling ill and feeling symptoms of food poisoning. After getting tested, the determined cause of the foodborne illness was Campylobacter Jejuni. The incubation period of this particular strain is 6-9 hours. Using the epicurve below, calculate the most likely period of exposure for this outbreak. Be sure to show your work.
+    [IMAGE: ../images/2021_upenn_soup_c__p27_f2bd4d-6357288d.webp]
+
+P3-10. [frq, 6 pt] Using the epicurve below, calculate the most likely period of exposure for this outbreak. Be sure to show your work.
+
+[STIMULUS] There has been a recent reporting of an outbreak in Philadelphia for a serious illness. Through rigorous testing and research, scientists were able to develop a diagnostic test to determine if individuals have the illness in question. Using the chart below, calculate the following values. The terms "Disease" and "No Disease" indicate that the person truly does or does not have the illness in question.
+    |  | Disease | No Disease |
+    | Positive Test 1 | 80 | 50 |
+    | Negative Test 1 | 30 | 180 |
+
+P3-11A-I. [frq, 1 pt] Calculate the Sensitivity using the chart given above.
+    [IMAGE: ../images/2021_upenn_soup_c__p27_f2bd4d-6357288d.webp]
+
+P3-11A-II. [frq, 1 pt] Calculate the Specificity using the chart given above.
+    [IMAGE: ../images/2021_upenn_soup_c__p27_f2bd4d-6357288d.webp]
+
+P3-11A-III. [frq, 1 pt] Calculate the Positive Predictive Value using the chart given above.
+    [IMAGE: ../images/2021_upenn_soup_c__p27_f2bd4d-6357288d.webp]
+
+P3-11A-IV. [frq, 1 pt] Calculate the Negative Predictive Value using the chart given above.
+    [IMAGE: ../images/2021_upenn_soup_c__p27_f2bd4d-6357288d.webp]
+
+[STIMULUS] A second diagnostic test is developed. The results for testing are showing below.
+    |  | Disease | No Disease |
+    | Positive Test 2 | 160 | 20 |
+    | Negative Test 2 | 10 | 290 |
+
+P3-11B. [frq, 2 pt] If results from both the tests are independent, what is the likelihood that a patient with the disease will test positive for both tests?
+
+[STIMULUS] Match each of the following scenarios to the following terms.
+Hawthorne Effect, Berkson's Bias, Attrition Bias, procedure bias, length-time bias, late-look bias, self-selection bias, lead-time bias
+
+P3-12a. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12c. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12d. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12e. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12f. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12g. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias
+
+P3-12h. [mcq, 1 pt] Match the scenario to the correct term.
+    A) Hawthorne Effect
+    B) Berkson's Bias
+    C) Attrition Bias
+    D) procedure bias
+    E) length-time bias
+    F) late-look bias
+    G) self-selection bias
+    H) lead-time bias

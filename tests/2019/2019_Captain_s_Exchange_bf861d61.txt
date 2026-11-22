@@ -1,0 +1,181 @@
+Captain's Exchange — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  43 questions, 94.0 pts
+Source: scio.ly test archive id bf861d61-01c4-4ee2-b627-d589909612d4  |  original files: https://drive.google.com/drive/folders/1L4HbEqCM46MFBc3k0oixjDkMpHhgxUsr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+
+=== Section 1: Multiple Choice ===
+
+1. [mcq, 1 pt] What are 5 common symptoms of foodborne illnesses?
+    A) Vomiting, diarrhea, fatigue, joint/back aches, abdominal cramps
+    B) Fatigue, abdominal cramps, nerve pain, headache, chills
+    C) Vomiting, diarrhea, runny nose, stuffy nose, nerve pain
+    D) Chills, runny nose, stuffy nose, fatigue, fever
+
+2. [mcq, 1 pt] Which type of bacteria enters our bodies through the ingestion of food contaminated with fecal matter?
+    A) Escherichia coli O157:H7
+    B) Caliciviruses
+    C) Campylobacter jejuni
+    D) Salmonella
+
+3. [mcq, 1 pt] What are two symptoms of botulism excluding vomiting and diarrhea?
+    A) High fever, muscle weakness
+    B) Blurred vision, hearing problems
+    C) Double vision, chills
+    D) Blurred vision, difficulty swallowing
+
+4. [mcq, 1 pt] After eating clotted cream, Kevin suffered muscle paralysis and severe gastrointestinal illness. While being treated at the hospital, doctors told Kevin that his acute symptoms were likely due to bacterial contamination of the clotted cream he had consumed. Which of the following organisms is the most likely root for Kevin's illness?
+    A) Campylobacter jejuni
+    B) Cryptosporidium parvum
+    C) Clostridium botulinum
+    D) Salmonella
+
+5. [mcq, 1 pt] Which of the following are not killed by heat alone?
+    A) Prions
+    B) Bacteria
+    C) Viruses
+    D) Parasites
+
+6. [mcq, 1 pt] The Spanish Flu in 1918 and the Black Plague in the Middle Ages were examples of
+    A) Endemics
+    B) Epidemics
+    C) Pandemics
+    D) Outbreaks
+
+7. [mcq, 1 pt] Natality
+    A) is the portion of live births that occur outside of hospitals and develop complications
+    B) is the portion of infants who die shortly after birth
+    C) is the total dead births of a population during a specified period
+    D) Is the ratio of the number of births to the size of the population; birth rate.
+
+8. [mcq, 1 pt] Which of the following is not characteristic of a disease caused by a foodborne pathogen?
+    A) Non-life threatening
+    B) Dehydration
+    C) Sudden onset of diarrhea or vomiting
+    D) Long duration of the disease
+
+9. [mcq, 1 pt] Which of the following is NOT one of Koch's postulates?
+    A) The agent must cause disease when introduced to a healthy organism.
+    B) The agent must be found in all diseased organisms and no healthy ones.
+    C) The agent must be present in the diseased organism's environment.
+    D) The agent must be the same before and after introduction to an organism.
+
+10. [mcq, 1 pt] Which of the following is an example of passive natural immunity?
+    A) Antibodies are passed on from the mother to the fetus through the placenta.
+    B) An individual receives an injection of synthetic white blood cells.
+    C) The body mounts an immune response against an allergen, leading to anaphylaxis.
+    D) An individual receives an attenuated vaccine.
+
+11. [mcq, 1 pt] Which of the following is NOT one of Hill's criteria for causation?
+    A) Consideration of multiple hypotheses before making conclusions about whether an association is causal or not.
+    B) An increasing amount of exposure increases the risk; Dose-Response Relationship.
+    C) The condition can be altered, either prevented or accelerated, by an appropriate experimental process.
+    D) Multiple causes produce a specific effect.
+
+12. [mcq, 1 pt] Occurs when bias is introduced through an error in measurement or observation
+    A) Selection Bias
+    B) Information Bias
+    C) Systematic Error
+    D) Confounding Bias
+
+13. [mcq, 1 pt] Which of the following government agencies are not involved in National Epidemiological Surveillance?
+    A) Centers for Disease Control and Prevention (CDC)
+    B) Food and Drug Administration (FDA)
+    C) Department of Health and Human Services (HHS)
+    D) U. S. Department of Agriculture (USDA)
+
+
+=== Section 2: Short Answer ===
+
+14. [frq, 6 pt] What are 6 types of basic studies?
+
+15. [frq, 10 pt] What are the CDC steps of an outbreak investigation?
+
+[STIMULUS] A town with a population of 300,000 is hit by an outbreak of Hepatitis A. In one month, 60,000 people are infected, and 1,500 people develop the disease. Of these 1,500, 50 people die. Calculate the:
+
+16e. [frq, 1 pt] Incidence Rate
+
+16f. [frq, 1 pt] Virulence
+
+16g. [frq, 1 pt] Pathogenicity
+
+[STIMULUS] A high school recently had a large number of students call in sick with gastrointestinal symptoms which appear to be from food poisoning. The administration is beginning to worry that this may be an outbreak, so they called in public health officials (including you) to help.
+
+17. [frq, 4 pt] What extra information do you need to gather to decide whether or not this is a real problem worth investigating?
+
+18. [frq, 3 pt] Public health officials use three types of information to characterize an outbreak known as the epidemiological triad. What are these three pieces?
+
+19. [frq, 4 pt] Besides an outbreak, what factors could cause a sudden increase in the number of cases of a specific disease reported? Your answer does not have to relate to this case described above, it could relate to any suspected outbreak. Explain two possible reasons.
+
+[STIMULUS] After surveying the students, you have concluded that the students contracted a food-borne disease. The following data was collected regarding the foods that the 27 sick students ate at the high school cafeteria during a 24 hour period prior to feeling ill and displaying symptoms. 462 students ate food from the cafeteria during the investigated time frame. Calculate the attack rates for each of the foods.
+    | Food Consumed | Number of ill students who consumed food | Number of healthy students who consumed food | Attack rate |
+    | Sloppy Joe | 3 | 104 | [[q:20-1]] |
+    | Chicken Salad Sandwich | 22 | 61 | [[q:20-2]] |
+    | Steamed Vegetables | 13 | 184 | [[q:20-3]] |
+    | Apple Slices | 14 | 156 | [[q:20-4]] |
+    | Snickerdoodle Cookie | 23 | 330 | [[q:20-5]] |
+    | Ham and Cheese Sandwich | 3 | 246 | [[q:20-6]] |
+
+20-1. [frq, 1 pt] Row: Sloppy Joe - Attack rate
+
+20-2. [frq, 1 pt] Row: Chicken Salad Sandwich - Attack rate
+
+20-3. [frq, 1 pt] Row: Steamed Vegetables - Attack rate
+
+20-4. [frq, 1 pt] Row: Apple Slices - Attack rate
+
+20-5. [frq, 1 pt] Row: Snickerdoodle Cookie - Attack rate
+
+20-6. [frq, 1 pt] Row: Ham and Cheese Sandwich - Attack rate
+
+22. [frq, 2 pt] What type of analytic study is being conducted in this outbreak?
+
+24. [frq, 4 pt] One important aspect of public health is prevention of the spread of disease. What are four different ways that a food-borne outbreak like this one could be avoided?
+
+[STIMULUS] Correctly identify the type of study based on the description below. Be specific.
+
+26a. [frq, 1 pt] A clinical trial – Human subjects randomly selected for testing
+
+26b. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific.
+    
+    Useful for rare diseases, subjects with the disease are studied for common exposures.
+
+26c. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific.
+    
+    One-time survey of a population, no follow-up.
+
+26d. [frq, 1 pt] Correctly identify the type of study based on the description below. Be specific.
+    
+    Studies a group based on a common exposure BEFORE the disease manifests
+
+27. [frq, 3 pt] What is the difference between bacteriostatic agents, bactericides, and sterilants?
+
+28. [frq, 4 pt] Briefly define and provide an example of the four levels of disease prevention: primary, secondary, tertiary, quaternary.
+
+[STIMULUS] You want to determine whether not a disease affects people of different ages at different rates. To do this, you sample 100 people from 5 age groups for the presence of the disease. The data is shown below:
+    [IMAGE: ../images/2019_captain_s_exchange_c__p9_c0792a-af589669.webp]
+    [IMAGE: ../images/2019_captain_s_exchange_c__p9_38eefc-f350892c.webp]
+
+29. [frq, 6 pt] Develop a null and alternative hypothesis, perform any relevant calculations, and use the chi-squared table included below to develop a conclusion
+    [IMAGE: ../images/2019_captain_s_exchange_c__p9_38eefc-f350892c.webp]
+
+[STIMULUS] Use the information below and your knowledge of food-borne illness to answer questions 30-32.
+
+In the beginning of 2017, 4 outbreaks of Salmonella were registered in the United States. Altogether 251 people were infected and 2 died. The source was identified to be contaminated Maradol papayas imported from 4 farms in different regions of Mexico, which is the largest exporter of fresh papayas to the US (65% of imports). In 2011, the FDA (Food and Drug Administration) introduced Import Alert 21-17, according to which papaya shipments from Mexico are tested for Salmonella at the border, and pass into the country only if they test negative. Positive shipments are detained, but if a firm exporting to the US tests negative in 5 consecutive shipments, it can request to be moved to the ''Green List'' of IA 21-17. This allows the shipment to enter the US without being tested.
+
+30. [frq, 2 pt] What is a possible reason for introducing IA 21-17?
+
+31. [frq, 2 pt] What is a possible source of contamination with Salmonella?
+
+32. [frq, 2 pt] IA 21-17 targets only raw fruit. Identify a reason why canned papaya would be safer to consume.
+
+[STIMULUS] Campylobacter and Salmonella are leading causes of bacterial gastroenteritis in the United States and are estimated to cause more than 1 million episodes of domestically acquired illness annually. Campylobacter and Salmonella are primarily transmitted through contaminated food, but animal-to-human and human-to-human transmission can also occur. Most people who become ill with campylobacteriosis get diarrhea, cramping, abdominal pain, and fever within two to five days after exposure to the organism. In people with compromised immune systems, Campylobacter occasionally spreads to the bloodstream and causes a serious life-threatening condition.
+
+Approximately 76 people with Campylobacter infections die each year. The most common species of the genus is Campylobacter jejuni, which are spiral-shaped gram-negative bacteria which grow optimally at 37 to 42 °C. This range of incubation temperatures is ideally suited for growth in birds, which have a body temperature of approximately 41 to 42 °C. Most people with salmonellosis develop diarrhea, fever, and abdominal cramps between 12 and 72 hours after infection. Salmonellosis can be fatal when infection spreads from the intestines to the bloodstream. Approximately 450 people die each year from salmonellosis in the United States. Salmonella are gram-negative, rod-shaped bacteria that can be divided into two species: S. enterica and S. bongori. There are more than 30 different serotypes of Salmonella; the most common serotypes are Salmonella Typherimurium, Enteriditis, Newport, and Javiana.
+
+33. [frq, 6 pt] Given the information above, who might you expect to be the most at risk for salmonellosis and campylobacteriosis?
+
+34. [numeric, 4 pt] What is the mortality rate of salmonellosis in the United States, expressed as deaths per 100,000 people? Assume that the population of the United States is 320 million, and express your answer to the nearest hundredth.
+
+35. [frq, 2 pt] What term is used to describe diseases that are spread from animals to humans?
+
+36. [frq, 4 pt] What is a serotype? How might different serotypes have different pathogenicities in human populations?

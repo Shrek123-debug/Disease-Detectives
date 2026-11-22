@@ -1,0 +1,268 @@
+University of Florida Regional — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  50 questions, 95.0 pts
+Source: scio.ly test archive id 9c82d361-16e9-4088-a57a-9a244ff0b712  |  original files: https://drive.google.com/drive/folders/1nuwz12RY_fROv3-9XLAbULxj1oM3gVsP
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+
+=== Part 1: Background and Surveillance ===
+
+[STIMULUS] A group of scientists and clinicians met to discuss the problem of HIV and tried to identify possible solutions. Antiretroviral therapy involves the use of medication to control the viral load in HIV patients, but the particular drug used can vary.
+
+1. [mcq, 1 pt] During what decade did the HIV epidemic start?
+    A) 1960's
+    B) 1970's
+    C) 1980's
+    D) 1990's
+
+[STIMULUS] Drug A is the current standard treatment that has very few side effects, while Drug B is a newly-developed treatment that has a slight increase in effectiveness but causes more side effects. Dr. Smith was supportive of Drug B because of its proven positive effect on viral load in HIV patients, while Dr. Bentley offered the counter-argument that it may not be a good candidate for a standard treatment due to its possible debilitating side effects. These side effects would increase the amount of time HIV patients would spend inpatient in hospitals, so the slight increase of effectiveness would not outweigh this added burden to the health care system. Therefore, Dr. Bentley believes that Drug A should remain the standard treatment.
+
+2. [mcq, 1 pt] Which doctor(s) is displaying the clinical approach to health?
+    A) Dr Smith
+    B) Dr. Bentley
+    C) Neither
+    D) Both
+
+3. [multi, 1 pt] Which of the following factors are NOT reasons that the majority of health resources utilize the clinical approach?
+    A) The motivation of symptoms and discomfort
+    B) Clinicans' desire to keep patients sick as job insurance
+    C) Sympathy for current disease victims
+    D) Significant insurance revenue that supports clinical health efforts
+    E) The lack of a sufficient forum to address public health issues
+
+4. [mcq, 1 pt] What is the BEST example of a specialized health field that focuses on a public health approach?
+    A) Cardiology
+    B) Nursing
+    C) Massage Therapist
+    D) Epidemiology
+
+5. [mcq, 1 pt] A research group is currently conducting a study to determine seasonality of the flu. This involves tracking the number of flu cases in the ER each month, and then graphing the data. What type of epidemiology is being used?
+    A) Analytic
+    B) Bacterial
+    C) Descriptive
+    D) Occupational
+
+6. [mcq, 1 pt] Who is considered the father of field epidemiology?
+    A) John Snow
+    B) William Farr
+    C) John Gaunt
+    D) Robert Koch
+
+7. [frq, 4 pt] Place the steps of the public health approach in order. Enter the four letters in order.
+    1. a. intervention evaluation
+    2. b. risk factor identification
+    3. c. implementation
+    4. d. surveillance
+
+[STIMULUS] Fill in the blanks:
+
+The CDC investigated reports of a strange, deadly illness in the city of Saint Paul. 120 patients under the age of 18 had been admitted to the hospital over the course of a week reporting high fevers, loss of balance, and hallucinations, with the first patient being admitted on January 10th. So far, 90 of the original 120 patients have died, giving a case-fatality ratio of (a)____. It has been determined that this is one of the deadliest (b)____ of a disease in Minnesota in recorded history.
+One elderly patient died as well. The timeline of her disease, pieced together by accounts from friends and family, is as follows: January 12th- visited granddaughter, who was sick at the time; January 15th- first began to complain of symptoms (now is in the stage of (c)____ disease); January 18th- admitted to hospital; January 19th- time of death. This means the incubation period of the disease is (d)____.
+Unfortunately, two infected patients took a flight from Saint Paul International Airport to Newark, bringing the disease with them. From there, the disease spread across the continental US. Mass panic has spread now that the disease has been classified as a/an (e)____. Efforts are being made to limit travel out of the US to avoid a worldwide (f)____.
+Clinicians and scientists began to study the disease in order to work towards a vaccine, recognizing this pathogen as a serious threat. Their first thought of an infectious agent was a/an (g)____, like that of Mad Cow Disease. However, they later realized that the infectious agent was not a living microorganism, so it was a/an (h)____.
+
+8-1. [frq, 1 pt] Blank 1: The CDC investigated reports of a strange, deadly illness in the city of Saint Paul. 120 patients under the age of 18 had been admitted to the hospital over the course of a week reporting high fevers, loss of balance, and hallucinations, with the first patient being admitted on January 10th. So far, 90 of the original 120 patients have died, giving a case-fatality ratio of (a)____. It has been determined that this is one of the deadliest (b)(…) of a disease in Minnesota in recorded history.
+
+8-2. [frq, 1 pt] Blank 2: The CDC investigated reports of a strange, deadly illness in the city of Saint Paul. 120 patients under the age of 18 had been admitted to the hospital over the course of a week reporting high fevers, loss of balance, and hallucinations, with the first patient being admitted on January 10th. So far, 90 of the original 120 patients have died, giving a case-fatality ratio of (a)(…). It has been determined that this is one of the deadliest (b)____ of a disease in Minnesota in recorded history.
+
+8-3. [frq, 1 pt] Blank 3: One elderly patient died as well. The timeline of her disease, pieced together by accounts from friends and family, is as follows: January 12th- visited granddaughter, who was sick at the time; January 15th- first began to complain of symptoms (now is in the stage of (c)____ disease); January 18th- admitted to hospital; January 19th- time of death. This means the incubation period of the disease is (d)(…).
+
+8-4. [frq, 1 pt] Blank 4: One elderly patient died as well. The timeline of her disease, pieced together by accounts from friends and family, is as follows: January 12th- visited granddaughter, who was sick at the time; January 15th- first began to complain of symptoms (now is in the stage of (c)(…) disease); January 18th- admitted to hospital; January 19th- time of death. This means the incubation period of the disease is (d)____.
+
+8-5. [frq, 1 pt] Blank 5: Unfortunately, two infected patients took a flight from Saint Paul International Airport to Newark, bringing the disease with them. From there, the disease spread across the continental US. Mass panic has spread now that the disease has been classified as a/an (e)____. Efforts are being made to limit travel out of the US to avoid a worldwide (f)(…).
+
+8-6. [frq, 1 pt] Blank 6: Unfortunately, two infected patients took a flight from Saint Paul International Airport to Newark, bringing the disease with them. From there, the disease spread across the continental US. Mass panic has spread now that the disease has been classified as a/an (e)(…). Efforts are being made to limit travel out of the US to avoid a worldwide (f)____.
+
+8-7. [frq, 1 pt] Blank 7: Clinicians and scientists began to study the disease in order to work towards a vaccine, recognizing this pathogen as a serious threat. Their first thought of an infectious agent was a/an (g)____, like that of Mad Cow Disease. However, they later realized that the infectious agent was not a living microorganism, so it was a/an (h)(…).
+
+8-8. [frq, 1 pt] Blank 8: Clinicians and scientists began to study the disease in order to work towards a vaccine, recognizing this pathogen as a serious threat. Their first thought of an infectious agent was a/an (g)(…), like that of Mad Cow Disease. However, they later realized that the infectious agent was not a living microorganism, so it was a/an (h)____.
+
+9. [mcq, 1 pt] What scientist made his mark on the field by mathematically evaluating mortality rates during a cholera outbreak in London?
+    A) John Snow
+    B) Robert Koch
+    C) John Gaunt
+    D) William Farr
+
+10. [mcq, 1 pt] Which of the following statistics would describe the virulence of a microorganism?
+    A) When exposed to E. coli strain O157:17, 60% of people will become sick.
+    B) Y. pestis causes severe illness and death in 100% of individuals if untreated.
+    C) 50% of the population is a carrier of S. aureus.
+    D) 25% of people exposed to tuberculosis will become infected.
+
+11. [mcq, 1 pt] What type of surveillance is it when absences from school are used to collect data on an outbreak?
+    A) Passive
+    B) Active
+    C) Sentinel
+    D) Syndromic
+
+12. [mcq, 1 pt] Out of a population of 1000 individuals, 100 are immunocompromised. During an outbreak of A. baumannii, a bacteria that infects exclusively immunocompromised individuals, 12 people are infected. In percent (%), what is the rate of infection?
+    A) 12%
+    B) 1.2%
+    C) 24%
+    D) 2.4%
+
+13. [mcq, 1 pt] The Stanford Three-Community study tested the link between media campaigns and what disease?
+    A) Influenza
+    B) HIV
+    C) Bacterial Meningitis
+    D) Cardiovascular
+
+14. [mcq, 1 pt] What are the three characteristic symptoms of Pellagra?
+    A) Dermatitis, Dementia, and Diarrhea
+    B) High blood pressure, Hypoglycemia, and Heart Disease
+    C) Fainting, Fatigue, and Fibrosis
+    D) Gangrene, Glycoprotease, and Gingivitis
+
+15. [mcq, 1 pt] According to the CDC, which of the following is the most influential health determinant?
+    A) Genetics
+    B) Health behaviors
+    C) Societal characteristics
+    D) Access to/quality of medical care
+
+16. [frq, 6 pt] List the six links in the chain of the infection.
+
+17. [tf, 1 pt] The links in the chain of infection have only one specific order of events, and this order can not change between different diseases.
+    A) True
+    B) False
+
+18. [mcq, 1 pt] 90% of those exposed to a particular disease develop symptoms associated with the illness. What characteristic does this statistic reflect?
+    A) Virulence
+    B) Infectivity
+    C) Strain
+    D) Pathogenicity
+
+19. [frq, 5 pt] Name the specific process of the 5-step process for public health surveillance that is associated with each of the following examples:
+    A. Pamphlets are passed out explaining the severity of an influenza outbreak to doctor's offices around the country.
+    B. Doctors report the number of influenza cases they treat to the CDC.
+    C. Influenza outbreak hotspots are identified based on data collected.
+    D. A vaccination campaign is run to encourage health in the population.
+    E. A "patient zero" is determined based on the data of influenza hotspots.
+
+
+=== Part 2: Outbreak Investigation ===
+
+[STIMULUS] Work through the following case study and answer questions 21-38:
+An epidemiologist at the CDC has been assigned to an outbreak investigation of cholera in Southern Texas. One child and twelve elderly adults have already died, and the outbreak is only continuing to worsen.
+
+21. [mcq, 2 pt] Which of the following is NOT a task the CDC employee should complete to prepare for field work?
+    A) Book a plane ticket to the nearest airport in Texas
+    B) Collect proper safety gear
+    C) Research cholera for background knowledge
+    D) Take immune supplements to avoid infection
+
+[STIMULUS] Upon arrival in Texas, the epidemiologist meets up with the team of investigators already in Texas. They claim to have already established the existence of an outbreak of cholera.
+
+22. [mcq, 2 pt] What is one way in which the investigators may have established the existence of an outbreak?
+    A) Diagnosing individuals with the disease in a clinical setting due to positive test results
+    B) Examining past birth, death, and hospital records for past data on cholera
+    C) Interviewing affected individuals
+    D) Comparing this outbreak to an outbreak in Paris the previous year
+
+[STIMULUS] The team's next task is to verify the diagnosis and create a working case definition.
+
+23. [mcq, 2 pt] Which of the following does NOT contribute towards verification of the diagnosis?
+    A) Double-checking diagnostic procedures and laboratory methods
+    B) Interview persons who got the disease
+    C) Comparing observed disease symptoms to those of the literature
+    D) Commonality
+
+24. [frq, 8 pt] List the four necessary components of a working case definition:
+
+[STIMULUS] The team from the CDC has found one potential origin of the cholera outbreak, but they still need more information to rule out other factors. They begin to review the cases systematically, going over each case and discerning all relevant information. They determine that most cases were found in the elderly and the young, and they have associated this data with each specific person. Nearly all infected with cholera had drank water sourced from a local river. The hospital where all these cases were treated also sent all relevant information about diagnoses/clinical outcomes, and the epidemiologists were sure to collect the contact information for the hospital as well.
+
+25. [mcq, 2 pt] When working through cases systematically, which type of information is another name for "person information?"
+    A) Identifying
+    B) Demographic
+    C) Clinical
+    D) Risk Factor
+
+26. [mcq, 2 pt] Which piece of information would be considered reporter information?
+    A) Contact information for the local news
+    B) Information provided by the local media
+    C) Clinical reports from the hospital
+    D) Contact information for the hospital
+
+27. [mcq, 2 pt] The ages of the patients (mostly the young and elderly) pertains to which type of information?
+    A) Risk Factor
+    B) Identifying
+    C) Clinical
+    D) Demographic
+
+28. [mcq, 2 pt] What would be the most appropriate graph to identify the place?
+    A) Spot Map
+    B) Epi Curve
+    C) Histogram of Geographical Distribution
+    D) Scatterplot
+
+[STIMULUS] Use the graph the epidemiologist created below to answer questions 29-32:
+
+(Source: CDC)
+    [IMAGE: ../images/2019_university_of_florida_regional__p7_fbd80f-8341ce4c.webp]
+
+29. [mcq, 2 pt] What type of source would this graph imply?
+    A) Single
+    B) Continuous Common
+    C) Person-to-Person
+    D) Elevated
+
+30. [frq, 3 pt] Explain in one sentence what aspect of the graph explains your answer to question 29. Only the first sentence of your answer will be graded.
+
+31. [mcq, 2 pt] What aspect of the outbreak is this graph designed to show?
+    A) Incubation Period
+    B) Time
+    C) Severity
+    D) Place
+
+32. [mcq, 2 pt] Which of the following COULD be the incubation time for the illness?
+    A) 2 days
+    B) 4 days
+    C) 6 days
+    D) 8 days
+
+[STIMULUS] The epidemiologists develop a hypothesis that the patients were infected due to the water from the river. They created the following table to test this:
+    |  | Disease Yes | Disease No |
+    | Drank from River | 20 | 80 |
+    | Did not Drink from river | 20 | 60 |
+
+36. [frq, 2 pt] Relative risk is used only in what type of study?
+
+37. [frq, 2 pt] In what type of study would the odds ratio typically be used instead?
+
+
+=== Part 3: Patterns, Control, and Prevention ===
+
+42. [mcq, 1 pt] Which of the following diseases can NOT currently be controlled with immunization?
+    A) Poliomyelitis
+    B) Whooping Cough
+    C) Norovirus
+    D) Tuberculosis
+
+43. [frq, 2 pt] In one sentence, describe the difference between isolation and quarantine regarding disease control/prevention.
+
+44. [frq, 2 pt] In one sentence, describe the difference between incidence and prevalence.
+
+[STIMULUS] In an outbreak of a disease, 50 people become infected on Main St, and 25 people are infected on each of 2nd Ave and Winter Lane. There are 1000 people total in the town who are at risk of the disease.
+
+46. [numeric, 2 pt] Calculate the incidence rate for this outbreak.
+
+50. [frq, 3 pt] In one sentence, explain the differences between eradication, elimination, and extinction.
+
+51. [frq, 2 pt] Due to fear of smallpox being used as a weapon against a population naïve to the virus, vials of it are kept in two labs around the world. Which of the three terms from above best describes this scenario?
+
+52. [mcq, 2 pt] Hand-washing would be a control method regarding which of the following?
+    A) Susceptible host
+    B) Personal hygiene
+    C) Individual behaviors
+    D) Mode of transmission
+
+53. [frq, 2 pt] What level of prevention best describes the recommendation of a regular colonoscopy for patients age 50 and above?
+
+54. [mcq, 3 pt] Which of the following factors contributes the LEAST to health disparity?
+    A) Genetics/biological factors
+    B) Access to care
+    C) Material resources
+    D) Personal lifestyle choices/behaviors
+
+55. [mcq, 3 pt] During which of the following periods is it LEAST important to disinfect to prevent the spread of disease?
+    A) After patient death
+    B) While patient is sick/suffering from the illness
+    C) After recovery
+    D) Before anybody contracts the illness

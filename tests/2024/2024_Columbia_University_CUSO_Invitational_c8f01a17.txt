@@ -1,0 +1,403 @@
+Columbia University (CUSO) Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  44 questions, 98.0 pts
+Source: scio.ly test archive id c8f01a17-6256-416b-92fb-02e31168da5b  |  original files: https://drive.google.com/drive/folders/15oJshOCQmT-kuPleEQh862FIt3_7ljze
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+
+=== I. Section One: Matching and Multiple Choice ===
+
+[STIMULUS] For each of the following questions, select all that apply.
+
+P1-1. [multi, 2 pt] A sick animal can be a
+    A) vector
+    B) fomite
+    C) host
+    D) reservoir
+    E) zoonosis
+
+P1-2. [multi, 2 pt] Outbreak prevention techniques might include
+    A) washing all produce before consumption
+    B) controlling pest populations
+    C) school-based health education initiatives
+    D) vaccination programs
+    E) waste-water testing
+
+P1-3. [multi, 2 pt] Roles of the CDC include:
+    A) coordinating with local health providers
+    B) funding the development of new medications and treatments
+    C) regulating novel medications and treatments
+    D) declaring a pandemic
+    E) issuing warnings in response to foodborne illness outbreaks
+
+[STIMULUS] Matching:
+Choose a word from the word bank to fill in the blank. A word may be used more than once. Source: CDC Glossary
+Applied Epidemiology,
+Analytical Epidemiology,
+Zoonosis,
+Paired T Test,
+Secondary Attack Rate,
+Odds Ratio,
+Relative Risk,
+Confounding Variable,
+Survivorship Bias,
+Attrition Bias,
+Virus,
+Mantel-Haensztel Test,
+Specificity,
+Sensitivity,
+Virulence,
+Infectivity,
+Pathogenicity,
+Surveillance,
+Cluster,
+Outbreak,
+Endemic,
+Epidemic,
+Pandemic
+
+P1-4. [frq, 1 pt] ____ is a type of selection bias sometimes observed in clinical trials.
+
+P1-5. [mcq, 1 pt] ____ searches for health-related cause and effect relationships.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-6. [frq, 1 pt] Rabies, a ____, affects the nervous system.
+
+P1-7. [mcq, 1 pt] A ____ is an aggregation of cases that does not necessarily exceed a baseline.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-8. [mcq, 1 pt] ____ of a disease is the proportion of individuals with clinical disease who become seriously ill or die.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-9. [mcq, 1 pt] ____ can be associated with the proportion of false negatives.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-10. [mcq, 1 pt] ____ of a disease is the proportion of those exposed to its causative agent who become infected.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-11. [mcq, 1 pt] ____ addresses public health issues
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-12. [mcq, 1 pt] ____ is associated with the proportion of false positives.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+P1-13. [mcq, 1 pt] ____ measures the incidence of cases in contacts of known cases.
+    A) Applied Epidemiology
+    B) Analytical Epidemiology
+    C) Zoonosis
+    D) Paired T Test
+    E) Secondary Attack Rate
+    F) Odds Ratio
+    G) Relative Risk
+    H) Confounding Variable
+    I) Survivorship Bias
+    J) Attrition Bias
+    K) Virus
+    L) Mantel-Haensztel Test
+    M) Specificity
+    N) Sensitivity
+    O) Virulence
+    P) Infectivity
+    Q) Pathogenicity
+    R) Surveillance
+    S) Cluster
+    T) Outbreak
+    U) Endemic
+    V) Epidemic
+    W) Pandemic
+
+[STIMULUS] True or False:
+
+P1-14. [tf, 1 pt] A comb infested with lice is an example of a vector.
+    A) True
+    B) False
+
+P1-15. [tf, 1 pt] An example of a primary prevention strategy is getting vaccinated.
+    A) True
+    B) False
+
+P1-16. [tf, 1 pt] An increase in food poisoning cases in NYC is considered an epidemic.
+    A) True
+    B) False
+
+P1-17. [tf, 1 pt] The natural history of a disease refers to its historical impacts on the population.
+    A) True
+    B) False
+
+P1-18. [tf, 1 pt] The time between being exposed to a COVID-19 and the onset of symptoms is known as the incubation period.
+    A) True
+    B) False
+
+P1-19. [tf, 1 pt] A person can be a reservoir for a disease.
+    A) True
+    B) False
+
+P1-20. [tf, 1 pt] Sentinel surveillance can be active or passive.
+    A) True
+    B) False
+
+P1-21. [tf, 1 pt] Some of the 13 steps of an outbreak investigation may be done at the same time.
+    A) True
+    B) False
+
+
+=== II. Section Two: Case Study One ===
+
+[STIMULUS] This section concerns an E. coli outbreak investigated by the FDA, USDA, and CDC in 2022. 109 people from 6 states were reported to be infected with the outbreak strain of E. coli O157:H7.
+
+Questions 1 to 3 refer to the following graph.
+    [IMAGE: ../images/2024_columbia_university_cuso_invitational_c__p3_97b50e-89bce437.webp]
+
+P4-1. [frq, 1 pt] What type of graph is this?
+
+P4-2. [frq, 1 pt] When was the first reported case?
+
+P4-3. [mcq, 1 pt] Which best describes the type of epidemic, according to the graph?
+    A) point source
+    B) continuous common source
+    C) propagated source
+    D) intermittent source
+
+P4-4. [frq, 2 pt] Public health investigators used the PulseNet system to help investigate the outbreak. What is PulseNet and why is it useful?
+
+P4-9. [frq, 3 pt] List 3 ways to prevent the spread of E. coli.
+
+[STIMULUS] In one county in eastern Texas, a rise in gastrointestinal illness was observed in early January. Unlike the E. coli. outbreak shown above, the number of new cases reported daily in the county has continued to remain roughly steady over the last four weeks. New daily cases hit an all time high of 65 new cases reported yesterday.
+
+P4-10. [frq, 2 pt] Hypothesize the mode of transmission of the agent causing this outbreak of gastrointestinal illness.
+
+
+=== III. Section Three: Case Study Two ===
+
+[STIMULUS] Staff at the Creekside, California convention center have fallen ill. Out of caution, local public health officials have reached out to the 13 staff members and over 600 individuals registered for events that took place at the venue in the last fifteen days. The following line listing table resulted (1-3 D means was present at the convention center 1-3 days ago and so on, Hotel means stayed at the affiliated hotel).
+    | Staff | 1-3 D | 4-6 D | 7-9 D | 10-12 D | 13-15 D | Hotel | Fever | Nausea | Dry Cough | Age |
+    | Yes | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ | 50 |
+    | No |  |  |  | ✓ |  | ✓ | ✓ |  |  | 43 |
+    | No |  |  | ✓ |  |  | ✓ |  |  |  | 28 |
+    | No |  |  |  |  | ✓ |  | ✓ | ✓ | ✓ | 55 |
+    | Yes | ✓ | ✓ |  | ✓ | ✓ |  | ✓ |  |  | 32 |
+    | Yes | ✓ | ✓ | ✓ |  |  |  |  |  |  | 24 |
+    | No |  |  |  |  | ✓ | ✓ | ✓ |  |  | 46 |
+    | Yes | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |  | ✓ | 63 |
+    | No |  | ✓ |  |  |  | ✓ |  |  |  | 35 |
+    | Yes | ✓ | ✓ | ✓ |  | ✓ |  | ✓ | ✓ | ✓ | 56 |
+    | Yes | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |  |  | 81 |
+    | Yes | ✓ | ✓ |  | ✓ | ✓ |  | ✓ |  | ✓ | 42 |
+    | Yes | ✓ |  | ✓ | ✓ | ✓ |  | ✓ | ✓ |  | 49 |
+    | No |  |  |  | ✓ |  | ✓ | ✓ |  |  | 65 |
+    | Yes | ✓ | ✓ | ✓ |  |  |  | ✓ | ✓ | ✓ | 47 |
+    | Yes |  | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ | 59 |
+    | Yes | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |  |  | 27 |
+    | Yes | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ |  | 46 |
+    | Yes | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ | ✓ | ✓ | 51 |
+
+P5-2. [frq, 3 pt] What type of study is being conducted? Based on your response, what key statistic could you calculate from contingency tables built from the line listing?
+
+P5-3. [frq, 4 pt] Out of 600 individuals that visited the convention center at some point in the last fifteen days, only 27 chose to respond. Among all respondents, many chose not to report their health status, age and other demographic information like legal sex, occupation, or ethnicity, and were not included in the line listing above. Discuss at least two implications of the response rate and response completeness.
+
+[STIMULUS] Oh no! The center is kept shut for a few days due to a lack of healthy staff and public health concerns. A health inspector visits the convention center and finds visible signs of rodent infestation in both staff office spaces and multiple hallways in the hotel. Concurrently, the city begins reporting a massive rise in local COVID-19 case numbers - to the point of a test shortage! Local epidemiologists have two theories - HPS and COVID-19.
+
+P5-6. [frq, 2 pt] Why might HPS be reported more frequently in the spring and summer? Should it be ruled out based on the time of year?
+
+P5-7. [frq, 4 pt] Ill staff report that some individuals in their household are exhibiting similar symptoms to themselves. Non-staff visitors to the convention center and hotel do not report the same finding. Based on this information, should the individuals reporting symptoms be isolated? Explain using details from the line listing and what you know about how COVID-19 and HPS spread.
+
+P5-8. [frq, 3 pt] You are responsible for launching a public health initiative to better reach those potentially affected by the illness at the convention center. Which groups might you reach out to? Name one way you might increase participation and one difficulty that might arise.
+
+P5-9. [frq, 2 pt] Give one example each of primary and secondary prevention for HPS.
+
+P5-10. [frq, 4 pt] HPS and hantavirus are two separate but related conditions. Provide two additional examples of illnesses with a similar relationship.
+
+
+=== I. Section Four: Case Study Three ===
+
+[STIMULUS] According to the CDC, nearly half of the global population lives in areas with some risk of dengue viruses. Dengue is spread to humans by infected Aedes mosquitoes and can be endemic to regions where these mosquito species are common. Epidemiologists and applied mathematicians have created models that attempt to measure the R₀ value for dengue fever¹.
+
+1 Jafaruddin, Indratno SW, Nuraini N, Supriatna AK, Soewono E. Estimation of the Basic Reproductive Ratio for Dengue Fever at the Take-Off Period of Dengue Infection. Comput Math Methods Med. 2015;2015:206131. doi: 10.1155/2015/206131. Epub 2015 Aug 25. PMID: 26413140; PMCID: PMC4561940.
+
+P6-1. [frq, 2 pt] Define R₀, the basic reproductive ratio.
+
+P6-2. [frq, 5 pt] Explain what the R₀ value means in the context of dengue. Why might it be difficult to estimate from observation alone?
+
+P6-3. [frq, 3 pt] Do you expect the R₀ value of dengue to vary by location or remain roughly constant globally?
+
+P6-4. [frq, 2 pt] Define R, the effective reproductive ratio.
+
+P6-5. [frq, 5 pt] Do you expect the value of R for dengue fever to be constant globally? If not, provide examples of values you would expect in locations based on dengue prevalence.
+
+[STIMULUS] A vaccine exists for children living in areas of high dengue prevalence. It is approved for use in children of certain ages with a proven history of prior infection. You hope to obtain approval for a vaccine you have designed for anyone visiting or inhabiting regions of dengue risk.
+
+P6-6. [frq, 3 pt] List the major steps in the approval process for a vaccination.
+
+[STIMULUS] Your vaccine is not approved. Instead, you decide to target dengue rates through mosquito population control measures. 10,000 individuals were regularly tested in the summer of 2023 and, if they contracted dengue, the particular strain of dengue was identified. You spend the spring of 2024 implementing your mosquito control program and then conduct the same study in the summer of 2024, following another 10,000 individuals in the same region. The data is compiled in Table Two.
+
+**Table Two:**
+
+|  | Cases in Summer 2023 | Cases in Summer 2024 |
+|---|---|---|
+| Dengue Strain One | 14 | 109 |
+| Dengue Strain Two | 37 | 3 |
+| Dengue Strain Three | 182 | 8 |
+| Dengue Strain Four | 5 | 2 |
+
+P6-7. [frq, 3 pt] You want to gauge the efficacy of your dengue reduction program. State the null and alternative hypothesis you will use.
+
+P6-8. [frq, 12 pt] Determine whether you should reject your null hypothesis using a chi-square test and the table given below.²
+    [IMAGE: ../images/2024_columbia_university_cuso_invitational_c__p18_c5af49b-42d89126.webp]
+
+[STIMULUS] Oh no! You find out that the tests you performed for dengue have a high specificity (99.998%) but a relatively low sensitivity (80%)
+
+P6-9. [frq, 2 pt] What does this mean in terms of false positives and negatives?
+
+P6-10. [frq, 5 pt] Assume that the true population rate of dengue in the summer of 2023 was 3.6%. Please find the likelihood that an individual in the summer 2023 study group that tested negative for dengue on a particular day was in fact not infected.

@@ -1,0 +1,129 @@
+SOLVI/Las Vegas/Clark — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  38 questions, 100.0 pts
+Source: scio.ly test archive id 8859a2ee-1dc0-4f83-a3b3-0a0b1adf3964  |  original files: https://drive.google.com/drive/folders/1e-pCX9f68X39sIKsOgKG98Qwj8ntInJj
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: This test is split into two sections with each section focusing on a different disease.
+
+Important regarding questions with calculations. Showing work is not required; full credit is given for providing just the correct answer. However, partial credit will be given for showing correct work. Providing only an answer that is incorrect will receive no credit. Round numerical answers as specified. If not specified, round percentages to the nearest tenth of a percent and people per 100,000 to the nearest person.
+
+Tiebreakers. There are 9 tiebreaker questions marked with an asterisk, and the order will be listed in the exam.
+
+Order of tiebreakers: 37, 7, 20, 36, 14, 9, 25, 22, 27
+
+
+=== Part One: Influenza ===
+
+[STIMULUS] Below is information from the Centers of Disease Control and Prevention regarding influenza.
+
+Influenza (flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness. Serious outcomes of flu infection can result in hospitalization or death. Some people, such as older people, young children, and people with certain health conditions, are at high risk of serious flu complications. There are two main types of influenza (flu) virus: Types A and B. The influenza A and B viruses that routinely spread in people (human influenza viruses) are responsible for seasonal flu epidemics each year.
+
+1. [frq, 3 pt] Describe the causation of influenza in terms of the epidemiological triad.
+
+2. [frq, 2 pt] In the United States, influenza epidemics occur seasonally, but certain tropical areas of the world face ____ influenza circulation at a constant level.
+
+3. [multi, 2 pt] Which of the following components of a flu season represent components that define an epidemic?
+    A) The epidemic is caused by a virus.
+    B) The epidemic involves a large number of people in a certain geographic area.
+    C) The epidemic involves a constant number of people.
+    D) The epidemic reports more cases than expected.
+    E) The epidemic occurs abruptly.
+    F) The epidemic occurs over a relatively large geographic area.
+
+4. [frq, 2 pt] List the 5 steps in the process of surveillance.
+
+5. [frq, 2 pt] A health care provider reports cases of influenza-like illness (ILI) to the local health department. Since the reporting was initiated by the health care provider, it would be considered ____ surveillance.
+
+6. [frq, 3 pt] What are advantages and disadvantages of the type of surveillance described in the previous question?
+
+7. [frq, 2 pt] *A health department decides to analyze data on health-related absenteeism in the workplace and in schools to make predictions about the current flu season. What type of surveillance is this?
+
+8. [frq, 4 pt] The surveillance described in the previous question provides no information regarding the type of illness causing people to be absent from work and school. Why is the information on absenteeism still considered useful for surveilling influenza?
+
+[STIMULUS] Use the map below to answer questions.
+    [IMAGE: ../images/2021_solvi_las_vegas_clark_c__p4_95f9e7-9004ed90.webp]
+
+9. [frq, 2 pt] *What type of map is this?
+
+10. [frq, 3 pt] What are the limitations of this type of map?
+
+11. [frq, 1 pt] Which component of the descriptive epidemiology triad is being addressed with this map?
+
+12. [frq, 2 pt] What information is required to confirm a case of an illness?
+
+[STIMULUS] The table below gives information about Test A, a test that was used to screen 1000 people for influenza.
+    | Test A | Has influenza | Does not have influenza | Total |
+    | Tested Positive | 71 |  | 441 |
+    | Tested Negative |  | 554 |  |
+    | Total |  |  | 1000 |
+
+13. [numeric, 2 pt] Among the people tested, how many people actually have influenza?
+
+14. [frq, 3 pt] *What is the sensitivity of Test A? What does it mean?
+
+15. [numeric, 2 pt] How many people tested positive but did not actually have influenza?
+
+16. [numeric, 2 pt] What was the specificity of Test A?
+
+[STIMULUS] Another influenza test (Test B) has a sensitivity of 67.7%. In a screening of 1000 people, 63 of those people had influenza and tested positive. In total, 895 people tested negative.
+
+17. [numeric, 2 pt] What is the prevalence of influenza in this population? Give answer as people per 100,000.
+
+18. [numeric, 2 pt] What is the specificity of this test?
+
+19. [numeric, 2 pt] How many people tested positive with Test B?
+
+20. [frq, 3 pt] *What percentage of people that tested negative actually did not have influenza? What is this percentage called?
+
+21. [frq, 6 pt] Which test, Test A or Test B, would be better to use, especially for influenza? Explain why.
+
+22. [frq, 1 pt] *On average, a person infected with influenza will infect around 1.5 other people. What is this statistic called?
+
+23. [multi, 1 pt] Once a person is infected and recovers, they are less susceptible to being re-infected with influenza. Which of the following describe this type of immunity?
+    A) Active immunity
+    B) Passive immunity
+    C) Natural immunity
+    D) Artificial immunity
+
+24. [frq, 3 pt] Despite not being as contagious as other diseases, why does influenza continue to be an epidemic illness?
+
+25. [numeric, 3 pt] *What percentage of people must be vaccinated in order to establish herd immunity if a vaccine is 100% effective (using information from question 22)?
+
+26. [multi, 1 pt] Which of the following describes the type of immunity granted by a vaccination?
+    A) Active immunity
+    B) Passive immunity
+    C) Natural immunity
+    D) Artificial immunity
+
+27. [numeric, 3 pt] *What percentage of people must be vaccinated if the vaccine is only 90% effective?
+
+28. [frq, 4 pt] What is herd immunity, and how does it work?
+
+29. [frq, 3 pt] A vaccination would be an example of what type of prevention? Explain.
+
+
+=== Part 2: Smoking and Lung Cancer ===
+
+[STIMULUS] 649 male patients and 60 female patients with lung cancer from several hospitals were enrolled into a study, along with an equal number of control patients (who had disease other than cancer). Each patient provided information about their smoking history. The table below shows information about these patients.
+    |  | Smokers | Nonsmokers |
+    | Males - Lung cancer cases | 647 | 2 |
+    | Males - Controls | 622 | 27 |
+    | Females - Lung cancer cases | 41 | 19 |
+    | Females - Controls | 28 | 32 |
+
+30. [frq, 2 pt] What type of study is being described here?
+
+31. [frq, 3 pt] Explain the difference between relative risk and odds ratio.
+
+32. [frq, 2 pt] Which statistic should you use to quantify the strength of association between smoking and lung cancer with the information given in the study?
+
+33. [frq, 5 pt] Calculate the statistic you named in the previous question for the males in the study (to the nearest tenth). Describe what this statistic tells you.
+
+34. [numeric, 3 pt] Calculate the statistic for the females in the study (to the nearest tenth).
+
+35. [numeric, 3 pt] Using your answer from the previous question, calculate the percent of the risk of developing lung cancer for females that can be attributed to smoking.
+
+36. [frq, 3 pt] The association between smoking and lung cancer for males in the study was found to have a p-value of 0.00000064. What does this mean?
+
+37. [frq, 3 pt] The association between smoking and lung cancer for females in the study was found to have a greater p-value of 0.016. Explain why the p-value was greater than that of the males.
+
+38. [frq, 5 pt] It was observed that a greater proportion of lung cancer cases were from rural areas than of controls. Consumption of tobacco was also known to be less in rural areas than in urban areas. In this study, would place of residence (rural or urban) be considered a confounding variable? Explain why or why not.

@@ -1,0 +1,138 @@
+University of Texas at Austin Regional — Disease Detectives  |  Season 2020  |  Division C  |  Time limit 50 min  |  35 questions, 86.0 pts
+Source: scio.ly test archive id 98d9ea40-6808-41f0-b9cd-fd143066b99a  |  original files: https://drive.google.com/drive/folders/11NvL0LMkxKgsFh21Ul4RwAgbhsmJpda0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 6
+
+DIRECTIONS: Notes:
+• Please show all work and indicate units as necessary.
+• There will be no penalty for guessing.
+
+Good luck!
+
+2. [frq, 2 pt] Describe the difference between an experiment and an observational study.
+
+3. [frq, 4 pt] Describe the difference between a descriptive observational study and an analytic observational study and provide one (1) example of each.
+
+4. [frq, 3 pt] Describe the chain of infection.
+
+[STIMULUS] For each of the following examples, name the type of surveillance in action.
+
+5a. [frq, 2 pt] A doctor’s office reports a new case of pertussis to the Texas Department of State Health Services.
+
+5b. [frq, 2 pt] After receiving a case report of pertussis, health officials contact healthcare facilities for additional cases.
+
+5c. [frq, 2 pt] A network of hospitals selected based on their high-quality laboratory facilities and staff collect data on disease caused by meningococcus.
+
+5d. [frq, 2 pt] Through the National Notifiable Diseases Surveillance System (NNDSS), it is mandated that cases of specified diseases are reported to health departments.
+
+5e. [frq, 2 pt] Pharmacies across the city notice a spike in acetaminophen and ibuprofen purchases during the flu season and report this to the local health department.
+
+[STIMULUS] In each of the following examples, name the level of prevention being employed.
+
+6a. [frq, 1 pt] It is recommended for men over 50 to get prostate exams.
+
+6b. [frq, 1 pt] Chronic disease management programs are available for those with diabetes.
+
+6c. [frq, 1 pt] Chemotherapy is used to treat patients with cancer.
+
+6d. [frq, 1 pt] Regular blood pressure testing is performed at doctor checkups.
+
+6e. [frq, 1 pt] State laws establish vaccination requirements for school children.
+
+6f. [frq, 1 pt] The purchase of alcohol is banned for those under the age of 21.
+
+[STIMULUS] For each of the following scenarios, name the type of bias that is most relevant.
+
+7a. [frq, 2 pt] In an experiment testing the effectiveness of a new weight loss program, those who were more overweight were more likely to become discouraged and drop out of the program.
+
+7b. [frq, 2 pt] Due to new screening techniques that allow breast cancer to be detected earlier, its five-year survival rate appears to increase.
+
+7c. [frq, 2 pt] In a case-control study to find the source of an E. coli outbreak, those who got sick had a more vivid memory about what they ate in the previous week.
+
+7d. [frq, 2 pt] People who feel strongly about an issue are more likely to complete a phone questionnaire about it.
+
+7e. [frq, 2 pt] No association is found between arsenic exposure and respiratory disease when comparing construction workers with the general population because those with respiratory disease are not employed as construction workers.
+
+[STIMULUS] 13 cases of Longhorn Fever have been reported in Houston, Texas. The average incubation period for this disease is 28-30 days.
+    | Case | Age | Sex | Date of Onset | Date of Diagnosis |
+    | 1 | 29 | F | Feb. 1, 2017 | Feb. 14, 2017 |
+    | 2 | 32 | M | Feb. 2, 2017 | Feb. 14, 2017 |
+    | 3 | 20 | F | Feb. 9, 2017 | Feb. 27, 2017 |
+    | 4 | 18 | F | Feb. 9, 2017 | Feb. 24, 2017 |
+    | 5 | 30 | F | Feb. 11, 2017 | Feb. 28, 2017 |
+    | 6 | 29 | M | Feb. 13, 2017 | Feb. 20, 2017 |
+    | 7 | 31 | M | Feb. 14, 2017 | Feb. 21, 2017 |
+    | 8 | 48 | F | Feb. 16, 2017 | Feb. 28, 2017 |
+    | 9 | 29 | M | Feb. 19, 2017 | Feb. 28, 2017 |
+    | 10 | 27 | M | Feb. 20, 2017 | Feb. 28, 2017 |
+    | 11 | 19 | F | Feb. 23, 2017 | Mar. 2, 2017 |
+    | 12 | 20 | M | Feb. 25, 2017 | Mar. 8, 2017 |
+    | 13 | 22 | M | Mar. 2, 2017 | Mar. 9, 2017 |
+
+10. [frq, 6 pt] Name three (3) factors that could be responsible for a delay between onset and diagnosis of a disease.
+
+[STIMULUS] 
+
+Adapted from:
+**Successive Norovirus Outbreaks at an Event Center — Nebraska, October–November, 2017**
+Weekly / July 19, 2019 / 68(28);627–630
+http://dx.doi.org/10.15585/mmwr.mm6828a2
+
+On October 30, 2017, public health officials became aware of approximately 30 persons who developed gastrointestinal illness after attending a wedding reception (event 1) on October 27 at facility A. Norovirus was suspected based on ill attendees’ reports of developing diarrhea, vomiting, abdominal cramps, and fever approximately 12–48 hours after the event. On November 6, investigators learned of similar gastrointestinal illness among attendees at five subsequent facility A events (events 2–6), at which point an Internet-based questionnaire that assessed symptom history, events attended, and food items consumed was developed. E-mail addresses for facility A employees were provided by facility management. Investigators worked with event organizers to disseminate the questionnaire to attendees of the first six events held at facility A during the investigation period, as well as four subsequent events that were also ultimately affected by the outbreak.
+
+14. [frq, 4 pt] Provide a case definition for norovirus at event 1.
+
+[STIMULUS] Health officials determined 159 people who reported illness meeting the probable or confirmed case definition and 186 controls, then interviewed them for their food consumption at facility A. Comparison of the food items was limited because the only items available at all nine events were water, ice, and drink garnishes.
+
+| Food Item Consumed | Cases (n = 159) | Controls (n = 186) |
+|---|---|---|
+| Water | 150 | 182 |
+| Ice | 142 | 155 |
+| Lemon | 82 | 120 |
+| Mint | 53 | 44 |
+| Cucumber | 39 | 42 |
+
+16. [frq, 3 pt] Create a 2 x 2 table comparing cases and controls who did and did not eat mint.
+
+17. [frq, 3 pt] Calculate the appropriate measure of association for mint.
+
+18. [frq, 2 pt] Interpret the calculation you obtained in the previous question.
+
+19. [frq, 3 pt] The 95% confidence interval for mint is 0.9-2.3. What does this indicate?
+
+20. [frq, 2 pt] Based on the interviews with case-patients and controls, health officials concluded that no food item was significantly associated with the illness. What does this indicate about the norovirus outbreak?
+
+[STIMULUS] The investigation uncovered a witnessed episode of vomiting in a public area near the event space by an event attendee. The episode occurred at the beginning of the October 27 event (event 1) on carpeting in the lobby at the entrance to the event hall and might have represented the initial introduction of norovirus into facility A. The carpeting where vomiting had been swept with a vacuum cleaner and inadequately sanitized; the agent used did not have efficacy against norovirus. Investigators subsequently learned of an employee who left work when she became ill at 10:00 a.m. on November 7, with nausea, vomiting, fever, headache, and myalgias, and returned to work preparing and serving food on November 8, <24 hours later.
+
+21. [frq, 2 pt] Based on the above information, what was the likely mode of transmission of norovirus in this outbreak?
+
+22. [frq, 4 pt] Provide two (2) ways that the spread of norovirus could have been limited in this situation based on the provided information.
+
+[STIMULUS] 
+
+Adapted from:
+**Proficiency Testing of Viral Marker Screening in African Blood Centers — Seven African Countries, 2017**
+Weekly / October 25, 2019 / 68(42);947–952
+http://dx.doi.org/10.15585/mmwr.mm6842a3
+
+Following substantial investments in national blood transfusion service (NBTS) laboratories, in 2017 investigators tested proficiency at 84 blood center laboratories (29 NBTS and 55 non-NBTS) in seven African countries: Ghana, Kenya, Malawi, Mozambique, Nigeria, Rwanda, and Tanzania. A stratified sampling strategy targeting all NBTS laboratories and 10 non-NBTS laboratories per country (except Rwanda which has no non-NBTS laboratories) was used. Within each country, all non-NBTS laboratories were sorted by number of blood units tested annually, and five laboratories were chosen randomly from strata above and below the median.
+
+Panels of 25 challenge specimens were prepared and characterized by the Institut National de la Transfusion Sanguine (Paris, France). Each panel included seven negative controls; seven specimens that contained HIV antigen and anti-HIV antibody; six specimens containing hepatitis B surface antigen (confirmed by neutralization assay and quantified) (HBV-positive samples); and five specimens that contained HCV RNA and anti-HCV antibody (HCV-positive samples). The panels were confirmed to match their labels, coded to allow for blinded testing, and sent to national coordinators who distributed them to participating laboratories while maintaining the cold chain.
+
+The blinded panel of 25 plasma samples was shipped to each participating laboratory for testing with their usual protocols based on rapid diagnostic tests (RDTs) and third and fourth generation enzyme immunoassays (EIA-3 and EIA-4). EIA-3 detects antibody or antigen and EIA-4 detects both antigen and antibody. Laboratories tested each challenge specimen in the panel using three assays, each designed to detect infection with HIV, HBV, or HCV, and reported findings for each assay. The primary study outcome was classification of each assay finding as correct or incorrect relative to each specimen’s true infection status; classification was done at the unblinded data analysis center.
+
+23. [frq, 2 pt] Describe the purpose of this study.
+
+24. [frq, 2 pt] What type of study design was used in this study?
+
+25. [frq, 4 pt] List two (2) ways in which the investigators used controls in this study as described in the text.
+
+26. [frq, 2 pt] The sensitivity of the RDT assay to detect HCV positivity is found to be 71%. Interpret this statement.
+
+[STIMULUS] **FIGURE 1**. **Adjusted mean estimates of sensitivity (A) and specificity (B) for identification of positive and negative challenge specimens for human immunodeficiency virus (HIV), hepatitis B virus (HBV), and hepatitis C virus (HCV), by assay virus, assay type, and National Blood Transfusion Services (NTBS) laboratory status — seven African countries, 2017**
+    [IMAGE: ../images/2020_university_of_texas_at_austin_regional__p10_0b5a6c-a67c574f.webp]
+
+27. [frq, 4 pt] Based on Figure 1, describe the differences (if any) in sensitivity and specificity of the three different assays for HIV detection.
+
+28. [frq, 4 pt] Based on Figure 1, describe the differences (if any) in sensitivity and specificity of the two different assays for HBV detection.
+
+29. [frq, 4 pt] What should investigators recommend to African Blood Centers about the use of RDT and EIAs for viral marker screening? Be specific.

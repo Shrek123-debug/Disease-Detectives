@@ -1,0 +1,491 @@
+Georgia Tech (Yellow Jacket) Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  52 questions, 87.0 pts
+Source: scio.ly test archive id d1ac4d09-e0fe-466d-88bd-5ba0c1d3e195  |  original files: https://drive.google.com/drive/folders/1AlyoRMtJpxaxUen5g32QSr1RSsfb8ZLs
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 14
+
+DIRECTIONS: Multiple Choice/Multiple Select
+
+
+=== Multiple Choice/Multiple Select ===
+
+[STIMULUS] Match the words to their definitions.
+
+a. vector
+b. cluster
+c. etiology
+d. virulence
+e. holoendemic
+f. epidemic
+g. pathogenicity
+h. zoonosis
+i. iatrogenic
+j. reservoir
+k. fomite
+l. pandemic
+
+P1-1. [mcq, 1 pt] An epidemic that occurs over a widespread area (e.g. multiple countries) and usually affects a substantial proportion of the population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-2. [mcq, 1 pt] An aggregation of cases of a disease, injury, or other health condition in a circumscribed area during a particular period without regard to whether the number of cases is more than expected.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-3. [mcq, 1 pt] The cause or causes of a disease or abnormal condition.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-4. [mcq, 1 pt] An infectious disease that is transmissible from animals to humans.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-5. [mcq, 1 pt] The habitat in which an infectious agent normally lives, grows, and multiplies, which can include humans, animals, or the environment.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-6. [mcq, 1 pt] An inanimate object that can be the vehicle for transmission of an infectious agent.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-7. [mcq, 1 pt] The ability of an agent to cause disease after infection, measured as the proportion of persons infected by an agent who then experience clinical disease.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-8. [mcq, 1 pt] Disease caused by medical treatment.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-9. [mcq, 1 pt] A living intermediary that carries an agent from a reservoir to a susceptible host.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-10. [mcq, 1 pt] The occurrence of more cases of disease, injury, or other health condition than expected in a given area or among a specific group of people during a particular period.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-11. [mcq, 1 pt] Characterized by the infection of essentially every individual in a defined population.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-12. [mcq, 1 pt] The ability of an infectious agent to cause severe disease is measured as the proportion of persons with the disease who become severely ill or die.
+    A) vector
+    B) cluster
+    C) etiology
+    D) virulence
+    E) holoendemic
+    F) epidemic
+    G) pathogenicity
+    H) zoonosis
+    I) iatrogenic
+    J) reservoir
+    K) fomite
+    L) pandemic
+
+P1-13. [mcq, 2 pt] Ducktown’s local public health office encourages everyone above 50 to be tested for hypertension (high blood pressure). What is the level of prevention? (Single Select)
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+    F) None of the above
+
+P1-14. [mcq, 2 pt] After a long struggle with a terminal illness, Timmy has decided to die at home and asked to stop undergoing treatment. The doctors stop treating them. What is the level of prevention? (Single Select)
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+    F) None of the above
+
+P1-15. [mcq, 2 pt] Laila just welcomed her new baby, Kavi to the world. Unfortunately, she had untreated syphilis during the pregnancy and passed it to Kavi. What is this an example of? (Single Select)
+    A) Fomite transmission
+    B) Vehicle transmission
+    C) Vertical transmission
+    D) Horizontal transmission
+
+P1-16. [multi, 2 pt] Which of the following could lead to passive immunity? (Multiple Select)
+    A) Vaccination for smallpox with cowpox
+    B) Transfer of convalescent plasma
+    C) Umbilical blood flow to a fetus
+    D) Blood transfusion
+    E) Recovering from an infection
+
+P1-17. [mcq, 2 pt] Who is known for developing a statistical procedure for stratified analysis of case control studies? (single select)
+    A) MacMahon
+    B) Mantel and Haenszel
+    C) Edward Sydenstricker
+    D) James Lind
+
+P1-18. [multi, 2 pt] During a brain surgery, the equipment used on Arnav wasn’t properly sterilized, spreading prions to him. Which of the following words can describe this situation? (Multiple Select)
+    A) Outbreak
+    B) Iatrogenic infection
+    C) Hyperendemic disease
+    D) Nosocomial infection
+    E) Biological transmission
+
+P1-20. [multi, 2 pt] Which of the following are observational studies? (Multiple Select)
+    A) Case-control
+    B) Case study
+    C) Case series
+    D) Cohort
+    E) Time series
+    F) Ecological
+    G) RCT
+
+P1-21. [mcq, 2 pt] A study finds that residents of Ducktown have a 20% chance of developing duck fever. Mia claims that Ayushi, a longtime Ducktown resident, must have a 20% chance of developing duck fever. This is not necessarily true; what logical error is this?
+    A) Base rate fallacy
+    B) Ecological fallacy
+    C) Length bias
+    D) Lead time bias
+    E) Misclassification bias
+    F) None of the above
+
+P1-22. [mcq, 2 pt] Robin decide to do a study on whether eating bread increases the risk of duck fever. However, their friend Jay points out that people who eat bread might also be feeding it to ducks, and being around ducks is known to be a cause of duck fever. What bias is this? (Single Select)
+    A) Healthy worker effect
+    B) Panel effect
+    C) Confounding
+    D) Differential misclassification
+    E) Attrition bias
+
+P1-23. [mcq, 2 pt] In the natural history of disease, when does the stage of clinical disease start?
+    A) At the time the patient is admitted to the hospital
+    B) At the time of infection
+    C) At the time of diagnosis
+    D) At the time pathological changes happen
+    E) At the onset of symptoms
+
+P1-24. [multi, 2 pt] Adwithi is running a clinical trial on the effectiveness of her new screening test to prevent mortality from vCJD. She finds that people who are diagnosed before onset of symptoms using her test live longer. This could be because:
+    A) The screening ensures people get treatment sooner
+    B) The screening makes people aware of their diagnosis for a longer time
+    C) The screening detects slow-progressing cases
+    D) The screening helps doctors decide how to deal with the illness
+
+[STIMULUS] Match the person to their contribution to public health/epidemiology.
+
+a. Louis Pasteur
+b. John Snow
+c. Edward Jenner
+d. Ignaz Semmelweis
+e. Carlos Urbani
+f. Jonas Salk
+g. Donald Henderson
+
+P1-26. [mcq, 1 pt] Invented vaccination
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-27. [mcq, 1 pt] Invented rabies vaccination
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-28. [mcq, 1 pt] Invented polio vaccination
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-29. [mcq, 1 pt] Reported SARS disease to WHO
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-30. [mcq, 1 pt] Led eradication efforts for smallpox
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-31. [mcq, 1 pt] Brought down infant mortality at a hospital using hygiene practices
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+P1-32. [mcq, 1 pt] Father of modern epidemiology
+    A) Louis Pasteur
+    B) John Snow
+    C) Edward Jenner
+    D) Ignaz Semmelweis
+    E) Carlos Urbani
+    F) Jonas Salk
+    G) Donald Henderson
+
+[STIMULUS] Match each historical outbreak to the description.
+
+a. 1918 Flu
+b. vCJD
+c. Ebola
+d. E. Coli
+e. Listeria
+f. Cholera
+g. Bubonic plague
+
+P1-33. [mcq, 1 pt] Ranked as the second deadliest pandemic in human history
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-34. [mcq, 1 pt] Caused by spread of BSE in cows after they were fed animal products
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-35. [mcq, 1 pt] Re-introduced to Haiti by UN forces after a natural disaster
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-36. [mcq, 1 pt] Natural host is rodents who can spread it to humans
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-37. [mcq, 1 pt] Poor meat handling practices at a fast food chain led to an outbreak
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-38. [mcq, 1 pt] Spread by close contact and blood, likely originated from bushmeat hunting
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-39. [mcq, 1 pt] Spread by infected cantaloupe
+    A) 1918 Flu
+    B) vCJD
+    C) Ebola
+    D) E. Coli
+    E) Listeria
+    F) Cholera
+    G) Bubonic plague
+
+P1-34b. [mcq, 2 pt] Dr. Stone diagnoses a patient with Swallow Fever, a disease on the Nationally Notifiable Disease Surveillance System for the CDC in Birdland, so he reports it to the CDC. This is an example of which of the following?
+    A) Active surveillance
+    B) Passive surveillance
+    C) Sentinel surveillance
+    D) Syndromic surveillance
+    E) Environmental surveillance
+
+P1-36b. [multi, 2 pt] Dr. Liang develops a new diagnostic test for a type of brain cancer that can quickly turn deadly if uncaught. Which of the following metrics should he optimize for? Select 2.
+    A) Sensitivity
+    B) Specificity
+    C) PPV
+    D) NPV
+
+
+=== Case Study 1. The Great Ducktown Party ===
+
+[STIMULUS] To celebrate 3 years with no outbreaks, Ducktown Mayor Redjoe McPie threw a giant party in November. Unfortunately, the day after the party, numerous citizens complained of various gastrointestinal symptoms.
+
+P2-1a. [frq, 3 pt] How would you verify that this is an outbreak?
+
+P2-2a. [frq, 3 pt] Lab reports reveal that (unsurprisingly), salmonella is the culprit. With this in mind, what are some common vehicles that can spread salmonella? List at least 3.
+
+P2-3a. [frq, 3 pt] To find out what people have eaten, someone suggests asking everyone what they remember eating. What bias might this lead to?
+
+[STIMULUS] The epidemiologists of Ducktown conducted a survey of all 300 partygoers to ask what they ate and if they got sick, of which 150 got sick. They have compiled the results here:
+    | Food | People who ate who are ill | People who ate who are well | Total |
+    | Cheesecake | 12 | 105 | 117 |
+    | Chicken Nuggets | 134 | 98 | 232 |
+    | Tofu | 46 | 139 | 185 |
+    | Fries | 102 | 122 | 224 |
+
+P2-4a. [frq, 3 pt] What type of study did the epidemiologists conduct?
+
+P2-7. [frq, 6 pt] Parker, who brought the food associated with the disease, claims that it couldn't have been the culprit because some of the sick people didn't eat it and some of the healthy people did. Explain to Parker why this might've happened.
+
+P2-8. [frq, 3 pt] Then, surprisingly, tests return that Parker was right. There is no salmonella in his food item. It's time to go back to the drawing board. Emma suggests that there might be confounding. What are three ways to reduce confounding in a study?
+
+P2-10. [frq, 5 pt] List the 5 steps of surveillance. How would you conduct each step in this case?
+
+
+=== Case Study 2 ===
+
+[STIMULUS] From 1970 to 1971, an unknown disease outbreak occurred in Barren County, Kentucky. As an epidemiologist, you decide to look back at the cases to determine the characteristics of this disease. You are provided the following clues and wish to identify the illness.
+    [IMAGE: ../images/2024_georgia_tech_yellow_jacket_invitational_c__p11_8be446-b06d4ceb.webp]
+
+P3-11a. [frq, 1 pt] What type of epi curve is shown above?
+
+P3-11b. [frq, 1 pt] What does that suggest regarding the disease's mode of transmission?
+
+[STIMULUS] A = abdominal cramps, F = fever, D = diarrhea, L = lethargy
+    | # | Age | Sex | Week of Onset | A | F | D | L | Lab | Carnival |
+    | 1 | 25 | F | October 18 | Yes | Yes | Yes | No | No | Yes |
+    | 2 | 15 | M | April 04 | Yes | Yes | No | Yes | Yes | No |
+    | 3 | 21 | M | December 13 | Yes | No | Yes | Yes | Yes | No |
+    | 4 | 54 | F | November 15 | Yes | Yes | No | Yes | Yes | Yes |
+    | 5 | 34 | M | February 21 | Yes | Yes | Yes | Yes | Yes | Yes |
+    | 6 | 62 | M | September 20 | Yes | Yes | No | No | No | No |
+    | 7 | 32 | M | October 18 | Yes | Yes | No | Yes | Yes | Yes |
+    | 8 | 36 | F | January 10 | Yes | Yes | No | Yes | Yes | Yes |
+    | 9 | 44 | M | February 28 | Yes | Yes | Yes | Yes | Yes | Yes |
+    | 10 | 41 | F | March 07 | No | Yes | Yes | Yes | No | No |
+
+P3-16a. [frq, 1 pt] What does it mean when a study has forward directionality?
+
+P3-16b. [frq, 1 pt] What does it mean when a study has backward directionality?
+
+P3-18. [mcq, 2 pt] Given the information, which of the following is the most likely pathogen?
+    A) Influenza
+    B) Hepatitis A
+    C) Strep Throat
+    D) Measles
+    E) Athlete's Foot
+
+P3-19. [frq, 3 pt] Describe three preventative strategies to limit this type of outbreak in the future.

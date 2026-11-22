@@ -1,0 +1,191 @@
+Salem (Plymouth-Canton) — Disease Detectives  |  Season 2022  |  Division C  |  Time limit 50 min  |  39 questions, 39.0 pts
+Source: scio.ly test archive id 13870724-9135-41a1-a5a5-15ac9465d592  |  original files: https://drive.google.com/drive/folders/1KFNlFvhIwY-IGCBjZbAZ7ZJy6SuqppaZ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 1
+
+DIRECTIONS: This test will contain 20 multiple-choice questions, 7 short answer, and 2 long answer questions. The multiple choice questions all have exactly one answer.
+
+
+=== Multiple Choice ===
+
+1. [mcq, 1 pt] A certain disease has a constant presence in the population. This disease could be described as:
+    A) Epidemic
+    B) Pandemic
+    C) Endemic
+    D) Normal
+
+2. [mcq, 1 pt] Using used needles is extremely dangerous because the needle can be a ____ for disease.
+    A) Fomite
+    B) Vector
+    C) Agent
+    D) Host
+
+3. [mcq, 1 pt] Which of the following terms describes the first patient in an epidemiological study?
+    A) Index patient
+    B) Index case
+    C) Patient one
+    D) Glossary case
+
+4. [mcq, 1 pt] Which of the following is not a major form of plague?
+    A) Bubonic
+    B) Septicemic
+    C) Pneumonic
+    D) Bronchitic
+
+5. [mcq, 1 pt] One major way that COVID-19 has spread is through people continuing to interact with others after getting infected as they do not have symptoms. What is the name for the period of time between infection and showing symptoms?
+    A) Incubation period
+    B) Asymptomatic period
+    C) Pre-symptomatic period
+    D) Convalescent period
+
+6. [mcq, 1 pt] Which of the following is not part of either epidemiological triad?
+    A) Agent
+    B) Vector
+    C) Time
+    D) Cohort
+
+7. [mcq, 1 pt] Which of the following is not a disadvantage of a cohort study?
+    A) Inaccurate
+    B) Time consuming
+    C) Expensive
+    D) Possible loss of follow-up
+
+8. [mcq, 1 pt] Which of the following is not an advantage of a cross-sectional study?
+    A) Fastest
+    B) Least expensive
+    C) Low confidence in findings
+    D) Good for rare exposures
+
+9. [mcq, 1 pt] In the 2x2 table shown, which formula gives the odds ratio?
+    
+    | | Disease | No disease |
+    |---|---|---|
+    | Exposure | a | b |
+    | No Exposure | c | d |
+    A) (a/(a+b))/(c/(c+d))
+    B) a/a+b
+    C) c/c+d
+    D) ad/bc
+
+10. [mcq, 1 pt] If a portion of a population is not proportionally represented to how it is in the population, how is the sample biased?
+    A) nonresponse bias
+    B) undercoverage bias
+    C) response bias
+    D) voluntary bias
+
+11. [mcq, 1 pt] Which of the following marks the change from the stage of susceptibility to the stage of subclinical disease?
+    A) Exposure
+    B) Onset of symptoms
+    C) Time of diagnosis
+    D) Pathologic changes
+
+12. [mcq, 1 pt] What is between the portal of exit and portal of entry in the chain of infection?
+    A) Infectious agent
+    B) Reservoir
+    C) Mode of transmission
+    D) Susceptible host
+
+13. [mcq, 1 pt] Which of the following refers to the capacity to cause infection in a susceptible host?
+    A) Infectivity
+    B) Specificity
+    C) Pathogenicity
+    D) Virulence
+
+14. [mcq, 1 pt] Which of the following is not a type of indirect transmission?
+    A) Droplet spread
+    B) Airborne
+    C) Food-borne
+    D) Vectors
+
+15. [mcq, 1 pt] Women over the age of 40 are generally advised to get mammograms annually to screen for breast cancer. What stage of disease prevention is this?
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Quaternary
+
+16. [mcq, 1 pt] When a person is exposed to a live pathogen and develops the disease, they may become immune due to the primary immune response. What type of immunity is this?
+    A) Active Immunity
+    B) Passive Immunity
+    C) Herd Immunity
+    D) Vaccine Immunity
+
+17. [mcq, 1 pt] The Aedes aegypti mosquito is the vector for yellow fever. Which of the following diseases is it NOT known to transmit?
+    A) Zika
+    B) Malaria
+    C) Chikungunya
+    D) Dengue
+
+18. [mcq, 1 pt] Point epidemics and clustering are examples of disease occurence according to:
+    A) Place
+    B) Person
+    C) Time
+    D) Agent
+
+19. [mcq, 1 pt] What classification of epi-curve usually contains a series of successively larger peaks?
+    A) Propagated source
+    B) Continuous common source
+    C) Point source
+    D) Random source
+
+20. [mcq, 1 pt] Which type of study evaluates an association using population rather than individual as the unit of analysis?
+    A) Cohort
+    B) Experimental
+    C) Case-control
+    D) Ecological
+
+
+=== Short Answer ===
+
+SA1. [frq, 1 pt] What is the difference between descriptive and analytic epidemiology?
+
+SA2. [frq, 1 pt] What is the difference between an iatrogenic disease and a nosocomial one?
+
+SA3. [frq, 1 pt] What is the difference between morbidity and mortality?
+
+SA4. [frq, 1 pt] Name and explain 3 of Hill's Criteria for Causation.
+
+SA5. [frq, 1 pt] Name at least 2 prevention tactics for food-borne illnesses.
+
+SA6. [frq, 1 pt] Statistics time! Given this 2x2 table, what is the sensitivity and specificity of the test?
+    
+    | | Disease | No disease |
+    |---|---|---|
+    | Test positive | 56 | 24 |
+    | Test negative | 10 | 79 |
+
+SA7. [frq, 1 pt] What is the difference between sensitivity and specificity?
+
+
+=== Long Answer ===
+
+[STIMULUS] 50 people attend a business party on the night of June 25th, where food and drinks are served. Everyone's fine the night of the party, but over the next week, 12 people report to the clinic with symptoms like nausea, vomiting, and diarrhea. None of these patients have a history of disease.
+
+LA1a. [frq, 1 pt] Write a case definition with the given information.
+
+LA1b. [frq, 1 pt] Why is this problem considered worth investigating?
+
+LA1c. [frq, 1 pt] What are the three steps you must take to investigate this scenario?
+
+LA1d. [frq, 1 pt] What is a possible hypothesis for the outbreak?
+
+LA1e. [numeric, 1 pt] Being the proactive epidemiologists that you are, you decide to conduct a case-control study. The party was fancy- it had a menu, and better yet, a record of who ordered what food. One of the suspicious foods is the egg salad. Using the information gathered from the hosts, you construct a table. What is the odds ratio?
+    
+    | | Disease | No disease |
+    |---|---|---|
+    | Ate egg salad | 10 | 8 |
+    | Didn't eat egg salad | 2 | 30 |
+
+LA1f. [frq, 1 pt] Interpret the odds ratio.
+
+LA1g. [frq, 1 pt] Based on your results, what is the best course of action?
+
+[STIMULUS] There are many risk factors for heart disease, which is a leading cause of death in the United States. Two modifiable risk factors are smoking and lack of exercise. When conducting a study, researchers ask 200 randomly selected participants about their behaviors. Of the 100 participants who had heart disease, 77 of them had a smoking history, and 54 of them exercised for less than 30 minutes a week. Of the 100 participants without heart disease, 9 had a smoking history, and 22 exercised for less than 30 minutes a week.
+
+LA2a. [frq, 1 pt] Define social desirability bias and how it may affect this study.
+
+LA2b. [frq, 1 pt] Construct a 2x2 table for smoking history.
+
+LA2c. [frq, 1 pt] Construct a 2x2 table for exercise.
+
+LA2d. [numeric, 1 pt] What is the odds ratio for (b)?
+
+LA2e. [numeric, 1 pt] What is the odds ratio for (c)?

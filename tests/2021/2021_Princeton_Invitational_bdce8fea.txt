@@ -1,0 +1,483 @@
+Princeton Invitational — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  59 questions, 83.0 pts
+Source: scio.ly test archive id bdce8fea-fa80-4f35-ab97-0ae9f9ebd3c2  |  original files: https://www.dropbox.com/sh/efvk4c2fvn0k9b2/AAD5sy1LvfwMqS49bBRJuRLGa?dl=0
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 5
+
+DIRECTIONS: You may not access outside sources or the internet. It may be helpful to have scratch paper on hand to take notes on the scenarios as well as do calculations. There are 4 parts to the test: Part 1: General Knowledge (24 pts), Part 2: Food Poisoning in Princeton (35 pts), Part 3: COVID-19 (35 pts), Part 4: Miscellaneous (6 pts).
+
+
+=== Part 1: General Knowledge ===
+
+[STIMULUS] **Word bank**
+a) Public health surveillance
+b) Active surveillance
+c) Passive surveillance
+d) Sentinel surveillance
+e) Syndromic surveillance
+f) Epidemic
+g) Outbreak
+h) Pathogenicity
+i) Virulence
+j) Carrier
+k) Vector
+l) Mortality
+m) Morbidity
+
+1a. [mcq, 1 pt] Agent that transmits an infectious pathogen to another host
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1b. [mcq, 1 pt] Monitoring of the rate of a particular disease in a specific population, often with a limited network of sites and professionals.
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1c. [mcq, 1 pt] Focuses on collecting data on symptoms or indicators of disease that allow for detection and prediction of potential outbreaks early on
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1d. [mcq, 1 pt] Capacity to cause disease
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1e. [mcq, 1 pt] Person without symptoms who harbors and is capable of disease
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1f. [mcq, 1 pt] Severity of disease
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1g. [mcq, 1 pt] A sudden occurrence of a disease in a population at a frequency higher than that expected over a wide geographic area
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1h. [mcq, 1 pt] Rate of illness for a specific disease
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1i. [mcq, 1 pt] Health departments initiate the collection of data for a disease from labs and health care providers
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1j. [mcq, 1 pt] Death rate for a specific disease
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1k. [mcq, 1 pt] The systematic, ongoing collection and analysis of health data for disease control and prevention
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1l. [mcq, 1 pt] Labs and hospital regularly report cases of disease to a local or state health department
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+1m. [mcq, 1 pt] A high incidence of disease in population in given time period in a localized area
+    A) Public health surveillance
+    B) Active surveillance
+    C) Passive surveillance
+    D) Sentinel surveillance
+    E) Syndromic surveillance
+    F) Epidemic
+    G) Outbreak
+    H) Pathogenicity
+    I) Virulence
+    J) Carrier
+    K) Vector
+    L) Mortality
+    M) Morbidity
+
+2. [frq, 2 pt] What is the difference between clinical health approach and the public health approach? (Max 4 sentences)
+
+3. [frq, 2 pt] Why is public health surveillance so important? List 2 reasons.
+
+[STIMULUS] Write the level of prevention for each example. Each level of prevention may be used more than once, or not at all. Levels: Primordial, Primary, Secondary, Tertiary, Quaternary
+
+4a. [mcq, 1 pt] Screening programs for a specific disease
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+4b. [mcq, 1 pt] Limiting invasive procedures for low-risk patients
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+4c. [mcq, 1 pt] Spinal adjustment surgery
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+4d. [frq, 1 pt] Sexual health education in schools
+
+4e. [mcq, 1 pt] Rehabilitation programs
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+4f. [mcq, 1 pt] Immunization
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+4g. [mcq, 1 pt] Daily doses of aspirin to prevent future heart attacks
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Tertiary
+    E) Quaternary
+
+
+=== Part 2: Food Poisoning in Princeton ===
+
+[STIMULUS] Princeton University has opened its campus back up for all its students for the spring semester. Many students had moved back in and were happily getting settled down. Classes had just begun, and the campus seemed to have become a lively place amidst the pandemic. However, something else seems to be spreading among the students. Several students have reported cases of painful watery diarrhea. Some students have even reported vomiting and fatigue. University health professionals have to manage COVID-19 as well as investigate this new outbreak, so they call upon you for help. Lab results indicate the presence of shiga toxin-producing E. coli, and literature suggests that the incubation period for this disease is 1-3 days.
+
+**Figure 1.** E. coli Cases in Princeton, NJ in February 2021
+    [IMAGE: ../images/2021_princeton_invitational_c__p3_ac772d-244e06eb.webp]
+
+5. [frq, 1 pt] What is this kind of graph called?
+
+6. [frq, 1 pt] What type of outbreak is this?
+
+7. [frq, 1 pt] What is the first case on Feb. 7 called?
+
+8. [frq, 1 pt] What date is the peak of the outbreak?
+
+9. [frq, 2 pt] Calculate the most likely period of exposure. Give the time period by listing two dates.
+
+[STIMULUS] The health officials have collected reports of the diarrheal disease and created a graph. You investigate what is causing the disease in students and find that lab results indicate the presence of shiga toxin-producing E. coli. Literature suggests that the incubation period for this disease is 1-3 days.
+
+A total of 211 students were surveyed, and a total of 82 cases were reported. From interviewing the students, you learned that most students on campus have only been eating food prepared from the dining halls.
+
+11. [frq, 2 pt] What kind of study is this?
+
+12. [frq, 2 pt] What statistic is used to calculate risk in this type of study?
+
+[STIMULUS] **Table 1.** Cases of E. Coli in Princeton by Dining Hall
+
+| Dining Hall | Disease | No Disease |
+|---|---|---|
+| Wucox | 67 | 48 |
+| Whitman | 26 | 40 |
+| Roma | 55 | 21 |
+| Forbes | 31 | 24 |
+
+14. [frq, 3 pt] Which dining hall is most likely the source of the outbreak? Why? (Max 3 sentences)
+
+[STIMULUS] Princeton sent out a notice to all students and staff not to eat food prepared from that dining hall, and closed the dining hall to contain the outbreak. The university staff thank you for your help. They ask for advice on how to prevent the occurrence of a similar outbreak in the future.
+
+15. [mcq, 1 pt] What is the main route of transmission for this disease?
+    A) Fecal oral
+    B) Blood
+    C) Respiratory
+    D) Direct contact
+    E) Sexual
+
+16. [frq, 2 pt] What are 2 ways to prevent this sort of outbreak from occurring again?
+
+17. [frq, 2 pt] As you wrap up the investigation and help shut down the dining hall, you receive a sudden influx of reports from students complaining of food poisoning. What explains this sudden surge of new cases? (Max 4 sentences)
+
+
+=== Part 3: COVID-19 ===
+
+18a. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    Population/community
+
+18b. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    Droplet, physical contact
+
+18c. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    Human individual, especially the immunocompromised and elderly
+
+18d. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    SARS-CoV-2
+
+18e. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    Respiratory tract (e.g. coughing)
+
+18f. [frq, 1 pt] Assign each part of the chain of transmission for COVID-19 below (Infectious agent, Reservoir, Portal of exit, Mode of transmission, Portal of entry, Susceptible host):
+    
+    Mucous membranes
+
+19. [frq, 2 pt] What are two ways to break the chain of transmission for COVID-19?
+
+[STIMULUS] Classify these cases as **confirmed, probable, possible/suspect, or not a case.**
+
+20a. [mcq, 1 pt] Antibodies have been detected in the blood, however it is not confirmed whether they are specific SARS-CoV-2 or not. No other symptoms or history of exposure.
+    A) confirmed
+    B) probable
+    C) possible/suspect
+    D) not a case
+
+20b. [mcq, 1 pt] Detection of SARS-CoV-2 RNA in a clinical setting.
+    A) confirmed
+    B) probable
+    C) possible/suspect
+    D) not a case
+
+20c. [mcq, 1 pt] Case of a severe cough; close contact with a family member who is diagnosed with COVID-19.
+    A) confirmed
+    B) probable
+    C) possible/suspect
+    D) not a case
+
+20d. [mcq, 1 pt] Fever and congestion. Individual sometimes has difficulty breathing.
+    A) confirmed
+    B) probable
+    C) possible/suspect
+    D) not a case
+
+20e. [mcq, 1 pt] Member of nursing home where a COVID-19 case has been confirmed. Reports of nausea and sore throat.
+    A) confirmed
+    B) probable
+    C) possible/suspect
+    D) not a case
+
+[STIMULUS] A new antigen diagnosis test for SARS-CoV-2 has been released, boasting greater turnaround times than previous testing methods. The gold standard for SARS-CoV-2 diagnosis testing is nucleic acid amplification tests (NAATs).
+
+**Table 2.** SARS-CoV-2 antigen diagnosis test
+
+|  | NAAT Positive | NAAT Negative |
+|---|---|---|
+| Antigen Test Positive | 252 | 10 |
+| Antigen Test Negative | 37 | 503 |
+
+21a. [frq, 4 pt] Based on the data given above, calculate **AND** interpret the following for the antigen test. Give your answers in % and keep 2 decimals.
+    
+    Sensitivity:
+
+21b. [frq, 4 pt] Based on the data given above, calculate **AND** interpret the following for the antigen test. Give your answers in % and keep 2 decimals.
+    
+    Specificity:
+
+21c. [frq, 4 pt] Based on the data given above, calculate **AND** interpret the following for the antigen test. Give your answers in % and keep 2 decimals.
+    
+    Positive predictive value:
+
+21d. [frq, 4 pt] Based on the data given above, calculate **AND** interpret the following for the antigen test. Give your answers in % and keep 2 decimals.
+    
+    Negative predictive value:
+
+[STIMULUS] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+
+**Word bank:**
+a) Confounding
+b) Attrition bias
+c) Convenience bias
+d) Hawthorne effect
+e) Confirmation bias
+f) Nonresponse bias
+
+22a. [mcq, 1 pt] An undergraduate student is studying social distancing behavior in New Jersey, but the survey is only given on college students living on campus.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+22b. [mcq, 1 pt] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+    
+    You are asked to review a clinical trial for a treatment for COVID-19. The new treatment seems to be working wonders, but you notice that the average age for the treatment group is lower than the average age for the control group.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+22c. [mcq, 1 pt] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+    
+    You email a survey to your classmates to investigate how strictly your peers have been adhering to CDC guidelines. The survey is not anonymous.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+22d. [mcq, 1 pt] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+    
+    A student believes that long distance runners are more likely to recover from COVID-19. They notice that all the people on their cross country team who contracted the coronavirus have recovered.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+22e. [mcq, 1 pt] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+    
+    You monitor participants' activity and behavior before and after watching a short documentary on COVID-19. The participants are aware they are being studied.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+22f. [mcq, 1 pt] > Identify the phenomenon or bias most likely at play in each of these scenarios. Each term is used once.
+    
+    Participants withdraw from a study on the long-term effects of COVID-19 over time, leading to incomplete data.
+    A) Confounding
+    B) Attrition bias
+    C) Convenience bias
+    D) Hawthorne effect
+    E) Confirmation bias
+    F) Nonresponse bias
+
+
+=== Part 4: Miscellaneous ===
+
+23. [frq, 1 pt] What is the purpose of Koch’s postulates? (Max 1 sentence)
+
+24. [frq, 1 pt] What disease did John Snow famously study?
+
+25. [frq, 2 pt] (continued from question 24) How did he (John Snow) prove the source of the outbreak? (Max 3 sentences)
+
+26. [frq, 2 pt] List 2 of the top 10 public health problems in the U.S. as listed by the CDC

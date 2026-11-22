@@ -1,0 +1,408 @@
+UCR Highlander Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  72 questions, 104.5 pts
+Source: scio.ly test archive id ebbec3a7-e0ba-44e1-9c3b-aae8b642882d  |  original files: https://drive.google.com/drive/folders/1v3ZNnfV9M2MBTkbfxXcUY5KetM_-V_2P
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 7
+
+DIRECTIONS: Instructions:
+
+6. You may round up to 2 decimal places.
+7. Show all work and units for partial credit.
+
+1. [mcq, 1 pt] Protégé of Robert Koch who connected foot and mouth disease with Apthovirus.
+    A) Van Leuwenhock
+    B) Friedrich Loeffler
+    C) Stanley Pruisner
+    D) Anthony Fauci
+
+2. [mcq, 1 pt] Founder of germ theory and conducted a detailed investigation on a cholera epidemic in London.
+    A) Louis Pasteur
+    B) Edwin Chadwick
+    C) Jonas Salk
+    D) John Snow
+
+4. [mcq, 1 pt] Proved the effectiveness of inoculation to the scientific community and is considered the father of vaccines.
+    A) Joseph Lister
+    B) Edwin Chadwick
+    C) Jonas Salk
+    D) Edward Jenner
+
+5. [mcq, 1 pt] Pioneered the field of medical statistics, as well as the quantitative analysis of morbidity and mortality.
+    A) Edward Jenner
+    B) William Farr
+    C) John Graunt
+    D) James Lind
+
+6. [mcq, 1 pt] The 1949 Framingham Studies studied risk factors for:
+    A) Cardiovascular Disease
+    B) Parkinson’s Disease
+    C) Cancer
+    D) Stroke
+
+7. [mcq, 1 pt] In the historic case of Typhoid Mary, Mary Mallon was the:
+    A) Epidemiologist
+    B) Patient Zero
+    C) Reservoir
+    D) Sentinel
+
+8. [mcq, 1 pt] From which modern day country’s geographical region did the Black Death originate?
+    A) China
+    B) Italy
+    C) Spain
+    D) Russia
+
+9. [mcq, 1 pt] Which of the following cannot be zoonotic?
+    A) Ebola
+    B) Polio
+    C) Leprosy
+    D) Salmonella
+
+10. [mcq, 1 pt] Disease induced by a prescribed drug or treatment procedure.
+    A) Etiologic
+    B) Iatrogenic
+    C) Sentinel
+    D) Case Specific
+
+11. [mcq, 1 pt] Bone marrow transplants used to treat radiation induced damaged blood can also be used to treat sickle cell anemia. This is an example of:
+    A) External Validity
+    B) Internal Validity
+    C) Osteopathic Treatment
+    D) Holistic Treatment
+
+12. [mcq, 1 pt] Which of the following is caused by a fungal infection?
+    A) Kuru
+    B) Listerosis
+    C) Ringworm
+    D) Mononucleosis
+
+13. [mcq, 1 pt] Which of the following sexually transmitted diseases is viral?
+    A) Genital Herpes
+    B) Gonorrhea
+    C) Syphilis
+    D) Trichomoniasis
+
+14. [mcq, 1 pt] The incubation period for Norovirus is:
+    A) 1-7 days
+    B) 10-16 hours
+    C) 12-48 hours
+    D) 1-3 days
+
+15. [mcq, 1 pt] This disease cannot cross the blood brain barrier.
+    A) HIV-1
+    B) Hepatitis-A
+    C) Toxoplasmosis
+    D) Chagas Disease
+
+16. [frq, 3 pt] Name the three components of the epidemiology triad.
+
+17. [frq, 4 pt] What are the 4 food safety steps outlined by the CDC?
+
+[STIMULUS] Correctly match each of Bradford Hill’s 9 Criteria for Causality.
+
+A. Relationship found to be similar in multiple settings.
+B. There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+C. If an experiment can be performed, causal relationship can be determined conclusively.
+D. The greater the association between exposure and disease, the more likely it is to be causal.
+E. The new data and hypothesis are consistent with the current state of scientific knowledge.
+F. Checking for casual association via a similar agent; entertaining alternative possibilities.
+G. The change in the outcome variable is only produced by an associated change in the independent variable
+H. Exposure must occur before the outcome.
+I. As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18a. [mcq, 0.5 pt] Strength
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18b. [mcq, 0.5 pt] Consistency
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18c. [mcq, 0.5 pt] Specificity
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18d. [mcq, 0.5 pt] Temporality
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18e. [mcq, 0.5 pt] Dose Response
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18f. [mcq, 0.5 pt] Experimental Evidence
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18g. [mcq, 0.5 pt] Plausibility
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18h. [mcq, 0.5 pt] Coherence
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+18i. [mcq, 0.5 pt] Analogy
+    A) Relationship found to be similar in multiple settings.
+    B) There is a reasonable mechanism for the independent variable to impact the dependent variable supported by existing literature
+    C) If an experiment can be performed, causal relationship can be determined conclusively.
+    D) The greater the association between exposure and disease, the more likely it is to be causal.
+    E) The new data and hypothesis are consistent with the current state of scientific knowledge.
+    F) Checking for casual association via a similar agent; entertaining alternative possibilities.
+    G) The change in the outcome variable is only produced by an associated change in the independent variable
+    H) Exposure must occur before the outcome.
+    I) As independent variable increases, there is a proportional increase in response. The more consistent this relationship, the more likely it is to be causal.
+
+[STIMULUS] Shelly purchases kanamycin to treat hemorrhagic septicemia in her aquarium. The directions state to dose every 48 hours over the course of a week. Since Shelley owns a large aquarium, she opts to dose once every 72 hours over the week to save on medication costs. (the amount of medication used is determined by the volume of water to attain a proper concentration.)
+
+19. [frq, 4 pt] Explain two reasons why Shelly’s decision to forgo completing a proper treatment plan is detrimental.
+
+[STIMULUS] Assign each disease as viral, bacterial, parasitic, prion, or fungal.
+
+20a. [mcq, 1 pt] Giardiasis
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20b. [mcq, 1 pt] Influenza
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20c. [mcq, 1 pt] Sleeping Sickness
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20d. [mcq, 1 pt] Athlete’s Foot
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20e. [mcq, 1 pt] Rocky Mountain Fever
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20f. [mcq, 1 pt] Mad Cow Disease
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20g. [mcq, 1 pt] Tuberculosis
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20h. [mcq, 1 pt] Hepatitis
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20i. [mcq, 1 pt] Creutzfeldt-Jakob Disease
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+20j. [mcq, 1 pt] Legionnaries’ Disease
+    A) viral
+    B) bacterial
+    C) parasitic
+    D) prion
+    E) fungal
+
+
+=== Write in the term that best matches the given definition. ===
+
+21. [frq, 1 pt] An aggregation of cases closely grouped together in time and space.
+
+22. [frq, 1 pt] Inanimate object capable of transmitting infection.
+
+23. [frq, 1 pt] The first identified case in a group of related cases of a particular disease.
+
+24. [frq, 1 pt] The specific environment or population the disease naturally reproduces in and in which the pathogen is permanently maintained.
+
+25. [frq, 1 pt] Most accurate type of study and can denote causality.
+
+26. [frq, 1 pt] A type of geographical map used to visually display association between cases and geographic features.
+
+27. [frq, 1 pt] A disease acquired at a hospital, often a localized or systematic infection.
+
+28. [frq, 1 pt] In a dose-response curve, the ____ refers to the lowest dose at which a particular response occurs.
+
+29. [frq, 1 pt] A disease that is constantly present in a population at a high rate of incidence and equally affects all age groups within the population.
+
+30. [frq, 1 pt] A type of epidemic curve which indicates the outbreak can be traced back to a single event.
+
+31. [frq, 1 pt] Carriers who harbor the pathogen, and although are in the recovery phase, are still infectious
+
+[STIMULUS] 
+    [IMAGE: ../images/2024_ucr_highlander_invitational_b_c__p7_9d381b-59a5b381.webp]
+
+32. [mcq, 1 pt] Is this bacteria gram negative or gram positive?
+    A) gram negative
+    B) gram positive
+
+33. [frq, 2 pt] Accurately name the shape of the bacteria.
+
+34. [frq, 2 pt] What is the identity of the bacteria most likely pictured above?
+
+[STIMULUS] Assign the respective level of prevention [Primary, Secondary, Tertiary, Primordial] to the following actions.
+
+36a. [mcq, 1 pt] Cancer Screening
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Primordial
+
+36b. [frq, 1 pt] Rigorous sanitation of classroom environments
+
+36c. [mcq, 1 pt] Moderate exercise at least an hour a week
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Primordial
+
+36d. [mcq, 1 pt] Providing children with free and nutritious lunches at public school
+    A) Primary
+    B) Secondary
+    C) Tertiary
+    D) Primordial
+
+T1. [frq, 1 pt] What is the common name for Pertussis?
+
+T2. [frq, 1 pt] What was the name of the morning sickness drug that caused severe birth defects when taken by pregnant mothers? (It is now used as a targeted cancer drug)
+
+T3. [frq, 1 pt] Mosquito-borne disease known to cause microcephaly when spread from a pregnant mother to her baby.
+
+T4. [frq, 1 pt] Abnormal protein which when built up is associated with Alzheimer’s and dementia development.
+
+[STIMULUS] For the following study types, name 2 advantages and disadvantages for each.
+
+37. [frq, 4 pt] Prospective Cohort
+
+38. [frq, 4 pt] Case Control
+
+39. [frq, 4 pt] Clinical Trials
+
+40. [frq, 4 pt] Cross Sectional
+
+[STIMULUS] You are an epidemiologist called to investigate a noticeable increase in similar reports of gastrointestinal illness in the Riverside Area following Bulk Supply Co.'s company-wide celebration dinner at Mack's Bar and Grill on July 12th, 2023. Symptom reports started to flood in over the course 2 days. The restaurant's manager recalls the day of the event as being especially hectic for his team. The data transcribed from the 82 person attendee list and menu has allowed you to piece together enough information to build a case file.
+
+| Dish | # of attendees who ordered the food | # of attendees who displayed symptoms |
+|---|---|---|
+| Steak and eggs | 12 | 2 |
+| Lobster Mac and Cheese | 14 | 3 |
+| Oyster Platter | 15 | 5 |
+| Ahi Tuna Poke Salad | 11 | 6 |
+| Pork Ribs | 10 | 4 |
+
+Of those 20 attendees who experienced symptoms:
+
+| Symptoms | Experienced | Did not Experience |
+|---|---|---|
+| Nausea | 7 | 13 |
+| Vomiting | 9 | 11 |
+| Diarrhea | 18 | 2 |
+| Fever | 10 | 10 |
+| Fatigue | 4 | 16 |
+| Chills | 8 | 12 |
+| Stomach Cramps | 15 | 5 |
+
+41. [frq, 4 pt] Create a case definition for the disease.
+
+43. [frq, 4 pt] What precautions should be taken by the restaurant to avoid future reoccurrence? Name at least two.
+
+44. [frq, 2 pt] Name the foodborne illness that is most likely the culprit.
+
+46. [frq, 2 pt] Which food item had the highest relative risk?
+
+[STIMULUS] A town with a population of 160,000 people is struck by a malaria outbreak following a sudden increase in rainfall. Over a one-month period 46,000 people are infected with the disease, of which 15,000 develop symptoms. By the outbreak's end, 81 of the 15,000 who developed the disease die.
+
+48. [frq, 1 pt] Calculate the incidence rate.
+
+49. [frq, 1 pt] Calculate virulence.
+
+[STIMULUS] A 2018 census of Candyland population of 250,000. That year, 7,430 people die and 33,021 babies are born. That year, 45 people are diagnosed with HIV, adding to the then present population of 385 HIV infected people. 79 of the HIV infected people die.
+
+51. [frq, 2 pt] What is the mortality of Candyland in 2018?
+
+[STIMULUS] Interpret the following epi curve.
+    [IMAGE: ../images/2024_ucr_highlander_invitational_b_c__p12_c8432d-a397b762.webp]
+
+53a. [frq, 5 pt] Describe the mode of transmission, magnitude, and time trend of the epi curve.
+
+53b. [frq, 2 pt] Assume the R₀ = 1.2. What does this tell us about the nature of the outbreak?
+
+53c. [frq, 2 pt] A new drug helps to treat some symptoms, which has lowered shedding potential. How will this affect the R₀ value?

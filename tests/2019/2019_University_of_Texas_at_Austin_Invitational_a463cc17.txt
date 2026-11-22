@@ -1,0 +1,192 @@
+University of Texas at Austin Invitational — Disease Detectives  |  Season 2019  |  Division C  |  Time limit 50 min  |  53 questions, 80.0 pts
+Source: scio.ly test archive id a463cc17-e38a-40ce-8c76-f0f7ed94ce26  |  original files: https://drive.google.com/drive/folders/1MbUUj9A_-F2qZ2ULgiufw5BWJytt4d4Q
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 12
+
+DIRECTIONS: Notes:
+- Please show all work and indicate units as necessary.
+- There will be no penalty for guessing.
+
+
+=== Part I: Terminology ===
+
+[STIMULUS] Write the correct term in the blank for each definition.
+
+1. [frq, 1 pt] ____ a physical object that serves to transmit an infectious agent from person to person
+
+2. [frq, 1 pt] ____ the habitat in which the infectious agent normally lives, grows, and multiplies
+
+3. [frq, 1 pt] ____ an epidemic that has spread over several countries or continents, usually affecting a large proportion of the population
+
+4. [frq, 1 pt] ____ an aggregation of cases over a particular period grouped in time and space
+
+5. [frq, 1 pt] ____ a measure of the number of new cases of a disease in a population at risk during a specified time period
+
+6. [frq, 1 pt] ____ concept that states if a high enough proportion of individuals in a population are resistant to an agent, then those few who are susceptible will be protected by the resistant majority
+
+7. [frq, 1 pt] ____ the constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area
+
+8. [frq, 1 pt] ____ an infectious disease that is transmissible from animals to humans
+
+9. [frq, 1 pt] ____ the period extending from the time of exposure to onset of disease symptoms
+
+10. [frq, 1 pt] ____ an animate intermediary in the transmission of an agent that carries the agent from a reservoir to a host
+
+11. [frq, 1 pt] ____ any departure, subjective or objective, from a state of physiological or psychological well-being, encompassing disease, injury, and disability
+
+12. [frq, 1 pt] ____ an infection that is acquired in a hospital
+
+13. [frq, 1 pt] ____ a type of surveillance involving regular reporting of disease data by all institutions that see patients
+
+14. [frq, 1 pt] ____ a type of epidemiology used identify patterns among cases and in populations by person, place, and time
+
+
+=== Part II: Short Answer ===
+
+[STIMULUS] Please be as specific as possible.
+
+15. [frq, 2 pt] Describe the difference between a confirmed and probable case.
+
+16. [frq, 3 pt] Describe cohort study and discuss one (1) advantage and one (1) disadvantage in using a cohort study rather than a case-control study.
+
+17. [frq, 3 pt] Describe the chain of infection.
+
+[STIMULUS] Hill's Criteria for Causation is widely used as a guideline to establish causal relationships between a hypothesized cause and a perceived effect. In the following scenarios, name the criteria that is most relevant in demonstrating causality.
+
+18a. [frq, 2 pt] ____ A study regarding construction workers found that those who had worked longer and thereby exposure to higher levels of asbestos had a higher risk of developing lung cancer.
+
+18b. [frq, 2 pt] ____ Meta-analysis is used to combine data from multiple studies and compare the findings of a common effect.
+
+18c. [frq, 2 pt] __ An observational study investigating the association between a woman's consumption of alcohol during pregnancy and the child having heart defects obtained a relative risk of 10.
+
+18d. [frq, 2 pt] ____ After eating shrimp that had not been cooked properly, Bevo began feeling symptoms of diarrhea and abdominal pain.
+
+[STIMULUS] Breast cancer is the second most common type of cancer among women in the U.S. However, certain practices can be employed to reduce its effects on the population. Define each level of prevention and give an example specific to breast cancer.
+    | Label | Answer |
+    | **19a.** Primary Prevention |  |
+    | Definition | [[q:19a-a]] |
+    | Example | [[q:19a-b]] |
+    | **19b.** Secondary Prevention |  |
+    | Definition | [[q:19b-a]] |
+    | Example | [[q:19b-b]] |
+    | **19c.** Tertiary Prevention |  |
+    | Definition | [[q:19c-a]] |
+    | Example | [[q:19c-b]] |
+
+19a-a. [frq, 1.5 pt] Definition
+
+19a-b. [frq, 1.5 pt] Example
+
+19b-a. [frq, 1.5 pt] Definition
+
+19b-b. [frq, 1.5 pt] Example
+
+19c-a. [frq, 1.5 pt] Definition
+
+19c-b. [frq, 1.5 pt] Example
+
+[STIMULUS] Before conducting a study, epidemiologists must consider each study design's advantages and disadvantage to choose one that will best fit the situation. One factor to consider is the study design's ability to establish causality. Rank the following types of studies based on their ability to "prove" causation, with 1 being the strongest and 3 being the weakest.
+    | Label | Answer |
+    | Randomized controlled trials Randomized controlled trials | [[q:20-a]] |
+    | Ecological studies Ecological studies | [[q:20-b]] |
+    | Cohort studies Cohort studies | [[q:20-c]] |
+
+20-a. [frq, 0.667 pt] Randomized controlled trials Randomized controlled trials
+
+20-b. [frq, 0.667 pt] Ecological studies Ecological studies
+
+20-c. [frq, 0.667 pt] Cohort studies Cohort studies
+
+[STIMULUS] Health indicators are important summary measures of the health of individuals and the performance of some aspect of a health system. Fill in the following table listing examples of health indicators and their associated health conditions, risk factors, and data variables given the key risk factor. The first row is completed for you as an example.
+    | Key Risk Factor | Data Variable | Indicator | Condition |
+    | tobacco use | daily smoker | proportion adults smoking daily | cancer |
+    | Alcohol | — | [[q:21-2]] | [[q:21-3]] |
+    | Excess Body Fat | [[q:21-4]] | [[q:21-5]] | [[q:21-6]] |
+    | Blood Pressure | [[q:21-7]] | [[q:21-8]] | [[q:21-9]] |
+
+21-2. [frq, 1 pt] Row: Alcohol - Indicator
+
+21-3. [frq, 1 pt] Row: Alcohol - Condition
+
+21-4. [frq, 1 pt] Row: Excess Body Fat - Data Variable
+
+21-5. [frq, 1 pt] Row: Excess Body Fat - Indicator
+
+21-6. [frq, 1 pt] Row: Excess Body Fat - Condition
+
+21-7. [frq, 1 pt] Row: Blood Pressure - Data Variable
+
+21-8. [frq, 1 pt] Row: Blood Pressure - Indicator
+
+21-9. [frq, 1 pt] Row: Blood Pressure - Condition
+
+
+=== Part III: Case Study ===
+
+[STIMULUS] On October 15, 2018, a man with a high fever, bloody diarrhea, vomiting, and abdominal cramps was rushed to the hospital in Austin, Texas. Within the next 24 hours, another 8 people with similar symptoms were also identified within the Austin area. Public health officials' initial investigation determined that each person had eaten at the same restaurant the previous Saturday on October 13, 2018.
+
+22. [frq, 4 pt] Provide a case definition based on the above information.
+
+[STIMULUS] 117 people who ate at the restaurant on October 13, 2018 were interviewed and the following information was obtained:
+    | Food | Ate the food - Ill | Ate the food - Not ill | Did not eat the food - Ill | Did not eat the food - Not ill |
+    | Bread | 16 | 49 | 20 | 32 |
+    | Mashed Potatoes | 4 | 53 | 12 | 48 |
+    | Grilled Chicken | 26 | 10 | 15 | 66 |
+    | Spaghetti | 10 | 13 | 29 | 65 |
+    | Salad | 12 | 42 | 23 | 40 |
+    | Cheese Dip | 24 | 8 | 24 | 61 |
+    | Broccoli | 22 | 36 | 18 | 41 |
+    | Cake | 19 | 54 | 14 | 30 |
+
+27. [frq, 2 pt] Give two (2) explanations for why two food items would both have high measures of association.
+
+29. [frq, 1 pt] Identify the mode of transmission of this infectious agent.
+
+
+=== Part IV ===
+
+[STIMULUS] Seven cases of Longhorn Fever have been reported in Houston, Texas. The average incubation period for this disease is 28-30 days.
+    | Case | Age | Sex | Date of Onset | Date of Diagnosis |
+    | 1 | 33 | M | Jan. 1, 2017 | Jan. 14, 2017 |
+    | 2 | 42 | M | Jan. 24, 2017 | Jan 31, 2017 |
+    | 3 | 29 | F | Jan. 25, 2017 | Jan. 27, 2017 |
+    | 4 | 54 | M | Jan. 27, 2017 | Feb. 4, 2017 |
+    | 5 | 35 | F | Jan. 28, 2017 | Jan. 31, 2017 |
+    | 6 | 34 | F | Jan. 29, 2017 | Feb. 2, 2017 |
+    | 7 | 47 | F | Feb. 8, 2017 | Feb. 8, 2017 |
+
+32. [frq, 2 pt] Name two (2) factors that could be responsible for a delay between onset and diagnosis of a disease.
+
+
+=== Part V ===
+
+[STIMULUS] The following figure represents 8 new cases of an illness over the span of about 13 months in a population of 20 people. Each horizontal line represents one person. The down arrow indicates the date of onset of illness. The solid line represents the duration of illness. The up arrow and the circle represent the date of recovery and date of death, respectively.
+    [IMAGE: ../images/2018_university_of_texas_at_austin_invitational__p10_rc5ebb6a-a86c61c2.webp]
+
+34. [frq, 3 pt] Calculate the incidence rate from June 1, 2015 to March 1, 2016, expressed as a rate per 100 people. Hint: you may need to find the midpoint population.
+
+35. [frq, 3 pt] Calculate the point prevalence on October 1, 2015.
+
+36. [frq, 3 pt] Calculate the period prevalence from October 1, 2015 to March 1, 2016.
+
+
+=== Part V ===
+
+[STIMULUS] The world-renowned scientist Dr. Bevo has invented a new device that can scan a person’s hand to determine if they have been infected with tuberculosis. Out of the 60 people that Dr. Bevo tested with his device, 39 tested positive. Of those who tested positive, 14 people actually had the disease. On the other hand, 10 of those who tested negative did have the disease.
+
+37. [frq, 1 pt] What is the sensitivity of the test?
+
+38. [frq, 1 pt] What is the specificity of the test?
+
+39. [frq, 2 pt] Should Dr. Bevo try to market his new device to the public? Why or why not?
+
+40. [frq, 2 pt] Give two (2) detrimental effects of having a test with a high proportion of false positives.
+
+[STIMULUS] Dr. Bevo has invented yet a new device that tests for osteoporosis. He is confident that the specificity and sensitivity of this test is very high. However, after performing the test on anyone he can find, he still observes that the positive predictive value (PPV) is low.
+
+41. [frq, 1 pt] Define PPV.
+
+42. [frq, 2 pt] Why is PPV low even in a highly specific and sensitive test?
+
+43. [frq, 1 pt] What can Dr. Bevo do to increase PPV?
+
+44. [frq, 3 pt] List three (3) criteria for an effective screening program.

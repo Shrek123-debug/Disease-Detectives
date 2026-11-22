@@ -1,0 +1,320 @@
+Raisbeck-Aviation — Disease Detectives  |  Season 2015  |  Division C  |  Time limit 50 min  |  67 questions, 182.0 pts
+Source: scio.ly test archive id a3ff75ca-4358-4861-aa96-10e0efd1ea90  |  original files: https://drive.google.com/drive/folders/1B_VKk9m47pA6GLcjwmKdvysmwnvC6njQ
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 28
+
+DIRECTIONS: Resources: One 8.5" x 11" notesheet, two non-programmable, non-graphing calculators. At the end of the test, you will turn in your test packet, answer sheet, and your notesheet. Only your answer sheet will be graded. Ties will be broken by: score on study section, score on advanced concepts section, score on miscellaneous section.
+
+
+=== Basic Disease Questions ===
+
+P1-1. [multi, 2 pt] What public health problems does the CDC worry about?
+    A) Infectious disease
+    B) Obesity
+    C) Injury prevention
+    D) Food-borne pathogens
+
+P1-2. [mcq, 2 pt] Is E. coli a ... ?
+    A) Bacteria
+    B) Virus
+    C) Fungus
+    D) Non-biological agent
+
+P1-3. [mcq, 2 pt] What disease does Bacillus anthracis cause?
+    A) The flu
+    B) Anthrax
+    C) Smallpox
+    D) Cholera
+
+P1-4. [mcq, 2 pt] A case of botulism is most likely associated with?
+    A) Consumption of fresh fruit
+    B) Consumption of non-kosher meat
+    C) Consumption of preserved food
+    D) Not showering often enough
+
+P1-5. [mcq, 2 pt] Which is the most common form of plague?
+    A) Bubonic
+    B) Pneumonic
+    C) Septicemic
+    D) Black
+
+P1-6. [mcq, 2 pt] The Black Death was one of the largest pandemics in human history. Approximately how many people died?
+    A) 1 million
+    B) 10 million
+    C) 100 million
+    D) 1 billion
+
+P1-7. [mcq, 2 pt] Which type of vaccine contains micro-organisms that have been destroyed (by chemicals, heat, radioactivity or antibiotics)?
+    A) Toxoid
+    B) Attenuated
+    C) Inactivated
+    D) Conjugate
+
+P1-8. [mcq, 2 pt] Which of the following is a non-infectious health burden?
+    A) The flu
+    B) Heart disease
+    C) Malaria
+    D) HIV/AIDS
+
+
+=== Advanced Concepts ===
+
+P2-1a. [frq, 2 pt] Define: Outbreak
+
+P2-1b. [frq, 2 pt] Define: Epidemic
+
+P2-1c. [frq, 2 pt] Define: Pandemic
+
+P2-1d. [frq, 2 pt] Define: Surveillance
+
+P2-1e. [frq, 2 pt] Define: Relative risk
+
+P2-1f. [frq, 2 pt] Define: Vector
+
+P2-1g. [frq, 2 pt] Define: Fomite
+
+P2-1h. [frq, 2 pt] Define: Zoonosis
+
+P2-1i. [frq, 2 pt] Define: Epidemiology
+
+P2-1j. [frq, 2 pt] Define: Carrier
+
+P2-1k. [frq, 2 pt] Define: Contagious
+
+P2-1l. [frq, 2 pt] Define: Active immunity
+
+P2-1m. [frq, 2 pt] Define: Herd immunity
+
+P2-1n. [frq, 2 pt] Define: Morbidity
+
+P2-1o. [frq, 2 pt] Define: Mortality rate
+
+P2-1p. [frq, 2 pt] Define: Reservoir
+
+P2-1q. [frq, 2 pt] Define: Virulence
+
+P2-1r. [frq, 2 pt] Define: Hay fever
+
+P2-1s. [frq, 2 pt] Define: Incubation period
+
+P2-3. [frq, 2 pt] What does it mean for a bacteria to be gram-positive?
+
+P2-4a. [frq, 3 pt] For Direct Contact, describe it and name at least one method of prevention.
+
+P2-4b. [frq, 3 pt] For Indirect Contact, describe it and name at least one method of prevention.
+
+P2-4c. [frq, 3 pt] For Droplet Contact, describe it and name at least one method of prevention.
+
+P2-4d. [frq, 3 pt] For Airborne, describe it and name at least one method of prevention.
+
+P2-4e. [frq, 3 pt] For Vehicle, describe it and name at least one method of prevention.
+
+P2-4f. [frq, 3 pt] For Vector-borne, describe it and name at least one method of prevention.
+
+P2-5. [frq, 3 pt] Name three STDs.
+
+P2-6. [frq, 4 pt] Describe a point source outbreak.
+
+P2-7. [frq, 5 pt] Distinguish between HIV and AIDS. Make sure you define the acronyms.
+
+P2-8. [frq, 10 pt] What are the ten steps of outbreak investigation?
+
+P2-9. [frq, 10 pt] Is autism caused by vaccinations?
+
+P2-10. [frq, 4 pt] Define overweight and obese.
+
+
+=== Statistical Methods and Study Design (Round to the hundredths, unless otherwise indicated) ===
+
+[STIMULUS] Dataset 1
+    | Dataset 1 |
+    | 6.1 | 10.7 | 1.0 | 10.0 | 7.7 | 4.2 | 4.7 | 6.7 | 5.0 | 7.9 |
+
+P3-1a. [numeric, 1 pt] Calculate the mean for dataset 1. Use appropriate significant figures.
+
+P3-1b. [numeric, 1 pt] Calculate the median for dataset 1. Use appropriate significant figures.
+
+P3-1c. [numeric, 2 pt] Calculate the standard deviation for dataset 1. Use appropriate significant figures.
+
+[STIMULUS] Dataset 2
+    |  | Sick | Healthy |
+    | Exposed | 95 | 79 |
+    | Not exposed | 82 | 33 |
+
+P3-2a. [numeric, 3 pt] Calculate odds ratio for Dataset 2.
+
+P3-2b. [frq, 3 pt] Make a conclusion about exposure based on odds ratio.
+
+[STIMULUS] Dataset 3
+    |  | Sick | Healthy |
+    | Exposed | 71 | 13 |
+    | Not exposed | 25 | 27 |
+
+P3-3a. [numeric, 3 pt] Calculate relative risk for Dataset 3.
+
+P3-3b. [frq, 3 pt] Make a conclusion about exposure based on relative risk.
+
+P3-4. [mcq, 2 pt] Let's say you had a breathalyzer that was calibrated so that it read 150% too high. Is this an example of ...
+    A) Random error
+    B) Systematic error
+    C) Confounding
+    D) Selection bias
+
+[STIMULUS] Dataset 4
+    | Dataset 4 | Condition positive | Condition negative |
+    | Test positive | 61 | 67 |
+    | Test negative | 4 | 85 |
+
+P3-5a. [numeric, 2 pt] How many true positives are there?
+
+P3-5b. [frq, 3 pt] Explain accuracy and calculate it for DS 4.
+
+P3-5c. [frq, 3 pt] Explain precision and calculate it for DS 4.
+
+P3-5d. [frq, 3 pt] Explain sensitivity and calculate it for DS 4.
+
+P3-5e. [frq, 3 pt] Explain specificity and calculate it for DS 4.
+
+[STIMULUS] Dengue Fact Sheet
+
+**What is dengue?**
+Dengue is an acute infectious disease that comes in two forms: dengue and dengue hemorrhagic fever. The principal symptoms of dengue are high fever, severe headache, backache, joint pains, nausea and vomiting, eye pain, and rash. Generally, younger children have a milder illness than older children and adults.
+
+Dengue hemorrhagic fever is a more severe form of dengue. It is characterized by a fever that lasts from 2 to 7 days, with general signs and symptoms that could occur with many other illnesses (e.g., nausea, vomiting, abdominal pain, and headache). This stage is followed by hemorrhagic manifestations, tendency to bruise easily or other types of skin hemorrhages, bleeding nose or gums, and possibly internal bleeding. The smallest blood vessels (capillaries) become excessively permeable ("leaky"), allowing the fluid component to escape from the blood vessels. This may lead to failure of the circulatory system and shock, followed by death, if circulatory failure is not corrected. Although the average case-fatality rate is about 5%, with good medical management, mortality can be less than 1%.
+
+**What causes dengue?**
+Dengue and dengue hemorrhagic fever are caused by any one of four closely related flaviviruses, designated DEN-1, DEN-2, DEN-3, or DEN-4.
+
+**How is dengue diagnosed?**
+Diagnosis of dengue infection requires laboratory confirmation, either by isolating the virus from serum within 5 days after onset of symptoms, or by detecting convalescent-phase specific antibodies obtained at least 6 days after onset of symptoms.
+
+**What is the treatment for dengue or dengue hemorrhagic fever?**
+There is no specific medication for treatment of a dengue infection. Persons who think they have dengue should use analgesics (pain relievers) with acetaminophen and avoid those containing aspirin. They should also rest, drink plenty of fluids, and consult a physician. Persons with dengue hemorrhagic fever can be effectively treated by fluid replacement therapy if an early clinical diagnosis is made, but hospitalization is often required.
+
+**How common is dengue and where is it found?**
+Dengue is endemic in many tropical countries in Asia and Latin America, most countries in Africa, and much of the Caribbean, including Puerto Rico. Cases have occurred sporadically in Texas. Epidemics occur periodically. Globally, an estimated 50 to 100 million cases of dengue and several hundred thousand cases of dengue hemorrhagic fever occur each year, depending on epidemic activity. Between 100 and 200 suspected cases are introduced into the United States each year by travelers.
+
+**How is dengue transmitted?**
+Dengue is transmitted to people by the bite of an Aedes mosquito that is infected with a dengue virus. The mosquito becomes infected with dengue virus when it bites a person who has dengue or DHF and after about a week can transmit the virus while biting a healthy person. Monkeys may serve as a reservoir in some parts of Asia and Africa. Dengue cannot be spread directly from person to person.
+
+**Who has an increased risk of being exposed to dengue?**
+Susceptibility to dengue is universal. Residents of or visitors to tropical urban areas and other areas where dengue is endemic are at highest risk of becoming infected. While a person who survives a bout of dengue caused by one serotype develops lifelong immunity to that serotype, there is no cross-protection against the three other serotypes.
+
+**What can be done to reduce the risk of acquiring dengue?**
+There is no vaccine for preventing dengue. The best preventive measure for residents living in areas infested with Aedes aegypti is to eliminate the places where the mosquito lays her eggs, primarily artificial containers that hold water.
+
+Items that collect rainwater or are used to store water (for example, plastic containers, 55-gallon drums, buckets, or used automobile tires) should be covered or properly discarded. Pet and animal watering containers and vases with fresh flowers should be emptied and scoured at least once a week. This will eliminate the mosquito eggs and larvae and reduce the number of mosquitoes present in these areas.
+
+For travelers to areas with dengue, as well as people living in areas with dengue, the risk of being bitten by mosquitoes indoors is reduced by utilization of air conditioning or windows and doors that are screened. Proper application of mosquito repellents containing 20% to 30% DEET as the active ingredient on exposed skin and clothing decreases the risk of being bitten by mosquitoes. The risk of dengue infection for international travelers appears to be small, unless an epidemic is in progress.
+
+**Can epidemics of dengue hemorrhagic fever be prevented?**
+The emphasis for dengue prevention is on sustainable, community-based, integrated mosquito control, with limited reliance on insecticides (chemical larvicides and adulticides). Preventing epidemic disease requires a coordinated community effort to increase awareness about dengue/DHF, how to recognize it, and how to control the mosquito that transmits it. Residents are responsible for keeping their yards and patios free of sites where mosquitoes can be produced.
+
+Source: Centers for Disease Control and Prevention [Internet]. Dengue Fever. [updated 2005 Aug 22]. Available from http://www.cdc.gov/ncidod/dvbid/dengue/index.htm.
+
+[STIMULUS] Table 2.13 Age and Blood Lead Levels (BLLs) of Ill Villagers and Family Members — Country X, 1996
+
+† Blood lead levels measured in micrograms per deciliter (mcg/dL)
+? Missing value
+Data Source: Nasser A, Hatch D, Pertowski C, Yoon S. Outbreak investigation of an unknown illness in a rural village, Egypt (case study). Cairo: Field Epidemiology Training Program, 1999.
+    | ID | Age (Years) | BLL† | Log10BLL | ID | Age (Years) | BLL | Log10BLL |
+    | 1 | 3 | 69 | 1.84 | 22 | 33 | 103 | 2.01 |
+    | 2 | 4 | 45 | 1.66 | 23 | 33 | 46 | 1.66 |
+    | 3 | 6 | 49 | 1.69 | 24 | 35 | 78 | 1.89 |
+    | 4 | 7 | 84 | 1.92 | 25 | 35 | 50 | 1.70 |
+    | 5 | 9 | 48 | 1.68 | 26 | 36 | 64 | 1.81 |
+    | 6 | 10 | 58 | 1.77 | 27 | 36 | 67 | 1.83 |
+    | 7 | 11 | 17 | 1.23 | 28 | 38 | 79 | 1.90 |
+    | 8 | 12 | 76 | 1.88 | 29 | 40 | 58 | 1.76 |
+    | 9 | 13 | 61 | 1.79 | 30 | 45 | 86 | 1.93 |
+    | 10 | 14 | 78 | 1.89 | 31 | 47 | 76 | 1.88 |
+    | 11 | 15 | 48 | 1.68 | 32 | 49 | 58 | 1.76 |
+    | 12 | 15 | 57 | 1.76 | 33 | 56 | ? | ? |
+    | 13 | 16 | 68 | 1.83 | 34 | 60 | 26 | 1.41 |
+    | 14 | 16 | ? | ? | 35 | 65 | 104 | 2.02 |
+    | 15 | 17 | 26 | 1.42 | 36 | 65 | 39 | 1.59 |
+    | 16 | 19 | 78 | 1.89 | 37 | 65 | 35 | 1.54 |
+    | 17 | 19 | 56 | 1.75 | 38 | 70 | 72 | 1.86 |
+    | 18 | 20 | 54 | 1.73 | 39 | 70 | 57 | 1.76 |
+    | 19 | 22 | 73 | 1.86 | 40 | 76 | 38 | 1.58 |
+    | 20 | 26 | 74 | 1.87 | 41 | 78 | 44 | 1.64 |
+    | 21 | 27 | 63 | 1.80 |  |  |  |  |
+
+
+=== Part I Dengue Fever ===
+
+P5-I-7. [mcq, 1 pt] In Texas, this disease is best described as:
+    A) Sporadic
+    B) Endemic
+    C) Hyperendemic
+    D) Pandemic
+    E) Epidemic
+
+P5-I-9. [frq, 6 pt] Give 3 specific examples of how to control dengue fever.
+
+P5-I-13. [mcq, 1 pt] Dengue fever is best described as a ____ disease.
+    A) Point source
+    B) Continuous source
+    C) Propagated
+    D) None of these
+
+P5-I-14. [frq, 6 pt] Some New York residents returning from a Caribbean group tour are complaining of symptoms that are often caused by dengue fever. They did visit an area with endemic dengue fever. Also, members of their families that did not go on the vacation are complaining of some of these symptoms. Write 3 case definitions for these people: suspected, probable, and confirmed. Show by your definitions that you know the difference between suspected, probable and confirmed.
+
+[STIMULUS] For each of the variables listed below that could be used in data collection from this group of people, identify what type of variable it is. Use as many terms as necessary to identify each variable. The first one is done as an example.
+
+Type of Variable
+A. Categorical
+B. Continuous
+C. Interval
+D. Nominal
+E. Ordinal
+F. Qualitative
+G. Quantitative
+H. Ratio
+
+P5-I-15a. [frq, 1 pt] Identify the type of variable for: Sex (example)
+
+P5-I-16. [multi, 1 pt] In the definition of epidemiology, "determinants" generally includes:
+    A) Agents
+    B) Causes
+    C) Control measures
+    D) Risk factors
+    E) Sources
+
+P5-I-17. [frq, 4 pt] List 4 determinants in the case of these tourists' illness.
+    1. the tourists traveled to an area where mosquitos are common and dengue is endemic
+    2. the tourists are experiencing symptoms associated with dengue
+    3. ____
+    4. ____
+
+P5-I-18. [tf, 1 pt] Would you expect to find dengue fever listed as a notifiable disease in the US? Circle one: Yes or No
+    A) True
+    B) False
+
+P5-I-19. [frq, 3 pt] Would confirmed cases among these tourists call for public health measures? Circle one: Yes or No If so, give an example of those measures.
+
+P5-I-20. [frq, 3 pt] Would your answer above change if these tourists resided in Texas? Circle one: Yes or No If so, how?
+
+P5-I-21. [frq, 10 pt] During the previous 6 years, one to three cases per year of dengue fever had been reported to the Texas state health department. During the past 3 months, 17 cases have been reported. All but two of these cases have been reported from one county. The local newspaper published an article about one of the first reported cases, which occurred in a girl aged 3 years.
+    
+    Give 5 possible causes of the increase in reported cases.
+
+[STIMULUS] Indicate which epicurve (A, B, C, or D) is most likely to represent each of the following by circling:
+    [IMAGE: ../images/2015_raisbeck_aviation_c__p12_vb67a77-2f018e6e.webp]
+
+P5-I-22a. [mcq, 1 pt] The tourist group's reports of illness?
+    A) A
+    B) B
+    C) C
+    D) D
+
+P5-I-22b. [mcq, 1 pt] Dengue fever cases in Puerto Rico?
+    A) A
+    B) B
+    C) C
+    D) D
+
+P5-I-22c. [mcq, 1 pt] Dengue fever cases in Texas?
+    A) A
+    B) B
+    C) C
+    D) D

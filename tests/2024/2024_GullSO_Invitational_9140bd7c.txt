@@ -1,0 +1,244 @@
+GullSO Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  69 questions, 128.0 pts
+Source: scio.ly test archive id 9140bd7c-ec34-4e99-8421-9c323013a33c  |  original files: https://drive.google.com/drive/folders/1-tsYsrgpwDVHBQlSfGxM74qWPPaslYUr
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 11
+
+DIRECTIONS: Point values are given for every question.
+
+
+=== Case Study 1: Salmonella ===
+
+[STIMULUS] In July 2010, CDC identified a nationwide sustained increase in the number of Salmonella Enteritidis isolates with PFGE pattern JEGX01.0004 uploaded to PulseNet.
+
+3. [frq, 3 pt] What are the 5 steps of surveillance in order?
+
+4. [mcq, 1 pt] What is the main goal of PFGE in epidemiology?
+    A) Determining the sequence of DNA molecules.
+    B) Separating and analyzing large DNA fragments.
+    C) Quantifying gene expression levels.
+    D) Visualizing protein-protein interactions.
+
+5. [frq, 3 pt] From May 1 to November 30, 2010, a total of 3,578 illnesses were reported. With this information alone, can we conclude that these cases of Salmonella Enteritidis constitute an outbreak? Give two reasons as to why or why not.
+
+6. [frq, 2 pt] Would the total number of cases recorded on any given day be an underestimate or overestimate of the true prevalence? Explain.
+
+[STIMULUS] Now suppose that the cases are captured in the graph here:
+    [IMAGE: ../images/2023_gullso_invitational_c__p2_668503-e0ec0c64.webp]
+
+7. [frq, 1 pt] What is this graph called?
+
+8. [frq, 4 pt] The incubation period of Salmonella is typically 12-96 hours. However, this outbreak went on for months. What does this suggest about the type of outbreak? Justify your answer.
+
+9. [frq, 5 pt] To investigate this outbreak, epidemiologists go into the field and interview people who have been infected. List and define the 5 types of information that should be collected in an interview.
+
+10. [frq, 1 pt] After finishing all interviews, what step comes next in the 13 steps of outbreak investigation?
+
+[STIMULUS] Among these 3,578 sick individuals, suppose that epidemiologists focus on a subset of 600 people who were all sick in Galt, Iowa. Epidemiologists gather a group of 600 individuals who are not sick and compile the following table:
+    |  | Sick | Not Sick |
+    | Ate at Flavor Fusion Grill | 335 | 139 |
+    | Ate at Bistro Bites | 250 | 300 |
+    | Ate at Luna’s Kitchen | 320 | 200 |
+
+11. [frq, 1 pt] What type of study is this?
+
+12. [frq, 4 pt] What are 2 advantages and disadvantages of this type of study?
+
+14. [frq, 2 pt] If multiple restaurants have a measure of association greater than 1, does that necessarily mean that multiple restaurants are contaminated? Why or why not?
+
+16. [mcq, 1 pt] After obtaining a measure of association for a specific restaurant, epidemiologists are interested in the statistical significance of the result. Which test best fits this purpose?
+    A) Two tailed z-test
+    B) Two tailed t-test
+    C) Chi-squared test
+    D) Fischer’s Exact test
+
+17. [frq, 2 pt] Write an appropriate null hypothesis for testing whether or not the events of eating at Bistro Bites and getting Salmonella are correlated.
+
+18. [mcq, 2 pt] Which of the following options best defines a p-value?
+    A) The probability that an event occurred under the assumption of the null hypothesis
+    B) The chance of observing an event as or more extreme than what’s given.
+    C) The likelihood of rejecting your alternate hypothesis
+    D) The probability of committing a Type-II error
+
+19. [frq, 4 pt] What is the difference between a Type I and Type II error?
+
+20. [frq, 2 pt] When would the results of a chi-squared test be considered statistically significant?
+
+21. [frq, 4 pt] Why can’t case control studies use relative risk?
+
+22. [frq, 4 pt] In the absence of relative risk, case control studies rely on the odds ratio. However, this approximation is not always accurate. When might the odds ratio accurately approximate the relative risk? Mathematically justify your answer.
+
+
+=== Case Study 2: A Deadly New Flu ===
+
+23. [frq, 2 pt] Is the index case always the first case of disease to exist? Why or why not?
+
+24. [tf, 1 pt] A rate is not always a proportion, but a proportion is always a rate.
+    A) True
+    B) False
+
+25. [tf, 1 pt] A ratio involves dividing two quantities, which may or may not have the same units.
+    A) True
+    B) False
+
+[STIMULUS] For questions 26-30, classify the statistics as a rate, ratio, or proportion (choose the most specific one).
+
+26. [mcq, 1 pt] Case-fatality rate
+    A) Rate
+    B) Ratio
+    C) Proportion
+
+27. [mcq, 1 pt] Relative Risk
+    A) Rate
+    B) Ratio
+    C) Proportion
+
+28. [mcq, 1 pt] Attack rate
+    A) Rate
+    B) Ratio
+    C) Proportion
+
+29. [mcq, 1 pt] Period Prevalence
+    A) Rate
+    B) Ratio
+    C) Proportion
+
+30. [mcq, 1 pt] Proportionate Mortality
+    A) Rate
+    B) Ratio
+    C) Proportion
+
+35. [mcq, 2 pt] Which of the following is NOT true about Incidence rate?
+    A) Incidence rates allow for the accounting of people entering and exiting a study
+    B) Incidence rates measure the speed of disease spread in a population
+    C) Incidence rate is less precise than incidence proportion
+    D) An Incidence rate can also be calculated with mid-interval population in the denominator
+
+36. [frq, 4 pt] What is one key drawback of incidence rate?
+
+37. [frq, 4 pt] What are the four levels of Disease Control? Define each of them.
+
+
+=== Case Study 3: Covid-19 strikes again ===
+
+[STIMULUS] Suppose that there has been a new surge of a new, mutated strain of Covid-19, where the spike protein is minorly different from that of the Omicron variant.
+
+38. [frq, 2 pt] Would this new strain be a result of Antigenic Shift or Antigenic Drift? Why?
+
+39. [frq, 2 pt] What is the difference between a diagnostic test and a screening test?
+
+[STIMULUS] **Fill the Blank.** Screening tests fall under the ____ level of prevention and aim to detect disease during the ____ stage of the natural history of disease.
+
+40-1. [frq, 0.5 pt] Blank 1: **Fill the Blank.** Screening tests fall under the ____ level of prevention and aim to detect disease during the (…) stage of the natural history of disease.
+
+40-2. [frq, 0.5 pt] Blank 2: **Fill the Blank.** Screening tests fall under the (…) level of prevention and aim to detect disease during the ____ stage of the natural history of disease.
+
+42. [mcq, 2 pt] Which of the following are true about the practice of Quarantine?
+    A) Quarantine is a form of secondary prevention
+    B) Quarantine involves the separation of sick individuals from the general population
+    C) Quarantine helps the individual recover from disease
+    D) All of the above
+    E) None of the above
+
+43. [frq, 3 pt] With this new strain of covid-19, should epidemiologists implement passive or active surveillance? Why?
+
+[STIMULUS] Scientists design a new covid-19 screening test called “EasyTest”. They test “EasyTest” on a population of 200 people, where this new covid-19 strain has a 50.00% prevalence. They find that within this population, “EasyTest” has a specificity of 90.00% and an NPV of 96.77%.
+    |  | Sick | Not Sick | Total |
+    | EasyTest Positive | (a) | (b) |  |
+    | EasyTest Negative | (c) | (d) |  |
+    | Total |  |  | 200 |
+
+44a. [numeric, 1 pt] Fill in the value (a). Round values to the nearest integer.
+
+44b. [numeric, 1 pt] Fill in the value (b). Round values to the nearest integer.
+
+44c. [numeric, 1 pt] Fill in the value (c). Round values to the nearest integer.
+
+44d. [numeric, 1 pt] Fill in the value (d). Round values to the nearest integer.
+
+45. [frq, 2 pt] Calculate the sensitivity. Interpret this statistic.
+
+46. [frq, 3 pt] Does prevalence affect a test’s sensitivity or specificity? Why or why not?
+
+47. [frq, 2 pt] Calculate PPV. Interpret this statistic.
+
+48. [tf, 1 pt] PPV is always 0 if prevalence is 0.
+    A) True
+    B) False
+
+49. [tf, 1 pt] If prevalence is 0, then all negative tests are true negatives.
+    A) True
+    B) False
+
+50. [tf, 1 pt] If prevalence is 1, then NPV must be greater than 0.
+    A) True
+    B) False
+
+51. [frq, 2 pt] How might length-time bias affect the perceived survival duration after contracting this new strain of Covid?
+
+[STIMULUS] In order to improve their test, Scientists design "EasyTest 2", which is supposed to be performed in **series** to "EasyTest". That is, if "EasyTest" comes back positive, then "EasyTest 2" is performed. If both tests are positive, we assume that the patient has the disease. Otherwise, we assume the patient does not have the disease. The process is summarized in the diagram. In the questions below, A refers to "EasyTest" and B refers to "EasyTest 2".
+    [IMAGE: ../images/2023_gullso_invitational_c__p7_747e48-ae089999.webp]
+
+52. [mcq, 1 pt] Serial testing is designed to increase the ____ (Sensitivity/Specificity) of a test
+    A) Sensitivity
+    B) Specificity
+
+53. [frq, 2 pt] Sensitivity is also known as the "True Positive Probability". In Serial testing, we would like both tests to be true positives to classify someone as diseased. What is the sensitivity of serial testing?
+
+54. [frq, 2 pt] In terms of True Negatives, what is the definition of Specificity? What would 1 - Specificity represent?
+
+55. [frq, 1 pt] In terms of A and B, what is the probability that both tests turn up as False Positives?
+
+56. [frq, 2 pt] For our specificity, we'd like to find the probability that at least one test is a true negative. How could we find this specificity if we're given the probability that both tests are False Positives?
+
+[STIMULUS] Scientists are now working on a new vaccine, and they need to test it before FDA approval.
+
+58. [frq, 1 pt] What does FDA stand for?
+
+59. [frq, 2 pt] What is considered the "gold standard" of clinical trials?
+
+60. [mcq, 1 pt] Which of the following would be considered a singly blinded experiment?
+    A) Participants in a diet pill study don't know if they've been given a placebo or the actual drug, but doctors are aware.
+    B) The data analysts for the experiment don't know which group of data they're processing
+    C) Neither doctors nor participants are aware of which group they're in/responsible for.
+    D) Participants are falsely told that they are in the control group when they are actually in the treatment group and vice versa.
+
+61. [frq, 1 pt] Why is blinding useful in experimental studies?
+
+62. [frq, 3 pt] How does vaccine efficacy differ from vaccine effectiveness? Which one should researchers seek to maximize?
+
+64. [frq, 1 pt] One goal of vaccination is to reach herd immunity. What is the herd immunity threshold, in terms of R0, the basic reproductive number?
+
+65. [frq, 3 pt] How might this threshold change depending on the effectiveness of my vaccine? What would be the minimum possible herd immunity threshold?
+
+
+=== Case Study 4: Causation Causation Causation ===
+
+[STIMULUS] Throughout epidemiology, epidemiologists have been focused on discovering different ways to represent and determine causality. One of the oldest and most trusted methods is Bradford Hill's criteria.
+
+For the following questions, identify which of Bradford Hill's criteria is best illustrated.
+
+66. [frq, 1 pt] In a cohort study to determine the culprit of a foodborne outbreak, the relative risk for those who ate the sushi was 4.57.
+
+67. [frq, 1 pt] A study in Mountain View, California found that smoking increases risk for lung cancer, which was corroborated by studies in New York and Europe as well.
+
+68. [frq, 1 pt] A new study that examined the effects of alcohol on liver damage had results that was in line with previous knowledge regarding the liver stress due to alcohol.
+
+69. [frq, 1 pt] Researchers found that a longer period of exposure to lead paint leads to more severe effects of lead poisoning.
+
+70. [frq, 1 pt] Researchers have found that the onset of yellow fever always precedes a mosquito bite.
+
+[STIMULUS] However, as time has passed, newer, more modern models of causation have emerged. One such model is a Directed Acyclic Graph (DAG). Consider the simple DAG below, where arrows represent association between two events:
+    [IMAGE: ../images/2023_gullso_invitational_c__p9_ea5293-a8d05a8f.webp]
+
+71. [frq, 1 pt] What is the relationship that researchers are studying in this scenario?
+
+72. [frq, 1 pt] What would Overcrowding be considered as in the context of this relationship?
+
+73. [frq, 3 pt] Although DAGs cannot directly determine the Strength of Association, how might researchers use information in a DAG to indirectly analyze the Strength of Association?
+
+74. [frq, 3 pt] Can DAGs always demonstrate Bradford Hill's Criteria of Specificity? Why or why not?
+
+75. [frq, 3 pt] How might a confounding variable induce a false dose-response relationship? How can analyzing a DAG help address this issue?
+
+76. [tf, 1 pt] True or False: Researchers choose only to include relevant factors in a DAG, thus automatically satisfying the principle of Plausibility.
+    A) True
+    B) False

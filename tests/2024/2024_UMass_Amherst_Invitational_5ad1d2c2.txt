@@ -1,0 +1,842 @@
+UMass Amherst Invitational — Disease Detectives  |  Season 2024  |  Division C  |  Time limit 50 min  |  80 questions, 215.0 pts
+Source: scio.ly test archive id 5ad1d2c2-0637-4fb7-8a7b-d0456c1a14dc  |  original files: https://drive.google.com/drive/folders/1oZCbJrUGCSDP5Ri06ZwxoEFziysMNAb5
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 13
+
+DIRECTIONS: Round to Nearest Point Value Specified by Question for Calculations
+Good Luck!
+
+
+=== Part 1 Situational Vocabulary - 20 Points ===
+
+[STIMULUS] Using the word bank below, match the term that best describes the situation being described in questions 1-20. There will be one point awarded for each correct answer in this section.
+
+A. Epidemic
+B. Index Case
+C. Pathogenicity
+D. Symptoms
+E. Opportunistic
+F. Signs
+G. Histamines
+H. Virulence Infection
+I. Metazoa
+J. Effectiveness
+K. Iatrogenic
+L. Idiopathic
+M. Efficacy
+N. Fulminant
+O. Zoonosis
+P. Spillover event
+Q. Antigenic Drift
+R. Null Hypothesis
+S. Infectivity
+T. Antigenic Shift
+U. Epitope
+V. Infection
+W. Colonization
+X. Toll-like receptor
+
+1. [mcq, 1 pt] Divila has been coming to work with a rash, swollen eyes, and grayish spots in the mouth; her coworker Alana alerts her to this. Divila is experiencing ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+2. [mcq, 1 pt] Rohit’s favorite animals are parrots, and he owns several in his home. After a few months of owning the parrots, he develops severe psittacosis and eventual pneumonia. Rohit’s infection is an occurrence of ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+3. [mcq, 1 pt] The village of Giethoorn located in the Netherlands is experiencing an upsurge of a mysterious illness. A man by the name of Johan claims to be the first to have become infected, Johan’s case is an ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+4. [mcq, 1 pt] While on vacation in Nepal, you and your cousins decide to go hiking at night. Due to the high temperature, you and your cousins all wear tank tops, and seemingly forget to put on bug spray. Over the next few days, you notice that you and your cousins have several bug bites, grayish discoloration of the skin, and an enlarged liver. Local medical professionals diagnose you with Visceral leishmaniasis, which is spread through the bites of infected female sandflies throughout South Asia. The vector that has infected you is a ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+5. [mcq, 1 pt] Hadassah really likes to eat papaya, and frequently incorporates it into every meal. One day she throws a party, in which she serves papaya that every guest eats. Out of the thirty guests in attendance, four people begin to break out in hives and sneeze uncontrollably, these individuals would be releasing ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+6. [mcq, 1 pt] There has been a large increase in opioid-related deaths in the United States over the past decade due to overdose. This opioid crisis can be referred to as an ____.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+8. [mcq, 1 pt] Rome was diagnosed with HIV and was watching TV at home. However, his mom came home with influenza and was coughing repeatedly. A day later, Rome was extremely sick with influenza and had an overall body temperature of 110 degrees Fahrenheit.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+9. [mcq, 1 pt] Vib went to the doctor and was prescribed an inhaler to treat his asthma. When using it at home, he was inflicted with acute bronchitis and was sent to the emergency room.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+10. [mcq, 1 pt] Linn was hired as the new Chair of the Massachusetts Department of Public Health, and was tasked with gaining important information about a recent ebola outbreak. He was then sweating profusely after he saw that there had been 900 fatalities out of the 1100 infected with the emerging illness in the Boston area.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+11. [mcq, 1 pt] After Sam went home after a soccer game, he felt very sick. He told his mom that he had a headache, chills, nausea, and overall tiredness.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+12. [mcq, 1 pt] 100 years ago, there were reports of many cases of diarrhea and nausea after an event at UMass, but to this day, no one knows the agent that caused it. ____
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+13. [mcq, 1 pt] Nikola was performing a clinical trial to create a broad spectrum antibiotic that would treat all influenza strains, and had been finishing up her trials. However, she was not able to produce the results she wanted in the trial, so therefore her trial had exhibited a low ____.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+14. [mcq, 1 pt] Jum was testing Jin’s vaccine on a college campus and found that Jin is terrible at making vaccines. He found that 11 out of the 20 vaccinated students on campus had still contracted the illness the vaccine was intended to prevent against.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+15. [mcq, 1 pt] Bob was studying for the UMASO tournament and came across a stump. He was looking at his past test scores and found no relationship between the amount of time he had put into studying and his overall scores.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+17. [mcq, 1 pt] The Influenza A virus exhibits segmented RNA genomes, causing it to often undergo forced reassortment between different strains. This reassortment of genetic material occurs when two or more different Influenza A infect the same host cell, often resulting in the emergence of a new viral subtype, which increases the potential for a pandemic to occur as there will be little acquisition of host immunity.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+18. [mcq, 1 pt] The bacterium Streptococcus pneumoniae, is known to colonize the human respiratory tract. Its ability to do so begins as the bacterium possesses surface proteins known as adhesins, which interact with host respiratory cell receptors. As many of these receptors are glycoproteins or carbohydrates, these molecules make for feasible docking sites for bacterial adhesins on the cell surface.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+19. [mcq, 1 pt] The HIV-1 subtype B is known for its high rate of mutation as it undergoes continuous evolution. This process occurs due to the frequency of error within its reverse transcriptase enzyme during replication, resulting in an overabundance of genetic variation over time. This adaptability over time is a key factor preventing the development of a broad functioning HIV vaccine.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+20. [mcq, 1 pt] Immune Thrombocytopenia is an autoimmune disorder that causes a low platelet count, resulting in easy bruising within those who exhibit the condition. While some cases of this disorder have been thought to result from viral infection, the exact cause of the disorder remains elusive.
+    A) Epidemic
+    B) Index Case
+    C) Pathogenicity
+    D) Symptoms
+    E) Opportunistic
+    F) Signs
+    G) Histamines
+    H) Virulence Infection
+    I) Metazoa
+    J) Effectiveness
+    K) Iatrogenic
+    L) Idiopathic
+    M) Efficacy
+    N) Fulminant
+    O) Zoonosis
+    P) Spillover event
+    Q) Antigenic Drift
+    R) Null Hypothesis
+    S) Infectivity
+    T) Antigenic Shift
+    U) Epitope
+    V) Infection
+    W) Colonization
+    X) Toll-like receptor
+
+
+=== Part II, Analytical Multiple Choice - 50 Points ===
+
+[STIMULUS] Read the following questions carefully. There will be two points awarded for each correct answer in this section.
+
+II-1. [mcq, 2 pt] Recent studies have been investigating the linkage between pathogens and the initiation and acceleration of autoimmune disorders. This could occur as pathogens have the ability to directly damage the cells that they infect, forcing a cell to initiate programmed necrosis. The overabundance of this occurrence results in eventual inflammation and autoimmunity.
+    
+    **Which of Hill's Criteria for Causation does this represent?**
+    A) Temporality
+    B) Plausibility
+    C) Coherence
+    D) Strength
+
+II-4. [mcq, 2 pt] What specific bacteria was found to be breeding in the cooling tower of a hotel air conditioning system in 1977, prompting worldwide regulation for the sanitation of climate control systems?
+    A) Vibrio Cholera
+    B) Legionella
+    C) Mycobacterium tuberculosis
+    D) Salmonella Enteritidis
+
+II-5. [mcq, 2 pt] Robert Koch’s introspection involving which disease resulted in his development of Koch’s postulates?
+    A) Anthrax
+    B) Influenza
+    C) Hepatitis B
+    D) Chikungunya Fever
+
+II-7. [mcq, 2 pt] A Gram-negative, rod-shaped facultative anaerobe, most of which harmlessly colonize the gastrointestinal tract of both humans and animals. Some strains of this bacteria can evolve and develop pathogenicity by acquiring virulence factors transposons, plasmids, bacteriophages and pathogenicity islands.
+    
+    **What bacteria is described above?**
+    A) Clostridium perfringens
+    B) Enterococcus faecalis
+    C) Escherichia coli
+    D) Lactobacillus
+
+II-8. [mcq, 2 pt] The Coronary Artery Calcium Scoring Procedure involves a specialized computer tomography scan which assesses the heart to evaluate the presence and levels of calcium deposits within the coronary arteries. The calcium levels assessed within this system can be indicative of atherosclerosis, a beginning stage of Coronary Artery Disease.
+    
+    **What level of preventative health measure is this?**
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Quaternary
+
+II-9. [mcq, 2 pt] Due to the over usage and misuse of antibiotics, antimicrobial resistance has become a large-scale global health concern. Healthcare professionals alongside biomedical researchers across global institutions attempt to confront this through the introduction of decision support systems within electronic health records. This serves to provide instantaneous guidance to healthcare professionals, which assists them in judgements regarding the prescription of antibiotics.
+    
+    **What level of preventative health measure is this?**
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Quaternary
+
+II-10. [mcq, 2 pt] Conducting in-depth studies to better understand social determinants of disease, such as income inequality, would provide a geospatial comprehension of regions more likely to exhibit an outbreak of infectious disease. The implementation of this would make targeted intervention planning a more feasible possibility.
+    
+    **What level of preventative health measure is this?**
+    A) Primordial
+    B) Primary
+    C) Secondary
+    D) Quaternary
+
+II-11. [mcq, 2 pt] Cases of Naegleria fowleri, a rare waterborne brain-eating amoeba, have been reported in Pakistan. Resulting from Naegleria fowleri entering through the nasal passages is an infection known as Primary Amebic Meningoencephalitis (PAM), which causes inflammation and destruction of the affected cranial tissue. Also frequently occurring in Pakistan are outbreaks of Burkholderia pseudomallei, the causative agent for Melioidosis, a disease with a broad spectrum of symptoms not limited to pneumonia and septicemia.
+    
+    **As Burkholderia pseudomallei is commonly found in water, individuals who come into contact with bodies of water containing both Naegleria fowleri and Burkholderia pseudomallei could give rise to which kind of epidemic?**
+    A) Mixed
+    B) Propagated
+    C) Common Source
+    D) Point Source
+
+II-13. [mcq, 2 pt] The Potato Days Festival occurs annually in Minnesota, and often has a measured attendance of 12,000 people. The festival proudly features a potato eating contest, in which the participant who eats the largest amount of raw potatoes in a designated time interval wins. Unbeknown to the competitors is the trace amounts of solanine, a toxic glycoalkaloid, within the provided potatoes. Within twenty four hours of this contest being held, the hundreds of competitors have all begun to show gastrointestinal and neurologic symptoms of acute solanine poisoning.
+    
+    **The ingestion of the potatoes containing solanine could give rise to which kind of epidemic?**
+    A) Mixed
+    B) Propagated
+    C) Common Source
+    D) Point Source
+
+II-14. [mcq, 2 pt] The small Turkish town of Safranbolu is recognized for its progressive and fast-paced agricultural practices. Following the increase in meat consumption and demand as a result of the colder winter temperatures, an increased number of farmers have been reported seeking emergency medical treatment for severe fever and sensitivity to light, which has resulted in several fatalities. Investigation from local authorities has proven this phenomena is occurring as a result of Hyalomma spp tick bites, that rapidly infect both animals and humans, causing the procurement and spread of Crimean-Congo Hemorrhagic Fever.
+    
+    **Should the outbreak of Crimean-Congo Hemorrhagic Fever be considered a reportable or notifiable disease?**
+    A) Reportable
+    B) Notifiable
+    C) Neither
+    D) Both
+
+II-15. [mcq, 2 pt] Deer Mice are a heavily adaptive rodent species that are able to thrive in nearly any given environment, they are found scattered throughout North America. After discovering a Deer Mice infestation within the home or workplace, many Americans result in calling an extermination service to rid the property of the rodents. The cold winter temperatures have increased the prevalence of this factor, as the mice seek indoor shelter more frequently. In Massachusetts, there has been an increase in the number of hospitalizations of exterminators recently, with demonstrably infectious and immensely fatal symptoms of rapid heart rate and fluid accumulation in the lungs. Local authorities have attributed this to Hantavirus Pulmonary Syndrome, and have demanded the public instantly take measures to reduce the amount of contact with contaminated urine and droppings within public places.
+    
+    **Should the outbreak of Hantavirus Pulmonary Syndrome be considered a reportable or notifiable disease?**
+    A) Reportable
+    B) Notifiable
+    C) Neither
+    D) Both
+
+II-16. [mcq, 2 pt] A man goes swimming in a dirty well, through which he comes into contact with the Entamoeba histolytica anaerobic parasite. Although the parasite has entered his gastrointestinal tract, he has not yet begun showing symptoms of E. histolytica infection or amoebiasis.
+    
+    **Which phase of disease would this man currently be in?**
+    A) Pre-Pathogenic Period
+    B) Pathogenic Period
+    C) Incubation Period
+    D) Clinical Period
+
+II-17. [mcq, 2 pt] The Argentinian mammarenavirus is a negative sense ssRNA enveloped virion with a diameter between 50-300 nanometers. Its surface contains multiple T-shaped glycoproteins which extend 10 nanometers outwards, which assist in the attachment to host cells. The virion contains electron-dense structures that represent ribosomes in the host cell that are frequently found throughout the viral envelope. The genome of the virion contains two RNA segments that serve as ambisense templates for mRNA synthesis; the L segment encodes the viral RNA-dependent RNA polymerase and a zinc-binding protein that is essential for the regulation of viral replication, the S segment contains the genes that encode the nucleocapsid protein as well as the viral glycoprotein precursor.
+    
+    **What factor is being described here?**
+    A) Pathogenicity
+    B) Infectivity
+    C) Virulence
+
+II-18. [mcq, 2 pt] Regions of Southeast Asia, the Pacific Islands and parts of Latin America are prone to the spread of Dengue Fever due to their tropical regionality conditions. The locale contributes to a large population of Aedes mosquitoes, which have increased breeding sites due to urbanization met with a lack of mosquito control efforts. In tropical regions with these favorable conditions, Dengue Fever is constantly present in the population, and individuals are often exposed to multiple serotypes of the disease over time.
+    
+    **What term could be used to describe this scenario?**
+    A) High-Risk Group
+    B) Histogram
+    C) Host Factor
+    D) Hyperendemic Disease
+
+II-19. [mcq, 2 pt] A currently unsettled epidemiological topic is whether or not humans can acquire an immune response to schistosome reinfection. Initial schistosome infection can be caused by various species of parasitic flatworms known as "schistosoma", which infect hosts through contaminated water. While the body does have an immune response to the schistosoma, the worms have mechanisms that evade immune response, leading them to exist within the body chronically.
+    
+    **What are those with a schistosome infection unable to develop?**
+    A) Active Immunity
+    B) Herd Immunity
+    C) Infectivity
+    D) Hyperendemic Disease
+
+II-20. [mcq, 2 pt] Just before Winter Break begins at UMass, there seems to be a lot of students becoming sick. The affected students appear to have a thick gray membrane coating the throat alongside rapid breathing, and are found to have Diphtheria. The density of the UMass population combined with the severity of the illness attracts the attention of public health authorities, especially as students disperse for Winter Break. Authorities begin tracking the GPS and public transportation records, socioeconomic statuses, and allocation of healthcare resources available to the infected students. They input this information into a real-time data integration algorithm, which is adequately able to track the progression of the outbreak.
+    
+    **What is the initial goal of the public health authorities when utilizing this data, and inputting it into an adaptive database?**
+    A) To prevent the Diphtheria outbreak from spreading beyond UMass students
+    B) To increase penicillin sales by finding more people infected with Diphtheria
+    C) To track the distribution of Diphtheria
+    D) To analyze the performance of real time data storage in public health measures
+
+II-21. [mcq, 2 pt] The purpose of the IFNGR1 gene is to encode the ligand-binding chain of the gamma interferon receptor. A genetic variation to the IFNGR1 gene can result in increased susceptibility to Heliobacter pylori infection, the most prevalent infectious agent among humans globally. Heliobacter pylori infection often causes gastric inflammation, gastroduodenal ulcers and increased risk for gastric cancer.
+    
+    **What is the relationship between the IFNGR1 gene and gastric cancer?**
+    A) The IFNGR1 gene could possibly be a determinant for gastric cancer.
+    B) The IFNGR1 gene could possibly be a suppressant for gastric cancer.
+    C) The IFNGR1 gene is the dependent variable for whether an individual will develop gastric cancer.
+    D) The IFNGR1 gene is a vector for the development of gastric cancer.
+
+II-22. [mcq, 2 pt] Ethylene glycol is a small molecule that is osmotically active, exposure to this is demonstrated by an elevated osmolal gap alongside metabolic acidosis with elevation in anion gaps. During the third stage of ethylene glycol toxicity occurring 72 hours after initial exposure, adverse renal effects begin to take place as kidney damage and costovertebral angle tenderness become noticeable. Another noticeable symptom is the development of octahedral shaped crystals in the urine.
+    
+    **What epidemiological determinacy could the agent of disease in this scenario be identified as?**
+    A) Physical
+    B) Biological
+    C) Quantitative
+    D) Chemical
+
+II-23. [mcq, 2 pt] Tuberculosis is caused by the bacterial pathogen Mycobacterium tuberculosis, which spreads from person-to-person as small aerosolized particles of the bacterium enter the tracheobronchial or nasopharyngeal regions and are deposited into the distal airways. The bacterium that manage to pass through the upper respiratory airways arrive in the alveoli, which impact the type I and II epithelial and immune cells existing in this location. This assists in the bacterium eventually being able to disseminate to any organ within the body, as it directly alters host signaling through the secretion of phosphatases, allowing the bacterium to end essential cellular processes and exist within macrophages. Despite treatment, the inhibition of these cellular processes results in an average decrease of life expectancy by 3.6 years.
+    
+    **What results from the spread of Mycobacterium tuberculosis throughout the body?**
+    A) A direct transmission of Mycobacterium tuberculosis between people.
+    B) A declining health outcome for the infected individual.
+    C) The development of a frequency polygon.
+    D) An increased range of disease spread.
+
+II-24. [mcq, 2 pt] The potential a virus has to infect a new host from a contaminated surface depends initially on the ability of the virus to maintain a high level of infectivity while on the surface. As viruses are obligate parasites, the level of infectivity can only decrease over time. UV exposure and varying levels of pH have minimal effects on viral infectivity on indoor surfaces, but increasing amounts of present microbes may inhibit or support viral infectivity. Typically, viral infectivity on surfaces may decrease upon sanitization measures, but this heavily depends on the chemical composition of the sterilization products in use.
+    
+    **What is the correct terminology for the surface in question?**
+    A) Sufficient Cause
+    B) Pathogenicity
+    C) Prevalence
+    D) Fomite
+
+II-25. [mcq, 2 pt] The Hepatitis B virus is regarded as a major risk of transfusion-transmitted infection due to factors such as the pre-seroconversion window period, infection with immunovarient viruses, and with possible occult carriage of HBV infection. The ability to reduce HBV residual risk is dependent on the development of more effective HBV surface antigen tests, the integration of anti-HBc screening within blood, and the implementation of HBV nucleic acid testing in individual samples. HBV is mainly infected via parenteral route through blood or body fluids. In cases of percutaneous and mucosal exposure to blood or body fluids occurs through a HBsAg-positive needle stick, prophylactic procedures will vary depending on vaccination status of the recipient alongside the status of the antibody.
+    
+    **What form of precaution would be best utilized in preventing the spread of HBV and why?**
+    A) Droplet precautions, as these specifically confront the transmission of pathogens spread through close mucous or respiratory contact with secretions.
+    B) Contact precautions, as these specifically confront the transmission of infectious agents.
+    C) Universal precautions, as these specifically confront the transmission of bloodborne pathogens.
+    D) Contact precautions, as these specifically confront the transmission of pathogens spread through the air.
+
+
+=== Part III, Situational Analysis - 87 Points ===
+
+[STIMULUS] Read the following scenarios carefully and write your answers. Points will be deducted for lack of explanation and supportive justification of answers, and point values will vary throughout this section.
+
+**Scenario 1 -**
+
+Gemma is a stray cat living on the streets of Milan, a place known to have a large stray cat population due to its underlying rodent infestation. Gemma's favorite meal consists of any rodents she can catch, but lately her prey has often been lethargic, has had swollen lymph nodes, and has been covered in fleas. Unbeknownst to Gemma, these are signs of the Bubonic Plague, a highly infectious disease in mammals caused by the Yersinia pestis bacterium. While on a search for more prey Gemma encounters Randy, a Neuro-Cybernetic Integration Specialist attending a work conference at the San Raffaele Institute. Randy loves cats, and cannot resist petting Gemma, who has acquired infectious fleas through her prey. As fleas are blood-feeding ectoparasites, Randy pets Gemma with his hands, where Yersinia pestis enters his bloodstream. Randy returns home after the end of his conference with a light cough, to which he comes into contact with newborn daughter. While talking to his daughter, he cannot resist the urge to cough, and his daughter simultaneously inhales the released respiratory droplets.
+
+**In this Scenario:**
+
+III-2. [frq, 2 pt] The Reservoir is:
+
+III-3. [frq, 2 pt] The Portal of Exit is:
+
+III-4. [frq, 2 pt] The Mode of Transmission is:
+
+III-5a. [frq, 2 pt] The Portal of Entry is:
+    a. ____
+
+III-5b. [frq, 2 pt] The Portal of Entry is:
+    b. ____
+
+III-6. [frq, 2 pt] The Susceptible Host is:
+
+[STIMULUS] Scenario 2
+
+In a remote yet non-isolated tropical rainforest region located in the Congo Basin, there has been an identified outbreak of Trypanosomiasis. Trypanosomiasis in African subcontinents is most often spread through the bite of an infected Tsetse fly, which becomes infected upon feeding on the blood of an infected source. Once a person is bitten by an infected Tsetse fly, microscopic parasites of the Trypanosoma brucei species cross the blood-brain barrier and enter the bloodstream and eventually the central nervous system.
+
+The most affected among local inhabitants are the Mbuti indigenous community, which are known for their nomadic lifestyle throughout rainforest regions, as well as their often spiritual connection to the rainforest. This community is often observed obtaining their primary food source from hunting practices throughout the rainforest.
+
+While many Mbuti people utilize area clinics for healthcare needs that exceed the capabilities of holistic practices, Trypanosomiasis has been exhibiting an increased prevalence throughout these healthcare settings. It is often traveling ecological and wildlife researchers who visit and receive treatment from these area clinics. As this particular locale has recently exhibited a shortage within the availability of blood transfusions, it is often the Mbuti people who have generously donated to uphold blood capacity standards. This factor has now given rise to a Trypanosomiasis pandemic, which has spread beyond the borders of the Congo Basin region, and has begun making a globalized appearance.
+
+III-7. [frq, 3 pt] **Infectious Agent:**
+    1. In this scenario, what is the infectious agent(s)?
+
+III-8. [frq, 3 pt] **Infectious Agent:**
+    2. Why or why not could there be more than one infectious agent in this scenario?
+
+III-9. [frq, 4 pt] **Reservoir:**
+    1. How may the particular custom(s) of the Mbuti people have contributed to the pandemic?
+
+III-10. [frq, 3 pt] **Reservoir:**
+    2. What species in particular might the Mbuti people be contracting Trypanosomiasis from? Is there more than one species?
+
+III-12. [frq, 3 pt] **Portal of Exit:**
+    1. Would it be possible to have more than one portal of exit in this scenario?
+
+III-13. [frq, 6 pt] **Portal of Exit:**
+    2. Explain the overall portal of exit process(s) in this scenario.
+
+
+=== Mode of Transmission ===
+
+III-15. [frq, 5 pt] How many portals of entry would you expect to find in this scenario? Please list all that you identify.
+
+III-16. [frq, 2 pt] In as much anatomical and microbiological detail as possible, describe what you believe would occur upon Trypanosoma brucei entering the portal of entry in a human reservoir.
+
+III-17. [frq, 5 pt] Who could be a susceptible host to Trypanosoma brucei?
+
+III-18. [frq, 6 pt] What steps would you take to minimize the prevalence of this disease in the Congo Basin?
+
+III-19. [frq, 3 pt] How would infection transpire within a susceptible host on an anatomical level?
+
+[STIMULUS] **Scenario 3 -**
+
+Observable every year is the low river flow during the dry season resulting in the intrusion of saline water from the Bay of Bengal into the coastal regions, which creates river environments conducive to V. cholerae survival and growth. As the dry season progresses, saline water travels farther inland, with the aid of copepods, V. cholerae is able to spread through inland areas. In the monsoon season that follows, floodwaters carry V. cholerae from rivers to inundated inland regions, where it begins to survive in waterlogged areas. However, Bangladeshis have a tendency to choose drinking water that is pleasing in taste.
+
+III-22. [frq, 5 pt] How would the salinity of water impact the survival of V. cholerae?
+
+III-23. [frq, 3 pt] Studies performed outside of Bangladesh have discovered associations between V. cholerae and the consumption of undercooked shellfish. However in Bangladesh, the vast majority of shellfish are exported, are too expensive for lower income households to afford, and often are not harvested during large V. cholerae growth seasons.
+    
+    Given this information, what is the likelihood that V. cholerae transmission through shellfish is a driving force behind seasonal cholera outbreaks observed in the Bangladeshi context? Why do you believe this?
+
+III-24. [frq, 3 pt] To investigate a possible V. cholerae transmission via fish, a study published in 2018 had confirmed a high prevalence of V. cholerae in the gills, rectum, scales and intestines of the Hilsa fish. The Hilsa fish is most commonly caught and consumed fish in Bangladesh, obtained from both freshwater and seawater. Hilsa fish are observed migrating geographically upwards from the Bays of Bengal twice a year, coinciding with the two seasonal peaks of V. cholerae transmission.
+    
+    During these two peak periods the availability of Hilsa fish within local markets increases, causing lower sale prices. Whereas during other times of the year, the price for Hilsa fish is too expensive for lower income households. Traditionally Bangladeshi culinary customs dictate the cooking or frying of fish prior to consumption.
+    
+    Could Hilsa fish serve as a direct transmission route? Why or why not?
+
+III-25. [frq, 5 pt] Could Hilsa fish represent an overlooked link in transmission? If so, what would this missing link be?
+
+[STIMULUS] Respond to the following questions in free response format. Answers must be two sentences or longer to be considered for credit. Points will be awarded on the basis of complexity, integrality, and valid reasoning.
+
+IV-1. [frq, 3 pt] Describe what the Iceberg Phenomena is in relation to the Spectrum of Disease, please provide an example in your response.
+
+IV-2. [frq, 5 pt] What are five factors that could influence whether or not a fomite can successfully transmit bacteria onto humans?
+
+IV-3. [frq, 3 pt] How could the design of a building influence the range of bacteria present inside?
+
+IV-4. [frq, 5 pt] Nipah viral disease is a zoonotic infection resulting from Nipah virus (NiV), an RNA virus from the Henipavirus genus, and family Paramyxoviridae, which is transmitted by Pteropus spp. fruit bats. This species of bat serves as the most significant reservoir for the virus, it is contact between these bats and pigs that is responsible for the disease infecting humans. The high fatality rate associated with the contraction of Nipah disease and the lack of modern efficacious vaccination or treatment to prevent its development have classified it as a global threat. Acute encephalitis resulting in high probability of mortality are the main clinical manifestation of NiV, which can also manifest through pulmonary symptoms.
+    
+    Based on this information, what kind of disease do you believe Nipah viral disease is classified as? What brought you to this conclusion?
+
+IV-5. [frq, 6 pt] The Marburg virus disease (MVD) is a rare and greatly severe hemorrhagic fever that is caused by the Marburg virus (MARV), an RNA virus which can affect both humans and nonhuman primates. MARV, as a member of the Filoviridae family, has a lot in common with the Ebola virus. MARV consists of five strains and is a biosafety level 4 agent, as it has a high fatality rate, direct person transmission and lack of proven vaccines. The virus was discovered in 1967, as outbreaks of MVD occurred throughout Europe; the virus had initially been transmitted to individuals who had been working with imported African green monkeys. Factors such as population density and mobility, healthcare infrastructure, outbreak preparedness and response capabilities, disease surveillance, and cultural practices such as burial rituals are a primary cause of numerical disparities of MVD cases and fatalities between African countries.
+    
+    Suggest a feasible strategy to further prevent the transmission and spread of MVD that could be successfully applicable within various African countries.
+
+IV-6. [frq, 3 pt] In May and June 1993, several previously healthy residents of rural areas within the southwest Four Corners region of the United States had passed away due to acute and unexplainable respiratory distress. Their illnesses shared a presence of a prodrome of fever and myalgias, eventual thrombocytopenia, immature white blood cells on a peripheral smear, and catastrophic respiratory decline. While the physicians who treated the infected were spread over a wide rural geographic area, a cluster was recognizable as the patients had received treatment from a unified system of consulting physicians; the Indian Health Service. The two week mark of the receipt of laboratory diagnostic specimens brought forth identification of the causative agent, this being hantavirus. Peromyscus maniculatus (deer mice) had been the reservoir for the spread of this zoonotic virus.
+    
+    Would this outbreak be classified as an epidemic or an endemic? Explain your reasoning.
+
+IV-7. [frq, 3 pt] Aspergillus is a ubiquitous, filamentous fungus that causes infection in immunocompromised individuals, often with underlying pulmonary complications. Aspergillus species obtain nutrients from deceased materials and reproduce asexually via conidia, there are over twenty four species of Aspergillus capable of causing disease in humans, and it is not transmitted via person-person contact. Aspergillus is ubiquitous in suitable environments and occurs in concentrations of 1-1000 m, depending on whether it exists outdoors or indoors. Pulmonary aspergillosis is contracted via inhalation of Aspergillus conidia. Invasive pulmonary aspergillosis (IPA) and invasive bronchial aspergillosis (IBA) are caused by inadequate immune responses, which prompt the fungus's growth. Chronic pulmonary aspergillosis is caused by colonization in the setting of structural lung disease, such as prairie cavitary diseases from processes such as tuberculosis.
+    
+    Based on the CDC's recommended precautions for diseases capable of airborne transmission, recommend three policies that could prevent infection by Aspergillus in a hospital.
+
+IV-8. [frq, 4 pt] During a Legionnaires' disease outbreak, combined environmental and epidemiological investigations had been performed to form effective prevention recommendations. Potable water had been collected from five apartments of LD patients, as well as three randomly selected apartments of residents without LD; these samples were cultured for Legionella. From this, it has been determined that eight confirmed LD cases have been identified among 171 total residents, yielding an attack rate of 4.7%. Two visitors had also contracted LD, with one fatality from the disease. The average age of the infected had been 70 years, with the range being 62-77 years.
+    
+    What step of the surveillance process would this investigation be in? What eventual call to action would you implement in this situation?
+
+IV-9. [frq, 4 pt] As of 2020, there has been a change to the criteria in how public health officials define a case of acute hepatitis C. This more sensitive criteria has helped identify cases that the prior version may have overlooked. During 2021, 43 states had reported a cumulative total of 107,300 chronic hepatitis C cases; 39.8 cases per 100,000 people. Fatalities due to hepatitis C in 2021 had decreased by 8%, (3.18 fatalities per 100,000 people), as compared to the 2020 occurrence of 3.45 deaths per 100,000 people. Age-based death rate for hepatitis C during 2021 had decreased 23% compared to the 2017 value, and the death rates have been observed to be higher among non-white individuals.
+    
+    What type of study would be best to study an outbreak of hepatitis C in the United States? Explain your reasoning.
+
+[STIMULUS] Progressive multifocal leukoencephalopathy (PML) is a neurological condition that results from the JC virus. PML is a demyelinating disease that affects the central nervous system. In most individuals, it remains as a latent infection, but it is immensely virulent in those with immunosuppressive conditions such as AIDS. PML occurs in 4000 people annually in the US and Europe, leading it to be considered an orphan disease.
+
+IV-10a. [mcq, 5 pt] Do you believe the JC virus cause of PML would be gram-positive, negative, or neither?
+    A) gram-positive
+    B) negative
+    C) neither
+
+IV-10b. [frq, 5 pt] b. Why would a diagnostic delay result from PML infection?
+
+IV-11. [frq, 9 pt] Subacute sclerosing panencephalitis results from the measles virus, a single-stranded RNA virus of the Paramyxoviridae family. The measles virus has a tropism for lymphocytes in the lower respiratory tract and epithelial cells in the upper respiratory tract. It first infects immune cells in the respiratory tract, which transmit the virus into the lymph nodes. After passing through the lymphatic system, tissues and organs become infected as cellular fusion occurs resulting in syncytium formation. This causes epithelial cells to be destroyed and a cough to expel these cells, which allows for airborne transmission to a new host. Subacute sclerosing panencephalitis is a more prevalent complication in younger patients exposed to the measles due to an undeveloped immune system.
+    
+    **List the three components of the epidemiological triad in regards to Subacute sclerosing panencephalitis.**
+
+IV-12. [frq, 9 pt] Picornaviruses are one of the most examined viral groups due to their impact on human and animal health. Etiologic agents of a broad spectrum of illnesses with varying clinical presentations ranging from heavily from asymptomatic to fatal, and have been the cause of countless historical epidemics. Picornaviruses are small, RNA-positive, and single-stranded viruses. Picornaviruses infectious particles often invade hosts via fecal-oral or respiratory routes. Due to this, adequate viral spread is dependent on the capability of viral capsids to protect the viral genome, ensure correct molecular determinants for receptor recognition, facilitate efficient genome delivery and to escape the efforts of the immune system.
+    
+    **What complex evolutionary cellular mechanisms or factors could contribute to the wide range and diversification of picornaviruses?**
+
+IV-13. [frq, 6 pt] The dimorphic fungus Coccidioides is the causative agent of coccidioidomycosis, which is endemic to arid regions in the Western Hemisphere, and prefers arid desserts with high salt content. For undetermined reasons, the incidence of coccidioidomycosis has increased in Arizona. In 2011, the incidence was 42.6 cases per 100,000 people, and highest among those 60 to 79 years of age.
+    
+    **What might be two reasons coccidioidomycosis is becoming more prevalent in urban areas?**
+
+IV-14. [frq, 4 pt] Purpura fulminans is an acute purpuric rash that is characterized by coagulation microvasculature, resulting in eventual purpuric lesions and skin necrosis. Patients typically present acutely ill with fever, hemorrhage at multiple sites, and occasional hypotension. It displays rapid progression and is often accompanied by disseminated intravascular coagulation and circulatory collapse. Neonatal purpura fulminans is associated with a hereditary deficiency of the anticoagulants protein C and S, which are vitamin-K dependent cofactors causing them to be pro-fibrinolytic. Protein C specifically is a major inhibitor of the coagulation system, which produces the eventual result of down-regulated thrombin synthesis. Within 5 days of birth, neonates usually present with large-scale venous and arterial thrombosis of the skin and other organs.
+    
+    **What effect would decreasing the amount of Protein C that is present have on the pathogenicity and virulence of Purpura fulminans?**
+
+IV-15. [frq, 4 pt] Ertapenem is a broad spectrum carbapenem antibiotic that is taken once daily. It has been increasingly used to treat polymicrobial osteomyelitis resulting from diabetic foot and traumatic wound infections, which often require broad-spectrum antibiotics to treat gram-positive, gram-negative and anaerobic microorganisms. Ertapenem has mechanisms acting against the majority of invasive bacterial pathogens except for methicillin-resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa, enterococci and Acinetobacter baumannii. As ertapenem does not inhibit metabolic processes regarding cytochrome P450, it has very little counteractive drug interactions. However, there are few randomized control trials and observational studies that evaluate the use of ertapenem for osteomyelitis treatment.
+    
+    **If you were to run a control study to evaluate the impact of ertapenem in treatment of polymicrobial osteomyelitis, what would your hypothesis be? To the best of your ability include scientific reasoning within your answer.**
+
+
+=== Tiebreaker/Extra - 10 Points ===
+
+[STIMULUS] All tiebreaker questions will be presented in mathematical format, requiring use of pre prepared formulas.
+
+When answering questions within this section, please write out all conversions demonstrating which properties within the word problem represent each variable in the formula used.
+
+There are two points per question. One point will be awarded for demonstrating property variability and/or correct formula usage. The other point will be awarded for reaching the correct mathematical answer.
+    | Label | Answer |
+    | **TB-2.** A recent outbreak of Clostridium difficile (CDI) with ribotype 053, a possibly hypervirulent strain that can result in outbreaks, has occurred in the neurosurgical unit of a large hospital. The outbreak is being investigated by the creation of a timeline depicting all toxin positive patients with root cause analysis, this is further detailed with ribotyping results. This procedure had noted five total CDI cases, three of which had occurred with ribotype 053. The hospital where the outbreak is occuring has a total inpatient bed capacity of 775. The neurosurgical unit of this hospital is a 23 bed ward.
+
+**Calculate the attack rates for both CDI, and CDI with ribotype 053.** |  |
+    | CDI Attack rate for CDI | [[q:TB-2-a]] |
+    | CDI with ribotype 053 Attack rate for CDI with ribotype 053 | [[q:TB-2-b]] |
+
+TB-2-a. [frq, 1 pt] CDI Attack rate for CDI
+
+TB-2-b. [frq, 1 pt] CDI with ribotype 053 Attack rate for CDI with ribotype 053
+
+TB-4. [frq, 2 pt] In November 2003, an outbreak of severe diarrhea was reported in the village of Orissa, India. This outbreak exhibited 41 total cases, with no fatalities and 13 hospitalizations among the infected.
+    
+    **Calculate the virulence of the pathogen in this outbreak.**
+
+TB-5. [frq, 2 pt] The global population in 2023 had reached eight billion people. Of this cumulative amount, the global number of confirmed West Nile virus disease cases in 2023 had been 2,406.
+    
+    **Calculate the morbidity rate of West Nile virus disease in 2023.**

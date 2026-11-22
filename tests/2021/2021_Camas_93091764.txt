@@ -1,0 +1,258 @@
+Camas — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  59 questions, 175.0 pts
+Source: scio.ly test archive id 93091764-3567-4412-8c86-a715b74fb637  |  original files: https://drive.google.com/drive/folders/1ZEJ4Ammq63p5xlR2qSHWtPjEI_9bzZ8O
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 0
+
+DIRECTIONS: Not much. Good luck. Text blocks will take you through.
+
+[STIMULUS] **Scenario:** The year is 3043 and humanity has progressed beyond the days of coal burning and plugging the atmosphere with greenhouse gasses. Most of the world has been explored as humanity progresses into its first golden age. Virtually all diseases have been identified, studied, and locked away as humanity begins to conquer the obstacles of the past. Someone how it took us nearly 2023 years to do this, but that is beside the point.
+
+Now a freak accident has occurred. A scientist has gone rogue with a stolen stash of preserved biological diseases ranging from the common cold to the worst diseases that have ravaged humanity. The government has called in your team to help them stabilize the situation and establish protocols to deal with the rogue scientist’s mayhem. However, they want to test your team’s capability before bringing you in. Their comprehensive examination of your preliminary skills will be found in **Part 1.**
+
+
+=== Part 1: The examination of your skills to be considered qualified for the job. ===
+
+1. [mcq, 1 pt] What is the date today?
+    A) December 11th, 2020
+    B) December 12nd, 2020
+    C) December 13th, 2020
+    D) December 14th, 2020
+    E) None of the above
+
+2. [mcq, 1 pt] What is the overall purpose of Koch's Postulates?
+    A) To identify and link a disease to its genotype.
+    B) To establish a causative relationship between a microbe and disease.
+    C) To prove that a disease can be grown in pure culture.
+    D) To identify groups of diseases that may cause the symptoms presented.
+    E) None of the above.
+
+3. [mcq, 1 pt] What are the four criteria needed for a case definition?
+    A) Person, Place, Time, Clinical Features
+    B) Person, Place, Time, Disease
+    C) Person, Place, Time, Puppets
+    D) Category of disease, time, environment, suspects.
+    E) None of the above
+
+4. [mcq, 1 pt] What is a null hypothesis?
+    A) Hypothesis stating there is a significant relationship between two variables.
+    B) Hypothesis stating there is no possible conclusion from the data.
+    C) Hypothesis stating there is no significant relationship between two variables.
+    D) Hypothesis stating there is a partially significant relationship between two variables.
+    E) None of the above
+
+5. [mcq, 1 pt] What is passive immunity?
+    A) Immunity that is short term, duh.
+    B) No such thing.
+    C) Temporary immunity typically granted by the injection of antibodies or transfer from mother to child.
+    D) Temporary immunity typically granted by the exposure of the body to diseases and inducing a temporary response to fight it off.
+    E) None of the above
+
+6. [mcq, 1 pt] Who discovered penicillin?
+    A) John Snow
+    B) William Farr
+    C) James Lind
+    D) Alexander Hamilton
+    E) None of the above
+
+7. [mcq, 1 pt] What is Syndromic surveillance?
+    A) A health department is proactive and contacts health care providers or laboratories requesting information about diseases. While this method is more costly and labor intensive, it tends to provide a more complete estimate of disease frequency.
+    B) A program of medical examinations and tests designed to detect and monitor potential health effects from hazardous chemical or physical exposures in the workplace to enable early treatment or other steps to protect employee health.
+    C) Regular reporting of disease data by all institutions that see patients (or test specimens). There is no active search for cases.
+    D) An investigational approach where health department staff, assisted by automated data acquisition and generation of statistical alerts, monitor disease indicators to detect outbreaks of disease earlier than would otherwise be possible with traditional public health methods
+    E) None of the above
+
+8. [mcq, 1 pt] What is the Descriptive Epidemiological Triad?
+    A) Person, Place, Environment
+    B) Person, Disease type, environment
+    C) Transmission method, Agent, Victim
+    D) Vector, Host, Time
+    E) None of the above
+
+9. [mcq, 1 pt] What is direct transmission?
+    A) An infectious agent is transferred from a reservoir to a susceptible host by direct contact or droplet spread.
+    B) An infectious agent is transferred from a reservoir to a susceptible host by airborne particulates.
+    C) An infectious agent is transferred from a reservoir to a susceptible host by contaminants left on a inanimate surface.
+    D) An infectious agent is transferred from a reservoir to a susceptible host by mosquitos.
+    E) None of the above
+
+10. [mcq, 1 pt] Which is not part of Hill’s Criteria of Causation?
+    A) Temporality
+    B) Strength of Association
+    C) Experimental Evidence
+    D) Coherence
+    E) None of the above
+
+11. [mcq, 1 pt] Which of these is not an agent?
+    A) Cholera
+    B) Botulism
+    C) Ringworm
+    D) Candidiasis
+    E) None of the above
+
+12. [mcq, 1 pt] Who discovered that limes could prevent scurvy?
+    A) James Halder
+    B) Louis Pasteur
+    C) James Lind
+    D) Edward Jennar
+    E) None of the above
+
+13. [mcq, 1 pt] What type of disease is Bronchitis?
+    A) Virus
+    B) Bacteria
+    C) Fungi
+    D) Prion
+    E) None of the above
+
+14. [mcq, 1 pt] Which of these is a nationally notifiable disease?
+    A) Botulism
+    B) Smallpox
+    C) Legionnaires disease
+    D) Typhoid Fever
+    E) None of the above
+
+15. [mcq, 1 pt] What does an Ro value < 1 mean?
+    A) The disease will stay alive and stable, but there won’t be an outbreak or an epidemic.
+    B) The disease will decline and eventually die out.
+    C) The disease will be transmitted between people, and there may be an outbreak or epidemic.
+    D) Ro means nothing. I made it up.
+    E) None of the above.
+
+16. [mcq, 1 pt] What is latency period?
+    A) Time between a host being exposed and treatment.
+    B) Time between a host being exposed and symptoms appearing.
+    C) Time between a host being exposed and infectious.
+    D) Time between a host being exposed and death.
+    E) None of the above
+
+17. [mcq, 1 pt] What does WHO stand for?
+    A) World Health Order
+    B) World Health Organization
+    C) Widespread Health Organizers
+    D) Wholesome Happy Orangatuns
+    E) None of the above
+
+18. [mcq, 1 pt] What does CDC stand for?
+    A) Centers of Detective Control
+    B) Centers of Deplorable CAndy
+    C) Creation of Destruction Canes
+    D) Candied Deviled Candy
+    E) None of the above
+
+19. [mcq, 1 pt] What is the CDC recommended distance for social distancing?
+    A) 6 feet
+    B) 12 feet
+    C) 2 metres
+    D) 4 metres
+    E) None of the above
+
+20. [mcq, 1 pt] Which of these diseases are eradicated according to the WHO?
+    A) Leprosy
+    B) Bubonic Plague
+    C) Rinderpest
+    D) Necrotizing fasciitis
+    E) None of the above
+
+
+=== Part 2: The council of elders approve of your qualifications and present you with the case. There have been two uncontrollable outbreaks of disease and they need your expertise to advise them on how to proceed. This is the first case. ===
+
+[STIMULUS] **Case 1:** In the city of Paristicelle (Formerly called Paris) a myriad of afflictions has beset the populace. Multiple households of people have been beset with horrible symptoms of droopy eyelids and difficulty breathing with several citizens having already perished to the disease. Roughly 40% of individuals who have contracted the mysterious illness have left to the other world already. Doctors and medical teams are unable to treat it as they do not exist due to the hubris that is humanity that has supposedly conquered medicine. You are the last resort as they need your ancient knowledge to guide the new fledgling team of volunteer doctors and scientists on how to combat the disease ravaging Paristicelle.
+
+Data collected for you.
+
+Data set 1 (https://scilympiad.com/Data/turs/10H6/tests/0001BL/Case_1_Data.pdf)
+
+The scientists and volunteer doctors on the scene give you their initial diagnosis, which is the disease is **myasthenia gravis** . Their argument resides in the fact myasthenia gravis also causes droopy eyelids, a strong characteristic in the poor disease afflicted victims.
+
+“Myasthenia gravis is a chronic autoimmune, neuromuscular disease that causes weakness in the skeletal muscles that worsens after periods of activity and improves after periods of rest. These muscles are responsible for functions involving breathing and moving parts of the body, including the arms and legs.
+
+The name myasthenia gravis, which is Latin and Greek in origin, means “grave, or serious, muscle weakness.” There is no known cure, but with current therapies, most cases of myasthenia gravis are not as “grave” as the name implies. Available treatments can control symptoms and often allow people to have a relatively high quality of life. Most individuals with the condition have a normal life expectancy.”
+-NIH
+
+21. [frq, 3 pt] Please educate the uneducated upon whether this diagnosis is even possible or high likely. If not, please argue with evidence on why it is not possible for this to be the disease afflicting Paristicelle.
+
+22. [frq, 3 pt] What other information and data would be helpful to gather to learn more about this case?
+
+23. [frq, 11 pt] Please describe the data in terms of time, place, and person.
+
+24. [frq, 4 pt] Develop a null and alternative hypothesis on which disease is causing the outbreak.
+
+25. [frq, 4 pt] Develop a null and alternative hypothesis on what food chain is the disease's origin is.
+
+26. [frq, 3 pt] Identify 3 trends based upon the data presented on why you think your selected food chain is the origin of the disease.
+
+27. [frq, 2 pt] Identify which income level of individual is most affected by the disease and explain why.
+
+28. [frq, 1 pt] Why might there be other cases that don't fit your statement in the previous question?
+
+[STIMULUS] After examining the individuals (alive and dead), you get a complete list of symptoms to help you identify the disease better:
+
+Data set 2 (https://scilympiad.com/Data/turs/10H6/tests/0001BL/case_1_pt_2_data.pdf)
+
+29. [frq, 5 pt] Do you think the disease afflicting Paristelle is a singular disease or multiple? Why?
+
+30. [frq, 7 pt] Do you wish to make a new alternative and null hypothesis to account for your answer to the previous question? If so, please provide them.
+
+31. [frq, 2 pt] Calculate the attack rate of individuals who went to a Cathy chain restaurant.
+
+32. [frq, 2 pt] Calculate the attack rate of individuals who went to a Pete chain restaurant.
+
+33. [frq, 2 pt] Calculate the attack rate of individuals who went to a Le Express chain restaurant.
+
+34. [frq, 2 pt] Calculate the attack rate of individuals who went to a Theodore chain restaurant.
+
+35. [frq, 1 pt] Calculate the Odds ratio for individuals who went to a Cathy Chain restaurant vs those who didn't.
+
+36. [frq, 2 pt] What does the value you calculated previously mean?
+
+37. [frq, 2 pt] Is there any difference between which gender is affected? Why?
+
+38. [frq, 1 pt] Based upon your calculations and observations, which location is the source of the disease(s).
+
+39. [frq, 2 pt] Name 2 control measures can be implemented to stop the spread of the disease.
+
+40. [frq, 4 pt] Name 2 treatment measures would you recommend to those who are afflicted by the disease(s).
+
+41. [frq, 6 pt] Using Hill's Criteria of Causation please illustrate with at least 5 of the criteria why this is a causal relationship between exposure and the disease(s).
+
+
+=== Part 3: This is the second case. Cholera has been detected in the waters of the city of New Yorubinz. You have been tasked with educating the team in the area on how to best deal with the situation as you yourself cannot be there to direct affairs. ===
+
+[STIMULUS] **Case 2:** In the grand city of New Yorubinz many have fallen ill with symptoms of vomiting, fever, diarrhea, and leg cramps. The local populace has identified this disease as choler due to the high concentration of learned individuals in the city. They are finding that the number of cases keeps rising everyday at a seeming exponential rate. They also have foun that the increase of cases numbers happen close together in time. All of the sick patients have reported to have visited Bertelli's Pasta shop as well as the local museum.
+
+42. [frq, 26 pt] What are the 13 steps to investigating an outbreak and give examples of each step in context to this situation.
+
+43. [frq, 1 pt] Because New Yorubinz is in the USA, do you have to notify the national authorities about this?
+
+44. [frq, 6 pt] What type of study should be conducted in order to investigate the exposure of disease in individuals with the disease and those who don't? Give 2 pros and cons of the study you choose and why you choose it over other studies.
+
+45. [frq, 2 pt] When can you not use relative risk and why?
+
+46. [frq, 2 pt] Can you use relative risk for the study you chose? How would you reframe/change the study in a way that allows you to use relative risk?
+
+47. [frq, 2 pt] What risk factors are present for this disease? List 2.
+
+48. [frq, 4 pt] Who is known as the Father of Epidemiology and why did he get this title? What disease did he study and how did he contribute to how we approach epidemiology today?
+
+49. [frq, 3 pt] How is cholera transmitted and why is this method so contagious?
+
+
+=== Part 4: Finally, you are brought before the council to present your findings and advise them on how to save humanity. Quick, before your time runs out. ===
+
+50. [frq, 2 pt] Please identify the disease(s) present in Case 1
+
+51. [frq, 6 pt] Please explain two control measures you would suggest and how well could these be implemented and why they will be effective.
+
+52. [frq, 1 pt] Please identify the disease(s) present in Case 2
+
+53. [frq, 6 pt] Please explain two control measures you would suggest and how well could these be implemented and why they will be effective.
+
+54. [frq, 4 pt] Please identify 2 sources of potential bias and what the bias is in your evaluation of case 1 and how this may impact your interpretation of results.
+
+55. [frq, 4 pt] Please identify 2 sources of potential bias and what the bias is in your evaluation of case 2 and how this may impact your interpretation of results.
+
+56. [frq, 2 pt] What surveillance plan would you recommend overseeing Case 1 to monitor and make sure the disease does not progress in a worsening manner. Explain why you choose such surveillance type.
+
+57. [frq, 12 pt] Name the four types of prevention, and give examples of each. Then identify what types of prevention you are able to implement in each separate case.
+
+58. [frq, 2 pt] Please outline a plan to inform the public about the health safety presented in these cases but with consideration so that the public does not freak out. AKA, saying everyone is going to die and you must stay home **does not work**.
+
+59. [frq, 1 pt] Please illustrate why the plan you outlined will effectively inform the public of the danger but not alarm them unnecessarily and cause them to go into a panic.

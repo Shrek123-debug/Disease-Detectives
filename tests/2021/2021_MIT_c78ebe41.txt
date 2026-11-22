@@ -1,0 +1,401 @@
+MIT — Disease Detectives  |  Season 2021  |  Division C  |  Time limit 50 min  |  74 questions, 245.0 pts
+Source: scio.ly test archive id c78ebe41-f0cf-43ef-a469-2e58eff4e269  |  original files: https://drive.google.com/drive/folders/1YLDJXLzaz6cQqdo2z7ZVfMHeO4tTVm7A
+Answer key included: NO (not provided by archive)  |  Questions omitted by archive (copyright/images): 3
+
+DIRECTIONS: No penalty for guessing! Significant figures are not required. One 8.5 x 11" resource sheet is permitted per team. 2 non-programmable, non-graphing calculators are permitted. Please read each question CAREFULLY, as they may have multiple parts, require calculations, or short/sentence explanations!
+
+[STIMULUS] The following questions (1-8) refer to studies performed to evaluate a new cholesterol-lowering medication, Pandastatin.
+
+1. [mcq, 2 pt] A total of 292 patients with high cholesterol are enrolled and randomly assigned to either start taking Pandastatin or take a placebo for 8 months. In total, 140 patients start taking Pandastatin and the remaining 152 patients receive a placebo pill. What type of study is this?
+    A) Cross-sectional study
+    B) Clustered cohort study
+    C) Randomized control trial
+    D) Case series
+    E) Case study
+    F) Randomized case control study
+
+2. [mcq, 2 pt] A researcher decides to investigate the difference in levels of the liver enzyme AST in patients who are assigned to take Pandastatin and patients who are assigned to the placebo. She finds that the mean AST value for the 140 patients taking Pandastatin is 49 and the mean AST value for the 152 patients not taking Pandastatin is 43. Which of the following statistical tests would be the most appropriate for comparing these two patient groups?
+    A) ANOVA
+    B) Student's t test
+    C) Chi-square test
+    D) Median value
+    E) Paired t test
+    F) Multiple linear regression
+
+3. [mcq, 2 pt] The same researcher is also investigating the effectiveness of Pandastatin in lowering LDL cholesterol levels in patients who take the medication. From the 140 patients taking Pandastatin, she obtains LDL cholesterol levels prior to when they started taking the drug, which results in a mean LDL cholesterol level of 165. She then obtains LDL cholesterol levels of these same 140 patients 8 months after they started taking Pandastatin, and finds that their mean LDL cholesterol is 130. Which of the following statistical tests would be the most appropriate for comparing these two patient groups?
+    A) ANOVA
+    B) Student's t test
+    C) Chi-square test
+    D) Median value
+    E) Paired t test
+    F) Multiple linear regression
+
+4. [mcq, 2 pt] Of the 140 patients who were taking Pandastatin in Question 3, 12 patients stopped taking the medication before the 8 months of the investigation was completed because they started to experience side effects. Three of the patients stopped taking Pandastatin after 2 months, 5 patients after 4 months, and 4 patients after 6 months. Despite these changes, the researcher still compares the LDL cholesterol values of these 140 patients at the beginning of the study and at 8 months. Which of the following choices describes this strategy?
+    A) Per protocol analysis
+    B) Intentional reduction of systemic bias
+    C) Appropriate elimination of outliers
+    D) Intention to treat analysis
+    E) Nested case-control study
+    F) Weight average analysis based on intervention duration
+
+5. [mcq, 2 pt] Instead of including all 140 patients in her analysis like in Question 4, the researcher decides to use only data from those patients who actually completed 8 months of Pandastatin therapy. She compares the LDL cholesterol values of these 128 patients at the beginning of the study and at 8 months. Which of the following choices describes this alternate strategy?
+    A) Per protocol analysis
+    B) Intentional reduction of systemic bias
+    C) Appropriate elimination of outliers
+    D) Intention to treat analysis
+    E) Nested case-control study
+    F) Weight average analysis based on intervention duration
+
+6. [mcq, 2 pt] Suppose Pandastatin is not yet FDA approved. The researchers decide to conduct a clinical trial of Pandastatin in a small group of healthy young men and women aged 20-25 who do not have high cholesterol. This group of study participants are not the intended users of the medication once it is FDA approved and being prescribed by health providers. The participants will be randomly assigned to take Pandastatin daily or a placebo pill, like in the study described in Question 1. The researchers would like to determine the drug's safety, side effects, and identify safe dosages for the drug. What type of study is being described here?
+    A) Phase I trial
+    B) Phase II trial
+    C) Phase III trial
+    D) Phase IV trial
+    E) Phase V trial
+
+7. [mcq, 2 pt] Suppose Pandastatin has obtained FDA approval and is now being prescribed by health providers to patients. The researchers wish to conduct a clinical trial comparing Pandastatin to Koalastatin, a different FDA-approved cholesterol lowering medication. The participants in this new study have high cholesterol and are randomly assigned to take either Pandastatin or Koalastatin for 12 months. What type of study is being described here?
+    A) Phase I trial
+    B) Phase II trial
+    C) Phase III trial
+    D) Phase IV trial
+    E) Phase V trial
+
+8. [mcq, 2 pt] Suppose the researchers who conducted the clinical trial described in question 1g find that there is no difference in the effect of Pandastatin compared to Koalastatin in lowering cholesterol levels. They choose not to publish their study because they do not think the public will be interested in learning that there are no differences between the two drugs. What type of bias is described here?
+    A) Analytic bias
+    B) Publication bias
+    C) Confounding
+    D) Media bias
+    E) Exclusion bias
+    F) Clinical susceptibility bias
+
+[STIMULUS] Please reference ARTICLE A, "Associations Among School Absenteeism, Gastrointestinal and Respiratory Illness, and Income — United States, 2010–2016" to answer the following questions (9-15).
+
+9. [mcq, 2 pt] What type of epidemiological study is described in this article?
+    A) Case-control
+    B) Prospective cohort
+    C) Retrospective cohort
+    D) Cross-sectional
+    E) Randomized control trial
+
+10. [mcq, 2 pt] Were children from lower income households more or less likely to miss school in the last year compared to children from higher income households?
+    A) More likely
+    B) Less likely
+
+11. [mcq, 2 pt] Did children from higher income households have a higher or lower prevalence of respiratory illness in the two weeks preceding the survey compared to children from lower income households?
+    A) Higher prevalence
+    B) Lower prevalence
+
+12. [mcq, 2 pt] Based on the study design, is it possible to prove from the study in Article A that lower household income causes increased incidence of gastrointestinal illness?
+    A) Possible
+    B) Not possible
+
+13. [frq, 3 pt] Based on your answer for question 12, please explain why it is possible OR not possible to prove that lower household income causes increased incidence of gastrointestinal illness.
+
+14. [frq, 4 pt] Please suggest TWO public health interventions that could reduce the rates of gastrointestinal or respiratory illness in children from lower income households.
+
+15. [frq, 4 pt] Please suggest TWO public health interventions that could reduce the rates of school absenteeism (missing school) in children from lower income households.
+
+[STIMULUS] Please reference the following information for Questions 16-23.
+
+Noroviruses are the leading cause of foodborne disease outbreaks worldwide, specifically epidemic gastroenteritis. Although new variants emerge every 2 - 4 years, it is difficult to determine which epidemiological triad characteristics contribute most to severe outcomes during outbreaks. Of particular interest are the genogroup II type 4 (GII.4) noroviruses, which constitute the predominant class of noroviruses associated with foodborne illness. To understand which characteristics are most relevant for public health interventions, you analyze outbreaks occurring in the United States from 2009 - 2016.
+
+You assemble the following data for your analysis:
+    [IMAGE: ../images/2021_mit_c__p7_ced591-09a6e6c2.webp]
+    [IMAGE: ../images/2021_mit_c__p7_9dcd7a-52e87e1e.webp]
+
+16. [frq, 4 pt] Using Figure 1A, compare and contrast the mechanisms of transmission for GII.4 and non-GII.4 noroviruses.
+
+17. [frq, 2 pt] Using Figure 1B, compare and contrast the environments of transmission for GII.4 and non-GII.4 noroviruses.
+
+18. [frq, 4 pt] In Figure 2, what do the rate ratios of each predictor represent? (Hint: It may be helpful to write a simple expression indicating how to calculate rate ratio.) Interpret the rate ratio in Figure 2 for GII.4 and healthcare settings.
+
+19. [frq, 4 pt] Identify one source of bias in the reported association of healthcare settings with hospitalizations and mortality for norovirus outbreaks.
+
+20. [frq, 4 pt] The normal season for norovirus outbreak is generally during the November - April timeframe. Are the rate ratios for hospitalizations and mortality significant during this timeframe? Propose why or why not.
+
+21. [frq, 6 pt] Based on the provided data, propose one intervention strategy to selectively combat GII.4 noroviruses by addressing any element of the epidemiological triad. Be sure to define how and why your intervention strategy addresses the chosen triad element, using evidence in the Figures to support your proposal.
+
+22. [frq, 6 pt] Based on the provided data, propose one intervention strategy to selectively combat non-GII.4 noroviruses by addressing any element of the epidemiological triad. Be sure to define how and why your intervention strategy addresses the chosen triad element, using evidence in the Figures to support your proposal.
+
+23. [frq, 4 pt] Your friend wishes to perform a similar study on a global scale, in which they will conduct a meta-analysis of 1000 studies on norovirus outbreaks from 50 countries. While you are excited to see whether they replicate your results, you worry the meta-analysis may suffer from a source of bias. What type of bias are you concerned about, and why?
+
+[STIMULUS] Please reference ARTICLE B "Preventing COVID-19 Outbreaks in Long-Term Care Facilities Through Preemptive Testing of Residents and Staff Members" to answer the following questions (24-30).
+
+24. [mcq, 2 pt] According to the article, did a higher or lower proportion of COVID-19 related deaths occur in long-term care facility (LTCF) residents compared to the general population in Fulton County, Georgia?
+    A) Higher proportion
+    B) Lower proportion
+
+25. [mcq, 2 pt] What was the case fatality rate among the 985 persons, including both LTCF residents and staff, who tested COVID-19 positive in this study?
+    A) 8.7%
+    B) 11.5%
+    C) 17.6%
+    D) 50.6%
+    E) 96.3%
+
+26. [frq, 8 pt] List FOUR features of LTCF residents which may increase their risk for morbidity and mortality from COVID-19 infection compared to the general population.
+
+27. [mcq, 2 pt] How did this study identify CONFIRMED cases of COVID-19 in LTCF residents and staff?
+    A) A confirmed non-masked interaction from less than 6 feet away for greater than 10 minutes with a COVID-19 positive individual
+    B) A thorough history and physical exam conducted by National Guard physicians
+    C) A positive result using RT-PCR (reverse transcription-polymerase chain reaction)
+    D) A serum ferritin level 5 times the normal value
+    E) A chest X-ray demonstrating bilateral interstitial opacities characteristic of COVID-19 pneumonia
+    F) A CT scan of the chest demonstrating bilateral interstitial opacities characteristic of COVID-19 pneumonia
+
+28. [mcq, 2 pt] At the time of initial testing for COVID-19 in LTCF residents, was prevalence of COVID-19 found to be higher in the "response" group or "preventative" group?
+    A) Response group
+    B) Preventative group
+
+29. [frq, 6 pt] Please suggest THREE reasons for why the LTCF group you identified in Question 28 ("response" group or "preventative" group) may have had a higher prevalence of COVID-19 at time of initial testing.
+
+30. [mcq, 2 pt] Given an ɑ-value (alpha) of 0.05, how would you interpret the following statement from the article? "Among staff members, prevalence at initial testing was 7.4% in the response group and 1.0% in the preventive group (p<0.01)."
+    A) The authors can conclude with 99.9% confidence that the response group staff members had a higher prevalence of COVID-19 at initial testing compared to the preventative group staff.
+    B) The study has statistical power of 95% in concluding a difference between COVID-19 infection rates at initial testing among LTCF staff members.
+    C) Staff members from the response group LTCFs were statistically more likely to become infected with COVID-19 than residents of preventative group LTCFs.
+    D) There is no statistically significant difference in the prevalence of COVID-19 at initial testing between staff members of the response and preventative groups.
+    E) The authors can conclude with 95% confidence that the response group staff members had a higher prevalence of COVID-19 at initial testing compared to the preventative group staff.
+
+[STIMULUS] Please evaluate whether the following statements 31-39 are "TRUE" or "FALSE."
+
+31. [tf, 1 pt] During epidemics, larger cities or states always have a higher incidence of cases due to having larger populations.
+    A) True
+    B) False
+
+32. [tf, 1 pt] For something to be considered a fomite, the infectious agent must complete a phase of its life cycle while associated with it.
+    A) True
+    B) False
+
+33. [tf, 1 pt] Wearing masks to prevent transmission of respiratory viral infections is considered a form of primary prevention.
+    A) True
+    B) False
+
+34. [tf, 1 pt] In active public health surveillance, healthcare providers such as primary care doctors are tasked with reporting new cases of diseases or conditions of interest as they are diagnosed.
+    A) True
+    B) False
+
+35. [tf, 1 pt] Infectivity refers to the capacity of an agent to cause infection in susceptible hosts.
+    A) True
+    B) False
+
+36. [tf, 1 pt] Case-control and case series studies are unable to report on disease incidence or prevalence.
+    A) True
+    B) False
+
+37. [tf, 1 pt] Patients experiencing "subclinical" effects of a disease or condition exhibit only very mild symptoms.
+    A) True
+    B) False
+
+38. [tf, 1 pt] Enteric flora (bacteria living endemically in a healthy patient's gastrointestinal tract) can cause serious infections.
+    A) True
+    B) False
+
+39. [tf, 1 pt] Screening tests can appear to improve survival via lead-time bias, where increased screening identifies patients with slowly progressive or indolent disease courses.
+    A) True
+    B) False
+
+[STIMULUS] The following questions (40-50) are related to breast cancer research and describe the B-REAST study. Please reference the included graph (not from the B-REAST trial) below as needed.
+
+**Figure 1: Breast cancer (C50), Average Number of New Cases per Year and Age-Specific Incidence Rates per 100,000 Females, UK, 2015-2017**
+    [IMAGE: ../images/2021_mit_c__p11_c0639a-d9d664a1.webp]
+
+40. [mcq, 2 pt] An international group of researchers are planning a large-scale study, the B-REAST Study, to investigate risk factors for the development of breast cancer. They plan to enroll a total of 200,000 women not previously diagnosed with breast cancer from ten different countries (approx 20,000 patients per country) at age 40. They plan to interview the study participants every 6 months regarding their health factors and outcomes, including diagnosis and treatments of breast cancer. They plan for a follow-up period of 20 years. What type of epidemiological study is this?
+    A) Multi-center randomized control trial
+    B) Nested case-control study
+    C) Retrospective case control study
+    D) Multi-center case series
+    E) Serial survey study
+    F) Cohort study
+
+41. [frq, 4 pt] Please identify TWO advantages of B-REAST study as described due to participation by researchers and patients from multiple countries.
+
+42. [frq, 6 pt] Please identify THREE potential sources of bias which may take place in the B-REAST study due to participation by researchers and patients from multiple countries.
+
+43. [mcq, 3 pt] According to the information provided, approximately what percentage of breast cancer incidence per year occurs after age 80 and above in the UK?
+    A) 5%
+    B) 15%
+    C) 30%
+    D) 50%
+    E) 80%
+    F) 100%
+
+44. [mcq, 2 pt] According to the information provided, which age group of women in the UK demonstrates the highest incidence per 100,000 of breast cancer?
+    A) 30-34 years old
+    B) 50-54 years old
+    C) 55-59 years old
+    D) 60-64 years old
+    E) 65-69 years old
+    F) 70-74 years old
+
+45. [frq, 8 pt] Please identify FOUR additional sources of bias which may take place in the B-REAST study.
+
+46. [frq, 10 pt] Suppose at Year 10 of the study, the following data has been collected. At this time, the women in the study are approximately 50 years old. Please calculate the relative risk for each of the patient factors listed (history of radiation exposure, breastfeeding, nulliparity, pet ownership, and BRCA1/BRCA2 mutation). Please round to the nearest 0.01.
+    
+    Total women surveyed at 10 year follow-up: 170,057
+    Total cases of breast cancer: 330
+    
+    | | Breast cancer | No breast cancer |
+    |---|---|---|
+    | History of radiation exposure | 7 | 1150 |
+    | Breastfeeding | 180 | 101,580 |
+    | Nulliparity | 58 | 21085 |
+    | Pet ownership | 172 | 88463 |
+    | BRCA1/BRCA2 mutation | 10 | 950 |
+
+47. [mcq, 2 pt] At which of the following levels of relative risk would a patient factor be considered "protective"?
+    A) -1
+    B) 0.5
+    C) 1
+    D) 2
+    E) 4
+
+48. [mcq, 2 pt] Which of the following patient factors would be considered "protective"?
+    A) Radiation exposure
+    B) Breastfeeding
+    C) Nulliparity
+    D) Pet ownership
+    E) BRCA1/BRCA2 mutation
+
+49. [frq, 4 pt] In 1-2 sentences, please interpret the calculated relative risk of the patient factor, "pet ownership." How does owning pets affect a woman's risk for breast cancer?
+
+50. [frq, 6 pt] Please suggest THREE reasons for the total number of women surveyed at the 10-year mark of the B-REAST trial being less than the initial enrollment target of 200,000 women.
+
+[STIMULUS] Please reference the information provided below to answer the following questions (51-57).
+
+Selection bias can occur in cohort studies due to sample selection that does not accurately reflect the target population, resulting in distorted measures of association (e.g. risk ratio). One mechanism by which this may happen is via participant dropout over the course of a study.
+
+To investigate whether differential dropout and non-differential dropout between groups lead to different extents of selection bias, you conduct a study examining the difference in quality of life of patients with chronic kidney disease undergoing an experimental treatment. Note that the dropout rates for quality of life were 64% for the control arm and 70% for the experimental arm.
+
+Following this study, you average a series of multiply imputed datasets to create a new, complete dataset with no missing outcome data. To examine the effect of dropout rate on selection bias, you delete observations in the full dataset to create datasets with partially missing data. The results are presented in the table below. Mixed model, complete case, mean imputation, and last observation carried forward are methods of estimating treatment effects in epidemiological data. Mixed models allow for both fixed and random effects.
+    [IMAGE: ../images/2021_mit_c__p14_9a06c0-7136df83.webp]
+
+51. [frq, 4 pt] What can you conclude about the effects of differential and non-differential dropout rate on selection bias? Support your answer with evidence from the table.
+
+52. [frq, 4 pt] Why does the mixed model analysis result in the least bias across all methods of analysis? (Hint: What types of data are mixed models most useful for analyzing?)
+
+53. [frq, 4 pt] What are the null and alternative hypotheses used in the table?
+
+[STIMULUS] In addition to differential and non-differential dropout rates, you are interested in the effects of dropout at random and dropout not at random.
+
+54. [frq, 4 pt] What is the difference between dropout at random and dropout not at random?
+
+[STIMULUS] The following figure presents the quality of life of patients in the control and experimental arms stratified by time point (x-axis) and dropout time (different markers/lines).
+    [IMAGE: ../images/2021_mit_c__p15_d4992b-adf006c7.webp]
+
+55. [frq, 6 pt] Based on the above data, are participants dropping out of the study at random in the control arm? If not, what characteristics are associated with dropping out? Support your answer with evidence.
+
+56. [frq, 6 pt] Based on the above data, are participants dropping out of the study at random in the experimental arm? If not, what characteristics are associated with dropping out? Support your answer with evidence.
+
+57. [frq, 6 pt] Other than the graphical method presented above, propose one other method for analyzing whether dropout is occurring at random in a study.
+
+[STIMULUS] Please reference the following information for Questions 58-61.
+
+Having recently finished your Masters in Public Health (MPH) under the direction of Dr. Anthony Fauci, you are ready to put your epidemiological knowledge into practice at the Public Health Department of Massachusetts!
+
+On your first day at the job, you receive notice from your supervisor regarding an increase in hospitalizations of a relatively uncommon disease (denoted by "X"). Out of a population of 7 million people, the State generally observed 750 cases per month of X, but the State received 20,000 hospitalizations of X in the past two weeks alone.
+
+58. [frq, 8 pt] Your supervisor postulates that an outbreak of a certain pathogen is responsible for the increase in cases. What are **three** possible alternative explanations for the uptick in cases? How would you rule out these alternatives to confirm an outbreak?
+    [IMAGE: ../images/2021_mit_c__p15_d4992b-adf006c7.webp]
+
+59. [frq, 6 pt] List and describe **three** strategies to generate hypotheses regarding the source of the outbreak of X.
+    [IMAGE: ../images/2021_mit_c__p15_d4992b-adf006c7.webp]
+
+60. [frq, 6 pt] You believe that a bacterial pathogen is responsible for X, and that the transmission route is fecal-oral. Describe three diagnostic tests you could use to determine the specific bacterial pathogen responsible for X.
+    [IMAGE: ../images/2021_mit_c__p15_d4992b-adf006c7.webp]
+
+61. [frq, 4 pt] What type of case definition is best for analyzing this outbreak? Explain your answer.
+    [IMAGE: ../images/2021_mit_c__p15_d4992b-adf006c7.webp]
+
+[STIMULUS] Please reference the following graph for questions 62-64.
+
+**Distant metastasis-free survival (DMFS) in melanoma patients randomized to active surveillance of melanoma vs. complete lymph node dissection (CLND)**
+    [IMAGE: ../images/2021_mit_c__p16_3f884e-1d6bac9e.webp]
+
+62. [mcq, 2 pt] What type of study is most likely to have generated the above graph?
+    A) Cross-sectional study
+    B) Case series
+    C) Case-control study
+    D) Case-cohort study
+    E) Randomized control trial
+    F) Randomized cohort study
+
+63. [mcq, 2 pt] What type of graph is this?
+    A) ANOVA graph
+    B) Epidemic curve
+    C) Kaplan-Meier survivorship curve
+    D) Multivariate logistic regression curve
+    E) Randomized control trial survivor graph
+    F) Melanoma mortality curve
+
+[STIMULUS] Please reference ARTICLE C, "Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients with COVID-19" to answer questions 65-71. Please note that the text included is the ABSTRACT only of the paper, which is all you will need to answer these questions.
+
+65. [mcq, 2 pt] How was "critical illness" defined in this study?
+    A) Any patient with respiratory distress requiring invasive ventilation during the COVID-19 pandemic in China
+    B) Patients with ICU admission, requirement for invasive ventilation, AND/OR death related to COVID-19
+    C) Patients with ICU admission AND death related to COVID-19 only
+    D) Any patient with respiratory distress requiring intensive care unit (ICU) admission during the COVID-19 pandemic in China
+    E) Patients with ICU admission AND requirement for invasive ventilation related to COVID-19 only
+    F) Any patient whose death was likely related to COVID-19 in China as of January 31, 2020
+
+66. [frq, 8 pt] Please suggest FOUR potential healthcare or public health uses of the risk score developed by the authors in ARTICLE C.
+
+67. [frq, 4 pt] Please suggest TWO reasons why the authors of ARTICLE C might have chosen to use a "composite measure" to define critical illness in the study.
+
+70. [mcq, 2 pt] According to ARTICLE C, what is the odds ratio for critical illness conferred by a patient's history of cancer?
+    A) -2.15
+    B) 0.11
+    C) 1.23
+    D) 4.07
+    E) 4.80
+    F) 13.43
+
+71. [frq, 4 pt] ARTICLE C states that "Data from 4 additional cohorts in China hospitalized with COVID-19 were used to validate the score." What is the purpose of clinical risk score validation? Please limit your explanation to 1-3 sentences.
+
+[STIMULUS] For questions 72-77, please choose the answer choice which best matches the given scenario.
+
+72. [mcq, 2 pt] A cook at the local burger restaurant, MooBurger, does not practice appropriate hand hygiene after experiencing multiple episodes of diarrhea the night before on Sunday. That week, 22 customers who ate at MooBurger on Monday experience abdominal pain and diarrhea.
+    A) Dose-response relationship
+    B) Point source outbreak
+    C) Propagated source outbreak
+    D) Intermittent source outbeak
+    E) Strength of association
+    F) Idiopathic disease
+
+73. [mcq, 2 pt] Early symptoms of HIV infection are non-specific and include flu-like symptoms, fever, rash, muscle aches, malaise, and lymphadenopathy.
+    A) Prodrome
+    B) Incubation period
+    C) Virulence
+    D) Infectivity
+    E) Latent period
+    F) Pathogenicity
+
+74. [mcq, 2 pt] A team of epidemiologists decide to study the effect of environmental factors on the rate of Major Depressive Disorder in 10 similarly-sized US cities. As part of their research, they investigate what percentage of households derive their drinking water from underground wells.
+    A) Cross sectional study
+    B) Randomized control trial
+    C) Intermittent source outbreak
+    D) Continuous common source outbreak
+    E) Case series
+    F) Ecological study
+
+75. [mcq, 2 pt] Lymphangioma typically develops approximately 10+ years after patients receive radiation as part of their treatment for invasive breast cancer. The development of lymphangioma is not changed in patients with breast cancer who never received radiation compared to the general population.
+    A) Virulence
+    B) Pathogenicitiy
+    C) Temporality
+    D) Idiopathic disease
+    E) Dose-response relationship
+    F) Random effects
+
+76. [mcq, 2 pt] The majority of cases of gastroparesis are due to unknown causes. The second most common cause of gastroparesis is diabetes mellitus.
+    A) Iatrogenic disease
+    B) Idiopathic disease
+    C) Strength of association
+    D) Environmental disease
+    E) Endemic disease
+    F) Coherence
+
+77. [mcq, 2 pt] Patients typically experience symptoms of COVID-19 approximately 5 days after an infectious exposure.
+    A) Side effects
+    B) Prodrome
+    C) Characteristic symptomology
+    D) Classic symptomology
+    E) Incubation period
+    F) Medical complications
